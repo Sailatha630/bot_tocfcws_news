@@ -4,31 +4,32 @@ using HtmlAgilityPack;
 using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Auth;
 using Microsoft.WindowsAzure.Storage.Blob;
-using System.Configuration;
+using System.Linq;
+using static System.Configuration.ConfigurationManager;
 
-namespace scratch
+namespace tocfcws
 {
     public class Tocfcws
     {
         private static void Main(string[] args)
         {
-            const string urlAddress = @"http://www.chelseafc.com/news/latest-news.html";
+            var urlAddress = AppSettings["url"];
             var listOfArticles = GetData(urlAddress);
-            var salt = ConfigurationManager.AppSettings["salt"];
-            var containerReference = ConfigurationManager.AppSettings["containerReference"];
-            var accountName = ConfigurationManager.AppSettings["accountName"];
-            var accountKey = ConfigurationManager.AppSettings["accountKey"];
-            var consumerKey = ConfigurationManager.AppSettings["consumerKey"];
-            var consumerKeySecret = ConfigurationManager.AppSettings["consumerKeySecret"];
-            var accessToken = ConfigurationManager.AppSettings["accessToken"];
-            var accessTokenSecret = ConfigurationManager.AppSettings["accessTokenSecret"];
-            var truncateAmount = ConfigurationManager.AppSettings["truncateAmount"];
+            var salt = AppSettings["salt"];
+            var containerReference = AppSettings["containerReference"];
+            var accountName = AppSettings["accountName"];
+            var accountKey = AppSettings["accountKey"];
+            var consumerKey = AppSettings["consumerKey"];
+            var consumerKeySecret = AppSettings["consumerKeySecret"];
+            var accessToken = AppSettings["accessToken"];
+            var accessTokenSecret = AppSettings["accessTokenSecret"];
+            var truncateAmount = AppSettings["truncateAmount"];
             var twitter = new TwitterApi(consumerKey, consumerKeySecret, accessToken, accessTokenSecret);
             var account = new CloudStorageAccount(new StorageCredentials(accountName, accountKey), true);
             var blobClient = account.CreateCloudBlobClient();
             var container = blobClient.GetContainerReference(containerReference);
             container.CreateIfNotExists();
-            
+
             foreach (var article in listOfArticles)
             {
                 var combineTitleAndText = article.Title + ":- " + article.Text;
@@ -42,16 +43,32 @@ namespace scratch
                 blob.GetSharedAccessSignature(new SharedAccessBlobPolicy()
                 {
                     Permissions = SharedAccessBlobPermissions.Write | SharedAccessBlobPermissions.Delete,
-                    SharedAccessExpiryTime = DateTime.UtcNow.AddMinutes(Convert.ToDouble(ConfigurationManager.AppSettings["SharedAccessSignatureExpiryTimeOffset"]))
+                    SharedAccessExpiryTime =
+                        DateTime.UtcNow.AddMinutes(
+                            Convert.ToDouble(AppSettings["SharedAccessSignatureExpiryTimeOffset"]))
                 });
 
                 if (blob.Exists()) continue;
                 Console.WriteLine(message + " " + hash);
-                var response = twitter.Tweet("tocfcws: " + message);
-                Console.WriteLine("tweet :" + response.Result);
+                var response = twitter.Tweet("★: " + message);
+                Console.WriteLine("★ :" + response.Result);
                 blob.UploadText(message);
             }
+
             Console.WriteLine("---");
+
+            DeleteOldBlobs(container);
+        }
+
+        private static void DeleteOldBlobs(CloudBlobContainer container)
+        {
+            var blobs = container.ListBlobs("", true).OfType<CloudBlockBlob>().Where(b =>
+                b.Properties.LastModified != null &&
+                (DateTime.UtcNow.AddDays(-35) > b.Properties.LastModified.Value.DateTime)).ToList();
+            foreach (var blob in blobs)
+            {
+                blob.DeleteIfExists();
+            }
         }
 
         private static IEnumerable<ArticleDto> GetData(string urlAddress)
@@ -59,18 +76,17 @@ namespace scratch
             var listOfArticles = new List<ArticleDto>();
             var web = new HtmlWeb();
             var doc = web.Load(urlAddress);
-            var nodes = doc.DocumentNode.SelectNodes("//article");
+            var nodes = doc.DocumentNode.SelectNodes("//cfc-news-article-tile");
+
             foreach (var node in nodes)
             {
                 if (!node.HasChildNodes) continue;
-                var header = node.Element("a").ChildNodes["header"];
-                var articleDto = new ArticleDto
-                {
-                    Link = "https://www.chelseafc.com" + node.Element("a").Attributes["href"].Value.Trim(),
-                    Text = node.Element("a").ChildNodes["p"].InnerText.Trim(),
-                    Title = header.ChildNodes["h3"].InnerText.Trim()
-                };
-                Console.WriteLine("Article found: " + header.ChildNodes["h3"].InnerText.Trim());
+                var container = node.Element("a").ChildNodes["b"].ChildNodes["article"];
+                var link  = "https://www.chelseafc.com" + node.Element("a").Attributes["href"].Value.Trim();
+                var title = container.ChildNodes["div"].NextSibling.ChildNodes["h3"].InnerText.Trim();
+                var text  = container.ChildNodes["div"].NextSibling.ChildNodes["p"].InnerText.Trim();
+                var articleDto = new ArticleDto { Link = link, Text = text, Title = title };
+                Console.WriteLine("Article found: " + title);
                 listOfArticles.Add(articleDto);
             }
 
