@@ -32,7 +32,7 @@ class article:
 
 
 def get_news(num):
-    endpoint = ( "https://prod-content-cdn.chelseafc.com/content/chelseafc/en.newsfeed.v3.0.9.2020.0.all.web.none.order_date_desc.json")
+    endpoint = ( (os.getenv('json_url') )
     response = get(endpoint, timeout=10)
     articles = list()
     if response.status_code >= 400:

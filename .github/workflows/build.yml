@@ -32,5 +32,6 @@ jobs:
         a_secret:  ${{ secrets.TW_ACCESS_SECRET }}
         tweet:  ${{ secrets.TW_FLAG }}
         window:  ${{ secrets.TW_WINDOW }}
+        json_url:  ${{ secrets.JSON_URL }}
       run: |-
         python 'python/tocfcws.py'
