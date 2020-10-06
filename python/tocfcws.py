@@ -18,10 +18,9 @@ api = tweepy.API(auth)
 
 def compare_time(timestamp):
     working_date = datetime.strftime(datetime.utcnow() - timedelta(minutes=5),"%Y-%m-%d %H:%M:%S") # 5 minutes ago
-    print(working_date, timestamp)
-    diff = datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S") - datetime.strptime(working_date, "%Y-%m-%d %H:%M:%S")
+    diff = datetime.strptime(working_date, "%Y-%m-%d %H:%M:%S") - datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S")
     minutes = int(round(int(diff.seconds) / 60, 0))
-    print("working Time =", minutes)
+    print("working Time =", minutes, working_date, timestamp)
     return minutes
 
 
