@@ -63,8 +63,10 @@ if __name__ == "__main__":
         print(output_builder)
         string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
         if(compare_time(article.timestamp) < 5):
-            if(tweet_on):
-                api.update_status(status = f"★ {output_builder}")
+            if(tweet_on == 'True'):
+                tweet_string = f"★ {output_builder}"
+                print("tweet length: ", len(tweet_string))
+                api.update_status(status = tweet_string)
     final_output = helper.replace_chunk(index_contents, "news_marker", f"<ul>\n{string_output}</ul>")
     index_page.open("w").write(final_output)
 
