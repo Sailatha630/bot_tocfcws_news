@@ -9,7 +9,8 @@ from requests import get
 import helper
 
 root = pathlib.Path(__file__).parent.parent.resolve()
-tweet_on = os.getenv('tweet')
+tweet_on = int(os.getenv('tweet'))
+tweet_window = int(os.getenv('window')) or 5
 minute_offset = 65
 
 auth = tweepy.OAuthHandler(os.getenv('c_key'), os.getenv('c_secret'))
@@ -62,8 +63,8 @@ if __name__ == "__main__":
         output_builder = f"{article.title} :- {article.url}"
         print(output_builder)
         string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
-        if(compare_time(article.timestamp) < 5):
-            if(tweet_on == 'True'):
+        if(compare_time(article.timestamp) < int(tweet_window):
+            if(tweet_on == 1):
                 tweet_string = f"★ {output_builder}"
                 print("tweet length: ", len(tweet_string))
                 api.update_status(status = tweet_string)
