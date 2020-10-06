@@ -59,9 +59,9 @@ if __name__ == "__main__":
     index_page = root / "index.html"
     index_contents = index_page.open().read()
     string_output = ''
-    for article in get_news(5):
+    for article in get_news(8):
         output_builder = f"{article.title} :- {article.url}"
-        print(output_builder)
+        print("★", article.title)
         string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
         if(compare_time(article.timestamp) < int(tweet_window)):
             if(tweet_on == 1):
