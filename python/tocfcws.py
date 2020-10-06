@@ -19,10 +19,7 @@ api = tweepy.API(auth)
 def compare_time(timestamp):
     working_date = datetime.strftime(datetime.utcnow() - timedelta(minutes=5),"%Y-%m-%d %H:%M:%S") # 5 minutes ago
     diff = datetime.strptime(working_date, "%Y-%m-%d %H:%M:%S") - datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S")
-    minutes = int(round(int(diff.seconds) / 60, 0))
-    print("working Time =", minutes, working_date, timestamp)
-    return minutes
-
+    return int(round(int(diff.seconds) / 60, 0))
 
 class article:
         def __init__(self, title, url, timestamp):
@@ -63,11 +60,11 @@ if __name__ == "__main__":
     string_output = ''
     for article in get_news(5):
         output_builder = f"{article.title} :- {article.url}"
-        string_output += f'<li><a href="{article.url}">{article.title}</a><small>{article.timestamp}</small></li>\n'
+        print(output_builder)
+        string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
         if(compare_time(article.timestamp) < 5):
-            print(output_builder)
             if(tweet_on):
-                api.update_status(status = f"★: {output_builder}")
+                api.update_status(status = f"★ {output_builder}")
     final_output = helper.replace_chunk(index_contents, "news_marker", f"<ul>\n{string_output}</ul>")
     index_page.open("w").write(final_output)
 
