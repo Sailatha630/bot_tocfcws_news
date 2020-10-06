@@ -32,7 +32,7 @@ class article:
 
 
 def get_news(num):
-    endpoint = ( (os.getenv('json_url') )
+    endpoint = ( os.getenv('json_url') )
     response = get(endpoint, timeout=10)
     articles = list()
     if response.status_code >= 400:
@@ -63,7 +63,7 @@ if __name__ == "__main__":
         output_builder = f"{article.title} :- {article.url}"
         print(output_builder)
         string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
-        if(compare_time(article.timestamp) < int(tweet_window):
+        if(compare_time(article.timestamp) < int(tweet_window)):
             if(tweet_on == 1):
                 tweet_string = f"★ {output_builder}"
                 print("tweet length: ", len(tweet_string))
