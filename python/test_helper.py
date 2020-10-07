@@ -14,10 +14,12 @@ class TestHelper(unittest.TestCase):
             # DO
             r = compare_time(timestamp)
             # THEN
-        self.assertGreaterEqual(mock_utcnow, datetime.datetime(2000,1,1,18,0,0))
+        self.assertGreaterEqual(
+            mock_utcnow, datetime.datetime(2000, 1, 1, 18, 0, 0))
         self.assertEqual(5, r)
-    
 
 
 if __name__ == '__main__':
     unittest.main()
+
+
