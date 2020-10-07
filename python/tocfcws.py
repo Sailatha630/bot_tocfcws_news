@@ -67,7 +67,7 @@ if __name__ == "__main__":
         if helper.compare_time(article.timestamp) < int(tweet_window):
             if tweet_on == 1:
                 tweet_string = f"★ {output_builder}"
-                print("tweet length: ", len(tweet_string))
+                print("tweet length: ", str(len(tweet_string)))
                 try:
                     api.update_status(status=tweet_string)
                 except:

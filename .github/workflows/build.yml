@@ -35,3 +35,10 @@ jobs:
         json_url:  ${{ secrets.JSON_URL }}
       run: |-
         python 'python/tocfcws.py'
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config --global user.email "news-generator-bot@example.com"
+        git config --global user.name "news-generator-bot"
+        git diff --quiet || (git add index.html && git commit -m "Updated index with latests news")
+        git push
