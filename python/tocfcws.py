@@ -68,7 +68,10 @@ if __name__ == "__main__":
             if tweet_on == 1:
                 tweet_string = f"★ {output_builder}"
                 print("tweet length: ", len(tweet_string))
-                api.update_status(status=tweet_string)
+                try:
+                    api.update_status(status=tweet_string)
+                except:
+                    print("Error", tweet_string)
     final_output = helper.replace_chunk(
         index_contents, "news_marker", f"<ul>\n{string_output}</ul>"
     )
