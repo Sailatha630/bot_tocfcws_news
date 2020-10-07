@@ -1,5 +1,6 @@
 import re
 import json
+import datetime
 
 # Replacer function
 def replace_chunk(content, marker, chunk):
@@ -22,3 +23,9 @@ def dtStylish(dt,f):
 def pprint(string):
     json_formatted_str = json.dumps(string, indent=2)
     print(json_formatted_str)
+
+
+def compare_time(timestamp):
+    working_date = datetime.datetime.strftime(datetime.datetime.utcnow() - datetime.timedelta(minutes=5),"%Y-%m-%d %H:%M:%S") # 5 minutes ago
+    diff = datetime.datetime.strptime(working_date, "%Y-%m-%d %H:%M:%S") - datetime.datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S")
+    return int(round(int(diff.seconds) / 60, 0))

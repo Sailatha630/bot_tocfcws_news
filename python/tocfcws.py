@@ -4,7 +4,6 @@ import json
 import pathlib
 import tweepy
 import datefinder
-from datetime import datetime, timedelta
 from requests import get
 import helper
 
@@ -16,11 +15,6 @@ minute_offset = 65
 auth = tweepy.OAuthHandler(os.getenv('c_key'), os.getenv('c_secret'))
 auth.set_access_token(os.getenv('a_token'), os.getenv('a_secret'))
 api = tweepy.API(auth)
-
-def compare_time(timestamp):
-    working_date = datetime.strftime(datetime.utcnow() - timedelta(minutes=5),"%Y-%m-%d %H:%M:%S") # 5 minutes ago
-    diff = datetime.strptime(working_date, "%Y-%m-%d %H:%M:%S") - datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S")
-    return int(round(int(diff.seconds) / 60, 0))
 
 class article:
         def __init__(self, title, url, timestamp):
