@@ -1,4 +1,4 @@
-from mock import mock
+import mock
 import unittest
 import datetime
 from helper import compare_time
