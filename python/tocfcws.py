@@ -62,7 +62,7 @@ if __name__ == "__main__":
     string_output = ""
     for article in get_news(8):
         output_builder = f"{article.title} :- {article.url}"
-        print("★", article.title)
+        print(f"★ {article.title} ({article.timestamp.strftime("%Y-%m-%d %H:%M:%S")})")
         string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
         if helper.compare_time(article.timestamp) < int(tweet_window):
             if tweet_on == 1:
