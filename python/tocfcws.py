@@ -33,6 +33,7 @@ class article:
 
 def get_news(num):
     endpoint = os.getenv("json_url")
+    print(endpoint)
     response = get(endpoint, timeout=20)
     articles = list()
     if response.status_code >= 400:
