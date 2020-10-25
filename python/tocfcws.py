@@ -15,7 +15,7 @@ auth.set_access_token(os.getenv("a_token"), os.getenv("a_secret"))
 api = tweepy.API(auth)
 
 with open( root / "news.json", 'r+') as filehandle:
-    data = json.load(filehandle)
+    old_keys = json.load(filehandle)
     new_data = helper.get_news(endpoint)
     articles_list = helper.get_articles(new_data)
     new_keys = []
@@ -33,7 +33,7 @@ if __name__ == "__main__":
         output_builder = f"{article.title} :- {article.url}"
         print(f"★ {article.title} ({article.timestamp})")
         string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
-        if(tweet_on == 1 and article.id not in data):
+        if(tweet_on == 1 and article.id not in old_keys):
             tweet_string = f"★ {output_builder}"
             print("tweet length: ", str(len(tweet_string)))
             try:
