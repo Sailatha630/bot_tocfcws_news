@@ -11,11 +11,14 @@ root = pathlib.Path(__file__).parent.parent.resolve()
 tweet_on = int(os.getenv("tweet"))
 tweet_window = int(os.getenv("window")) or 5
 minute_offset = 65
-
+endpoint = os.getenv("json_url")
 auth = tweepy.OAuthHandler(os.getenv("c_key"), os.getenv("c_secret"))
 auth.set_access_token(os.getenv("a_token"), os.getenv("a_secret"))
 api = tweepy.API(auth)
 
+print("___")
+print(endpoint)
+print("___")
 
 class article:
     def __init__(self, title, url, timestamp):
@@ -31,9 +34,7 @@ class article:
         return repr((self.title, self.url, self.timestamp))
 
 
-def get_news(num):
-    endpoint = os.getenv("json_url")
-    print(endpoint)
+def get_news(num, endpoint):
     response = get(endpoint, timeout=20)
     articles = list()
     if response.status_code >= 400:
@@ -61,7 +62,7 @@ if __name__ == "__main__":
     index_page = root / "index.html"
     index_contents = index_page.open().read()
     string_output = ""
-    for article in get_news(8):
+    for article in get_news(8, endpoint):
         output_builder = f"{article.title} :- {article.url}"
         print(f"★ {article.title} ({article.timestamp})")
         string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
