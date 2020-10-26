@@ -8,7 +8,7 @@ import article
 
 root = pathlib.Path(__file__).parent.parent.resolve()
 tweet_on = int(os.getenv("tweet") or 0)
-endpoint = os.getenv("json_url") or ""
+endpoint = os.getenv("json_url") or "https://prod-content-cdn.chelseafc.com/content/chelseafc/en.newsfeed.v3.0.9.2020.0.all.web.none.order_date_desc.json"
 
 auth = tweepy.OAuthHandler(os.getenv("c_key"), os.getenv("c_secret"))
 auth.set_access_token(os.getenv("a_token"), os.getenv("a_secret"))
