@@ -6,14 +6,15 @@ import tweepy
 import helper
 import article
 
+# setup
+root = pathlib.Path(__file__).parent.parent.resolve()
 auth = tweepy.OAuthHandler(os.getenv("c_key"), os.getenv("c_secret"))
 auth.set_access_token(os.getenv("a_token"), os.getenv("a_secret"))
 api = tweepy.API(auth)
-
-root = pathlib.Path(__file__).parent.parent.resolve()
-tweet_on = int(os.getenv("tweet") or 1)
+tweet_on = int(os.getenv("tweet") or 1) # master switch
 endpoint = os.getenv("json_url")
 
+# local or prod
 if(endpoint is None):
     with open( root / "example.json", 'r+') as filehandle:
         demo_data = json.load(filehandle)["newsFeed"]
@@ -22,7 +23,7 @@ else:
     new_data = helper.get_news(endpoint)
     articles_list = helper.get_articles(new_data)
 
-
+# Update the keys
 with open( root / "news.json", 'r+') as filehandle:
     old_keys = json.load(filehandle)
     new_keys = []
@@ -34,8 +35,6 @@ with open( root / "news.json", 'r+') as filehandle:
 
 # output
 if __name__ == "__main__":
-    index_page = root / "index.html"
-    index_contents = index_page.open().read()
     string_output = ""
     for article in articles_list:
         tweet_builder = f"★ {article.title} :- {article.url}"
@@ -47,6 +46,9 @@ if __name__ == "__main__":
                 print("Error: ", article.title)
         else:
             print("Else: ", article.title)
-        string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'    
+        string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
+    # update the index page
+    index_page = root / "index.html"
+    index_contents = index_page.open().read()
     final_output = helper.replace_chunk(index_contents, "news_marker", f"<ul>\n{string_output}</ul>")
     index_page.open("w").write(final_output)
