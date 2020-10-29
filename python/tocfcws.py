@@ -5,6 +5,7 @@ import pathlib
 import tweepy
 import helper
 import article
+import numpy as np
 
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
@@ -13,7 +14,6 @@ auth.set_access_token(os.getenv("a_token"), os.getenv("a_secret"))
 api = tweepy.API(auth)
 tweet_on = int(os.getenv("tweet") or 1) # master switch
 endpoint = os.getenv("json_url")
-
 # local or prod
 if(endpoint is None):
     with open( root / "example.json", 'r+') as filehandle:
@@ -26,12 +26,12 @@ else:
 # Update the keys
 with open( root / "news.json", 'r+') as filehandle:
     old_keys = json.load(filehandle)
-    new_keys = []
+    new_keys = list()
     for article in articles_list:
         new_keys.append(article.id)
-    total_keys = list(set(old_keys + new_keys))
+    saving_keys = sorted(np.unique(old_keys + new_keys))
     filehandle.seek(0)
-    json.dump(total_keys, filehandle, indent=4)
+    json.dump(saving_keys, filehandle, indent=4)
 
 # output
 if __name__ == "__main__":
