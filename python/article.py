@@ -11,3 +11,4 @@ class article:
 
     def __repr__(self):
         return repr(self.id, self.title, self.url, self.timestamp)
+    
