@@ -35,20 +35,21 @@ with open( root / "news.json", 'r+') as filehandle:
 
 # output
 if __name__ == "__main__":
-    string_output = ""
-    for article in articles_list:
-        tweet_builder = f"★ {article.title} :- {article.url}"
-        if(tweet_on == 1 and article.id not in old_keys):
-            try:
-                print(f"{tweet_builder} ({article.timestamp})")
-                api.update_status(status=tweet_builder)
-            except:
-                print("Error: ", article.title)
-        else:
-            print("Else: ", article.title)
+    if(tweet_on == 1):
+        string_output = ""
+        for article in articles_list:
+            tweet_builder = f"★ {article.title} :- {article.url}"
+            if(article.id not in old_keys):
+                try:
+                    print(f"{tweet_builder} ({article.timestamp})")
+                    api.update_status(status=tweet_builder)
+                except:
+                    print("Error: ", article.title)
         string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
-    # update the index page
-    index_page = root / "index.html"
-    index_contents = index_page.open().read()
-    final_output = helper.replace_chunk(index_contents, "news_marker", f"<ul>\n{string_output}</ul>")
-    index_page.open("w").write(final_output)
+        # update the index page
+        index_page = root / "index.html"
+        index_contents = index_page.open().read()
+        final_output = helper.replace_chunk(index_contents, "news_marker", f"<ul>\n{string_output}</ul>")
+        index_page.open("w").write(final_output)
+    else:
+        print("Tweet flag is set to off")

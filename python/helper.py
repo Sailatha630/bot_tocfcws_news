@@ -5,6 +5,7 @@ import article
 import os
 from requests import get
 import datefinder
+import hashlib
 
 # Replacer function
 def replace_chunk(content, marker, chunk):
@@ -54,7 +55,7 @@ def get_articles(data):
         link = data[i]["link"]["url"]
         title = data[i]["link"]["title"]
         time = data[i]["publishDate"]
-        id = data[i]['id']
+        id = hashlib.md5(f"{title}-{link}".encode('utf-8')).hexdigest()
         try:
             published_matches = list(datefinder.find_dates(time))
             if len(published_matches) > 0:
