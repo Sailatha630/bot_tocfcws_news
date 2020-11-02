@@ -33,6 +33,7 @@ jobs:
         tweet:  ${{ secrets.TW_FLAG }}
         json_url:  ${{ secrets.JSON_URL }}
       run: |-
+        python 'python/downloader.py'
         python 'python/tocfcws.py'
     - name: Commit and push changes
       run: |-

@@ -43,12 +43,6 @@ def compare_time(timestamp):
     return int(round(int(diff.seconds) / 60, 0))
 
 
-def get_news(endpoint):
-    response = get(endpoint, timeout=20)
-    if response.status_code >= 400:
-        raise RuntimeError(f"Request failed: { response.text }")
-    return response.json()["newsFeed"]
-
 def get_articles(data):
     articles = list()
     for i in range(0,len(data)):
