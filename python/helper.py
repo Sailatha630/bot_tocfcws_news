@@ -3,7 +3,6 @@ import json
 import datetime
 import article
 import os
-from requests import get
 import datefinder
 import hashlib
 

@@ -30,6 +30,7 @@ with open( root / "keys.json", 'r+') as filehandle:
 # output
 if __name__ == "__main__":
         string_output = ""
+        print("count of articles in list: ", len(articles_list))
         for article in articles_list:
             tweet_builder = f"★ {article.title} :- {article.url}"
             if(article.id not in old_keys):
