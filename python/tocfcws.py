@@ -12,7 +12,7 @@ root = pathlib.Path(__file__).parent.parent.resolve()
 auth = tweepy.OAuthHandler(os.getenv("c_key"), os.getenv("c_secret"))
 auth.set_access_token(os.getenv("a_token"), os.getenv("a_secret"))
 api = tweepy.API(auth)
-tweet_on = int(os.getenv("tweet") or 1) # master switch
+tweet_on = int(os.getenv("tweet") or 0) # master switch
 
 with open( root / "source.json", 'r+') as filehandle:
     news_data = json.load(filehandle)["newsFeed"]
