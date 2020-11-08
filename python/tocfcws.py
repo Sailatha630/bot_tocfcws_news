@@ -25,6 +25,7 @@ if __name__ == "__main__":
         print("count of articles in list: ", len(articles_list))
         outputs.rss_output('tocfcws.xml', articles_list)
         for article in articles_list:
+            print("★ ", article.title)
             string_output += f'<li><a href="{article.url}">{article.title}</a><br/><small>{article.timestamp}</small></li>\n'
         # update the index page
         index_page = root / "index.html"
