@@ -8,6 +8,54 @@
     },
     "newsFeed": [
         {
+            "contentType": "News",
+            "id": "_content_chelseafcennews20201108lampard--we-have-worked-on-set-p",
+            "type": "NewsCard",
+            "timestamp": "2020-11-09T04:52:00.000Z",
+            "orderDate": "2020-11-09T04:52:00.000Z",
+            "link": {
+                "path": "/content/chelseafc/en/news/2020/11/08/lampard--we-have-worked-on-set-pieces",
+                "type": "NewsCard",
+                "title": "Lampard: We have worked on set-pieces",
+                "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/08/lampard--we-have-worked-on-set-pieces.html",
+                "external": true,
+                "target": "sameWindow",
+                "categories": [],
+                "timestamp": "2020-11-09T04:52:00.000Z"
+            },
+            "template": "standard-article",
+            "path": "/content/chelseafc/en/news/2020/11/08/lampard--we-have-worked-on-set-pieces",
+            "media": {
+                "type": "image-component",
+                "image": {
+                    "type": "ImageCloudinary",
+                    "alt": "Thiago Silva goal",
+                    "id": "editorial/match-reports/2020-21/sheffield-utd-home/Thiago-Silva-goal-Sheffield-United-h",
+                    "gravity": "auto",
+                    "aspectRatio": 1.532258,
+                    "cropMode": "fill"
+                }
+            },
+            "content": "Lampard: We have worked on set-pieces",
+            "publishDate": "2020-11-09T04:52:00.000Z",
+            "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/08/lampard--we-have-worked-on-set-pieces.html",
+            "readTimeInMins": 8,
+            "tags": [
+                {
+                    "title": "Men",
+                    "namespace": "content-tag:",
+                    "id": "content-tag_team_men"
+                },
+                {
+                    "title": "Frank Lampard",
+                    "namespace": "content-tag:",
+                    "id": "content-tag_person_former-players_frank-lampard"
+                }
+            ],
+            "date": "2020-11-09T04:52:00.000Z",
+            "description": "Although Chelsea conceded a goal against Sheffield United from a corner in the weekend\u2019s Premier League fixture, the balance sheet still has the Blues in credit as two of our goals in the 4-1 win came from set-pieces."
+        },
+        {
             "contentType": "Analysis",
             "id": "_content_chelseafcennews20201108the-debrief--chelsea-vs-sheffiel",
             "type": "NewsCard",
@@ -499,55 +547,9 @@
             "date": "2020-11-07T21:30:00.000Z",
             "description": "Four goals for the Blues at Stamford Bridge secured a fourth consecutive victory in all competitions for Frank Lampard's in-form side. All the goals and key action can be viewed in the video now above.",
             "matchId": 2128358
-        },
-        {
-            "contentType": "Match Report",
-            "id": "_content_chelseafcennews20201107match-report--chelsea-vs-sheffie",
-            "type": "NewsCard",
-            "timestamp": "2020-11-07T19:30:00.000Z",
-            "orderDate": "2020-11-07T19:30:00.000Z",
-            "link": {
-                "path": "/content/chelseafc/en/news/2020/11/07/match-report--chelsea-vs-sheffield-united",
-                "type": "NewsCard",
-                "title": "Match Report: Chelsea 4 Sheffield United 1",
-                "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/07/match-report--chelsea-vs-sheffield-united.html",
-                "external": true,
-                "target": "sameWindow",
-                "categories": [],
-                "timestamp": "2020-11-07T19:30:00.000Z"
-            },
-            "template": "cope-article",
-            "path": "/content/chelseafc/en/news/2020/11/07/match-report--chelsea-vs-sheffield-united",
-            "media": {
-                "type": "image-component",
-                "image": {
-                    "type": "ImageCloudinary",
-                    "alt": "  ",
-                    "id": "editorial/match-reports/2020-21/sheffield-utd-home/Silva-Chilwell-celebrate-Sheffield-United-h",
-                    "gravity": "auto",
-                    "aspectRatio": 1.5,
-                    "cropMode": "fill"
-                }
-            },
-            "content": "Match Report: Chelsea 4 Sheffield United 1",
-            "publishDate": "2020-11-07T19:30:00.000Z",
-            "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/07/match-report--chelsea-vs-sheffield-united.html",
-            "readTimeInMins": 20,
-            "tags": [
-                {
-                    "title": "Premier League",
-                    "namespace": "content-tag:",
-                    "id": "content-tag_competition_first-team-competitions_premier-league"
-                },
-                {
-                    "title": "Men",
-                    "namespace": "content-tag:",
-                    "id": "content-tag_team_men"
-                }
-            ],
-            "date": "2020-11-07T19:30:00.000Z",
-            "description": "Chelsea head into the final international break of the year on a high following an impressive victory at Stamford Bridge that extends our unbeaten run to eight games in all competitions.",
-            "matchId": 2128358
+        }
+    ]
+}Id": 2128358
         }
     ]
 }
