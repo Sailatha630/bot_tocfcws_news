@@ -13,8 +13,9 @@ jobs:
     - name: Download Feed
       with:
         fetch-depth: 0
+    - name: Fetch latest data
       run: |-
-        curl https://prod-content-cdn.chelseafc.com/content/chelseafc/en.newsfeed.v3.0.10.2020.0.all.web.none.order_date_desc.json" jq . > source.json
+        curl "https://prod-content-cdn.chelseafc.com/content/chelseafc/en.newsfeed.v3.0.10.2020.0.all.web.none.order_date_desc.json"| jq . > source.json
     - name: Commit and push changes
       run: |-
         git diff
