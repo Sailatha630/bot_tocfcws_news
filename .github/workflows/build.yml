@@ -10,10 +10,9 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
-    - name: Download Feed
       with:
         fetch-depth: 0
-    - name: Fetch latest data
+    - name: Download Feed
       run: |-
         curl "https://prod-content-cdn.chelseafc.com/content/chelseafc/en.newsfeed.v3.0.10.2020.0.all.web.none.order_date_desc.json" | jq . > source.json
     - name: Commit and push changes
