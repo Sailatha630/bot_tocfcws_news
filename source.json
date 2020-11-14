@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20201114kante-and-werner-on-target-in-na",
+      "type": "NewsCard",
+      "timestamp": "2020-11-14T23:20:00.000Z",
+      "orderDate": "2020-11-14T23:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/14/kante-and-werner-on-target-in-nations-league",
+        "type": "NewsCard",
+        "title": "Kante and Werner on target in Nations League",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/14/kante-and-werner-on-target-in-nations-league.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-14T23:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/11/14/kante-and-werner-on-target-in-nations-league",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kante scoring for France",
+          "id": "editorial/news/2020/11/kante_france_portugal",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kante and Werner on target in Nations League",
+      "publishDate": "2020-11-14T23:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/14/kante-and-werner-on-target-in-nations-league.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        }
+      ],
+      "date": "2020-11-14T23:20:00.000Z",
+      "description": "N’Golo Kante was the unexpected match-winner for France against Portugal on Saturday night."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201114werner--i-m-getting-stronger-and",
       "type": "NewsCard",
@@ -446,59 +494,6 @@
       ],
       "date": "2020-11-13T16:46:00.000Z",
       "description": "Chelsea’s Under-18s will begin the new season's FA Youth Cup with a home tie against Barnsley."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20201113reece-james-discusses-a-good-eng",
-      "type": "NewsCard",
-      "timestamp": "2020-11-13T11:52:00.000Z",
-      "orderDate": "2020-11-13T11:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/13/reece-james-discusses-a-good-england-win-and-learning-from-mista",
-        "type": "NewsCard",
-        "title": "Reece James discusses a good England win and learning from mistakes",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/13/reece-james-discusses-a-good-england-win-and-learning-from-mista.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-13T11:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/13/reece-james-discusses-a-good-england-win-and-learning-from-mista",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Reece James",
-          "id": "editorial/news/2020/11/reece-james-ireland",
-          "gravity": "north",
-          "aspectRatio": 1.500303,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Reece James discusses a good England win and learning from mistakes",
-      "publishDate": "2020-11-13T11:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/13/reece-james-discusses-a-good-england-win-and-learning-from-mista.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2020-11-13T11:52:00.000Z",
-      "description": "Reece James put in another excellent showing for England in the Three Lions’ comfortable win over Ireland last night, and he is the first to admit what a shame it is he won’t be involved in the forthcoming UEFA Nations League fixtures because of suspension."
     }
   ]
 }
