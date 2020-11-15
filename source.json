@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20201115the-debrief--our-season-so-far",
+      "type": "NewsCard",
+      "timestamp": "2020-11-15T10:01:00.000Z",
+      "orderDate": "2020-11-15T10:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/15/the-debrief--our-season-so-far",
+        "type": "NewsCard",
+        "title": "The Debrief: Our season so far",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/15/the-debrief--our-season-so-far.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-15T10:01:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/11/15/the-debrief--our-season-so-far",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Debrief graphic",
+          "id": "editorial/news/2020/11/Debrief-so-far-main",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Our season so far",
+      "publishDate": "2020-11-15T10:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/15/the-debrief--our-season-so-far.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-11-15T10:01:00.000Z",
+      "description": "With the final international break of the year providing us with an opportunity to pause and reflect on club matters so far in 2020/21, we’ve taken a look at what the statistics say about Chelsea’s start to the season, as well as some other trends we’ve spotted…"
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20201114kante-and-werner-on-target-in-na",
       "type": "NewsCard",
@@ -445,55 +498,6 @@
       ],
       "date": "2020-11-13T12:51:00.000Z",
       "description": "To mark the release this week of a new box set containing some of Chelsea's most memorable trophy wins, we have a photo-based quiz for you to test your knowledge of our past triumphs."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews202011132020-21-fa-youth-cup-draw-made",
-      "type": "NewsCard",
-      "timestamp": "2020-11-13T16:46:00.000Z",
-      "orderDate": "2020-11-13T12:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/13/2020-21-fa-youth-cup-draw-made",
-        "type": "NewsCard",
-        "title": "Blues discover Youth Cup opponents",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/13/2020-21-fa-youth-cup-draw-made.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-13T16:46:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/13/2020-21-fa-youth-cup-draw-made",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Under-18s",
-          "id": "editorial/news/2020/11/Lewis-celebrations-youth-cup",
-          "gravity": "auto",
-          "aspectRatio": 1.500347,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Blues discover Youth Cup opponents",
-      "publishDate": "2020-11-13T16:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/13/2020-21-fa-youth-cup-draw-made.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "U18 - FA Youth Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
-        }
-      ],
-      "date": "2020-11-13T16:46:00.000Z",
-      "description": "Chelsea’s Under-18s will begin the new season's FA Youth Cup with a home tie against Barnsley."
     }
   ]
 }
