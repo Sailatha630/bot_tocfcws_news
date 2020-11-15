@@ -52,6 +52,51 @@
       "matchId": 2138404
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201115women-s-report--arsenal-1-chelse",
+      "type": "NewsCard",
+      "timestamp": "2020-11-15T16:40:00.000Z",
+      "orderDate": "2020-11-15T16:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/15/women-s-report--arsenal-1-chelsea-1",
+        "type": "NewsCard",
+        "title": "Women’s report: Arsenal 1 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/15/women-s-report--arsenal-1-chelsea-1.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-15T16:40:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2020/11/15/women-s-report--arsenal-1-chelsea-1",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Harder's cross that resulted in an own goal",
+          "id": "editorial/match-reports/2020-21/women-arsenal-away/Harder-GettyImages-1285798582",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Arsenal 1 Chelsea 1",
+      "publishDate": "2020-11-15T16:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/15/women-s-report--arsenal-1-chelsea-1.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2020-11-15T16:40:00.000Z",
+      "description": "A last-gasp own goal rescued a point for the Blues from this top-of-the-table clash in the Barclays Women’s Super League, extending our long unbeaten run in the competition to 27 matches.",
+      "matchId": 2138404
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201115the-debrief--our-season-so-far",
       "type": "NewsCard",
@@ -445,60 +490,6 @@
       ],
       "date": "2020-11-13T21:13:00.000Z",
       "description": "There were goals and assists for our Blues in action on the international stage this evening..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201113hayes-excited-for--feast-of-foot",
-      "type": "NewsCard",
-      "timestamp": "2020-11-13T15:37:00.000Z",
-      "orderDate": "2020-11-13T15:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/13/hayes-excited-for--feast-of-football-",
-        "type": "NewsCard",
-        "title": "Hayes excited for ‘feast of football’",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/13/hayes-excited-for--feast-of-football-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-13T15:37:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/13/hayes-excited-for--feast-of-football-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Hayes",
-          "id": "editorial/news/2020/11/Hayes_GettyImages-1285149840",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes excited for ‘feast of football’",
-      "publishDate": "2020-11-13T15:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/13/hayes-excited-for--feast-of-football-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2020-11-13T15:37:00.000Z",
-      "description": "Emma Hayes is looking forward to taking on Arsenal in a London derby during Women’s Football Weekend.",
-      "matchId": 2138404
     }
   ]
 }
