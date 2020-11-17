@@ -8,6 +8,83 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20201117pat-nevin--decision-dismay",
+      "type": "NewsCard",
+      "timestamp": "2020-11-17T11:46:00.000Z",
+      "orderDate": "2020-11-17T11:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/17/pat-nevin--decision-dismay",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Decision dismay",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/17/pat-nevin--decision-dismay.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-17T11:46:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2020/11/17/pat-nevin--decision-dismay",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Billy Gilmour in action for Scotland",
+          "id": "editorial/news/2020/11/billy_gilmour_scotland_2",
+          "gravity": "auto",
+          "aspectRatio": 1.9950062,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Decision dismay",
+      "publishDate": "2020-11-17T11:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/17/pat-nevin--decision-dismay.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Steve Clarke",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_steve-clarke"
+        },
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2020-11-17T11:46:00.000Z",
+      "description": "Despite the joy of seeing the flowering of Scotland under the control of his former team-mate and good friend Steve Clarke, it was not all good news or indeed good officiating during the international games according to Pat Nevin, who shares his views in this week’s column…"
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20201117internationals--uefa-nations-lea",
       "type": "NewsCard",
@@ -468,51 +545,6 @@
       ],
       "date": "2020-11-15T22:27:00.000Z",
       "description": "There were mixed fortunes for the Chelsea players on international duty, as an Edouard Mendy clean sheet gave Senegal the joy of qualification and Jorginho's penalty secured a vital Italy win, but there was disappointment for our England contingent."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20201115women-s-report--arsenal-1-chelse",
-      "type": "NewsCard",
-      "timestamp": "2020-11-15T16:40:00.000Z",
-      "orderDate": "2020-11-15T16:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/15/women-s-report--arsenal-1-chelsea-1",
-        "type": "NewsCard",
-        "title": "Women’s report: Arsenal 1 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/15/women-s-report--arsenal-1-chelsea-1.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-15T16:40:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2020/11/15/women-s-report--arsenal-1-chelsea-1",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Harder's cross that resulted in an own goal",
-          "id": "editorial/match-reports/2020-21/women-arsenal-away/Harder-GettyImages-1285798582",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Arsenal 1 Chelsea 1",
-      "publishDate": "2020-11-15T16:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/15/women-s-report--arsenal-1-chelsea-1.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2020-11-15T16:40:00.000Z",
-      "description": "A last-gasp own goal rescued a point for the Blues from this top-of-the-table clash in the Barclays Women’s Super League, extending our long unbeaten run in the competition to 27 matches.",
-      "matchId": 2138404
     }
   ]
 }
