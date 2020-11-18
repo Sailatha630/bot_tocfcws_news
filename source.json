@@ -8,6 +8,43 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20201118quiz--select-the-blues-by-nation",
+      "type": "NewsCard",
+      "timestamp": "2020-11-18T10:00:00.000Z",
+      "orderDate": "2020-11-18T10:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/18/quiz--select-the-blues-by-nationality-",
+        "type": "NewsCard",
+        "title": "International Blues Quiz: Identify the players by nationality!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/quiz--select-the-blues-by-nationality-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-18T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/18/quiz--select-the-blues-by-nationality-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "International quiz graphic",
+          "id": "editorial/news/2020/07/new-international-quiz-graphic-web-jpeg",
+          "gravity": "auto",
+          "aspectRatio": 1.7826798,
+          "cropMode": "fill"
+        }
+      },
+      "content": "International Blues Quiz: Identify the players by nationality!",
+      "publishDate": "2020-11-18T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/quiz--select-the-blues-by-nationality-.html",
+      "readTimeInMins": 4,
+      "tags": [],
+      "date": "2020-11-18T10:00:00.000Z",
+      "description": "With club football still on pause, for a few more days at least, we have a quiz for you to pass the time that focuses on Chelsea internationals past and present..."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20201118chelsea-women-v-london-city-lion",
       "type": "NewsCard",
@@ -482,49 +519,6 @@
       "tags": [],
       "date": "2020-11-16T15:05:00.000Z",
       "description": "It's the start of another busy week at Chelsea and here we have information on all the live streams we are bringing you in the next seven days, including two matches."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201116lampard-talks-responsibility-and",
-      "type": "NewsCard",
-      "timestamp": "2020-11-16T09:22:00.000Z",
-      "orderDate": "2020-11-16T09:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/16/lampard-talks-responsibility-and-respect",
-        "type": "NewsCard",
-        "title": "Lampard talks responsibility and respect",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/16/lampard-talks-responsibility-and-respect.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-16T09:22:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/16/lampard-talks-responsibility-and-respect",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Lampard",
-          "id": "editorial/news/2020/11/Lampard_GettyImages-1229491390",
-          "gravity": "auto",
-          "aspectRatio": 1.4272122,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard talks responsibility and respect",
-      "publishDate": "2020-11-16T09:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/16/lampard-talks-responsibility-and-respect.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-11-16T09:22:00.000Z",
-      "description": "Frank Lampard has discussed the key ingredients of his managerial philosophy and how he tries to create a winning mentality at Chelsea."
     }
   ]
 }
