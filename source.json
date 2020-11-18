@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201118efl-trophy-report--bristol-rover",
+      "type": "NewsCard",
+      "timestamp": "2020-11-18T20:15:00.000Z",
+      "orderDate": "2020-11-18T20:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/18/efl-trophy-report--bristol-rovers-chelsea",
+        "type": "NewsCard",
+        "title": "EFL Trophy report: Bristol Rovers 4 Chelsea 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/efl-trophy-report--bristol-rovers-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-18T20:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/18/efl-trophy-report--bristol-rovers-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Anjorin",
+          "id": "editorial/news/2020/11/Tino-Anjorin-goal-efl-trophy",
+          "gravity": "auto",
+          "aspectRatio": 1.5001805,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "EFL Trophy report: Bristol Rovers 4 Chelsea 3",
+      "publishDate": "2020-11-18T20:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/efl-trophy-report--bristol-rovers-chelsea.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2020-11-18T20:15:00.000Z",
+      "description": "There was a devastating defeat for our development squad in the final group game of this season's EFL Trophy at Bristol Rovers on Wednesday night."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201118chelsea-women-s-match-against-lo",
       "type": "NewsCard",
@@ -468,54 +517,6 @@
       ],
       "date": "2020-11-17T09:00:00.000Z",
       "description": "With the UEFA Nations League group phase drawing to a conclusion over the next couple of days, and other major tournament qualifiers continuing in Africa and South America, we look at the state of play in international football with Chelsea interest in mind."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201117youngster-combines-defending-wit",
-      "type": "NewsCard",
-      "timestamp": "2020-11-17T12:26:00.000Z",
-      "orderDate": "2020-11-17T00:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/17/youngster-combines-defending-with-diploma-after-completing-cours",
-        "type": "NewsCard",
-        "title": "Youngster combines defending with diploma after completing course in financial trading",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/17/youngster-combines-defending-with-diploma-after-completing-cours.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-17T12:26:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/17/youngster-combines-defending-with-diploma-after-completing-cours",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jack Wakely",
-          "id": "editorial/news/2020/11/jack-wakely-diploma",
-          "gravity": "auto",
-          "aspectRatio": 1.7414966,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Youngster combines defending with diploma after completing course in financial trading",
-      "publishDate": "2020-11-17T12:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/17/youngster-combines-defending-with-diploma-after-completing-cours.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2020-11-17T12:26:00.000Z",
-      "description": "We take a look at the off-field achievements of one Chelsea Academy youngster who is splitting his time between the field and the financial markets…"
     }
   ]
 }
