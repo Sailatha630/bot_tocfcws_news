@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201119lampard--protect-the-players--re",
+      "type": "NewsCard",
+      "timestamp": "2020-11-19T15:17:00.000Z",
+      "orderDate": "2020-11-19T15:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/19/lampard--protect-the-players--rethink-the-schedule",
+        "type": "NewsCard",
+        "title": "Lampard: Protect the players, rethink the schedule",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/19/lampard--protect-the-players--rethink-the-schedule.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-19T15:17:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/19/lampard--protect-the-players--rethink-the-schedule",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lampard coaching",
+          "id": "editorial/news/2020/11/Lampard_GettyImages-1229491390",
+          "gravity": "auto",
+          "aspectRatio": 1.4272122,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard: Protect the players, rethink the schedule",
+      "publishDate": "2020-11-19T15:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/19/lampard--protect-the-players--rethink-the-schedule.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-11-19T15:17:00.000Z",
+      "description": "As Chelsea prepare for our longest domestic trip of the season, Frank Lampard has been speaking about the increasingly busy schedule and how he thinks the demands on players can be eased...",
+      "matchId": 2128372
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201119frank-lampard-press-conference-t",
       "type": "NewsCard",
       "timestamp": "2020-11-19T14:15:00.000Z",
@@ -556,49 +610,6 @@
       ],
       "date": "2020-11-18T20:15:00.000Z",
       "description": "There was a devastating defeat for our development squad in the final group game of this season's EFL Trophy at Bristol Rovers on Wednesday night."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201118chelsea-women-s-match-against-lo",
-      "type": "NewsCard",
-      "timestamp": "2020-11-18T17:45:00.000Z",
-      "orderDate": "2020-11-18T17:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/18/chelsea-women-s-match-against-london-city-lionesses-will-not-go-",
-        "type": "NewsCard",
-        "title": "Chelsea Women’s match against London City Lionesses is postponed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/chelsea-women-s-match-against-london-city-lionesses-will-not-go-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-18T17:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/18/chelsea-women-s-match-against-london-city-lionesses-will-not-go-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Corner flag",
-          "id": "chelsea-app/Kingsmeadow-view-1127824427",
-          "gravity": "auto",
-          "aspectRatio": 1.4575835,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women’s match against London City Lionesses is postponed",
-      "publishDate": "2020-11-18T17:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/chelsea-women-s-match-against-london-city-lionesses-will-not-go-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2020-11-18T17:45:00.000Z",
-      "description": "An important update about tonight's Chelsea Women's fixture..."
     }
   ]
 }
