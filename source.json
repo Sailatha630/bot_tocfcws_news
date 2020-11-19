@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201119frank-lampard-press-conference-t",
+      "type": "NewsCard",
+      "timestamp": "2020-11-19T14:15:00.000Z",
+      "orderDate": "2020-11-19T14:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/19/frank-lampard-press-conference-team-news-ahead-of-newcastle",
+        "type": "NewsCard",
+        "title": "Lampard provides update on early team news; three doubtful for Newcastle trip",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/19/frank-lampard-press-conference-team-news-ahead-of-newcastle.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-19T14:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/19/frank-lampard-press-conference-team-news-ahead-of-newcastle",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lampard press conference",
+          "id": "editorial/news/2020/11/Lampard-press-conference-pre-Sheffield-United-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard provides update on early team news; three doubtful for Newcastle trip",
+      "publishDate": "2020-11-19T14:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/19/frank-lampard-press-conference-team-news-ahead-of-newcastle.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2020-11-19T14:15:00.000Z",
+      "description": "News on the availability of Pulisic, Havertz, Chilwell and Thiago Silva...",
+      "matchId": 2128372
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20201119giles-smith--we-appear-to-have-g",
       "type": "NewsCard",
@@ -540,54 +599,6 @@
       ],
       "date": "2020-11-18T17:45:00.000Z",
       "description": "An important update about tonight's Chelsea Women's fixture..."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20201118hudson-odoi-reflects-on-a-positi",
-      "type": "NewsCard",
-      "timestamp": "2020-11-18T13:00:00.000Z",
-      "orderDate": "2020-11-18T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/18/hudson-odoi-reflects-on-a-positive-week-with-england-under-21s-a",
-        "type": "NewsCard",
-        "title": "Hudson-Odoi reflects on a positive week with England Under-21s and assesses Chelsea’s title aspirations",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/hudson-odoi-reflects-on-a-positive-week-with-england-under-21s-a.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-18T13:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/18/hudson-odoi-reflects-on-a-positive-week-with-england-under-21s-a",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hudson-Odoi",
-          "id": "editorial/news/2020/11/Callum-Hudson-Odoi-England-U21s",
-          "gravity": "north",
-          "aspectRatio": 1.2622564,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hudson-Odoi reflects on a positive week with England Under-21s and assesses Chelsea’s title aspirations",
-      "publishDate": "2020-11-18T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/hudson-odoi-reflects-on-a-positive-week-with-england-under-21s-a.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2020-11-18T13:00:00.000Z",
-      "description": "Callum Hudson-Odoi discusses action, assists and goals with the young Lions and the progress being made at club level..."
     }
   ]
 }
