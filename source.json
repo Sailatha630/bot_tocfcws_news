@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201120pre-match-briefing--chelsea-vs-n",
+      "type": "NewsCard",
+      "timestamp": "2020-11-20T04:30:00.000Z",
+      "orderDate": "2020-11-20T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/20/pre-match-briefing--chelsea-vs-newcastle",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Newcastle vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/20/pre-match-briefing--chelsea-vs-newcastle.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-20T04:30:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2020/11/20/pre-match-briefing--chelsea-vs-newcastle",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "St James' Park, Newcastle",
+          "id": "editorial/news/2020/11/st_james_park_newcastle_general_view",
+          "gravity": "auto",
+          "aspectRatio": 1.5102686,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Newcastle vs Chelsea",
+      "publishDate": "2020-11-20T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/20/pre-match-briefing--chelsea-vs-newcastle.html",
+      "readTimeInMins": 66,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2020-11-20T04:30:00.000Z",
+      "description": "The Premier League season is back and will now continue unbroken into midwinter. Club historian Rick Glanvill and club statistician Paul Dutton preview our return to action with the longest trip of all…",
+      "matchId": 2128372
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201119lampard--protect-the-players--re",
       "type": "NewsCard",
@@ -561,55 +615,6 @@
       ],
       "date": "2020-11-18T22:21:00.000Z",
       "description": "As the Nations League concluded, Mason Mount got on the scoresheet for England, Jorginho and Emerson helped Italy get the win they needed to qualify for the finals and Ethan Ampadu earned promotion with Wales."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20201118efl-trophy-report--bristol-rover",
-      "type": "NewsCard",
-      "timestamp": "2020-11-18T20:15:00.000Z",
-      "orderDate": "2020-11-18T20:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/18/efl-trophy-report--bristol-rovers-chelsea",
-        "type": "NewsCard",
-        "title": "EFL Trophy report: Bristol Rovers 4 Chelsea 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/efl-trophy-report--bristol-rovers-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-18T20:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/18/efl-trophy-report--bristol-rovers-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Anjorin",
-          "id": "editorial/news/2020/11/Tino-Anjorin-goal-efl-trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.5001805,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "EFL Trophy report: Bristol Rovers 4 Chelsea 3",
-      "publishDate": "2020-11-18T20:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/18/efl-trophy-report--bristol-rovers-chelsea.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2020-11-18T20:15:00.000Z",
-      "description": "There was a devastating defeat for our development squad in the final group game of this season's EFL Trophy at Bristol Rovers on Wednesday night."
     }
   ]
 }
