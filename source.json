@@ -62,6 +62,55 @@
       "matchId": 2128372
     },
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20201120pre-match-quiz--newcastle-united",
+      "type": "NewsCard",
+      "timestamp": "2020-11-20T09:58:00.000Z",
+      "orderDate": "2020-11-20T03:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/20/pre-match-quiz--newcastle-united-v-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Newcastle United v Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/20/pre-match-quiz--newcastle-united-v-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-20T09:58:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/20/pre-match-quiz--newcastle-united-v-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Abraham",
+          "id": "editorial/news/2020/11/Abraham_GettyImages-1200362513",
+          "gravity": "auto",
+          "aspectRatio": 1.5001405,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Newcastle United v Chelsea",
+      "publishDate": "2020-11-20T09:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/20/pre-match-quiz--newcastle-united-v-chelsea.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2020-11-20T09:58:00.000Z",
+      "description": "Do you know everything you need to ahead of our next match against Newcastle United? Find out with our quiz...",
+      "matchId": 2128372
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201120hayes-and-harder-up-for-november",
       "type": "NewsCard",
@@ -531,60 +580,6 @@
       ],
       "date": "2020-11-19T10:30:00.000Z",
       "description": "Chelsea legend Paul Canoville and our current star Callum Hudson-Odoi have met and talked about their experiences with racism in football, a discussion you can watch in an evocative and emotional video above."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201119watch-the-chelsea-development-sq",
-      "type": "NewsCard",
-      "timestamp": "2020-11-19T12:00:00.000Z",
-      "orderDate": "2020-11-19T01:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/19/watch-the-chelsea-development-squad-live-on-the-app-this-weekend",
-        "type": "NewsCard",
-        "title": "Watch the Chelsea development squad live on the app this weekend",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/19/watch-the-chelsea-development-squad-live-on-the-app-this-weekend.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-19T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/19/watch-the-chelsea-development-squad-live-on-the-app-this-weekend",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Celebrations",
-          "id": "editorial/news/2020/11/tino-Anjorin-celebreation-efl-trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.4997749,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Watch the Chelsea development squad live on the app this weekend",
-      "publishDate": "2020-11-19T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/19/watch-the-chelsea-development-squad-live-on-the-app-this-weekend.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2020-11-19T12:00:00.000Z",
-      "description": "Our development squad are back on the road as they take on Manchester City in their third consecutive Premier League 2 away trip on Sunday afternoon. You can watch the action live on the 5th Stand app or here on our official website from 1pm."
     }
   ]
 }
