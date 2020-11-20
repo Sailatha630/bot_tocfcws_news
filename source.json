@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201120lampard-hails-gilmour-s-potentia",
+      "type": "NewsCard",
+      "timestamp": "2020-11-20T22:30:00.000Z",
+      "orderDate": "2020-11-20T22:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/20/lampard-hails-gilmour-s-potential-and-confirms-involvement-in-pl",
+        "type": "NewsCard",
+        "title": "Lampard hails Gilmour’s potential and confirms involvement in PL2 this weekend; watch live on Sunday",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/20/lampard-hails-gilmour-s-potential-and-confirms-involvement-in-pl.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-20T22:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/20/lampard-hails-gilmour-s-potential-and-confirms-involvement-in-pl",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Gilmour",
+          "id": "editorial/news/2020/11/Gilmour-stock-November-2020",
+          "gravity": "north",
+          "aspectRatio": 1.0957278,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard hails Gilmour’s potential and confirms involvement in PL2 this weekend; watch live on Sunday",
+      "publishDate": "2020-11-20T22:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/20/lampard-hails-gilmour-s-potential-and-confirms-involvement-in-pl.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-11-20T22:30:00.000Z",
+      "description": "Billy Gilmour’s recovery from the knee injury that has kept him sidelined since July will continue with a runout for our development squad this weekend in a game being streamed live and for free on this website and the 5th Stand app.",
+      "matchId": 2128372
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201120gallery--take-a-look-at-who-trai",
       "type": "NewsCard",
       "timestamp": "2020-11-20T14:57:00.000Z",
@@ -513,65 +572,6 @@
       },
       "date": "2020-11-19T10:28:00.000Z",
       "description": "As a confirmed club-over-country man, columnist Giles Smith’s major interest in the international break has been whether Chelsea players remain available for this weekend’s Premier League return. He details his anxious wait here in his fan’s view of the week…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201119newcastle-vs-chelsea---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2020-11-19T07:00:00.000Z",
-      "orderDate": "2020-11-19T07:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/19/newcastle-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Newcastle vs Chelsea - the stats - tide to turn on the Toon?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/19/newcastle-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-19T07:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/19/newcastle-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kante at Newcastle last season",
-          "id": "editorial/news/2020/11/kante-newcastle-away-201920",
-          "gravity": "auto",
-          "aspectRatio": 1.577821,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Newcastle vs Chelsea - the stats - tide to turn on the Toon?",
-      "publishDate": "2020-11-19T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/19/newcastle-vs-chelsea---the-stats.html",
-      "readTimeInMins": 22,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2020-11-19T07:00:00.000Z",
-      "description": "It's something of a bogey ground for the Blues this weekend as we travel to Newcastle, and our preview of the game starts with a look at our record at St James' Park and all the other notable facts and figures...",
-      "matchId": 2128372
     }
   ]
 }
