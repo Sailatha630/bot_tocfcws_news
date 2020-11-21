@@ -8,6 +8,70 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20201121lampard-pleased-with-professiona",
+      "type": "NewsCard",
+      "timestamp": "2020-11-21T15:25:00.000Z",
+      "orderDate": "2020-11-21T15:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/21/lampard-pleased-with-professional-performance",
+        "type": "NewsCard",
+        "title": "Lampard pleased with professional performance",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/21/lampard-pleased-with-professional-performance.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-21T15:25:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/21/lampard-pleased-with-professional-performance",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Abraham and Lampard",
+          "id": "chelsea-app/Abraham-Lampard-GettyImages-1286865129",
+          "gravity": "auto",
+          "aspectRatio": 1.4995878,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard pleased with professional performance",
+      "publishDate": "2020-11-21T15:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/21/lampard-pleased-with-professional-performance.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2020-11-21T15:25:00.000Z",
+      "description": "Frank Lampard was impressed with the way his team controlled the game against Newcastle United, even if we could have won by a bigger margin.",
+      "matchId": 2128372
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20201121match-report--newcastle-united-v",
       "type": "NewsCard",
@@ -500,60 +564,6 @@
       ],
       "date": "2020-11-20T13:00:00.000Z",
       "description": "In a convoluted campaign affected by Covid-19 restrictions and congestion, Frank Lampard has been grateful for the recent rest afforded by the final international break of the year.",
-      "matchId": 2128372
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201120pre-match-briefing--chelsea-vs-n",
-      "type": "NewsCard",
-      "timestamp": "2020-11-20T04:30:00.000Z",
-      "orderDate": "2020-11-20T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/20/pre-match-briefing--chelsea-vs-newcastle",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Newcastle vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/20/pre-match-briefing--chelsea-vs-newcastle.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-20T04:30:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2020/11/20/pre-match-briefing--chelsea-vs-newcastle",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "St James' Park, Newcastle",
-          "id": "editorial/news/2020/11/st_james_park_newcastle_general_view",
-          "gravity": "auto",
-          "aspectRatio": 1.5102686,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Newcastle vs Chelsea",
-      "publishDate": "2020-11-20T04:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/20/pre-match-briefing--chelsea-vs-newcastle.html",
-      "readTimeInMins": 66,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2020-11-20T04:30:00.000Z",
-      "description": "The Premier League season is back and will now continue unbroken into midwinter. Club historian Rick Glanvill and club statistician Paul Dutton preview our return to action with the longest trip of all…",
       "matchId": 2128372
     }
   ]
