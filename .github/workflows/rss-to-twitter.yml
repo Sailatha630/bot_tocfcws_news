@@ -1,10 +1,20 @@
 name: RSS
 on:
-  workflow_dispatch:
-  schedule:
-    - cron:  '*/5 * * * *'
-
+  rss:
+    config:
+      every: '*/5 * * * *'
+    url: https://app.thechels.uk/tocfcws.xml
 jobs:
-  build:
+  print:
+    name: Print
     runs-on: ubuntu-latest
-    name: RSS
+    steps:
+      - name: Print Outputs
+        env:
+          title: ${{on.rss.outputs.title}}
+          contentSnippet: ${{on.rss.outputs.contentSnippet}}
+          link: ${{on.rss.outputs.link}}
+        run: |
+          echo title: $title
+          echo contentSnippet: $contentSnippet
+          echo link: $link
