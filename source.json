@@ -164,6 +164,55 @@
       "matchId": 2128372
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201122pl2-report--man-city-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2020-11-22T14:45:00.000Z",
+      "orderDate": "2020-11-22T06:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/22/pl2-report--man-city-chelsea",
+        "type": "NewsCard",
+        "title": "PL2 report: Man City 2 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/22/pl2-report--man-city-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-22T14:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/11/22/pl2-report--man-city-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Cfcdev",
+          "id": "editorial/news/2020/11/cfcdev-man-city-celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Man City 2 Chelsea 2",
+      "publishDate": "2020-11-22T14:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/22/pl2-report--man-city-chelsea.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2020-11-22T14:45:00.000Z",
+      "description": "Goals from Billy Gilmour and Myles Peart-Harris earned our development squad a point in Premier League 2 on Sunday afternoon."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201122abraham--keeping-confident--keep",
       "type": "NewsCard",
@@ -531,60 +580,6 @@
       "date": "2020-11-21T11:22:00.000Z",
       "description": "Defender returns for his first Premier League appearance of the season in Frank Lampard's only change to the team that beat Sheffield United.",
       "matchId": 2128372
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20201121under-18s-report--chelsea-aston-",
-      "type": "NewsCard",
-      "timestamp": "2020-11-21T14:10:00.000Z",
-      "orderDate": "2020-11-21T02:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/21/under-18s-report--chelsea-aston-villa",
-        "type": "NewsCard",
-        "title": "Under-18s report: Chelsea 2 Aston Villa 4",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/21/under-18s-report--chelsea-aston-villa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-21T14:10:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/21/under-18s-report--chelsea-aston-villa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jude Soonsup-Bell",
-          "id": "editorial/news/2020/11/Soonsup-Bell-goal-villa-cfcu18",
-          "gravity": "auto",
-          "aspectRatio": 1.504,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Chelsea 2 Aston Villa 4",
-      "publishDate": "2020-11-21T14:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/21/under-18s-report--chelsea-aston-villa.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2020-11-21T14:10:00.000Z",
-      "description": "Our under-18s were on the end of a defeat against Aston Villa at Cobham on Saturday morning."
     }
   ]
 }
