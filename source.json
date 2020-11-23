@@ -9,6 +9,55 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201123blues-touch-down-in-france",
+      "type": "NewsCard",
+      "timestamp": "2020-11-23T16:45:00.000Z",
+      "orderDate": "2020-11-23T16:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/23/blues-touch-down-in-france",
+        "type": "NewsCard",
+        "title": "Blues touch down in France",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/blues-touch-down-in-france.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-23T16:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/11/23/blues-touch-down-in-france",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2020/11/Mount-Abraham-James-Rennes-travel",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues touch down in France",
+      "publishDate": "2020-11-23T16:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/blues-touch-down-in-france.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-11-23T16:45:00.000Z",
+      "description": "A squad of 23 players have arrived in France ahead of tomorrow evening’s Champions League encounter with Rennes.",
+      "matchId": 2170504
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201123frank-lampard-press-conference-i",
       "type": "NewsCard",
       "timestamp": "2020-11-23T13:52:00.000Z",
@@ -462,59 +511,6 @@
       ],
       "date": "2020-11-23T16:27:00.000Z",
       "description": "Ahead of a game against opposition from his native France, the future of Olivier Giroud at Chelsea was discussed by Frank Lampard."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201123media-watch--cole-on-chelsea-tit",
-      "type": "NewsCard",
-      "timestamp": "2020-11-23T12:22:00.000Z",
-      "orderDate": "2020-11-23T00:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/23/media-watch--cole-on-chelsea-title-challenge--burley-backs-talen",
-        "type": "NewsCard",
-        "title": "Media Watch: Cole on Chelsea title challenge, Burley backs talented Blues and Lampard wants Barkley return",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/media-watch--cole-on-chelsea-title-challenge--burley-backs-talen.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-23T12:22:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/23/media-watch--cole-on-chelsea-title-challenge--burley-backs-talen",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Joe Cole ",
-          "id": "editorial/media-watch/Cole_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.9512196,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Cole on Chelsea title challenge, Burley backs talented Blues and Lampard wants Barkley return",
-      "publishDate": "2020-11-23T12:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/media-watch--cole-on-chelsea-title-challenge--burley-backs-talen.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Ross Barkley",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ross-barkley"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        },
-        {
-          "title": "Joe Cole",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_joe-cole"
-        }
-      ],
-      "date": "2020-11-23T12:22:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Joe Cole discusses the quality of the Blues and our potential title challenge while Craig Burley thinks Chelsea are more talented than Tottenham."
     }
   ]
 }
