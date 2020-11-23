@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201123frank-lampard-press-conference-i",
+      "type": "NewsCard",
+      "timestamp": "2020-11-23T13:52:00.000Z",
+      "orderDate": "2020-11-23T13:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/23/frank-lampard-press-conference-injury-news-rennes-chelsea",
+        "type": "NewsCard",
+        "title": "Lampard updates on Thiago Silva, Havertz and Pulisic and discusses Giroud's Chelsea future",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/frank-lampard-press-conference-injury-news-rennes-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-23T13:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/23/frank-lampard-press-conference-injury-news-rennes-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard",
+          "id": "video/2020/10/27/GettyImages-1229166215",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard updates on Thiago Silva, Havertz and Pulisic and discusses Giroud's Chelsea future",
+      "publishDate": "2020-11-23T13:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/frank-lampard-press-conference-injury-news-rennes-chelsea.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-11-23T13:52:00.000Z",
+      "description": "Frank Lampard has confirmed Kai Havertz and Thiago Silva will travel to France and could play against Rennes tomorrow.",
+      "matchId": 2170504
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201123lampard--i-m-not-getting-too-exc",
       "type": "NewsCard",
       "timestamp": "2020-11-23T04:00:00.000Z",
@@ -469,65 +523,6 @@
       ],
       "date": "2020-11-22T14:45:00.000Z",
       "description": "Goals from Billy Gilmour and Myles Peart-Harris earned our development squad a point in Premier League 2 on Sunday afternoon."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201122abraham--keeping-confident--keep",
-      "type": "NewsCard",
-      "timestamp": "2020-11-22T02:01:00.000Z",
-      "orderDate": "2020-11-22T02:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/22/abraham--keeping-confident--keeping-scoring",
-        "type": "NewsCard",
-        "title": "Abraham: Keeping confident, keeping scoring",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/22/abraham--keeping-confident--keeping-scoring.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-22T02:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/22/abraham--keeping-confident--keeping-scoring",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tammy Abraham scoring at Newcastle",
-          "id": "editorial/news/2020/11/abraham_newcastle_away",
-          "gravity": "auto",
-          "aspectRatio": 1.5479876,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Abraham: Keeping confident, keeping scoring",
-      "publishDate": "2020-11-22T02:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/22/abraham--keeping-confident--keeping-scoring.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2020-11-22T02:01:00.000Z",
-      "description": "It is five wins in a row now for Chelsea following the 2-0 victory in Newcastle and in the last three of those, Tammy Abraham has found the net.",
-      "matchId": 2128372
     }
   ]
 }
