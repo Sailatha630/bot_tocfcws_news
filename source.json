@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201124rennes-vs-chelsea---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2020-11-24T01:12:00.000Z",
+      "orderDate": "2020-11-24T01:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/24/rennes-vs-chelsea---the-stats",
+        "type": "NewsCard",
+        "title": "Rennes vs Chelsea - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/rennes-vs-chelsea---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-24T01:12:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/24/rennes-vs-chelsea---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva playing against Rennes",
+          "id": "editorial/news/2020/11/thiago-silva-rennes",
+          "gravity": "auto",
+          "aspectRatio": 1.4996994,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rennes vs Chelsea - the stats",
+      "publishDate": "2020-11-24T01:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/rennes-vs-chelsea---the-stats.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-11-24T01:12:00.000Z",
+      "description": "For the second time in November Chelsea face Rennes and we continue our build-up with the important numbers ahead of the game...",
+      "matchId": 2170504
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20201123quiz--how-well-do-you-remember-o",
       "type": "NewsCard",
@@ -470,43 +519,6 @@
       ],
       "date": "2020-11-23T13:01:00.000Z",
       "description": "The details for our FA Youth Cup third round tie against Barnsley have now been confirmed."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201123what-can-you-watch-live-on-chels",
-      "type": "NewsCard",
-      "timestamp": "2020-11-23T15:41:00.000Z",
-      "orderDate": "2020-11-23T00:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/23/what-can-you-watch-live-on-chelsea-platforms-this-week-",
-        "type": "NewsCard",
-        "title": "What can you watch live on Chelsea platforms this week?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/what-can-you-watch-live-on-chelsea-platforms-this-week-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-23T15:41:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/23/what-can-you-watch-live-on-chelsea-platforms-this-week-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2020/11/live_stream_creative_23-11",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "What can you watch live on Chelsea platforms this week?",
-      "publishDate": "2020-11-23T15:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/what-can-you-watch-live-on-chelsea-platforms-this-week-.html",
-      "readTimeInMins": 8,
-      "tags": [],
-      "date": "2020-11-23T15:41:00.000Z",
-      "description": "The men's first team dominate the live streams available over the next seven days and we have the information on them here."
     }
   ]
 }
