@@ -154,6 +154,54 @@
       "matchId": 2170504
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201124benfica-to-begin-with-in-the-wom",
+      "type": "NewsCard",
+      "timestamp": "2020-11-24T11:10:00.000Z",
+      "orderDate": "2020-11-24T03:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/24/benfica-to-begin-with-in-the-women-s-champions-league",
+        "type": "NewsCard",
+        "title": "Benfica to begin with in the Women’s Champions League",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/benfica-to-begin-with-in-the-women-s-champions-league.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-24T11:10:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/24/benfica-to-begin-with-in-the-women-s-champions-league",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/WCLtrophy",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Benfica to begin with in the Women’s Champions League",
+      "publishDate": "2020-11-24T11:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/benfica-to-begin-with-in-the-women-s-champions-league.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2020-11-24T11:10:00.000Z",
+      "description": "Chelsea FC Women will begin our Champions League campaign against Benfica after being paired with the Portuguese side in the last-32 draw today in Nyon."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20201124rennes-vs-chelsea---the-stats",
       "type": "NewsCard",
@@ -471,55 +519,6 @@
       "date": "2020-11-23T16:10:00.000Z",
       "description": "Kai Havertz and Thiago Silva were both involved in today’s training session at Cobham, before taking their places on the team flight to France ahead of our Champions League clash with Rennes.",
       "matchId": 2170504
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201123lampard--i-m-not-getting-too-exc",
-      "type": "NewsCard",
-      "timestamp": "2020-11-23T04:00:00.000Z",
-      "orderDate": "2020-11-23T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/23/lampard--i-m-not-getting-too-excited-yet",
-        "type": "NewsCard",
-        "title": "Lampard: I’m not getting too excited yet",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/lampard--i-m-not-getting-too-excited-yet.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-23T04:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/23/lampard--i-m-not-getting-too-excited-yet",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Lampard",
-          "id": "editorial/news/2020/11/Lampard-Newcastle-away",
-          "gravity": "auto",
-          "aspectRatio": 1.3703704,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard: I’m not getting too excited yet",
-      "publishDate": "2020-11-23T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/lampard--i-m-not-getting-too-excited-yet.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-11-23T04:00:00.000Z",
-      "description": "The boss was quick to downplay the excitement of sitting briefly atop the Premier League table over the weekend and claimed much more work was needed from his young side...",
-      "matchId": 2128372
     }
   ]
 }
