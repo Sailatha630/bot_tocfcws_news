@@ -9,6 +9,55 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201124pre-match-briefing--rennes-vs-ch",
+      "type": "NewsCard",
+      "timestamp": "2020-11-24T06:17:00.000Z",
+      "orderDate": "2020-11-24T06:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/24/pre-match-briefing--rennes-vs-chelsea",
+        "type": "NewsCard",
+        "title": "PRE-MATCH BRIEFING: RENNES vs CHELSEA",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/pre-match-briefing--rennes-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-24T06:17:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2020/11/24/pre-match-briefing--rennes-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Rennes city",
+          "id": "editorial/news/2020/11/rennes_city_view",
+          "gravity": "auto",
+          "aspectRatio": 1.502439,
+          "cropMode": "fill"
+        }
+      },
+      "content": "PRE-MATCH BRIEFING: RENNES vs CHELSEA",
+      "publishDate": "2020-11-24T06:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/pre-match-briefing--rennes-vs-chelsea.html",
+      "readTimeInMins": 33,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-11-24T06:17:00.000Z",
+      "description": "A big Champions League group stage game awaits in Brittany today with qualification in reach for the Blues. Club historian Rick Glanvill and club statistician Paul Dutton look across the channel…",
+      "matchId": 2170504
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20201124rennes-vs-chelsea---the-stats",
       "type": "NewsCard",
       "timestamp": "2020-11-24T01:12:00.000Z",
@@ -470,55 +519,6 @@
       ],
       "date": "2020-11-23T14:06:00.000Z",
       "description": "The draw for the last 32 of the UEFA Women’s Champions League takes place tomorrow (Tuesday) at 11am UK time, with Emma Hayes’ side set to find out our first opponents in this year’s competition."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201123date-set-for-youth-cup-tie-at-ki",
-      "type": "NewsCard",
-      "timestamp": "2020-11-23T13:01:00.000Z",
-      "orderDate": "2020-11-23T01:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/23/date-set-for-youth-cup-tie-at-kingsmeadow",
-        "type": "NewsCard",
-        "title": "Date set for Youth Cup tie at Kingsmeadow",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/date-set-for-youth-cup-tie-at-kingsmeadow.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-23T13:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/23/date-set-for-youth-cup-tie-at-kingsmeadow",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Youth Cup",
-          "id": "editorial/news/2020/02/fa-youth-cup-trophy-view-stock",
-          "gravity": "north",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Date set for Youth Cup tie at Kingsmeadow",
-      "publishDate": "2020-11-23T13:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/23/date-set-for-youth-cup-tie-at-kingsmeadow.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2020-11-23T13:01:00.000Z",
-      "description": "The details for our FA Youth Cup third round tie against Barnsley have now been confirmed."
     }
   ]
 }
