@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20201124lampard-reacts-to-return-of-fans",
+      "type": "NewsCard",
+      "timestamp": "2020-11-24T21:16:00.000Z",
+      "orderDate": "2020-11-24T21:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/24/lampard-reacts-to-return-of-fans",
+        "type": "NewsCard",
+        "title": "Lampard reacts to return of fans",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/lampard-reacts-to-return-of-fans.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-24T21:16:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/11/24/lampard-reacts-to-return-of-fans",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lampard",
+          "id": "editorial/media-watch/lampard-leicester-2019-GettyImages-1168776386",
+          "gravity": "face",
+          "aspectRatio": 1.4337972,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard reacts to return of fans",
+      "publishDate": "2020-11-24T21:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/lampard-reacts-to-return-of-fans.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-11-24T21:16:00.000Z",
+      "description": "Frank Lampard gave his view on the news that fans could soon be back cheering on Chelsea at Stamford Bridge."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201124lampard-on-a-tough-game--giroud-",
       "type": "NewsCard",
@@ -31,7 +74,7 @@
           "type": "ImageCloudinary",
           "alt": " Frank Lampard",
           "id": "editorial/match-reports/2020-21/rennes-away/lampard-rennes",
-          "gravity": "auto",
+          "gravity": "east",
           "aspectRatio": 1.5,
           "cropMode": "fill"
         }
@@ -488,55 +531,6 @@
       ],
       "date": "2020-11-24T10:26:00.000Z",
       "description": "Chelsea Football Club welcomes yesterday’s announcement by the Prime Minister and the UK Government’s Department for Culture, Media and Sport (DCMS) on a return of supporters to elite sports events from 2 December."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20201124chivers-predicts-run-will-contin",
-      "type": "NewsCard",
-      "timestamp": "2020-11-24T12:07:00.000Z",
-      "orderDate": "2020-11-24T08:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/24/chivers-predicts-run-will-continue",
-        "type": "NewsCard",
-        "title": "Chivers predicts run will continue",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/chivers-predicts-run-will-continue.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-24T12:07:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/24/chivers-predicts-run-will-continue",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chivers",
-          "id": "editorial/news/2020/11/Chivers_GettyImages-611445698",
-          "gravity": "auto",
-          "aspectRatio": 1.3667426,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chivers predicts run will continue",
-      "publishDate": "2020-11-24T12:07:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/chivers-predicts-run-will-continue.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2020-11-24T12:07:00.000Z",
-      "description": "Today’s Play Predictor guest, former Chelsea defender Gary Chivers, has backed the Blues to keep our impressive run going with another win and clean sheet in the Champions League.",
-      "matchId": 2170504
     }
   ]
 }
