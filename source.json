@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201124chelsea-line-up-vs-rennes",
+      "type": "NewsCard",
+      "timestamp": "2020-11-24T16:39:00.000Z",
+      "orderDate": "2020-11-24T16:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/24/chelsea-line-up-vs-rennes",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Rennes",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/chelsea-line-up-vs-rennes.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-24T16:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/24/chelsea-line-up-vs-rennes",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Callum Hudson-Odoi",
+          "id": "editorial/news/2020/11/azpi-rennes",
+          "gravity": "auto",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Rennes",
+      "publishDate": "2020-11-24T16:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/chelsea-line-up-vs-rennes.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-11-24T16:39:00.000Z",
+      "description": "Frank Lampard makes changes in defence, midfield and attack for Chelsea's visit to Rennes.",
+      "matchId": 2170504
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201124mount-explains-chelsea--evolutio",
       "type": "NewsCard",
@@ -472,55 +526,6 @@
       "date": "2020-11-24T11:56:00.000Z",
       "description": "Pre-order your copy of the matchday programme for our game against Tottenham Hotspur, which includes interviews with Reece James and legendary Blues striker Kerry Dixon.",
       "matchId": 2128378
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201124rennes-vs-chelsea---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2020-11-24T01:12:00.000Z",
-      "orderDate": "2020-11-24T01:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/24/rennes-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Rennes vs Chelsea - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/rennes-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-24T01:12:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/24/rennes-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thiago Silva playing against Rennes",
-          "id": "editorial/news/2020/11/thiago-silva-rennes",
-          "gravity": "auto",
-          "aspectRatio": 1.4996994,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rennes vs Chelsea - the stats",
-      "publishDate": "2020-11-24T01:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/rennes-vs-chelsea---the-stats.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2020-11-24T01:12:00.000Z",
-      "description": "For the second time in November Chelsea face Rennes and we continue our build-up with the important numbers ahead of the game...",
-      "matchId": 2170504
     }
   ]
 }
