@@ -170,6 +170,70 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201125watch-the-highlights-of-our-last",
+      "type": "NewsCard",
+      "timestamp": "2020-11-25T00:00:00.000Z",
+      "orderDate": "2020-11-24T19:07:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/25/watch-the-highlights-of-our-last-gasp-win-in-france",
+        "type": "NewsCard",
+        "title": "Watch the highlights of our last-gasp win in France",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/25/watch-the-highlights-of-our-last-gasp-win-in-france.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-25T00:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/25/watch-the-highlights-of-our-last-gasp-win-in-france",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Rennes 1-2 Chelsea | UEFA Champions League Highlights",
+          "videoId": "XGsXnFmQ",
+          "bucket": "prod-cfc",
+          "description": "Highlights from our UEFA Champions League match away to Rennes. ",
+          "duration": 95000,
+          "date": "2020-11-24T22:00:49.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/XGsXnFmQ/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/25/watch-the-highlights-of-our-last-gasp-win-in-france.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2020/11/25/watch-the-highlights-of-our-last-gasp-win-in-france?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2020/11/25/watch-the-highlights-of-our-last-gasp-win-in-france",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "Highlights from our UEFA Champions League match away to Rennes. "
+      },
+      "content": "Watch the highlights of our last-gasp win in France",
+      "publishDate": "2020-11-25T00:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/25/watch-the-highlights-of-our-last-gasp-win-in-france.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-11-25T00:00:00.000Z",
+      "description": "Olivier Giroud's injury-time winner in Rennes dramatically booked the Blues a place in the Champions League round of 16, and you can watch all the goals and the key action above.",
+      "matchId": 2170504
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201124chelsea-line-up-vs-rennes",
       "type": "NewsCard",
       "timestamp": "2020-11-24T16:39:00.000Z",
@@ -488,49 +552,6 @@
       "date": "2020-11-24T10:08:00.000Z",
       "description": "The Blues will be going for an unprecedented four consecutive clean sheets at the start of a Champions League group stage when we take on Rennes tonight, and Frank Lampard has explained some of the areas in which his team have improved defensively in recent weeks.",
       "matchId": 2170504
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20201124club-statement-on-return-of-fans",
-      "type": "NewsCard",
-      "timestamp": "2020-11-24T10:26:00.000Z",
-      "orderDate": "2020-11-24T08:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/24/club-statement-on-return-of-fans-to-matches",
-        "type": "NewsCard",
-        "title": "Club statement on return of fans to matches",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/club-statement-on-return-of-fans-to-matches.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-24T10:26:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/24/club-statement-on-return-of-fans-to-matches",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Club badge",
-          "id": "logos/transparent_-_club_badge_crest",
-          "gravity": "center",
-          "aspectRatio": 1.9666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Club statement on return of fans to matches",
-      "publishDate": "2020-11-24T10:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/24/club-statement-on-return-of-fans-to-matches.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        }
-      ],
-      "date": "2020-11-24T10:26:00.000Z",
-      "description": "Chelsea Football Club welcomes yesterday’s announcement by the Prime Minister and the UK Government’s Department for Culture, Media and Sport (DCMS) on a return of supporters to elite sports events from 2 December."
     }
   ]
 }
