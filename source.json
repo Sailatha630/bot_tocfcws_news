@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201127pre-match-briefing--chelsea-vs-t",
+      "type": "NewsCard",
+      "timestamp": "2020-11-27T03:43:00.000Z",
+      "orderDate": "2020-11-27T03:43:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/27/pre-match-briefing--chelsea-vs-tottenham-hotspur",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Tottenham Hotspur",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/27/pre-match-briefing--chelsea-vs-tottenham-hotspur.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-27T03:43:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2020/11/27/pre-match-briefing--chelsea-vs-tottenham-hotspur",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ben Chilwell playing against Tottenham",
+          "id": "editorial/match-reports/2020-21/spurs-carabao-cup/spurs_carabao_cup_chilwell",
+          "gravity": "auto",
+          "aspectRatio": 1.6386929,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Tottenham Hotspur",
+      "publishDate": "2020-11-27T03:43:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/27/pre-match-briefing--chelsea-vs-tottenham-hotspur.html",
+      "readTimeInMins": 71,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-11-27T03:43:00.000Z",
+      "description": "Stamford Bridge will be empty for one more game on Sunday but there will be no shortage of interest in a big London clash between in-form teams. Club historian Rick Glanvill and club statistician Paul Dutton debate the derby…",
+      "matchId": 2128378
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20201127chelsea-vs-tottenham---the-stats",
       "type": "NewsCard",
       "timestamp": "2020-11-27T02:23:00.000Z",
@@ -453,49 +507,6 @@
       ],
       "date": "2020-11-26T11:25:00.000Z",
       "description": "Kai Havertz was the first Chelsea player to take part in Three’s Connect With… series, getting to swap skills and tips with one of the world’s leading freestyle footballers."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201126when-diego-came-to-visit-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2020-11-26T10:13:00.000Z",
-      "orderDate": "2020-11-26T02:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/26/when-diego-came-to-visit-chelsea-",
-        "type": "NewsCard",
-        "title": "When Diego came to visit Chelsea ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/26/when-diego-came-to-visit-chelsea-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-26T10:13:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/26/when-diego-came-to-visit-chelsea-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Team-with-Maradona-GettyImages-85607560",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "When Diego came to visit Chelsea ",
-      "publishDate": "2020-11-26T10:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/26/when-diego-came-to-visit-chelsea-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Andriy Shevchenko",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_andriy-shevchenko"
-        }
-      ],
-      "date": "2020-11-26T10:13:00.000Z",
-      "description": "Following the passing of Diego Maradona yesterday, we look back at the day the football icon visited our Cobham training centre in 2008."
     }
   ]
 }
