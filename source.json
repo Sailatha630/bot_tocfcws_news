@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201128jose-mourinho-at-stamford-bridge",
+      "type": "NewsCard",
+      "timestamp": "2020-11-28T14:20:00.000Z",
+      "orderDate": "2020-11-28T14:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/28/jose-mourinho-at-stamford-bridge0",
+        "type": "NewsCard",
+        "title": "Jose Mourinho at Stamford Bridge",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/28/jose-mourinho-at-stamford-bridge0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-28T14:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/28/jose-mourinho-at-stamford-bridge0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mourinho",
+          "id": "asia/editorial/mourinho-2004-GettyImages-50917736",
+          "gravity": "auto",
+          "aspectRatio": 1.5337423,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jose Mourinho at Stamford Bridge",
+      "publishDate": "2020-11-28T14:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/28/jose-mourinho-at-stamford-bridge0.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Jose Mourinho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_jose-mourinho"
+        }
+      ],
+      "date": "2020-11-28T14:20:00.000Z",
+      "description": "After amassing an impressive record in Premier League matches at Stamford Bridge during the vast majority of his time as Chelsea manager, Jose Mourinho has not had too much joy on his recent visits to west London."
+    },
+    {
       "contentType": "Tickets",
       "id": "_content_chelseafcennews20201128leeds-and-krasnodar-ticket-detai",
       "type": "NewsCard",
@@ -453,60 +496,6 @@
       ],
       "date": "2020-11-27T16:14:00.000Z",
       "description": "This weekend's game will be our 1000th since Roman Abramovich bought Chelsea, and to help mark that milestone we have compiled a tough quiz based on the previous 999 games."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201127pre-match-briefing--chelsea-vs-t",
-      "type": "NewsCard",
-      "timestamp": "2020-11-27T03:43:00.000Z",
-      "orderDate": "2020-11-27T03:43:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/27/pre-match-briefing--chelsea-vs-tottenham-hotspur",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Tottenham Hotspur",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/27/pre-match-briefing--chelsea-vs-tottenham-hotspur.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-27T03:43:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2020/11/27/pre-match-briefing--chelsea-vs-tottenham-hotspur",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ben Chilwell playing against Tottenham",
-          "id": "editorial/match-reports/2020-21/spurs-carabao-cup/spurs_carabao_cup_chilwell",
-          "gravity": "auto",
-          "aspectRatio": 1.6386929,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Tottenham Hotspur",
-      "publishDate": "2020-11-27T03:43:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/27/pre-match-briefing--chelsea-vs-tottenham-hotspur.html",
-      "readTimeInMins": 71,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-11-27T03:43:00.000Z",
-      "description": "Stamford Bridge will be empty for one more game on Sunday but there will be no shortage of interest in a big London clash between in-form teams. Club historian Rick Glanvill and club statistician Paul Dutton debate the derby…",
-      "matchId": 2128378
     }
   ]
 }
