@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201128youth-cup-report--chelsea-barnsl",
+      "type": "NewsCard",
+      "timestamp": "2020-11-28T15:45:00.000Z",
+      "orderDate": "2020-11-28T15:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/28/youth-cup-report--chelsea-barnsley",
+        "type": "NewsCard",
+        "title": "Youth Cup report: Chelsea 8 Barnsley 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/28/youth-cup-report--chelsea-barnsley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-28T15:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/11/28/youth-cup-report--chelsea-barnsley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Soonsup-Bell",
+          "id": "editorial/news/2020/11/CFCU18-vs-Barnsley-celebrations",
+          "gravity": "auto",
+          "aspectRatio": 1.4997609,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Youth Cup report: Chelsea 8 Barnsley 1",
+      "publishDate": "2020-11-28T15:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/28/youth-cup-report--chelsea-barnsley.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "U18 - FA Youth Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
+        }
+      ],
+      "date": "2020-11-28T15:45:00.000Z",
+      "description": "Chelsea's youth team hit eight goals beyond Barnsley to move into the fourth round of the FA Youth Cup, matching our joint biggest competition win."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201128jose-mourinho-at-stamford-bridge",
       "type": "NewsCard",
@@ -453,49 +502,6 @@
       "date": "2020-11-27T14:24:00.000Z",
       "description": "Frank Lampard has warned his side will have to be at their best to get the better of league leaders Tottenham when the two sides meet at Stamford Bridge this weekend.",
       "matchId": 2128378
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20201126the-roman-era-quiz--",
-      "type": "NewsCard",
-      "timestamp": "2020-11-27T16:14:00.000Z",
-      "orderDate": "2020-11-27T13:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/26/the-roman-era-quiz--",
-        "type": "NewsCard",
-        "title": "The Roman Era quiz! ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/26/the-roman-era-quiz--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-27T16:14:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/26/the-roman-era-quiz--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Roman Abramovich and Cesar Azpilicueta",
-          "id": "editorial/match-reports/2018-19/europa-league-final/GettyImages-1152508129",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Roman Era quiz! ",
-      "publishDate": "2020-11-27T16:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/26/the-roman-era-quiz--.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-11-27T16:14:00.000Z",
-      "description": "This weekend's game will be our 1000th since Roman Abramovich bought Chelsea, and to help mark that milestone we have compiled a tough quiz based on the previous 999 games."
     }
   ]
 }
