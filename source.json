@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201129match-report--chelsea-vs-tottenh",
+      "type": "NewsCard",
+      "timestamp": "2020-11-29T18:39:00.000Z",
+      "orderDate": "2020-11-29T18:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/29/match-report--chelsea-vs-tottenham",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 0 Tottenham 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/29/match-report--chelsea-vs-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-29T18:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/11/29/match-report--chelsea-vs-tottenham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/tottenham-home/tottenham-h-7",
+          "gravity": "auto",
+          "aspectRatio": 1.635729,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 0 Tottenham 0",
+      "publishDate": "2020-11-29T18:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/29/match-report--chelsea-vs-tottenham.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_videos_Premier-League"
+        },
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-11-29T18:39:00.000Z",
+      "description": "Sunday afternoon’s top-four London derby was the tight affair many would have predicted between two in-form teams, but without the goals expected from sides who are, with Liverpool, the Premier League’s top scorers.",
+      "matchId": 2128378
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201129chelsea-line-up-vs-tottenham",
       "type": "NewsCard",
@@ -493,55 +547,6 @@
       ],
       "date": "2020-11-28T14:20:00.000Z",
       "description": "After amassing an impressive record in Premier League matches at Stamford Bridge during the vast majority of his time as Chelsea manager, Jose Mourinho has not had too much joy on his recent visits to west London."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20201128youth-cup-report--chelsea-barnsl",
-      "type": "NewsCard",
-      "timestamp": "2020-11-28T15:45:00.000Z",
-      "orderDate": "2020-11-28T12:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/28/youth-cup-report--chelsea-barnsley",
-        "type": "NewsCard",
-        "title": "Youth Cup report: Chelsea 8 Barnsley 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/28/youth-cup-report--chelsea-barnsley.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-28T15:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/28/youth-cup-report--chelsea-barnsley",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Soonsup-Bell",
-          "id": "editorial/news/2020/11/CFCU18-vs-Barnsley-celebrations",
-          "gravity": "auto",
-          "aspectRatio": 1.4997609,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Youth Cup report: Chelsea 8 Barnsley 1",
-      "publishDate": "2020-11-28T15:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/28/youth-cup-report--chelsea-barnsley.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "U18 - FA Youth Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
-        }
-      ],
-      "date": "2020-11-28T15:45:00.000Z",
-      "description": "Chelsea's youth team hit eight goals beyond Barnsley to move into the fourth round of the FA Youth Cup, matching our joint-biggest competition win."
     }
   ]
 }
