@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201129chelsea-line-up-vs-tottenham",
+      "type": "NewsCard",
+      "timestamp": "2020-11-29T15:30:00.000Z",
+      "orderDate": "2020-11-29T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/29/chelsea-line-up-vs-tottenham",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Tottenham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/29/chelsea-line-up-vs-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-29T15:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/11/29/chelsea-line-up-vs-tottenham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " The Chelsea dressing room",
+          "id": "editorial/match-reports/2020-21/tottenham-home/spurs_home_dressing_room",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Tottenham",
+      "publishDate": "2020-11-29T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/29/chelsea-line-up-vs-tottenham.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-11-29T15:30:00.000Z",
+      "description": "Frank Lampard makes three changes from the team that began the midweek Champions League win in Rennes, one in defence, one in midfield and one in attack.",
+      "matchId": 2128378
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201129azpilicueta-on-chelsea-being-lon",
       "type": "NewsCard",
@@ -483,49 +542,6 @@
       ],
       "date": "2020-11-28T15:45:00.000Z",
       "description": "Chelsea's youth team hit eight goals beyond Barnsley to move into the fourth round of the FA Youth Cup, matching our joint-biggest competition win."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20201128leeds-and-krasnodar-ticket-detai",
-      "type": "NewsCard",
-      "timestamp": "2020-11-28T10:00:00.000Z",
-      "orderDate": "2020-11-28T10:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/28/leeds-and-krasnodar-ticket-details---ballot-opens-midday-today",
-        "type": "NewsCard",
-        "title": "Leeds and Krasnodar ticket details – ballot opens midday today",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/28/leeds-and-krasnodar-ticket-details---ballot-opens-midday-today.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-28T10:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/28/leeds-and-krasnodar-ticket-details---ballot-opens-midday-today",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge",
-          "id": "editorial/match-reports/2020-21/southampton-home/Stamford-Bridge-view-Southampton-h",
-          "gravity": "auto",
-          "aspectRatio": 1.6807777,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Leeds and Krasnodar ticket details – ballot opens midday today",
-      "publishDate": "2020-11-28T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/28/leeds-and-krasnodar-ticket-details---ballot-opens-midday-today.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2020-11-28T10:00:00.000Z",
-      "description": "Chelsea Football Club is very pleased to announce details of how our fans can apply for tickets to attend a game at Stamford Bridge for the first time since March."
     }
   ]
 }
