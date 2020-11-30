@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201130fa-cup-draw-news",
+      "type": "NewsCard",
+      "timestamp": "2020-11-30T19:00:00.000Z",
+      "orderDate": "2020-11-30T19:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/11/30/fa-cup-draw-news",
+        "type": "NewsCard",
+        "title": "Blues handed home tie in FA Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/30/fa-cup-draw-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-11-30T19:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/11/30/fa-cup-draw-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " The FA Cup",
+          "id": "editorial/news/2020/11/FA_CUP_trophy_stock_wembley_2020",
+          "gravity": "auto",
+          "aspectRatio": 1.4983714,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues handed home tie in FA Cup",
+      "publishDate": "2020-11-30T19:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/30/fa-cup-draw-news.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-11-30T19:00:00.000Z",
+      "description": "Chelsea have been drawn at home against League Two Morecambe in the third round of this season’s Emirates FA Cup."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201130the-debrief--animated-video-high",
       "type": "NewsCard",
@@ -466,80 +514,6 @@
       ],
       "date": "2020-11-29T18:39:00.000Z",
       "description": "Sunday afternoon’s top-four London derby was the tight affair many would have predicted between two in-form teams, but without the goals expected from sides who are, with Liverpool, the Premier League’s top scorers.",
-      "matchId": 2128378
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201129watch-the-highlights-from-our-lo",
-      "type": "NewsCard",
-      "timestamp": "2020-11-29T20:51:00.000Z",
-      "orderDate": "2020-11-29T16:51:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/29/watch-the-highlights-from-our-london-derby-draw",
-        "type": "NewsCard",
-        "title": "Watch the highlights from London derby draw now",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/29/watch-the-highlights-from-our-london-derby-draw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-29T20:51:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/11/29/watch-the-highlights-from-our-london-derby-draw",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea 0-0 Tottenham | Premier League Highlights",
-          "videoId": "C8nqvTMn",
-          "bucket": "prod-cfc",
-          "description": "Watch the highlights of our Premier League clash at home to Tottenham Hotspur.",
-          "duration": 131000,
-          "date": "2020-11-29T19:55:23.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/C8nqvTMn/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/29/watch-the-highlights-from-our-london-derby-draw.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2020/11/29/watch-the-highlights-from-our-london-derby-draw?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2020/11/29/watch-the-highlights-from-our-london-derby-draw",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Watch the highlights of our Premier League clash at home to Tottenham Hotspur."
-      },
-      "content": "Watch the highlights from London derby draw now",
-      "publishDate": "2020-11-29T20:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/29/watch-the-highlights-from-our-london-derby-draw.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2020-11-29T20:51:00.000Z",
-      "description": "The Blues' recent winning run came to an end when we were held at home by Tottenham on Sunday afternoon but we remain unbeaten in 11 outings. You can watch key action now in the video above.",
       "matchId": 2128378
     }
   ]
