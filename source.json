@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201201who-trained-ahead-of-sevilla-",
+      "type": "NewsCard",
+      "timestamp": "2020-12-01T16:18:00.000Z",
+      "orderDate": "2020-12-01T16:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/01/who-trained-ahead-of-sevilla-",
+        "type": "NewsCard",
+        "title": "Who trained ahead of Sevilla?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/01/who-trained-ahead-of-sevilla-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-01T16:18:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/01/who-trained-ahead-of-sevilla-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Werner-Mount-training-DAZ_8944",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Who trained ahead of Sevilla?",
+      "publishDate": "2020-12-01T16:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/01/who-trained-ahead-of-sevilla-.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        }
+      ],
+      "date": "2020-12-01T16:18:00.000Z",
+      "description": "With no fresh injury concerns ahead of our Champions League clash with Sevilla, Frank Lampard has his entire squad available to him for today’s training session at Cobham.",
+      "matchId": 2170531
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201201lampard--why-hudson-odoi-will-pl",
       "type": "NewsCard",
       "timestamp": "2020-12-01T15:26:00.000Z",
@@ -499,54 +558,6 @@
       ],
       "date": "2020-12-01T11:36:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Claude Makelele opens up on his move to Stamford Bridge and Trent Alexander-Arnold hails Reece James as one of the best in the Premier League."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201130fa-cup-draw-news",
-      "type": "NewsCard",
-      "timestamp": "2020-11-30T19:00:00.000Z",
-      "orderDate": "2020-11-30T19:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/11/30/fa-cup-draw-news",
-        "type": "NewsCard",
-        "title": "Blues handed home tie in FA Cup",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/30/fa-cup-draw-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-11-30T19:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/11/30/fa-cup-draw-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " The FA Cup",
-          "id": "editorial/news/2020/11/FA_CUP_trophy_stock_wembley_2020",
-          "gravity": "auto",
-          "aspectRatio": 1.4983714,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues handed home tie in FA Cup",
-      "publishDate": "2020-11-30T19:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/11/30/fa-cup-draw-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-11-30T19:00:00.000Z",
-      "description": "Chelsea have been drawn at home against League Two Morecambe in the third round of this season’s Emirates FA Cup."
     }
   ]
 }
