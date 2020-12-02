@@ -9,6 +9,55 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201202sevilla-vs-chelsea---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2020-12-02T11:00:00.000Z",
+      "orderDate": "2020-12-02T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/02/sevilla-vs-chelsea---the-stats",
+        "type": "NewsCard",
+        "title": "Sevilla vs Chelsea - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/sevilla-vs-chelsea---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-02T11:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/02/sevilla-vs-chelsea---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kai Havertz against Sevilla",
+          "id": "editorial/news/2020/12/sevilla_home_havertz",
+          "gravity": "auto",
+          "aspectRatio": 1.5001943,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Sevilla vs Chelsea - the stats",
+      "publishDate": "2020-12-02T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/sevilla-vs-chelsea---the-stats.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-12-02T11:00:00.000Z",
+      "description": "It's Champions League matchday five and we continue our preview here with all the facts and figures needed...",
+      "matchId": 2170531
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20201202pre-match-briefing--sevilla-vs-c",
       "type": "NewsCard",
       "timestamp": "2020-12-02T02:15:00.000Z",
@@ -300,9 +349,9 @@
         "image": {
           "type": "ImageCloudinary",
           "alt": " ",
-          "id": "editorial/women's-team/Ann_Katrin_Germany",
+          "id": "editorial/women's-team/Germany_AKB",
           "gravity": "auto",
-          "aspectRatio": 1.869887,
+          "aspectRatio": 1.5,
           "cropMode": "fill"
         }
       },
@@ -463,78 +512,6 @@
       ],
       "date": "2020-12-01T15:31:00.000Z",
       "description": "The matchday programme for Saturday’s game against Leeds is available to order now, featuring an exclusive interview with Mason Mount."
-    },
-    {
-      "contentType": "Columnist",
-      "id": "_content_chelseafcennews20201201pat-nevin--there-s-one-downside-",
-      "type": "NewsCard",
-      "timestamp": "2020-12-01T03:23:00.000Z",
-      "orderDate": "2020-12-01T03:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/01/pat-nevin--there-s-one-downside-to-such-a-good-squad",
-        "type": "NewsCard",
-        "title": "Pat Nevin: There’s one downside to such a good squad",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/01/pat-nevin--there-s-one-downside-to-such-a-good-squad.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-01T03:23:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2020/12/01/pat-nevin--there-s-one-downside-to-such-a-good-squad",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea vs Spurs",
-          "id": "editorial/news/2020/11/spurs_home_1",
-          "gravity": "auto",
-          "aspectRatio": 1.4812653,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pat Nevin: There’s one downside to such a good squad",
-      "publishDate": "2020-12-01T03:23:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/01/pat-nevin--there-s-one-downside-to-such-a-good-squad.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        },
-        {
-          "title": "Pat Nevin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_pat-nevin"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Pat",
-        "lastName": "Nevin",
-        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pat Nevin",
-          "id": "editorial/blogs-and-columns/nevin_h_26S",
-          "gravity": "face",
-          "aspectRatio": 0.93399847,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2020-12-01T03:23:00.000Z",
-      "description": "The winning run came to an end on Sunday but there was plenty in the performance against Tottenham to have former Blue and columnist Pat Nevin confident the resources are there to negotiate a crowded fixture programme, but there are selection debates to be had…"
     }
   ]
 }
