@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201202chelsea-line-up-vs-sevilla",
+      "type": "NewsCard",
+      "timestamp": "2020-12-02T18:39:00.000Z",
+      "orderDate": "2020-12-02T18:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/02/chelsea-line-up-vs-sevilla",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Sevilla",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/chelsea-line-up-vs-sevilla.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-02T18:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/02/chelsea-line-up-vs-sevilla",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Olivier Giroud's shirt",
+          "id": "editorial/match-reports/2020-21/sevilla-away/giroud-shirt-dressing-room-sevilla-away",
+          "gravity": "auto",
+          "aspectRatio": 1.4307876,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Sevilla",
+      "publishDate": "2020-12-02T18:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/chelsea-line-up-vs-sevilla.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-12-02T18:39:00.000Z",
+      "description": "Only Edouard Mendy and Mateo Kovacic keep their place from the weekend draw with Tottenham as Frank Lampard makes full use of the impressive depth of his squad for tonight’s game in Seville.",
+      "matchId": 2170531
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20201202quiz--do-you-remember-our-other-",
       "type": "NewsCard",
@@ -446,55 +495,6 @@
       ],
       "date": "2020-12-02T11:34:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Julen Lopetegui believes Chelsea are the best attacking side in England and Joan Jordan reveals he used to watch Frank Lampard growing up."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201202pre-match-briefing--sevilla-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2020-12-02T02:15:00.000Z",
-      "orderDate": "2020-12-02T02:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/02/pre-match-briefing--sevilla-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Sevilla vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/pre-match-briefing--sevilla-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-02T02:15:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2020/12/02/pre-match-briefing--sevilla-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Sevilla stadium",
-          "id": "editorial/news/2020/12/sevilla_stadium_outside",
-          "gravity": "auto",
-          "aspectRatio": 1.6260163,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Sevilla vs Chelsea",
-      "publishDate": "2020-12-02T02:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/pre-match-briefing--sevilla-vs-chelsea.html",
-      "readTimeInMins": 33,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2020-12-02T02:15:00.000Z",
-      "description": "Top spot is up for grabs when Chelsea take to Sevilla’s pitch for the first time in a competitive game today. Club historian Rick Glanvill and club statistician Paul Dutton analyse the outing in Andalusia…",
-      "matchId": 2170531
     }
   ]
 }
