@@ -9,6 +9,59 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201202the-key-to-beating-sevilla---lam",
+      "type": "NewsCard",
+      "timestamp": "2020-12-02T13:30:00.000Z",
+      "orderDate": "2020-12-02T13:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/02/the-key-to-beating-sevilla---lampard-lists-what-chelsea-must-do",
+        "type": "NewsCard",
+        "title": "The key to beating Sevilla – Lampard lists what Chelsea must do",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/the-key-to-beating-sevilla---lampard-lists-what-chelsea-must-do.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-02T13:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/02/the-key-to-beating-sevilla---lampard-lists-what-chelsea-must-do",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2020/10/werner-sevilla",
+          "gravity": "auto",
+          "aspectRatio": 1.3213307,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The key to beating Sevilla – Lampard lists what Chelsea must do",
+      "publishDate": "2020-12-02T13:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/the-key-to-beating-sevilla---lampard-lists-what-chelsea-must-do.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-12-02T13:30:00.000Z",
+      "description": "Frank Lampard’s respect for tonight’s Champions League opponents is clear, and they are a side that need to be beaten if top spot in our group is to be secured with one game to go.",
+      "matchId": 2170531
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201202thiago-silva-and-kai-havertz-nom",
       "type": "NewsCard",
       "timestamp": "2020-12-02T11:38:00.000Z",
@@ -470,49 +523,6 @@
       "date": "2020-12-01T13:25:00.000Z",
       "description": "Frank Lampard has confirmed that he has a fully fit squad to choose from ahead of our Champions League clash with Sevilla and states that Billy Gilmour will be included in the Chelsea party that travels to Spain.",
       "matchId": 2170531
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20201201internationals--first-cap-for-be",
-      "type": "NewsCard",
-      "timestamp": "2020-12-01T21:30:00.000Z",
-      "orderDate": "2020-12-01T13:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/01/internationals--first-cap-for-berger-and-jonna-andersson-scores-",
-        "type": "NewsCard",
-        "title": "Internationals: First cap for Berger and Jonna Andersson scores first goal for country ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/01/internationals--first-cap-for-berger-and-jonna-andersson-scores-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-01T21:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/01/internationals--first-cap-for-berger-and-jonna-andersson-scores-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Germany_AKB",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Internationals: First cap for Berger and Jonna Andersson scores first goal for country ",
-      "publishDate": "2020-12-01T21:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/01/internationals--first-cap-for-berger-and-jonna-andersson-scores-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2020-12-01T21:30:00.000Z",
-      "description": "Chelsea FC Women goalkeeper Ann-Katrin Berger made her international debut for Germany as they beat the Republic of Ireland 3-1 in the UEFA Euro 2022 qualifiers and Jonna Andersson registered her first senior international goal as Sweden beat Slovakia 6-0."
     }
   ]
 }
