@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201202match-report--sevilla-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2020-12-02T21:55:00.000Z",
+      "orderDate": "2020-12-02T21:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/02/match-report--sevilla-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Sevilla 0 Chelsea 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/match-report--sevilla-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-02T21:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/02/match-report--sevilla-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Giroud",
+          "id": "editorial/match-reports/2020-21/sevilla-away/Giroud_GettyImages-1289073309",
+          "gravity": "auto",
+          "aspectRatio": 1.4556041,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Sevilla 0 Chelsea 4",
+      "publishDate": "2020-12-02T21:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/match-report--sevilla-vs-chelsea.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-12-02T21:55:00.000Z",
+      "description": "An astonishing four goals from Olivier Giroud secured Chelsea a famous away European win and, with it, top spot in our Champions League group.",
+      "matchId": 2170531
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201202chelsea-line-up-vs-sevilla",
       "type": "NewsCard",
@@ -437,64 +486,6 @@
       "date": "2020-12-02T12:15:00.000Z",
       "description": "Chelsea’s development squad take on Leicester City on Friday evening to kick off the weekend’s action, and you can watch the game live and for free on the 5th Stand app or the official Chelsea website.",
       "matchId": 2141018
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201202media-watch--sevilla-boss-names-",
-      "type": "NewsCard",
-      "timestamp": "2020-12-02T11:34:00.000Z",
-      "orderDate": "2020-12-02T02:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/02/media-watch--sevilla-boss-names-blues-england-s-best-attacking-t",
-        "type": "NewsCard",
-        "title": "Media Watch: Sevilla boss names Blues England's best attacking team, Spanish star on Lampard's influence and Chelsea monitoring Brighton centre-back",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/media-watch--sevilla-boss-names-blues-england-s-best-attacking-t.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-02T11:34:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/02/media-watch--sevilla-boss-names-blues-england-s-best-attacking-t",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/TeamHug_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Sevilla boss names Blues England's best attacking team, Spanish star on Lampard's influence and Chelsea monitoring Brighton centre-back",
-      "publishDate": "2020-12-02T11:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/media-watch--sevilla-boss-names-blues-england-s-best-attacking-t.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Kurt Zouma",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kurt-zouma"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2020-12-02T11:34:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Julen Lopetegui believes Chelsea are the best attacking side in England and Joan Jordan reveals he used to watch Frank Lampard growing up."
     }
   ]
 }
