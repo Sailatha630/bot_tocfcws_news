@@ -172,6 +172,50 @@
       "matchId": 2170531
     },
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20201203register-now-open-to-represent-c",
+      "type": "NewsCard",
+      "timestamp": "2020-12-03T17:00:00.000Z",
+      "orderDate": "2020-12-03T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/03/register-now-open-to-represent-chelsea-in-epremier-league",
+        "type": "NewsCard",
+        "title": "Registration open for 2020/21 ePremier League",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/register-now-open-to-represent-chelsea-in-epremier-league.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-03T17:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/03/register-now-open-to-represent-chelsea-in-epremier-league",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "ePL",
+          "id": "editorial/news/2020/11/ePL-returns-epremier-league-202021",
+          "gravity": "auto",
+          "aspectRatio": 1.4992224,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Registration open for 2020/21 ePremier League",
+      "publishDate": "2020-12-03T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/register-now-open-to-represent-chelsea-in-epremier-league.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "EA Sports",
+          "namespace": "content-tag:",
+          "id": "content-tag_Partners_ea-sports"
+        }
+      ],
+      "date": "2020-12-03T17:00:00.000Z",
+      "description": "UK-based fans can now put their name down to represent Chelsea by competing in this season’s ePremier League tournament."
+    },
+    {
       "contentType": "Club Partners",
       "id": "_content_chelseafcennews20201203three-back-and-sides--classic-ch",
       "type": "NewsCard",
@@ -481,75 +525,6 @@
       "tags": [],
       "date": "2020-12-03T09:09:00.000Z",
       "description": "Today marks day three of our 24-day prize giveaway, and the third chance to win a new prize behind our Advent Calendar doors."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201203watch-the-highlights-of-our-big-",
-      "type": "NewsCard",
-      "timestamp": "2020-12-03T00:01:00.000Z",
-      "orderDate": "2020-12-02T23:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/03/watch-the-highlights-of-our-big-win-in-spain",
-        "type": "NewsCard",
-        "title": "Watch the highlights of our big win in Spain",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/watch-the-highlights-of-our-big-win-in-spain.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-03T00:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/03/watch-the-highlights-of-our-big-win-in-spain",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Sevilla 0-4 Chelsea | UEFA Champions League Highlights",
-          "videoId": "j0n4SWlx",
-          "bucket": "prod-cfc",
-          "description": "Highlights from our UEFA Champions League match away to Sevilla.",
-          "duration": 94000,
-          "date": "2020-12-02T23:31:37.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/j0n4SWlx/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/watch-the-highlights-of-our-big-win-in-spain.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2020/12/03/watch-the-highlights-of-our-big-win-in-spain?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2020/12/03/watch-the-highlights-of-our-big-win-in-spain",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Highlights from our UEFA Champions League match away to Sevilla."
-      },
-      "content": "Watch the highlights of our big win in Spain",
-      "publishDate": "2020-12-03T00:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/watch-the-highlights-of-our-big-win-in-spain.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2020-12-03T00:01:00.000Z",
-      "description": "It was the Olivier Giroud show at the Estadio Ramon Sanchez Pizjuan and you can see all four of his goals that won us the game against Sevilla and our Champions League group along with the other key moments above.",
-      "matchId": 2170531
     }
   ]
 }
