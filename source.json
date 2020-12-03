@@ -116,6 +116,43 @@
       "description": "Olivier Giroud joined some venerable company on Wednesday when he became the 15th player to score four or more goals in a game for Chelsea in our Champions League win at Sevilla."
     },
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20201203win-a-match-worn-shirt-in-the-ch",
+      "type": "NewsCard",
+      "timestamp": "2020-12-03T09:09:00.000Z",
+      "orderDate": "2020-12-03T00:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/03/win-a-match-worn-shirt-in-the-chelsea-advent-calendar",
+        "type": "NewsCard",
+        "title": "Win a match-worn shirt in the Chelsea Advent Calendar",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/win-a-match-worn-shirt-in-the-chelsea-advent-calendar.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-03T09:09:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/03/win-a-match-worn-shirt-in-the-chelsea-advent-calendar",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Advent",
+          "id": "chelsea-app/3777_Advent_Website_Hero_Banner_2560x1440_HYUNDAI",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Win a match-worn shirt in the Chelsea Advent Calendar",
+      "publishDate": "2020-12-03T09:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/win-a-match-worn-shirt-in-the-chelsea-advent-calendar.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2020-12-03T09:09:00.000Z",
+      "description": "Today marks day three of our 24-day prize giveaway, and the third chance to win a new prize behind our Advent Calendar doors."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201203watch-the-highlights-of-our-big-",
       "type": "NewsCard",
@@ -474,55 +511,6 @@
       "tags": [],
       "date": "2020-12-02T11:38:00.000Z",
       "description": "Thiago Silva and Kai Havertz’s excellent form in 2020 has earned them a place on the UEFA fans’ Men’s Team of the Year shortlist, with all supporters who vote to help them make the final XI entered into a prize draw."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201202sevilla-vs-chelsea---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2020-12-02T11:00:00.000Z",
-      "orderDate": "2020-12-02T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/02/sevilla-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Sevilla vs Chelsea - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/sevilla-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-02T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/02/sevilla-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kai Havertz against Sevilla",
-          "id": "editorial/news/2020/12/sevilla_home_havertz",
-          "gravity": "auto",
-          "aspectRatio": 1.5001943,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Sevilla vs Chelsea - the stats",
-      "publishDate": "2020-12-02T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/02/sevilla-vs-chelsea---the-stats.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2020-12-02T11:00:00.000Z",
-      "description": "It's Champions League matchday five and we continue our preview here with all the facts and figures needed...",
-      "matchId": 2170531
     }
   ]
 }
