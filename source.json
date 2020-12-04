@@ -57,6 +57,55 @@
       "matchId": 2170531
     },
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201204pl2-preview--kick-off-time--how-",
+      "type": "NewsCard",
+      "timestamp": "2020-12-04T02:29:00.000Z",
+      "orderDate": "2020-12-03T21:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/04/pl2-preview--kick-off-time--how-to-watch-live-and-home-comforts-",
+        "type": "NewsCard",
+        "title": "PL2 Preview: Kick-off time, how to watch live and home comforts for Peart-Harris",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/pl2-preview--kick-off-time--how-to-watch-live-and-home-comforts-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-04T02:29:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/04/pl2-preview--kick-off-time--how-to-watch-live-and-home-comforts-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Myles Peart-Harris",
+          "id": "editorial/news/2020/11/Myles-Peart-Harris-cfcdev-man-city",
+          "gravity": "auto",
+          "aspectRatio": 1.4998178,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 Preview: Kick-off time, how to watch live and home comforts for Peart-Harris",
+      "publishDate": "2020-12-04T02:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/pl2-preview--kick-off-time--how-to-watch-live-and-home-comforts-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2020-12-04T02:29:00.000Z",
+      "description": "Our development squad host Leicester City in Premier League 2 action tonight, you can watch the game live on the 5th Stand app or on the website."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201203azpilicueta--effort--even-if-not",
       "type": "NewsCard",
@@ -487,56 +536,6 @@
       ],
       "date": "2020-12-03T11:56:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Glenn Hoddle says Chelsea are superior to Real Madrid and Barcelona, and Cesc Fabregas sends a tribute to Olivier Giroud."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201203teenage-kicks--alfie-gilchrist",
-      "type": "NewsCard",
-      "timestamp": "2020-12-03T12:30:00.000Z",
-      "orderDate": "2020-12-03T00:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/03/teenage-kicks--alfie-gilchrist",
-        "type": "NewsCard",
-        "title": "Teenage Kicks: Alfie Gilchrist",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/teenage-kicks--alfie-gilchrist.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-03T12:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/03/teenage-kicks--alfie-gilchrist",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Alfie Gilchrist",
-          "id": "editorial/news/2020/11/Alfie-Gilchrist-plcup-reading",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill",
-          "isFullScale": true
-        },
-        "caption": "Alfie Gilchrist"
-      },
-      "content": "Teenage Kicks: Alfie Gilchrist",
-      "publishDate": "2020-12-03T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/teenage-kicks--alfie-gilchrist.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2020-12-03T12:30:00.000Z",
-      "description": "Our series looking at the upbringing of our Academy youngsters continues with a focus on a young defender..."
     }
   ]
 }
