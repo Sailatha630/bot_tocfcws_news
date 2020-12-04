@@ -8,6 +8,124 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201204pre-match-briefing--chelsea-vs-l",
+      "type": "NewsCard",
+      "timestamp": "2020-12-04T07:00:00.000Z",
+      "orderDate": "2020-12-04T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/04/pre-match-briefing--chelsea-vs-leeds",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Leeds United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/pre-match-briefing--chelsea-vs-leeds.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-04T07:00:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2020/12/04/pre-match-briefing--chelsea-vs-leeds",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/news/2020/12/stamford_bridge_stadium_staircase",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Leeds United",
+      "publishDate": "2020-12-04T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/pre-match-briefing--chelsea-vs-leeds.html",
+      "readTimeInMins": 68,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-12-04T07:00:00.000Z",
+      "description": "It’s been a long wait for fans back inside Stamford Bridge and an even longer one for Leeds to visit our stadium, but it is almost over now. Club historian Rick Glanvill and club statistician Paul Dutton look at a longstanding rivalry rekindled…",
+      "matchId": 2128389
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20201204chelsea-vs-leeds---anatomy-of-a-",
+      "type": "NewsCard",
+      "timestamp": "2020-12-04T07:00:00.000Z",
+      "orderDate": "2020-12-04T01:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/04/chelsea-vs-leeds---anatomy-of-a-rivalry0",
+        "type": "NewsCard",
+        "title": "Chelsea vs Leeds – anatomy of a rivalry",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/chelsea-vs-leeds---anatomy-of-a-rivalry0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-04T07:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/04/chelsea-vs-leeds---anatomy-of-a-rivalry0",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea v Leeds | A rivalry renewed...",
+          "videoId": "oyk64cRx",
+          "bucket": "prod-cfc",
+          "description": "It may have been a while, but there's certainly no love lost between Chelsea and Leeds United. Ben Andrews takes you through the history of the fixture ahead of the rivalry being renewed on Saturday...",
+          "duration": 216000,
+          "date": "2020-12-03T17:51:45.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/oyk64cRx/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/chelsea-vs-leeds---anatomy-of-a-rivalry0.page.v3.json",
+          "contentType": "History",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2020/12/04/chelsea-vs-leeds---anatomy-of-a-rivalry0?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2020/12/04/chelsea-vs-leeds---anatomy-of-a-rivalry0",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "It may have been a while, but there's certainly no love lost between Chelsea and Leeds United. Ben Andrews takes you through the history of the fixture ahead of the rivalry being renewed on Saturday..."
+      },
+      "content": "Chelsea vs Leeds – anatomy of a rivalry",
+      "publishDate": "2020-12-04T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/chelsea-vs-leeds---anatomy-of-a-rivalry0.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-12-04T07:00:00.000Z",
+      "description": "Ahead of this weekend's Premier League fixture, we look in detail at our long rivalry with Leeds United, which will be rekindled in the 2020/21 season following the Yorkshire club's promotion from the Championship.",
+      "matchId": 2128389
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201203giroud--i-want-to-stay-at-chelse",
       "type": "NewsCard",
@@ -429,113 +547,6 @@
       "date": "2020-12-03T02:56:00.000Z",
       "description": "Having produced one of the great individual Chelsea performances, written himself into the history books and helped us secure top spot in our Champions League group, Olivier Giroud spoke about the enormity of his achievement and the potential in this Blues squad.",
       "matchId": 2170531
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20201203chelsea-s-four-goal-heroes",
-      "type": "NewsCard",
-      "timestamp": "2020-12-03T04:55:00.000Z",
-      "orderDate": "2020-12-03T02:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/03/chelsea-s-four-goal-heroes",
-        "type": "NewsCard",
-        "title": "Chelsea’s four-goal heroes",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/chelsea-s-four-goal-heroes.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-03T04:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/03/chelsea-s-four-goal-heroes",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Giroud",
-          "id": "asia/editorial/giroud-sevilla-2020-GettyImages-1229913195",
-          "gravity": "auto",
-          "aspectRatio": 1.4993026,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Chelsea’s four-goal heroes",
-      "publishDate": "2020-12-03T04:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/chelsea-s-four-goal-heroes.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-03T04:55:00.000Z",
-      "description": "Olivier Giroud joined some venerable company on Wednesday when he became the 15th player to score four or more goals in a game for Chelsea in our Champions League win at Sevilla."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201203media-watch--hoddle-ranks-blues-",
-      "type": "NewsCard",
-      "timestamp": "2020-12-03T11:56:00.000Z",
-      "orderDate": "2020-12-03T02:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/03/media-watch--hoddle-ranks-blues-with-world-s-best--fabregas-prai",
-        "type": "NewsCard",
-        "title": "Media Watch: Hoddle ranks Blues with world's best, Fabregas praises Giroud and Owen tips Chelsea for league title",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/media-watch--hoddle-ranks-blues-with-world-s-best--fabregas-prai.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-03T11:56:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/03/media-watch--hoddle-ranks-blues-with-world-s-best--fabregas-prai",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Team photo",
-          "id": "editorial/media-watch/Team_MW-344d8ee489ba",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Hoddle ranks Blues with world's best, Fabregas praises Giroud and Owen tips Chelsea for league title",
-      "publishDate": "2020-12-03T11:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/media-watch--hoddle-ranks-blues-with-world-s-best--fabregas-prai.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Cesc Fabregas",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesc-fabregas"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-03T11:56:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Glenn Hoddle says Chelsea are superior to Real Madrid and Barcelona, and Cesc Fabregas sends a tribute to Olivier Giroud."
     }
   ]
 }
