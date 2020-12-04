@@ -9,6 +9,49 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201204lampard-nominated-for-manager-of",
+      "type": "NewsCard",
+      "timestamp": "2020-12-04T11:49:00.000Z",
+      "orderDate": "2020-12-04T11:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/04/lampard-nominated-for-manager-of-the-month-award",
+        "type": "NewsCard",
+        "title": "Lampard in running for Manager of the Month",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/lampard-nominated-for-manager-of-the-month-award.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-04T11:49:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/04/lampard-nominated-for-manager-of-the-month-award",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lampard",
+          "id": "editorial/match-reports/2020-21/tottenham-home/lampard-tottenham-home",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard in running for Manager of the Month",
+      "publishDate": "2020-12-04T11:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/lampard-nominated-for-manager-of-the-month-award.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-12-04T11:49:00.000Z",
+      "description": "Frank Lampard has been nominated for the Premier League’s Manager of the Month award, following our unbeaten run in November."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201204ben-chilwell-nominated-for-playe",
       "type": "NewsCard",
       "timestamp": "2020-12-04T10:54:00.000Z",
@@ -447,68 +490,6 @@
       ],
       "date": "2020-12-03T15:57:00.000Z",
       "description": "After yesterday’s result in Spain, club captain Cesar Azpilicueta was proud of the team’s performance and the depth in our squad, as emphasised by Olivier Giroud’s four goals against Sevilla."
-    },
-    {
-      "contentType": "Columnist",
-      "id": "_content_chelseafcennews20201203giles-smith--should-giroud-have-",
-      "type": "NewsCard",
-      "timestamp": "2020-12-03T12:22:00.000Z",
-      "orderDate": "2020-12-03T12:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/03/giles-smith--should-giroud-have-chested-his-penalty-in-",
-        "type": "NewsCard",
-        "title": "Giles Smith: Should Giroud have chested his penalty in?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/giles-smith--should-giroud-have-chested-his-penalty-in-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-03T12:22:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2020/12/03/giles-smith--should-giroud-have-chested-his-penalty-in-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Olivier Giroud scoring his penalty",
-          "id": "editorial/news/2020/12/giroud_penalty_sevilla_away",
-          "gravity": "auto",
-          "aspectRatio": 1.646729,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Giles Smith: Should Giroud have chested his penalty in?",
-      "publishDate": "2020-12-03T12:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/03/giles-smith--should-giroud-have-chested-his-penalty-in-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Giles",
-        "lastName": "Smith",
-        "description": "Giles Smith has been giving a supporter’s eye view on all matters Chelsea in a weekly column since 2006. A Matthew Harding Stand upper tier season ticket holders, he has been a supporter since 1970 and was briefly the proud sponsor of Gareth Hall's shorts. A former Sports Columnist of the Year, writes for the Times, and has appeared in many British publications and is the author of two books: 'Lost in Music', an autobiographical account of his failure to become a globe-girdling rock star, and 'Midnight In the Garden of Evel Kneivel', a book about sport on television. His column on chelseafc.com will be back for the new season. ",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/blogs-and-columns/giles_smith_profile_080",
-          "gravity": "face",
-          "aspectRatio": 1.1660777,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2020-12-03T12:22:00.000Z",
-      "description": "When it comes to football terminology, last night’s superb showing has Blues fan and columnist Giles Smith thinking, as he has been about the challenges of being part of the supporter squad at a big club like Chelsea…"
     }
   ]
 }
