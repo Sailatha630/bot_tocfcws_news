@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201204-i-m-not-dwelling-on-it----lampa",
+      "type": "NewsCard",
+      "timestamp": "2020-12-04T15:27:00.000Z",
+      "orderDate": "2020-12-04T15:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/04/-i-m-not-dwelling-on-it----lampard-on-history-with-bielsa-and-re",
+        "type": "NewsCard",
+        "title": "‘I’m not dwelling on it’ – Lampard on history with Bielsa and renewing an old rivalry",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/-i-m-not-dwelling-on-it----lampard-on-history-with-bielsa-and-re.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-04T15:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/04/-i-m-not-dwelling-on-it----lampard-on-history-with-bielsa-and-re",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lampard and Bielsa",
+          "id": "editorial/news/2020/12/Lampard-Bielsa-Derby-vs-Leeds",
+          "gravity": "north_east",
+          "aspectRatio": 1.5002489,
+          "cropMode": "fill"
+        }
+      },
+      "content": "‘I’m not dwelling on it’ – Lampard on history with Bielsa and renewing an old rivalry",
+      "publishDate": "2020-12-04T15:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/-i-m-not-dwelling-on-it----lampard-on-history-with-bielsa-and-re.html",
+      "readTimeInMins": 55,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-12-04T15:27:00.000Z",
+      "description": "There is plenty of back-story to take into account as Frank Lampard’s Chelsea prepare to host Marcelo Bielsa’s Leeds United in a league encounter for the first time in over 16 years…",
+      "matchId": 2128389
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201204frank-lampard-press-conference-a",
       "type": "NewsCard",
       "timestamp": "2020-12-04T14:27:00.000Z",
@@ -461,50 +515,6 @@
       ],
       "date": "2020-12-04T11:28:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Branislav Ivanovic believes Frank Lampard has all the qualities to become the England manager and Marcelo Bielsa says his relationship with our head coach is ‘not bad’."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201204matchday-travel-news--fulham-bro",
-      "type": "NewsCard",
-      "timestamp": "2020-12-04T10:32:00.000Z",
-      "orderDate": "2020-12-04T00:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/04/matchday-travel-news--fulham-broadway-closed-post-match",
-        "type": "NewsCard",
-        "title": "Matchday travel news: Fulham Broadway closed post-match",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/matchday-travel-news--fulham-broadway-closed-post-match.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-04T10:32:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/04/matchday-travel-news--fulham-broadway-closed-post-match",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Fulham Broadway",
-          "id": "site-sections/landing-pages/2019/tube-broadway",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Matchday travel news: Fulham Broadway closed post-match",
-      "publishDate": "2020-12-04T10:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/matchday-travel-news--fulham-broadway-closed-post-match.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Travel News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_travel-news"
-        }
-      ],
-      "date": "2020-12-04T10:32:00.000Z",
-      "description": "It's back! With some supporters returning to Stamford Bridge on Saturday, we have the latest travel information including details of Fulham Broadway's closure after the game...",
-      "matchId": 2128389
     }
   ]
 }
