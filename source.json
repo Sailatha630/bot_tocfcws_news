@@ -386,6 +386,49 @@
       "matchId": 2138412
     },
     {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20201205stamford-bridge-news--megastore-",
+      "type": "NewsCard",
+      "timestamp": "2020-12-05T15:00:00.000Z",
+      "orderDate": "2020-12-04T18:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/05/stamford-bridge-news--megastore--stadium-tours-and-health-club-r",
+        "type": "NewsCard",
+        "title": "Stamford Bridge news: Megastore, Stadium Tours and Health Club reopen",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/stamford-bridge-news--megastore--stadium-tours-and-health-club-r.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-05T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/05/stamford-bridge-news--megastore--stadium-tours-and-health-club-r",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chelsea Megastore",
+          "id": "editorial/news/2020/chelsea-megastore-2021-high-res",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Stamford Bridge news: Megastore, Stadium Tours and Health Club reopen",
+      "publishDate": "2020-12-05T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/stamford-bridge-news--megastore--stadium-tours-and-health-club-r.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Stamford Bridge",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_stamford-bridge"
+        }
+      ],
+      "date": "2020-12-05T15:00:00.000Z",
+      "description": "The Chelsea Megastore, Stadium Tours, and the Health Club at Stamford Bridge have reopened in line with guidance provided by the UK Government and Public Health England."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201204-i-m-not-dwelling-on-it----lampa",
       "type": "NewsCard",
@@ -492,59 +535,6 @@
       "date": "2020-12-04T14:27:00.000Z",
       "description": "Frank Lampard is once again able to utilise a fully-fit squad for tomorrow’s clash with Leeds United as the Blues look to continue a run of 15 matches without defeat...",
       "matchId": 2128389
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20201204pl2-report--chelsea-leicester",
-      "type": "NewsCard",
-      "timestamp": "2020-12-04T20:56:00.000Z",
-      "orderDate": "2020-12-04T13:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/04/pl2-report--chelsea-leicester",
-        "type": "NewsCard",
-        "title": "PL2 report: Chelsea 2 Leicester 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/pl2-report--chelsea-leicester.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-04T20:56:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/04/pl2-report--chelsea-leicester",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Peart-Harris",
-          "id": "editorial/news/2020/12/Peart-Harris-cfcdev-vs-Leicester-celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5025126,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 report: Chelsea 2 Leicester 1",
-      "publishDate": "2020-12-04T20:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/04/pl2-report--chelsea-leicester.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2020-12-04T20:56:00.000Z",
-      "description": "Chelsea’s development squad earned three points against Leicester at Kingsmeadow on Friday night."
     }
   ]
 }
