@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201205chelsea-line-up-vs-leeds",
+      "type": "NewsCard",
+      "timestamp": "2020-12-05T19:00:00.000Z",
+      "orderDate": "2020-12-05T19:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/05/chelsea-line-up-vs-leeds",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Leeds",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/chelsea-line-up-vs-leeds.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-05T19:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/05/chelsea-line-up-vs-leeds",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Olivier Giroud pre Leeds",
+          "id": "editorial/match-reports/2020-21/leeds-home/giroud-leeds-dressing-room",
+          "gravity": "auto",
+          "aspectRatio": 0.6668463,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Leeds",
+      "publishDate": "2020-12-05T19:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/chelsea-line-up-vs-leeds.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-12-05T19:00:00.000Z",
+      "description": "Olivier Giroud retains his place for the visit of Leeds United this evening.",
+      "matchId": 2128389
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201205lampard--why-kova-and-kai-can-be",
       "type": "NewsCard",
@@ -481,49 +530,6 @@
       "date": "2020-12-05T02:11:00.000Z",
       "description": "Chelsea FC Women welcome West Ham United to Kingsmeadow tomorrow and Blues midfielder Ji So-Yun is expecting a tough battle against the Hammers.",
       "matchId": 2138412
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20201205stamford-bridge-news--megastore-",
-      "type": "NewsCard",
-      "timestamp": "2020-12-05T15:00:00.000Z",
-      "orderDate": "2020-12-04T18:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/05/stamford-bridge-news--megastore--stadium-tours-and-health-club-r",
-        "type": "NewsCard",
-        "title": "Stamford Bridge news: Megastore, Stadium Tours and Health Club reopen",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/stamford-bridge-news--megastore--stadium-tours-and-health-club-r.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-05T15:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/05/stamford-bridge-news--megastore--stadium-tours-and-health-club-r",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea Megastore",
-          "id": "editorial/news/2020/chelsea-megastore-2021-high-res",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Stamford Bridge news: Megastore, Stadium Tours and Health Club reopen",
-      "publishDate": "2020-12-05T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/stamford-bridge-news--megastore--stadium-tours-and-health-club-r.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        }
-      ],
-      "date": "2020-12-05T15:00:00.000Z",
-      "description": "The Chelsea Megastore, Stadium Tours, and the Health Club at Stamford Bridge have reopened in line with guidance provided by the UK Government and Public Health England."
     }
   ]
 }
