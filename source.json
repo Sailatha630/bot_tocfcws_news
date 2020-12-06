@@ -8,6 +8,50 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201206women-s-report--chelsea-3-west-h",
+      "type": "NewsCard",
+      "timestamp": "2020-12-06T14:28:00.000Z",
+      "orderDate": "2020-12-06T14:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/06/women-s-report--chelsea-3-west-ham-2",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 3 West Ham 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/06/women-s-report--chelsea-3-west-ham-2.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-06T14:28:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2020/12/06/women-s-report--chelsea-3-west-ham-2",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kerr celebrates her opener",
+          "id": "editorial/match-reports/2020-21/women-west-ham-home/Kerr-GettyImages-1289708439",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s report: Chelsea 3 West Ham 2",
+      "publishDate": "2020-12-06T14:28:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/06/women-s-report--chelsea-3-west-ham-2.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2020-12-06T14:28:00.000Z",
+      "description": "A Sam Kerr hat-trick helped the Blues set a new Barclays Women’s Super League record for the most consecutive home wins on an afternoon when fans returned to Kingsmeadow.",
+      "matchId": 2138412
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201206the-debrief--mount-s-creative-po",
       "type": "NewsCard",
@@ -210,7 +254,7 @@
       "link": {
         "path": "/content/chelseafc/en/news/2020/12/05/lampard-reaction-to-chelsea-win-against-leeds",
         "type": "NewsCard",
-        "title": "Lampard highlights where Chelsea passed big test brilliantly, welcomes back noisy fans and updates on Ziyech injury. ",
+        "title": "Lampard highlights where Chelsea passed big test brilliantly, welcomes back noisy fans and updates on Ziyech injury",
         "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/lampard-reaction-to-chelsea-win-against-leeds.html",
         "external": true,
         "target": "sameWindow",
@@ -230,7 +274,7 @@
           "cropMode": "fill"
         }
       },
-      "content": "Lampard highlights where Chelsea passed big test brilliantly, welcomes back noisy fans and updates on Ziyech injury. ",
+      "content": "Lampard highlights where Chelsea passed big test brilliantly, welcomes back noisy fans and updates on Ziyech injury",
       "publishDate": "2020-12-05T22:14:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/lampard-reaction-to-chelsea-win-against-leeds.html",
       "readTimeInMins": 10,
@@ -505,65 +549,6 @@
       "date": "2020-12-06T00:01:00.000Z",
       "description": "It was Olivier Giroud, again, plus Kurt Zouma and fit-again Christian Pulisic who made the scoresheet against Leeds although there were influential contributions across the pitch, and you can see the goals and the other key moments above.",
       "matchId": 2170531
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201205lampard--why-kova-and-kai-can-be",
-      "type": "NewsCard",
-      "timestamp": "2020-12-05T17:20:00.000Z",
-      "orderDate": "2020-12-05T17:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/05/lampard--why-kova-and-kai-can-be-key",
-        "type": "NewsCard",
-        "title": "Lampard: Why Kova and Kai can be key",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/lampard--why-kova-and-kai-can-be-key.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-05T17:20:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/05/lampard--why-kova-and-kai-can-be-key",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kai Havertz and Mateo Kovacic",
-          "id": "editorial/news/2020/12/havertz_kovacic",
-          "gravity": "auto",
-          "aspectRatio": 1.3869625,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard: Why Kova and Kai can be key",
-      "publishDate": "2020-12-05T17:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/lampard--why-kova-and-kai-can-be-key.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-05T17:20:00.000Z",
-      "description": "Many factors are likely to come into play in deciding today’s encounter between Chelsea and newly promoted Leeds United, but one identified by Frank Lampard in the build-up to the game that could be important is the strong running ability of midfielders with the ball at their feet.",
-      "matchId": 2128389
     }
   ]
 }
