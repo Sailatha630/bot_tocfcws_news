@@ -8,6 +8,80 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201207lampard-chelsea-injury-update-an",
+      "type": "NewsCard",
+      "timestamp": "2020-12-07T14:00:00.000Z",
+      "orderDate": "2020-12-07T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/07/lampard-chelsea-injury-update-and-press-conference-krasnodar",
+        "type": "NewsCard",
+        "title": "Lampard reports two out injured, confirms starts for Gilmour and Kepa, and explains what he wants to see tomorrow",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/07/lampard-chelsea-injury-update-and-press-conference-krasnodar.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-07T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/07/lampard-chelsea-injury-update-and-press-conference-krasnodar",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard ",
+          "id": "video/2020/10/27/GettyImages-1229166215",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard reports two out injured, confirms starts for Gilmour and Kepa, and explains what he wants to see tomorrow",
+      "publishDate": "2020-12-07T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/07/lampard-chelsea-injury-update-and-press-conference-krasnodar.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Kepa Arrizabalaga ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kepa-arrizabalaga"
+        },
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-12-07T14:00:00.000Z",
+      "description": "Hamstring injuries will rule Hakim Ziyech and Callum Hudson-Odoi out of tomorrow’s Champions League group stage finale, but Frank Lampard has confirmed Kepa and Billy Gilmour will play against Krasnodar.",
+      "matchId": 2170547
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201207kante--new-players-don-t-seem-ne",
       "type": "NewsCard",
@@ -455,50 +529,6 @@
       "date": "2020-12-06T14:27:00.000Z",
       "description": "Olivier Giroud’s perfect week continued at Stamford Bridge on Saturday night as the Frenchman got himself on the scoresheet again and helped Chelsea to an impressive Premier League victory...",
       "matchId": 2128389
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20201206women-s-report--chelsea-3-west-h",
-      "type": "NewsCard",
-      "timestamp": "2020-12-06T14:28:00.000Z",
-      "orderDate": "2020-12-06T12:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/06/women-s-report--chelsea-3-west-ham-2",
-        "type": "NewsCard",
-        "title": "Women’s report: Chelsea 3 West Ham 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/06/women-s-report--chelsea-3-west-ham-2.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-06T14:28:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2020/12/06/women-s-report--chelsea-3-west-ham-2",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kerr celebrates her opener",
-          "id": "editorial/match-reports/2020-21/women-west-ham-home/Kerr-GettyImages-1289708439",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s report: Chelsea 3 West Ham 2",
-      "publishDate": "2020-12-06T14:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/06/women-s-report--chelsea-3-west-ham-2.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2020-12-06T14:28:00.000Z",
-      "description": "A Sam Kerr hat-trick helped the Blues set a new Barclays Women’s Super League record for the most consecutive home wins on an afternoon when fans returned to Kingsmeadow.",
-      "matchId": 2138412
     }
   ]
 }
