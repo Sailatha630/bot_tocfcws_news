@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Analysis",
+      "id": "_content_chelseafcennews20201207lampard-on-zouma-s-development-a",
+      "type": "NewsCard",
+      "timestamp": "2020-12-07T04:00:00.000Z",
+      "orderDate": "2020-12-07T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/07/lampard-on-zouma-s-development-and-getting-better-at-seeing-game",
+        "type": "NewsCard",
+        "title": "Lampard on Zouma’s development and getting better at seeing games out",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/07/lampard-on-zouma-s-development-and-getting-better-at-seeing-game.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-07T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/07/lampard-on-zouma-s-development-and-getting-better-at-seeing-game",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lampard and Zouma",
+          "id": "editorial/news/2020/12/lampard_leeds_home",
+          "gravity": "auto",
+          "aspectRatio": 1.4997296,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard on Zouma’s development and getting better at seeing games out",
+      "publishDate": "2020-12-07T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/07/lampard-on-zouma-s-development-and-getting-better-at-seeing-game.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-12-07T04:00:00.000Z",
+      "description": "After watching his side beat Leeds in a hard-fought encounter, Frank Lampard reflected on improvements in defence and game management...",
+      "matchId": 2128389
+    },
+    {
+      "contentType": "Analysis",
       "id": "_content_chelseafcennews20201206mount-and-giroud-reflect-on-beat",
       "type": "NewsCard",
       "timestamp": "2020-12-06T14:27:00.000Z",
@@ -485,60 +539,6 @@
       "date": "2020-12-05T22:16:00.000Z",
       "description": "Spine-tingling. That’s how it felt for so much of tonight’s game with Chelsea supporters back at Stamford Bridge for the first time since March.",
       "matchId": 2128389
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201206emma-hayes--ready-to-get-going",
-      "type": "NewsCard",
-      "timestamp": "2020-12-06T01:07:00.000Z",
-      "orderDate": "2020-12-05T19:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/06/emma-hayes--ready-to-get-going",
-        "type": "NewsCard",
-        "title": "Emma Hayes: Ready to get going",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/06/emma-hayes--ready-to-get-going.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-06T01:07:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/06/emma-hayes--ready-to-get-going",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/HayesCobham",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emma Hayes: Ready to get going",
-      "publishDate": "2020-12-06T01:07:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/06/emma-hayes--ready-to-get-going.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2020-12-06T01:07:00.000Z",
-      "description": "Emma Hayes cannot wait for Chelsea FC Women to play in front of our fans when we host West Ham at Kingsmeadow today.",
-      "matchId": 2138412
     }
   ]
 }
