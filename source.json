@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20201207kante--new-players-don-t-seem-ne",
+      "type": "NewsCard",
+      "timestamp": "2020-12-07T10:30:00.000Z",
+      "orderDate": "2020-12-07T10:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/07/kante--new-players-don-t-seem-new",
+        "type": "NewsCard",
+        "title": "Kante: New players don’t seem new",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/07/kante--new-players-don-t-seem-new.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-07T10:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/07/kante--new-players-don-t-seem-new",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " N'Golo Kante training",
+          "id": "editorial/news/2020/12/kante_training_champions_league",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kante: New players don’t seem new",
+      "publishDate": "2020-12-07T10:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/07/kante--new-players-don-t-seem-new.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-12-07T10:30:00.000Z",
+      "description": "As one of the longer-serving Chelsea players, N’Golo Kante knows what is needed to challenge at the top of the table, and he sees strength in the current squad."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201207lampard-on-zouma-s-development-a",
       "type": "NewsCard",
@@ -452,75 +500,6 @@
       ],
       "date": "2020-12-05T22:14:00.000Z",
       "description": "Frank Lampard is allowing himself to enjoy the remainder of Saturday night after beating Leeds 3-1 to move top of the Premier League ahead of Sunday’s games.",
-      "matchId": 2128389
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20201205match-report--chelsea-v-leeds",
-      "type": "NewsCard",
-      "timestamp": "2020-12-05T21:50:00.000Z",
-      "orderDate": "2020-12-05T21:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/05/match-report--chelsea-v-leeds",
-        "type": "NewsCard",
-        "title": "Match Report: Chelsea 3 Leeds 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/match-report--chelsea-v-leeds.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-05T21:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/05/match-report--chelsea-v-leeds",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2020-21/leeds-home/Giroud-celebration-Leeds-h-GettyImages-1229963504",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Chelsea 3 Leeds 1",
-      "publishDate": "2020-12-05T21:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/05/match-report--chelsea-v-leeds.html",
-      "readTimeInMins": 21,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Kurt Zouma",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kurt-zouma"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        }
-      ],
-      "date": "2020-12-05T21:50:00.000Z",
-      "description": "Goals from Olivier Giroud, Kurt Zouma and Christian Pulisic saw Chelsea come from behind to defeat Leeds 3-1 in front of 2,000 fans at Stamford Bridge.",
       "matchId": 2128389
     }
   ]
