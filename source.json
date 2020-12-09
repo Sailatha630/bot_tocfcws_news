@@ -9,6 +9,69 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201209vote-for-your-chelsea-goal-of-th",
+      "type": "NewsCard",
+      "timestamp": "2020-12-09T11:06:00.000Z",
+      "orderDate": "2020-12-09T10:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/09/vote-for-your-chelsea-goal-of-the-month-for-november",
+        "type": "NewsCard",
+        "title": "Vote for your Chelsea Goal of the Month for November",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/09/vote-for-your-chelsea-goal-of-the-month-for-november.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-09T11:06:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/09/vote-for-your-chelsea-goal-of-the-month-for-november",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Celebrations",
+          "id": "editorial/media-watch/Teamshot_MW-1286861639",
+          "gravity": "faces",
+          "aspectRatio": 1.4726387,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Vote for your Chelsea Goal of the Month for November",
+      "publishDate": "2020-12-09T11:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/09/vote-for-your-chelsea-goal-of-the-month-for-november.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Tammy Abraham",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tammy-abraham"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2020-12-09T11:06:00.000Z",
+      "description": "It’s time to cast your vote for Chelsea’s best goal of November, with six impressive efforts across our men’s, women’s and Academy teams to choose from!"
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201209havertz-feeling-fine-and-seeing-",
       "type": "NewsCard",
       "timestamp": "2020-12-09T09:34:00.000Z",
@@ -455,59 +518,6 @@
       "date": "2020-12-08T21:38:00.000Z",
       "description": "There were plenty of smiles at Cobham on Tuesday afternoon as Chelsea FC Women completed final preparations ahead of our return to the Champions League.",
       "matchId": 2176609
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20201208lampard-unconcerned-by-werner-mi",
-      "type": "NewsCard",
-      "timestamp": "2020-12-08T15:59:00.000Z",
-      "orderDate": "2020-12-08T15:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/08/lampard-unconcerned-by-werner-missed-chances---he-s-so-dangerous",
-        "type": "NewsCard",
-        "title": "Lampard unconcerned by Werner missed chances: ‘He’s so dangerous even when he doesn’t score’",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/08/lampard-unconcerned-by-werner-missed-chances---he-s-so-dangerous.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-08T15:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/08/lampard-unconcerned-by-werner-missed-chances---he-s-so-dangerous",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Werner and Lampard",
-          "id": "editorial/news/2020/11/werner_lampard",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard unconcerned by Werner missed chances: ‘He’s so dangerous even when he doesn’t score’",
-      "publishDate": "2020-12-08T15:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/08/lampard-unconcerned-by-werner-missed-chances---he-s-so-dangerous.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-08T15:59:00.000Z",
-      "description": "Timo Werner may be goalless in five games but Frank Lampard says the German forward is still offering the team plenty and will be on the scoresheet again in no time."
     }
   ]
 }
