@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201209women-s-match-report--benfica-vs",
+      "type": "NewsCard",
+      "timestamp": "2020-12-09T16:38:00.000Z",
+      "orderDate": "2020-12-09T13:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/09/women-s-match-report--benfica-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Women's Match Report: Benfica 0 Chelsea 5",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/09/women-s-match-report--benfica-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-09T16:38:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2020/12/09/women-s-match-report--benfica-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Fran Kirby celebrating",
+          "id": "editorial/match-reports/2020-21/women-benfica-away/Women-Benfica-Kirby-celebration-second",
+          "gravity": "auto",
+          "aspectRatio": 1.4016978,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women's Match Report: Benfica 0 Chelsea 5",
+      "publishDate": "2020-12-09T16:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/09/women-s-match-report--benfica-vs-chelsea.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2020-12-09T16:38:00.000Z",
+      "description": "Fran Kirby became Chelsea’s record goalscorer as the Blues produced a clinical performance to open our 2020/21 Champions League campaign.",
+      "matchId": 2176609
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201209anjorin-reveals-how-lampard-told",
       "type": "NewsCard",
@@ -469,60 +518,6 @@
       ],
       "date": "2020-12-09T00:01:00.000Z",
       "description": "With top spot in Group E already assured, it was predominantly pride at stake when Chelsea hosted Krasnodar, although the action was no less eventual and you can see all the key moments in the video above."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20201208lampard-reacts-to-krasnodar-draw",
-      "type": "NewsCard",
-      "timestamp": "2020-12-08T22:17:00.000Z",
-      "orderDate": "2020-12-08T22:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/08/lampard-reacts-to-krasnodar-draw",
-        "type": "NewsCard",
-        "title": "Lampard praises young debutants and provides injury update on Ziyech and Hudson-Odoi",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/08/lampard-reacts-to-krasnodar-draw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-08T22:17:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/08/lampard-reacts-to-krasnodar-draw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lampard",
-          "id": "editorial/match-reports/2020-21/krasnodar-home/Lampard_GettyImages-1290160746",
-          "gravity": "north",
-          "aspectRatio": 1.2983676,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard praises young debutants and provides injury update on Ziyech and Hudson-Odoi",
-      "publishDate": "2020-12-08T22:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/08/lampard-reacts-to-krasnodar-draw.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2020-12-08T22:17:00.000Z",
-      "description": "Frank Lampard declared himself pleased with his team’s performance after a 1-1 home draw with Krasnodar brought the curtain down on our Champions League group stage campaign.",
-      "matchId": 2170547
     }
   ]
 }
