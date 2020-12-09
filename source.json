@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201209havertz-feeling-fine-and-seeing-",
+      "type": "NewsCard",
+      "timestamp": "2020-12-09T09:34:00.000Z",
+      "orderDate": "2020-12-09T09:34:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/09/havertz-feeling-fine-and-seeing-big-future-for-gilmour-",
+        "type": "NewsCard",
+        "title": "Havertz feeling fine and seeing big future for Gilmour ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/09/havertz-feeling-fine-and-seeing-big-future-for-gilmour-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-09T09:34:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/09/havertz-feeling-fine-and-seeing-big-future-for-gilmour-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kai Havertz",
+          "id": "editorial/match-reports/2020-21/krasnodar-home/krasnodar_home_havertz",
+          "gravity": "auto",
+          "aspectRatio": 1.402564,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz feeling fine and seeing big future for Gilmour ",
+      "publishDate": "2020-12-09T09:34:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/09/havertz-feeling-fine-and-seeing-big-future-for-gilmour-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy_gilmour"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-12-09T09:34:00.000Z",
+      "description": "The unbeaten run continued with last night’s result against Krasnodar. Chelsea are now 17 games without defeat (excluding penalty shoot-outs) and although we did not beat the Russian side in a game of no consequence to the final group table standings, Kai Havertz believes we should be pleased with the performance."
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20201208win-a-women-s-team-signed-shirt-",
       "type": "NewsCard",
@@ -440,55 +498,6 @@
       "tags": [],
       "date": "2020-12-08T16:00:00.000Z",
       "description": "Chelsea’s Champions League match against Krasnodar this week is a rare bonus game for the Blues who will finish top of our group regardless of what happens against the Russian side at Stamford Bridge.",
-      "matchId": 2170547
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201208pre-match-briefing--chelsea-vs-k",
-      "type": "NewsCard",
-      "timestamp": "2020-12-08T11:43:00.000Z",
-      "orderDate": "2020-12-08T11:43:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/08/pre-match-briefing--chelsea-vs-krasnodar",
-        "type": "NewsCard",
-        "title": "PRE-MATCH BRIEFING: CHELSEA vs KRASNODAR",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/08/pre-match-briefing--chelsea-vs-krasnodar.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-08T11:43:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2020/12/08/pre-match-briefing--chelsea-vs-krasnodar",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge",
-          "id": "editorial/news/2020/12/stadium_stamford_bridge_champions_league",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PRE-MATCH BRIEFING: CHELSEA vs KRASNODAR",
-      "publishDate": "2020-12-08T11:43:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/08/pre-match-briefing--chelsea-vs-krasnodar.html",
-      "readTimeInMins": 35,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2020-12-08T11:43:00.000Z",
-      "description": "We welcome the Russians to a wintry Stamford Bridge to conclude the 2020/21 group stage. With qualification tension removed from the fixture, club historian Rick Glanvill and club statistician Paul Dutton look at the other stories surrounding tonight’s match…",
       "matchId": 2170547
     }
   ]
