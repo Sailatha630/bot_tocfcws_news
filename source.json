@@ -195,19 +195,35 @@
       "template": "standard-article",
       "path": "/content/chelseafc/en/news/2020/12/10/kirby-proud-to-be-all-time-leading-goalscorer",
       "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2020-21/women-benfica-away/Women-Benfica-Kirby-first",
-          "gravity": "auto",
-          "aspectRatio": 1.5025241,
-          "cropMode": "fill"
-        }
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Fran Kirby | Chelsea Women's all-time top goalscorer! ",
+          "videoId": "wzI6PAyc",
+          "bucket": "prod-cfc",
+          "description": "With her two goals against Benfica in the Women's Champions League, Fran Kirby overtook Eniola Aluko as Chelsea Women's all-time top goalscorer!",
+          "duration": 85000,
+          "date": "2020-12-10T11:57:01.011Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/wzI6PAyc/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/kirby-proud-to-be-all-time-leading-goalscorer.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2020/12/10/kirby-proud-to-be-all-time-leading-goalscorer?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2020/12/10/kirby-proud-to-be-all-time-leading-goalscorer",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "With her two goals against Benfica in the Women's Champions League, Fran Kirby overtook Eniola Aluko as Chelsea Women's all-time top goalscorer!"
       },
       "content": "Kirby proud to be all-time leading goalscorer",
       "publishDate": "2020-12-10T14:45:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/kirby-proud-to-be-all-time-leading-goalscorer.html",
-      "readTimeInMins": 7,
+      "readTimeInMins": 8,
       "tags": [
         {
           "title": "Women",
