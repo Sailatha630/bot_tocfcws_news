@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201210frank-lampard-press-conference-a",
+      "type": "NewsCard",
+      "timestamp": "2020-12-10T13:55:00.000Z",
+      "orderDate": "2020-12-10T13:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/10/frank-lampard-press-conference-ahead-of-everton",
+        "type": "NewsCard",
+        "title": "Lampard updates on Pulisic’s condition, explains Ancelotti’s influence and assesses early title picture",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/frank-lampard-press-conference-ahead-of-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-10T13:55:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/10/frank-lampard-press-conference-ahead-of-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lampard",
+          "id": "chelsea-app/Lampard-DAZ_9673",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard updates on Pulisic’s condition, explains Ancelotti’s influence and assesses early title picture",
+      "publishDate": "2020-12-10T13:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/frank-lampard-press-conference-ahead-of-everton.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-12-10T13:55:00.000Z",
+      "description": "Frank Lampard has provided an update on the fitness of his squad ahead of Saturday’s trip to Everton, including news of why Christian Pulisic sat out the Champions League draw with Krasnodar in midweek.",
+      "matchId": 2128398
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20201210giles-smith-on-what-it-was-like-",
       "type": "NewsCard",
@@ -438,49 +492,6 @@
       "date": "2020-12-09T12:46:00.000Z",
       "description": "While our meeting with Krasnodar may have been inconsequential on paper, for Tino Anjorin it was the culmination of a childhood dream as the youngster made his first Chelsea start, and he reflected afterwards on a special night at Stamford Bridge…",
       "matchId": 2170547
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20201209west-ham-ticket-information",
-      "type": "NewsCard",
-      "timestamp": "2020-12-09T20:45:00.000Z",
-      "orderDate": "2020-12-09T17:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/09/west-ham-ticket-information",
-        "type": "NewsCard",
-        "title": "West Ham ticket information: ballot opens on Thursday",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/09/west-ham-ticket-information.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-09T20:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/09/west-ham-ticket-information",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Fans at Leeds game",
-          "id": "editorial/news/2020/12/stamford-bridge-fans-leeds",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "West Ham ticket information: ballot opens on Thursday",
-      "publishDate": "2020-12-09T20:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/09/west-ham-ticket-information.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2020-12-09T20:45:00.000Z",
-      "description": "Season ticket holders will be able to apply in the ballot for the West Ham United home fixture from tomorrow (Thursday) at midday..."
     }
   ]
 }
