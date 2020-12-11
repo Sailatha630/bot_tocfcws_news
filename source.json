@@ -149,6 +149,64 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201211media-watch--france-boss-on-giro",
+      "type": "NewsCard",
+      "timestamp": "2020-12-11T10:06:00.000Z",
+      "orderDate": "2020-12-11T02:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/11/media-watch--france-boss-on-giroud-s-goals--leeds-midfielder-imp",
+        "type": "NewsCard",
+        "title": "Media Watch: France boss on Giroud's goals, Leeds midfielder impressed by Blues duo and Neuer hails Mendy",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/media-watch--france-boss-on-giroud-s-goals--leeds-midfielder-imp.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-11T10:06:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/11/media-watch--france-boss-on-giroud-s-goals--leeds-midfielder-imp",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Giroud",
+          "id": "editorial/media-watch/Giroud_MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: France boss on Giroud's goals, Leeds midfielder impressed by Blues duo and Neuer hails Mendy",
+      "publishDate": "2020-12-11T10:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/media-watch--france-boss-on-giroud-s-goals--leeds-midfielder-imp.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2020-12-11T10:06:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, Didier Deschamps wants to take advantage of Olivier Giroud’s goals and Kalvin Phillips names the Blues as Leeds' toughest opponents so far this season."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201211chelsea-women-players-nominated-",
       "type": "NewsCard",
       "timestamp": "2020-12-11T03:00:00.000Z",
@@ -431,54 +489,6 @@
       "tags": [],
       "date": "2020-12-10T21:44:00.000Z",
       "description": "Chelsea FC Foundation have joined forces with Mount Kelly School in Devon to launch a Girls Football Programme."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews2020121010-questions-with----olivier-gir",
-      "type": "NewsCard",
-      "timestamp": "2020-12-10T04:23:00.000Z",
-      "orderDate": "2020-12-10T04:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/10/10-questions-with----olivier-giroud",
-        "type": "NewsCard",
-        "title": "10 Questions with... Olivier Giroud",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/10-questions-with----olivier-giroud.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-10T04:23:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2020/12/10/10-questions-with----olivier-giroud",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Olivier Giroud",
-          "id": "editorial/news/2020/12/giroud-barnsley-2",
-          "gravity": "center",
-          "aspectRatio": 1.4383508,
-          "cropMode": "fill"
-        }
-      },
-      "content": "10 Questions with... Olivier Giroud",
-      "publishDate": "2020-12-10T04:23:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/10-questions-with----olivier-giroud.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-12-10T04:23:00.000Z",
-      "description": "In the first of a new series asking the Chelsea players 10 questions about anything and everything, Olivier Giroud goes into detail on crossing, heading and volleying, three skills the forward knows all about."
     }
   ]
 }
