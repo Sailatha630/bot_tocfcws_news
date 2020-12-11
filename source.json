@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201211pre-match-briefing--everton-vs-c",
+      "type": "NewsCard",
+      "timestamp": "2020-12-11T11:54:00.000Z",
+      "orderDate": "2020-12-11T11:54:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/11/pre-match-briefing--everton-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Everton vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/pre-match-briefing--everton-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-11T11:54:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2020/12/11/pre-match-briefing--everton-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Goodison Park",
+          "id": "editorial/news/2020/12/goodison-park_view_outside",
+          "gravity": "auto",
+          "aspectRatio": 1.5264862,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Everton vs Chelsea",
+      "publishDate": "2020-12-11T11:54:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/pre-match-briefing--everton-vs-chelsea.html",
+      "readTimeInMins": 65,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2020-12-11T11:54:00.000Z",
+      "description": "It’s another late one for the Blues this weekend as we make the journey to Merseyside for the first of two away games in four days. Club historian Rick Glanvill and club statistician Paul Dutton set the scene for Saturday night’s encounter…",
+      "matchId": 2128398
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201211lampard-on-what-is-expected-from",
       "type": "NewsCard",
@@ -453,42 +507,6 @@
       },
       "date": "2020-12-10T11:09:00.000Z",
       "description": "Chelsea website columnist and season ticket holder Giles Smith was one of the lucky few supporting the Blues against Leeds from the stands, and here he details that new experience and beams with pride at getting praise for his showing on the night..."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20201210foundation-launches-girls-footba",
-      "type": "NewsCard",
-      "timestamp": "2020-12-10T21:44:00.000Z",
-      "orderDate": "2020-12-10T10:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/10/foundation-launches-girls-football-programme-with-mount-kelly-sc",
-        "type": "NewsCard",
-        "title": "Foundation launches girls football programme with Mount Kelly School",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/foundation-launches-girls-football-programme-with-mount-kelly-sc.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-10T21:44:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/10/foundation-launches-girls-football-programme-with-mount-kelly-sc",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2020/12/Foundation_MountKelly",
-          "gravity": "auto",
-          "aspectRatio": 1.0446541,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Foundation launches girls football programme with Mount Kelly School",
-      "publishDate": "2020-12-10T21:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/foundation-launches-girls-football-programme-with-mount-kelly-sc.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2020-12-10T21:44:00.000Z",
-      "description": "Chelsea FC Foundation have joined forces with Mount Kelly School in Devon to launch a Girls Football Programme."
     }
   ]
 }
