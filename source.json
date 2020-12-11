@@ -162,7 +162,7 @@
         }
       ],
       "date": "2020-12-11T14:45:00.000Z",
-      "description": "Chelsea’s development squad welcome Tottenham to Kingsmeadow on Monday evening and you can watch the game live on the 5th Stand app or the official Chelsea webiste."
+      "description": "Chelsea’s development squad welcome Tottenham to Kingsmeadow on Monday evening and you can watch the game live on the 5th Stand app or the official Chelsea website."
     },
     {
       "contentType": "Competitions",
@@ -364,6 +364,43 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201211-special-webinar-just-part-of-ch",
+      "type": "NewsCard",
+      "timestamp": "2020-12-11T13:55:00.000Z",
+      "orderDate": "2020-12-11T01:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/11/-special-webinar-just-part-of-chelsea-support-for-2020-rainbow-l",
+        "type": "NewsCard",
+        "title": " Special webinar just part of Chelsea support for 2020 Rainbow Laces campaign ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/-special-webinar-just-part-of-chelsea-support-for-2020-rainbow-l.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-11T13:55:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/11/-special-webinar-just-part-of-chelsea-support-for-2020-rainbow-l",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Rainbow West Stand",
+          "id": "editorial/news/2020/12/Rainbow_West_Upper_Display",
+          "gravity": "auto",
+          "aspectRatio": 1.3333334,
+          "cropMode": "fill"
+        }
+      },
+      "content": " Special webinar just part of Chelsea support for 2020 Rainbow Laces campaign ",
+      "publishDate": "2020-12-11T13:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/-special-webinar-just-part-of-chelsea-support-for-2020-rainbow-l.html",
+      "readTimeInMins": 8,
+      "tags": [],
+      "date": "2020-12-11T13:55:00.000Z",
+      "description": "Across the past week, Chelsea FC has proudly shown our support for the 2020 Rainbow Laces campaign."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201211chelsea-women-players-nominated-",
       "type": "NewsCard",
       "timestamp": "2020-12-11T03:00:00.000Z",
@@ -458,54 +495,6 @@
       "date": "2020-12-10T13:55:00.000Z",
       "description": "Frank Lampard has provided an update on the fitness of his squad ahead of Saturday’s trip to Everton, including news of why Christian Pulisic sat out the Champions League draw with Krasnodar in midweek.",
       "matchId": 2128398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201210kante-and-thiago-silva-nominated",
-      "type": "NewsCard",
-      "timestamp": "2020-12-10T17:06:00.000Z",
-      "orderDate": "2020-12-10T13:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/10/kante-and-thiago-silva-nominated-for-fifpro-word-xi",
-        "type": "NewsCard",
-        "title": "Kante and Thiago Silva nominated for FIFPRO World XI",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/kante-and-thiago-silva-nominated-for-fifpro-word-xi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-10T17:06:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/10/kante-and-thiago-silva-nominated-for-fifpro-word-xi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Thiago-Silva-Kante-GettyImages-1283186521",
-          "gravity": "auto",
-          "aspectRatio": 1.3993056,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kante and Thiago Silva nominated for FIFPRO World XI",
-      "publishDate": "2020-12-10T17:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/10/kante-and-thiago-silva-nominated-for-fifpro-word-xi.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        }
-      ],
-      "date": "2020-12-10T17:06:00.000Z",
-      "description": "Chelsea duo Thiago Silva and N’Golo Kante have both been nominated for the prestigious 2020 FIFA FIFPRO World XI."
     }
   ]
 }
