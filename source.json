@@ -9,6 +9,54 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201212lampard--it-s-an-exciting-battle",
+      "type": "NewsCard",
+      "timestamp": "2020-12-12T00:59:00.000Z",
+      "orderDate": "2020-12-12T00:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/12/lampard--it-s-an-exciting-battle-",
+        "type": "NewsCard",
+        "title": "Lampard: It's an exciting battle ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/lampard--it-s-an-exciting-battle-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-12T00:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/12/lampard--it-s-an-exciting-battle-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard at training",
+          "id": "editorial/news/2020/12/lampard_training_pre_everton_away",
+          "gravity": "auto",
+          "aspectRatio": 0.6666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard: It's an exciting battle ",
+      "publishDate": "2020-12-12T00:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/lampard--it-s-an-exciting-battle-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Tammy Abraham",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tammy-abraham"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-12-12T00:59:00.000Z",
+      "description": "While having plenty of exciting attacking options at his disposal, Frank Lampard has also highlighted the threat England and Everton striker Dominic Calvert-Lewin could present when we meet at Goodison Park this evening."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201211date-and-time-confirmed-for-more",
       "type": "NewsCard",
       "timestamp": "2020-12-11T18:42:00.000Z",
@@ -443,60 +491,6 @@
       ],
       "date": "2020-12-11T17:02:00.000Z",
       "description": "Today it has been announced that Chelsea FC Women manager Emma Hayes and forward Pernille Harder are among the final nominees for The Best FIFA Football Awards 2020."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201211everton-vs-chelsea---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2020-12-11T03:00:00.000Z",
-      "orderDate": "2020-12-11T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/11/everton-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Everton vs Chelsea - the stats - away run to go on?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/everton-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-11T03:00:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2020/12/11/everton-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "James vs Everton",
-          "id": "editorial/news/2020/12/reece-james-everton-away-2019",
-          "gravity": "north",
-          "aspectRatio": 1.4997859,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Everton vs Chelsea - the stats - away run to go on?",
-      "publishDate": "2020-12-11T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/everton-vs-chelsea---the-stats.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2020-12-11T03:00:00.000Z",
-      "description": "The most familiar of grounds awaits the Blues this weekend, and that and other notable facts and figures begins our preview of the trip to Everton...",
-      "matchId": 2128398
     }
   ]
 }
