@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201212chelsea-line-up-vs-everton",
+      "type": "NewsCard",
+      "timestamp": "2020-12-12T19:00:00.000Z",
+      "orderDate": "2020-12-12T19:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/12/chelsea-line-up-vs-everton",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/chelsea-line-up-vs-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-12T19:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/12/chelsea-line-up-vs-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Kovacic-shirt-everton",
+          "gravity": "auto",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Everton",
+      "publishDate": "2020-12-12T19:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/chelsea-line-up-vs-everton.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2020-12-12T19:00:00.000Z",
+      "description": "Frank Lampard makes one change from our most recent Premier League outing, last weekend against Leeds.",
+      "matchId": 2128398
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201212-he-told-me-to-just-watch-maldin",
       "type": "NewsCard",
@@ -453,60 +507,6 @@
       ],
       "date": "2020-12-11T17:28:00.000Z",
       "description": "The Blues of London have now made the journey north to take on our counterparts from Merseyside tomorrow but earlier in the day there was training at Cobham, with some target practice with a difference part of the programme.",
-      "matchId": 2128398
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201211pre-match-briefing--everton-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2020-12-11T11:54:00.000Z",
-      "orderDate": "2020-12-11T11:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/11/pre-match-briefing--everton-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Everton vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/pre-match-briefing--everton-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-11T11:54:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2020/12/11/pre-match-briefing--everton-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Goodison Park",
-          "id": "editorial/news/2020/12/goodison-park_view_outside",
-          "gravity": "auto",
-          "aspectRatio": 1.5264862,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Everton vs Chelsea",
-      "publishDate": "2020-12-11T11:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/pre-match-briefing--everton-vs-chelsea.html",
-      "readTimeInMins": 65,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2020-12-11T11:54:00.000Z",
-      "description": "It’s another late one for the Blues this weekend as we make the journey to Merseyside for the first of two away games in four days. Club historian Rick Glanvill and club statistician Paul Dutton set the scene for Saturday night’s encounter…",
       "matchId": 2128398
     }
   ]
