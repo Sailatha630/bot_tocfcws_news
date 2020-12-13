@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201213chilwell--what-we-have-to-do-aft",
+      "type": "NewsCard",
+      "timestamp": "2020-12-13T07:24:00.000Z",
+      "orderDate": "2020-12-13T07:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/13/chilwell--what-we-have-to-do-after-everton-setback",
+        "type": "NewsCard",
+        "title": "Chilwell: What we have to do after Everton setback",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/chilwell--what-we-have-to-do-after-everton-setback.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-13T07:24:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/13/chilwell--what-we-have-to-do-after-everton-setback",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ben Chilwell",
+          "id": "editorial/match-reports/2020-21/everton-away/chilwell_everton_away",
+          "gravity": "auto",
+          "aspectRatio": 1.5606469,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chilwell: What we have to do after Everton setback",
+      "publishDate": "2020-12-13T07:24:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/chilwell--what-we-have-to-do-after-everton-setback.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2020-12-13T07:24:00.000Z",
+      "description": "Having tasted league defeat for the first time as a Chelsea player, Ben Chilwell acknowledged Everton defended well in Saturday’s match at Goodison Park but admitted his side should have tested them more.",
+      "matchId": 2128398
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201212frank-lampard-reaction-everton-a",
       "type": "NewsCard",
@@ -464,55 +518,6 @@
       "tags": [],
       "date": "2020-12-12T07:13:00.000Z",
       "description": "Today marks day 12 of our 24-day prize giveaway, and the 12th chance to win a new prize behind our Advent Calendar doors."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201212brighton---hove-albion-women-v-c",
-      "type": "NewsCard",
-      "timestamp": "2020-12-12T08:46:00.000Z",
-      "orderDate": "2020-12-12T00:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/12/brighton---hove-albion-women-v-chelsea-women-preview--kick-off-t",
-        "type": "NewsCard",
-        "title": "Brighton Women vs Chelsea Women preview: Kick-off time, how to watch the match live and more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/brighton---hove-albion-women-v-chelsea-women-preview--kick-off-t.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-12T08:46:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/12/brighton---hove-albion-women-v-chelsea-women-preview--kick-off-t",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/cele",
-          "gravity": "auto",
-          "aspectRatio": 1.4908136,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Brighton Women vs Chelsea Women preview: Kick-off time, how to watch the match live and more!",
-      "publishDate": "2020-12-12T08:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/brighton---hove-albion-women-v-chelsea-women-preview--kick-off-t.html",
-      "readTimeInMins": 33,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2020-12-12T08:46:00.000Z",
-      "description": "Tomorrow Chelsea FC Women travel away to Brighton & Hove Albion in the Barclays FA Women’s Super League and here we have all the background information you need ahead of the clash.",
-      "matchId": 2138417
     }
   ]
 }
