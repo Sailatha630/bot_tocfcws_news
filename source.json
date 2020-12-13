@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201213mount--we-can-t-do-that-if-we-wa",
+      "type": "NewsCard",
+      "timestamp": "2020-12-13T14:00:00.000Z",
+      "orderDate": "2020-12-13T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/13/mount--we-can-t-do-that-if-we-want-to-reach-the-top",
+        "type": "NewsCard",
+        "title": "Mount: We can’t do that if we want to reach the top",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/mount--we-can-t-do-that-if-we-want-to-reach-the-top.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-13T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/13/mount--we-can-t-do-that-if-we-want-to-reach-the-top",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mason Mount at Everton",
+          "id": "editorial/match-reports/2020-21/everton-away/mount_everton_away",
+          "gravity": "north_west",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount: We can’t do that if we want to reach the top",
+      "publishDate": "2020-12-13T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/mount--we-can-t-do-that-if-we-want-to-reach-the-top.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2020-12-13T14:00:00.000Z",
+      "description": "An honest assessment of Chelsea’s first-half performance at Everton from the midfielder…",
+      "matchId": 2128398
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201213what-can-you-watch-on-chelsea-pl",
       "type": "NewsCard",
       "timestamp": "2020-12-13T12:41:00.000Z",
@@ -472,60 +526,6 @@
       ],
       "date": "2020-12-12T19:00:00.000Z",
       "description": "Frank Lampard makes one change from our most recent Premier League outing, last weekend against Leeds.",
-      "matchId": 2128398
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201212-he-told-me-to-just-watch-maldin",
-      "type": "NewsCard",
-      "timestamp": "2020-12-12T16:47:00.000Z",
-      "orderDate": "2020-12-12T16:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/12/-he-told-me-to-just-watch-maldini--i-owe-him-a-lot----thiago-sil",
-        "type": "NewsCard",
-        "title": "‘He told me to just watch Maldini. I owe him a lot’ – Thiago Silva on how Ancelotti helped him settle in Europe",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/-he-told-me-to-just-watch-maldini--i-owe-him-a-lot----thiago-sil.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-12T16:47:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/12/-he-told-me-to-just-watch-maldini--i-owe-him-a-lot----thiago-sil",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ancelotti and Thiago Silva",
-          "id": "editorial/news/2020/12/Thiago-Silva-Ancelotti-PSG",
-          "gravity": "auto",
-          "aspectRatio": 1.777034,
-          "cropMode": "fill"
-        }
-      },
-      "content": "‘He told me to just watch Maldini. I owe him a lot’ – Thiago Silva on how Ancelotti helped him settle in Europe",
-      "publishDate": "2020-12-12T16:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/-he-told-me-to-just-watch-maldini--i-owe-him-a-lot----thiago-sil.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Carlo Ancelotti",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_carlo-ancelotti"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-12-12T16:47:00.000Z",
-      "description": "The Brazilian recalls how Carlo Ancelotti, the man in the Everton dugout tonight, helped him settle in European football following a tumultous few years...",
       "matchId": 2128398
     }
   ]
