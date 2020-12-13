@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20201213the-debrief--james-influential-b",
+      "type": "NewsCard",
+      "timestamp": "2020-12-13T11:55:00.000Z",
+      "orderDate": "2020-12-13T11:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/13/the-debrief--james-influential-but-blues-blunted",
+        "type": "NewsCard",
+        "title": "The Debrief: James influential but Blues blunted",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/the-debrief--james-influential-but-blues-blunted.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-13T11:55:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/13/the-debrief--james-influential-but-blues-blunted",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Debrief graphic",
+          "id": "editorial/news/2020/12/Debrief-vs-Everton-header",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: James influential but Blues blunted",
+      "publishDate": "2020-12-13T11:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/the-debrief--james-influential-but-blues-blunted.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        }
+      ],
+      "date": "2020-12-13T11:55:00.000Z",
+      "description": "Using the data from yesterday’s game against Everton, we take a statistical look at the key aspects of a frustrating evening on Merseyside for Frank Lampard’s men…",
+      "matchId": 2128398
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201213chilwell--what-we-have-to-do-aft",
       "type": "NewsCard",
@@ -464,54 +518,6 @@
       "date": "2020-12-12T11:07:00.000Z",
       "description": "When Thiago Silva was handed his Premier League debut back in September away at West Brom, a few short weeks after completing his transfer from Paris Saint-Germain, there was one additional responsibility that Frank Lampard bestowed upon the Brazilian.",
       "matchId": 2128398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201212lampard--it-s-an-exciting-battle",
-      "type": "NewsCard",
-      "timestamp": "2020-12-12T00:59:00.000Z",
-      "orderDate": "2020-12-12T07:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/12/lampard--it-s-an-exciting-battle-",
-        "type": "NewsCard",
-        "title": "Lampard: It's an exciting battle ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/lampard--it-s-an-exciting-battle-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-12T00:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/12/lampard--it-s-an-exciting-battle-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Frank Lampard at training",
-          "id": "editorial/news/2020/12/lampard_training_pre_everton_away",
-          "gravity": "auto",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard: It's an exciting battle ",
-      "publishDate": "2020-12-12T00:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/lampard--it-s-an-exciting-battle-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-12T00:59:00.000Z",
-      "description": "While having plenty of exciting attacking options at his disposal, Frank Lampard has also highlighted the threat England and Everton striker Dominic Calvert-Lewin could present when we meet at Goodison Park this evening."
     }
   ]
 }
