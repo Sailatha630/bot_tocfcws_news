@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201213what-can-you-watch-on-chelsea-pl",
+      "type": "NewsCard",
+      "timestamp": "2020-12-13T12:41:00.000Z",
+      "orderDate": "2020-12-13T12:41:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/13/what-can-you-watch-on-chelsea-platforms-this-week-",
+        "type": "NewsCard",
+        "title": "What can you watch on Chelsea platforms this week?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-13T12:41:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/13/what-can-you-watch-on-chelsea-platforms-this-week-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kingsmeadow",
+          "id": "editorial/women's-team/Kingsmeadow",
+          "gravity": "south_east",
+          "aspectRatio": 1.5827794,
+          "cropMode": "fill"
+        }
+      },
+      "content": "What can you watch on Chelsea platforms this week?",
+      "publishDate": "2020-12-13T12:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2020-12-13T12:41:00.000Z",
+      "description": "There's a bumper week of live football on our channels this week, with the Women's team and development squad both in action twice, plus the usual media conference coverage and matchday live shows around two Premier League fixtures..."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201213the-debrief--james-influential-b",
       "type": "NewsCard",
@@ -473,59 +526,6 @@
       ],
       "date": "2020-12-12T16:47:00.000Z",
       "description": "The Brazilian recalls how Carlo Ancelotti, the man in the Everton dugout tonight, helped him settle in European football following a tumultous few years...",
-      "matchId": 2128398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201212havertz-back-and-ready-to-show-h",
-      "type": "NewsCard",
-      "timestamp": "2020-12-12T14:01:00.000Z",
-      "orderDate": "2020-12-12T14:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/12/havertz-back-and-ready-to-show-his-best-",
-        "type": "NewsCard",
-        "title": "Havertz back and ready to show his best ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/havertz-back-and-ready-to-show-his-best-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-12T14:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/12/havertz-back-and-ready-to-show-his-best-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/media-watch/Havertz-1289774984",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz back and ready to show his best ",
-      "publishDate": "2020-12-12T14:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/havertz-back-and-ready-to-show-his-best-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-12T14:01:00.000Z",
-      "description": "With a Premier League clash away at Everton awaiting Chelsea this evening, one player is keen to showcase his talents after returning to action strongly in recent weeks following a spell on the sidelines.",
       "matchId": 2128398
     }
   ]
