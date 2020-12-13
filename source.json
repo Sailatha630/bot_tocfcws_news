@@ -8,6 +8,50 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201213women-s-report--brighton-0-chels",
+      "type": "NewsCard",
+      "timestamp": "2020-12-13T16:04:00.000Z",
+      "orderDate": "2020-12-13T16:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/13/women-s-report--brighton-0-chelsea-1",
+        "type": "NewsCard",
+        "title": "Women’s report: Brighton 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/women-s-report--brighton-0-chelsea-1.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-13T16:04:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2020/12/13/women-s-report--brighton-0-chelsea-1",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kerr heads the winning goal",
+          "id": "editorial/match-reports/2020-21/women-brighton-away/Women-brighton-kerr-goal",
+          "gravity": "auto",
+          "aspectRatio": 1.5024295,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s report: Brighton 0 Chelsea 1",
+      "publishDate": "2020-12-13T16:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/women-s-report--brighton-0-chelsea-1.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2020-12-13T16:04:00.000Z",
+      "description": "A first-half header from Sam Kerr proved to be the difference between the Blues and the Seagulls, as we battled to a narrow victory that keeps us up there in the race for the Barclays Women’s Super League title.",
+      "matchId": 2138417
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201213mount--we-can-t-do-that-if-we-wa",
       "type": "NewsCard",
@@ -472,60 +516,6 @@
       ],
       "date": "2020-12-12T22:14:00.000Z",
       "description": "Goodison Park’s reputation as a problem ground for Chelsea was increased on Saturday night as a first-half penalty proved sufficient to give the Toffees their eighth victory in the past 12 meetings between the clubs on Merseyside, and their third in a row.",
-      "matchId": 2128398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201212chelsea-line-up-vs-everton",
-      "type": "NewsCard",
-      "timestamp": "2020-12-12T19:00:00.000Z",
-      "orderDate": "2020-12-12T19:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/12/chelsea-line-up-vs-everton",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Everton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/chelsea-line-up-vs-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-12T19:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/12/chelsea-line-up-vs-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Kovacic-shirt-everton",
-          "gravity": "auto",
-          "aspectRatio": 0.75,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Everton",
-      "publishDate": "2020-12-12T19:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/12/chelsea-line-up-vs-everton.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2020-12-12T19:00:00.000Z",
-      "description": "Frank Lampard makes one change from our most recent Premier League outing, last weekend against Leeds.",
       "matchId": 2128398
     }
   ]
