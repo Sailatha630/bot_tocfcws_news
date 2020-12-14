@@ -9,6 +9,54 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201214lampard-verdict-on-facing-atleti",
+      "type": "NewsCard",
+      "timestamp": "2020-12-14T13:48:00.000Z",
+      "orderDate": "2020-12-14T13:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/14/lampard-verdict-on-facing-atletico-in-europe",
+        "type": "NewsCard",
+        "title": "Lampard verdict on facing Atletico in Europe",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/14/lampard-verdict-on-facing-atletico-in-europe.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-14T13:48:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/14/lampard-verdict-on-facing-atletico-in-europe",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Frank Lampard",
+          "id": "editorial/news/2020/12/lampard_champions_league",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard verdict on facing Atletico in Europe",
+      "publishDate": "2020-12-14T13:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/14/lampard-verdict-on-facing-atletico-in-europe.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2020-12-14T13:48:00.000Z",
+      "description": "Shortly after Monday morning’s draw for the first knockout stage of the Champions League, Frank Lampard spoke about the challenge that awaits his side in the competition in the new year."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201214champions-league-round-of-16-dra",
       "type": "NewsCard",
       "timestamp": "2020-12-14T11:00:00.000Z",
@@ -439,59 +487,6 @@
       "date": "2020-12-13T14:00:00.000Z",
       "description": "An honest assessment of Chelsea’s first-half performance at Everton from the midfielder…",
       "matchId": 2128398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201213what-can-you-watch-on-chelsea-pl",
-      "type": "NewsCard",
-      "timestamp": "2020-12-13T12:41:00.000Z",
-      "orderDate": "2020-12-13T12:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/13/what-can-you-watch-on-chelsea-platforms-this-week-",
-        "type": "NewsCard",
-        "title": "What can you watch on Chelsea platforms this week?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-13T12:41:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/13/what-can-you-watch-on-chelsea-platforms-this-week-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kingsmeadow",
-          "id": "editorial/women's-team/Kingsmeadow",
-          "gravity": "south_east",
-          "aspectRatio": 1.5827794,
-          "cropMode": "fill"
-        }
-      },
-      "content": "What can you watch on Chelsea platforms this week?",
-      "publishDate": "2020-12-13T12:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/13/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2020-12-13T12:41:00.000Z",
-      "description": "There's a bumper week of live football on our channels this week, with the Women's team and development squad both in action twice, plus the usual media conference coverage and matchday live shows around two Premier League fixtures..."
     }
   ]
 }
