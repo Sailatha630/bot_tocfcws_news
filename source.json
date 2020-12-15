@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201215four-january-games-moved",
+      "type": "NewsCard",
+      "timestamp": "2020-12-15T16:00:00.000Z",
+      "orderDate": "2020-12-15T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/15/four-january-games-moved",
+        "type": "NewsCard",
+        "title": "Four January games moved",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/four-january-games-moved.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-15T16:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/15/four-january-games-moved",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "chelsea-app/BT-Sport-at-Chelsea-GettyImages-1278235690",
+          "gravity": "auto",
+          "aspectRatio": 1.5004742,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Four January games moved",
+      "publishDate": "2020-12-15T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/four-january-games-moved.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-12-15T16:00:00.000Z",
+      "description": "The Premier League’s live TV broadcast selections for January have been made with four Chelsea games chosen."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201215havertz-grateful-for-lampard-gui",
       "type": "NewsCard",
@@ -490,60 +538,6 @@
       "tags": [],
       "date": "2020-12-15T00:47:00.000Z",
       "description": "Today marks day 15 of our 24-day prize giveaway, and the 15th chance to win a new prize behind our Advent Calendar doors."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20201215pl2-reaction--it-meant-just-that",
-      "type": "NewsCard",
-      "timestamp": "2020-12-15T10:55:00.000Z",
-      "orderDate": "2020-12-14T23:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/15/pl2-reaction--it-meant-just-that-bit-more",
-        "type": "NewsCard",
-        "title": "PL2 reaction: It meant just that bit more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/pl2-reaction--it-meant-just-that-bit-more.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-15T10:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/15/pl2-reaction--it-meant-just-that-bit-more",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Myles Peart-Harris",
-          "id": "editorial/news/2020/12/myles-peart-harris-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.7770219,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 reaction: It meant just that bit more",
-      "publishDate": "2020-12-15T10:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/pl2-reaction--it-meant-just-that-bit-more.html",
-      "readTimeInMins": 36,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2020-12-15T10:55:00.000Z",
-      "description": "Two-goal Myles Peart-Harris reflects on another memorable comeback for our development squad..."
     }
   ]
 }
