@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201215match-report--wolves-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2020-12-15T19:49:00.000Z",
+      "orderDate": "2020-12-15T19:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/15/match-report--wolves-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Wolves 2 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/match-report--wolves-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-15T19:49:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/15/match-report--wolves-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic",
+          "id": "editorial/match-reports/2020-21/wolves-away/Pulisic-GettyImages-1230141233",
+          "gravity": "north_east",
+          "aspectRatio": 1.5024304,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Wolves 2 Chelsea 1",
+      "publishDate": "2020-12-15T19:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/match-report--wolves-vs-chelsea.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-12-15T19:49:00.000Z",
+      "description": "Olivier Giroud found the back of the net at Molineux but the Frenchman’s strike was insufficient for Chelsea as the visitors suffered back-to-back defeats in the Premier League for the first time since last November.",
+      "matchId": 2128413
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201215chelsea-line-up-vs-wolves",
       "type": "NewsCard",
@@ -512,54 +561,6 @@
       "date": "2020-12-15T00:11:00.000Z",
       "description": "The West Midlands hosts Frank Lampard's side this midweek and as the game approaches, this is where to visit for all the statistics ahead of the game...",
       "matchId": 2128413
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201215media-watch--young-defender-impr",
-      "type": "NewsCard",
-      "timestamp": "2020-12-15T11:06:00.000Z",
-      "orderDate": "2020-12-15T00:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/15/media-watch--young-defender-impressing-at-swansea--hoddle-confid",
-        "type": "NewsCard",
-        "title": "MEDIA WATCH: YOUNG DEFENDER IMPRESSING AT SWANSEA, HODDLE CONFIDENT AGAINST ATLETICO AND THIAGO SILVA JOINS COACHING COURSE",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/media-watch--young-defender-impressing-at-swansea--hoddle-confid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-15T11:06:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/15/media-watch--young-defender-impressing-at-swansea--hoddle-confid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Guehi ",
-          "id": "editorial/media-watch/Guehi",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "MEDIA WATCH: YOUNG DEFENDER IMPRESSING AT SWANSEA, HODDLE CONFIDENT AGAINST ATLETICO AND THIAGO SILVA JOINS COACHING COURSE",
-      "publishDate": "2020-12-15T11:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/media-watch--young-defender-impressing-at-swansea--hoddle-confid.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-15T11:06:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Marc Guehi has been impressing in Swansea and Glenn Hoddle believes the Blues will go through in tough clash against Atletico Madrid."
     }
   ]
 }
