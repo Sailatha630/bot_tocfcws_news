@@ -8,6 +8,50 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201216women-s-report--chelsea-3-benfic",
+      "type": "NewsCard",
+      "timestamp": "2020-12-16T21:06:00.000Z",
+      "orderDate": "2020-12-16T21:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/16/women-s-report--chelsea-3-benfica-0",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 3 Benfica 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/16/women-s-report--chelsea-3-benfica-0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-16T21:06:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2020/12/16/women-s-report--chelsea-3-benfica-0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Celebrating Beth England's opener ",
+          "id": "editorial/match-reports/2020-21/women-benfica-home/Celebration-England-GettyImages-1291646272",
+          "gravity": "auto",
+          "aspectRatio": 1.5024248,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s report: Chelsea 3 Benfica 0",
+      "publishDate": "2020-12-16T21:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/16/women-s-report--chelsea-3-benfica-0.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2020-12-16T21:06:00.000Z",
+      "description": "The Blues put in a professional performance to finish the job against Benfica following our thumping win in the first leg, as we comfortably booked our place in the last 16 of the Champions League.",
+      "matchId": 2176613
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201216lampard-explains-what-s-needed-i",
       "type": "NewsCard",
@@ -447,65 +491,6 @@
       ],
       "date": "2020-12-15T19:49:00.000Z",
       "description": "Olivier Giroud found the back of the net at Molineux but the Frenchman’s strike was insufficient for Chelsea as the visitors suffered back-to-back defeats in the Premier League for the first time since last November.",
-      "matchId": 2128413
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201215chelsea-line-up-vs-wolves",
-      "type": "NewsCard",
-      "timestamp": "2020-12-15T17:00:00.000Z",
-      "orderDate": "2020-12-15T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/15/chelsea-line-up-vs-wolves",
-        "type": "NewsCard",
-        "title": "Chelsea line-up vs Wolves",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/chelsea-line-up-vs-wolves.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-15T17:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/15/chelsea-line-up-vs-wolves",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pulisic dressing room",
-          "id": "editorial/match-reports/2020-21/wolves-away/Pulisic-dressing-room-Wolves-away",
-          "gravity": "north",
-          "aspectRatio": 1.4710947,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line-up vs Wolves",
-      "publishDate": "2020-12-15T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/chelsea-line-up-vs-wolves.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Wolverhampton Wanderers",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
-        }
-      ],
-      "date": "2020-12-15T17:00:00.000Z",
-      "description": "Christian Pulisic starts his first Premier League game since October in the only change to the Chelsea starting line-up from the weekend defeat at Everton.",
       "matchId": 2128413
     }
   ]
