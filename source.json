@@ -101,6 +101,59 @@
       "matchId": 2176613
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201216media-watch--giroud-rejects-move",
+      "type": "NewsCard",
+      "timestamp": "2020-12-16T10:51:00.000Z",
+      "orderDate": "2020-12-16T03:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/16/media-watch--giroud-rejects-move--scholes-tips-mount-as-next-lam",
+        "type": "NewsCard",
+        "title": "Media Watch: Giroud rejects move, Scholes tips Mount as next Lampard and Musonda to return",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/16/media-watch--giroud-rejects-move--scholes-tips-mount-as-next-lam.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-16T10:51:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/16/media-watch--giroud-rejects-move--scholes-tips-mount-as-next-lam",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Giroud",
+          "id": "editorial/media-watch/Giroud_MW1",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Giroud rejects move, Scholes tips Mount as next Lampard and Musonda to return",
+      "publishDate": "2020-12-16T10:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/16/media-watch--giroud-rejects-move--scholes-tips-mount-as-next-lam.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        },
+        {
+          "title": "Charly Musonda",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_charly-musonda"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2020-12-16T10:51:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, Olivier Giroud turned down a transfer offer from Bordeaux and Paul Scholes thinks Mason Mount has the qualities to be the next Frank Lampard."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20201216champions-league--chelsea-fc-wom",
       "type": "NewsCard",
@@ -443,60 +496,6 @@
       ],
       "date": "2020-12-15T14:00:00.000Z",
       "description": "Kai Havertz is reassured to feel the support of Frank Lampard, and he says the fact our manager was recently a top-level footballer has helped smoothen his adjustment to a new league and country."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201215pre-match-briefing--wolves-vs-ch",
-      "type": "NewsCard",
-      "timestamp": "2020-12-15T09:51:00.000Z",
-      "orderDate": "2020-12-15T12:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/15/pre-match-briefing--wolves-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Wolves vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/pre-match-briefing--wolves-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-15T09:51:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2020/12/15/pre-match-briefing--wolves-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Molineux",
-          "id": "editorial/news/2020/12/molineux_view_BCD",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Wolves vs Chelsea",
-      "publishDate": "2020-12-15T09:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/15/pre-match-briefing--wolves-vs-chelsea.html",
-      "readTimeInMins": 29,
-      "tags": [
-        {
-          "title": "Wolverhampton Wanderers",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-12-15T09:51:00.000Z",
-      "description": "With the Premier League dominating the fixture calendar this month, another away trip has arrived quickly after the weekend loss. Club historian Rick Glanvill and club statistician Paul Dutton look at the prospects for the Blues to begin another good run...",
-      "matchId": 2128413
     }
   ]
 }
