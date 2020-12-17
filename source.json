@@ -166,6 +166,70 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201217spence-reaches-200",
+      "type": "NewsCard",
+      "timestamp": "2020-12-17T16:18:00.000Z",
+      "orderDate": "2020-12-17T09:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/17/spence-reaches-200",
+        "type": "NewsCard",
+        "title": "Spence reaches 200",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/17/spence-reaches-200.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-17T16:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/17/spence-reaches-200",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Drew Spence makes 200 Chelsea appearances",
+          "videoId": "9bRe4jjb",
+          "bucket": "prod-cfc",
+          "description": "Chelsea FC Women's star Drew Spence has now played 200 matches for the Blues. Congratulations Drew - what an achievement!",
+          "duration": 51000,
+          "date": "2020-09-28T10:22:28.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/9bRe4jjb/poster.jpg?width=720"
+          },
+          "tags": [
+            {
+              "id": "content-tag:team/women",
+              "title": "Women",
+              "namespace": "content-tag"
+            }
+          ],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/17/spence-reaches-200.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2020/12/17/spence-reaches-200?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2020/12/17/spence-reaches-200",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "Chelsea FC Women's star Drew Spence has now played 200 matches for the Blues. Congratulations Drew - what an achievement!"
+      },
+      "content": "Spence reaches 200",
+      "publishDate": "2020-12-17T16:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/17/spence-reaches-200.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2020-12-17T16:18:00.000Z",
+      "description": "Drew Spence has become the first player in the modern era of Chelsea FC Women to reach 200 appearances."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201217media-watch--rice-reportedly-kee",
       "type": "NewsCard",
       "timestamp": "2020-12-17T10:36:00.000Z",
@@ -446,60 +510,6 @@
       "tags": [],
       "date": "2020-12-17T11:54:00.000Z",
       "description": "The official Chelsea FC podcast Mike’d Up will be broadcast weekly across the United States on SiriusXM, starting December 17 2020."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201217watch-live-online-as-chelsea-hos",
-      "type": "NewsCard",
-      "timestamp": "2020-12-17T11:45:00.000Z",
-      "orderDate": "2020-12-16T23:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/17/watch-live-online-as-chelsea-host-manchester-united-in-the-final",
-        "type": "NewsCard",
-        "title": "Watch live online as Chelsea host Man United in the final PL2 game of the year on Friday",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/17/watch-live-online-as-chelsea-host-manchester-united-in-the-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-17T11:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/17/watch-live-online-as-chelsea-host-manchester-united-in-the-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " CFCDev",
-          "id": "editorial/news/2020/12/CFCdev-goal-celebration-vs-spurs-2",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Watch live online as Chelsea host Man United in the final PL2 game of the year on Friday",
-      "publishDate": "2020-12-17T11:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/17/watch-live-online-as-chelsea-host-manchester-united-in-the-final.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2020-12-17T11:45:00.000Z",
-      "description": "Our development squad host Manchester United to kick-off the weekend action at lunchtime on Friday and you can watch the game live and for free on the 5th Stand app or Chelsea website."
     }
   ]
 }
