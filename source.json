@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201219chelsea-women-face-man-city-in-c",
+      "type": "NewsCard",
+      "timestamp": "2020-12-19T16:29:00.000Z",
+      "orderDate": "2020-12-19T16:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/19/chelsea-women-face-man-city-in-conti-cup",
+        "type": "NewsCard",
+        "title": "Chelsea Women face Man City in Conti Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/19/chelsea-women-face-man-city-in-conti-cup.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-19T16:29:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/19/chelsea-women-face-man-city-in-conti-cup",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Women",
+          "id": "editorial/women's-team/BluesCFCW",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women face Man City in Conti Cup",
+      "publishDate": "2020-12-19T16:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/19/chelsea-women-face-man-city-in-conti-cup.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2020-12-19T16:29:00.000Z",
+      "description": "Chelsea Women have been drawn away at Manchester City in the quarter-finals of the Continental League Cup."
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20201219which-chelsea-academy-graduate-a",
       "type": "NewsCard",
@@ -476,61 +524,6 @@
       ],
       "date": "2020-12-18T11:54:00.000Z",
       "description": "Chelsea FC Women are delighted to announce the signing of Swedish goalkeeper Zecira Musovic on a two-and-a-half-year deal."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20201219pl2-report--chelsea-man-united",
-      "type": "NewsCard",
-      "timestamp": "2020-12-18T13:50:00.000Z",
-      "orderDate": "2020-12-18T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/19/pl2-report--chelsea-man-united",
-        "type": "NewsCard",
-        "title": "PL2 report: Chelsea 6 Man United 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/19/pl2-report--chelsea-man-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-18T13:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/19/pl2-report--chelsea-man-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Marcel Lewis",
-          "id": "editorial/news/2020/12/Marcel-Lewis-celebration-cfcdev-vs-man-united-1",
-          "gravity": "auto",
-          "aspectRatio": 1.500213,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Chelsea 6 Man United 1",
-      "publishDate": "2020-12-18T13:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/19/pl2-report--chelsea-man-united.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2020-12-18T13:50:00.000Z",
-      "description": "Chelsea’s development squad dispatched Manchester United at Kingsmeadow on Friday afternoon to top the PL2 table over Christmas and into the New Year!",
-      "matchId": 2141047
     }
   ]
 }
