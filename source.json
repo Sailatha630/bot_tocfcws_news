@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20201221match-report--chelsea-vs-west-ha",
+      "type": "NewsCard",
+      "timestamp": "2020-12-21T22:04:00.000Z",
+      "orderDate": "2020-12-21T22:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/21/match-report--chelsea-vs-west-ham",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 3 West Ham 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/match-report--chelsea-vs-west-ham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-21T22:04:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/21/match-report--chelsea-vs-west-ham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Celebrating the first goal",
+          "id": "editorial/match-reports/2020-21/west-ham-home/Thiago-Silva-celebration-GettyImages-1292465662",
+          "gravity": "auto",
+          "aspectRatio": 1.5003538,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 3 West Ham 0",
+      "publishDate": "2020-12-21T22:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/match-report--chelsea-vs-west-ham.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2020-12-21T22:04:00.000Z",
+      "description": "Chelsea returned to winning ways in the last Premier League game before Christmas courtesy of Thiago Silva’s early header and two predatory finishes from Tammy Abraham late on.",
+      "matchId": 2128418
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201221chelsea-line-up-vs-west-ham",
       "type": "NewsCard",
@@ -451,44 +505,6 @@
       "tags": [],
       "date": "2020-12-21T10:15:00.000Z",
       "description": "Today marks day 21 of our 24-day prize giveaway, which means there's only four days left to win a prize behind in our Chelsea Advent Calendar."
-    },
-    {
-      "contentType": "Club Partners",
-      "id": "_content_chelseafcennews20201211perfect-play-launches-in-austral",
-      "type": "NewsCard",
-      "timestamp": "2020-12-21T09:08:00.000Z",
-      "orderDate": "2020-12-21T01:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/11/perfect-play-launches-in-australia--canada-and-new-zealand",
-        "type": "NewsCard",
-        "title": "Perfect Play launches in Australia, Canada and New Zealand",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/perfect-play-launches-in-australia--canada-and-new-zealand.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-21T09:08:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/11/perfect-play-launches-in-australia--canada-and-new-zealand",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Perfect Play",
-          "id": "editorial/news/2020/12/HeelFlick",
-          "gravity": "auto",
-          "aspectRatio": 1.5714285,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Perfect Play launches in Australia, Canada and New Zealand",
-      "publishDate": "2020-12-21T09:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/11/perfect-play-launches-in-australia--canada-and-new-zealand.html",
-      "readTimeInMins": 9,
-      "tags": [],
-      "date": "2020-12-21T09:08:00.000Z",
-      "description": "There's no more missing out for fans in Australia, Canada and New Zealand, as the wait is finally over and you can now get personalised training drills straight from Cobham with the Perfect Play app."
     }
   ]
 }
