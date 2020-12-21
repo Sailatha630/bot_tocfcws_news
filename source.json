@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201221chelsea-line-up-vs-west-ham",
+      "type": "NewsCard",
+      "timestamp": "2020-12-21T19:00:00.000Z",
+      "orderDate": "2020-12-21T19:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/21/chelsea-line-up-vs-west-ham",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs West Ham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/chelsea-line-up-vs-west-ham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-21T19:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/21/chelsea-line-up-vs-west-ham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tammy Abraham",
+          "id": "editorial/match-reports/2020-21/west-ham-home/Abraham-dressing-room-West-Ham-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs West Ham",
+      "publishDate": "2020-12-21T19:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/chelsea-line-up-vs-west-ham.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2020-12-21T19:00:00.000Z",
+      "description": "There are three changes to the Chelsea side with Cesar Azpilicueta, Jorginho and Tammy Abraham starting for the Blues.",
+      "matchId": 2128418
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201221werner-assesses-recent-ups-and-d",
       "type": "NewsCard",
@@ -430,60 +489,6 @@
       "tags": [],
       "date": "2020-12-21T09:08:00.000Z",
       "description": "There's no more missing out for fans in Australia, Canada and New Zealand, as the wait is finally over and you can now get personalised training drills straight from Cobham with the Perfect Play app."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201220zouma--we-re-calm-and-confident",
-      "type": "NewsCard",
-      "timestamp": "2020-12-20T13:30:00.000Z",
-      "orderDate": "2020-12-20T13:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/20/zouma--we-re-calm-and-confident",
-        "type": "NewsCard",
-        "title": "Zouma: We’re calm and confident",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/20/zouma--we-re-calm-and-confident.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-20T13:30:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2020/12/20/zouma--we-re-calm-and-confident",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kurt Zouma",
-          "id": "editorial/news/2020/12/zouma-training-smile-stock",
-          "gravity": "face",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Zouma: We’re calm and confident",
-      "publishDate": "2020-12-20T13:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/20/zouma--we-re-calm-and-confident.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Kurt Zouma",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kurt-zouma"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-12-20T13:30:00.000Z",
-      "description": "Back-to-back defeats have not affected the team’s confidence according to Kurt Zouma, who is insistent the Blues must return to winning ways against West Ham on Monday.",
-      "matchId": 2128418
     }
   ]
 }
