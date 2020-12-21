@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20201221werner-assesses-recent-ups-and-d",
+      "type": "NewsCard",
+      "timestamp": "2020-12-21T15:00:00.000Z",
+      "orderDate": "2020-12-21T15:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/21/werner-assesses-recent-ups-and-downs--pinpoints-areas-to-improve",
+        "type": "NewsCard",
+        "title": "Werner assesses recent ups and downs, pinpoints areas to improve and previews a ‘hard game’ against West Ham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/werner-assesses-recent-ups-and-downs--pinpoints-areas-to-improve.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-21T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/21/werner-assesses-recent-ups-and-downs--pinpoints-areas-to-improve",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/news/2020/12/Werner-stock-Wolves-away",
+          "gravity": "face",
+          "aspectRatio": 1.0952381,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Werner assesses recent ups and downs, pinpoints areas to improve and previews a ‘hard game’ against West Ham",
+      "publishDate": "2020-12-21T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/werner-assesses-recent-ups-and-downs--pinpoints-areas-to-improve.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-12-21T15:00:00.000Z",
+      "description": "Timo Werner believes Chelsea must find the solutions to bounce back from consecutive Premier League defeats and feels that could lie in managing games better during difficult moments.",
+      "matchId": 2128418
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201221what-can-you-watch-on-chelsea-pl",
       "type": "NewsCard",
@@ -429,60 +483,6 @@
       ],
       "date": "2020-12-20T13:30:00.000Z",
       "description": "Back-to-back defeats have not affected the team’s confidence according to Kurt Zouma, who is insistent the Blues must return to winning ways against West Ham on Monday.",
-      "matchId": 2128418
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20201220pre-match-quiz--chelsea-v-west-h",
-      "type": "NewsCard",
-      "timestamp": "2020-12-20T14:45:00.000Z",
-      "orderDate": "2020-12-20T12:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/20/pre-match-quiz--chelsea-v-west-ham-united",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Chelsea v West Ham United",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/20/pre-match-quiz--chelsea-v-west-ham-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-20T14:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/20/pre-match-quiz--chelsea-v-west-ham-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Cole and Lampard",
-          "id": "editorial/news/2020/12/Cole_Lampard_GettyImages-856084091",
-          "gravity": "auto",
-          "aspectRatio": 1.3968558,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Chelsea v West Ham United",
-      "publishDate": "2020-12-20T14:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/20/pre-match-quiz--chelsea-v-west-ham-united.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "West Ham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-ham"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2020-12-20T14:45:00.000Z",
-      "description": "Plenty of players have represented both Chelsea and Monday's opponents West Ham United, but do you know which of those two clubs each of them made the most Premier League appearances for?",
       "matchId": 2128418
     }
   ]
