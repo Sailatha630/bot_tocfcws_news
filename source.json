@@ -12,7 +12,7 @@
       "id": "_content_chelseafcennews20201221-it-can-inspire-the-next-generat",
       "type": "NewsCard",
       "timestamp": "2020-12-21T04:00:00.000Z",
-      "orderDate": "2020-12-21T10:00:00.000Z",
+      "orderDate": "2020-12-21T11:00:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2020/12/21/-it-can-inspire-the-next-generation----lampard-hails-rise-of-bri",
         "type": "NewsCard",
@@ -55,6 +55,55 @@
       "date": "2020-12-21T04:00:00.000Z",
       "description": "In the build-up to tonight's meeting with West Ham, the Chelsea boss has been discussing the increasing number of British managers in the Premier League...",
       "matchId": 2128418
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201221blues-continue-to-support-commun",
+      "type": "NewsCard",
+      "timestamp": "2020-12-21T12:46:00.000Z",
+      "orderDate": "2020-12-21T10:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/21/blues-continue-to-support-communities",
+        "type": "NewsCard",
+        "title": "Blues continue to support communities",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/blues-continue-to-support-communities.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-21T12:46:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/21/blues-continue-to-support-communities",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Reece James",
+          "id": "editorial/news/2020/12/James_FelixProject_NigelHoward",
+          "gravity": "auto",
+          "aspectRatio": 1.581,
+          "cropMode": "fill"
+        },
+        "caption": "Photo by Nigel Howard"
+      },
+      "content": "Blues continue to support communities",
+      "publishDate": "2020-12-21T12:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/blues-continue-to-support-communities.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2020-12-21T12:46:00.000Z",
+      "description": "Reece James and Toni Rudiger are the latest Chelsea players to help support health workers and members of the public during the Covid-19 pandemic."
     },
     {
       "contentType": "News",
@@ -440,59 +489,6 @@
       "tags": [],
       "date": "2020-12-20T00:38:00.000Z",
       "description": "Today marks day 20 of our 24-day prize giveaway, which means there's only four days left to win a prize in our Chelsea Advent Calendar."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201219werner-on-performing-under-press",
-      "type": "NewsCard",
-      "timestamp": "2020-12-19T19:20:00.000Z",
-      "orderDate": "2020-12-19T19:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/19/werner-on-performing-under-pressure",
-        "type": "NewsCard",
-        "title": "Werner on performing under pressure",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/19/werner-on-performing-under-pressure.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-19T19:20:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/19/werner-on-performing-under-pressure",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Werner",
-          "id": "editorial/news/2020/12/Werner_GettyImages-1230090546",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Werner on performing under pressure",
-      "publishDate": "2020-12-19T19:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/19/werner-on-performing-under-pressure.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2020-12-19T19:20:00.000Z",
-      "description": "Timo Werner explains how he is dealing with the pressure of life as a big-name new signing at a top Premier League club."
     }
   ]
 }
