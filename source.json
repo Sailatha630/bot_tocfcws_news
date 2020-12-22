@@ -8,6 +8,75 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201221watch-highlights-of-chelsea-s-wi",
+      "type": "NewsCard",
+      "timestamp": "2020-12-22T00:01:00.000Z",
+      "orderDate": "2020-12-21T22:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea's win against West Ham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-22T00:01:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea 3-0 West Ham (H) | Premier League Highlights",
+          "videoId": "blHRyn6s",
+          "bucket": "prod-cfc",
+          "description": "Highlights of our Premier League match against West Ham United at Stamford Bridge. ",
+          "duration": 124000,
+          "date": "2020-12-21T23:06:17.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/blHRyn6s/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "Highlights of our Premier League match against West Ham United at Stamford Bridge. "
+      },
+      "content": "Watch highlights of Chelsea's win against West Ham",
+      "publishDate": "2020-12-22T00:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2020-12-22T00:01:00.000Z",
+      "description": "Chelsea achieved what they couldn't last season and recorded a win over West Ham in our final game before Christmas. You can see all the goals and key moments in the video above.",
+      "matchId": 2128418
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201221lampard-reflects-on-west-ham-win",
       "type": "NewsCard",
@@ -474,54 +543,6 @@
       ],
       "date": "2020-12-21T09:47:00.000Z",
       "description": "There were goals, returns and clean sheets during another busy week of action for our players out on loan in England and abroad..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201221hayes---drew-for-me--is-chelsea-",
-      "type": "NewsCard",
-      "timestamp": "2020-12-21T13:49:00.000Z",
-      "orderDate": "2020-12-21T08:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/21/hayes---drew-for-me--is-chelsea-",
-        "type": "NewsCard",
-        "title": "Hayes: ‘Drew for me is Chelsea’",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/hayes---drew-for-me--is-chelsea-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-21T13:49:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/21/hayes---drew-for-me--is-chelsea-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/DrewSpenceBenfica",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes: ‘Drew for me is Chelsea’",
-      "publishDate": "2020-12-21T13:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/hayes---drew-for-me--is-chelsea-.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2020-12-21T13:49:00.000Z",
-      "description": "Emma Hayes has praised Drew Spence and the impact she has had both on and off the field after the midfielder recently reached 200 appearances for Chelsea FC Women."
     }
   ]
 }
