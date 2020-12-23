@@ -8,6 +8,73 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20201223pat-nevin--keeping-pressure-on-a",
+      "type": "NewsCard",
+      "timestamp": "2020-12-23T08:53:00.000Z",
+      "orderDate": "2020-12-23T08:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/23/pat-nevin--keeping-pressure-on-at-the-top",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Keeping pressure on at the top",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/23/pat-nevin--keeping-pressure-on-at-the-top.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-23T08:53:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2020/12/23/pat-nevin--keeping-pressure-on-at-the-top",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tammy Abraham scoring",
+          "id": "editorial/match-reports/2020-21/west-ham-home/Abraham-first-goal-vs-West-Ham-h",
+          "gravity": "north",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Keeping pressure on at the top",
+      "publishDate": "2020-12-23T08:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/23/pat-nevin--keeping-pressure-on-at-the-top.html",
+      "readTimeInMins": 52,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2020-12-23T08:53:00.000Z",
+      "description": "With smiles back on Chelsea faces thanks to victory in our final game before Christmas, former Blue Pat Nevin looks back at that London derby, ahead to the next one, and focuses more widely on a league campaign the like of which we have not seen for a long time…"
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20201223win-a-vip-matchday-experience",
       "type": "NewsCard",
@@ -478,75 +545,6 @@
       "tags": [],
       "date": "2020-12-22T08:13:00.000Z",
       "description": "Today marks day 22 of our 24-day prize giveaway, which means there's only three days left to win a prize behind in our Chelsea Advent Calendar."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201221watch-highlights-of-chelsea-s-wi",
-      "type": "NewsCard",
-      "timestamp": "2020-12-22T00:01:00.000Z",
-      "orderDate": "2020-12-21T22:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham",
-        "type": "NewsCard",
-        "title": "Watch highlights of Chelsea's win against West Ham",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-22T00:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea 3-0 West Ham (H) | Premier League Highlights",
-          "videoId": "blHRyn6s",
-          "bucket": "prod-cfc",
-          "description": "Highlights of our Premier League match against West Ham United at Stamford Bridge. ",
-          "duration": 124000,
-          "date": "2020-12-21T23:06:17.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/blHRyn6s/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Highlights of our Premier League match against West Ham United at Stamford Bridge. "
-      },
-      "content": "Watch highlights of Chelsea's win against West Ham",
-      "publishDate": "2020-12-22T00:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/21/watch-highlights-of-chelsea-s-win-against-west-ham.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-12-22T00:01:00.000Z",
-      "description": "Chelsea achieved what they couldn't last season and recorded a win over West Ham in our final game before Christmas. You can see all the goals and key moments in the video above.",
-      "matchId": 2128418
     }
   ]
 }
