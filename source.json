@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20201224lampard--the-game-that-changed-i",
+      "type": "NewsCard",
+      "timestamp": "2020-12-24T12:33:00.000Z",
+      "orderDate": "2020-12-24T12:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/24/lampard--the-game-that-changed-it-for-chelsea-against-arsenal",
+        "type": "NewsCard",
+        "title": "Lampard: The game that changed it for Chelsea against Arsenal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/24/lampard--the-game-that-changed-it-for-chelsea-against-arsenal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-24T12:33:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/24/lampard--the-game-that-changed-it-for-chelsea-against-arsenal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard at Highbury in 2004",
+          "id": "editorial/news/2020/12/lampard_highbury_2004",
+          "gravity": "face",
+          "aspectRatio": 0.7406667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard: The game that changed it for Chelsea against Arsenal",
+      "publishDate": "2020-12-24T12:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/24/lampard--the-game-that-changed-it-for-chelsea-against-arsenal.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2020-12-24T12:33:00.000Z",
+      "description": "It was April 2004 and Frank Lampard was coming to the end of his third season as a Chelsea player. He had yet to beat Arsenal wearing our blue, and there had been 11 meetings.",
+      "matchId": 2128426
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20201224giles-smith--going-with-the-flow",
       "type": "NewsCard",
@@ -482,54 +531,6 @@
       ],
       "date": "2020-12-23T00:48:00.000Z",
       "description": "After featuring in the Premier League for the first time since October during our win against West Ham, captain Cesar Azpilicueta admitted that a return to winning ways was the most important thing for the Blues as they jumped back into the top five with a 3-0 victory."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201223media-watch--blues-join-haaland-",
-      "type": "NewsCard",
-      "timestamp": "2020-12-23T11:43:00.000Z",
-      "orderDate": "2020-12-23T00:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/23/media-watch--blues-join-haaland-chase--poyet-describes-the-rise-",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues join Haaland chase, Poyet describes the rise of Chelsea and Costa set to miss Chelsea clash",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/23/media-watch--blues-join-haaland-chase--poyet-describes-the-rise-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-23T11:43:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2020/12/23/media-watch--blues-join-haaland-chase--poyet-describes-the-rise-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Haaland",
-          "id": "editorial/media-watch/Haaland_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues join Haaland chase, Poyet describes the rise of Chelsea and Costa set to miss Chelsea clash",
-      "publishDate": "2020-12-23T11:43:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/23/media-watch--blues-join-haaland-chase--poyet-describes-the-rise-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Diego Costa",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_diego-costa"
-        },
-        {
-          "title": "Gustavo Poyet",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_gustavo-poyet"
-        }
-      ],
-      "date": "2020-12-23T11:43:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Chelsea have entered the race to sign Erling Haaland from Borussia Dortmund and the Blues are set to equal Arsenal in total Premier League points."
     }
   ]
 }
