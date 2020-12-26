@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20201226pulisic-on-which-wing-he-prefers",
+      "type": "NewsCard",
+      "timestamp": "2020-12-26T12:00:00.000Z",
+      "orderDate": "2020-12-26T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/26/pulisic-on-which-wing-he-prefers--comparisons-to-hazard--and-wan",
+        "type": "NewsCard",
+        "title": "Pulisic on which wing he prefers, comparisons to Hazard, and wanting revenge over Arsenal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/pulisic-on-which-wing-he-prefers--comparisons-to-hazard--and-wan.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-26T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/26/pulisic-on-which-wing-he-prefers--comparisons-to-hazard--and-wan",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Christian Pulisic",
+          "id": "editorial/news/2020/12/pulisic-west-ham-dribbling",
+          "gravity": "auto",
+          "aspectRatio": 1.5003519,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic on which wing he prefers, comparisons to Hazard, and wanting revenge over Arsenal",
+      "publishDate": "2020-12-26T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/pulisic-on-which-wing-he-prefers--comparisons-to-hazard--and-wan.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2020-12-26T12:00:00.000Z",
+      "description": "Like many players up and down the country, Christian Pulisic’s season has been disrupted by injury, with calf and hamstring issues limiting his playing time so far in 2020/21. However, now he has a couple of bright performances behind him, the American believes he is getting back to his best, and wherever he is selected today he hopes to make a major contribution.",
+      "matchId": 2128426
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20201226pre-match-briefing--arsenal-vs-c",
       "type": "NewsCard",
@@ -439,55 +498,6 @@
       "tags": [],
       "date": "2020-12-24T02:37:00.000Z",
       "description": "Today marks the final day of our 24-day prize giveaway, which means there's just one prize left to win in our Chelsea Advent Calendar."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201223lampard-issues-chelsea-injury-up",
-      "type": "NewsCard",
-      "timestamp": "2020-12-23T14:29:00.000Z",
-      "orderDate": "2020-12-23T14:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/23/lampard-issues-chelsea-injury-update-ahead-of-arsenal",
-        "type": "NewsCard",
-        "title": "Lampard issues injury update on Chilwell, James and Ziyech",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/23/lampard-issues-chelsea-injury-update-ahead-of-arsenal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-23T14:29:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/23/lampard-issues-chelsea-injury-update-ahead-of-arsenal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ben Chilwell and Reece James",
-          "id": "editorial/match-reports/2020-21/rennes-home/Chilwell_James_GettyImages-1283916755",
-          "gravity": "auto",
-          "aspectRatio": 1.4997183,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard issues injury update on Chilwell, James and Ziyech",
-      "publishDate": "2020-12-23T14:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/23/lampard-issues-chelsea-injury-update-ahead-of-arsenal.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-23T14:29:00.000Z",
-      "description": "Frank Lampard doesn’t know yet if Ben Chilwell or Reece James will be able to feature in our two games after Christmas, but one man who certainly won’t be involved at Arsenal is Hakim Ziyech.",
-      "matchId": 2128426
     }
   ]
 }
