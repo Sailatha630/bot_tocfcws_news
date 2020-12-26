@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201226lampard--it-s-a-risk-for-players",
+      "type": "NewsCard",
+      "timestamp": "2020-12-26T04:13:00.000Z",
+      "orderDate": "2020-12-26T04:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/26/lampard--it-s-a-risk-for-players0",
+        "type": "NewsCard",
+        "title": "Lampard: It’s a risk for players",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/lampard--it-s-a-risk-for-players0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-26T04:13:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/12/26/lampard--it-s-a-risk-for-players0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2020/12/Lampard_GettyImages-1230194760",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard: It’s a risk for players",
+      "publishDate": "2020-12-26T04:13:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/lampard--it-s-a-risk-for-players0.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2020-12-26T04:13:00.000Z",
+      "description": "For Chelsea to play on Boxing Day is traditional. What is less traditional in more recent times is for that to be followed up by another Premier League fixture on 28 December. Not since 2015 have the Blues been given a fixture just two days after fixture on the 26th, and even then the second of those matches was a tea-time kick-off with the first in the afternoon.",
+      "matchId": 2128426
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews2020122510-questions-with----thiago-silv",
       "type": "NewsCard",
@@ -443,59 +502,6 @@
       "date": "2020-12-23T14:31:00.000Z",
       "description": "The games are coming thick and fast for Chelsea at the moment, with another eagerly anticipated London derby on the agenda this week.",
       "matchId": 2128426
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201223lampard-offers-support-to-werner",
-      "type": "NewsCard",
-      "timestamp": "2020-12-23T14:48:00.000Z",
-      "orderDate": "2020-12-23T13:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/23/lampard-offers-support-to-werner-and-backs-him-to-score-soon",
-        "type": "NewsCard",
-        "title": "Lampard offers support to Werner and backs him to score soon",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/23/lampard-offers-support-to-werner-and-backs-him-to-score-soon.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-23T14:48:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/23/lampard-offers-support-to-werner-and-backs-him-to-score-soon",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lampard and Werner",
-          "id": "chelsea-app/Werner-Lampard-Newcastle-away-SJP-GettyImages-1286861973",
-          "gravity": "auto",
-          "aspectRatio": 0.6673333,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard offers support to Werner and backs him to score soon",
-      "publishDate": "2020-12-23T14:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/23/lampard-offers-support-to-werner-and-backs-him-to-score-soon.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-23T14:48:00.000Z",
-      "description": "Frank Lampard says he is in constant communication with Timo Werner and the striker’s recent words about adapting to English football should be taken in the right context."
     }
   ]
 }
