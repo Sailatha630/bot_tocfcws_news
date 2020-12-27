@@ -8,6 +8,70 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201227mount--we-can-bounce-back-agains",
+      "type": "NewsCard",
+      "timestamp": "2020-12-27T13:52:00.000Z",
+      "orderDate": "2020-12-27T13:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/27/mount--we-can-bounce-back-against-aston-villa",
+        "type": "NewsCard",
+        "title": "Mount: We can bounce back against Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/27/mount--we-can-bounce-back-against-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-27T13:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/27/mount--we-can-bounce-back-against-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mason Mount at Arsenal",
+          "id": "editorial/news/2020/12/mount_arsenal_away",
+          "gravity": "auto",
+          "aspectRatio": 1.5456432,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount: We can bounce back against Aston Villa",
+      "publishDate": "2020-12-27T13:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/27/mount--we-can-bounce-back-against-aston-villa.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2020-12-27T13:52:00.000Z",
+      "description": "With next to no time before Chelsea are in action again after the Arsenal defeat, Mason Mount is glad of the opportunity so soon to put right what went wrong, but says it is crucial the players take on board lessons that must be learnt.",
+      "matchId": 2128426
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20201227the-debrief--hudson-odoi-contrib",
       "type": "NewsCard",
@@ -514,55 +578,6 @@
       ],
       "date": "2020-12-26T04:13:00.000Z",
       "description": "For Chelsea to play on Boxing Day is traditional. What is less traditional in more recent times is for that to be followed up by another Premier League fixture on 28 December. Not since 2015 have the Blues been given a fixture just two days after fixture on the 26th, and even then the second of those matches was a tea-time kick-off with the first in the afternoon.",
-      "matchId": 2128426
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20201226pre-match-quiz--boxing-day-fixtu",
-      "type": "NewsCard",
-      "timestamp": "2020-12-26T10:17:00.000Z",
-      "orderDate": "2020-12-26T02:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/26/pre-match-quiz--boxing-day-fixtures",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Boxing Day fixtures",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/pre-match-quiz--boxing-day-fixtures.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-26T10:17:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/26/pre-match-quiz--boxing-day-fixtures",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford and Bridget",
-          "id": "editorial/news/2020/12/Stamford_Bridget_Christmas_GettyImages-898722226",
-          "gravity": "auto",
-          "aspectRatio": 1.4927824,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Boxing Day fixtures",
-      "publishDate": "2020-12-26T10:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/pre-match-quiz--boxing-day-fixtures.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2020-12-26T10:17:00.000Z",
-      "description": "The Boxing Day match is a big part of English football tradition. See how well you know Chelsea's previous festive fixtures with this quiz.",
       "matchId": 2128426
     }
   ]
