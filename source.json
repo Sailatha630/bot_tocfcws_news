@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201227lampard-reports-there-will-be-ch",
+      "type": "NewsCard",
+      "timestamp": "2020-12-27T22:30:00.000Z",
+      "orderDate": "2020-12-27T22:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/27/lampard-reports-there-will-be-changes",
+        "type": "NewsCard",
+        "title": "Lampard reports there will be changes",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/27/lampard-reports-there-will-be-changes.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-27T22:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/27/lampard-reports-there-will-be-changes",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard at Arsenal",
+          "id": "editorial/news/2020/12/lampard_arsenal_away",
+          "gravity": "face",
+          "aspectRatio": 0.7322884,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard reports there will be changes",
+      "publishDate": "2020-12-27T22:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/27/lampard-reports-there-will-be-changes.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2020-12-27T22:30:00.000Z",
+      "description": "After a first 45 minutes of football at Arsenal which he rates as the worst half by his team this season, Frank Lampard has confirmed it will have an impact on his selection against Aston Villa.",
+      "matchId": 2128438
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201227mount--we-can-bounce-back-agains",
       "type": "NewsCard",
       "timestamp": "2020-12-27T13:52:00.000Z",
@@ -519,60 +573,6 @@
       ],
       "date": "2020-12-26T12:00:00.000Z",
       "description": "Like many players up and down the country, Christian Pulisic’s season has been disrupted by injury, with calf and hamstring issues limiting his playing time so far in 2020/21. However, now he has a couple of bright performances behind him, the American believes he is getting back to his best, and wherever he is selected today he hopes to make a major contribution.",
-      "matchId": 2128426
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201226pre-match-briefing--arsenal-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2020-12-26T08:28:00.000Z",
-      "orderDate": "2020-12-26T08:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/26/pre-match-briefing--arsenal-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Arsenal vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/pre-match-briefing--arsenal-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-26T08:28:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2020/12/26/pre-match-briefing--arsenal-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Emirates Stadium",
-          "id": "editorial/news/2020/12/emirates_view_inside_BCD",
-          "gravity": "auto",
-          "aspectRatio": 1.5025588,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Arsenal vs Chelsea",
-      "publishDate": "2020-12-26T08:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/pre-match-briefing--arsenal-vs-chelsea.html",
-      "readTimeInMins": 63,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2020-12-26T08:28:00.000Z",
-      "description": "It is only a short trip across the capital city for the Blues this Boxing Day. Club historian Rick Glanvill and club statistician Paul Dutton set the scene…",
       "matchId": 2128426
     }
   ]
