@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20201228pre-match-briefing--chelsea-vs-a",
+      "type": "NewsCard",
+      "timestamp": "2020-12-28T09:17:00.000Z",
+      "orderDate": "2020-12-28T09:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/28/pre-match-briefing--chelsea-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/28/pre-match-briefing--chelsea-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-28T09:17:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2020/12/28/pre-match-briefing--chelsea-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Shed End",
+          "id": "editorial/news/2020/12/Shed_End_west_ham_home",
+          "gravity": "auto",
+          "aspectRatio": 2.1450412,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Aston Villa",
+      "publishDate": "2020-12-28T09:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/28/pre-match-briefing--chelsea-vs-aston-villa.html",
+      "readTimeInMins": 63,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2020-12-28T09:17:00.000Z",
+      "description": "The final game of 2020 is upon us with the Blues hoping to ring out the old year with a home win. Club historian Rick Glanvill and club statistician Paul Dutton have a quick turnaround of match previews for a quick turnaround of games…",
+      "matchId": 2128438
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20201227lampard-reports-there-will-be-ch",
       "type": "NewsCard",
@@ -514,65 +568,6 @@
       ],
       "date": "2020-12-26T18:55:00.000Z",
       "description": "It was a Boxing Day to forget for Chelsea in this away London derby as Arsenal overcame recent struggles to lead 2-0 at half-time and then extend the advantage shortly after the break. Tammy Abraham scored a late consolation and there was even time for Jorginho to miss from the penalty spot after that, but there was no repeat of the late turnaround led by those two in this fixture last season.",
-      "matchId": 2128426
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201226chelsea-line-up-vs-arsenal",
-      "type": "NewsCard",
-      "timestamp": "2020-12-26T16:30:00.000Z",
-      "orderDate": "2020-12-26T16:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/26/chelsea-line-up-vs-arsenal",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Arsenal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/chelsea-line-up-vs-arsenal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-26T16:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/26/chelsea-line-up-vs-arsenal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2020-21/arsenal-away/arsenal_away_dressing_room",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Arsenal",
-      "publishDate": "2020-12-26T16:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/26/chelsea-line-up-vs-arsenal.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2020-12-26T16:30:00.000Z",
-      "description": "Full-backs Reece James and Ben Chilwell both start today's away game in north London.",
       "matchId": 2128426
     }
   ]
