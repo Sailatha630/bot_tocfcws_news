@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20201228chelsea-line-up-vs-aston-villa",
+      "type": "NewsCard",
+      "timestamp": "2020-12-28T16:20:00.000Z",
+      "orderDate": "2020-12-28T16:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/28/chelsea-line-up-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/28/chelsea-line-up-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-28T16:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/28/chelsea-line-up-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Dressing room",
+          "id": "editorial/match-reports/2020-21/villa-home/Dressing_room_Villa_DTW_5097-1643382_2020122831856578",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Aston Villa",
+      "publishDate": "2020-12-28T16:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/28/chelsea-line-up-vs-aston-villa.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        }
+      ],
+      "date": "2020-12-28T16:20:00.000Z",
+      "description": "Frank Lampard has made six changes to his side for today’s match against Aston Villa, including three in defence.",
+      "matchId": 2128438
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201228kovacic-discusses-chelsea-s-midf",
       "type": "NewsCard",
@@ -525,49 +584,6 @@
       ],
       "date": "2020-12-27T08:19:00.000Z",
       "description": "Callum Hudson-Odoi says the whole squad is disappointed with the performance against Arsenal but will keep pushing to improve and bounce back against Aston Villa."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20201227charles-pleased-with-personal-pr",
-      "type": "NewsCard",
-      "timestamp": "2020-12-27T11:14:00.000Z",
-      "orderDate": "2020-12-27T00:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/27/charles-pleased-with-personal-progress",
-        "type": "NewsCard",
-        "title": "Charles pleased with personal progress",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/27/charles-pleased-with-personal-progress.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-27T11:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/27/charles-pleased-with-personal-progress",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Niamh_Charles",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Charles pleased with personal progress",
-      "publishDate": "2020-12-27T11:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/27/charles-pleased-with-personal-progress.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2020-12-27T11:14:00.000Z",
-      "description": "Midfielder Niamh Charles believes she has taken her game to another level since joining Chelsea FC Women."
     }
   ]
 }
