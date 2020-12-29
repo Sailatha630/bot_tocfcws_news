@@ -142,6 +142,58 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20201229hayes-and-kerr-nominated-for-man",
+      "type": "NewsCard",
+      "timestamp": "2020-12-29T10:34:00.000Z",
+      "orderDate": "2020-12-29T01:34:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/29/hayes-and-kerr-nominated-for-manager-and-player-of-the-month-awa",
+        "type": "NewsCard",
+        "title": "Hayes and Kerr nominated for Manager and Player of the Month awards",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/29/hayes-and-kerr-nominated-for-manager-and-player-of-the-month-awa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-29T10:34:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/29/hayes-and-kerr-nominated-for-manager-and-player-of-the-month-awa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_KerrandHayes",
+          "gravity": "auto",
+          "aspectRatio": 1.5003133,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hayes and Kerr nominated for Manager and Player of the Month awards",
+      "publishDate": "2020-12-29T10:34:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/29/hayes-and-kerr-nominated-for-manager-and-player-of-the-month-awa.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Sam Kerr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_sam-kerr"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2020-12-29T10:34:00.000Z",
+      "description": "Chelsea Women manager Emma Hayes and Blues striker Sam Kerr have been nominated for December’s Barclays FA Women’s Super League Manager and Player of the Month awards."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20201228frank-lampard-reaction-to-draw-a",
       "type": "NewsCard",
       "timestamp": "2020-12-28T19:31:00.000Z",
@@ -540,65 +592,6 @@
       ],
       "date": "2020-12-27T22:30:00.000Z",
       "description": "After a first 45 minutes of football at Arsenal which he rates as the worst half by his team this season, Frank Lampard has confirmed it will have an impact on his selection against Aston Villa.",
-      "matchId": 2128438
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20201228chelsea-vs-aston-villa---the-sta",
-      "type": "NewsCard",
-      "timestamp": "2020-12-27T23:59:00.000Z",
-      "orderDate": "2020-12-27T20:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/28/chelsea-vs-aston-villa---the-stats",
-        "type": "NewsCard",
-        "title": "Something has to give: Chelsea vs Aston Villa - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/28/chelsea-vs-aston-villa---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-27T23:59:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2020/12/28/chelsea-vs-aston-villa---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Abraham vs Villa in 2019",
-          "id": "editorial/news/2020/12/abraham-villa-2019",
-          "gravity": "auto",
-          "aspectRatio": 1.4684579,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Something has to give: Chelsea vs Aston Villa - the stats",
-      "publishDate": "2020-12-27T23:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/28/chelsea-vs-aston-villa---the-stats.html",
-      "readTimeInMins": 26,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2020-12-27T23:59:00.000Z",
-      "description": "Our statistical briefing ahead of a second game in 48 hours includes details of Chelsea's exemplary recent record against Aston Villa, and our West Midlands opponents' fine form on the road this season. Something has to give...",
       "matchId": 2128438
     }
   ]
