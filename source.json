@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20201231chelsea-development-squad-mid-se",
+      "type": "NewsCard",
+      "timestamp": "2020-12-31T14:20:00.000Z",
+      "orderDate": "2020-12-31T14:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/31/chelsea-development-squad-mid-season-review",
+        "type": "NewsCard",
+        "title": "‘The way the Academy have been working during these difficult times has been exceptional’ – Andy Myers on the season so far",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/31/chelsea-development-squad-mid-season-review.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-31T14:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/31/chelsea-development-squad-mid-season-review",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Andy Myers",
+          "id": "editorial/news/2020/12/Andy-Myers-pl2-Spurs-cfcdev",
+          "gravity": "auto",
+          "aspectRatio": 1.5002143,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "‘The way the Academy have been working during these difficult times has been exceptional’ – Andy Myers on the season so far",
+      "publishDate": "2020-12-31T14:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/31/chelsea-development-squad-mid-season-review.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2020-12-31T14:20:00.000Z",
+      "description": "After the 6-1 thumping of Manchester United in December, our development squad end the year in pole position in Premier League 2 and boss Andy Myers shares his thoughts on the season’s successes and challenges so far..."
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20201231giles-smith-on-what-had-him-jump",
       "type": "NewsCard",
@@ -517,65 +571,6 @@
       },
       "date": "2020-12-29T14:00:00.000Z",
       "description": "Chelsea legend and website columnist Pat Nevin has been around the block long enough to know not to make huge judgments on small sample sizes, but he believes there were signs against Aston Villa the Blues are getting back on track…"
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20201229the-debrief--left-flank-focus-an",
-      "type": "NewsCard",
-      "timestamp": "2020-12-29T11:42:00.000Z",
-      "orderDate": "2020-12-29T11:42:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/29/the-debrief--left-flank-focus-and-oli-on-target-against-villa-ag",
-        "type": "NewsCard",
-        "title": "The Debrief: Left-flank focus and Oli on target against Villa again",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/29/the-debrief--left-flank-focus-and-oli-on-target-against-villa-ag.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-29T11:42:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/29/the-debrief--left-flank-focus-and-oli-on-target-against-villa-ag",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Debrief graphic",
-          "id": "editorial/news/2020/12/Debrief-vs-Aston-Villa-h",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Left-flank focus and Oli on target against Villa again",
-      "publishDate": "2020-12-29T11:42:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/29/the-debrief--left-flank-focus-and-oli-on-target-against-villa-ag.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        }
-      ],
-      "date": "2020-12-29T11:42:00.000Z",
-      "description": "Using the data from yesterday’s draw with Aston Villa, we take a statistical look at the key aspects of the performance, highlighting our emphasis in attacking down one flank in particular, as well as the standout individuals…",
-      "matchId": 2128438
     }
   ]
 }
