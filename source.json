@@ -88,6 +88,43 @@
       "description": "Everybody at Chelsea Football Club is very saddened to learn of the death of our former manager Tommy Docherty."
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210101happy-new-year--",
+      "type": "NewsCard",
+      "timestamp": "2020-12-31T23:59:00.000Z",
+      "orderDate": "2020-12-31T15:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/01/happy-new-year--",
+        "type": "NewsCard",
+        "title": "Happy New Year! ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/01/happy-new-year--.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-31T23:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/01/happy-new-year--",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Big screen message",
+          "id": "editorial/news/2020/12/happy-new-year-2021-big-screen",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Happy New Year! ",
+      "publishDate": "2020-12-31T23:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/01/happy-new-year--.html",
+      "readTimeInMins": 7,
+      "tags": [],
+      "date": "2020-12-31T23:59:00.000Z",
+      "description": "Happy New Year from everyone at Chelsea Football Club."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20201231chelsea-development-squad-mid-se",
       "type": "NewsCard",
@@ -487,55 +524,6 @@
       ],
       "date": "2020-12-30T12:22:00.000Z",
       "description": "Olivier Giroud is the third Chelsea star to participate in Three’s Connect With… series, with his focus on fashion, and the styles adorned by some of his team-mates, and even his manager!"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201230azpilicueta-on-reacting-to-adver",
-      "type": "NewsCard",
-      "timestamp": "2020-12-30T04:00:00.000Z",
-      "orderDate": "2020-12-30T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/30/azpilicueta-on-reacting-to-adversity-and-rediscovering-normality",
-        "type": "NewsCard",
-        "title": "Azpilicueta on reacting to adversity and rediscovering normality in 2021",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/30/azpilicueta-on-reacting-to-adversity-and-rediscovering-normality.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-30T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/30/azpilicueta-on-reacting-to-adversity-and-rediscovering-normality",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Azpilicueta",
-          "id": "editorial/news/2020/12/Azpilicueta-Villa-home",
-          "gravity": "face",
-          "aspectRatio": 1.2484144,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta on reacting to adversity and rediscovering normality in 2021",
-      "publishDate": "2020-12-30T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/30/azpilicueta-on-reacting-to-adversity-and-rediscovering-normality.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2020-12-30T04:00:00.000Z",
-      "description": "While pleased with an improved performance from the team, there was still frustration in the Chelsea dressing room after two home points dropped against Aston Villa on Monday evening, with captain Cesar Azpilicueta happy at least with the response to adversity.",
-      "matchId": 2128438
     }
   ]
 }
