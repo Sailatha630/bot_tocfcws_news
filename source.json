@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews202012312020-vision---looking-back-at-un",
+      "type": "NewsCard",
+      "timestamp": "2020-12-31T09:41:00.000Z",
+      "orderDate": "2020-12-31T09:41:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/12/31/2020-vision---looking-back-at-unusual-chelsea-year",
+        "type": "NewsCard",
+        "title": "2020 Vision – looking back at unusual Chelsea year",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/31/2020-vision---looking-back-at-unusual-chelsea-year.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2020-12-31T09:41:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2020/12/31/2020-vision---looking-back-at-unusual-chelsea-year",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Locked gate at Stamford Bridge",
+          "id": "editorial/news/2020/03/stamford_bridge_gate_badge",
+          "gravity": "auto",
+          "aspectRatio": 1.4076469,
+          "cropMode": "fill"
+        }
+      },
+      "content": "2020 Vision – looking back at unusual Chelsea year",
+      "publishDate": "2020-12-31T09:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/31/2020-vision---looking-back-at-unusual-chelsea-year.html",
+      "readTimeInMins": 30,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2020-12-31T09:41:00.000Z",
+      "description": "We run through the past 12 months’ achievements, campaigns and initiatives at the club that took place despite circumstances well beyond our control…"
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20201230the-big-chelsea-quiz-of-2020-",
       "type": "NewsCard",
@@ -524,75 +582,6 @@
       ],
       "date": "2020-12-29T10:34:00.000Z",
       "description": "Chelsea Women manager Emma Hayes and Blues striker Sam Kerr have been nominated for December’s Barclays FA Women’s Super League Manager and Player of the Month awards."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20201228frank-lampard-reaction-to-draw-a",
-      "type": "NewsCard",
-      "timestamp": "2020-12-28T19:31:00.000Z",
-      "orderDate": "2020-12-28T19:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2020/12/28/frank-lampard-reaction-to-draw-against-aston-villa",
-        "type": "NewsCard",
-        "title": "Lampard pleased with improved performance despite draw",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/28/frank-lampard-reaction-to-draw-against-aston-villa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2020-12-28T19:31:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2020/12/28/frank-lampard-reaction-to-draw-against-aston-villa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Frank Lampard",
-          "id": "editorial/match-reports/2020-21/villa-home/villa_home_lampard",
-          "gravity": "auto",
-          "aspectRatio": 1.4989071,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard pleased with improved performance despite draw",
-      "publishDate": "2020-12-28T19:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/12/28/frank-lampard-reaction-to-draw-against-aston-villa.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2020-12-28T19:31:00.000Z",
-      "description": "He couldn’t get the win he wanted against Aston Villa, but Frank Lampard was happy with the attitude and performance shown by his players in a difficult game.",
-      "matchId": 2128438
     }
   ]
 }
