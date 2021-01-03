@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 12,
+    "totalItems": 13,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 2,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210103giroud-s-title-ambition-burns-st",
+      "type": "NewsCard",
+      "timestamp": "2021-01-03T12:55:00.000Z",
+      "orderDate": "2021-01-03T12:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/03/giroud-s-title-ambition-burns-strong",
+        "type": "NewsCard",
+        "title": "Giroud’s title ambition burns strong",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/giroud-s-title-ambition-burns-strong.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-03T12:55:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/03/giroud-s-title-ambition-burns-strong",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Olivier Giroud after scoring",
+          "id": "editorial/match-reports/2020-21/villa-home/villa_home_giroud_celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Giroud’s title ambition burns strong",
+      "publishDate": "2021-01-03T12:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/giroud-s-title-ambition-burns-strong.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-03T12:55:00.000Z",
+      "description": "With the season yet to reach its halfway point and Chelsea beginning the weekend seven points off the top, Olivier Giroud is clear – challenging for the Premier League title remains an ambition for 2020/21.",
+      "matchId": 2128632
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210103lampard-reveals-what-is-crucial-",
@@ -507,59 +556,6 @@
       "tags": [],
       "date": "2021-01-01T10:53:00.000Z",
       "description": "Less than three months after the delayed summer of transfer trading came to a close in early October, the January winter window is about to open and here we have all the information you require about when clubs can sign players and the impact of Brexit…"
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210101new-year--new-chance-to-win-on-p",
-      "type": "NewsCard",
-      "timestamp": "2021-01-01T17:53:00.000Z",
-      "orderDate": "2021-01-01T10:53:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/01/new-year--new-chance-to-win-on-play-predictor",
-        "type": "NewsCard",
-        "title": "New year, new chance to win on Play Predictor",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/01/new-year--new-chance-to-win-on-play-predictor.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-01T17:53:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/01/new-year--new-chance-to-win-on-play-predictor",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Play Predictor",
-          "id": "editorial/news/2021/01/01/Play_Predictor_Pulisic_article",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "New year, new chance to win on Play Predictor",
-      "publishDate": "2021-01-01T17:53:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/01/new-year--new-chance-to-win-on-play-predictor.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-01-01T17:53:00.000Z",
-      "description": "With the start of January the Play Predictor monthly leaderboard has been reset, meaning you have a fresh chance to join the December winners by topping the table."
     }
   ]
 }
