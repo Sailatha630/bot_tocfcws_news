@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 18,
+    "totalItems": 19,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 2,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210104the-debrief--city-creative-and-c",
+      "type": "NewsCard",
+      "timestamp": "2021-01-04T12:30:00.000Z",
+      "orderDate": "2021-01-04T12:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/04/the-debrief--city-creative-and-clinical--chelsea-better-after-th",
+        "type": "NewsCard",
+        "title": "The Debrief: City creative and clinical, Chelsea better after the break",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/04/the-debrief--city-creative-and-clinical--chelsea-better-after-th.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-04T12:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/04/the-debrief--city-creative-and-clinical--chelsea-better-after-th",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Debrief",
+          "id": "editorial/news/2021/01/04/debrief-web-man-city",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: City creative and clinical, Chelsea better after the break",
+      "publishDate": "2021-01-04T12:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/04/the-debrief--city-creative-and-clinical--chelsea-better-after-th.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        }
+      ],
+      "date": "2021-01-04T12:30:00.000Z",
+      "description": "Our analysis of the statistics from yesterday's defeat to Manchester City highlights the areas in which the damage was done in the first half, and also notes where the Blues improved after the break...",
+      "matchId": 2128448
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210104pulisic-pinpoints-what-went-wron",
@@ -478,60 +537,6 @@
       ],
       "date": "2021-01-02T14:54:00.000Z",
       "description": "Chelsea are aiming for our third consecutive home win over Manchester City. How well do you remember the last two?",
-      "matchId": 2128448
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210102pre-match-briefing--chelsea-vs-m",
-      "type": "NewsCard",
-      "timestamp": "2021-01-02T00:15:00.000Z",
-      "orderDate": "2021-01-02T09:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/02/pre-match-briefing--chelsea-vs-man-city",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Man City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/02/pre-match-briefing--chelsea-vs-man-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-02T00:15:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/01/02/pre-match-briefing--chelsea-vs-man-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Inside the stadium",
-          "id": "editorial/news/2021/01/01/stamford_bridge_inside_night",
-          "gravity": "auto",
-          "aspectRatio": 1.5262944,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Man City",
-      "publishDate": "2021-01-02T00:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/02/pre-match-briefing--chelsea-vs-man-city.html",
-      "readTimeInMins": 21,
-      "tags": [
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-02T00:15:00.000Z",
-      "description": "Chelsea’s fixtures for the new year start at home, with the Blues of London entertaining the blue side of Manchester. Club historian Rick Glanvill and club statistician Paul Dutton set the scene for Sunday at Stamford Bridge…",
       "matchId": 2128448
     }
   ]
