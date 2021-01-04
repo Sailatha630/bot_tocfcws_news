@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 16,
+    "totalItems": 17,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 2,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210104pulisic-pinpoints-what-went-wron",
+      "type": "NewsCard",
+      "timestamp": "2021-01-04T04:00:00.000Z",
+      "orderDate": "2021-01-04T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/04/pulisic-pinpoints-what-went-wrong-against-city-and-what-we-need-",
+        "type": "NewsCard",
+        "title": "Pulisic pinpoints what went wrong against City and what we need to turn things around",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/04/pulisic-pinpoints-what-went-wrong-against-city-and-what-we-need-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-04T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/04/pulisic-pinpoints-what-went-wrong-against-city-and-what-we-need-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic",
+          "id": "editorial/news/2021/01/03/Pulisic-vs-Man-City-home",
+          "gravity": "auto",
+          "aspectRatio": 1.5520241,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic pinpoints what went wrong against City and what we need to turn things around",
+      "publishDate": "2021-01-04T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/04/pulisic-pinpoints-what-went-wrong-against-city-and-what-we-need-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-04T04:00:00.000Z",
+      "description": "Christian Pulisic was unable to reproduce his match-winning performance from last season on Manchester City’s latest visit to west London and reflected after our 3-1 defeat on what went wrong on Sunday afternoon.",
+      "matchId": 2128448
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210103frank-lampard-reacts-to-man-city",
@@ -489,70 +543,6 @@
       ],
       "date": "2021-01-02T08:40:00.000Z",
       "description": "Ahead of our opening action of the new year, Frank Lampard has been discussing the form and work of his German striker...",
-      "matchId": 2128448
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210101lampard-on-transfers-and-facing-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-01T14:19:00.000Z",
-      "orderDate": "2021-01-01T14:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/01/lampard-on-transfers-and-facing-man-city",
-        "type": "NewsCard",
-        "title": "Lampard on transfers and facing Man City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/01/lampard-on-transfers-and-facing-man-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-01T14:19:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/01/lampard-on-transfers-and-facing-man-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Lampard",
-          "id": "editorial/news/2021/01/01/Lampard_GettyImages-1230380059",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard on transfers and facing Man City",
-      "publishDate": "2021-01-01T14:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/01/lampard-on-transfers-and-facing-man-city.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Transfer",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_transfer"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-01T14:19:00.000Z",
-      "description": "Frank Lampard has discussed the chances of new players coming in during the January transfer window and what his team needs to do to start the year on a high when we host Manchester City.",
       "matchId": 2128448
     }
   ]
