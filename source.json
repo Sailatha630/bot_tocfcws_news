@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 21,
+    "totalItems": 22,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 3,
@@ -227,6 +227,49 @@
       "date": "2021-01-04T04:00:00.000Z",
       "description": "Christian Pulisic was unable to reproduce his match-winning performance from last season on Manchester City’s latest visit to west London and reflected after our 3-1 defeat on what went wrong on Sunday afternoon.",
       "matchId": 2128448
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210101the-month-ahead-for-chelsea-fc-w",
+      "type": "NewsCard",
+      "timestamp": "2021-01-04T15:38:00.000Z",
+      "orderDate": "2021-01-04T03:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/01/the-month-ahead-for-chelsea-fc-women",
+        "type": "NewsCard",
+        "title": "The month ahead for Chelsea FC Women",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/01/the-month-ahead-for-chelsea-fc-women.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-04T15:38:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/01/the-month-ahead-for-chelsea-fc-women",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomencele",
+          "gravity": "auto",
+          "aspectRatio": 1.502403,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The month ahead for Chelsea FC Women",
+      "publishDate": "2021-01-04T15:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/01/the-month-ahead-for-chelsea-fc-women.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-01-04T15:38:00.000Z",
+      "description": "It’s a busy start to the New Year for Chelsea FC Women as we have six games to look forward to in January."
     },
     {
       "contentType": "News",
@@ -539,59 +582,6 @@
       "date": "2021-01-03T12:55:00.000Z",
       "description": "With the season yet to reach its halfway point and Chelsea beginning the weekend seven points off the top, Olivier Giroud is clear – challenging for the Premier League title remains an ambition for 2020/21.",
       "matchId": 2128632
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210103lampard-reveals-what-is-crucial-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-03T01:31:00.000Z",
-      "orderDate": "2021-01-03T01:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/03/lampard-reveals-what-is-crucial-for-kai-",
-        "type": "NewsCard",
-        "title": "Lampard reveals what is crucial for Kai ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/lampard-reveals-what-is-crucial-for-kai-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-03T01:31:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/03/lampard-reveals-what-is-crucial-for-kai-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kai Havertz",
-          "id": "editorial/news/2021/01/01/havertz_west_ham_home",
-          "gravity": "auto",
-          "aspectRatio": 1.4554615,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard reveals what is crucial for Kai ",
-      "publishDate": "2021-01-03T01:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/lampard-reveals-what-is-crucial-for-kai-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-03T01:31:00.000Z",
-      "description": "Those looking to judge Kai Havertz so soon into his fledging Chelsea career should take a look at other examples of young players moving from overseas to England reckons Frank Lampard."
     }
   ]
 }
