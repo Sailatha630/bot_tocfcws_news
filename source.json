@@ -1,12 +1,79 @@
 {
   "pagination": {
-    "totalItems": 25,
+    "totalItems": 26,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 3,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210105pat-nevin--reflecting-on-city-ga",
+      "type": "NewsCard",
+      "timestamp": "2021-01-05T12:04:00.000Z",
+      "orderDate": "2021-01-05T12:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/05/pat-nevin--reflecting-on-city-game-and-remembering-truly-kind-to",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Reflecting on City game and remembering truly kind Tommy Doc",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/05/pat-nevin--reflecting-on-city-game-and-remembering-truly-kind-to.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-05T12:04:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/01/05/pat-nevin--reflecting-on-city-game-and-remembering-truly-kind-to",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tommy Docherty tribute",
+          "id": "editorial/news/2021/01/01/man_city_home_docherty_tribute",
+          "gravity": "auto",
+          "aspectRatio": 1.5001394,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Reflecting on City game and remembering truly kind Tommy Doc",
+      "publishDate": "2021-01-05T12:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/05/pat-nevin--reflecting-on-city-game-and-remembering-truly-kind-to.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Tommy Docherty",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_tommy-docherty"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-01-05T12:04:00.000Z",
+      "description": "Columnist and Chelsea legend Pat Nevin looks back on the weekend result and the options ahead and bids farewell to one of the most important managers in the club's history who was also a great friend of his…"
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210105thiago-silva--a-difficult-period",
@@ -568,65 +635,6 @@
       ],
       "date": "2021-01-04T12:40:00.000Z",
       "description": "Despite some leagues pausing for a brief winter break, many are continuing without interruption, including in Italy’s Serie A where Tiemoue Bakayoko and Napoli’s rise to fourth headlines the latest round-up of our players out on loan…"
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210103frank-lampard-reacts-to-man-city",
-      "type": "NewsCard",
-      "timestamp": "2021-01-03T20:30:00.000Z",
-      "orderDate": "2021-01-03T20:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/03/frank-lampard-reacts-to-man-city-defeat",
-        "type": "NewsCard",
-        "title": "Lampard: We have to take it on the chin and react",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/frank-lampard-reacts-to-man-city-defeat.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-03T20:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/03/frank-lampard-reacts-to-man-city-defeat",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Frank Lampard",
-          "id": "editorial/match-reports/2020-21/man-city-home/lampard-man-city-home",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard: We have to take it on the chin and react",
-      "publishDate": "2021-01-03T20:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/frank-lampard-reacts-to-man-city-defeat.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-03T20:30:00.000Z",
-      "description": "After watching his side suffer a fourth Premier League loss in six games, Frank Lampard spoke about a difficult and decisive spell in the first half, the pressure of the job and how we must react to this period of adversity.",
-      "matchId": 2128448
     }
   ]
 }
