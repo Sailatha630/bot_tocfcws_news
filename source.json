@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 24,
+    "totalItems": 25,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 3,
@@ -60,6 +60,55 @@
       "date": "2021-01-05T02:30:00.000Z",
       "description": "Thiago Silva hadn’t tasted defeat as a Chelsea player until less than a month ago, but four losses since then have given the Brazilian cause for reflection.",
       "matchId": 2128448
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210105media-watch--blues-linked-with-y",
+      "type": "NewsCard",
+      "timestamp": "2021-01-05T09:51:00.000Z",
+      "orderDate": "2021-01-05T01:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/05/media-watch--blues-linked-with-young-centre-back--van-ginkel-rea",
+        "type": "NewsCard",
+        "title": "Media Watch: Blues linked with young centre-back, Van Ginkel ready for return and Thompson reveals Terry’s close Liverpool transfer",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/05/media-watch--blues-linked-with-young-centre-back--van-ginkel-rea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-05T09:51:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/05/media-watch--blues-linked-with-young-centre-back--van-ginkel-rea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Simakan",
+          "id": "editorial/media-watch/Simakan_MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Media Watch: Blues linked with young centre-back, Van Ginkel ready for return and Thompson reveals Terry’s close Liverpool transfer",
+      "publishDate": "2021-01-05T09:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/05/media-watch--blues-linked-with-young-centre-back--van-ginkel-rea.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Marco Van Ginkel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marco-van-ginkel"
+        },
+        {
+          "title": "John Terry",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_john-terry"
+        }
+      ],
+      "date": "2021-01-05T09:51:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are linked with 20-year-old Mohamed Simakan and Marco van Ginkel is ready to return after long spell out injured."
     },
     {
       "contentType": "History",
@@ -577,55 +626,6 @@
       ],
       "date": "2021-01-03T20:30:00.000Z",
       "description": "After watching his side suffer a fourth Premier League loss in six games, Frank Lampard spoke about a difficult and decisive spell in the first half, the pressure of the job and how we must react to this period of adversity.",
-      "matchId": 2128448
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210103report--chelsea-vs-man-city",
-      "type": "NewsCard",
-      "timestamp": "2021-01-03T18:22:00.000Z",
-      "orderDate": "2021-01-03T18:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/03/report--chelsea-vs-man-city",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 1 Man City 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/report--chelsea-vs-man-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-03T18:22:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/03/report--chelsea-vs-man-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Azpilicueta",
-          "id": "editorial/match-reports/2020-21/man-city-home/azpilicueta-man-city-400th-appearance",
-          "gravity": "auto",
-          "aspectRatio": 1.4995925,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 1 Man City 3",
-      "publishDate": "2021-01-03T18:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/report--chelsea-vs-man-city.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-03T18:22:00.000Z",
-      "description": "Chelsea started the new year with a defeat at home as goals from Ilkay Gundogan, Kevin De Bruyne and Phil Foden inflicted a first Stamford Bridge reverse on the Blues since the second week of the season.",
       "matchId": 2128448
     }
   ]
