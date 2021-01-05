@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 22,
+    "totalItems": 23,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 3,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210105thiago-silva--a-difficult-period",
+      "type": "NewsCard",
+      "timestamp": "2021-01-05T02:30:00.000Z",
+      "orderDate": "2021-01-05T02:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/05/thiago-silva--a-difficult-period-to-fight-through",
+        "type": "NewsCard",
+        "title": "Thiago Silva: A difficult period to fight through",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/05/thiago-silva--a-difficult-period-to-fight-through.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-05T02:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/05/thiago-silva--a-difficult-period-to-fight-through",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva",
+          "id": "editorial/news/2021/01/04/thiago-silva-man-city",
+          "gravity": "west",
+          "aspectRatio": 1.4983642,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thiago Silva: A difficult period to fight through",
+      "publishDate": "2021-01-05T02:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/05/thiago-silva--a-difficult-period-to-fight-through.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-05T02:30:00.000Z",
+      "description": "Thiago Silva hadn’t tasted defeat as a Chelsea player until less than a month ago, but four losses since then have given the Brazilian cause for reflection.",
+      "matchId": 2128448
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210104the-debrief--city-creative-and-c",
@@ -533,55 +587,6 @@
       "date": "2021-01-03T15:30:00.000Z",
       "description": "Cesar Azpilicueta makes his 400th Chelsea appearance today, while Hakim Ziyech returns from injury to start as the Blues take on Manchester City at Stamford Bridge.",
       "matchId": 2128448
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210103giroud-s-title-ambition-burns-st",
-      "type": "NewsCard",
-      "timestamp": "2021-01-03T12:55:00.000Z",
-      "orderDate": "2021-01-03T12:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/03/giroud-s-title-ambition-burns-strong",
-        "type": "NewsCard",
-        "title": "Giroud’s title ambition burns strong",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/giroud-s-title-ambition-burns-strong.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-03T12:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/03/giroud-s-title-ambition-burns-strong",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Olivier Giroud after scoring",
-          "id": "editorial/match-reports/2020-21/villa-home/villa_home_giroud_celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Giroud’s title ambition burns strong",
-      "publishDate": "2021-01-03T12:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/03/giroud-s-title-ambition-burns-strong.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-03T12:55:00.000Z",
-      "description": "With the season yet to reach its halfway point and Chelsea beginning the weekend seven points off the top, Olivier Giroud is clear – challenging for the Premier League title remains an ambition for 2020/21.",
-      "matchId": 2128632
     }
   ]
 }
