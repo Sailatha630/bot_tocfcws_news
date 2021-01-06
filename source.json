@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 27,
+    "totalItems": 28,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 3,
@@ -12,7 +12,7 @@
       "id": "_content_chelseafcennews20210106n-golo-kante-s-matchday-rituals",
       "type": "NewsCard",
       "timestamp": "2021-01-06T01:00:00.000Z",
-      "orderDate": "2021-01-06T01:00:00.000Z",
+      "orderDate": "2021-01-06T08:57:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2021/01/06/n-golo-kante-s-matchday-rituals",
         "type": "NewsCard",
@@ -49,6 +49,49 @@
       ],
       "date": "2021-01-06T01:00:00.000Z",
       "description": "The hours before a match are the most crucial for a player’s game preparation, from the moment they wake up until the first whistle at the stadium, and so we caught up with our midfield maestro N’Golo Kante to get an insight into his matchday rituals…"
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20210106tommy-docherty---a-supporter-s-t",
+      "type": "NewsCard",
+      "timestamp": "2021-01-06T08:55:00.000Z",
+      "orderDate": "2021-01-06T03:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/06/tommy-docherty---a-supporter-s-tribute",
+        "type": "NewsCard",
+        "title": "Tommy Docherty – A supporter’s tribute",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/06/tommy-docherty---a-supporter-s-tribute.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-06T08:55:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/01/06/tommy-docherty---a-supporter-s-tribute",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tommy Docherty",
+          "id": "editorial/news/2021/01/05/docherty_1992",
+          "gravity": "auto",
+          "aspectRatio": 1.194586,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tommy Docherty – A supporter’s tribute",
+      "publishDate": "2021-01-06T08:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/06/tommy-docherty---a-supporter-s-tribute.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Tommy Docherty",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_tommy-docherty"
+        }
+      ],
+      "date": "2021-01-06T08:55:00.000Z",
+      "description": "Respects have been paid throughout football, including at Chelsea’s game on Sunday, to the unique and charismatic Tommy Docherty who managed our team in the 1960s. Sadly fans could not be inside Stamford Bridge to join in the applause but here we have invited Blues supporter Tim Rolls, author of a book on The Doc’s time in charge at Chelsea, to remember a man who transformed the club…"
     },
     {
       "contentType": "Columnist",
@@ -582,54 +625,6 @@
       ],
       "date": "2021-01-04T15:38:00.000Z",
       "description": "It’s a busy start to the New Year for Chelsea FC Women as we have six games to look forward to in January."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210104media-watch--blues-linked-with-d",
-      "type": "NewsCard",
-      "timestamp": "2021-01-04T10:09:00.000Z",
-      "orderDate": "2021-01-04T03:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/04/media-watch--blues-linked-with-donnarumma--giroud-reveals-finish",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues linked with Donnarumma, Giroud reveals finishing secrets and Hasselbaink returns to Burton Albion",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/04/media-watch--blues-linked-with-donnarumma--giroud-reveals-finish.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-04T10:09:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/04/media-watch--blues-linked-with-donnarumma--giroud-reveals-finish",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Donnarumma ",
-          "id": "editorial/media-watch/Donnarumma_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues linked with Donnarumma, Giroud reveals finishing secrets and Hasselbaink returns to Burton Albion",
-      "publishDate": "2021-01-04T10:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/04/media-watch--blues-linked-with-donnarumma--giroud-reveals-finish.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Jimmy Floyd Hasselbaink",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_jimmy-floyd-hasselbaink"
-        }
-      ],
-      "date": "2021-01-04T10:09:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Chelsea are linked with 21-year-old goalkeeper Gianluigi Donnarumma and Olivier Giroud speaks about his finishing technique."
     }
   ]
 }
