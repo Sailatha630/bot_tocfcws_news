@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 45,
+    "totalItems": 46,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 5,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210108lampard-press-conference-ahead-o",
+      "type": "NewsCard",
+      "timestamp": "2021-01-08T13:24:00.000Z",
+      "orderDate": "2021-01-08T13:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/08/lampard-press-conference-ahead-of-chelsea-vs-morecambe",
+        "type": "NewsCard",
+        "title": "Lampard reports players missing for Morecambe, youngsters in FA Cup frame and the latest on Kepa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/08/lampard-press-conference-ahead-of-chelsea-vs-morecambe.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-08T13:24:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/08/lampard-press-conference-ahead-of-chelsea-vs-morecambe",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard",
+          "id": "editorial/news/2021/01/08/lampard_conference_logo",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard reports players missing for Morecambe, youngsters in FA Cup frame and the latest on Kepa",
+      "publishDate": "2021-01-08T13:24:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/08/lampard-press-conference-ahead-of-chelsea-vs-morecambe.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-08T13:24:00.000Z",
+      "description": "Frank Lampard, speaking on video link from the training ground ahead of Sunday’s FA Cup third round tie, has listed both the players unavailable to him for the match plus those from the Academy who have been helping with the preparations this week.",
+      "matchId": 2177575
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210108steps-up--jamie-cumming",
@@ -479,60 +528,6 @@
       },
       "date": "2021-01-07T10:20:00.000Z",
       "description": "Reflecting back on a frustrating festive period for the Blues, Chelsea fan and columnist Giles Smith places our blip in the context of a campaign that has seen sticky patches for all the top sides..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210107academy-pair-nominated-for-pl2-p",
-      "type": "NewsCard",
-      "timestamp": "2021-01-07T12:00:00.000Z",
-      "orderDate": "2021-01-07T06:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/07/academy-pair-nominated-for-pl2-player-of-the-month-award",
-        "type": "NewsCard",
-        "title": "Academy pair nominated for PL2 Player of the Month award",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/07/academy-pair-nominated-for-pl2-player-of-the-month-award.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-07T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/07/academy-pair-nominated-for-pl2-player-of-the-month-award",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lewis Bate and Tino Anjorin",
-          "id": "editorial/news/2021/01/05/Lews-Bate-Tino-Anjorin-PL2-Man-Utd",
-          "gravity": "auto",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Academy pair nominated for PL2 Player of the Month award",
-      "publishDate": "2021-01-07T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/07/academy-pair-nominated-for-pl2-player-of-the-month-award.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-01-07T12:00:00.000Z",
-      "description": "Tino Anjorin and Lewis Bate are two of seven youngsters to have been nominated for December’s Premier League 2 Player of the Month award."
     }
   ]
 }
