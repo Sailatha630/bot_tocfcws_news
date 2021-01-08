@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 43,
+    "totalItems": 45,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 5,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210108steps-up--jamie-cumming",
+      "type": "NewsCard",
+      "timestamp": "2021-01-08T12:53:00.000Z",
+      "orderDate": "2021-01-08T12:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/08/steps-up--jamie-cumming",
+        "type": "NewsCard",
+        "title": "Steps Up: Jamie Cumming",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/08/steps-up--jamie-cumming.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-08T12:53:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/01/08/steps-up--jamie-cumming",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jamie Cumming",
+          "id": "editorial/news/2021/01/08/jamie-cumming-stevenage-loan",
+          "gravity": "auto",
+          "aspectRatio": 1.664539,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Steps Up: Jamie Cumming",
+      "publishDate": "2021-01-08T12:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/08/steps-up--jamie-cumming.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Loan Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_loan-highlights"
+        }
+      ],
+      "date": "2021-01-08T12:53:00.000Z",
+      "description": "In the first 2020/21 edition of our feature where we speak to Chelsea players out on loan, we hear from Jamie Cumming, the 21-year-old goalkeeper who is currently playing regularly in League Two with Stevenage."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210108pre-match-briefing--chelsea-vs-m",
@@ -109,6 +152,64 @@
       "date": "2021-01-08T01:00:00.000Z",
       "description": "Our build-up to this year's FA Cup third round tie starts with the facts and figures you need, including statistical information on the Shrimps of Morecambe...",
       "matchId": 2177575
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210108media-watch--academy-players-tip",
+      "type": "NewsCard",
+      "timestamp": "2021-01-08T11:50:00.000Z",
+      "orderDate": "2021-01-08T00:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/08/media-watch--academy-players-tipped-to-make-debut--morecambe-bos",
+        "type": "NewsCard",
+        "title": "Media Watch: Academy players tipped to make debut, Morecambe boss ready for Blues challenge and Hodgson backs Batshuayi ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/08/media-watch--academy-players-tipped-to-make-debut--morecambe-bos.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-08T11:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/08/media-watch--academy-players-tipped-to-make-debut--morecambe-bos",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Academy",
+          "id": "editorial/media-watch/Academy_MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Academy players tipped to make debut, Morecambe boss ready for Blues challenge and Hodgson backs Batshuayi ",
+      "publishDate": "2021-01-08T11:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/08/media-watch--academy-players-tipped-to-make-debut--morecambe-bos.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Michy Batshuayi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_michy-batshuayi"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Tino Anjorin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tino-anjorin"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-01-08T11:50:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, five Academy players have been training with the first team and the Morecambe head coach is ready for the challenge against the Blues."
     },
     {
       "contentType": "Club Partners",
@@ -432,101 +533,6 @@
       ],
       "date": "2021-01-07T12:00:00.000Z",
       "description": "Tino Anjorin and Lewis Bate are two of seven youngsters to have been nominated for December’s Premier League 2 Player of the Month award."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210107media-watch--trio-of-blues-ranke",
-      "type": "NewsCard",
-      "timestamp": "2021-01-07T11:01:00.000Z",
-      "orderDate": "2021-01-07T03:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/07/media-watch--trio-of-blues-ranked-as-most-valuable-players--giro",
-        "type": "NewsCard",
-        "title": "Media Watch: Trio of Blues ranked as most valuable players, Giroud feels he is underrated and Livramento tipped as next breakthrough star",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/07/media-watch--trio-of-blues-ranked-as-most-valuable-players--giro.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-07T11:01:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/07/media-watch--trio-of-blues-ranked-as-most-valuable-players--giro",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Werner",
-          "id": "editorial/media-watch/Werner_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Trio of Blues ranked as most valuable players, Giroud feels he is underrated and Livramento tipped as next breakthrough star",
-      "publishDate": "2021-01-07T11:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/07/media-watch--trio-of-blues-ranked-as-most-valuable-players--giro.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        }
-      ],
-      "date": "2021-01-07T11:01:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Mason Mount, Timo Werner and Kai Havertz all appeared in the top 20 of the most valuable players in the world and Olivier Giroud feels his is underrated because of his style of play."
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20210107stamford-bridge-hotel-rooms-avai",
-      "type": "NewsCard",
-      "timestamp": "2021-01-07T09:28:00.000Z",
-      "orderDate": "2021-01-07T03:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/07/stamford-bridge-hotel-rooms-available-to-the-nhs-again",
-        "type": "NewsCard",
-        "title": "Stamford Bridge hotel rooms available to the NHS again",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/07/stamford-bridge-hotel-rooms-available-to-the-nhs-again.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-07T09:28:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/07/stamford-bridge-hotel-rooms-available-to-the-nhs-again",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Hotels Stamford Bridge",
-          "id": "editorial/news/2020/03/stamford_bridge_aerial_hotels",
-          "gravity": "west",
-          "aspectRatio": 1.898305,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Stamford Bridge hotel rooms available to the NHS again",
-      "publishDate": "2021-01-07T09:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/07/stamford-bridge-hotel-rooms-available-to-the-nhs-again.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2021-01-07T09:28:00.000Z",
-      "description": "With England back in lockdown, Chelsea Football Club is once more providing accommodation at Stamford Bridge to the National Health Service (NHS)."
     }
   ]
 }
