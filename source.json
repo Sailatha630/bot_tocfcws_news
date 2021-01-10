@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 62,
+    "totalItems": 63,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 7,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210110match-report--chelsea-v-morecamb",
+      "type": "NewsCard",
+      "timestamp": "2021-01-10T13:00:00.000Z",
+      "orderDate": "2021-01-10T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/10/match-report--chelsea-v-morecambe",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 4 Morecambe 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/10/match-report--chelsea-v-morecambe.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-10T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/10/match-report--chelsea-v-morecambe",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount and Hudson-Odoi",
+          "id": "editorial/match-reports/2020-21/morecambe-home/Mount-Hudson-Odoi-goal-celebration-Morecambe-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 4 Morecambe 0",
+      "publishDate": "2021-01-10T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/10/match-report--chelsea-v-morecambe.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-10T13:00:00.000Z",
+      "description": "Chelsea eased past Morecambe with two goals in each half to comfortably book our place in the fourth round of the FA Cup.",
+      "matchId": 2177575
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210110chelsea-line-up-vs-morecambe",
@@ -439,54 +488,6 @@
       "date": "2021-01-09T12:38:00.000Z",
       "description": "In the latest Ask Frank video, which can watched in full above, the boss is focused on the FA Cup.",
       "matchId": 2177575
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210109lampard-on-player-power-and-whet",
-      "type": "NewsCard",
-      "timestamp": "2021-01-09T05:01:00.000Z",
-      "orderDate": "2021-01-09T05:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/09/lampard-on-player-power-and-whether-the-squad-can-be-trimmed",
-        "type": "NewsCard",
-        "title": "Lampard on player power and whether the squad can be trimmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/09/lampard-on-player-power-and-whether-the-squad-can-be-trimmed.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-09T05:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/09/lampard-on-player-power-and-whether-the-squad-can-be-trimmed",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Frank Lampard at training",
-          "id": "editorial/news/2021/01/01/Lampard_DTW_6624",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard on player power and whether the squad can be trimmed",
-      "publishDate": "2021-01-09T05:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/09/lampard-on-player-power-and-whether-the-squad-can-be-trimmed.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-09T05:01:00.000Z",
-      "description": "Player power – it is an expression that was frequently used by the media to describe what they believed was a force within at Chelsea during the days when Frank Lampard was one of the members of the squad."
     }
   ]
 }
