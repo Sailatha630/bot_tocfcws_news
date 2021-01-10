@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 60,
+    "totalItems": 61,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 6,
+    "pageCount": 7,
     "startFrom": 0
   },
   "newsFeed": [
@@ -146,6 +146,50 @@
       ],
       "date": "2021-01-10T03:20:00.000Z",
       "description": "On the occasion of his 22nd birthday today, Mason Mount has been announced as the patron of a charity for seriously ill children and families."
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20210110the-numbers-behind-our-90-fa-cup",
+      "type": "NewsCard",
+      "timestamp": "2021-01-10T10:00:00.000Z",
+      "orderDate": "2021-01-10T01:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/10/the-numbers-behind-our-90-fa-cup-opponents",
+        "type": "NewsCard",
+        "title": "The numbers behind our 90 FA Cup opponents",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/10/the-numbers-behind-our-90-fa-cup-opponents.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-10T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/10/the-numbers-behind-our-90-fa-cup-opponents",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "FA Cup",
+          "id": "editorial/news/2021/01/08/FACup_GettyImages-960118756",
+          "gravity": "auto",
+          "aspectRatio": 1.5138706,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The numbers behind our 90 FA Cup opponents",
+      "publishDate": "2021-01-10T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/10/the-numbers-behind-our-90-fa-cup-opponents.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-01-10T10:00:00.000Z",
+      "description": "Morecambe will become the 90th different team Chelsea have faced in the FA Cup. But who have we played the most, who do we have the best record against and who are our bogey side? We bring you all the facts and figures.",
+      "matchId": 2177575
     },
     {
       "contentType": "Match Preview",
@@ -458,55 +502,6 @@
       ],
       "date": "2021-01-09T09:14:00.000Z",
       "description": "As the Blues prepare to begin our FA Cup campaign this weekend, we look back at a classic third-round tie against Liverpool, when Tommy Docherty’s Diamonds, led by two club legends in the making, upset the odds at Anfield."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210109hayes-ready-for-reading-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-09T22:02:00.000Z",
-      "orderDate": "2021-01-09T01:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/09/hayes-ready-for-reading-",
-        "type": "NewsCard",
-        "title": "Hayes ready for Reading ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/09/hayes-ready-for-reading-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-09T22:02:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/09/hayes-ready-for-reading-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/EHayes_training",
-          "gravity": "auto",
-          "aspectRatio": 1.5024134,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes ready for Reading ",
-      "publishDate": "2021-01-09T22:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/09/hayes-ready-for-reading-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-01-09T22:02:00.000Z",
-      "description": "Tomorrow Chelsea Women travel west to take on Reading in the Barclays FA Women’s Super League for our first fixture of the new year. Manager Emma Hayes is anticipating a difficult encounter but says her team are well prepared for it.",
-      "matchId": 2138432
     }
   ]
 }
