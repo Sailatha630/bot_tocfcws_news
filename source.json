@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 72,
+    "totalItems": 73,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 8,
@@ -83,7 +83,7 @@
       "content": "The Debrief: Wingers key to finding a way through",
       "publishDate": "2021-01-11T12:33:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/the-debrief--wingers-key-to-finding-a-way-through.html",
-      "readTimeInMins": 8,
+      "readTimeInMins": 10,
       "tags": [
         {
           "title": "FA Cup",
@@ -168,6 +168,49 @@
       "date": "2021-01-11T12:10:00.000Z",
       "description": "Chelsea eased into the FA Cup fourth round for the 23rd consecutive season with a 4-0 victory over Morecambe on Sunday. You can see all the goals and key moments in the video above.",
       "matchId": 2177575
+    },
+    {
+      "contentType": "On Loan",
+      "id": "_content_chelseafcennews20210111chelsea-here-chelsea-there--cup-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-11T12:55:00.000Z",
+      "orderDate": "2021-01-11T04:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/11/chelsea-here-chelsea-there--cup-action--bakayoko-last-minute-win",
+        "type": "NewsCard",
+        "title": "Chelsea Here Chelsea There: Cup action, Bakayoko last-minute winner and Van Ginkel in squad",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/chelsea-here-chelsea-there--cup-action--bakayoko-last-minute-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-11T12:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/11/chelsea-here-chelsea-there--cup-action--bakayoko-last-minute-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Marco Van Ginkel",
+          "id": "editorial/news/2021/01/11/van-ginkel-psv-training",
+          "gravity": "north_east",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Here Chelsea There: Cup action, Bakayoko last-minute winner and Van Ginkel in squad",
+      "publishDate": "2021-01-11T12:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/chelsea-here-chelsea-there--cup-action--bakayoko-last-minute-win.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Loan Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_loan-highlights"
+        }
+      ],
+      "date": "2021-01-11T12:55:00.000Z",
+      "description": "Our latest loan round-up includes FA Cup news, late drama in Italy, a welcome return in the Netherlands and plenty more besides..."
     },
     {
       "contentType": "Interview",
@@ -465,51 +508,6 @@
       ],
       "date": "2021-01-10T17:00:00.000Z",
       "description": "Our FA Cup campaign continues into the draw for the fourth round following Sunday afternoon's win over Morecambe, and we have all the information on when that takes place, who Chelsea could meet, when the ties will be played and why this draw is different from normal..."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210110women-s-report--reading-0-chelse",
-      "type": "NewsCard",
-      "timestamp": "2021-01-10T16:03:00.000Z",
-      "orderDate": "2021-01-10T12:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/10/women-s-report--reading-0-chelsea-5",
-        "type": "NewsCard",
-        "title": "Women’s report: Reading 0 Chelsea 5",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/10/women-s-report--reading-0-chelsea-5.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-10T16:03:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/01/10/women-s-report--reading-0-chelsea-5",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Fran Kirby nets the opener",
-          "id": "editorial/match-reports/2020-21/women-reading-away/Kirby-GettyImages-1295628578",
-          "gravity": "auto",
-          "aspectRatio": 1.5793478,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Reading 0 Chelsea 5",
-      "publishDate": "2021-01-10T16:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/10/women-s-report--reading-0-chelsea-5.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-01-10T16:03:00.000Z",
-      "description": "A devastating performance by Fran Kirby helped the Blues start 2021 in style at the Madejski Stadium, as Super Fran netted four times in a thumping win over her former club.",
-      "matchId": 2138432
     }
   ]
 }
