@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 82,
+    "totalItems": 83,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 9,
@@ -54,6 +54,54 @@
       ],
       "date": "2021-01-12T11:55:00.000Z",
       "description": "Billy Gilmour knows all about game awareness, having burst onto the scene over the past year in a deep midfield role that requires a 360 degree understanding of what’s around at all times."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210112fa-youth-cup-temporarily-suspend",
+      "type": "NewsCard",
+      "timestamp": "2021-01-12T16:00:00.000Z",
+      "orderDate": "2021-01-12T11:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/12/fa-youth-cup-temporarily-suspended",
+        "type": "NewsCard",
+        "title": "FA Youth Cup temporarily suspended",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/fa-youth-cup-temporarily-suspended.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-12T16:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/12/fa-youth-cup-temporarily-suspended",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Youth Cup",
+          "id": "editorial/news/2020/02/fa-youth-cup-trophy-view-stock",
+          "gravity": "north",
+          "aspectRatio": 0.6666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "FA Youth Cup temporarily suspended",
+      "publishDate": "2021-01-12T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/fa-youth-cup-temporarily-suspended.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "U18 - FA Youth Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
+        }
+      ],
+      "date": "2021-01-12T16:00:00.000Z",
+      "description": "The 2020/21 FA Youth Cup is to be temporarily suspended, the Football Association have announced..."
     },
     {
       "contentType": "Interview",
@@ -471,75 +519,6 @@
       ],
       "date": "2021-01-11T12:33:00.000Z",
       "description": "Our statistical analysis of yesterday’s FA Cup victory against Morecambe highlights the significance of the two wingers and how a youthful midfield took control of proceedings…",
-      "matchId": 2177575
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210111watch-highlights-of-chelsea-s-fa",
-      "type": "NewsCard",
-      "timestamp": "2021-01-11T12:10:00.000Z",
-      "orderDate": "2021-01-11T12:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/11/watch-highlights-of-chelsea-s-fa-cup-win-against-morecambe",
-        "type": "NewsCard",
-        "title": "Watch highlights of Chelsea's FA Cup win against Morecambe",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/watch-highlights-of-chelsea-s-fa-cup-win-against-morecambe.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-11T12:10:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/11/watch-highlights-of-chelsea-s-fa-cup-win-against-morecambe",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea 4-0 Morecambe (H) | FA Cup highlights",
-          "videoId": "s56f5UBQ",
-          "bucket": "prod-cfc",
-          "description": "Chelsea put in a professional performance to see off Morecambe in the FA Cup third round.",
-          "duration": 136000,
-          "date": "2021-01-11T12:00:00.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/s56f5UBQ/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/watch-highlights-of-chelsea-s-fa-cup-win-against-morecambe.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/01/11/watch-highlights-of-chelsea-s-fa-cup-win-against-morecambe?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/01/11/watch-highlights-of-chelsea-s-fa-cup-win-against-morecambe",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Chelsea put in a professional performance to see off Morecambe in the FA Cup third round."
-      },
-      "content": "Watch highlights of Chelsea's FA Cup win against Morecambe",
-      "publishDate": "2021-01-11T12:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/watch-highlights-of-chelsea-s-fa-cup-win-against-morecambe.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-11T12:10:00.000Z",
-      "description": "Chelsea eased into the FA Cup fourth round for the 23rd consecutive season with a 4-0 victory over Morecambe on Sunday. You can see all the goals and key moments in the video above.",
       "matchId": 2177575
     }
   ]
