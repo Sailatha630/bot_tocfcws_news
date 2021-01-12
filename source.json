@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 77,
+    "totalItems": 78,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 8,
@@ -69,6 +69,68 @@
       ],
       "date": "2021-01-12T04:00:00.000Z",
       "description": "Callum Hudson-Odoi has revealed his goal against Morecambe was a result of his growing relationship with Hakim Ziyech on the pitch."
+    },
+    {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210112pat-nevin--hudson-odoi-epitomise",
+      "type": "NewsCard",
+      "timestamp": "2021-01-12T09:20:00.000Z",
+      "orderDate": "2021-01-12T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/12/pat-nevin--hudson-odoi-epitomised-the-feeling-of-fun",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Hudson-Odoi epitomised the feeling of fun",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/pat-nevin--hudson-odoi-epitomised-the-feeling-of-fun.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-12T09:20:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/01/12/pat-nevin--hudson-odoi-epitomised-the-feeling-of-fun",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner and Ziyech combine",
+          "id": "editorial/news/2021/01/11/werner-ziyech-morecambe-combination",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Hudson-Odoi epitomised the feeling of fun",
+      "publishDate": "2021-01-12T09:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/pat-nevin--hudson-odoi-epitomised-the-feeling-of-fun.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-01-12T09:20:00.000Z",
+      "description": "There was a smile on Pat Nevin's face as he watched smiles return to the faces of the Chelsea players in the weekend Cup win, and he wonders if the tricky recent run of form might prove beneficial in the long run..."
     },
     {
       "contentType": "News",
@@ -457,55 +519,6 @@
       "date": "2021-01-11T03:01:00.000Z",
       "description": "Emerson Palmieri felt our big win over Morecambe in the FA Cup was an important moment for Chelsea as we got back to winning ways.",
       "matchId": 2177575
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210111emma-hayes--it-was-a-total-team-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-11T11:52:00.000Z",
-      "orderDate": "2021-01-11T01:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/11/emma-hayes--it-was-a-total-team-performance-",
-        "type": "NewsCard",
-        "title": "Emma Hayes: It was a total team performance ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/emma-hayes--it-was-a-total-team-performance-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-11T11:52:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/11/emma-hayes--it-was-a-total-team-performance-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Hayes-postmatch",
-          "gravity": "auto",
-          "aspectRatio": 1.5001663,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emma Hayes: It was a total team performance ",
-      "publishDate": "2021-01-11T11:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/emma-hayes--it-was-a-total-team-performance-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-01-11T11:52:00.000Z",
-      "description": "Chelsea Women kicked off the New Year in style by beating Reading 5-0 and manager Emma Hayes said it was one of the most pleasing performances from her team so far this season.",
-      "matchId": 2138432
     }
   ]
 }
