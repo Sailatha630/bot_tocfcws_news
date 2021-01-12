@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 81,
+    "totalItems": 82,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 9,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210112gilmour-s-pitch-perfect-awarenes",
+      "type": "NewsCard",
+      "timestamp": "2021-01-12T11:55:00.000Z",
+      "orderDate": "2021-01-12T11:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/12/gilmour-s-pitch-perfect-awareness-",
+        "type": "NewsCard",
+        "title": "Gilmour’s pitch perfect awareness honed through practise and watching Fabregas",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/gilmour-s-pitch-perfect-awareness-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-12T11:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/12/gilmour-s-pitch-perfect-awareness-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Gilmour vs Morecambe",
+          "id": "editorial/news/2021/01/12/Gilmour-vs-Morecambe",
+          "gravity": "auto",
+          "aspectRatio": 1.4618974,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gilmour’s pitch perfect awareness honed through practise and watching Fabregas",
+      "publishDate": "2021-01-12T11:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/gilmour-s-pitch-perfect-awareness-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        }
+      ],
+      "date": "2021-01-12T11:55:00.000Z",
+      "description": "Billy Gilmour knows all about game awareness, having burst onto the scene over the past year in a deep midfield role that requires a 360 degree understanding of what’s around at all times."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210112hudson-odoi--i-knew-he-can-find-",
@@ -493,49 +541,6 @@
       "date": "2021-01-11T12:10:00.000Z",
       "description": "Chelsea eased into the FA Cup fourth round for the 23rd consecutive season with a 4-0 victory over Morecambe on Sunday. You can see all the goals and key moments in the video above.",
       "matchId": 2177575
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210111new-loan-move-for-castillo",
-      "type": "NewsCard",
-      "timestamp": "2021-01-11T16:00:00.000Z",
-      "orderDate": "2021-01-11T12:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/11/new-loan-move-for-castillo",
-        "type": "NewsCard",
-        "title": "New loan move for Castillo",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/new-loan-move-for-castillo.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-11T16:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/11/new-loan-move-for-castillo",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Juan Castillo",
-          "id": "editorial/news/2020/10/castillo_sept_2020",
-          "gravity": "auto",
-          "aspectRatio": 1.5021459,
-          "cropMode": "fill"
-        }
-      },
-      "content": "New loan move for Castillo",
-      "publishDate": "2021-01-11T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/new-loan-move-for-castillo.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-01-11T16:00:00.000Z",
-      "description": "Juan Castillo has ended his loan with AZ Alkmaar and will spend the rest of this season at ADO Den Haag."
     }
   ]
 }
