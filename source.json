@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 90,
+    "totalItems": 92,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 9,
+    "pageCount": 10,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210113james-trains-ahead-of-fulham-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-13T16:42:00.000Z",
+      "orderDate": "2021-01-13T16:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/13/james-trains-ahead-of-fulham-",
+        "type": "NewsCard",
+        "title": "Reece James trains ahead of Fulham ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/james-trains-ahead-of-fulham-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-13T16:42:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/13/james-trains-ahead-of-fulham-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/James-DTW_0253",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Reece James trains ahead of Fulham ",
+      "publishDate": "2021-01-13T16:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/james-trains-ahead-of-fulham-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-13T16:42:00.000Z",
+      "description": "There was a welcome sight at a rainy Cobham today, as Reece James trained with the Chelsea squad while the preparations for Saturday’s clash with Fulham continued.",
+      "matchId": 2128468
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews2021011310-questions-with----kurt-zouma",
@@ -312,6 +376,42 @@
       "description": "In our look at the latest Chelsea-related news stories from the media, Rio Ferdinand believes Declan Rice joining the Blues is inevitable and Antonio Cassano reveals how close Francesco Totti was to joining Chelsea."
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210113foundation-launch--check-in-with",
+      "type": "NewsCard",
+      "timestamp": "2021-01-13T15:08:00.000Z",
+      "orderDate": "2021-01-13T01:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/13/foundation-launch--check-in-with-chelsea--programme",
+        "type": "NewsCard",
+        "title": "Foundation launch ‘Check-in with Chelsea’ programme",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/foundation-launch--check-in-with-chelsea--programme.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-13T15:08:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/13/foundation-launch--check-in-with-chelsea--programme",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/01/13/ChelseaFoundation_Check_inwith_Chelsea2",
+          "gravity": "auto",
+          "aspectRatio": 1.2337822,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Foundation launch ‘Check-in with Chelsea’ programme",
+      "publishDate": "2021-01-13T15:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/foundation-launch--check-in-with-chelsea--programme.html",
+      "readTimeInMins": 6,
+      "tags": [],
+      "date": "2021-01-13T15:08:00.000Z",
+      "description": "Chelsea Foundation have this week launched a ‘Check-in with Chelsea’ programme designed to remind children of the importance of checking in, staying focused and keeping active."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210106hudson-odoi-exclusive-and-docher",
       "type": "NewsCard",
@@ -402,102 +502,6 @@
       ],
       "date": "2021-01-12T16:41:00.000Z",
       "description": "The fine header which sealed Olivier Giroud’s perfect hat-trick against Sevilla has been voted by fans as Chelsea’s Goal of the Month for December."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210112gilmour-s-pitch-perfect-awarenes",
-      "type": "NewsCard",
-      "timestamp": "2021-01-12T11:55:00.000Z",
-      "orderDate": "2021-01-12T11:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/12/gilmour-s-pitch-perfect-awareness-",
-        "type": "NewsCard",
-        "title": "Gilmour’s pitch perfect awareness honed through practise and watching Fabregas",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/gilmour-s-pitch-perfect-awareness-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-12T11:55:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/12/gilmour-s-pitch-perfect-awareness-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Gilmour vs Morecambe",
-          "id": "editorial/news/2021/01/12/Gilmour-vs-Morecambe",
-          "gravity": "auto",
-          "aspectRatio": 1.4618974,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gilmour’s pitch perfect awareness honed through practise and watching Fabregas",
-      "publishDate": "2021-01-12T11:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/gilmour-s-pitch-perfect-awareness-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        }
-      ],
-      "date": "2021-01-12T11:55:00.000Z",
-      "description": "Billy Gilmour knows all about game awareness, having burst onto the scene over the past year in a deep midfield role that requires a 360 degree understanding of what’s around at all times."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210112fa-youth-cup-temporarily-suspend",
-      "type": "NewsCard",
-      "timestamp": "2021-01-12T16:00:00.000Z",
-      "orderDate": "2021-01-12T08:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/12/fa-youth-cup-temporarily-suspended",
-        "type": "NewsCard",
-        "title": "FA Youth Cup temporarily suspended",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/fa-youth-cup-temporarily-suspended.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-12T16:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/12/fa-youth-cup-temporarily-suspended",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Youth Cup",
-          "id": "editorial/news/2020/02/fa-youth-cup-trophy-view-stock",
-          "gravity": "north",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "FA Youth Cup temporarily suspended",
-      "publishDate": "2021-01-12T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/fa-youth-cup-temporarily-suspended.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "U18 - FA Youth Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
-        }
-      ],
-      "date": "2021-01-12T16:00:00.000Z",
-      "description": "The 2020/21 FA Youth Cup is to be temporarily suspended, the Football Association have announced..."
     }
   ]
 }
