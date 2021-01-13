@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 85,
+    "totalItems": 86,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 9,
@@ -54,6 +54,49 @@
       ],
       "date": "2021-01-13T03:00:00.000Z",
       "description": "Kurt Zouma has been one of Chelsea’s standout performers this season, and in this exclusive interview he tells us about feeling settled at Stamford Bridge again, his development over the years and the key to his recent goalscoring exploits."
+    },
+    {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210112charlie-brown-joins-mk-dons",
+      "type": "NewsCard",
+      "timestamp": "2021-01-13T10:00:00.000Z",
+      "orderDate": "2021-01-13T01:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/12/charlie-brown-joins-mk-dons",
+        "type": "NewsCard",
+        "title": "Charlie Brown joins MK Dons",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/charlie-brown-joins-mk-dons.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-13T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/12/charlie-brown-joins-mk-dons",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Charlie Brown",
+          "id": "editorial/news/2020/11/Charlie-Brown-efl-Bristol",
+          "gravity": "auto",
+          "aspectRatio": 1.5002978,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Charlie Brown joins MK Dons",
+      "publishDate": "2021-01-13T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/charlie-brown-joins-mk-dons.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-01-13T10:00:00.000Z",
+      "description": "Charlie Brown has completed a permanent transfer to MK Dons."
     },
     {
       "contentType": "News",
@@ -475,54 +518,6 @@
       "date": "2021-01-12T11:00:00.000Z",
       "description": "Forward Fran Kirby praised Chelsea FC Women’s performance after we produced an emphatic 5-0 victory at Reading in the Barclays FA Women’s Super League on Sunday.",
       "matchId": 2138432
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210111chelsea-discover-fa-cup-fourth-r",
-      "type": "NewsCard",
-      "timestamp": "2021-01-11T19:30:00.000Z",
-      "orderDate": "2021-01-11T19:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/11/chelsea-discover-fa-cup-fourth-round-and-possible-fifth-round-op",
-        "type": "NewsCard",
-        "title": "Chelsea discover FA Cup fourth round and possible fifth round opponents ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/chelsea-discover-fa-cup-fourth-round-and-possible-fifth-round-op.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-11T19:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/11/chelsea-discover-fa-cup-fourth-round-and-possible-fifth-round-op",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "FA Cup",
-          "id": "editorial/news/2021/01/11/fa-cup-view-sleeve-patch",
-          "gravity": "auto",
-          "aspectRatio": 1.4997823,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea discover FA Cup fourth round and possible fifth round opponents ",
-      "publishDate": "2021-01-11T19:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/11/chelsea-discover-fa-cup-fourth-round-and-possible-fifth-round-op.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-11T19:30:00.000Z",
-      "description": "Chelsea will play Luton Town at home in the FA Cup fourth round."
     }
   ]
 }
