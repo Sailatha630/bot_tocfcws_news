@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 98,
+    "totalItems": 99,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 10,
@@ -67,6 +67,64 @@
       "matchId": 2128468
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210114lampard-reveals-plan-for-tomori-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-14T15:19:00.000Z",
+      "orderDate": "2021-01-14T13:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/14/lampard-reveals-plan-for-tomori-and-how-werner-is-coping-central",
+        "type": "NewsCard",
+        "title": "Lampard reveals plan for Tomori and how Werner is coping centrally",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/lampard-reveals-plan-for-tomori-and-how-werner-is-coping-central.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-14T15:19:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/14/lampard-reveals-plan-for-tomori-and-how-werner-is-coping-central",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Fikayo Tomori and Frank Lampard",
+          "id": "editorial/news/2021/01/14/lampard_tomori_press_conference_logo",
+          "gravity": "south",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard reveals plan for Tomori and how Werner is coping centrally",
+      "publishDate": "2021-01-14T15:19:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/lampard-reveals-plan-for-tomori-and-how-werner-is-coping-central.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Fikayo Tomori",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_fikayo-tomori"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-14T15:19:00.000Z",
+      "description": "Media reports during this early part of the January transfer window have speculated on whether Fikayo Tomori’s immediate future is at Chelsea, with loan moves suggested for the 23-year-old defender."
+    },
+    {
       "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20210106permanent-portuguese-move-for-lu",
       "type": "NewsCard",
@@ -115,65 +173,11 @@
       "description": "Lucas Piazon has signed for Braga on a permanent deal having ended his loan spell at Rio Ave."
     },
     {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210114lewis-bate-named-pl2-player-of-t",
-      "type": "NewsCard",
-      "timestamp": "2021-01-14T12:00:00.000Z",
-      "orderDate": "2021-01-14T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december",
-        "type": "NewsCard",
-        "title": "Lewis Bate named PL2 Player of the Month for December",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-14T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lewis Bate",
-          "id": "editorial/news/2020/11/LEwis-Bate-cfcu18-vs-barnsley",
-          "gravity": "auto",
-          "aspectRatio": 1.5001957,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Lewis Bate named PL2 Player of the Month for December",
-      "publishDate": "2021-01-14T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-01-14T12:00:00.000Z",
-      "description": "Academy midfielder Lewis Bate saw off fierce competition for the trophy and collects it this week for his Premier League 2 performances with Chelsea's development squad last month."
-    },
-    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210114giles-smith--defying-the-laws-of",
       "type": "NewsCard",
       "timestamp": "2021-01-14T11:07:00.000Z",
-      "orderDate": "2021-01-14T11:07:00.000Z",
+      "orderDate": "2021-01-14T12:07:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2021/01/14/giles-smith--defying-the-laws-of-physics",
         "type": "NewsCard",
@@ -229,6 +233,60 @@
       },
       "date": "2021-01-14T11:07:00.000Z",
       "description": "Chelsea fan and columnist Giles Smith was pleased to see the goals going in again at the weekend, and even if he has to wait a little longer than originally anticipated to view his team in action at Fulham, he is wondering what is the likelihood of things speeding up, the ball included…"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210114lewis-bate-named-pl2-player-of-t",
+      "type": "NewsCard",
+      "timestamp": "2021-01-14T12:00:00.000Z",
+      "orderDate": "2021-01-14T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december",
+        "type": "NewsCard",
+        "title": "Lewis Bate named PL2 Player of the Month for December",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-14T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lewis Bate",
+          "id": "editorial/news/2020/11/LEwis-Bate-cfcu18-vs-barnsley",
+          "gravity": "auto",
+          "aspectRatio": 1.5001957,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Lewis Bate named PL2 Player of the Month for December",
+      "publishDate": "2021-01-14T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-01-14T12:00:00.000Z",
+      "description": "Academy midfielder Lewis Bate saw off fierce competition for the trophy and collects it this week for his Premier League 2 performances with Chelsea's development squad last month."
     },
     {
       "contentType": "News",
@@ -507,64 +565,6 @@
       ],
       "date": "2021-01-13T15:23:00.000Z",
       "description": "Mason Mount had added reason for celebration on his 22nd birthday on Sunday as he opened the scoring in Chelsea’s 4-0 victory over Morecambe in the third round of the FA Cup."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210113learn-to-dribble-like-callum--",
-      "type": "NewsCard",
-      "timestamp": "2021-01-13T12:06:00.000Z",
-      "orderDate": "2021-01-13T11:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/13/learn-to-dribble-like-callum--",
-        "type": "NewsCard",
-        "title": "Learn to dribble like Callum! ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/learn-to-dribble-like-callum--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-13T12:06:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/13/learn-to-dribble-like-callum--",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Callum Hudson-Odoi breaks down his dribbling technique | Like A Pro",
-          "videoId": "I0PFdTB2",
-          "bucket": "prod-cfc",
-          "description": "Want to leave defenders for dead with tips from one of the Premier League's best dribblers? Look no further! Chelsea star Callum Hudson-Odoi runs through his own technique and gives his top tips on how to run with the ball...",
-          "duration": 219000,
-          "date": "2021-01-13T11:50:46.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/I0PFdTB2/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/learn-to-dribble-like-callum--.page.v3.json",
-          "contentType": "Analysis",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/01/13/learn-to-dribble-like-callum--?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/01/13/learn-to-dribble-like-callum--",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Want to leave defenders for dead with tips from one of the Premier League's best dribblers? Look no further! Chelsea star Callum Hudson-Odoi runs through his own technique and gives his top tips on how to run with the ball..."
-      },
-      "content": "Learn to dribble like Callum! ",
-      "publishDate": "2021-01-13T12:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/learn-to-dribble-like-callum--.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        }
-      ],
-      "date": "2021-01-13T12:06:00.000Z",
-      "description": "The second season of our Like A Pro video series starts with a feature on Callum Hudson-Odoi's dribbling skills, in which our young winger explains his technique for carrying the ball at speed and beating his man."
     }
   ]
 }
