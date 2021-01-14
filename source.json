@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 97,
+    "totalItems": 98,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 10,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210114frank-lampard-injury-updates-ful",
+      "type": "NewsCard",
+      "timestamp": "2021-01-14T14:25:00.000Z",
+      "orderDate": "2021-01-14T14:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/14/frank-lampard-injury-updates-fulham-reece-james",
+        "type": "NewsCard",
+        "title": "Lampard confirms Chelsea fully fit, discusses recent extra training bonus and previews Fulham derby",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/frank-lampard-injury-updates-fulham-reece-james.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-14T14:25:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/14/frank-lampard-injury-updates-fulham-reece-james",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lampard",
+          "id": "editorial/news/2021/01/14/lampard-carabao-press-conference",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard confirms Chelsea fully fit, discusses recent extra training bonus and previews Fulham derby",
+      "publishDate": "2021-01-14T14:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/frank-lampard-injury-updates-fulham-reece-james.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Fulham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_fulham"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-14T14:25:00.000Z",
+      "description": "Frank Lampard has reported he will only be without the suspended N’Golo Kante for Saturday’s trip to Craven Cottage.",
+      "matchId": 2128468
+    },
     {
       "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20210106permanent-portuguese-move-for-lu",
@@ -506,54 +565,6 @@
       ],
       "date": "2021-01-13T12:06:00.000Z",
       "description": "The second season of our Like A Pro video series starts with a feature on Callum Hudson-Odoi's dribbling skills, in which our young winger explains his technique for carrying the ball at speed and beating his man."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210113fulham-vs-chelsea-press-conferen",
-      "type": "NewsCard",
-      "timestamp": "2021-01-13T11:08:00.000Z",
-      "orderDate": "2021-01-13T02:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/13/fulham-vs-chelsea-press-conference-and-how-to-follow-the-game0",
-        "type": "NewsCard",
-        "title": "Fulham vs Chelsea press conference and how to follow the game",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/fulham-vs-chelsea-press-conference-and-how-to-follow-the-game0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-13T11:08:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/13/fulham-vs-chelsea-press-conference-and-how-to-follow-the-game0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/media-watch/kante-fulham-2019-GettyImages-1133392848",
-          "gravity": "auto",
-          "aspectRatio": 1.5003657,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Fulham vs Chelsea press conference and how to follow the game",
-      "publishDate": "2021-01-13T11:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/fulham-vs-chelsea-press-conference-and-how-to-follow-the-game0.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-13T11:08:00.000Z",
-      "description": "We return to Premier League action on Saturday when we face neighbours Fulham at Craven Cottage and here we detail how you can watch Frank Lampard’s media conference to preview the match, as well as follow the game itself.",
-      "matchId": 2128468
     }
   ]
 }
