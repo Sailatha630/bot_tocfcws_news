@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 92,
+    "totalItems": 93,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 10,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210114fulham-vs-chelsea---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-01-14T01:03:00.000Z",
+      "orderDate": "2021-01-14T01:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/14/fulham-vs-chelsea---the-stats",
+        "type": "NewsCard",
+        "title": "Going for six straight against the neighbours - Fulham vs Chelsea - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/fulham-vs-chelsea---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-14T01:03:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/14/fulham-vs-chelsea---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Emerson playing Fulham",
+          "id": "editorial/news/2021/01/13/emerson_fulham_away_2019",
+          "gravity": "auto",
+          "aspectRatio": 1.5001976,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Going for six straight against the neighbours - Fulham vs Chelsea - the stats",
+      "publishDate": "2021-01-14T01:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/fulham-vs-chelsea---the-stats.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Fulham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_fulham"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-14T01:03:00.000Z",
+      "description": "The most local of our local derbies will take place by the Thames on Saturday and as the anticipation builds, we have the major facts and figures ahead of the Fulham game..."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210113james-trains-ahead-of-fulham-",
@@ -454,54 +507,6 @@
       "date": "2021-01-13T09:43:00.000Z",
       "description": "The last few copies of the matchday programme from our FA Cup game against Morecambe are available online now. Click here to purchase one!",
       "matchId": 2177575
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210112giroud-s-hat-trick-header-named-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-12T16:41:00.000Z",
-      "orderDate": "2021-01-12T16:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/12/giroud-s-hat-trick-header-named-chelsea-s-december-goal-of-the-m",
-        "type": "NewsCard",
-        "title": "Giroud’s hat-trick header named Chelsea’s December Goal of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/giroud-s-hat-trick-header-named-chelsea-s-december-goal-of-the-m.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-12T16:41:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/12/giroud-s-hat-trick-header-named-chelsea-s-december-goal-of-the-m",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Giroud",
-          "id": "editorial/match-reports/2020-21/sevilla-away/Giroud_GettyImages-1289073309",
-          "gravity": "auto",
-          "aspectRatio": 1.4556041,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Giroud’s hat-trick header named Chelsea’s December Goal of the Month",
-      "publishDate": "2021-01-12T16:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/giroud-s-hat-trick-header-named-chelsea-s-december-goal-of-the-m.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Goal of the Month",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_goal-of-the-month"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        }
-      ],
-      "date": "2021-01-12T16:41:00.000Z",
-      "description": "The fine header which sealed Olivier Giroud’s perfect hat-trick against Sevilla has been voted by fans as Chelsea’s Goal of the Month for December."
     }
   ]
 }
