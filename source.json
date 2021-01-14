@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 94,
+    "totalItems": 96,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 10,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210114lewis-bate-named-pl2-player-of-t",
+      "type": "NewsCard",
+      "timestamp": "2021-01-14T12:00:00.000Z",
+      "orderDate": "2021-01-14T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december",
+        "type": "NewsCard",
+        "title": "Lewis Bate named PL2 Player of the Month for December",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-14T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lewis Bate",
+          "id": "editorial/news/2020/11/LEwis-Bate-cfcu18-vs-barnsley",
+          "gravity": "auto",
+          "aspectRatio": 1.5001957,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Lewis Bate named PL2 Player of the Month for December",
+      "publishDate": "2021-01-14T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/lewis-bate-named-pl2-player-of-the-month-for-december.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-01-14T12:00:00.000Z",
+      "description": "Academy midfielder Lewis Bate saw off fierce competition for the trophy and collects it this week for his Premier League 2 performances with Chelsea's development squad last month."
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210114giles-smith--defying-the-laws-of",
@@ -68,6 +122,55 @@
       },
       "date": "2021-01-14T11:07:00.000Z",
       "description": "Chelsea fan and columnist Giles Smith was pleased to see the goals going in again at the weekend, and even if he has to wait a little longer than originally anticipated to view his team in action at Fulham, he is wondering what is the likelihood of things speeding up, the ball included…"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210114media-watch--van-ginkel-returns-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-14T11:14:00.000Z",
+      "orderDate": "2021-01-14T01:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/14/media-watch--van-ginkel-returns--leeds-star-explains-lampard-rel",
+        "type": "NewsCard",
+        "title": "Media Watch: Van Ginkel returns, Leeds star explains Lampard relationship and Merson believes Blues are still title challengers",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/media-watch--van-ginkel-returns--leeds-star-explains-lampard-rel.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-14T11:14:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/14/media-watch--van-ginkel-returns--leeds-star-explains-lampard-rel",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Van Ginkel",
+          "id": "editorial/news/2021/01/14/VanGinkel_MW_140121",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Media Watch: Van Ginkel returns, Leeds star explains Lampard relationship and Merson believes Blues are still title challengers",
+      "publishDate": "2021-01-14T11:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/media-watch--van-ginkel-returns--leeds-star-explains-lampard-rel.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Marco Van Ginkel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marco-van-ginkel"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-14T11:14:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, Marco van Ginkel played his first minutes since 2018 and Jack Harrison explains his relationship with Frank Lampard from New York City."
     },
     {
       "contentType": "Match Preview",
@@ -446,85 +549,6 @@
       ],
       "date": "2021-01-13T10:00:00.000Z",
       "description": "Charlie Brown has completed a permanent transfer to MK Dons."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210113media-watch--ferdinand-convinced",
-      "type": "NewsCard",
-      "timestamp": "2021-01-13T11:26:00.000Z",
-      "orderDate": "2021-01-13T01:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/13/media-watch--ferdinand-convinced-midfielder-will-join-blues--tot",
-        "type": "NewsCard",
-        "title": "Media Watch: Ferdinand convinced midfielder will join Blues, Totti’s former team-mate reveals close Chelsea move and Fulham boss backs Loftus-Cheek",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/media-watch--ferdinand-convinced-midfielder-will-join-blues--tot.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-13T11:26:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/13/media-watch--ferdinand-convinced-midfielder-will-join-blues--tot",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Rice",
-          "id": "editorial/media-watch/Rice_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Ferdinand convinced midfielder will join Blues, Totti’s former team-mate reveals close Chelsea move and Fulham boss backs Loftus-Cheek",
-      "publishDate": "2021-01-13T11:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/media-watch--ferdinand-convinced-midfielder-will-join-blues--tot.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Ruben Loftus-Cheek",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ruben-loftus-cheek"
-        }
-      ],
-      "date": "2021-01-13T11:26:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Rio Ferdinand believes Declan Rice joining the Blues is inevitable and Antonio Cassano reveals how close Francesco Totti was to joining Chelsea."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210113foundation-launch--check-in-with",
-      "type": "NewsCard",
-      "timestamp": "2021-01-13T15:08:00.000Z",
-      "orderDate": "2021-01-13T01:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/13/foundation-launch--check-in-with-chelsea--programme",
-        "type": "NewsCard",
-        "title": "Foundation launch ‘Check-in with Chelsea’ programme",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/foundation-launch--check-in-with-chelsea--programme.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-13T15:08:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/13/foundation-launch--check-in-with-chelsea--programme",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/01/13/ChelseaFoundation_Check_inwith_Chelsea2",
-          "gravity": "auto",
-          "aspectRatio": 1.2337822,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Foundation launch ‘Check-in with Chelsea’ programme",
-      "publishDate": "2021-01-13T15:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/13/foundation-launch--check-in-with-chelsea--programme.html",
-      "readTimeInMins": 6,
-      "tags": [],
-      "date": "2021-01-13T15:08:00.000Z",
-      "description": "Chelsea Foundation have this week launched a ‘Check-in with Chelsea’ programme designed to remind children of the importance of checking in, staying focused and keeping active."
     }
   ]
 }
