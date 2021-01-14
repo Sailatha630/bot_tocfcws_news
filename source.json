@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 96,
+    "totalItems": 97,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 10,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210106permanent-portuguese-move-for-lu",
+      "type": "NewsCard",
+      "timestamp": "2021-01-14T12:11:00.000Z",
+      "orderDate": "2021-01-14T12:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/06/permanent-portuguese-move-for-lucas-piazon",
+        "type": "NewsCard",
+        "title": "Permanent Portuguese move for Lucas Piazon",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/06/permanent-portuguese-move-for-lucas-piazon.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-14T12:11:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/06/permanent-portuguese-move-for-lucas-piazon",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lucas Piazon",
+          "id": "editorial/news/2021/01/06/lucas-piazon-stock",
+          "gravity": "auto",
+          "aspectRatio": 0.7125323,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Permanent Portuguese move for Lucas Piazon",
+      "publishDate": "2021-01-14T12:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/06/permanent-portuguese-move-for-lucas-piazon.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Transfer",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_transfer"
+        },
+        {
+          "title": "Lucas Piazon",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_lucas-piazon"
+        }
+      ],
+      "date": "2021-01-14T12:11:00.000Z",
+      "description": "Lucas Piazon has signed for Braga on a permanent deal having ended his loan spell at Rio Ave."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210114lewis-bate-named-pl2-player-of-t",
@@ -506,49 +554,6 @@
       "date": "2021-01-13T11:08:00.000Z",
       "description": "We return to Premier League action on Saturday when we face neighbours Fulham at Craven Cottage and here we detail how you can watch Frank Lampard’s media conference to preview the match, as well as follow the game itself.",
       "matchId": 2128468
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210112charlie-brown-joins-mk-dons",
-      "type": "NewsCard",
-      "timestamp": "2021-01-13T10:00:00.000Z",
-      "orderDate": "2021-01-13T01:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/12/charlie-brown-joins-mk-dons",
-        "type": "NewsCard",
-        "title": "Charlie Brown joins MK Dons",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/charlie-brown-joins-mk-dons.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-13T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/12/charlie-brown-joins-mk-dons",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Charlie Brown",
-          "id": "editorial/news/2020/11/Charlie-Brown-efl-Bristol",
-          "gravity": "auto",
-          "aspectRatio": 1.5002978,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Charlie Brown joins MK Dons",
-      "publishDate": "2021-01-13T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/12/charlie-brown-joins-mk-dons.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-01-13T10:00:00.000Z",
-      "description": "Charlie Brown has completed a permanent transfer to MK Dons."
     }
   ]
 }
