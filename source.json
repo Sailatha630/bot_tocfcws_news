@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 102,
+    "totalItems": 103,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 11,
@@ -119,6 +119,49 @@
       "date": "2021-01-14T14:25:00.000Z",
       "description": "Frank Lampard has reported he will only be without the suspended N’Golo Kante for Saturday’s trip to Craven Cottage.",
       "matchId": 2128468
+    },
+    {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210115joe-cole-provides-an-insight-for",
+      "type": "NewsCard",
+      "timestamp": "2021-01-15T08:42:00.000Z",
+      "orderDate": "2021-01-14T15:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/15/joe-cole-provides-an-insight-for-foundation-college-academy-stud",
+        "type": "NewsCard",
+        "title": "Joe Cole provides an insight for Foundation College Academy Students",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/15/joe-cole-provides-an-insight-for-foundation-college-academy-stud.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-15T08:42:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/15/joe-cole-provides-an-insight-for-foundation-college-academy-stud",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Joe Cole",
+          "id": "editorial/news/2019/3/joe-cole-tv-pundit",
+          "gravity": "north_west",
+          "aspectRatio": 1.4997735,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Joe Cole provides an insight for Foundation College Academy Students",
+      "publishDate": "2021-01-15T08:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/15/joe-cole-provides-an-insight-for-foundation-college-academy-stud.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Joe Cole",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_joe-cole"
+        }
+      ],
+      "date": "2021-01-15T08:42:00.000Z",
+      "description": "The Chelsea Foundation and St Mary’s University recently hosted an event to give Chelsea FC Foundation College Academy students an insight into different job roles within the sporting sector."
     },
     {
       "contentType": "News",
@@ -475,59 +518,6 @@
       ],
       "date": "2021-01-14T11:14:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Marco van Ginkel played his first minutes since 2018 and Jack Harrison explains his relationship with Frank Lampard from New York City."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210114fulham-vs-chelsea---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2021-01-14T01:03:00.000Z",
-      "orderDate": "2021-01-14T01:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/14/fulham-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Going for six straight against the neighbours - Fulham vs Chelsea - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/fulham-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-14T01:03:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/14/fulham-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Emerson playing Fulham",
-          "id": "editorial/news/2021/01/13/emerson_fulham_away_2019",
-          "gravity": "auto",
-          "aspectRatio": 1.5001976,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Going for six straight against the neighbours - Fulham vs Chelsea - the stats",
-      "publishDate": "2021-01-14T01:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/fulham-vs-chelsea---the-stats.html",
-      "readTimeInMins": 22,
-      "tags": [
-        {
-          "title": "Fulham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_fulham"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-14T01:03:00.000Z",
-      "description": "The most local of our local derbies will take place by the Thames on Saturday and as the anticipation builds, we have the major facts and figures ahead of the Fulham game..."
     }
   ]
 }
