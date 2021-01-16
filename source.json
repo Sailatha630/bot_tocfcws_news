@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 111,
+    "totalItems": 112,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 12,
@@ -151,6 +151,50 @@
       "date": "2021-01-15T22:30:00.000Z",
       "description": "Frank Lampard believes Ruben Loftus-Cheek is achieving exactly what he intended at Craven Cottage this season, playing regular football and becoming an integral part of Fulham’s improving team.",
       "matchId": 2128468
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210116chelsea-women-v-manchester-unite",
+      "type": "NewsCard",
+      "timestamp": "2021-01-16T10:00:00.000Z",
+      "orderDate": "2021-01-15T18:56:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/16/chelsea-women-v-manchester-united-women-preview--kick-off-time--",
+        "type": "NewsCard",
+        "title": "Chelsea Women v Manchester United Women preview: Kick-off time, how to watch the game live and more",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/chelsea-women-v-manchester-united-women-preview--kick-off-time--.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-16T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/16/chelsea-women-v-manchester-united-women-preview--kick-off-time--",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Fran_United2",
+          "gravity": "auto",
+          "aspectRatio": 1.499543,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women v Manchester United Women preview: Kick-off time, how to watch the game live and more",
+      "publishDate": "2021-01-16T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/chelsea-women-v-manchester-united-women-preview--kick-off-time--.html",
+      "readTimeInMins": 35,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-01-16T10:00:00.000Z",
+      "description": "Chelsea Women host Manchester United in the Barclays FA Women’s Super League and here is all the information you need ahead of this weekend’s top-of-the-table clash…",
+      "matchId": 2138435
     },
     {
       "contentType": "History",
@@ -517,54 +561,6 @@
       "date": "2021-01-15T12:06:00.000Z",
       "description": "Chelsea Women manager Emma Hayes spoke to the media ahead of the Blues’ top-of-the-table clash versus Manchester United at Kingsmeadow on Sunday.",
       "matchId": 2138435
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210115media-watch--blues-rival-spurs-f",
-      "type": "NewsCard",
-      "timestamp": "2021-01-15T10:04:00.000Z",
-      "orderDate": "2021-01-15T00:04:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/15/media-watch--blues-rival-spurs-for-defender--terry-backs-world-c",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues rival Spurs for defender, Terry backs World Cup effort and Parker’s praise for Lampard",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/15/media-watch--blues-rival-spurs-for-defender--terry-backs-world-c.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-15T10:04:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/15/media-watch--blues-rival-spurs-for-defender--terry-backs-world-c",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Media Watch",
-          "id": "editorial/news/2021/01/15/Media-Watch-graphic-Kim-Min-Jae",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues rival Spurs for defender, Terry backs World Cup effort and Parker’s praise for Lampard",
-      "publishDate": "2021-01-15T10:04:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/15/media-watch--blues-rival-spurs-for-defender--terry-backs-world-c.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "John Terry",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-terry"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-15T10:04:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are linked to South Korean defender Kim Min-jae and John Terry lends his support to England’s efforts to win the Rugby League World Cup."
     }
   ]
 }
