@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 113,
+    "totalItems": 114,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 12,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210116chelsea-line-up-vs-fulham",
+      "type": "NewsCard",
+      "timestamp": "2021-01-16T16:30:00.000Z",
+      "orderDate": "2021-01-16T16:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/16/chelsea-line-up-vs-fulham",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Fulham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/chelsea-line-up-vs-fulham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-16T16:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/16/chelsea-line-up-vs-fulham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic and Ziyech shirts",
+          "id": "editorial/match-reports/2020-21/fulham-away/pulisic-ziyech-fulham-away",
+          "gravity": "auto",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Fulham",
+      "publishDate": "2021-01-16T16:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/chelsea-line-up-vs-fulham.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Fulham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_fulham"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        }
+      ],
+      "date": "2021-01-16T16:30:00.000Z",
+      "description": "Frank Lampard makes three changes to the side that started our last league outing a fortnight ago, with one of them enforced because of N’Golo Kante’s suspension.",
+      "matchId": 2128468
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210116lampard-details-concern-over-fix",
@@ -524,43 +583,6 @@
       ],
       "date": "2021-01-15T11:00:00.000Z",
       "description": "Bethany England talks tattoos in the latest episode of Three’s Connect With… series, with the striker discussing her love of inked art and the strong possibility of adding another design to her body!"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210114live-training-sessions-with-chel",
-      "type": "NewsCard",
-      "timestamp": "2021-01-14T16:55:00.000Z",
-      "orderDate": "2021-01-15T01:42:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/14/live-training-sessions-with-chelsea-coaches-launch-online-this-w",
-        "type": "NewsCard",
-        "title": "Live training sessions with Chelsea coaches launch online this weekend",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/live-training-sessions-with-chelsea-coaches-launch-online-this-w.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-14T16:55:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/14/live-training-sessions-with-chelsea-coaches-launch-online-this-w",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Coaches Corner Live",
-          "id": "editorial/news/2021/01/14/Coaches-Corner-Live-graphic",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Live training sessions with Chelsea coaches launch online this weekend",
-      "publishDate": "2021-01-14T16:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/14/live-training-sessions-with-chelsea-coaches-launch-online-this-w.html",
-      "readTimeInMins": 8,
-      "tags": [],
-      "date": "2021-01-14T16:55:00.000Z",
-      "description": "Beginning this weekend and running throughout the current lockdown, our new live online coaching sessions will be perfect to fulfil your Saturday morning training routine..."
     }
   ]
 }
