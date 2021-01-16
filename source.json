@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 115,
+    "totalItems": 116,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 12,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210116lampard-reflects-on-a--small-ste",
+      "type": "NewsCard",
+      "timestamp": "2021-01-16T20:39:00.000Z",
+      "orderDate": "2021-01-16T20:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/16/lampard-reflects-on-a--small-step--forward-and-hails--outstandin",
+        "type": "NewsCard",
+        "title": "Lampard reflects on a ‘small step’ forward and hails ‘outstanding’ Mount",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/lampard-reflects-on-a--small-step--forward-and-hails--outstandin.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-16T20:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/16/lampard-reflects-on-a--small-step--forward-and-hails--outstandin",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard",
+          "id": "editorial/news/2021/01/16/Lampard_GettyImages-1296718575",
+          "gravity": "auto",
+          "aspectRatio": 1.3957314,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard reflects on a ‘small step’ forward and hails ‘outstanding’ Mount",
+      "publishDate": "2021-01-16T20:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/lampard-reflects-on-a--small-step--forward-and-hails--outstandin.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-16T20:39:00.000Z",
+      "description": "Frank Lampard was very pleased with the aptitude and calmness his team displayed against stubborn opposition in the form of Fulham, and the boss believes there was no worthier matchwinner than Mason Mount.",
+      "matchId": 2128468
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210116match-report--fulham-vs-chelsea",
@@ -519,60 +583,6 @@
       ],
       "date": "2021-01-15T11:41:00.000Z",
       "description": "We travel to Fulham for our shortest away trip on Saturday, but can you order the rest of the London teams by how close they are to Chelsea?",
-      "matchId": 2128468
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210115pre-match-briefing--fulham-vs-ch",
-      "type": "NewsCard",
-      "timestamp": "2021-01-15T04:37:00.000Z",
-      "orderDate": "2021-01-15T04:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/15/pre-match-briefing--fulham-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Fulham vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/15/pre-match-briefing--fulham-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-15T04:37:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/01/15/pre-match-briefing--fulham-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Craven Cottage",
-          "id": "editorial/news/2021/01/14/craven_cottage_view_december_2020",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Fulham vs Chelsea",
-      "publishDate": "2021-01-15T04:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/15/pre-match-briefing--fulham-vs-chelsea.html",
-      "readTimeInMins": 69,
-      "tags": [
-        {
-          "title": "Fulham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_fulham"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-15T04:37:00.000Z",
-      "description": "It’s back to the Premier League campaign this weekend after a rare full week of preparation time. Club historian Rick Glanvill and club statistician Paul Dutton look local for Saturday’s serving of derby action…",
       "matchId": 2128468
     }
   ]
