@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 118,
+    "totalItems": 119,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 12,
@@ -257,6 +257,49 @@
       "date": "2021-01-16T19:30:00.000Z",
       "description": "Mason Mount struck late against 10-man Fulham to settle this west London derby in our favour and secure a first league win in four.",
       "matchId": 2128468
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210117bright-expects-tough-united-test",
+      "type": "NewsCard",
+      "timestamp": "2021-01-17T05:22:00.000Z",
+      "orderDate": "2021-01-16T18:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/17/bright-expects-tough-united-test",
+        "type": "NewsCard",
+        "title": "Bright expects tough United test",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/17/bright-expects-tough-united-test.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-17T05:22:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/17/bright-expects-tough-united-test",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2020/12/Millie-bright-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.4997933,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Bright expects tough United test",
+      "publishDate": "2021-01-17T05:22:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/17/bright-expects-tough-united-test.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-01-17T05:22:00.000Z",
+      "description": "Chelsea FC Women face Manchester United this afternoon and Millie Bright is targeting all three points against the league leaders.",
+      "matchId": 2138435
     },
     {
       "contentType": "News",
@@ -571,50 +614,6 @@
       ],
       "date": "2021-01-16T11:00:00.000Z",
       "description": "The Blues head to Craven Cottage today to face a Fulham side managed by Scott Parker, who was Chelsea’s first-ever January transfer window signing. Here’s a reminder of some of the other mid-season arrivals since then."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210116chelsea-women-v-manchester-unite",
-      "type": "NewsCard",
-      "timestamp": "2021-01-16T10:00:00.000Z",
-      "orderDate": "2021-01-15T18:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/16/chelsea-women-v-manchester-united-women-preview--kick-off-time--",
-        "type": "NewsCard",
-        "title": "Chelsea Women v Manchester United Women preview: Kick-off time, how to watch the game live and more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/chelsea-women-v-manchester-united-women-preview--kick-off-time--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-16T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/16/chelsea-women-v-manchester-united-women-preview--kick-off-time--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Fran_United2",
-          "gravity": "auto",
-          "aspectRatio": 1.499543,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v Manchester United Women preview: Kick-off time, how to watch the game live and more",
-      "publishDate": "2021-01-16T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/chelsea-women-v-manchester-united-women-preview--kick-off-time--.html",
-      "readTimeInMins": 35,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-01-16T10:00:00.000Z",
-      "description": "Chelsea Women host Manchester United in the Barclays FA Women’s Super League and here is all the information you need ahead of this weekend’s top-of-the-table clash…",
-      "matchId": 2138435
     }
   ]
 }
