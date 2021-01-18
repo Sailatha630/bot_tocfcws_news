@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 132,
+    "totalItems": 133,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 14,
@@ -64,6 +64,59 @@
       "date": "2021-01-18T14:15:00.000Z",
       "description": "Frank Lampard has revealed that only N’Golo Kante, no longer suspended but still nursing a hamstring injury, will miss tomorrow’s Premier League trip to Leicester City.",
       "matchId": 2128460
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210118lampard--werner-will-have-fantas",
+      "type": "NewsCard",
+      "timestamp": "2021-01-18T14:51:00.000Z",
+      "orderDate": "2021-01-18T12:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/18/lampard--werner-will-have-fantastic-chelsea-career",
+        "type": "NewsCard",
+        "title": "Lampard: Werner will have fantastic Chelsea career",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/lampard--werner-will-have-fantastic-chelsea-career.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-18T14:51:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/18/lampard--werner-will-have-fantastic-chelsea-career",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard and Timo Werner",
+          "id": "editorial/news/2021/01/18/press_conference_lampard_werner",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard: Werner will have fantastic Chelsea career",
+      "publishDate": "2021-01-18T14:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/lampard--werner-will-have-fantastic-chelsea-career.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-18T14:51:00.000Z",
+      "description": "Following Timo Werner’s clear disappointment with not taking a scoring chance at the end of the win at Fulham at the weekend, Frank Lampard was asked in his Monday media conference about the German and what he as the head coach can do to help him rediscover his scoring touch."
     },
     {
       "contentType": "Chelsea Transfer News",
@@ -477,51 +530,6 @@
       "date": "2021-01-17T13:09:00.000Z",
       "description": "Cesar Azpilicueta says victory over Fulham was just the start of Chelsea’s return to form and underlined the importance of following it up with another three points against Leicester City.",
       "matchId": 2128468
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210117women-s-report--chelsea-2-man-un",
-      "type": "NewsCard",
-      "timestamp": "2021-01-17T13:08:00.000Z",
-      "orderDate": "2021-01-17T13:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/17/women-s-report--chelsea-2-man-united-1",
-        "type": "NewsCard",
-        "title": "Women’s report: Chelsea 2 Man United 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/17/women-s-report--chelsea-2-man-united-1.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-17T13:08:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/01/17/women-s-report--chelsea-2-man-united-1",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kirby celebrates the winner",
-          "id": "editorial/match-reports/2020-21/women-man-united-home/Kirby-GettyImages-1296866645",
-          "gravity": "auto",
-          "aspectRatio": 1.5001628,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Chelsea 2 Man United 1",
-      "publishDate": "2021-01-17T13:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/17/women-s-report--chelsea-2-man-united-1.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-01-17T13:08:00.000Z",
-      "description": "The Blues equalled the record for the longest unbeaten streak in WSL history and leapfrogged Manchester United at the top of the table, as goals in either half from Pernille Harder and the in-form Fran Kirby gave us a deserved victory at Kingsmeadow.",
-      "matchId": 2138435
     }
   ]
 }
