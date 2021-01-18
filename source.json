@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 131,
+    "totalItems": 132,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 14,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210118frank-lampard-team-news-and-pres",
+      "type": "NewsCard",
+      "timestamp": "2021-01-18T14:15:00.000Z",
+      "orderDate": "2021-01-18T14:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/18/frank-lampard-team-news-and-press-conference-ahead-of-leicester",
+        "type": "NewsCard",
+        "title": "Lampard reports one absentee for trip to Leicester and updates on transfer talk",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/frank-lampard-team-news-and-press-conference-ahead-of-leicester.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-18T14:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/18/frank-lampard-team-news-and-press-conference-ahead-of-leicester",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/01/18/lampard-press-conference-logo-2",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard reports one absentee for trip to Leicester and updates on transfer talk",
+      "publishDate": "2021-01-18T14:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/frank-lampard-team-news-and-press-conference-ahead-of-leicester.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-18T14:15:00.000Z",
+      "description": "Frank Lampard has revealed that only N’Golo Kante, no longer suspended but still nursing a hamstring injury, will miss tomorrow’s Premier League trip to Leicester City.",
+      "matchId": 2128460
+    },
     {
       "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20210118drinkwater-departs-on-loan",
@@ -464,65 +522,6 @@
       "date": "2021-01-17T13:08:00.000Z",
       "description": "The Blues equalled the record for the longest unbeaten streak in WSL history and leapfrogged Manchester United at the top of the table, as goals in either half from Pernille Harder and the in-form Fran Kirby gave us a deserved victory at Kingsmeadow.",
       "matchId": 2138435
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210117the-debrief--all-action-mount-cr",
-      "type": "NewsCard",
-      "timestamp": "2021-01-17T12:20:00.000Z",
-      "orderDate": "2021-01-17T12:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/17/the-debrief--all-action-mount-creative-and-decisive-to-extend-de",
-        "type": "NewsCard",
-        "title": "The Debrief: All-action Mount creative and decisive to extend derby run",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/17/the-debrief--all-action-mount-creative-and-decisive-to-extend-de.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-17T12:20:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/17/the-debrief--all-action-mount-creative-and-decisive-to-extend-de",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/01/17/debrief-web-fulham-away-graphic",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: All-action Mount creative and decisive to extend derby run",
-      "publishDate": "2021-01-17T12:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/17/the-debrief--all-action-mount-creative-and-decisive-to-extend-de.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2021-01-17T12:20:00.000Z",
-      "description": "Our analysis of the statistics from the win over Fulham highlight just how influential Mason Mount was in all aspects of the game…",
-      "matchId": 2128468
     }
   ]
 }
