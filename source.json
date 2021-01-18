@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 126,
+    "totalItems": 127,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 13,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210118mount--the-most-important-thing-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-18T10:57:00.000Z",
+      "orderDate": "2021-01-18T10:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/18/mount--the-most-important-thing-is-to-show-character",
+        "type": "NewsCard",
+        "title": "Mount: The most important thing is to show character",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/mount--the-most-important-thing-is-to-show-character.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-18T10:57:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/18/mount--the-most-important-thing-is-to-show-character",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mount",
+          "id": "editorial/news/2021/01/18/Mount-goal-celebration-Fulham-away",
+          "gravity": "auto",
+          "aspectRatio": 1.6198704,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount: The most important thing is to show character",
+      "publishDate": "2021-01-18T10:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/mount--the-most-important-thing-is-to-show-character.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-01-18T10:57:00.000Z",
+      "description": "Saturday's match-winner reflects on sticking together and building on positive momentum...",
+      "matchId": 2128468
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210118lampard-explains-what-type-of-go",
@@ -504,80 +553,6 @@
       ],
       "date": "2021-01-16T20:39:00.000Z",
       "description": "Frank Lampard was very pleased with the aptitude and calmness his team displayed against stubborn opposition in the form of Fulham, and the boss believes there was no worthier matchwinner than Mason Mount.",
-      "matchId": 2128468
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210116watch-highlights-of-chelsea-s-pr",
-      "type": "NewsCard",
-      "timestamp": "2021-01-16T21:25:00.000Z",
-      "orderDate": "2021-01-16T20:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/16/watch-highlights-of-chelsea-s-premier-league-win-at-fulham",
-        "type": "NewsCard",
-        "title": "Watch highlights of Chelsea's Premier League win at Fulham",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/watch-highlights-of-chelsea-s-premier-league-win-at-fulham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-16T21:25:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/16/watch-highlights-of-chelsea-s-premier-league-win-at-fulham",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Fulham 0-1 Chelsea (A) | Premier League Highlights",
-          "videoId": "Y5wmAJ7W",
-          "bucket": "prod-cfc",
-          "description": "Highlights of our Premier League match away to Fulham. ",
-          "duration": 131000,
-          "date": "2021-01-16T21:13:38.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/Y5wmAJ7W/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/watch-highlights-of-chelsea-s-premier-league-win-at-fulham.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/01/16/watch-highlights-of-chelsea-s-premier-league-win-at-fulham?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/01/16/watch-highlights-of-chelsea-s-premier-league-win-at-fulham",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Highlights of our Premier League match away to Fulham. "
-      },
-      "content": "Watch highlights of Chelsea's Premier League win at Fulham",
-      "publishDate": "2021-01-16T21:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/16/watch-highlights-of-chelsea-s-premier-league-win-at-fulham.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Fulham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_fulham"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        }
-      ],
-      "date": "2021-01-16T21:25:00.000Z",
-      "description": "Chelsea returned to winning ways in the Premier League with a hard-fought victory at 10-man Fulham. You can see the crucial goal, the red card and all the rest of the action in the video above.",
       "matchId": 2128468
     }
   ]
