@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 145,
+    "totalItems": 146,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 15,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210119frank-lampard-reacts-to-leiceste",
+      "type": "NewsCard",
+      "timestamp": "2021-01-19T23:30:00.000Z",
+      "orderDate": "2021-01-19T23:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/19/frank-lampard-reacts-to-leicester-loss",
+        "type": "NewsCard",
+        "title": "Lampard on a sluggish Chelsea performance, dealing with poor form and handling the pressure",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/frank-lampard-reacts-to-leicester-loss.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-19T23:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/19/frank-lampard-reacts-to-leicester-loss",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lampard at Leicester",
+          "id": "editorial/match-reports/2020-21/leicester-away/Lampard-GettyImages-1297299142",
+          "gravity": "auto",
+          "aspectRatio": 1.4927596,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard on a sluggish Chelsea performance, dealing with poor form and handling the pressure",
+      "publishDate": "2021-01-19T23:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/frank-lampard-reacts-to-leicester-loss.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-19T23:30:00.000Z",
+      "description": "Frank Lampard accepted his Chelsea side were well beaten at Leicester tonight and pinpointed the areas which decided the game in the hosts’ favour.",
+      "matchId": 2128460
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210119match-report--leicester-city-vs-",
@@ -530,60 +584,6 @@
       ],
       "date": "2021-01-19T10:30:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Ralph Hasenhuttl believes Timo Werner is one of the best strikers in Europe and Brendan Rodgers is impressed by Mason Mount."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210119leicester-vs-chelsea---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2021-01-19T00:59:00.000Z",
-      "orderDate": "2021-01-19T00:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/19/leicester-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Pulisic looking for landmark - Leicester vs Chelsea - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/leicester-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-19T00:59:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/01/19/leicester-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Leicester vs Chelsea last season",
-          "id": "asia/editorial/match-photo-galleries/leicester-away-2020-005",
-          "gravity": "auto",
-          "aspectRatio": 1.4789273,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pulisic looking for landmark - Leicester vs Chelsea - the stats",
-      "publishDate": "2021-01-19T00:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/leicester-vs-chelsea---the-stats.html",
-      "readTimeInMins": 20,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-19T00:59:00.000Z",
-      "description": "The second of back-to-back Premier League away trips comes around quickly. We are ready with our collection of crucial facts and figures to have at your fingertips for the game...",
-      "matchId": 2128460
     }
   ]
 }
