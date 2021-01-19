@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 141,
+    "totalItems": 142,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 15,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210119lampard-reveals-his-team-selecti",
+      "type": "NewsCard",
+      "timestamp": "2021-01-19T15:30:00.000Z",
+      "orderDate": "2021-01-19T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/19/lampard-reveals-his-team-selection-thinking-ahead-of-leicester-t",
+        "type": "NewsCard",
+        "title": "Lampard reveals his team selection thinking ahead of Leicester trip",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/lampard-reveals-his-team-selection-thinking-ahead-of-leicester-t.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-19T15:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/19/lampard-reveals-his-team-selection-thinking-ahead-of-leicester-t",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic and Havertz",
+          "id": "chelsea-app/Pulisic-Havertz-DAZ_4127",
+          "gravity": "faces",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard reveals his team selection thinking ahead of Leicester trip",
+      "publishDate": "2021-01-19T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/lampard-reveals-his-team-selection-thinking-ahead-of-leicester-t.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-19T15:30:00.000Z",
+      "description": "As Chelsea prepare to travel to Leicester City in the Premier League tonight with only one injury absentee, Frank Lampard has plenty of tough decisions to make with his team selection at the King Power Stadium.",
+      "matchId": 2128460
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210119zouma-on-playing-our-way-and-his",
@@ -524,59 +583,6 @@
       "date": "2021-01-18T16:25:00.000Z",
       "description": "Today might be known as ‘Blue Monday’ but there were plenty of smiles and high spirits on show as the Blues put in the hard work at Cobham this morning, before setting off to Leicester ahead of Tuesday night’s Premier League clash.",
       "matchId": 2128460
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210118lampard--werner-will-have-fantas",
-      "type": "NewsCard",
-      "timestamp": "2021-01-18T14:51:00.000Z",
-      "orderDate": "2021-01-18T12:51:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/18/lampard--werner-will-have-fantastic-chelsea-career",
-        "type": "NewsCard",
-        "title": "Lampard: Werner will have fantastic Chelsea career",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/lampard--werner-will-have-fantastic-chelsea-career.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-18T14:51:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/18/lampard--werner-will-have-fantastic-chelsea-career",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Frank Lampard and Timo Werner",
-          "id": "editorial/news/2021/01/18/press_conference_lampard_werner",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard: Werner will have fantastic Chelsea career",
-      "publishDate": "2021-01-18T14:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/lampard--werner-will-have-fantastic-chelsea-career.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-18T14:51:00.000Z",
-      "description": "Following Timo Werner’s clear disappointment with not taking a scoring chance at the end of the win at Fulham at the weekend, Frank Lampard was asked in his Monday media conference about the German and what he as the head coach can do to help him rediscover his scoring touch."
     }
   ]
 }
