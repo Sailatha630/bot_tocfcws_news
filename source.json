@@ -1,12 +1,79 @@
 {
   "pagination": {
-    "totalItems": 138,
+    "totalItems": 140,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 14,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210119pat-nevin--why-mason-will-start-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-19T10:47:00.000Z",
+      "orderDate": "2021-01-19T10:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/19/pat-nevin--why-mason-will-start-scoring-more",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Why Mason will start scoring more",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/pat-nevin--why-mason-will-start-scoring-more.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-19T10:47:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/01/19/pat-nevin--why-mason-will-start-scoring-more",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mason Mount scoring",
+          "id": "editorial/match-reports/2020-21/fulham-away/fulham_away_mount_goal",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Why Mason will start scoring more",
+      "publishDate": "2021-01-19T10:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/pat-nevin--why-mason-will-start-scoring-more.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-01-19T10:47:00.000Z",
+      "description": "In his column this week following Fulham and before Leicester, Chelsea legend Pat Nevin analyses why every decision is vital this season and reveals he sometimes feels sorry for Mason Mount…"
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210119pre-match-briefing--leicester-vs",
@@ -121,6 +188,65 @@
       "matchId": 2128460
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210119media-watch--hasenhuttl-labels-w",
+      "type": "NewsCard",
+      "timestamp": "2021-01-19T10:30:00.000Z",
+      "orderDate": "2021-01-19T01:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/19/media-watch--hasenhuttl-labels-werner-as--europe-s-best---rodger",
+        "type": "NewsCard",
+        "title": "Media Watch: Hasenhuttl labels Werner as ‘Europe’s best’, Rodgers praises Mount and Chilwell reveals new hobby",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/media-watch--hasenhuttl-labels-werner-as--europe-s-best---rodger.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-19T10:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/19/media-watch--hasenhuttl-labels-werner-as--europe-s-best---rodger",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Werner_MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Media Watch: Hasenhuttl labels Werner as ‘Europe’s best’, Rodgers praises Mount and Chilwell reveals new hobby",
+      "publishDate": "2021-01-19T10:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/media-watch--hasenhuttl-labels-werner-as--europe-s-best---rodger.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-01-19T10:30:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, Ralph Hasenhuttl believes Timo Werner is one of the best strikers in Europe and Brendan Rodgers is impressed by Mason Mount."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210119leicester-vs-chelsea---the-stats",
       "type": "NewsCard",
@@ -129,7 +255,7 @@
       "link": {
         "path": "/content/chelseafc/en/news/2021/01/19/leicester-vs-chelsea---the-stats",
         "type": "NewsCard",
-        "title": "Leicester vs Chelsea - the stats",
+        "title": "Pulisic looking for landmark - Leicester vs Chelsea - the stats",
         "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/leicester-vs-chelsea---the-stats.html",
         "external": true,
         "target": "sameWindow",
@@ -149,7 +275,7 @@
           "cropMode": "fill"
         }
       },
-      "content": "Leicester vs Chelsea - the stats",
+      "content": "Pulisic looking for landmark - Leicester vs Chelsea - the stats",
       "publishDate": "2021-01-19T00:59:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/leicester-vs-chelsea---the-stats.html",
       "readTimeInMins": 20,
@@ -434,114 +560,6 @@
       ],
       "date": "2021-01-18T11:31:00.000Z",
       "description": "Danny Drinkwater has moved on loan to Kasimpasa until the end of this season."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210118mount--the-most-important-thing-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-18T10:57:00.000Z",
-      "orderDate": "2021-01-18T10:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/18/mount--the-most-important-thing-is-to-show-character",
-        "type": "NewsCard",
-        "title": "Mount: The most important thing is to show character",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/mount--the-most-important-thing-is-to-show-character.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-18T10:57:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/18/mount--the-most-important-thing-is-to-show-character",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mount",
-          "id": "editorial/news/2021/01/17/fulham_away_mount_celebration_4",
-          "gravity": "face",
-          "aspectRatio": 0.7205882,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount: The most important thing is to show character",
-      "publishDate": "2021-01-18T10:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/mount--the-most-important-thing-is-to-show-character.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-01-18T10:57:00.000Z",
-      "description": "Saturday's match-winner reflects on sticking together and building on positive momentum...",
-      "matchId": 2128468
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210118pre-match-quiz--chilwell-s-chels",
-      "type": "NewsCard",
-      "timestamp": "2021-01-18T10:43:00.000Z",
-      "orderDate": "2021-01-18T05:43:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/18/pre-match-quiz--chilwell-s-chelsea-career-so-far",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Chilwell's Chelsea career so far",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/pre-match-quiz--chilwell-s-chelsea-career-so-far.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-18T10:43:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/18/pre-match-quiz--chilwell-s-chelsea-career-so-far",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chilwell",
-          "id": "editorial/news/2021/01/18/Chilwell_GettyImages-1283937424",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Chilwell's Chelsea career so far",
-      "publishDate": "2021-01-18T10:43:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/pre-match-quiz--chilwell-s-chelsea-career-so-far.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        },
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        }
-      ],
-      "date": "2021-01-18T10:43:00.000Z",
-      "description": "Ben Chilwell returns to his former club Leicester City as a Chelsea player for the first time tomorrow, but how well have you been paying attention during his first six months with the Blues?",
-      "matchId": 2128460
     }
   ]
 }
