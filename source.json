@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 143,
+    "totalItems": 144,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 15,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210119chelsea-line-up-vs-leicester-cit",
+      "type": "NewsCard",
+      "timestamp": "2021-01-19T18:55:00.000Z",
+      "orderDate": "2021-01-19T18:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/19/chelsea-line-up-vs-leicester-city",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Leicester City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/chelsea-line-up-vs-leicester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-19T18:55:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/19/chelsea-line-up-vs-leicester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Dressing room",
+          "id": "editorial/match-reports/2020-21/leicester-away/james-shirt-leicester-away",
+          "gravity": "auto",
+          "aspectRatio": 1.2602739,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Leicester City",
+      "publishDate": "2021-01-19T18:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/chelsea-line-up-vs-leicester-city.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2021-01-19T18:55:00.000Z",
+      "description": "Callum Hudson-Odoi starts at Leicester City as one of four changes to the team made by Frank Lampard.",
+      "matchId": 2128460
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210119lampard-reveals-his-team-selecti",
@@ -520,64 +579,6 @@
       "date": "2021-01-20T10:01:00.000Z",
       "description": "Pernille Harder praised the resilience and character shown by Chelsea Women after the Blues earned a hard-fought 2-1 victory over Manchester United.",
       "matchId": 2181351
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210118frank-lampard-team-news-and-pres",
-      "type": "NewsCard",
-      "timestamp": "2021-01-18T14:15:00.000Z",
-      "orderDate": "2021-01-18T14:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/18/frank-lampard-team-news-and-press-conference-ahead-of-leicester",
-        "type": "NewsCard",
-        "title": "Lampard reports one absentee for trip to Leicester and updates on transfer talk",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/frank-lampard-team-news-and-press-conference-ahead-of-leicester.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-18T14:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/18/frank-lampard-team-news-and-press-conference-ahead-of-leicester",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/01/18/lampard-press-conference-logo-2",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard reports one absentee for trip to Leicester and updates on transfer talk",
-      "publishDate": "2021-01-18T14:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/frank-lampard-team-news-and-press-conference-ahead-of-leicester.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-18T14:15:00.000Z",
-      "description": "Frank Lampard has revealed that only N’Golo Kante, no longer suspended but still nursing a hamstring injury, will miss tomorrow’s Premier League trip to Leicester City.",
-      "matchId": 2128460
     }
   ]
 }
