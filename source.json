@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 140,
+    "totalItems": 141,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 14,
+    "pageCount": 15,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210119zouma-on-playing-our-way-and-his",
+      "type": "NewsCard",
+      "timestamp": "2021-01-19T13:30:00.000Z",
+      "orderDate": "2021-01-19T13:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/19/zouma-on-playing-our-way-and-his-progress-this-season-",
+        "type": "NewsCard",
+        "title": "Zouma on playing our way and his progress this season ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/zouma-on-playing-our-way-and-his-progress-this-season-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-19T13:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/19/zouma-on-playing-our-way-and-his-progress-this-season-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kurt Zouma",
+          "id": "editorial/news/2021/01/19/zouma-training-hudson-odoi",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Zouma on playing our way and his progress this season ",
+      "publishDate": "2021-01-19T13:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/zouma-on-playing-our-way-and-his-progress-this-season-.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Kurt Zouma",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kurt-zouma"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2021-01-19T13:30:00.000Z",
+      "description": "Kurt Zouma expects an entertaining game against Leicester City tonight and he thinks if we are to leave the East Midlands with a second straight away win we need to do it ‘our way’.",
+      "matchId": 2128460
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210119pat-nevin--why-mason-will-start-",
@@ -39,7 +98,7 @@
       "content": "Pat Nevin: Why Mason will start scoring more",
       "publishDate": "2021-01-19T10:47:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/pat-nevin--why-mason-will-start-scoring-more.html",
-      "readTimeInMins": 9,
+      "readTimeInMins": 10,
       "tags": [
         {
           "title": "Column",
@@ -518,49 +577,6 @@
       ],
       "date": "2021-01-18T14:51:00.000Z",
       "description": "Following Timo Werner’s clear disappointment with not taking a scoring chance at the end of the win at Fulham at the weekend, Frank Lampard was asked in his Monday media conference about the German and what he as the head coach can do to help him rediscover his scoring touch."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210118drinkwater-departs-on-loan",
-      "type": "NewsCard",
-      "timestamp": "2021-01-18T11:31:00.000Z",
-      "orderDate": "2021-01-18T11:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/18/drinkwater-departs-on-loan",
-        "type": "NewsCard",
-        "title": "Drinkwater departs on loan",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/drinkwater-departs-on-loan.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-18T11:31:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/18/drinkwater-departs-on-loan",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2020/drinkwater_training",
-          "gravity": "auto",
-          "aspectRatio": 1.4544208,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Drinkwater departs on loan",
-      "publishDate": "2021-01-18T11:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/drinkwater-departs-on-loan.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Danny Drinkwater",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_danny-drinkwater"
-        }
-      ],
-      "date": "2021-01-18T11:31:00.000Z",
-      "description": "Danny Drinkwater has moved on loan to Kasimpasa until the end of this season."
     }
   ]
 }
