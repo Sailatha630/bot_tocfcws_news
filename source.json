@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 136,
+    "totalItems": 137,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 14,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210119pre-match-briefing--leicester-vs",
+      "type": "NewsCard",
+      "timestamp": "2021-01-19T05:16:00.000Z",
+      "orderDate": "2021-01-19T05:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/19/pre-match-briefing--leicester-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Leicester vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/pre-match-briefing--leicester-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-19T05:16:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/01/19/pre-match-briefing--leicester-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "King Power stadium at night",
+          "id": "editorial/news/2021/01/18/king_power_stadium_night_view",
+          "gravity": "auto",
+          "aspectRatio": 1.5001688,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Leicester vs Chelsea",
+      "publishDate": "2021-01-19T05:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/pre-match-briefing--leicester-vs-chelsea.html",
+      "readTimeInMins": 69,
+      "tags": [
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-19T05:16:00.000Z",
+      "description": "The Blues leave London for the first time in a month for this evening’s league game in the East Midlands. Club historian Rick Glanvill and club statistician Paul Dutton set the scene for the three-point hunt against the Foxes…",
+      "matchId": 2128460
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210119lampard-on-hudson-odoi-raising-h",
@@ -488,54 +542,6 @@
       ],
       "date": "2021-01-18T03:00:00.000Z",
       "description": "The manner in which Mason Mount arrived in the box to fire home the winner against Fulham was reminiscent of Frank Lampard in his playing days, and the boss believes our young midfielder will only score more goals like that in the years to come."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210118media-watch--blues-linked-with-h",
-      "type": "NewsCard",
-      "timestamp": "2021-01-18T10:37:00.000Z",
-      "orderDate": "2021-01-18T01:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/18/media-watch--blues-linked-with-haaland--hudson-odoi-on-euros-amb",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues linked with Haaland, Hudson-Odoi on Euros ambitions and Torres enters management",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/media-watch--blues-linked-with-haaland--hudson-odoi-on-euros-amb.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-18T10:37:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/18/media-watch--blues-linked-with-haaland--hudson-odoi-on-euros-amb",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Haaland_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues linked with Haaland, Hudson-Odoi on Euros ambitions and Torres enters management",
-      "publishDate": "2021-01-18T10:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/18/media-watch--blues-linked-with-haaland--hudson-odoi-on-euros-amb.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Fernando Torres",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_fernando-torres"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        }
-      ],
-      "date": "2021-01-18T10:37:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are prepared to sign Erling Haaland in the summer and Callum Hudson-Odoi is ready to fight for a spot at the Euros."
     }
   ]
 }
