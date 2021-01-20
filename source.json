@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 148,
+    "totalItems": 149,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 15,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210120mount--we-are-better-than-that",
+      "type": "NewsCard",
+      "timestamp": "2021-01-20T09:57:00.000Z",
+      "orderDate": "2021-01-20T09:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/20/mount--we-are-better-than-that",
+        "type": "NewsCard",
+        "title": "Mount: We are better than that",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/mount--we-are-better-than-that.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-20T09:57:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/20/mount--we-are-better-than-that",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mason Mount",
+          "id": "editorial/news/2021/01/19/mount-leicester-away",
+          "gravity": "auto",
+          "aspectRatio": 0.76166666,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount: We are better than that",
+      "publishDate": "2021-01-20T09:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/mount--we-are-better-than-that.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2021-01-20T09:57:00.000Z",
+      "description": "Mason Mount felt the Blues did not do ourselves justice at Leicester last night.",
+      "matchId": 2128460
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210119frank-lampard-reacts-to-leiceste",
@@ -534,60 +593,6 @@
       "date": "2021-01-19T16:00:00.000Z",
       "description": "Our rearranged WSL game against Spurs, which was originally postponed on Sunday 20 December and subsequently rescheduled for Wednesday 20 January, has now been confirmed for Sunday 31 January. Kick-off at Kingsmeadow will be 12:30pm.",
       "matchId": 2138425
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210119pre-match-briefing--leicester-vs",
-      "type": "NewsCard",
-      "timestamp": "2021-01-19T05:16:00.000Z",
-      "orderDate": "2021-01-19T05:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/19/pre-match-briefing--leicester-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Leicester vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/pre-match-briefing--leicester-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-19T05:16:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/01/19/pre-match-briefing--leicester-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "King Power stadium at night",
-          "id": "editorial/news/2021/01/18/king_power_stadium_night_view",
-          "gravity": "auto",
-          "aspectRatio": 1.5001688,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Leicester vs Chelsea",
-      "publishDate": "2021-01-19T05:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/pre-match-briefing--leicester-vs-chelsea.html",
-      "readTimeInMins": 69,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-19T05:16:00.000Z",
-      "description": "The Blues leave London for the first time in a month for this evening’s league game in the East Midlands. Club historian Rick Glanvill and club statistician Paul Dutton set the scene for the three-point hunt against the Foxes…",
-      "matchId": 2128460
     }
   ]
 }
