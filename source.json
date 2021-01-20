@@ -1,12 +1,57 @@
 {
   "pagination": {
-    "totalItems": 155,
+    "totalItems": 156,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 16,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210120women-s-report--man-city-2-chels",
+      "type": "NewsCard",
+      "timestamp": "2021-01-20T20:06:00.000Z",
+      "orderDate": "2021-01-20T20:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/20/women-s-report--man-city-2-chelsea-4",
+        "type": "NewsCard",
+        "title": "Women’s report: Man City 2 Chelsea 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/women-s-report--man-city-2-chelsea-4.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-20T20:06:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/01/20/women-s-report--man-city-2-chelsea-4",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Niamh Charles smashed home our equaliser",
+          "id": "editorial/match-reports/2020-21/women-man-city-conti-cup/Charles-GettyImages-1297471897",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Man City 2 Chelsea 4",
+      "publishDate": "2021-01-20T20:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/women-s-report--man-city-2-chelsea-4.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-01-20T20:06:00.000Z",
+      "description": "The Blues produced a sensational fightback to beat Manchester City at the Academy Stadium for the first time, sending us through to a Continental League Cup semi-final against Durham or West Ham.",
+      "matchId": 2181351
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210120mendy-on-what-is-missing-at-the-",
@@ -457,60 +502,6 @@
       "date": "2021-01-20T08:55:00.000Z",
       "description": "Chelsea Women travel to Manchester City for our Continental League Cup quarter-final and here is all the information you need ahead of Wednesday’s fixture…",
       "matchId": 2181351
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210119match-report--leicester-city-vs-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-19T19:50:00.000Z",
-      "orderDate": "2021-01-19T19:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/19/match-report--leicester-city-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match Report: Leicester City 2 Chelsea 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/match-report--leicester-city-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-19T19:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/19/match-report--leicester-city-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hudson-Odoi",
-          "id": "editorial/match-reports/2020-21/leicester-away/Hudson-Odoi_GettyImages-1297293337",
-          "gravity": "auto",
-          "aspectRatio": 1.4374701,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Leicester City 2 Chelsea 0",
-      "publishDate": "2021-01-19T19:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/19/match-report--leicester-city-vs-chelsea.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-19T19:50:00.000Z",
-      "description": "Chelsea suffered defeat on a difficult evening away at a Leicester City side who ended the match top of the Premier League table.",
-      "matchId": 2128460
     }
   ]
 }
