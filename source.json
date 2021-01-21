@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 164,
+    "totalItems": 165,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 17,
@@ -278,6 +278,49 @@
       "description": "Chelsea season ticket holder and columnist Giles Smith holds his hands up upon the realisation fate is not yet falling our way, but he is confident his next prediction will come true to spark 2021 into life…"
     },
     {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210121fleming-departs",
+      "type": "NewsCard",
+      "timestamp": "2021-01-21T17:00:00.000Z",
+      "orderDate": "2021-01-21T04:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/21/fleming-departs",
+        "type": "NewsCard",
+        "title": "Charlotte Fleming departs",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/21/fleming-departs.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-21T17:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/21/fleming-departs",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Charlotte Fleming",
+          "id": "editorial/news/2021/01/01/charlotte_fleming_training",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Charlotte Fleming departs",
+      "publishDate": "2021-01-21T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/21/fleming-departs.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-01-21T17:00:00.000Z",
+      "description": "Chelsea Women can confirm young midfielder Charlotte Fleming has left Kingsmeadow and heads to FA Championship side Leicester."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210121hayes---players-deserve-real-cre",
       "type": "NewsCard",
@@ -486,55 +529,6 @@
       "date": "2021-01-20T20:06:00.000Z",
       "description": "The Blues produced a sensational fightback to beat Manchester City at the Academy Stadium for the first time, sending us through to a Continental League Cup semi-final against Durham or West Ham.",
       "matchId": 2181351
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210120mendy-on-what-is-missing-at-the-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-20T15:52:00.000Z",
-      "orderDate": "2021-01-20T15:53:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/20/mendy-on-what-is-missing-at-the-moment-and-how-we-can-rectify-th",
-        "type": "NewsCard",
-        "title": "Mendy on what is missing at the moment and how we can rectify the situation",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/mendy-on-what-is-missing-at-the-moment-and-how-we-can-rectify-th.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-20T15:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/20/mendy-on-what-is-missing-at-the-moment-and-how-we-can-rectify-th",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mendy and Vardy",
-          "id": "editorial/news/2021/01/20/mendy-vardy",
-          "gravity": "south",
-          "aspectRatio": 1.5026963,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mendy on what is missing at the moment and how we can rectify the situation",
-      "publishDate": "2021-01-20T15:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/mendy-on-what-is-missing-at-the-moment-and-how-we-can-rectify-th.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2021-01-20T15:52:00.000Z",
-      "description": "Edouard Mendy made a couple of excellent saves at Leicester last night in vain, and afterwards he reflected on where the game was lost and how we can go about getting back on track.",
-      "matchId": 2128460
     }
   ]
 }
