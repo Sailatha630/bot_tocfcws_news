@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 156,
+    "totalItems": 157,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 16,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210121chilwell-reveals-how-schoolboy-s",
+      "type": "NewsCard",
+      "timestamp": "2021-01-21T01:27:00.000Z",
+      "orderDate": "2021-01-21T01:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/21/chilwell-reveals-how-schoolboy-struggles-and-the-prospect-of-bei",
+        "type": "NewsCard",
+        "title": "Chilwell reveals how schoolboy struggles and the prospect of being released have shaped his resilience",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/21/chilwell-reveals-how-schoolboy-struggles-and-the-prospect-of-bei.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-21T01:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/21/chilwell-reveals-how-schoolboy-struggles-and-the-prospect-of-bei",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chilwell",
+          "id": "editorial/news/2021/01/20/Chilwell-vs-Leicester-a",
+          "gravity": "face",
+          "aspectRatio": 1.7777078,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chilwell reveals how schoolboy struggles and the prospect of being released have shaped his resilience",
+      "publishDate": "2021-01-21T01:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/21/chilwell-reveals-how-schoolboy-struggles-and-the-prospect-of-bei.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-21T01:27:00.000Z",
+      "description": "No player reaches the top of the game without experiencing difficulties and Ben Chilwell’s story is no different..."
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210120women-s-report--man-city-2-chels",
@@ -449,59 +497,6 @@
       "date": "2021-01-19T23:30:00.000Z",
       "description": "Frank Lampard accepted his Chelsea side were well beaten at Leicester tonight and pinpointed the areas which decided the game in the hosts’ favour.",
       "matchId": 2128460
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210120manchester-city-women-v-chelsea-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-20T08:55:00.000Z",
-      "orderDate": "2021-01-19T20:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/20/manchester-city-women-v-chelsea-women--kick-off-time--how-to-wat",
-        "type": "NewsCard",
-        "title": "Manchester City Women vs Chelsea Women: Kick-off time, how to watch the game live and more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/manchester-city-women-v-chelsea-women--kick-off-time--how-to-wat.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-20T08:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/20/manchester-city-women-v-chelsea-women--kick-off-time--how-to-wat",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/ContiCup",
-          "gravity": "auto",
-          "aspectRatio": 1.4998548,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Manchester City Women vs Chelsea Women: Kick-off time, how to watch the game live and more",
-      "publishDate": "2021-01-20T08:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/manchester-city-women-v-chelsea-women--kick-off-time--how-to-wat.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        }
-      ],
-      "date": "2021-01-20T08:55:00.000Z",
-      "description": "Chelsea Women travel to Manchester City for our Continental League Cup quarter-final and here is all the information you need ahead of Wednesday’s fixture…",
-      "matchId": 2181351
     }
   ]
 }
