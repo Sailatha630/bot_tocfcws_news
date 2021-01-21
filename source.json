@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 162,
+    "totalItems": 163,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 17,
@@ -64,6 +64,59 @@
       ],
       "date": "2021-01-21T13:42:00.000Z",
       "description": "In our round-up of a busy midweek for Chelsea loanees, there is a strike to savour in Spain, the return of Ross Barkley after injury and a goalscorer in League One…"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210120what-can-you-watch-on-chelsea-pl",
+      "type": "NewsCard",
+      "timestamp": "2021-01-21T14:14:00.000Z",
+      "orderDate": "2021-01-21T07:54:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/20/what-can-you-watch-on-chelsea-platforms-this-week-",
+        "type": "NewsCard",
+        "title": "What can you watch on Chelsea platforms this week?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-21T14:14:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/20/what-can-you-watch-on-chelsea-platforms-this-week-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Dev squad celebrations",
+          "id": "editorial/news/2021/01/21/soonsup-bell-live-streams-academy",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "What can you watch on Chelsea platforms this week?",
+      "publishDate": "2021-01-21T14:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-21T14:14:00.000Z",
+      "description": "It’s a Super Sunday of live football on our channels with the Women and development squad both in action, plus the usual matchday live show for our FA Cup meeting with Luton…"
     },
     {
       "contentType": "Interview",
@@ -471,65 +524,6 @@
       ],
       "date": "2021-01-20T16:00:00.000Z",
       "description": "The Premier League has announced the live broadcast details for five more Chelsea games plus the changes in dates and kick-off times involved."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210120the-debrief--first-half-troubles",
-      "type": "NewsCard",
-      "timestamp": "2021-01-20T12:00:00.000Z",
-      "orderDate": "2021-01-20T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/20/the-debrief--first-half-troubles-on-the-road-continue-",
-        "type": "NewsCard",
-        "title": "The Debrief: First-half troubles on the road continue ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/the-debrief--first-half-troubles-on-the-road-continue-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-20T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/20/the-debrief--first-half-troubles-on-the-road-continue-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/01/20/debrief-web-leicester-away-graphic",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: First-half troubles on the road continue ",
-      "publishDate": "2021-01-20T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/the-debrief--first-half-troubles-on-the-road-continue-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        },
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        }
-      ],
-      "date": "2021-01-20T12:00:00.000Z",
-      "description": "We look at some of the pertinent statistics from last night’s game at Leicester, where damage done before the interval again proved our undoing away from home.",
-      "matchId": 2128460
     }
   ]
 }
