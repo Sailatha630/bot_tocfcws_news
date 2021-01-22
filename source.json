@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 172,
+    "totalItems": 173,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 18,
@@ -30,7 +30,7 @@
         "image": {
           "type": "ImageCloudinary",
           "alt": "Lampard press conference",
-          "id": "editorial/news/2021/01/14/lampard-carabao-press-conference",
+          "id": "editorial/news/2021/01/22/lampard-press-conference-fa-cup-logo-stock",
           "gravity": "auto",
           "aspectRatio": 2.2076924,
           "cropMode": "fill"
@@ -65,6 +65,49 @@
       "date": "2021-01-22T13:59:00.000Z",
       "description": "In his press conference today Frank Lampard discussed his team selection for Luton, updated on Fikayo Tomori’s short-term future, and identified a key asset the Blues need to rediscover.",
       "matchId": 2184395
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210122lampard-on-player-pressure--play",
+      "type": "NewsCard",
+      "timestamp": "2021-01-22T14:24:00.000Z",
+      "orderDate": "2021-01-22T12:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/22/lampard-on-player-pressure--player-support-and-supporters--banne",
+        "type": "NewsCard",
+        "title": "Lampard on player pressure, player support and supporters’ banner",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/lampard-on-player-pressure--player-support-and-supporters--banne.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-22T14:24:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/22/lampard-on-player-pressure--player-support-and-supporters--banne",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard applaud",
+          "id": "editorial/news/2021/01/22/lampard_applaud_logo",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard on player pressure, player support and supporters’ banner",
+      "publishDate": "2021-01-22T14:24:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/lampard-on-player-pressure--player-support-and-supporters--banne.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-22T14:24:00.000Z",
+      "description": "In his Friday afternoon media conference at Cobham, Frank Lampard has thanked Chelsea fans for a new banner at Stamford Bridge emphasising their continuing support for him."
     },
     {
       "contentType": "History",
@@ -448,59 +491,6 @@
       ],
       "date": "2021-01-21T13:42:00.000Z",
       "description": "In our round-up of a busy midweek for Chelsea loanees, there is a strike to savour in Spain, the return of Ross Barkley after injury and a goalscorer in League One…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210120what-can-you-watch-on-chelsea-pl",
-      "type": "NewsCard",
-      "timestamp": "2021-01-21T14:14:00.000Z",
-      "orderDate": "2021-01-21T07:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/20/what-can-you-watch-on-chelsea-platforms-this-week-",
-        "type": "NewsCard",
-        "title": "What can you watch on Chelsea platforms this week?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-21T14:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/20/what-can-you-watch-on-chelsea-platforms-this-week-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Dev squad celebrations",
-          "id": "editorial/news/2021/01/21/soonsup-bell-live-streams-academy",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "What can you watch on Chelsea platforms this week?",
-      "publishDate": "2021-01-21T14:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/20/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-21T14:14:00.000Z",
-      "description": "It’s a Super Sunday of live football on our channels with the Women and development squad both in action, plus the usual matchday live show for our FA Cup meeting with Luton…"
     }
   ]
 }
