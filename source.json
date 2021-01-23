@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 180,
+    "totalItems": 181,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 18,
+    "pageCount": 19,
     "startFrom": 0
   },
   "newsFeed": [
@@ -166,6 +166,55 @@
       ],
       "date": "2021-01-23T04:00:00.000Z",
       "description": "With the recent form of summer signing Kai Havertz being a talking point among journalists and Chelsea supporters of late, Frank Lampard wants to make it very clear the German is not lacking for effort."
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210123under-18s-report--west-ham-chels",
+      "type": "NewsCard",
+      "timestamp": "2021-01-23T12:45:00.000Z",
+      "orderDate": "2021-01-23T03:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/23/under-18s-report--west-ham-chelsea",
+        "type": "NewsCard",
+        "title": "Under-18s report: West Ham 0 Chelsea 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/under-18s-report--west-ham-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-23T12:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/23/under-18s-report--west-ham-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Charlie Webster",
+          "id": "editorial/news/2021/01/23/Charlie-Webster-goal-cfcu18-west-ham",
+          "gravity": "auto",
+          "aspectRatio": 1.4998345,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: West Ham 0 Chelsea 4",
+      "publishDate": "2021-01-23T12:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/under-18s-report--west-ham-chelsea.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-01-23T12:45:00.000Z",
+      "description": "Chelsea’s Under-18s took maximum points from this morning’s 0-4 London derby win against West Ham."
     },
     {
       "contentType": "Match Preview",
@@ -467,49 +516,6 @@
       "date": "2021-01-22T10:50:00.000Z",
       "description": "We go into Sunday's match against Luton Town having not lost to a Championship team in the FA Cup since 2008, but how much do you know about the previous games during that run?",
       "matchId": 2184395
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210122lampard-on-player-pressure--play",
-      "type": "NewsCard",
-      "timestamp": "2021-01-22T14:24:00.000Z",
-      "orderDate": "2021-01-22T12:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/22/lampard-on-player-pressure--player-support-and-supporters--banne",
-        "type": "NewsCard",
-        "title": "Lampard on player pressure, player support and supporters’ banner",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/lampard-on-player-pressure--player-support-and-supporters--banne.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-22T14:24:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/22/lampard-on-player-pressure--player-support-and-supporters--banne",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Frank Lampard applaud",
-          "id": "editorial/news/2021/01/22/lampard_applaud_logo",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard on player pressure, player support and supporters’ banner",
-      "publishDate": "2021-01-22T14:24:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/lampard-on-player-pressure--player-support-and-supporters--banne.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-22T14:24:00.000Z",
-      "description": "In his Friday afternoon media conference at Cobham, Frank Lampard has thanked Chelsea fans for a new banner at Stamford Bridge emphasising their continuing support for him."
     }
   ]
 }
