@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 178,
+    "totalItems": 179,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 18,
@@ -118,6 +118,55 @@
       ],
       "date": "2021-01-23T04:00:00.000Z",
       "description": "With the recent form of summer signing Kai Havertz being a talking point among journalists and Chelsea supporters of late, Frank Lampard wants to make it very clear the German is not lacking for effort."
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210123bristol-city-women-v-chelsea-wom",
+      "type": "NewsCard",
+      "timestamp": "2021-01-23T10:00:00.000Z",
+      "orderDate": "2021-01-23T00:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/23/bristol-city-women-v-chelsea-women-preview--kick-off-time--how-t",
+        "type": "NewsCard",
+        "title": "Bristol City Women v Chelsea Women preview: Kick-off time, how to watch the game live and much more!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/bristol-city-women-v-chelsea-women-preview--kick-off-time--how-t.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-23T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/23/bristol-city-women-v-chelsea-women-preview--kick-off-time--how-t",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/MatchdayBristolCFCW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Bristol City Women v Chelsea Women preview: Kick-off time, how to watch the game live and much more!",
+      "publishDate": "2021-01-23T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/bristol-city-women-v-chelsea-women-preview--kick-off-time--how-t.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2021-01-23T10:00:00.000Z",
+      "description": "Chelsea FC Women travel west to take on Bristol City in the Barclays FA Women’s Super League tomorrow.",
+      "matchId": 2138443
     },
     {
       "contentType": "News",
@@ -457,55 +506,6 @@
       ],
       "date": "2021-01-22T11:36:00.000Z",
       "description": "As the Blues prepare to meet Luton Town for the first time in 27 years, we take a look back at the side who beat them in the 1994 FA Cup semi-final and find out what they’re up to now...",
-      "matchId": 2184395
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210122pre-match-briefing--chelsea-vs-l",
-      "type": "NewsCard",
-      "timestamp": "2021-01-22T04:00:00.000Z",
-      "orderDate": "2021-01-22T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/22/pre-match-briefing--chelsea-vs-luton-town",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Luton Town",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/pre-match-briefing--chelsea-vs-luton-town.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-22T04:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/01/22/pre-match-briefing--chelsea-vs-luton-town",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "FA Cup banner at the Bridge",
-          "id": "editorial/news/2021/01/21/stamford-bridge-view-fa-cup-banner-BCD",
-          "gravity": "auto",
-          "aspectRatio": 1.5001506,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Luton Town",
-      "publishDate": "2021-01-22T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/pre-match-briefing--chelsea-vs-luton-town.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-22T04:00:00.000Z",
-      "description": "Our FA Cup campaign continues at home to the Hatters this weekend, and club historian Rick Glanvill and club statistician Paul Dutton are ready for Luton's first visit to Stamford Bridge in a generation...",
       "matchId": 2184395
     }
   ]
