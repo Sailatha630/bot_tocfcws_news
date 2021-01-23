@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 181,
+    "totalItems": 182,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 19,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210123lampard--we-have-to-show-passion",
+      "type": "NewsCard",
+      "timestamp": "2021-01-23T15:00:00.000Z",
+      "orderDate": "2021-01-23T15:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/23/lampard--we-have-to-show-passion--desire-and-togetherness",
+        "type": "NewsCard",
+        "title": "Lampard: We have to show passion, desire and togetherness",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/lampard--we-have-to-show-passion--desire-and-togetherness.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-23T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/23/lampard--we-have-to-show-passion--desire-and-togetherness",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lampard",
+          "id": "editorial/news/2021/01/22/Lampard-training-pre-Luton",
+          "gravity": "north_west",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lampard: We have to show passion, desire and togetherness",
+      "publishDate": "2021-01-23T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/lampard--we-have-to-show-passion--desire-and-togetherness.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-23T15:00:00.000Z",
+      "description": "Frank Lampard believes the most important attribute he and his players can show right now to come through a period of faltering form is fight.",
+      "matchId": 2184395
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210123kerry-dixon--chelsea-playing-lut",
@@ -461,60 +515,6 @@
       ],
       "date": "2021-01-22T13:59:00.000Z",
       "description": "In his press conference today Frank Lampard discussed his team selection for Luton, updated on Fikayo Tomori’s short-term future, and identified a key asset the Blues need to rediscover.",
-      "matchId": 2184395
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210122pre-match-quiz--how-well-do-you-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-22T10:50:00.000Z",
-      "orderDate": "2021-01-22T12:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/22/pre-match-quiz--how-well-do-you-remember-our-previous-fa-cup-tie",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: How well do you remember our previous FA Cup ties against Championship teams?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/pre-match-quiz--how-well-do-you-remember-our-previous-fa-cup-tie.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-22T10:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/22/pre-match-quiz--how-well-do-you-remember-our-previous-fa-cup-tie",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hudson-Odoi",
-          "id": "editorial/news/2021/01/22/Hudson-Odoi_GettyImages-1197656963",
-          "gravity": "auto",
-          "aspectRatio": 1.5642916,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: How well do you remember our previous FA Cup ties against Championship teams?",
-      "publishDate": "2021-01-22T10:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/pre-match-quiz--how-well-do-you-remember-our-previous-fa-cup-tie.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-01-22T10:50:00.000Z",
-      "description": "We go into Sunday's match against Luton Town having not lost to a Championship team in the FA Cup since 2008, but how much do you know about the previous games during that run?",
       "matchId": 2184395
     }
   ]
