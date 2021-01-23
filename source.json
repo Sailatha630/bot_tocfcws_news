@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 179,
+    "totalItems": 180,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 18,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210123kerry-dixon--chelsea-playing-lut",
+      "type": "NewsCard",
+      "timestamp": "2021-01-23T12:03:00.000Z",
+      "orderDate": "2021-01-23T12:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/23/kerry-dixon--chelsea-playing-luton-brings-back-memories",
+        "type": "NewsCard",
+        "title": "Kerry Dixon: Chelsea playing Luton brings back emotional memories",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/kerry-dixon--chelsea-playing-luton-brings-back-memories.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-23T12:03:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/23/kerry-dixon--chelsea-playing-luton-brings-back-memories",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kerry Dixon",
+          "id": "editorial/news/2021/01/23/dixon_2016",
+          "gravity": "auto",
+          "aspectRatio": 1.3525513,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kerry Dixon: Chelsea playing Luton brings back emotional memories",
+      "publishDate": "2021-01-23T12:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/kerry-dixon--chelsea-playing-luton-brings-back-memories.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Kerry Dixon",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_kerry-dixon"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-01-23T12:03:00.000Z",
+      "description": "When the FA Cup draw paired Chelsea with Luton Town earlier this month, a glance at the online reaction from our fans made it clear. For those old enough to have witnessed our previous meeting, the semi-final back in 1994, it is their appreciation of a player on the opposing side that day that is as strong a memory as anything else that happened on the day."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210123exclusive-interview--tino-anjori",
@@ -462,51 +510,6 @@
       ],
       "date": "2021-01-22T14:24:00.000Z",
       "description": "In his Friday afternoon media conference at Cobham, Frank Lampard has thanked Chelsea fans for a new banner at Stamford Bridge emphasising their continuing support for him."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210122where-are-they-now--luton-fa-cup",
-      "type": "NewsCard",
-      "timestamp": "2021-01-22T11:36:00.000Z",
-      "orderDate": "2021-01-22T11:36:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/22/where-are-they-now--luton-fa-cup-semi-final",
-        "type": "NewsCard",
-        "title": "Where are they now: Luton FA Cup semi-final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/where-are-they-now--luton-fa-cup-semi-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-22T11:36:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/22/where-are-they-now--luton-fa-cup-semi-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Wise and Peacock",
-          "id": "editorial/news/2021/01/22/Main-Peacock-Wise-GettyImages-79647850",
-          "gravity": "auto",
-          "aspectRatio": 1.7003891,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Where are they now: Luton FA Cup semi-final",
-      "publishDate": "2021-01-22T11:36:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/22/where-are-they-now--luton-fa-cup-semi-final.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-22T11:36:00.000Z",
-      "description": "As the Blues prepare to meet Luton Town for the first time in 27 years, we take a look back at the side who beat them in the 1994 FA Cup semi-final and find out what they’re up to now...",
-      "matchId": 2184395
     }
   ]
 }
