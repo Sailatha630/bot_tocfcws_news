@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 187,
+    "totalItems": 188,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 19,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210124chelsea-line-up-vs-luton",
+      "type": "NewsCard",
+      "timestamp": "2021-01-24T11:00:00.000Z",
+      "orderDate": "2021-01-24T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/24/chelsea-line-up-vs-luton",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Luton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/chelsea-line-up-vs-luton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-24T11:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/24/chelsea-line-up-vs-luton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chelsea Dressing Room",
+          "id": "editorial/match-reports/2020-21/luton/dressing_room_luton",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Luton",
+      "publishDate": "2021-01-24T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/chelsea-line-up-vs-luton.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-24T11:00:00.000Z",
+      "description": "Frank Lampard makes seven changes from the game at Leicester with both Tammy Abraham and Timo Werner starting.",
+      "matchId": 2184395
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210124lampard-explains-his-team-s-iden",
@@ -489,55 +538,6 @@
       ],
       "date": "2021-01-23T04:00:00.000Z",
       "description": "With the recent form of summer signing Kai Havertz being a talking point among journalists and Chelsea supporters of late, Frank Lampard wants to make it very clear the German is not lacking for effort."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210123under-18s-report--west-ham-chels",
-      "type": "NewsCard",
-      "timestamp": "2021-01-23T12:45:00.000Z",
-      "orderDate": "2021-01-23T03:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/23/under-18s-report--west-ham-chelsea",
-        "type": "NewsCard",
-        "title": "Under-18s report: West Ham 0 Chelsea 4",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/under-18s-report--west-ham-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-23T12:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/23/under-18s-report--west-ham-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Charlie Webster",
-          "id": "editorial/news/2021/01/23/Charlie-Webster-goal-cfcu18-west-ham",
-          "gravity": "auto",
-          "aspectRatio": 1.4998345,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: West Ham 0 Chelsea 4",
-      "publishDate": "2021-01-23T12:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/under-18s-report--west-ham-chelsea.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-01-23T12:45:00.000Z",
-      "description": "Chelsea’s Under-18s took maximum points from Saturday morning’s London derby win against West Ham."
     }
   ]
 }
