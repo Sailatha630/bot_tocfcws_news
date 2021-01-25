@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 192,
+    "totalItems": 193,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 20,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20210125statement-on-frank-lampard",
+      "type": "NewsCard",
+      "timestamp": "2021-01-25T11:18:00.000Z",
+      "orderDate": "2021-01-25T11:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/25/statement-on-frank-lampard",
+        "type": "NewsCard",
+        "title": "Statement on Frank Lampard",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/25/statement-on-frank-lampard.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-25T11:18:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/25/statement-on-frank-lampard",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/news/2021/01/25/transparent_club_badge_crest_logo_chelsea",
+          "gravity": "auto",
+          "aspectRatio": 1.9666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Statement on Frank Lampard",
+      "publishDate": "2021-01-25T11:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/25/statement-on-frank-lampard.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-01-25T11:18:00.000Z",
+      "description": "Chelsea Football Club have today parted company with Head Coach Frank Lampard."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210125hat-trick-hero-abraham-explains-",
@@ -475,50 +512,6 @@
       "date": "2021-01-24T09:21:00.000Z",
       "description": "Chelsea FC Women’s Barclays FA Women’s Super League match against Bristol City at Twerton Park, which was due to take place this afternoon (Sunday), has been called off.",
       "matchId": 2138443
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210124emerson-palmieri-s-matchday-ritu",
-      "type": "NewsCard",
-      "timestamp": "2021-01-24T04:00:00.000Z",
-      "orderDate": "2021-01-24T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/24/emerson-palmieri-s-matchday-rituals",
-        "type": "NewsCard",
-        "title": "Emerson Palmieri's matchday rituals",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/emerson-palmieri-s-matchday-rituals.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-24T04:00:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/01/24/emerson-palmieri-s-matchday-rituals",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Emerson",
-          "id": "editorial/news/2021/01/22/Emerson-vs-Morecambe-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.3917589,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emerson Palmieri's matchday rituals",
-      "publishDate": "2021-01-24T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/emerson-palmieri-s-matchday-rituals.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
-        }
-      ],
-      "date": "2021-01-24T04:00:00.000Z",
-      "description": "After plenty of painstaking preparation, game day is the most important part of the week for any footballer and how they spend the hours leading up to kick-off is particularly significant.",
-      "matchId": 2184395
     }
   ]
 }
