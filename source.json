@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 194,
+    "totalItems": 195,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 20,
@@ -43,6 +43,55 @@
       "tags": [],
       "date": "2021-01-25T11:18:00.000Z",
       "description": "Chelsea Football Club have today parted company with Head Coach Frank Lampard."
+    },
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210125the-debrief--gilmour-and-abraham",
+      "type": "NewsCard",
+      "timestamp": "2021-01-25T14:00:00.000Z",
+      "orderDate": "2021-01-25T10:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/25/the-debrief--gilmour-and-abraham-key-to-change-of-shape",
+        "type": "NewsCard",
+        "title": "The Debrief: Gilmour and Abraham key to change of shape",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/25/the-debrief--gilmour-and-abraham-key-to-change-of-shape.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-25T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/25/the-debrief--gilmour-and-abraham-key-to-change-of-shape",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Debrief graphic",
+          "id": "editorial/news/2021/01/25/Debrief-vs-Luton-header",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Gilmour and Abraham key to change of shape",
+      "publishDate": "2021-01-25T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/25/the-debrief--gilmour-and-abraham-key-to-change-of-shape.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-25T14:00:00.000Z",
+      "description": "We take a statistical look at yesterday’s FA Cup victory over Luton Town, with a particular focus on a new formation and how two players in particular helped it thrive…",
+      "matchId": 2184395
     },
     {
       "contentType": "Interview",
@@ -478,65 +527,6 @@
       ],
       "date": "2021-01-24T12:44:00.000Z",
       "description": "Chelsea's development squad game against Southampton at Cobham, which was due to take place this evening (Sunday) has been postponed."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210124lampard-explains-his-team-s-iden",
-      "type": "NewsCard",
-      "timestamp": "2021-01-24T02:00:00.000Z",
-      "orderDate": "2021-01-24T05:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/24/lampard-explains-his-team-s-identity--discusses-mount-s-fitness-",
-        "type": "NewsCard",
-        "title": "Lampard explains his team’s identity, discusses Mount’s fitness, and expresses pride at Academy graduates",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/lampard-explains-his-team-s-identity--discusses-mount-s-fitness-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-24T02:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/24/lampard-explains-his-team-s-identity--discusses-mount-s-fitness-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lampard coaching",
-          "id": "editorial/news/2021/01/23/lampard-coaching-manual",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lampard explains his team’s identity, discusses Mount’s fitness, and expresses pride at Academy graduates",
-      "publishDate": "2021-01-24T02:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/lampard-explains-his-team-s-identity--discusses-mount-s-fitness-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-01-24T02:00:00.000Z",
-      "description": "Going back to basics. That’s what Frank Lampard believes his Chelsea side need to do if we are to rediscover our autumn form.",
-      "matchId": 2184395
     }
   ]
 }
