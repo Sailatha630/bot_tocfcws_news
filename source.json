@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 189,
+    "totalItems": 190,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 19,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210125hat-trick-hero-abraham-explains-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-25T04:30:00.000Z",
+      "orderDate": "2021-01-25T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/25/hat-trick-hero-abraham-explains-how-strike-combination-with-timo",
+        "type": "NewsCard",
+        "title": "Hat-trick hero Abraham explains how strike combination with Werner works ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/25/hat-trick-hero-abraham-explains-how-strike-combination-with-timo.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-25T04:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/25/hat-trick-hero-abraham-explains-how-strike-combination-with-timo",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Abraham and Werner",
+          "id": "editorial/match-reports/2020-21/luton/Abraham_Werner_GettyImages-1230761378",
+          "gravity": "north_west",
+          "aspectRatio": 1.5002031,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hat-trick hero Abraham explains how strike combination with Werner works ",
+      "publishDate": "2021-01-25T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/25/hat-trick-hero-abraham-explains-how-strike-combination-with-timo.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Tammy Abraham",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tammy-abraham"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-25T04:30:00.000Z",
+      "description": "Confidence was a word on the lips of Tammy Abraham as he spoke after his hat-trick saw off the challenge from Luton Town in Sunday’s FA Cup fourth-round tie.",
+      "matchId": 2184395
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210124lampard-pleased-with-improved-fo",
@@ -476,65 +530,6 @@
       ],
       "date": "2021-01-23T12:03:00.000Z",
       "description": "When the FA Cup draw paired Chelsea with Luton Town earlier this month, a glance at the online reaction from our fans made it clear. For those old enough to have witnessed our previous meeting, the semi-final back in 1994, it is their appreciation of a player on the opposing side that day that is as strong a memory as anything else that happened on the day."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210123exclusive-interview--tino-anjori",
-      "type": "NewsCard",
-      "timestamp": "2021-01-23T04:37:00.000Z",
-      "orderDate": "2021-01-23T04:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/23/exclusive-interview--tino-anjorin-on-fa-cup-magic--solving-his-i",
-        "type": "NewsCard",
-        "title": "Tino Anjorin on FA Cup magic, solving his issues with cramp and living the dream on the big stage",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/exclusive-interview--tino-anjorin-on-fa-cup-magic--solving-his-i.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-23T04:37:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/23/exclusive-interview--tino-anjorin-on-fa-cup-magic--solving-his-i",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Anjorin",
-          "id": "editorial/news/2021/01/22/Anjorin-warm-up-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.6122667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tino Anjorin on FA Cup magic, solving his issues with cramp and living the dream on the big stage",
-      "publishDate": "2021-01-23T04:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/23/exclusive-interview--tino-anjorin-on-fa-cup-magic--solving-his-i.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Tino Anjorin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tino-anjorin"
-        }
-      ],
-      "date": "2021-01-23T04:37:00.000Z",
-      "description": "Following his FA Cup debut in the last round, we catch up with the teenage midfielder to talk about his love for the competition and how he's solved a long-standing injury issue...",
-      "matchId": 2184395
     }
   ]
 }
