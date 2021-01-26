@@ -1,12 +1,74 @@
 {
   "pagination": {
-    "totalItems": 197,
+    "totalItems": 198,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 20,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210126pat-nevin--heart-breaking-decisi",
+      "type": "NewsCard",
+      "timestamp": "2021-01-26T09:56:00.000Z",
+      "orderDate": "2021-01-26T09:56:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/26/pat-nevin--heart-breaking-decisions-to-make-but-players-must-be-",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Heart-breaking decisions to make but players must be ultra-positive",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/pat-nevin--heart-breaking-decisions-to-make-but-players-must-be-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-26T09:56:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/01/26/pat-nevin--heart-breaking-decisions-to-make-but-players-must-be-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Frank Lampard and Chelsea players",
+          "id": "editorial/news/2021/01/26/lampard_warm-up_fulham_2",
+          "gravity": "east",
+          "aspectRatio": 1.6895113,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Heart-breaking decisions to make but players must be ultra-positive",
+      "publishDate": "2021-01-26T09:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/pat-nevin--heart-breaking-decisions-to-make-but-players-must-be-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-01-26T09:56:00.000Z",
+      "description": "Following on from the announcement yesterday on Chelsea parting company with our head coach, our regular columnist and former Blues player Pat Nevin has his say on the job Frank Lampard did and on how the team can move forward from here…"
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210126abraham-backs-werner-to-rediscov",
@@ -515,55 +577,6 @@
       ],
       "date": "2021-01-24T15:25:00.000Z",
       "description": "Frank Lampard praised his players for their good all-round performance in the FA Cup victory over Luton Town and enjoyed the success a switch to a 4-4-2 formation produced.",
-      "matchId": 2184395
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210124match-report--chelsea-vs-luton",
-      "type": "NewsCard",
-      "timestamp": "2021-01-24T13:11:00.000Z",
-      "orderDate": "2021-01-24T13:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/24/match-report--chelsea-vs-luton",
-        "type": "NewsCard",
-        "title": "Match Report: Chelsea 3 Luton 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/match-report--chelsea-vs-luton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-24T13:11:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/24/match-report--chelsea-vs-luton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Timo Werner and Tammy Abraham",
-          "id": "editorial/match-reports/2020-21/luton/Werner_Abraham_GettyImages-1230761748",
-          "gravity": "north_east",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Chelsea 3 Luton 1",
-      "publishDate": "2021-01-24T13:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/match-report--chelsea-vs-luton.html",
-      "readTimeInMins": 22,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-24T13:11:00.000Z",
-      "description": "Chelsea progressed to the fifth round of the FA Cup by beating Championship opposition thanks to a Tammy Abraham hat-trick.",
       "matchId": 2184395
     }
   ]
