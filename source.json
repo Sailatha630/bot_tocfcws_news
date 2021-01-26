@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 196,
+    "totalItems": 197,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 20,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210126abraham-backs-werner-to-rediscov",
+      "type": "NewsCard",
+      "timestamp": "2021-01-26T04:00:00.000Z",
+      "orderDate": "2021-01-26T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/26/abraham-backs-werner-to-rediscover-scoring-touch",
+        "type": "NewsCard",
+        "title": "Abraham backs Werner to rediscover scoring touch",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/abraham-backs-werner-to-rediscover-scoring-touch.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-26T04:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/26/abraham-backs-werner-to-rediscover-scoring-touch",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Tammy Abraham training",
+          "id": "chelsea-app/Tammy-Abraham-DTW_2650",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Abraham backs Werner to rediscover scoring touch",
+      "publishDate": "2021-01-26T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/abraham-backs-werner-to-rediscover-scoring-touch.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Tammy Abraham",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tammy-abraham"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-26T04:00:00.000Z",
+      "description": "Tammy Abraham, fresh from his hat-trick at the weekend, has belief his fellow striker Timo Werner will soon be back among the goals too, drawing on his own experience of adapting to the Premier League and valuing Werner’s work ethic."
+    },
     {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20210125statement-on-frank-lampard",
@@ -511,55 +564,6 @@
       ],
       "date": "2021-01-24T13:11:00.000Z",
       "description": "Chelsea progressed to the fifth round of the FA Cup by beating Championship opposition thanks to a Tammy Abraham hat-trick.",
-      "matchId": 2184395
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210124chelsea-line-up-vs-luton",
-      "type": "NewsCard",
-      "timestamp": "2021-01-24T11:00:00.000Z",
-      "orderDate": "2021-01-24T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/24/chelsea-line-up-vs-luton",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Luton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/chelsea-line-up-vs-luton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-24T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/24/chelsea-line-up-vs-luton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea Dressing Room",
-          "id": "editorial/match-reports/2020-21/luton/dressing_room_luton",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Luton",
-      "publishDate": "2021-01-24T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/24/chelsea-line-up-vs-luton.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-24T11:00:00.000Z",
-      "description": "Frank Lampard makes seven changes from the game at Leicester with both Tammy Abraham and Timo Werner starting.",
       "matchId": 2184395
     }
   ]
