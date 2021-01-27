@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 214,
+    "totalItems": 215,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 22,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210126chelsea-vs-wolves---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-01-27T11:58:00.000Z",
+      "orderDate": "2021-01-27T11:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/26/chelsea-vs-wolves---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Wolves - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/chelsea-vs-wolves---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-27T11:58:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/01/26/chelsea-vs-wolves---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner vs Wolves",
+          "id": "editorial/news/2020/12/Werner-vs-Wolves-away",
+          "gravity": "auto",
+          "aspectRatio": 1.5137953,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Wolves - the stats",
+      "publishDate": "2021-01-27T11:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/chelsea-vs-wolves---the-stats.html",
+      "readTimeInMins": 26,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        },
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        }
+      ],
+      "date": "2021-01-27T11:58:00.000Z",
+      "description": "The Thomas Tuchel era begins at home to Wolves and here we outline all the key pre-match facts and figures...",
+      "matchId": 2128481
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210127-a-german-perfectionist-with-a-b",
@@ -413,49 +472,6 @@
       ],
       "date": "2021-01-26T17:50:00.000Z",
       "description": "Thomas Tuchel has been appointed as the new Chelsea Head Coach. He moves to Stamford Bridge following a two-and-a-half year spell at French champions Paris Saint-Germain, which came to an end last month."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210126who-is-new-chelsea-manager-thoma",
-      "type": "NewsCard",
-      "timestamp": "2021-01-26T18:10:00.000Z",
-      "orderDate": "2021-01-26T16:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/26/who-is-new-chelsea-manager-thomas-tuchel",
-        "type": "NewsCard",
-        "title": "Who is Chelsea's new manager Thomas Tuchel?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/who-is-new-chelsea-manager-thomas-tuchel.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-26T18:10:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/01/26/who-is-new-chelsea-manager-thomas-tuchel",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2021/01/26/tuchel-psg-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Who is Chelsea's new manager Thomas Tuchel?",
-      "publishDate": "2021-01-26T18:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/who-is-new-chelsea-manager-thomas-tuchel.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-26T18:10:00.000Z",
-      "description": "Following the news Thomas Tuchel is the new Chelsea head coach, we take a close look at his career so far with all the relevant information and statistics..."
     }
   ]
 }
