@@ -8,51 +8,6 @@
   },
   "newsFeed": [
     {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210127women-s-report--aston-villa-0-ch",
-      "type": "NewsCard",
-      "timestamp": "2021-01-27T20:57:00.000Z",
-      "orderDate": "2021-01-27T20:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/27/women-s-report--aston-villa-0-chelsea-4",
-        "type": "NewsCard",
-        "title": "Women’s report: Aston Villa 0 Chelsea 4",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/women-s-report--aston-villa-0-chelsea-4.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-27T20:57:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/01/27/women-s-report--aston-villa-0-chelsea-4",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Eriksson and Bright celebrate our third goal",
-          "id": "editorial/match-reports/2020-21/women-aston-villa-away/Eriksson-Bright-GettyImages-1298986758",
-          "gravity": "auto",
-          "aspectRatio": 1.4998115,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Aston Villa 0 Chelsea 4",
-      "publishDate": "2021-01-27T20:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/women-s-report--aston-villa-0-chelsea-4.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-01-27T20:57:00.000Z",
-      "description": "The Blues have set a new Barclays Women’s Super League record for the longest unbeaten run, as a dominant display against Aston Villa was rewarded with a handsome victory that sends us back to the top of the table.",
-      "matchId": 2138393
-    },
-    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210127video-exclusive--tuchel-on-an-un",
       "type": "NewsCard",
@@ -163,6 +118,56 @@
       "date": "2021-01-27T17:23:00.000Z",
       "description": "We had to settle for a draw in Thomas Tuchel's first game as Chelsea head coach, despite completely dominating the match and nearly snatching a win with the last touch of the game.",
       "matchId": 2128481
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210127women-s-report--aston-villa-0-ch",
+      "type": "NewsCard",
+      "timestamp": "2021-01-27T20:57:00.000Z",
+      "orderDate": "2021-01-27T17:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/27/women-s-report--aston-villa-0-chelsea-4",
+        "type": "NewsCard",
+        "title": "Women’s report: Aston Villa 0 Chelsea 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/women-s-report--aston-villa-0-chelsea-4.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-27T20:57:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/01/27/women-s-report--aston-villa-0-chelsea-4",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Eriksson and Bright celebrate our third goal",
+          "id": "editorial/match-reports/2020-21/women-aston-villa-away/Eriksson-Bright-GettyImages-1298986758",
+          "gravity": "auto",
+          "aspectRatio": 1.4998115,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Aston Villa 0 Chelsea 4",
+      "publishDate": "2021-01-27T20:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/women-s-report--aston-villa-0-chelsea-4.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2021-01-27T20:57:00.000Z",
+      "description": "The Blues have set a new Barclays Women’s Super League record for the longest unbeaten run, as a dominant display against Aston Villa was rewarded with a handsome victory that sends us back to the top of the table.",
+      "matchId": 2138393
     },
     {
       "contentType": "News",
