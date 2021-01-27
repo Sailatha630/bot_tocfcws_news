@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 215,
+    "totalItems": 216,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 22,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210127mount-on-his-gratitude-to-lampar",
+      "type": "NewsCard",
+      "timestamp": "2021-01-27T12:24:00.000Z",
+      "orderDate": "2021-01-27T12:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/27/mount-on-his-gratitude-to-lampard-and-sticking-together-to-move-",
+        "type": "NewsCard",
+        "title": "Mount on his gratitude to Lampard and sticking together to move forward",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/mount-on-his-gratitude-to-lampard-and-sticking-together-to-move-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-27T12:24:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/27/mount-on-his-gratitude-to-lampard-and-sticking-together-to-move-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount",
+          "id": "chelsea-app/Mount-GettyImages-1298109546",
+          "gravity": "auto",
+          "aspectRatio": 1.4995759,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount on his gratitude to Lampard and sticking together to move forward",
+      "publishDate": "2021-01-27T12:24:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/mount-on-his-gratitude-to-lampard-and-sticking-together-to-move-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-01-27T12:24:00.000Z",
+      "description": "Mason Mount believes now is the time to stick together and for strong characters to come to the fore as Chelsea look to begin life under Thomas Tuchel with a positive mentality."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210126chelsea-vs-wolves---the-stats",
@@ -429,49 +482,6 @@
       ],
       "date": "2021-01-26T18:40:00.000Z",
       "description": "Fresh from confirmation he was the new Chelsea head coach Thomas Tuchel quickly got to work with his players in an evening training session at Cobham, and we have the first photos here."
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20210126tuchel-joins-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-01-26T17:50:00.000Z",
-      "orderDate": "2021-01-26T17:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/26/tuchel-joins-chelsea",
-        "type": "NewsCard",
-        "title": "Tuchel joins Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/tuchel-joins-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-26T17:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/26/tuchel-joins-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2021/01/26/tuchel_granovskaia_contract_2",
-          "gravity": "south_west",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel joins Chelsea",
-      "publishDate": "2021-01-26T17:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/tuchel-joins-chelsea.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-26T17:50:00.000Z",
-      "description": "Thomas Tuchel has been appointed as the new Chelsea Head Coach. He moves to Stamford Bridge following a two-and-a-half year spell at French champions Paris Saint-Germain, which came to an end last month."
     }
   ]
 }
