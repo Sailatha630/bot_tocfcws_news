@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 209,
+    "totalItems": 210,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 21,
@@ -97,6 +97,49 @@
       "tags": [],
       "date": "2021-01-27T01:30:00.000Z",
       "description": "After yesterday’s big news that Thomas Tuchel is the new head coach of Chelsea, it’s time to put your knowledge of the German to the test!"
+    },
+    {
+      "contentType": "Club Partners",
+      "id": "_content_chelseafcennews20210127chelsea-fc-air-max-collection-la",
+      "type": "NewsCard",
+      "timestamp": "2021-01-27T08:00:00.000Z",
+      "orderDate": "2021-01-27T00:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/27/chelsea-fc-air-max-collection-launches0",
+        "type": "NewsCard",
+        "title": "Chelsea FC Air Max Collection launches",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/chelsea-fc-air-max-collection-launches0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-27T08:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/27/chelsea-fc-air-max-collection-launches0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/01/26/air_max_WEB_HERO_1",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea FC Air Max Collection launches",
+      "publishDate": "2021-01-27T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/chelsea-fc-air-max-collection-launches0.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Nike",
+          "namespace": "content-tag:",
+          "id": "content-tag_Partners_Nike"
+        }
+      ],
+      "date": "2021-01-27T08:00:00.000Z",
+      "description": "Nike have today launched the Chelsea FC Air Max Collection and it is available to buy now from the official online store."
     },
     {
       "contentType": "News",
@@ -406,59 +449,6 @@
       ],
       "date": "2021-01-26T14:19:00.000Z",
       "description": "Tammy Abraham became the 12th Chelsea player to score a hat-trick in the FA Cup in our 3-1 win over Luton Town in the fourth round on Sunday."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210126abraham-backs-werner-to-rediscov",
-      "type": "NewsCard",
-      "timestamp": "2021-01-26T04:00:00.000Z",
-      "orderDate": "2021-01-26T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/26/abraham-backs-werner-to-rediscover-scoring-touch",
-        "type": "NewsCard",
-        "title": "Abraham backs Werner to rediscover scoring touch",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/abraham-backs-werner-to-rediscover-scoring-touch.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-26T04:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/26/abraham-backs-werner-to-rediscover-scoring-touch",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Tammy Abraham training",
-          "id": "chelsea-app/Tammy-Abraham-DTW_2650",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Abraham backs Werner to rediscover scoring touch",
-      "publishDate": "2021-01-26T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/abraham-backs-werner-to-rediscover-scoring-touch.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-26T04:00:00.000Z",
-      "description": "Tammy Abraham, fresh from his hat-trick at the weekend, has belief his fellow striker Timo Werner will soon be back among the goals too, drawing on his own experience of adapting to the Premier League and valuing Werner’s work ethic."
     }
   ]
 }
