@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 210,
+    "totalItems": 212,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 21,
+    "pageCount": 22,
     "startFrom": 0
   },
   "newsFeed": [
@@ -62,6 +62,54 @@
       "matchId": 2128481
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210127media-watch--upamecano-keen-on-j",
+      "type": "NewsCard",
+      "timestamp": "2021-01-27T10:37:00.000Z",
+      "orderDate": "2021-01-27T01:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/27/media-watch--upamecano-keen-on-joining-tuchel-s-blues--oscar-kee",
+        "type": "NewsCard",
+        "title": "Media Watch: Upamecano keen on joining Tuchel’s Blues, Oscar keen for Chelsea return and USA coach on Pulisic’s reunion with Tuchel",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/media-watch--upamecano-keen-on-joining-tuchel-s-blues--oscar-kee.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-27T10:37:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/27/media-watch--upamecano-keen-on-joining-tuchel-s-blues--oscar-kee",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Upamecano",
+          "id": "editorial/media-watch/Upamecano_MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Upamecano keen on joining Tuchel’s Blues, Oscar keen for Chelsea return and USA coach on Pulisic’s reunion with Tuchel",
+      "publishDate": "2021-01-27T10:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/media-watch--upamecano-keen-on-joining-tuchel-s-blues--oscar-kee.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Oscar",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_oscar"
+        }
+      ],
+      "date": "2021-01-27T10:37:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, Thomas Tuchel has boosted the Blues’ chances of signing Dayot Upamecano and Oscar reveals his dream of a Stamford Bridge comeback."
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20210127take-our-thomas-tuchel-quiz-",
       "type": "NewsCard",
@@ -97,6 +145,54 @@
       "tags": [],
       "date": "2021-01-27T01:30:00.000Z",
       "description": "After yesterday’s big news that Thomas Tuchel is the new head coach of Chelsea, it’s time to put your knowledge of the German to the test!"
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210127leupolz---i-m-really-enjoying-be",
+      "type": "NewsCard",
+      "timestamp": "2021-01-27T10:14:00.000Z",
+      "orderDate": "2021-01-27T00:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/27/leupolz---i-m-really-enjoying-being-a-part-of-this-team-",
+        "type": "NewsCard",
+        "title": "Leupolz previews Chelsea's Women's live streamed game at Villa - kick-off time changed",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/leupolz---i-m-really-enjoying-being-a-part-of-this-team-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-27T10:14:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/27/leupolz---i-m-really-enjoying-being-a-part-of-this-team-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Melanie_Leupolz_Man_City2",
+          "gravity": "auto",
+          "aspectRatio": 1.4792494,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Leupolz previews Chelsea's Women's live streamed game at Villa - kick-off time changed",
+      "publishDate": "2021-01-27T10:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/leupolz---i-m-really-enjoying-being-a-part-of-this-team-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2021-01-27T10:14:00.000Z",
+      "description": "Melanie Leupolz says Chelsea FC Women are eager for a return to action after our fixture against Bristol City at the weekend was postponed due to bad weather conditions."
     },
     {
       "contentType": "Club Partners",
@@ -368,87 +464,6 @@
       },
       "date": "2021-01-26T09:56:00.000Z",
       "description": "Following on from the announcement yesterday on Chelsea parting company with our head coach, our regular columnist and former Blues player Pat Nevin has his say on the job Frank Lampard did and on how the team can move forward from here…"
-    },
-    {
-      "contentType": "Say No To Antisemitism",
-      "id": "_content_chelseafcennews20210126chelsea-to-mark-holocaust-memori",
-      "type": "NewsCard",
-      "timestamp": "2021-01-26T12:17:00.000Z",
-      "orderDate": "2021-01-26T09:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/26/chelsea-to-mark-holocaust-memorial-day-with-matchday-tribute",
-        "type": "NewsCard",
-        "title": "Chelsea to mark Holocaust Memorial Day with matchday tribute",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/chelsea-to-mark-holocaust-memorial-day-with-matchday-tribute.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-26T12:17:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/26/chelsea-to-mark-holocaust-memorial-day-with-matchday-tribute",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/news/2021/01/26/49_flames_book",
-          "gravity": "auto",
-          "aspectRatio": 1.4285715,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea to mark Holocaust Memorial Day with matchday tribute",
-      "publishDate": "2021-01-26T12:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/26/chelsea-to-mark-holocaust-memorial-day-with-matchday-tribute.html",
-      "readTimeInMins": 8,
-      "tags": [],
-      "date": "2021-01-26T12:17:00.000Z",
-      "description": "This year Chelsea Football Club will mark Wednesday's Holocaust Memorial Day at the home match against Wolverhampton Wanderers with a tribute commemorating the victims of the Holocaust."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210125abraham-joins-list-of-fa-cup-hat",
-      "type": "NewsCard",
-      "timestamp": "2021-01-26T14:19:00.000Z",
-      "orderDate": "2021-01-26T08:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/25/abraham-joins-list-of-fa-cup-hat-trick-heroes",
-        "type": "NewsCard",
-        "title": "Abraham joins list of FA Cup hat-trick heroes",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/25/abraham-joins-list-of-fa-cup-hat-trick-heroes.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-26T14:19:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/25/abraham-joins-list-of-fa-cup-hat-trick-heroes",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tammy Abraham",
-          "id": "asia/editorial/abraham-luton-2020-GettyImages-1298118189",
-          "gravity": "auto",
-          "aspectRatio": 1.4726939,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Abraham joins list of FA Cup hat-trick heroes",
-      "publishDate": "2021-01-26T14:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/25/abraham-joins-list-of-fa-cup-hat-trick-heroes.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        }
-      ],
-      "date": "2021-01-26T14:19:00.000Z",
-      "description": "Tammy Abraham became the 12th Chelsea player to score a hat-trick in the FA Cup in our 3-1 win over Luton Town in the fourth round on Sunday."
     }
   ]
 }
