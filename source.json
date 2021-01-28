@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 228,
+    "totalItems": 229,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 23,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210127hudson-odoi-reveals-how-tuchel-t",
+      "type": "NewsCard",
+      "timestamp": "2021-01-28T06:00:00.000Z",
+      "orderDate": "2021-01-28T06:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/27/hudson-odoi-reveals-how-tuchel-told-him-and-the-team-to-play",
+        "type": "NewsCard",
+        "title": "Hudson-Odoi reveals how Tuchel told him and the team to play",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/hudson-odoi-reveals-how-tuchel-told-him-and-the-team-to-play.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-28T06:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/27/hudson-odoi-reveals-how-tuchel-told-him-and-the-team-to-play",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel and Callum Hudson-Odoi",
+          "id": "editorial/news/2021/01/27/tuchel_hudson-odoi_wolves",
+          "gravity": "auto",
+          "aspectRatio": 1.3269231,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hudson-Odoi reveals how Tuchel told him and the team to play",
+      "publishDate": "2021-01-28T06:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/hudson-odoi-reveals-how-tuchel-told-him-and-the-team-to-play.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-28T06:00:00.000Z",
+      "description": "Man of the match against Wolves on Wednesday night, Callum Hudson-Odoi, caught the eye despite playing in unfamiliar positions.",
+      "matchId": 2128481
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210127tuchel-pleased-with-intensity-an",
@@ -489,43 +543,6 @@
       "date": "2021-01-27T15:18:00.000Z",
       "description": "After skippering the Blues in our last match, Mason Mount discusses his pride every time he represents Chelsea and why our young players already have the experience to compete at the top of the Premier League.",
       "matchId": 2128481
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210127tuchel--it-feels-amazing-to-be-p",
-      "type": "NewsCard",
-      "timestamp": "2021-01-27T14:38:00.000Z",
-      "orderDate": "2021-01-27T14:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/27/tuchel--it-feels-amazing-to-be-part-of-the-chelsea-family-",
-        "type": "NewsCard",
-        "title": "Tuchel: It feels amazing to be part of the Chelsea family ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/tuchel--it-feels-amazing-to-be-part-of-the-chelsea-family-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-27T14:38:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/27/tuchel--it-feels-amazing-to-be-part-of-the-chelsea-family-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Tuchel-interview-cropped-DAZ_4922",
-          "gravity": "face",
-          "aspectRatio": 0.8353485,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: It feels amazing to be part of the Chelsea family ",
-      "publishDate": "2021-01-27T14:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/tuchel--it-feels-amazing-to-be-part-of-the-chelsea-family-.html",
-      "readTimeInMins": 10,
-      "tags": [],
-      "date": "2021-01-27T14:38:00.000Z",
-      "description": "Thomas Tuchel has given his first official interview since being named Chelsea head coach and has described the excitement he feels in joining the Blues."
     }
   ]
 }
