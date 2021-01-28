@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 230,
+    "totalItems": 231,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 23,
+    "pageCount": 24,
     "startFrom": 0
   },
   "newsFeed": [
@@ -60,6 +60,43 @@
       "date": "2021-01-28T06:00:00.000Z",
       "description": "Man of the match against Wolves on Wednesday night, Callum Hudson-Odoi, caught the eye despite playing in unfamiliar positions.",
       "matchId": 2128481
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210128media-watch--blues-are-eyeing-ma",
+      "type": "NewsCard",
+      "timestamp": "2021-01-28T10:10:00.000Z",
+      "orderDate": "2021-01-28T01:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/28/media-watch--blues-are-eyeing-marquinhos--klopp-sees-chelsea-squ",
+        "type": "NewsCard",
+        "title": "Media Watch: Blues are eyeing Marquinhos, Klopp sees Chelsea squad as a ‘present’ and Ferdinand praises Hudson-Odoi",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/media-watch--blues-are-eyeing-marquinhos--klopp-sees-chelsea-squ.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-28T10:10:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/28/media-watch--blues-are-eyeing-marquinhos--klopp-sees-chelsea-squ",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Marquinhos_MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Blues are eyeing Marquinhos, Klopp sees Chelsea squad as a ‘present’ and Ferdinand praises Hudson-Odoi",
+      "publishDate": "2021-01-28T10:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/media-watch--blues-are-eyeing-marquinhos--klopp-sees-chelsea-squ.html",
+      "readTimeInMins": 13,
+      "tags": [],
+      "date": "2021-01-28T10:10:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly keen on signing Marquinhos and Jurgen Klopp is expecting big things from Thomas Tuchel."
     },
     {
       "contentType": "News",
@@ -474,65 +511,6 @@
       "date": "2021-01-27T20:57:00.000Z",
       "description": "The Blues have set a new Barclays Women’s Super League record for the longest unbeaten run, as a dominant display against Aston Villa was rewarded with a handsome victory that sends us back to the top of the table.",
       "matchId": 2138393
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210127chelsea-line-up-vs-wolves",
-      "type": "NewsCard",
-      "timestamp": "2021-01-27T16:50:00.000Z",
-      "orderDate": "2021-01-27T16:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/27/chelsea-line-up-vs-wolves",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Wolves",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/chelsea-line-up-vs-wolves.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-27T16:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/27/chelsea-line-up-vs-wolves",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Dressing room",
-          "id": "editorial/match-reports/2020-21/wolves-home/DressingRoom_DAZ_5011-1741649_2021012741302442_copy",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Wolves",
-      "publishDate": "2021-01-27T16:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/chelsea-line-up-vs-wolves.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Wolverhampton Wanderers",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
-        }
-      ],
-      "date": "2021-01-27T16:50:00.000Z",
-      "description": "Thomas Tuchel has made 10 changes to the team for his first game as Chelsea head coach...",
-      "matchId": 2128481
     }
   ]
 }
