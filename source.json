@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 235,
+    "totalItems": 236,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 24,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210128tuchel-reveals-message-from-lamp",
+      "type": "NewsCard",
+      "timestamp": "2021-01-28T14:44:00.000Z",
+      "orderDate": "2021-01-28T14:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/28/tuchel-reveals-message-from-lampard-and-updates-on-kante-fitness",
+        "type": "NewsCard",
+        "title": "Tuchel reveals message from Lampard and updates on Kante fitness",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/tuchel-reveals-message-from-lampard-and-updates-on-kante-fitness.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-28T14:44:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/28/tuchel-reveals-message-from-lampard-and-updates-on-kante-fitness",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/news/2021/01/28/tuchel-press-conference-graphic",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reveals message from Lampard and updates on Kante fitness",
+      "publishDate": "2021-01-28T14:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/tuchel-reveals-message-from-lampard-and-updates-on-kante-fitness.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-28T14:44:00.000Z",
+      "description": "Thomas Tuchel completed his first media conference as Chelsea boss on Thursday afternoon, following his second training session in the morning which was proceeded by his first game the night before."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210128the-debrief--season-high-possess",
@@ -476,59 +519,6 @@
       ],
       "date": "2021-01-27T22:06:00.000Z",
       "description": "Thomas Tuchel had to settle for a draw in his first game as Chelsea head coach, but saw plenty of promising signs to build upon having only had one day to work with his new players and prepare for the match.",
-      "matchId": 2128481
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210127watch-the-highlights-of-chelsea-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-27T20:47:00.000Z",
-      "orderDate": "2021-01-27T17:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/27/watch-the-highlights-of-chelsea-s-draw-with-wolves",
-        "type": "NewsCard",
-        "title": "Watch the highlights of Chelsea's draw with Wolves",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/watch-the-highlights-of-chelsea-s-draw-with-wolves.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-27T20:47:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/27/watch-the-highlights-of-chelsea-s-draw-with-wolves",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea 0-0 Wolves (H) | Premier League Highlights",
-          "videoId": "gyToWKgX",
-          "bucket": "prod-cfc",
-          "description": "Chelsea were held to a goalless draw at home to Wolves, as Thomas Tuchel took charge of his first game for The Blues who put in a spirited performance. ",
-          "duration": 131000,
-          "date": "2021-01-27T21:04:31.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/gyToWKgX/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/watch-the-highlights-of-chelsea-s-draw-with-wolves.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/01/27/watch-the-highlights-of-chelsea-s-draw-with-wolves?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/01/27/watch-the-highlights-of-chelsea-s-draw-with-wolves",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Chelsea were held to a goalless draw at home to Wolves, as Thomas Tuchel took charge of his first game for The Blues who put in a spirited performance. "
-      },
-      "content": "Watch the highlights of Chelsea's draw with Wolves",
-      "publishDate": "2021-01-27T20:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/watch-the-highlights-of-chelsea-s-draw-with-wolves.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-01-27T20:47:00.000Z",
-      "description": "Thomas Tuchel's first game in charge ended goalless at Stamford Bridge with Chelsea not without chances while Wolves had one good one of their own.",
       "matchId": 2128481
     }
   ]
