@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 233,
+    "totalItems": 234,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 24,
@@ -186,6 +186,50 @@
       "date": "2021-01-28T06:00:00.000Z",
       "description": "Man of the match against Wolves on Wednesday night, Callum Hudson-Odoi, caught the eye despite playing in unfamiliar positions.",
       "matchId": 2128481
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210128thiago-silva-exclusive-on-tuchel",
+      "type": "NewsCard",
+      "timestamp": "2021-01-28T12:39:00.000Z",
+      "orderDate": "2021-01-28T05:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/28/thiago-silva-exclusive-on-tuchel-and-lampard-in-burnley-matchday",
+        "type": "NewsCard",
+        "title": "Thiago Silva exclusive on Tuchel and Lampard in Burnley matchday programme, available to order now",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/thiago-silva-exclusive-on-tuchel-and-lampard-in-burnley-matchday.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-28T12:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/28/thiago-silva-exclusive-on-tuchel-and-lampard-in-burnley-matchday",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Thiago Silva and Thomas Tuchel",
+          "id": "editorial/news/2021/01/28/thiago_silva_tuchel",
+          "gravity": "auto",
+          "aspectRatio": 1.5003314,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thiago Silva exclusive on Tuchel and Lampard in Burnley matchday programme, available to order now",
+      "publishDate": "2021-01-28T12:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/thiago-silva-exclusive-on-tuchel-and-lampard-in-burnley-matchday.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Programmes",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_programmes"
+        }
+      ],
+      "date": "2021-01-28T12:39:00.000Z",
+      "description": "The matchday programme for our Premier League fixture against Burnley this Sunday is available to order.",
+      "matchId": 2128488
     },
     {
       "contentType": "News",
@@ -490,49 +534,6 @@
       ],
       "date": "2021-01-27T17:40:00.000Z",
       "description": "In his first sit-down interview as Chelsea head coach, Thomas Tuchel has described how he couldn't turn down the opportunity to take the reins at Stamford Bridge and outlined his plans for the Blues moving forward..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210127chelsea-women-break-women-s-supe",
-      "type": "NewsCard",
-      "timestamp": "2021-01-27T21:33:00.000Z",
-      "orderDate": "2021-01-27T17:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/27/chelsea-women-break-women-s-super-league-record",
-        "type": "NewsCard",
-        "title": "Chelsea Women break Women’s Super League record",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/chelsea-women-break-women-s-super-league-record.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-27T21:33:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/27/chelsea-women-break-women-s-super-league-record",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/CFCW_stock",
-          "gravity": "auto",
-          "aspectRatio": 1.4998128,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women break Women’s Super League record",
-      "publishDate": "2021-01-27T21:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/chelsea-women-break-women-s-super-league-record.html",
-      "readTimeInMins": 37,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-01-27T21:33:00.000Z",
-      "description": "Chelsea Women now hold the record for the longest unbeaten streak in the Barclays FA Women’s Super League history following tonight's victory at Aston Villa."
     }
   ]
 }
