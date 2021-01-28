@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 232,
+    "totalItems": 233,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 24,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210128the-debrief--season-high-possess",
+      "type": "NewsCard",
+      "timestamp": "2021-01-28T12:30:00.000Z",
+      "orderDate": "2021-01-28T12:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/28/the-debrief--season-high-possession--record-pass-stats-but-no-wa",
+        "type": "NewsCard",
+        "title": "The Debrief: Season-high possession, record pass stats but no way through",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/the-debrief--season-high-possession--record-pass-stats-but-no-wa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-28T12:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/28/the-debrief--season-high-possession--record-pass-stats-but-no-wa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Debrief",
+          "id": "editorial/news/2021/01/28/debrief-web-wolves-graphic",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Season-high possession, record pass stats but no way through",
+      "publishDate": "2021-01-28T12:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/the-debrief--season-high-possession--record-pass-stats-but-no-wa.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        },
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        }
+      ],
+      "date": "2021-01-28T12:30:00.000Z",
+      "description": "We analyse the statistics from Thomas Tuchel's first game in charge with Chelsea in control throughout but clear chances at a premium...",
+      "matchId": 2128481
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210128giles-smith--chelsea-s-ultimate-",
@@ -474,60 +533,6 @@
       ],
       "date": "2021-01-27T21:33:00.000Z",
       "description": "Chelsea Women now hold the record for the longest unbeaten streak in the Barclays FA Women’s Super League history following tonight's victory at Aston Villa."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210127match-report--chelsea-v-wolves",
-      "type": "NewsCard",
-      "timestamp": "2021-01-27T17:23:00.000Z",
-      "orderDate": "2021-01-27T17:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/27/match-report--chelsea-v-wolves",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 0 Wolves 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/match-report--chelsea-v-wolves.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-27T17:23:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/27/match-report--chelsea-v-wolves",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Tuchel",
-          "id": "editorial/match-reports/2020-21/wolves-home/Tuchel_GettyImages-1230822321",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 0 Wolves 0",
-      "publishDate": "2021-01-27T17:23:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/27/match-report--chelsea-v-wolves.html",
-      "readTimeInMins": 22,
-      "tags": [
-        {
-          "title": "Wolverhampton Wanderers",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-27T17:23:00.000Z",
-      "description": "We had to settle for a draw in Thomas Tuchel's first fixture as Chelsea head coach, despite completely dominating the match and nearly snatching a win with the last touch of the game.",
-      "matchId": 2128481
     }
   ]
 }
