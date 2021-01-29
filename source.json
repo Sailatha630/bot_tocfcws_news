@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 250,
+    "totalItems": 251,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 25,
+    "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20210129statement-on-racist-abuse",
+      "type": "NewsCard",
+      "timestamp": "2021-01-29T23:26:00.000Z",
+      "orderDate": "2021-01-29T23:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/29/statement-on-racist-abuse",
+        "type": "NewsCard",
+        "title": "Statement on racist abuse",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/statement-on-racist-abuse.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-29T23:26:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/29/statement-on-racist-abuse",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lion badge",
+          "id": "editorial/news/2021/01/29/lion_landscape_badge",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Statement on racist abuse",
+      "publishDate": "2021-01-29T23:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/statement-on-racist-abuse.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-01-29T23:26:00.000Z",
+      "description": "Everyone at Chelsea FC is disgusted with the racist abuse Reece James received on social media on Friday evening."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210129pre-match-briefing--chelsea-vs-b",
@@ -427,60 +464,6 @@
       "date": "2021-01-29T11:50:00.000Z",
       "description": "Chelsea FC Women Bethany England praised Blues players past and present after our 4-0 victory against Aston Villa broke the record for the longest unbeaten run in the Women’s Super League.",
       "matchId": 2138393
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210129chelsea-vs-burnley---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T00:30:00.000Z",
-      "orderDate": "2021-01-29T00:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/chelsea-vs-burnley---the-stats",
-        "type": "NewsCard",
-        "title": "Chelsea vs Burnley - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/chelsea-vs-burnley---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T00:30:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/01/29/chelsea-vs-burnley---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kai Havertz playing at Burnley",
-          "id": "editorial/news/2021/01/28/burnley_away_havertz",
-          "gravity": "auto",
-          "aspectRatio": 1.4293524,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea vs Burnley - the stats",
-      "publishDate": "2021-01-29T00:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/chelsea-vs-burnley---the-stats.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2021-01-29T00:30:00.000Z",
-      "description": "We build up to the second home game in five days and the second with Thomas Tuchel in charge by detailing all the key facts and figures for the contest with the Clarets...",
-      "matchId": 2128488
     }
   ]
 }
