@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 245,
+    "totalItems": 246,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 25,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210129pre-match-quiz--how-well-do-you-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-29T13:23:00.000Z",
+      "orderDate": "2021-01-29T23:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Chelsea v Burnley",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-29T13:23:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Burnley",
+          "id": "editorial/news/2021/01/28/Burnley_A_GettyImages-1283190494",
+          "gravity": "auto",
+          "aspectRatio": 1.6533028,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Chelsea v Burnley",
+      "publishDate": "2021-01-29T13:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-01-29T13:23:00.000Z",
+      "description": "Our last two fixtures against Burnley have both resulted in 3-0 Chelsea victories, but how much can you remember about that pair of Premier League wins over the Clarets?",
+      "matchId": 2128488
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210129azpilicueta-reveals-tuchel-s-mes",
@@ -430,65 +484,6 @@
       ],
       "date": "2021-01-28T16:08:00.000Z",
       "description": "Thomas Tuchel might not have selected Mason Mount in his first starting line-up but the new boss can already see the enormous ability and passion the midfielder possesses."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210128the-debrief--season-high-possess",
-      "type": "NewsCard",
-      "timestamp": "2021-01-28T12:30:00.000Z",
-      "orderDate": "2021-01-28T12:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/28/the-debrief--season-high-possession--record-pass-stats-but-no-wa",
-        "type": "NewsCard",
-        "title": "The Debrief: Season-high possession, record pass stats but no way through",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/the-debrief--season-high-possession--record-pass-stats-but-no-wa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-28T12:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/28/the-debrief--season-high-possession--record-pass-stats-but-no-wa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/01/28/debrief-web-wolves-graphic",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Season-high possession, record pass stats but no way through",
-      "publishDate": "2021-01-28T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/the-debrief--season-high-possession--record-pass-stats-but-no-wa.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        },
-        {
-          "title": "Wolverhampton Wanderers",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
-        }
-      ],
-      "date": "2021-01-28T12:30:00.000Z",
-      "description": "We analyse the statistics from Thomas Tuchel's first game in charge with Chelsea in control throughout but clear chances at a premium...",
-      "matchId": 2128481
     }
   ]
 }
