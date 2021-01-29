@@ -1,66 +1,12 @@
 {
   "pagination": {
-    "totalItems": 249,
+    "totalItems": 250,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 25,
     "startFrom": 0
   },
   "newsFeed": [
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210129pre-match-quiz--how-well-do-you-",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T13:23:00.000Z",
-      "orderDate": "2021-01-29T23:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Chelsea v Burnley",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T13:23:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Burnley",
-          "id": "editorial/news/2021/01/28/Burnley_A_GettyImages-1283190494",
-          "gravity": "auto",
-          "aspectRatio": 1.6533028,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Chelsea v Burnley",
-      "publishDate": "2021-01-29T13:23:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-01-29T13:23:00.000Z",
-      "description": "Our last two fixtures against Burnley have both resulted in 3-0 Chelsea victories, but how much can you remember about that pair of Premier League wins over the Clarets?",
-      "matchId": 2128488
-    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210129pre-match-briefing--chelsea-vs-b",
@@ -114,6 +60,50 @@
       "date": "2021-01-29T15:02:00.000Z",
       "description": "A third straight Chelsea home fixture brings Burnley from the North-West of England to the south-west of London, and Thomas Tuchel's second game in charge is our first in the league kicking off in daylight since November. Club historian Rick Glanvill and club statistician Paul Dutton look closely at all the talking points...",
       "matchId": 2128488
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210129date-and-kick-off-time-confirmed",
+      "type": "NewsCard",
+      "timestamp": "2021-01-29T15:59:00.000Z",
+      "orderDate": "2021-01-29T12:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/29/date-and-kick-off-time-confirmed-for-sheffield-united-trip-",
+        "type": "NewsCard",
+        "title": "Date and kick-off time confirmed for Sheffield United trip ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/date-and-kick-off-time-confirmed-for-sheffield-united-trip-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-29T15:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/29/date-and-kick-off-time-confirmed-for-sheffield-united-trip-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2020/07/bramall-lane-outside-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Date and kick-off time confirmed for Sheffield United trip ",
+      "publishDate": "2021-01-29T15:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/date-and-kick-off-time-confirmed-for-sheffield-united-trip-.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        }
+      ],
+      "date": "2021-01-29T15:59:00.000Z",
+      "description": "Chelsea’s visit to Bramall Lane to face Sheffield United next month has been chosen for live TV broadcast.",
+      "matchId": 2128513
     },
     {
       "contentType": "News",
@@ -252,6 +242,60 @@
       ],
       "date": "2021-01-29T13:58:00.000Z",
       "description": "After going 32 games undefeated over a period of two years and creating a WSL record along the way, we’ve decided to put together a tricky little quiz on Chelsea Women’s incredible unbeaten run to test your memory."
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210129pre-match-quiz--how-well-do-you-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-29T13:23:00.000Z",
+      "orderDate": "2021-01-29T11:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Chelsea v Burnley",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-29T13:23:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Burnley",
+          "id": "editorial/news/2021/01/28/Burnley_A_GettyImages-1283190494",
+          "gravity": "auto",
+          "aspectRatio": 1.6533028,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Chelsea v Burnley",
+      "publishDate": "2021-01-29T13:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/pre-match-quiz--how-well-do-you-remember-our-last-two-matches-ag.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-01-29T13:23:00.000Z",
+      "description": "Our last two fixtures against Burnley have both resulted in 3-0 Chelsea victories, but how much can you remember about that pair of Premier League wins over the Clarets?",
+      "matchId": 2128488
     },
     {
       "contentType": "News",
@@ -437,43 +481,6 @@
       "date": "2021-01-29T00:30:00.000Z",
       "description": "We build up to the second home game in five days and the second with Thomas Tuchel in charge by detailing all the key facts and figures for the contest with the Clarets...",
       "matchId": 2128488
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210129live-training-sessions-with-chel",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T10:17:00.000Z",
-      "orderDate": "2021-01-29T00:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/live-training-sessions-with-chelsea-coaches-online-continue-this",
-        "type": "NewsCard",
-        "title": "Ball skills and fitness drills in latest live online training session with Chelsea coaches",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/live-training-sessions-with-chelsea-coaches-online-continue-this.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T10:17:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/29/live-training-sessions-with-chelsea-coaches-online-continue-this",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Coaches corner",
-          "id": "editorial/news/2021/01/22/PP_CC_THUMB_2560_2-coaches-corner-week-2-1",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ball skills and fitness drills in latest live online training session with Chelsea coaches",
-      "publishDate": "2021-01-29T10:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/live-training-sessions-with-chelsea-coaches-online-continue-this.html",
-      "readTimeInMins": 8,
-      "tags": [],
-      "date": "2021-01-29T10:17:00.000Z",
-      "description": "The third instalment of our new live online coaching sessions running throughout the current lockdown will help you fulfil your Saturday morning training routine..."
     }
   ]
 }
