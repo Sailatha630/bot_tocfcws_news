@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 240,
+    "totalItems": 241,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 24,
+    "pageCount": 25,
     "startFrom": 0
   },
   "newsFeed": [
@@ -103,6 +103,43 @@
       "date": "2021-01-29T00:30:00.000Z",
       "description": "We build up to the second home game in five days and the second with Thomas Tuchel in charge by detailing all the key facts and figures for the contest with the Clarets...",
       "matchId": 2128488
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210129live-training-sessions-with-chel",
+      "type": "NewsCard",
+      "timestamp": "2021-01-29T10:17:00.000Z",
+      "orderDate": "2021-01-29T00:07:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/29/live-training-sessions-with-chelsea-coaches-online-continue-this",
+        "type": "NewsCard",
+        "title": "Ball skills and fitness drills in latest live online training session with Chelsea coaches",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/live-training-sessions-with-chelsea-coaches-online-continue-this.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-29T10:17:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/29/live-training-sessions-with-chelsea-coaches-online-continue-this",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Coaches corner",
+          "id": "editorial/news/2021/01/22/PP_CC_THUMB_2560_2-coaches-corner-week-2-1",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ball skills and fitness drills in latest live online training session with Chelsea coaches",
+      "publishDate": "2021-01-29T10:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/live-training-sessions-with-chelsea-coaches-online-continue-this.html",
+      "readTimeInMins": 8,
+      "tags": [],
+      "date": "2021-01-29T10:17:00.000Z",
+      "description": "The third instalment of our new live online coaching sessions running throughout the current lockdown will help you fulfil your Saturday morning training routine..."
     },
     {
       "contentType": "News",
@@ -478,60 +515,6 @@
       "date": "2021-01-28T12:39:00.000Z",
       "description": "The matchday programme for our Premier League fixture against Burnley this Sunday is available to order.",
       "matchId": 2128488
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210128emma-hayes-on-chelsea-women-s-re",
-      "type": "NewsCard",
-      "timestamp": "2021-01-28T12:48:00.000Z",
-      "orderDate": "2021-01-28T01:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/28/emma-hayes-on-chelsea-women-s-record-breaking-run-in-the-wsl",
-        "type": "NewsCard",
-        "title": "Emma Hayes on Chelsea Women’s record breaking run in the WSL",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/emma-hayes-on-chelsea-women-s-record-breaking-run-in-the-wsl.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-28T12:48:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/28/emma-hayes-on-chelsea-women-s-record-breaking-run-in-the-wsl",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Harder_Kerr_Eriksson_Villa",
-          "gravity": "auto",
-          "aspectRatio": 1.4697293,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emma Hayes on Chelsea Women’s record breaking run in the WSL",
-      "publishDate": "2021-01-28T12:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/28/emma-hayes-on-chelsea-women-s-record-breaking-run-in-the-wsl.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-01-28T12:48:00.000Z",
-      "description": "Chelsea FC Women went down in the Barclays FA Women’s Super League history books last night as our 4-0 win over Aston Villa took us to 32 matches unbeaten, resulting in a new league record, and Emma Hayes praised the consistency of her squad.",
-      "matchId": 2138393
     }
   ]
 }
