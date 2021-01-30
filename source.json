@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 252,
+    "totalItems": 253,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210130tuchel-explains-how-he-plans-to-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-30T05:00:00.000Z",
+      "orderDate": "2021-01-30T05:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/30/tuchel-explains-how-he-plans-to-get-the-best-out-of-werner",
+        "type": "NewsCard",
+        "title": "Tuchel explains how he plans to get the best out of Werner",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/tuchel-explains-how-he-plans-to-get-the-best-out-of-werner.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-30T05:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/30/tuchel-explains-how-he-plans-to-get-the-best-out-of-werner",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Timo Werner in training",
+          "id": "editorial/news/2021/01/29/werner-training-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel explains how he plans to get the best out of Werner",
+      "publishDate": "2021-01-30T05:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/tuchel-explains-how-he-plans-to-get-the-best-out-of-werner.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-30T05:00:00.000Z",
+      "description": "Among the items on Thomas Tuchel’s to-do list is helping Timo Werner display his best form in a Chelsea shirt."
+    },
     {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20210129statement-on-racist-abuse",
@@ -421,49 +474,6 @@
       "date": "2021-01-30T04:16:00.000Z",
       "description": "Chelsea Women return to Kingsmeadow on Sunday when we host Tottenham Hotspur in the Barclays FA Women’s Super League and here we give you all the information you need…",
       "matchId": 2138425
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210129tuchel-on-his-life-away-from-the",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T01:06:00.000Z",
-      "orderDate": "2021-01-29T01:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/tuchel-on-his-life-away-from-the-pitch-and-two-key-principles-he",
-        "type": "NewsCard",
-        "title": "Tuchel on his life away from the pitch and two key principles he has learned in management",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/tuchel-on-his-life-away-from-the-pitch-and-two-key-principles-he.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T01:06:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/29/tuchel-on-his-life-away-from-the-pitch-and-two-key-principles-he",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2021/01/28/tuchel-training-ball",
-          "gravity": "auto",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on his life away from the pitch and two key principles he has learned in management",
-      "publishDate": "2021-01-29T01:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/tuchel-on-his-life-away-from-the-pitch-and-two-key-principles-he.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-29T01:06:00.000Z",
-      "description": "Thomas Tuchel’s footballing philosophy is well known, but what of Tuchel the man? Our new boss has revealed what he likes to do on a day off and also explained some of the important factors that drive his decision making in life and in work…"
     }
   ]
 }
