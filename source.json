@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 251,
+    "totalItems": 252,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 26,
@@ -379,6 +379,50 @@
       "matchId": 2187322
     },
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210130chelsea-women-v-tottenham-hotspu",
+      "type": "NewsCard",
+      "timestamp": "2021-01-30T04:16:00.000Z",
+      "orderDate": "2021-01-29T10:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/30/chelsea-women-v-tottenham-hotspur-women-preview--kick-off-time--",
+        "type": "NewsCard",
+        "title": "Chelsea Women v Tottenham Hotspur Women preview: Kick-off time, how to follow the game and more!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/chelsea-women-v-tottenham-hotspur-women-preview--kick-off-time--.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-30T04:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/30/chelsea-women-v-tottenham-hotspur-women-preview--kick-off-time--",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Charles_England_Harder",
+          "gravity": "auto",
+          "aspectRatio": 1.4404517,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women v Tottenham Hotspur Women preview: Kick-off time, how to follow the game and more!",
+      "publishDate": "2021-01-30T04:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/chelsea-women-v-tottenham-hotspur-women-preview--kick-off-time--.html",
+      "readTimeInMins": 34,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-01-30T04:16:00.000Z",
+      "description": "Chelsea Women return to Kingsmeadow on Sunday when we host Tottenham Hotspur in the Barclays FA Women’s Super League and here we give you all the information you need…",
+      "matchId": 2138425
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210129tuchel-on-his-life-away-from-the",
       "type": "NewsCard",
@@ -420,50 +464,6 @@
       ],
       "date": "2021-01-29T01:06:00.000Z",
       "description": "Thomas Tuchel’s footballing philosophy is well known, but what of Tuchel the man? Our new boss has revealed what he likes to do on a day off and also explained some of the important factors that drive his decision making in life and in work…"
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210129england---it-s-a-big-achievement",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T11:50:00.000Z",
-      "orderDate": "2021-01-29T00:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/england---it-s-a-big-achievement-",
-        "type": "NewsCard",
-        "title": "England: ‘It’s a big achievement’",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/england---it-s-a-big-achievement-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T11:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/29/england---it-s-a-big-achievement-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Beth_England_Villa",
-          "gravity": "auto",
-          "aspectRatio": 1.5021614,
-          "cropMode": "fill"
-        }
-      },
-      "content": "England: ‘It’s a big achievement’",
-      "publishDate": "2021-01-29T11:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/england---it-s-a-big-achievement-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-01-29T11:50:00.000Z",
-      "description": "Chelsea FC Women Bethany England praised Blues players past and present after our 4-0 victory against Aston Villa broke the record for the longest unbeaten run in the Women’s Super League.",
-      "matchId": 2138393
     }
   ]
 }
