@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 253,
+    "totalItems": 254,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210130mendy--it-s-a-big-responsibility",
+      "type": "NewsCard",
+      "timestamp": "2021-01-30T13:01:00.000Z",
+      "orderDate": "2021-01-30T13:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/30/mendy--it-s-a-big-responsibility",
+        "type": "NewsCard",
+        "title": "Mendy: It’s a big responsibility",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/mendy--it-s-a-big-responsibility.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-30T13:01:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/30/mendy--it-s-a-big-responsibility",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mendy",
+          "id": "editorial/news/2021/01/30/Mendy_GettyImages-1230565410",
+          "gravity": "auto",
+          "aspectRatio": 0.6666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mendy: It’s a big responsibility",
+      "publishDate": "2021-01-30T13:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/mendy--it-s-a-big-responsibility.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Petr Cech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_petr-cech"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        },
+        {
+          "title": "Didier Drogba",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_didier-drogba"
+        },
+        {
+          "title": "Michael Essien",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_michael-essien"
+        }
+      ],
+      "date": "2021-01-30T13:01:00.000Z",
+      "description": "Edouard Mendy discusses how he is finding life with Chelsea and explains why the English weather has helped him settle in London."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210130tuchel-explains-how-he-plans-to-",
@@ -430,50 +488,6 @@
       "date": "2021-01-29T10:00:00.000Z",
       "description": "Chelsea’s Emirates FA Cup fifth round tie against Barnsley has been chosen for live TV broadcast, with a date and kick-off time now confirmed.",
       "matchId": 2187322
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210130chelsea-women-v-tottenham-hotspu",
-      "type": "NewsCard",
-      "timestamp": "2021-01-30T04:16:00.000Z",
-      "orderDate": "2021-01-29T10:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/30/chelsea-women-v-tottenham-hotspur-women-preview--kick-off-time--",
-        "type": "NewsCard",
-        "title": "Chelsea Women v Tottenham Hotspur Women preview: Kick-off time, how to follow the game and more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/chelsea-women-v-tottenham-hotspur-women-preview--kick-off-time--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-30T04:16:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/30/chelsea-women-v-tottenham-hotspur-women-preview--kick-off-time--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Charles_England_Harder",
-          "gravity": "auto",
-          "aspectRatio": 1.4404517,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v Tottenham Hotspur Women preview: Kick-off time, how to follow the game and more!",
-      "publishDate": "2021-01-30T04:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/chelsea-women-v-tottenham-hotspur-women-preview--kick-off-time--.html",
-      "readTimeInMins": 34,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-01-30T04:16:00.000Z",
-      "description": "Chelsea Women return to Kingsmeadow on Sunday when we host Tottenham Hotspur in the Barclays FA Women’s Super League and here we give you all the information you need…",
-      "matchId": 2138425
     }
   ]
 }
