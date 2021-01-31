@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 258,
+    "totalItems": 259,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210131chelsea-line-up-vs-burnley",
+      "type": "NewsCard",
+      "timestamp": "2021-01-31T11:00:00.000Z",
+      "orderDate": "2021-01-31T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/31/chelsea-line-up-vs-burnley",
+        "type": "NewsCard",
+        "title": "Chelsea line-up vs Burnley",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/chelsea-line-up-vs-burnley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-31T11:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/31/chelsea-line-up-vs-burnley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Dressing room shot",
+          "id": "chelsea-app/Thiago-Silva-shirt-hanging-DAZ_5011-1741649",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line-up vs Burnley",
+      "publishDate": "2021-01-31T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/chelsea-line-up-vs-burnley.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-01-31T11:00:00.000Z",
+      "description": "There are four changes for today’s visit of Burnley, including a 50th Chelsea start for Mason Mount and a first appearance since September for Marcos Alonso…",
+      "matchId": 2128488
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210131tuchel-outlines-next-steps",
@@ -461,43 +515,6 @@
       "date": "2021-01-29T15:59:00.000Z",
       "description": "Chelsea’s visit to Bramall Lane to face Sheffield United next month has been chosen for live TV broadcast.",
       "matchId": 2128513
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210129joint-fa-and-premier-league-stat",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T14:49:00.000Z",
-      "orderDate": "2021-01-29T12:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/joint-fa-and-premier-league-statement-on-concussion-substitution",
-        "type": "NewsCard",
-        "title": "Joint FA and Premier League statement on concussion substitutions",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/joint-fa-and-premier-league-statement-on-concussion-substitution.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T14:49:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/29/joint-fa-and-premier-league-statement-on-concussion-substitution",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "club-chelsea/football-competition-logos/Premier_League_logo_transparent",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Joint FA and Premier League statement on concussion substitutions",
-      "publishDate": "2021-01-29T14:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/joint-fa-and-premier-league-statement-on-concussion-substitution.html",
-      "readTimeInMins": 4,
-      "tags": [],
-      "date": "2021-01-29T14:49:00.000Z",
-      "description": "The Football Association and the Premier League have today released a joint statement outlining plans regarding the allowance of clubs using additional substitutions in some of their competitions from next month for players with actual or suspected concussion…"
     }
   ]
 }
