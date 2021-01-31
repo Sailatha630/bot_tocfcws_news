@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 259,
+    "totalItems": 260,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210131match-report--chelsea-vs-burnley",
+      "type": "NewsCard",
+      "timestamp": "2021-01-31T14:00:00.000Z",
+      "orderDate": "2021-01-31T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/31/match-report--chelsea-vs-burnley",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 2 Burnley 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/match-report--chelsea-vs-burnley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-31T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/01/31/match-report--chelsea-vs-burnley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Celebrations",
+          "id": "editorial/match-reports/2020-21/burnley-home/GettyImages-1230891169",
+          "gravity": "north_east",
+          "aspectRatio": 1.402033,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 2 Burnley 0",
+      "publishDate": "2021-01-31T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/match-report--chelsea-vs-burnley.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2021-01-31T14:00:00.000Z",
+      "description": "Chelsea recorded their first victory under Thomas Tuchel with a hard-fought but dominant performance against Burnley at Stamford Bridge on Sunday lunchtime.",
+      "matchId": 2128488
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210131chelsea-line-up-vs-burnley",
@@ -471,50 +525,6 @@
       "date": "2021-01-29T15:02:00.000Z",
       "description": "A third straight Chelsea home fixture brings Burnley from the North-West of England to the south-west of London, and Thomas Tuchel's second game in charge is our first in the league kicking off in daylight since November. Club historian Rick Glanvill and club statistician Paul Dutton look closely at all the talking points...",
       "matchId": 2128488
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210129date-and-kick-off-time-confirmed",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T15:59:00.000Z",
-      "orderDate": "2021-01-29T12:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/date-and-kick-off-time-confirmed-for-sheffield-united-trip-",
-        "type": "NewsCard",
-        "title": "Date and kick-off time confirmed for Sheffield United trip ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/date-and-kick-off-time-confirmed-for-sheffield-united-trip-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T15:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/29/date-and-kick-off-time-confirmed-for-sheffield-united-trip-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2020/07/bramall-lane-outside-view",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Date and kick-off time confirmed for Sheffield United trip ",
-      "publishDate": "2021-01-29T15:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/date-and-kick-off-time-confirmed-for-sheffield-united-trip-.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        }
-      ],
-      "date": "2021-01-29T15:59:00.000Z",
-      "description": "Chelsea’s visit to Bramall Lane to face Sheffield United next month has been chosen for live TV broadcast.",
-      "matchId": 2128513
     }
   ]
 }
