@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 261,
+    "totalItems": 262,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 27,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210131thomas-tuchel-reacts-to-victory-",
+      "type": "NewsCard",
+      "timestamp": "2021-01-31T15:30:00.000Z",
+      "orderDate": "2021-01-31T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/31/thomas-tuchel-reacts-to-victory-over-burnley",
+        "type": "NewsCard",
+        "title": "Tuchel savours ‘complete performance’ and praises Alonso’s impact",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/thomas-tuchel-reacts-to-victory-over-burnley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-31T15:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/01/31/thomas-tuchel-reacts-to-victory-over-burnley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "chelsea-app/Tuchel-interview-GettyImages-1299582216",
+          "gravity": "auto",
+          "aspectRatio": 1.5002519,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel savours ‘complete performance’ and praises Alonso’s impact",
+      "publishDate": "2021-01-31T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/thomas-tuchel-reacts-to-victory-over-burnley.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2021-01-31T15:30:00.000Z",
+      "description": "Thomas Tuchel watched his team dominate Burnley and unlike in midweek there were goals to accompany the performance, ensuring he was able to celebrate a first victory as Chelsea boss afterwards.",
+      "matchId": 2128488
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210131match-report--chelsea-vs-burnley",
@@ -478,43 +537,6 @@
       ],
       "date": "2021-01-30T05:00:00.000Z",
       "description": "Among the items on Thomas Tuchel’s to-do list is helping Timo Werner display his best form in a Chelsea shirt."
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20210129statement-on-racist-abuse",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T23:26:00.000Z",
-      "orderDate": "2021-01-29T23:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/statement-on-racist-abuse",
-        "type": "NewsCard",
-        "title": "Statement on racist abuse",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/statement-on-racist-abuse.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T23:26:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/29/statement-on-racist-abuse",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Lion badge",
-          "id": "editorial/news/2021/01/29/lion_landscape_badge",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Statement on racist abuse",
-      "publishDate": "2021-01-29T23:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/statement-on-racist-abuse.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2021-01-29T23:26:00.000Z",
-      "description": "Everyone at Chelsea FC is disgusted with the racist abuse Reece James received on social media on Friday evening."
     }
   ]
 }
