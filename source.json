@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 260,
+    "totalItems": 261,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 26,
+    "pageCount": 27,
     "startFrom": 0
   },
   "newsFeed": [
@@ -60,6 +60,50 @@
       "date": "2021-01-31T14:00:00.000Z",
       "description": "Chelsea recorded their first victory under Thomas Tuchel with a hard-fought but dominant performance against Burnley at Stamford Bridge on Sunday lunchtime.",
       "matchId": 2128488
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210131women-s-report--chelsea-4-totten",
+      "type": "NewsCard",
+      "timestamp": "2021-01-31T11:30:00.000Z",
+      "orderDate": "2021-01-31T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/01/31/women-s-report--chelsea-4-tottenham-0",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 4 Tottenham 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/women-s-report--chelsea-4-tottenham-0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-01-31T11:30:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/01/31/women-s-report--chelsea-4-tottenham-0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Leupolz celebrates the opener",
+          "id": "editorial/match-reports/2020-21/women-spurs-home/Leupolz-Kerr-GettyImages-1299595304",
+          "gravity": "auto",
+          "aspectRatio": 1.4995737,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s report: Chelsea 4 Tottenham 0",
+      "publishDate": "2021-01-31T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/women-s-report--chelsea-4-tottenham-0.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-01-31T11:30:00.000Z",
+      "description": "Two goals from Melanie Leupolz, including a 30-yard stunner to open the scoring, helped the Blues extend our winning streak to nine games with a comfortable victory in this London derby.",
+      "matchId": 2138425
     },
     {
       "contentType": "News",
@@ -471,60 +515,6 @@
       "tags": [],
       "date": "2021-01-29T23:26:00.000Z",
       "description": "Everyone at Chelsea FC is disgusted with the racist abuse Reece James received on social media on Friday evening."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210129pre-match-briefing--chelsea-vs-b",
-      "type": "NewsCard",
-      "timestamp": "2021-01-29T15:02:00.000Z",
-      "orderDate": "2021-01-29T15:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/29/pre-match-briefing--chelsea-vs-burnley",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Burnley",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/pre-match-briefing--chelsea-vs-burnley.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-29T15:02:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/01/29/pre-match-briefing--chelsea-vs-burnley",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge",
-          "id": "editorial/news/2021/01/29/stamford-bridge-view",
-          "gravity": "auto",
-          "aspectRatio": 1.6807777,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Burnley",
-      "publishDate": "2021-01-29T15:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/29/pre-match-briefing--chelsea-vs-burnley.html",
-      "readTimeInMins": 66,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2021-01-29T15:02:00.000Z",
-      "description": "A third straight Chelsea home fixture brings Burnley from the North-West of England to the south-west of London, and Thomas Tuchel's second game in charge is our first in the league kicking off in daylight since November. Club historian Rick Glanvill and club statistician Paul Dutton look closely at all the talking points...",
-      "matchId": 2128488
     }
   ]
 }
