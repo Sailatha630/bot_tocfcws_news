@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 267,
+    "totalItems": 268,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 27,
@@ -221,6 +221,61 @@
       "date": "2021-02-01T12:20:00.000Z",
       "description": "Manager Emma Hayes was pleased with Chelsea Women’s performance against Tottenham Hotspur, as the Blues picked up three points with a 4-0 victory yesterday to maintain top spot in the Barclays FA Women’s Super League.",
       "matchId": 2138425
+    },
+    {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210201loan-move-for-jack-wakely",
+      "type": "NewsCard",
+      "timestamp": "2021-02-01T13:18:00.000Z",
+      "orderDate": "2021-02-01T00:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/01/loan-move-for-jack-wakely",
+        "type": "NewsCard",
+        "title": "Loan move for Jack Wakely",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/loan-move-for-jack-wakely.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-01T13:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/01/loan-move-for-jack-wakely",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jack Wakely",
+          "id": "editorial/news/2021/02/01/Jack-Wakely-cfcdev-vs-liverpool",
+          "gravity": "south_east",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        },
+        "caption": "Jack Wakely"
+      },
+      "content": "Loan move for Jack Wakely",
+      "publishDate": "2021-02-01T13:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/loan-move-for-jack-wakely.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-02-01T13:18:00.000Z",
+      "description": "Jack Wakely will spend the rest of the current season with Brighton's Under-23s."
     },
     {
       "contentType": "Analysis",
@@ -484,60 +539,6 @@
       "date": "2021-01-31T11:30:00.000Z",
       "description": "Two goals from Melanie Leupolz, including a 30-yard stunner to open the scoring, helped the Blues extend our winning streak to nine games with a comfortable victory in this London derby.",
       "matchId": 2138425
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210131chelsea-line-up-vs-burnley",
-      "type": "NewsCard",
-      "timestamp": "2021-01-31T11:00:00.000Z",
-      "orderDate": "2021-01-31T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/31/chelsea-line-up-vs-burnley",
-        "type": "NewsCard",
-        "title": "Chelsea line-up vs Burnley",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/chelsea-line-up-vs-burnley.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-31T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/01/31/chelsea-line-up-vs-burnley",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Dressing room shot",
-          "id": "chelsea-app/Thiago-Silva-shirt-hanging-DAZ_5011-1741649",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line-up vs Burnley",
-      "publishDate": "2021-01-31T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/chelsea-line-up-vs-burnley.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-01-31T11:00:00.000Z",
-      "description": "There are four changes for today’s visit of Burnley, including a 50th Chelsea start for Mason Mount and a first appearance since September for Marcos Alonso…",
-      "matchId": 2128488
     }
   ]
 }
