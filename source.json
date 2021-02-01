@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 270,
+    "totalItems": 271,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 27,
+    "pageCount": 28,
     "startFrom": 0
   },
   "newsFeed": [
@@ -232,6 +232,64 @@
       "date": "2021-02-01T04:00:00.000Z",
       "description": "Marcos Alonso has called on his Chelsea team-mates to use the first win under Thomas Tuchel’s charge as a springboard to propel themselves up the Premier League table.",
       "matchId": 2128488
+    },
+    {
+      "contentType": "On Loan",
+      "id": "_content_chelseafcennews20210201chelsea-here-chelsea-there--tomo",
+      "type": "NewsCard",
+      "timestamp": "2021-02-01T17:19:00.000Z",
+      "orderDate": "2021-02-01T02:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/01/chelsea-here-chelsea-there--tomori-underway-at-milan--goals-for-",
+        "type": "NewsCard",
+        "title": "Chelsea Here Chelsea There: Tomori underway at Milan, goals for Barkley, Batshuayi and Broja",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/chelsea-here-chelsea-there--tomori-underway-at-milan--goals-for-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-01T17:19:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/01/chelsea-here-chelsea-there--tomori-underway-at-milan--goals-for-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Fikayo Tomori playing for Milan",
+          "id": "editorial/news/2021/02/01/tomori_milan_bologna",
+          "gravity": "auto",
+          "aspectRatio": 1.5002173,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Here Chelsea There: Tomori underway at Milan, goals for Barkley, Batshuayi and Broja",
+      "publishDate": "2021-02-01T17:19:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/chelsea-here-chelsea-there--tomori-underway-at-milan--goals-for-.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Ross Barkley",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ross-barkley"
+        },
+        {
+          "title": "Michy Batshuayi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_michy-batshuayi"
+        },
+        {
+          "title": "Fikayo Tomori",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_fikayo-tomori"
+        },
+        {
+          "title": "Trevor Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
+        }
+      ],
+      "date": "2021-02-01T17:19:00.000Z",
+      "description": "In our look at the loan highlights for our players out on loan, there has been plenty of action both in England and overseas…"
     },
     {
       "contentType": "News",
@@ -511,60 +569,6 @@
       ],
       "date": "2021-01-31T15:40:00.000Z",
       "description": "Chelsea recorded a first victory under Thomas Tuchel with Cesar Azpilicueta and Marcos Alonso finding the net against Burnley.",
-      "matchId": 2128488
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210131match-report--chelsea-vs-burnley",
-      "type": "NewsCard",
-      "timestamp": "2021-01-31T14:00:00.000Z",
-      "orderDate": "2021-01-31T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/31/match-report--chelsea-vs-burnley",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 2 Burnley 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/match-report--chelsea-vs-burnley.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-31T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/31/match-report--chelsea-vs-burnley",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Celebrations",
-          "id": "editorial/match-reports/2020-21/burnley-home/GettyImages-1230891169",
-          "gravity": "north_east",
-          "aspectRatio": 1.402033,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 2 Burnley 0",
-      "publishDate": "2021-01-31T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/match-report--chelsea-vs-burnley.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2021-01-31T14:00:00.000Z",
-      "description": "Chelsea recorded their first victory under Thomas Tuchel with a hard-fought but dominant performance against Burnley at Stamford Bridge on Sunday lunchtime.",
       "matchId": 2128488
     }
   ]
