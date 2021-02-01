@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 263,
+    "totalItems": 264,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 27,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210201alonso-revels-in-goalscoring-ret",
+      "type": "NewsCard",
+      "timestamp": "2021-02-01T04:00:00.000Z",
+      "orderDate": "2021-02-01T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/01/alonso-revels-in-goalscoring-return-and-hopes-to-use-win-as-a-sp",
+        "type": "NewsCard",
+        "title": "Alonso revels in goalscoring return and hopes to use win as a springboard",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/alonso-revels-in-goalscoring-return-and-hopes-to-use-win-as-a-sp.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-01T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/01/alonso-revels-in-goalscoring-return-and-hopes-to-use-win-as-a-sp",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Alonso",
+          "id": "editorial/news/2021/01/31/Alonso-Pulisic-goal-celebration-Burnley-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5535991,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Alonso revels in goalscoring return and hopes to use win as a springboard",
+      "publishDate": "2021-02-01T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/alonso-revels-in-goalscoring-return-and-hopes-to-use-win-as-a-sp.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2021-02-01T04:00:00.000Z",
+      "description": "Marcos Alonso has called on his Chelsea team-mates to use the first win under Thomas Tuchel’s charge as a springboard to propel themselves up the Premier League table.",
+      "matchId": 2128488
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210131thomas-tuchel-reacts-to-victory-",
@@ -505,54 +559,6 @@
       ],
       "date": "2021-01-30T13:01:00.000Z",
       "description": "Edouard Mendy discusses how he is finding life with Chelsea and explains why the English weather has helped him settle in London."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210130baba-goes-to-greece",
-      "type": "NewsCard",
-      "timestamp": "2021-01-30T17:00:00.000Z",
-      "orderDate": "2021-01-30T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/30/baba-goes-to-greece",
-        "type": "NewsCard",
-        "title": "Baba goes to Greece",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/baba-goes-to-greece.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-30T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/01/30/baba-goes-to-greece",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Baba Rahman",
-          "id": "editorial/news/2021/01/30/BabaRahman_CH1_3846",
-          "gravity": "auto",
-          "aspectRatio": 1.4996411,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Baba goes to Greece",
-      "publishDate": "2021-01-30T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/30/baba-goes-to-greece.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Transfer",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_transfer"
-        },
-        {
-          "title": "Baba Rahman",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_baba-rahman"
-        }
-      ],
-      "date": "2021-01-30T17:00:00.000Z",
-      "description": "Baba Rahman has today moved on loan to Greek side PAOK for the remainder of the campaign."
     }
   ]
 }
