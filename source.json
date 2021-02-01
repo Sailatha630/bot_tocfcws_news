@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 268,
+    "totalItems": 269,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 27,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210201azpilicueta-on-his-goal--fellow-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-01T14:59:00.000Z",
+      "orderDate": "2021-02-01T14:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/01/azpilicueta-on-his-goal--fellow-scoring-spaniard-and-our-squad-d",
+        "type": "NewsCard",
+        "title": "Azpilicueta on his goal, fellow scoring Spaniard and our squad depth",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/azpilicueta-on-his-goal--fellow-scoring-spaniard-and-our-squad-d.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-01T14:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/01/azpilicueta-on-his-goal--fellow-scoring-spaniard-and-our-squad-d",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Azpilicueta scores",
+          "id": "editorial/match-reports/2020-21/burnley-home/azpi-goal-burnley-high",
+          "gravity": "center",
+          "aspectRatio": 1.625265,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Azpilicueta on his goal, fellow scoring Spaniard and our squad depth",
+      "publishDate": "2021-02-01T14:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/azpilicueta-on-his-goal--fellow-scoring-spaniard-and-our-squad-d.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2021-02-01T14:59:00.000Z",
+      "description": "Cesar Azpilicueta chose a timely moment to end a year-long wait for a goal and the skipper had Callum Hudson-Odoi to thank afterwards as the pair combined to good effect.",
+      "matchId": 2128488
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210201the-debrief--complete-display-se",
@@ -495,50 +554,6 @@
       "tags": [],
       "date": "2021-02-01T09:06:00.000Z",
       "description": "With midseason transfer window about to close, here we have all the information you require about it and the impact of Brexit…"
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210131women-s-report--chelsea-4-totten",
-      "type": "NewsCard",
-      "timestamp": "2021-01-31T11:30:00.000Z",
-      "orderDate": "2021-01-31T11:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/01/31/women-s-report--chelsea-4-tottenham-0",
-        "type": "NewsCard",
-        "title": "Women’s report: Chelsea 4 Tottenham 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/women-s-report--chelsea-4-tottenham-0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-01-31T11:30:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/01/31/women-s-report--chelsea-4-tottenham-0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Leupolz celebrates the opener",
-          "id": "editorial/match-reports/2020-21/women-spurs-home/Leupolz-Kerr-GettyImages-1299595304",
-          "gravity": "auto",
-          "aspectRatio": 1.4995737,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s report: Chelsea 4 Tottenham 0",
-      "publishDate": "2021-01-31T11:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/01/31/women-s-report--chelsea-4-tottenham-0.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-01-31T11:30:00.000Z",
-      "description": "Two goals from Melanie Leupolz, including a 30-yard stunner to open the scoring, helped the Blues extend our winning streak to nine games with a comfortable victory in this London derby.",
-      "matchId": 2138425
     }
   ]
 }
