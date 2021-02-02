@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 276,
+    "totalItems": 277,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 28,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210202pulisic-exclusive--on-being-give",
+      "type": "NewsCard",
+      "timestamp": "2021-02-02T12:08:00.000Z",
+      "orderDate": "2021-02-02T12:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/02/pulisic-exclusive--on-being-given-his-professional-debut-by-tuch",
+        "type": "NewsCard",
+        "title": "Pulisic exclusive: on being given his professional debut by Tuchel, working with him again and feeling confident ahead of Tottenham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/pulisic-exclusive--on-being-given-his-professional-debut-by-tuch.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-02T12:08:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/02/pulisic-exclusive--on-being-given-his-professional-debut-by-tuch",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic and Tuchel",
+          "id": "editorial/news/2021/02/02/pulisic-tuchel-stamford-bridge",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic exclusive: on being given his professional debut by Tuchel, working with him again and feeling confident ahead of Tottenham",
+      "publishDate": "2021-02-02T12:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/pulisic-exclusive--on-being-given-his-professional-debut-by-tuch.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-02T12:08:00.000Z",
+      "description": "In an exclusive interview with the Chelsea website, Christian Pulisic tells us about working with Thomas Tuchel earlier in his career, the good feeling in the dressing room right now and why Tottenham on Thursday presents such a big opportunity…"
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210202pat-nevin--which-two-players-are",
@@ -517,61 +570,6 @@
       "date": "2021-02-01T04:00:00.000Z",
       "description": "Marcos Alonso has called on his Chelsea team-mates to use the first win under Thomas Tuchel’s charge as a springboard to propel themselves up the Premier League table.",
       "matchId": 2128488
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210201loan-move-for-jack-wakely",
-      "type": "NewsCard",
-      "timestamp": "2021-02-01T13:18:00.000Z",
-      "orderDate": "2021-02-01T03:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/01/loan-move-for-jack-wakely",
-        "type": "NewsCard",
-        "title": "Loan moves for Wakely and Mothersille",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/loan-move-for-jack-wakely.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-01T13:18:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/01/loan-move-for-jack-wakely",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jack Wakely",
-          "id": "editorial/news/2021/02/01/Jack-Wakely-cfcdev-vs-liverpool",
-          "gravity": "south_east",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        },
-        "caption": "Jack Wakely"
-      },
-      "content": "Loan moves for Wakely and Mothersille",
-      "publishDate": "2021-02-01T13:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/loan-move-for-jack-wakely.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-02-01T13:18:00.000Z",
-      "description": "Jack Wakely will spend the rest of the current season with Brighton's Under-23s."
     }
   ]
 }
