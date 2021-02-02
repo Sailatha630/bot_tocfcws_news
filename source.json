@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 281,
+    "totalItems": 282,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 29,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210202emma-hayes-previews-semi-final-v",
+      "type": "NewsCard",
+      "timestamp": "2021-02-02T17:30:00.000Z",
+      "orderDate": "2021-02-02T17:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/02/emma-hayes-previews-semi-final-versus-west-ham",
+        "type": "NewsCard",
+        "title": "Emma Hayes previews semi-final and addresses AFC Wimbledon speculation",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/emma-hayes-previews-semi-final-versus-west-ham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-02T17:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/02/emma-hayes-previews-semi-final-versus-west-ham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/women's-team/Hayes_Media",
+          "gravity": "auto",
+          "aspectRatio": 1.5021201,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emma Hayes previews semi-final and addresses AFC Wimbledon speculation",
+      "publishDate": "2021-02-02T17:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/emma-hayes-previews-semi-final-versus-west-ham.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2021-02-02T17:30:00.000Z",
+      "description": "Emma Hayes faced the media for a press conference this afternoon prior to Chelsea FC Women’s Continental Tyres League Cup semi-final clash with West Ham tomorrow.",
+      "matchId": 2186710
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210202pulisic-exclusive--on-being-give",
@@ -502,54 +556,6 @@
       "date": "2021-02-02T11:15:00.000Z",
       "description": "Emma Hayes’ Chelsea Women come up against West Ham tomorrow evening with a place in the final of the Continental Tyres League Cup at stake and here we preview the semi-final…",
       "matchId": 2186710
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210201what-can-you-watch-on-chelsea-pl",
-      "type": "NewsCard",
-      "timestamp": "2021-02-02T07:49:00.000Z",
-      "orderDate": "2021-02-02T00:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/01/what-can-you-watch-on-chelsea-platforms-this-week-",
-        "type": "NewsCard",
-        "title": "What can you watch on Chelsea platforms this week?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-02T07:49:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/01/what-can-you-watch-on-chelsea-platforms-this-week-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Live press conference",
-          "id": "editorial/news/2021/02/01/tuchel_live_stream_logo",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "What can you watch on Chelsea platforms this week?",
-      "publishDate": "2021-02-02T07:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-02T07:49:00.000Z",
-      "description": "There is live development squad and WSL football this week, plus Thomas Tuchel's second pre-match media conference as Chelsea boss…"
     }
   ]
 }
