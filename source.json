@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 282,
+    "totalItems": 283,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 29,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210202chelsea-creates-launches-across-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-02T16:58:00.000Z",
+      "orderDate": "2021-02-02T16:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/02/chelsea-creates-launches-across-london-derbies-with-illustrator-",
+        "type": "NewsCard",
+        "title": "Chelsea Creates launches with illustrator Alva Skog ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/chelsea-creates-launches-across-london-derbies-with-illustrator-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-02T16:58:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/02/chelsea-creates-launches-across-london-derbies-with-illustrator-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chelsea Creates",
+          "id": "editorial/news/2021/02/02/chelsea_creates_Hero_London_WEB",
+          "gravity": "auto",
+          "aspectRatio": 1.8285714,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Creates launches with illustrator Alva Skog ",
+      "publishDate": "2021-02-02T16:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/chelsea-creates-launches-across-london-derbies-with-illustrator-.html",
+      "readTimeInMins": 8,
+      "tags": [],
+      "date": "2021-02-02T16:58:00.000Z",
+      "description": "Today we launch Chelsea Creates, our new series celebrating London’s most exciting new talent."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210202pulisic-exclusive--on-being-give",
@@ -507,55 +544,6 @@
       ],
       "date": "2021-02-02T10:21:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues have been linked with Achraf Hakimi and Mainz coach Bo Svensson hails Thomas Tuchel’s ability to think outside the box."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210202chelsea-women-v-west-ham-women-p",
-      "type": "NewsCard",
-      "timestamp": "2021-02-02T11:15:00.000Z",
-      "orderDate": "2021-02-02T00:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/02/chelsea-women-v-west-ham-women-preview--kick-off-time--how-to-wa",
-        "type": "NewsCard",
-        "title": "Chelsea Women v West Ham Women preview: Kick-off time, how to watch live and more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/chelsea-women-v-west-ham-women-preview--kick-off-time--how-to-wa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-02T11:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/02/chelsea-women-v-west-ham-women-preview--kick-off-time--how-to-wa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Kirby_Kerr_Harder",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v West Ham Women preview: Kick-off time, how to watch live and more!",
-      "publishDate": "2021-02-02T11:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/chelsea-women-v-west-ham-women-preview--kick-off-time--how-to-wa.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
-        }
-      ],
-      "date": "2021-02-02T11:15:00.000Z",
-      "description": "Emma Hayes’ Chelsea Women come up against West Ham tomorrow evening with a place in the final of the Continental Tyres League Cup at stake and here we preview the semi-final…",
-      "matchId": 2186710
     }
   ]
 }
