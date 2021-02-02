@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 277,
+    "totalItems": 278,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 28,
@@ -59,6 +59,69 @@
       ],
       "date": "2021-02-02T12:08:00.000Z",
       "description": "In an exclusive interview with the Chelsea website, Christian Pulisic tells us about working with Thomas Tuchel earlier in his career, the good feeling in the dressing room right now and why Tottenham on Thursday presents such a big opportunity…"
+    },
+    {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210202transfer-window-round-up",
+      "type": "NewsCard",
+      "timestamp": "2021-02-02T12:25:00.000Z",
+      "orderDate": "2021-02-02T11:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/02/transfer-window-round-up",
+        "type": "NewsCard",
+        "title": "Transfer window round-up",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/transfer-window-round-up.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-02T12:25:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/02/transfer-window-round-up",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Tomori",
+          "id": "editorial/news/2021/01/22/tomori-liverpool-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5009166,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Transfer window round-up",
+      "publishDate": "2021-02-02T12:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/transfer-window-round-up.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Transfer",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_transfer"
+        },
+        {
+          "title": "Lucas Piazon",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_lucas-piazon"
+        },
+        {
+          "title": "Danny Drinkwater",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_danny-drinkwater"
+        },
+        {
+          "title": "Fikayo Tomori",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_fikayo-tomori"
+        },
+        {
+          "title": "Baba Rahman",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_baba-rahman"
+        }
+      ],
+      "date": "2021-02-02T12:25:00.000Z",
+      "description": "With the 2021 winter transfer window having closed yesterday in England for men's football, we wrap up all the player moves in and out involving Chelsea during that period."
     },
     {
       "contentType": "Columnist",
@@ -516,60 +579,6 @@
       "date": "2021-02-01T00:52:00.000Z",
       "description": "Melanie Leupolz is enjoying life at Chelsea FC Women and her two goals helped the Blues secure a 4-0 victory over London rivals Tottenham Hotspur at the weekend.",
       "matchId": 2138425
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210201alonso-revels-in-goalscoring-ret",
-      "type": "NewsCard",
-      "timestamp": "2021-02-01T04:00:00.000Z",
-      "orderDate": "2021-02-01T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/01/alonso-revels-in-goalscoring-return-and-hopes-to-use-win-as-a-sp",
-        "type": "NewsCard",
-        "title": "Alonso revels in goalscoring return and hopes to use win as a springboard",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/alonso-revels-in-goalscoring-return-and-hopes-to-use-win-as-a-sp.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-01T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/01/alonso-revels-in-goalscoring-return-and-hopes-to-use-win-as-a-sp",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Alonso",
-          "id": "editorial/news/2021/01/31/Alonso-Pulisic-goal-celebration-Burnley-h",
-          "gravity": "auto",
-          "aspectRatio": 1.5535991,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Alonso revels in goalscoring return and hopes to use win as a springboard",
-      "publishDate": "2021-02-01T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/alonso-revels-in-goalscoring-return-and-hopes-to-use-win-as-a-sp.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-02-01T04:00:00.000Z",
-      "description": "Marcos Alonso has called on his Chelsea team-mates to use the first win under Thomas Tuchel’s charge as a springboard to propel themselves up the Premier League table.",
-      "matchId": 2128488
     }
   ]
 }
