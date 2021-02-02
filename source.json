@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 275,
+    "totalItems": 276,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 28,
@@ -194,6 +194,55 @@
       ],
       "date": "2021-02-02T10:21:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues have been linked with Achraf Hakimi and Mainz coach Bo Svensson hails Thomas Tuchel’s ability to think outside the box."
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210202chelsea-women-v-west-ham-women-p",
+      "type": "NewsCard",
+      "timestamp": "2021-02-02T11:15:00.000Z",
+      "orderDate": "2021-02-02T00:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/02/chelsea-women-v-west-ham-women-preview--kick-off-time--how-to-wa",
+        "type": "NewsCard",
+        "title": "Chelsea Women v West Ham Women preview: Kick-off time, how to watch live and more!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/chelsea-women-v-west-ham-women-preview--kick-off-time--how-to-wa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-02T11:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/02/chelsea-women-v-west-ham-women-preview--kick-off-time--how-to-wa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Kirby_Kerr_Harder",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women v West Ham Women preview: Kick-off time, how to watch live and more!",
+      "publishDate": "2021-02-02T11:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/chelsea-women-v-west-ham-women-preview--kick-off-time--how-to-wa.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2021-02-02T11:15:00.000Z",
+      "description": "Emma Hayes’ Chelsea Women come up against West Ham tomorrow evening with a place in the final of the Continental Tyres League Cup at stake and here we preview the semi-final…",
+      "matchId": 2186710
     },
     {
       "contentType": "News",
@@ -523,64 +572,6 @@
       ],
       "date": "2021-02-01T13:18:00.000Z",
       "description": "Jack Wakely will spend the rest of the current season with Brighton's Under-23s."
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20210201chelsea-here-chelsea-there--tomo",
-      "type": "NewsCard",
-      "timestamp": "2021-02-01T17:19:00.000Z",
-      "orderDate": "2021-02-01T02:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/01/chelsea-here-chelsea-there--tomori-underway-at-milan--goals-for-",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Tomori underway at Milan, goals for Barkley, Batshuayi and Broja",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/chelsea-here-chelsea-there--tomori-underway-at-milan--goals-for-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-01T17:19:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/01/chelsea-here-chelsea-there--tomori-underway-at-milan--goals-for-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Fikayo Tomori playing for Milan",
-          "id": "editorial/news/2021/02/01/tomori_milan_bologna",
-          "gravity": "auto",
-          "aspectRatio": 1.5002173,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Tomori underway at Milan, goals for Barkley, Batshuayi and Broja",
-      "publishDate": "2021-02-01T17:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/01/chelsea-here-chelsea-there--tomori-underway-at-milan--goals-for-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Ross Barkley",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ross-barkley"
-        },
-        {
-          "title": "Michy Batshuayi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_michy-batshuayi"
-        },
-        {
-          "title": "Fikayo Tomori",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_fikayo-tomori"
-        },
-        {
-          "title": "Trevor Chalobah",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_trevor-chalobah"
-        }
-      ],
-      "date": "2021-02-01T17:19:00.000Z",
-      "description": "In our look at the loan highlights for our players out on loan, there has been plenty of action both in England and overseas…"
     }
   ]
 }
