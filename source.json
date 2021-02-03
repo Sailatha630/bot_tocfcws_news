@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 289,
+    "totalItems": 290,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 29,
@@ -92,6 +92,60 @@
       "tags": [],
       "date": "2021-02-03T08:31:00.000Z",
       "description": "All at Chelsea Football Club wish Paul Canoville, our former player, a rapid recovery following the statement today from his own trust that he is critically ill in hospital."
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210203pre-match-quiz--tottenham-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2021-02-03T09:56:00.000Z",
+      "orderDate": "2021-02-03T05:56:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/03/pre-match-quiz--tottenham-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Tottenham vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/pre-match-quiz--tottenham-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-03T09:56:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/03/pre-match-quiz--tottenham-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/02/02/Tuchel_Dortmund_Tottenham_GettyImages-516190320",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Tottenham vs Chelsea",
+      "publishDate": "2021-02-03T09:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/pre-match-quiz--tottenham-vs-chelsea.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-02-03T09:56:00.000Z",
+      "description": "Thomas Tuchel will get his first taste of a London derby when we take on capital rivals Tottenham Hotspur on Thursday evening. Can you remember how our other managers got on in their first match against Spurs?",
+      "matchId": 2128505
     },
     {
       "contentType": "Competitions",
@@ -453,43 +507,6 @@
       ],
       "date": "2021-02-02T16:33:00.000Z",
       "description": "In the second part of an exclusive introductory video with Thomas Tuchel, our new boss discusses the key to his footballing identity and delves into his past coaching in German academies."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210202quiz--who-scored-first-for-each-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-02T15:47:00.000Z",
-      "orderDate": "2021-02-02T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/02/quiz--who-scored-first-for-each-chelsea-manager-",
-        "type": "NewsCard",
-        "title": "Quiz! Who scored first for each Chelsea manager?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/quiz--who-scored-first-for-each-chelsea-manager-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-02T15:47:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/02/quiz--who-scored-first-for-each-chelsea-manager-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Azpilicueta",
-          "id": "editorial/news/2021/02/02/Azpilicueta-GettyImages-1299590478",
-          "gravity": "auto",
-          "aspectRatio": 1.4998281,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz! Who scored first for each Chelsea manager?",
-      "publishDate": "2021-02-02T15:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/quiz--who-scored-first-for-each-chelsea-manager-.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-02-02T15:47:00.000Z",
-      "description": "Cesar Azpilicueta became the first player to score for Chelsea under Thomas Tuchel – but can you remember who netted the maiden goal under each Blues boss appointed under Roman Abramovich's ownership? Take our quiz and find out…"
     }
   ]
 }
