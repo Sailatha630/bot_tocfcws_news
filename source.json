@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 291,
+    "totalItems": 292,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 30,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210203thomas-tuchel-press-conference-v",
+      "type": "NewsCard",
+      "timestamp": "2021-02-03T14:18:00.000Z",
+      "orderDate": "2021-02-03T14:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/03/thomas-tuchel-press-conference-vs-tottenham",
+        "type": "NewsCard",
+        "title": "Tuchel reports two doubtful for Tottenham and offers support to Reece James",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/thomas-tuchel-press-conference-vs-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-03T14:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/03/thomas-tuchel-press-conference-vs-tottenham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/news/2021/02/03/tuchel-press-conference-graphic",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reports two doubtful for Tottenham and offers support to Reece James",
+      "publishDate": "2021-02-03T14:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/thomas-tuchel-press-conference-vs-tottenham.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        }
+      ],
+      "date": "2021-02-03T14:18:00.000Z",
+      "description": "In his media conference ahead of our trip to the north of the capital tomorrow, Thomas Tuchel confirmed two members of his squad are doubts for the game.",
+      "matchId": 2128505
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews2021020310-questions-with----hakim-ziyec",
@@ -437,65 +496,6 @@
       "tags": [],
       "date": "2021-02-02T16:58:00.000Z",
       "description": "Today we launch Chelsea Creates, our new series celebrating London’s most exciting new talent."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210202new-prize-to-be-won-in-play-pred",
-      "type": "NewsCard",
-      "timestamp": "2021-02-02T20:00:00.000Z",
-      "orderDate": "2021-02-02T12:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/02/new-prize-to-be-won-in-play-predictor",
-        "type": "NewsCard",
-        "title": "New prize to be won in Play Predictor",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/new-prize-to-be-won-in-play-predictor.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-02T20:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/02/new-prize-to-be-won-in-play-predictor",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Play Predictor",
-          "id": "editorial/news/2021/02/02/Play_Predictor_Prize_Boost_Generic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "New prize to be won in Play Predictor",
-      "publishDate": "2021-02-02T20:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/02/new-prize-to-be-won-in-play-predictor.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        },
-        {
-          "title": "Carabao",
-          "namespace": "content-tag:",
-          "id": "content-tag_Partners_Carabao"
-        }
-      ],
-      "date": "2021-02-02T20:00:00.000Z",
-      "description": "February is set to be an exciting month of fixtures for the Blues, with Premier League, FA Cup and Champions League action, plus there’s a new prize to be won in our Play Predictor game!",
-      "matchId": 2128505
     }
   ]
 }
