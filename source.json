@@ -1,12 +1,119 @@
 {
   "pagination": {
-    "totalItems": 296,
+    "totalItems": 298,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 30,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210204pre-match-briefing--tottenham-vs",
+      "type": "NewsCard",
+      "timestamp": "2021-02-04T04:00:00.000Z",
+      "orderDate": "2021-02-04T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/04/pre-match-briefing--tottenham-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Tottenham vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/pre-match-briefing--tottenham-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-04T04:00:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/02/04/pre-match-briefing--tottenham-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tottenham Hotspur Stadium",
+          "id": "editorial/news/2021/02/03/tottenham-stadium-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Tottenham vs Chelsea",
+      "publishDate": "2021-02-04T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/pre-match-briefing--tottenham-vs-chelsea.html",
+      "readTimeInMins": 69,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-04T04:00:00.000Z",
+      "description": "Thomas Tuchel's first London derby is a big one on the road. Club historian Rick Glanvill and club statistician Paul Dutton are all set for a night in north London under the lights...",
+      "matchId": 2128505
+    },
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210204tuchel-explains-why-he-shifted-h",
+      "type": "NewsCard",
+      "timestamp": "2021-02-04T04:00:00.000Z",
+      "orderDate": "2021-02-04T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/04/tuchel-explains-why-he-shifted-hudson-odoi-to-wing-back-and-the-",
+        "type": "NewsCard",
+        "title": "Tuchel explains why he shifted Hudson-Odoi to wing-back and the logic behind giving players new positions",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/tuchel-explains-why-he-shifted-hudson-odoi-to-wing-back-and-the-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-04T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/04/tuchel-explains-why-he-shifted-hudson-odoi-to-wing-back-and-the-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel and Hudson-Odoi",
+          "id": "editorial/match-reports/2020-21/wolves-home/Tuchel-Hudson-Odoi-Wolves-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel explains why he shifted Hudson-Odoi to wing-back and the logic behind giving players new positions",
+      "publishDate": "2021-02-04T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/tuchel-explains-why-he-shifted-hudson-odoi-to-wing-back-and-the-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        }
+      ],
+      "date": "2021-02-04T04:00:00.000Z",
+      "description": "Thomas Tuchel has revealed the idea of playing Callum Hudson-Odoi as a wing-back first entered his head when he and his assistants were on the plane to London preparing to begin their Chelsea journey."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210203tottenham-vs-chelsea---the-stats",
@@ -412,112 +519,6 @@
       "tags": [],
       "date": "2021-02-03T08:31:00.000Z",
       "description": "All at Chelsea Football Club wish Paul Canoville, our former player, a rapid recovery following the statement today from his own trust that he is critically ill in hospital."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210203pre-match-quiz--tottenham-vs-che",
-      "type": "NewsCard",
-      "timestamp": "2021-02-03T09:56:00.000Z",
-      "orderDate": "2021-02-03T05:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/03/pre-match-quiz--tottenham-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Tottenham vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/pre-match-quiz--tottenham-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-03T09:56:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/03/pre-match-quiz--tottenham-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2021/02/02/Tuchel_Dortmund_Tottenham_GettyImages-516190320",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Tottenham vs Chelsea",
-      "publishDate": "2021-02-03T09:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/pre-match-quiz--tottenham-vs-chelsea.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-02-03T09:56:00.000Z",
-      "description": "Thomas Tuchel will get his first taste of a London derby when we take on capital rivals Tottenham Hotspur on Thursday evening. Can you remember how our other managers got on in their first match against Spurs?",
-      "matchId": 2128505
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210203vote-for-your-chelsea-goal-of-th",
-      "type": "NewsCard",
-      "timestamp": "2021-02-03T07:00:00.000Z",
-      "orderDate": "2021-02-03T05:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/03/vote-for-your-chelsea-goal-of-the-month-for-january",
-        "type": "NewsCard",
-        "title": "Vote for your Chelsea Goal of the Month for January",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/vote-for-your-chelsea-goal-of-the-month-for-january.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-03T07:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/03/vote-for-your-chelsea-goal-of-the-month-for-january",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2020-21/burnley-home/alonso-goal-burnley",
-          "gravity": "auto",
-          "aspectRatio": 1.7088499,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Vote for your Chelsea Goal of the Month for January",
-      "publishDate": "2021-02-03T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/vote-for-your-chelsea-goal-of-the-month-for-january.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-02-03T07:00:00.000Z",
-      "description": "Voting is now open for Chelsea’s January Goal of the Month award, with five eye-catching strikes from across our men’s and women’s sides to choose from!"
     }
   ]
 }
