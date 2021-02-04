@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 303,
+    "totalItems": 304,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 31,
@@ -322,6 +322,59 @@
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are said to be interested in Niklas Sule and Maurizio Sarri reportedly turns down Marseille."
     },
     {
+      "contentType": "On Loan",
+      "id": "_content_chelseafcennews20210204chelsea-here-chelsea-there--kene",
+      "type": "NewsCard",
+      "timestamp": "2021-02-04T14:48:00.000Z",
+      "orderDate": "2021-02-04T01:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/04/chelsea-here-chelsea-there--kenedy-nets-against-barcelona-and-ke",
+        "type": "NewsCard",
+        "title": "Chelsea Here Chelsea There: Kenedy nets against Barcelona and keeper Baxter assists again",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/chelsea-here-chelsea-there--kenedy-nets-against-barcelona-and-ke.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-04T14:48:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/04/chelsea-here-chelsea-there--kenedy-nets-against-barcelona-and-ke",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kenedy celebrates scoring against Barcelona",
+          "id": "editorial/news/2021/02/04/Kenedy-celebration-Granada-vs-Barcelona",
+          "gravity": "auto",
+          "aspectRatio": 1.6514161,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Here Chelsea There: Kenedy nets against Barcelona and keeper Baxter assists again",
+      "publishDate": "2021-02-04T14:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/chelsea-here-chelsea-there--kenedy-nets-against-barcelona-and-ke.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Tiemoue Bakayoko",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tiemoue-bakayoko"
+        },
+        {
+          "title": "Loan Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_loan-highlights"
+        },
+        {
+          "title": "Kenedy",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kenedy"
+        }
+      ],
+      "date": "2021-02-04T14:48:00.000Z",
+      "description": "In our latest look at the highlights of Chelsea players out on loan this midweek, we focus on a goal for Kenedy against Barcelona and a goalkeeper racking up the assists in League One…"
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210204hayes-delighted-to-reach-conti-c",
       "type": "NewsCard",
@@ -477,65 +530,6 @@
       "date": "2021-02-03T18:58:00.000Z",
       "description": "Pernille Harder’s first hat-trick for Chelsea helped the Blues thump West Ham to reach the final of the Continental League Cup.",
       "matchId": 2186710
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210203tuchel--young-players-can-make-t",
-      "type": "NewsCard",
-      "timestamp": "2021-02-03T14:42:00.000Z",
-      "orderDate": "2021-02-03T14:42:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/03/tuchel--young-players-can-make-their-steps-here",
-        "type": "NewsCard",
-        "title": "Tuchel: Young players can make their steps here",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/tuchel--young-players-can-make-their-steps-here.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-03T14:42:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/03/tuchel--young-players-can-make-their-steps-here",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Press conference graphic",
-          "id": "editorial/news/2021/02/03/tuchel-abraham-press-conference-graphic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Young players can make their steps here",
-      "publishDate": "2021-02-03T14:42:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/03/tuchel--young-players-can-make-their-steps-here.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-03T14:42:00.000Z",
-      "description": "Thomas Tuchel insists it is important that his Chelsea has an identity with the club’s homegrown players at the heart of the team and he believes the quality is there for that to be achieved.",
-      "matchId": 2128505
     }
   ]
 }
