@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 306,
+    "totalItems": 307,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 31,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210204match-report--tottenham-vs-chels",
+      "type": "NewsCard",
+      "timestamp": "2021-02-04T22:00:00.000Z",
+      "orderDate": "2021-02-04T22:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/04/match-report--tottenham-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Tottenham 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/match-report--tottenham-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-04T22:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/04/match-report--tottenham-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/tottenham-away/jorginho-penalty-2-tottenham",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Tottenham 0 Chelsea 1",
+      "publishDate": "2021-02-04T22:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/match-report--tottenham-vs-chelsea.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-04T22:00:00.000Z",
+      "description": "A Jorginho penalty, smashed rather than stoked into the Spurs net in the first half, was sufficient for Thomas Tuchel to earn his first away win as Chelsea boss.",
+      "matchId": 2128505
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210204chelsea-line-up-vs-tottenham",
@@ -491,60 +545,6 @@
       ],
       "date": "2021-02-04T14:48:00.000Z",
       "description": "In our latest look at the highlights of Chelsea players out on loan this midweek, we focus on a goal for Kenedy against Barcelona and a goalkeeper racking up the assists in League One…"
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210204hayes-delighted-to-reach-conti-c",
-      "type": "NewsCard",
-      "timestamp": "2021-02-04T13:54:00.000Z",
-      "orderDate": "2021-02-04T00:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/04/hayes-delighted-to-reach-conti-cup-final--",
-        "type": "NewsCard",
-        "title": "Hayes delighted to reach Conti Cup final  ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/hayes-delighted-to-reach-conti-cup-final--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-04T13:54:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/04/hayes-delighted-to-reach-conti-cup-final--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Hayes_post_Hammers",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes delighted to reach Conti Cup final  ",
-      "publishDate": "2021-02-04T13:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/hayes-delighted-to-reach-conti-cup-final--.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Women's League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
-        }
-      ],
-      "date": "2021-02-04T13:54:00.000Z",
-      "description": "Chelsea FC Women manager Emma Hayes hailed her team’s ruthless performance as we cruised to the Continental Tyres League Cup final for a second successive year with a 6-0 triumph over West Ham on Wednesday night.",
-      "matchId": 2186710
     }
   ]
 }
