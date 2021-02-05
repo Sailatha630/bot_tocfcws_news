@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 311,
+    "totalItems": 312,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 32,
@@ -173,6 +173,55 @@
       "date": "2021-02-04T22:00:00.000Z",
       "description": "A Jorginho penalty, smashed rather than stoked into the Spurs net in the first half, was sufficient for Thomas Tuchel to earn his first away win as Chelsea boss.",
       "matchId": 2128505
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210205hayes--kirby-and-leupolz-nominat",
+      "type": "NewsCard",
+      "timestamp": "2021-02-05T10:00:00.000Z",
+      "orderDate": "2021-02-05T00:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/05/hayes--kirby-and-leupolz-nominated-for-manager-and-player-of-the",
+        "type": "NewsCard",
+        "title": "Hayes, Kirby and Leupolz nominated for Manager and Player of the Month Awards",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/hayes--kirby-and-leupolz-nominated-for-manager-and-player-of-the.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-05T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/05/hayes--kirby-and-leupolz-nominated-for-manager-and-player-of-the",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Melanie Leupolz scores from the spot in our 4-0 win over London rivals Tottenham Hotspur",
+          "id": "editorial/match-reports/2020-21/women-spurs-home/Leupolz-GettyImages-1299600115",
+          "gravity": "auto",
+          "aspectRatio": 1.5002021,
+          "cropMode": "fill"
+        },
+        "caption": "Melanie Leupolz scores from the spot in our 4-0 win over London rivals Tottenham Hotspur"
+      },
+      "content": "Hayes, Kirby and Leupolz nominated for Manager and Player of the Month Awards",
+      "publishDate": "2021-02-05T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/hayes--kirby-and-leupolz-nominated-for-manager-and-player-of-the.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2021-02-05T10:00:00.000Z",
+      "description": "Chelsea FC Women manager Emma Hayes and Blues duo Fran Kirby and Melanie Leupolz have been nominated for January’s Barclays FA Women’s Super League Manager and Player of the Month awards."
     },
     {
       "contentType": "Match Preview",
@@ -507,60 +556,6 @@
       ],
       "date": "2021-02-04T11:58:00.000Z",
       "description": "Chelsea FC Women have long been winners on the pitch and innovators off it, so it seems natural that we would partner with N+1 Singer, a leading investment bank dedicated to advising and funding ambitious growth companies in the UK."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210204pre-match-briefing--tottenham-vs",
-      "type": "NewsCard",
-      "timestamp": "2021-02-04T04:00:00.000Z",
-      "orderDate": "2021-02-04T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/04/pre-match-briefing--tottenham-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Tottenham vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/pre-match-briefing--tottenham-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-04T04:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/02/04/pre-match-briefing--tottenham-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tottenham Hotspur Stadium",
-          "id": "editorial/news/2021/02/03/tottenham-stadium-view",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Tottenham vs Chelsea",
-      "publishDate": "2021-02-04T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/04/pre-match-briefing--tottenham-vs-chelsea.html",
-      "readTimeInMins": 69,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-04T04:00:00.000Z",
-      "description": "Thomas Tuchel's first London derby is a big one on the road. Club historian Rick Glanvill and club statistician Paul Dutton are all set for a night in north London under the lights...",
-      "matchId": 2128505
     }
   ]
 }
