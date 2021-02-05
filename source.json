@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 320,
+    "totalItems": 321,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 32,
+    "pageCount": 33,
     "startFrom": 0
   },
   "newsFeed": [
@@ -172,6 +172,60 @@
       ],
       "date": "2021-02-05T13:00:00.000Z",
       "description": "Marcos Alonso’s stunning volley against Burnley has been shortlisted for the Premier League’s Goal of the Month award for January."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210205pl2-report--arsenal-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-02-05T20:45:00.000Z",
+      "orderDate": "2021-02-05T12:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/05/pl2-report--arsenal-chelsea",
+        "type": "NewsCard",
+        "title": "PL2 report: Arsenal 2 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/pl2-report--arsenal-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-05T20:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/05/pl2-report--arsenal-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Marcel Lewis",
+          "id": "editorial/news/2021/02/05/Marcel-Lewis-goal-cfcdev-vs-arsenal-pl2",
+          "gravity": "auto",
+          "aspectRatio": 1.6375839,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Arsenal 2 Chelsea 2",
+      "publishDate": "2021-02-05T20:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/pl2-report--arsenal-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-02-05T20:45:00.000Z",
+      "description": "An entertaining game at Meadow Park ended level as Chelsea's development squad made their return to match action on Friday night."
     },
     {
       "contentType": "Analysis",
@@ -488,54 +542,6 @@
       "date": "2021-02-04T22:00:00.000Z",
       "description": "A Jorginho penalty, smashed rather than stoked into the Spurs net in the first half, was sufficient for Thomas Tuchel to earn his first away win as Chelsea boss.",
       "matchId": 2128505
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210205media-watch--blues-are-favourite",
-      "type": "NewsCard",
-      "timestamp": "2021-02-05T10:32:00.000Z",
-      "orderDate": "2021-02-05T01:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/05/media-watch--blues-are-favourites-for-alaba--loftus-cheek-on-get",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues favourites to sign Alaba, Loftus-Cheek on getting back to his best and Ferdinand praises Mount",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/media-watch--blues-are-favourites-for-alaba--loftus-cheek-on-get.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-05T10:32:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/05/media-watch--blues-are-favourites-for-alaba--loftus-cheek-on-get",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Alaba ",
-          "id": "editorial/media-watch/Alaba_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues favourites to sign Alaba, Loftus-Cheek on getting back to his best and Ferdinand praises Mount",
-      "publishDate": "2021-02-05T10:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/media-watch--blues-are-favourites-for-alaba--loftus-cheek-on-get.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Ruben Loftus-Cheek",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ruben-loftus-cheek"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-02-05T10:32:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues have become the favourites to sign Bayern Munich’s David Alaba and Ruben Loftus-Cheek believes he is getting back to his best."
     }
   ]
 }
