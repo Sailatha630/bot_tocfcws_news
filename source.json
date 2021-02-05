@@ -192,20 +192,35 @@
       "template": "standard-article",
       "path": "/content/chelseafc/en/news/2021/02/05/the-debrief--right-sided-overloads-and-midfield-control-key-to-d",
       "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/02/05/debrief-tottenham-web-away-graphic",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Thomas Tuchel's impact on Mason Mount and Callum Hudson-Odoi by switching to a back three | The Debrief Extra",
+          "videoId": "ehbc7Zog",
+          "bucket": "prod-cfc",
+          "description": "We analyse how Thomas Tuchel's tactic of switching to a back three has already had a positive impact on players such as Mason Mount and Callum Hudson-Odoi.",
+          "duration": 80000,
+          "date": "2021-02-05T18:24:53.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/ehbc7Zog/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/the-debrief--right-sided-overloads-and-midfield-control-key-to-d.page.v3.json",
+          "contentType": "Analysis",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/02/05/the-debrief--right-sided-overloads-and-midfield-control-key-to-d?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/02/05/the-debrief--right-sided-overloads-and-midfield-control-key-to-d",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "We analyse how Thomas Tuchel's tactic of switching to a back three has already had a positive impact on players such as Mason Mount and Callum Hudson-Odoi."
       },
       "content": "The Debrief: Right-sided overloads and midfield control key to dominant victory",
       "publishDate": "2021-02-05T12:30:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/the-debrief--right-sided-overloads-and-midfield-control-key-to-d.html",
-      "readTimeInMins": 13,
+      "readTimeInMins": 14,
       "tags": [
         {
           "title": "Premier League",
