@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 327,
+    "totalItems": 328,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 33,
@@ -162,6 +162,55 @@
       "date": "2021-02-06T09:54:00.000Z",
       "description": "Ahead of Sunday's visit to Sheffield United, see how much you remember of our victory when the Blades came to Stamford Bridge earlier in the season...",
       "matchId": 2128513
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210206under-18s-report--west-brom-chel",
+      "type": "NewsCard",
+      "timestamp": "2021-02-06T14:00:00.000Z",
+      "orderDate": "2021-02-06T06:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/06/under-18s-report--west-brom-chelsea",
+        "type": "NewsCard",
+        "title": "Under-18s report: West Brom 2 Chelsea 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/under-18s-report--west-brom-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-06T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/06/under-18s-report--west-brom-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ben Elliott",
+          "id": "editorial/news/2021/02/05/Ben-Elliott-goal-vs-west-brom-cfcu18",
+          "gravity": "auto",
+          "aspectRatio": 1.5001522,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: West Brom 2 Chelsea 3",
+      "publishDate": "2021-02-06T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/under-18s-report--west-brom-chelsea.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-02-06T14:00:00.000Z",
+      "description": "10-man Chelsea came from behind to seal maximum points in Saturday afternoon’s league game against West Brom."
     },
     {
       "contentType": "Match Preview",
@@ -489,60 +538,6 @@
       ],
       "date": "2021-02-05T13:00:00.000Z",
       "description": "Marcos Alonso’s stunning volley against Burnley has been shortlisted for the Premier League’s Goal of the Month award for January."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210205pl2-report--arsenal-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-02-05T20:45:00.000Z",
-      "orderDate": "2021-02-05T12:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/05/pl2-report--arsenal-chelsea",
-        "type": "NewsCard",
-        "title": "PL2 report: Arsenal 2 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/pl2-report--arsenal-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-05T20:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/05/pl2-report--arsenal-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Marcel Lewis",
-          "id": "editorial/news/2021/02/05/Marcel-Lewis-goal-cfcdev-vs-arsenal-pl2",
-          "gravity": "auto",
-          "aspectRatio": 1.6375839,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Arsenal 2 Chelsea 2",
-      "publishDate": "2021-02-05T20:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/pl2-report--arsenal-chelsea.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-02-05T20:45:00.000Z",
-      "description": "An entertaining game at Meadow Park ended level as Chelsea's development squad made their return to match action on Friday night."
     }
   ]
 }
