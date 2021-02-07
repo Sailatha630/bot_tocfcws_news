@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 334,
+    "totalItems": 335,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210207chelsea-line-up-vs-sheffield-uni",
+      "type": "NewsCard",
+      "timestamp": "2021-02-07T18:15:00.000Z",
+      "orderDate": "2021-02-07T18:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/07/chelsea-line-up-vs-sheffield-united",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Sheffield United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/chelsea-line-up-vs-sheffield-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-07T18:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/07/chelsea-line-up-vs-sheffield-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Giroud",
+          "id": "editorial/match-reports/2020-21/sheff-utd-away/Giroud-dressing-room-Sheff-Utd-a",
+          "gravity": "auto",
+          "aspectRatio": 1.5294118,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Sheffield United",
+      "publishDate": "2021-02-07T18:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/chelsea-line-up-vs-sheffield-united.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-07T18:15:00.000Z",
+      "description": "Thomas Tuchel make three changes to the Chelsea team for tonight’s game at Sheffield United.",
+      "matchId": 2128513
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210207women-s-report--chelsea-1-bright",
@@ -448,55 +497,6 @@
       "date": "2021-02-06T09:54:00.000Z",
       "description": "Ahead of Sunday's visit to Sheffield United, see how much you remember of our victory when the Blades came to Stamford Bridge earlier in the season...",
       "matchId": 2128513
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210206under-18s-report--west-brom-chel",
-      "type": "NewsCard",
-      "timestamp": "2021-02-06T14:00:00.000Z",
-      "orderDate": "2021-02-06T06:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/06/under-18s-report--west-brom-chelsea",
-        "type": "NewsCard",
-        "title": "Under-18s report: West Brom 2 Chelsea 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/under-18s-report--west-brom-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-06T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/06/under-18s-report--west-brom-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ben Elliott",
-          "id": "editorial/news/2021/02/05/Ben-Elliott-goal-vs-west-brom-cfcu18",
-          "gravity": "auto",
-          "aspectRatio": 1.5001522,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: West Brom 2 Chelsea 3",
-      "publishDate": "2021-02-06T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/under-18s-report--west-brom-chelsea.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-02-06T14:00:00.000Z",
-      "description": "Ten-man Chelsea came from behind to seal maximum points in Saturday afternoon’s league game against West Brom."
     }
   ]
 }
