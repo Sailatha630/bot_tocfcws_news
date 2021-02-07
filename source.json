@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 331,
+    "totalItems": 332,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210207rudiger-on-righting-wrongs-and-a",
+      "type": "NewsCard",
+      "timestamp": "2021-02-07T04:01:00.000Z",
+      "orderDate": "2021-02-07T04:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/07/rudiger-on-righting-wrongs-and-abuse-that-makes-him-stronger",
+        "type": "NewsCard",
+        "title": "Rudiger on righting wrongs and abuse that makes him stronger",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/rudiger-on-righting-wrongs-and-abuse-that-makes-him-stronger.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-07T04:01:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/07/rudiger-on-righting-wrongs-and-abuse-that-makes-him-stronger",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Toni Rudiger training",
+          "id": "editorial/news/2021/02/06/rudiger_training_header",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger on righting wrongs and abuse that makes him stronger",
+      "publishDate": "2021-02-07T04:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/rudiger-on-righting-wrongs-and-abuse-that-makes-him-stronger.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2021-02-07T04:01:00.000Z",
+      "description": "Having been part of the rearguard that did not conceded a goal in the first three games under Thomas Tuchel, and the side that beat one of the other ‘big-six’ teams for the first time this season on Thursday, Toni Rudiger describes the new coach’s attention to detail."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210206callum-hudson-odoi-on-how-thomas",
@@ -462,55 +510,6 @@
       "date": "2021-02-06T00:16:00.000Z",
       "description": "Mateo Kovacic said that the Chelsea players always felt they could get a result at Tottenham and that our fast start in north London played a big part in the victory.",
       "matchId": 2128505
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210206chelsea-women-v-brighton---hove-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-06T09:34:00.000Z",
-      "orderDate": "2021-02-06T00:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/06/chelsea-women-v-brighton---hove-albion-women-preview--kick-off-t",
-        "type": "NewsCard",
-        "title": "Chelsea Women v Brighton & Hove Albion Women preview: Kick-off time, how to watch the match live and more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/chelsea-women-v-brighton---hove-albion-women-preview--kick-off-t.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-06T09:34:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/06/chelsea-women-v-brighton---hove-albion-women-preview--kick-off-t",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/CFCW_STOCK_PREVIEW",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v Brighton & Hove Albion Women preview: Kick-off time, how to watch the match live and more!",
-      "publishDate": "2021-02-06T09:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/chelsea-women-v-brighton---hove-albion-women-preview--kick-off-t.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2021-02-06T09:34:00.000Z",
-      "description": "Chelsea FC Women are back in Barclays FA Women’s Super League action tomorrow when we welcome Brighton & Hove Albion to Kingsmeadow and the game is live on various official Chelsea platforms.",
-      "matchId": 2138448
     }
   ]
 }
