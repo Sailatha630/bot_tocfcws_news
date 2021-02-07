@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 336,
+    "totalItems": 337,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210207tuchel-on-a-difficult-but-deserv",
+      "type": "NewsCard",
+      "timestamp": "2021-02-07T22:47:00.000Z",
+      "orderDate": "2021-02-07T22:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/07/tuchel-on-a-difficult-but-deserved-win--decisive-werner-and-the-",
+        "type": "NewsCard",
+        "title": "Tuchel on a difficult but deserved win, decisive Werner and the latest on Pulisic and Thiago Silva",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/tuchel-on-a-difficult-but-deserved-win--decisive-werner-and-the-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-07T22:47:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/07/tuchel-on-a-difficult-but-deserved-win--decisive-werner-and-the-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/match-reports/2020-21/sheff-utd-away/Tuchel-Sheffield-United-a-1",
+          "gravity": "east",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on a difficult but deserved win, decisive Werner and the latest on Pulisic and Thiago Silva",
+      "publishDate": "2021-02-07T22:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/tuchel-on-a-difficult-but-deserved-win--decisive-werner-and-the-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        }
+      ],
+      "date": "2021-02-07T22:47:00.000Z",
+      "description": "Thomas Tuchel’s first taste of a Premier League game outside London took place in freezing conditions against tough opponents, so no wonder he was pleased with the way his team stood up to the challenge at Bramall Lane.",
+      "matchId": 2128513
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210207match-report--sheffield-united-v",
@@ -448,54 +507,6 @@
       ],
       "date": "2021-02-06T11:51:00.000Z",
       "description": "From north London to South Yorkshire – a string of away games for the Blues continues on Sunday. Club historian Rick Glanvill and club statistician Paul Dutton have the background for our encounter with the Blades…",
-      "matchId": 2128513
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210206tuchel-on-conducting-the-orchest",
-      "type": "NewsCard",
-      "timestamp": "2021-02-06T10:19:00.000Z",
-      "orderDate": "2021-02-06T10:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/06/tuchel-on-conducting-the-orchestra-and-building-trust",
-        "type": "NewsCard",
-        "title": "Tuchel on conducting the orchestra and building trust",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/tuchel-on-conducting-the-orchestra-and-building-trust.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-06T10:19:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/06/tuchel-on-conducting-the-orchestra-and-building-trust",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/02/05/Tuchel-pointing-touchline",
-          "gravity": "auto",
-          "aspectRatio": 2.0507967,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on conducting the orchestra and building trust",
-      "publishDate": "2021-02-06T10:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/tuchel-on-conducting-the-orchestra-and-building-trust.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-06T10:19:00.000Z",
-      "description": "Thomas Tuchel is happy with how quickly his Chelsea players are learning his tune and believes the key to sustained performance is mutual trust and honest reflective learning.",
       "matchId": 2128513
     }
   ]
