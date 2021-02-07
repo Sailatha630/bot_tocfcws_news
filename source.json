@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 335,
+    "totalItems": 336,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210207match-report--sheffield-united-v",
+      "type": "NewsCard",
+      "timestamp": "2021-02-07T21:20:00.000Z",
+      "orderDate": "2021-02-07T21:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/07/match-report--sheffield-united-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Sheffield United 1 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/match-report--sheffield-united-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-07T21:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/07/match-report--sheffield-united-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount and Jorginho",
+          "id": "editorial/match-reports/2020-21/sheff-utd-away/Jorginho-goal-celebrations-Sheffield-United-away",
+          "gravity": "auto",
+          "aspectRatio": 1.7079037,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Sheffield United 1 Chelsea 2",
+      "publishDate": "2021-02-07T21:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/match-report--sheffield-united-vs-chelsea.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        }
+      ],
+      "date": "2021-02-07T21:20:00.000Z",
+      "description": "For the second time in four days a Jorginho penalty proved the difference on the road as the Blues moved up to fifth in the table with a hard-fought win at Bramall Lane.",
+      "matchId": 2128513
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210207chelsea-line-up-vs-sheffield-uni",
@@ -442,60 +496,6 @@
       ],
       "date": "2021-02-06T10:19:00.000Z",
       "description": "Thomas Tuchel is happy with how quickly his Chelsea players are learning his tune and believes the key to sustained performance is mutual trust and honest reflective learning.",
-      "matchId": 2128513
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210206pre-match-quiz--sheffield-united",
-      "type": "NewsCard",
-      "timestamp": "2021-02-06T09:54:00.000Z",
-      "orderDate": "2021-02-06T09:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/06/pre-match-quiz--sheffield-united-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Sheffield United vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/pre-match-quiz--sheffield-united-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-06T09:54:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/06/pre-match-quiz--sheffield-united-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Sheffield United",
-          "id": "editorial/news/2021/02/05/SheffUtd_H_GettyImages-1284419901",
-          "gravity": "north_west",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Sheffield United vs Chelsea",
-      "publishDate": "2021-02-06T09:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/pre-match-quiz--sheffield-united-vs-chelsea.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Sheffield United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_sheffield-united"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-02-06T09:54:00.000Z",
-      "description": "Ahead of Sunday's visit to Sheffield United, see how much you remember of our victory when the Blades came to Stamford Bridge earlier in the season...",
       "matchId": 2128513
     }
   ]
