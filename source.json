@@ -1,12 +1,57 @@
 {
   "pagination": {
-    "totalItems": 333,
+    "totalItems": 334,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210207women-s-report--chelsea-1-bright",
+      "type": "NewsCard",
+      "timestamp": "2021-02-07T16:12:00.000Z",
+      "orderDate": "2021-02-07T16:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/07/women-s-report--chelsea-1-brighton-2",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 1 Brighton 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/women-s-report--chelsea-1-brighton-2.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-07T16:12:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/02/07/women-s-report--chelsea-1-brighton-2",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ji on the run",
+          "id": "editorial/match-reports/2020-21/women-brighton-home/Ji-GettyImages-1300839788",
+          "gravity": "auto",
+          "aspectRatio": 1.4996865,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Chelsea 1 Brighton 2",
+      "publishDate": "2021-02-07T16:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/women-s-report--chelsea-1-brighton-2.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-02-07T16:12:00.000Z",
+      "description": "The Blues’ long unbeaten run in the Barclays Women’s Super League has come to an end, as Brighton came from a goal down to record a shock victory at Kingsmeadow.",
+      "matchId": 2138448
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210207tuchel-on-the-chances-of-changes",
@@ -452,60 +497,6 @@
       ],
       "date": "2021-02-06T14:00:00.000Z",
       "description": "Ten-man Chelsea came from behind to seal maximum points in Saturday afternoon’s league game against West Brom."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210206sheffield-united-vs-chelsea---th",
-      "type": "NewsCard",
-      "timestamp": "2021-02-06T02:11:00.000Z",
-      "orderDate": "2021-02-06T02:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/06/sheffield-united-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Sheffield United vs Chelsea - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/sheffield-united-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-06T02:11:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/02/06/sheffield-united-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tammy Abraham at Sheffield United",
-          "id": "editorial/news/2020/11/abraham-sheff-utd",
-          "gravity": "faces",
-          "aspectRatio": 0.77328056,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Sheffield United vs Chelsea - the stats",
-      "publishDate": "2021-02-06T02:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/06/sheffield-united-vs-chelsea---the-stats.html",
-      "readTimeInMins": 21,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Sheffield United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_sheffield-united"
-        }
-      ],
-      "date": "2021-02-06T02:11:00.000Z",
-      "description": "With the Blues aiming to make it three wins in a row when we play the Blades on Sunday, we look forward to the game with all the factual details needed to set the scene...",
-      "matchId": 2128513
     }
   ]
 }
