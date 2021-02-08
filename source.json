@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 338,
+    "totalItems": 339,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210208werner-on-his-new-role-under-tuc",
+      "type": "NewsCard",
+      "timestamp": "2021-02-08T23:13:00.000Z",
+      "orderDate": "2021-02-08T23:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/08/werner-on-his-new-role-under-tuchel",
+        "type": "NewsCard",
+        "title": "Werner on his new role under Tuchel",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/08/werner-on-his-new-role-under-tuchel.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-08T23:13:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/08/werner-on-his-new-role-under-tuchel",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/match-reports/2020-21/sheff-utd-away/Werner_GettyImages-1300873793",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Werner on his new role under Tuchel",
+      "publishDate": "2021-02-08T23:13:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/08/werner-on-his-new-role-under-tuchel.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        }
+      ],
+      "date": "2021-02-08T23:13:00.000Z",
+      "description": "Timo Werner has explained how a tweak in his position under Thomas Tuchel contributed to his match-winning performance against Sheffield United.",
+      "matchId": 2128513
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210207tuchel-on-a-difficult-but-deserv",
@@ -492,42 +551,6 @@
       "date": "2021-02-07T01:03:00.000Z",
       "description": "Chelsea Women return to league action this afternoon as we face Brighton & Hove Albion at Kingsmeadow and Hannah Blundell hopes the Blues can continue our fine run of form.",
       "matchId": 2138448
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210205chelsea-foundation-providing-loc",
-      "type": "NewsCard",
-      "timestamp": "2021-02-07T00:54:00.000Z",
-      "orderDate": "2021-02-06T15:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/05/chelsea-foundation-providing-lockdown-virtual-sessions-for-grass",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation providing lockdown virtual sessions for grassroots coaches",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/chelsea-foundation-providing-lockdown-virtual-sessions-for-grass.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-07T00:54:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/05/chelsea-foundation-providing-lockdown-virtual-sessions-for-grass",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/02/05/ChelseaFoundation_Coach_Education2",
-          "gravity": "auto",
-          "aspectRatio": 1.4992679,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation providing lockdown virtual sessions for grassroots coaches",
-      "publishDate": "2021-02-07T00:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/05/chelsea-foundation-providing-lockdown-virtual-sessions-for-grass.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-02-07T00:54:00.000Z",
-      "description": "Chelsea Foundation are now delivering weekly webinars to coaches from grassroots clubs to provide coach education."
     }
   ]
 }
