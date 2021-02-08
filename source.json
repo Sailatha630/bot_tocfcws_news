@@ -1,12 +1,81 @@
 {
   "pagination": {
-    "totalItems": 344,
+    "totalItems": 345,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 35,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210208james--team-play-under-tuchel-an",
+      "type": "NewsCard",
+      "timestamp": "2021-02-08T15:42:00.000Z",
+      "orderDate": "2021-02-08T15:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/08/james--team-play-under-tuchel-and-timo-s-time-is-coming",
+        "type": "NewsCard",
+        "title": "James: Team play under Tuchel and Timo’s time is coming",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/08/james--team-play-under-tuchel-and-timo-s-time-is-coming.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-08T15:42:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/08/james--team-play-under-tuchel-and-timo-s-time-is-coming",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James in game at Sheffield United",
+          "id": "editorial/news/2021/02/08/reece_james_sheffield_utd_away",
+          "gravity": "faces",
+          "aspectRatio": 1.4996601,
+          "cropMode": "fill"
+        }
+      },
+      "content": "James: Team play under Tuchel and Timo’s time is coming",
+      "publishDate": "2021-02-08T15:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/08/james--team-play-under-tuchel-and-timo-s-time-is-coming.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        }
+      ],
+      "date": "2021-02-08T15:42:00.000Z",
+      "description": "As one of the players involved in Chelsea’s 3-0 defeat on our previous visit to Bramall Lane back in July, Reece James was taking nothing for granted when we played the Premier League’s bottom club Sheffield United on Sunday evening. This time the Blues returned to London with a much more favourable result and three points that move us up to fifth in the table.",
+      "matchId": 2128513
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210208the-debrief--all-action-kovacic-",
@@ -527,55 +596,6 @@
       ],
       "date": "2021-02-07T21:20:00.000Z",
       "description": "For the second time in four days a Jorginho penalty proved the difference on the road as the Blues moved up to fifth in the table with a hard-fought win at Bramall Lane.",
-      "matchId": 2128513
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210207chelsea-line-up-vs-sheffield-uni",
-      "type": "NewsCard",
-      "timestamp": "2021-02-07T18:15:00.000Z",
-      "orderDate": "2021-02-07T18:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/07/chelsea-line-up-vs-sheffield-united",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Sheffield United",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/chelsea-line-up-vs-sheffield-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-07T18:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/07/chelsea-line-up-vs-sheffield-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Giroud",
-          "id": "editorial/match-reports/2020-21/sheff-utd-away/Giroud-dressing-room-Sheff-Utd-a",
-          "gravity": "auto",
-          "aspectRatio": 1.5294118,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Sheffield United",
-      "publishDate": "2021-02-07T18:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/chelsea-line-up-vs-sheffield-united.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-07T18:15:00.000Z",
-      "description": "Thomas Tuchel make three changes to the Chelsea team for tonight’s game at Sheffield United.",
       "matchId": 2128513
     }
   ]
