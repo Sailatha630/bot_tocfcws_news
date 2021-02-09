@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 345,
+    "totalItems": 346,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 35,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210209alonso-volley-voted-chelsea-s-ja",
+      "type": "NewsCard",
+      "timestamp": "2021-02-09T04:00:00.000Z",
+      "orderDate": "2021-02-09T01:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/09/alonso-volley-voted-chelsea-s-january-goal-of-the-month",
+        "type": "NewsCard",
+        "title": "Alonso volley voted Chelsea's January Goal of the Month",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/09/alonso-volley-voted-chelsea-s-january-goal-of-the-month.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-09T04:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/09/alonso-volley-voted-chelsea-s-january-goal-of-the-month",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Alonso scores",
+          "id": "editorial/news/2021/02/08/alonso-volley-burnley",
+          "gravity": "center",
+          "aspectRatio": 1.5479641,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Alonso volley voted Chelsea's January Goal of the Month",
+      "publishDate": "2021-02-09T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/09/alonso-volley-voted-chelsea-s-january-goal-of-the-month.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Goal of the Month",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-month"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2021-02-09T04:00:00.000Z",
+      "description": "Marcos Alonso's wonderful volley against Burnley has been named the Chelsea Goal of the Month for January in a poll of Blues supporters."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210208james--team-play-under-tuchel-an",
@@ -542,60 +590,6 @@
       ],
       "date": "2021-02-07T23:15:00.000Z",
       "description": "Chelsea secured a third straight Premier League win with a hard-fought success at Sheffield United and you can watch the best of the action now.",
-      "matchId": 2128513
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210207match-report--sheffield-united-v",
-      "type": "NewsCard",
-      "timestamp": "2021-02-07T21:20:00.000Z",
-      "orderDate": "2021-02-07T21:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/07/match-report--sheffield-united-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match Report: Sheffield United 1 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/match-report--sheffield-united-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-07T21:20:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/07/match-report--sheffield-united-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mount and Jorginho",
-          "id": "editorial/match-reports/2020-21/sheff-utd-away/Jorginho-goal-celebrations-Sheffield-United-away",
-          "gravity": "auto",
-          "aspectRatio": 1.7079037,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Sheffield United 1 Chelsea 2",
-      "publishDate": "2021-02-07T21:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/07/match-report--sheffield-united-vs-chelsea.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Sheffield United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_sheffield-united"
-        }
-      ],
-      "date": "2021-02-07T21:20:00.000Z",
-      "description": "For the second time in four days a Jorginho penalty proved the difference on the road as the Blues moved up to fifth in the table with a hard-fought win at Bramall Lane.",
       "matchId": 2128513
     }
   ]
