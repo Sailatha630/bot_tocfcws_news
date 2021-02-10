@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 355,
+    "totalItems": 356,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 36,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20200210champions-league-change-of-venue",
+      "type": "NewsCard",
+      "timestamp": "2021-02-17T10:09:00.000Z",
+      "orderDate": "2021-02-17T10:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2020/02/10/champions-league-change-of-venue",
+        "type": "NewsCard",
+        "title": "Champions League change of venue",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/02/10/champions-league-change-of-venue.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-17T10:09:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2020/02/10/champions-league-change-of-venue",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " National stadium in Bucharest",
+          "id": "chelsea-app/National-Arena-Bucharest-GettyImages-153434253",
+          "gravity": "auto",
+          "aspectRatio": 1.502439,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Champions League change of venue",
+      "publishDate": "2021-02-17T10:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2020/02/10/champions-league-change-of-venue.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-02-17T10:09:00.000Z",
+      "description": "UEFA has confirmed that Chelsea’s Champions League Round of 16 first leg match away against Atletico Madrid and will now be played at the Arena Nationala in Bucharest in Romania.",
+      "matchId": 2180556
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210210thiago-silva-s-netflix-recommend",
@@ -459,49 +508,6 @@
       "date": "2021-02-09T11:00:00.000Z",
       "description": "Chelsea Women take on rivals Arsenal in the Barclays FA Women’s Super League on Wednesday evening and here we give you all the key information you need ahead of the London derby.",
       "matchId": 2138454
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210209what-can-you-watch-on-chelsea-pl",
-      "type": "NewsCard",
-      "timestamp": "2021-02-09T10:14:00.000Z",
-      "orderDate": "2021-02-09T00:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/09/what-can-you-watch-on-chelsea-platforms-this-week-",
-        "type": "NewsCard",
-        "title": "What can you watch on Chelsea platforms this week?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/09/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-09T10:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/09/what-can-you-watch-on-chelsea-platforms-this-week-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Live press conference",
-          "id": "editorial/news/2021/02/01/tuchel_live_stream_logo",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "What can you watch on Chelsea platforms this week?",
-      "publishDate": "2021-02-09T10:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/09/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-09T10:14:00.000Z",
-      "description": "The men's first team and our FA Cup and Premier League campaigns dominate the live video coverage on the Chelsea website and app this week…"
     }
   ]
 }
