@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 356,
+    "totalItems": 357,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 36,
@@ -98,6 +98,54 @@
       ],
       "date": "2021-02-10T05:00:00.000Z",
       "description": "Running out of ideas for what to watch on television during lockdown? We've turned to Thiago Silva for help!"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210210media-watch--chelsea-monitoring-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-10T10:11:00.000Z",
+      "orderDate": "2021-02-10T01:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/10/media-watch--chelsea-monitoring-varane--low-on-attractiveness-of",
+        "type": "NewsCard",
+        "title": "Media Watch: Blues monitoring Varane, Low on irresistible Chelsea challenge and Van Ginkel reveals incredible comeback",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/media-watch--chelsea-monitoring-varane--low-on-attractiveness-of.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-10T10:11:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/10/media-watch--chelsea-monitoring-varane--low-on-attractiveness-of",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Varane",
+          "id": "editorial/media-watch/Varane_MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Blues monitoring Varane, Low on irresistible Chelsea challenge and Van Ginkel reveals incredible comeback",
+      "publishDate": "2021-02-10T10:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/media-watch--chelsea-monitoring-varane--low-on-attractiveness-of.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Marco Van Ginkel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marco-van-ginkel"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-02-10T10:11:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are keeping a close eye on Raphael Varane and Zsolt Low reveals why Thomas Tuchel took the Blues job."
     },
     {
       "contentType": "Match Preview",
@@ -464,50 +512,6 @@
       ],
       "date": "2021-02-09T04:00:00.000Z",
       "description": "Marcos Alonso's wonderful volley against Burnley has been named the Chelsea Goal of the Month for January in a poll of Blues supporters."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210209chelsea-women-v-arsenal-women--k",
-      "type": "NewsCard",
-      "timestamp": "2021-02-09T11:00:00.000Z",
-      "orderDate": "2021-02-09T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/09/chelsea-women-v-arsenal-women--kick-off-time--how-to-follow-the-",
-        "type": "NewsCard",
-        "title": "Chelsea Women v Arsenal Women preview: Kick-off time, how to follow the match and more; England squad news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/09/chelsea-women-v-arsenal-women--kick-off-time--how-to-follow-the-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-09T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/09/chelsea-women-v-arsenal-women--kick-off-time--how-to-follow-the-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Arsenal_Ingle",
-          "gravity": "auto",
-          "aspectRatio": 1.5002238,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v Arsenal Women preview: Kick-off time, how to follow the match and more; England squad news",
-      "publishDate": "2021-02-09T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/09/chelsea-women-v-arsenal-women--kick-off-time--how-to-follow-the-.html",
-      "readTimeInMins": 37,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-02-09T11:00:00.000Z",
-      "description": "Chelsea Women take on rivals Arsenal in the Barclays FA Women’s Super League on Wednesday evening and here we give you all the key information you need ahead of the London derby.",
-      "matchId": 2138454
     }
   ]
 }
