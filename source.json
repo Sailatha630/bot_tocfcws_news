@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 353,
+    "totalItems": 354,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 36,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210210thiago-silva-s-netflix-recommend",
+      "type": "NewsCard",
+      "timestamp": "2021-02-10T05:00:00.000Z",
+      "orderDate": "2021-02-10T05:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/10/thiago-silva-s-netflix-recommendations",
+        "type": "NewsCard",
+        "title": "Thiago Silva's Netflix recommendations",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/thiago-silva-s-netflix-recommendations.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-10T05:00:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/02/10/thiago-silva-s-netflix-recommendations",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva",
+          "id": "editorial/news/2021/02/09/thiago-silva-stock-media-day",
+          "gravity": "auto",
+          "aspectRatio": 0.6666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thiago Silva's Netflix recommendations",
+      "publishDate": "2021-02-10T05:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/thiago-silva-s-netflix-recommendations.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        }
+      ],
+      "date": "2021-02-10T05:00:00.000Z",
+      "description": "Running out of ideas for what to watch on television during lockdown? We've turned to Thiago Silva for help!"
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210209chilwell-recalls-his-big-break-i",
@@ -473,65 +516,6 @@
       ],
       "date": "2021-02-08T15:42:00.000Z",
       "description": "As one of the players involved in Chelsea’s 3-0 defeat on our previous visit to Bramall Lane back in July, Reece James was taking nothing for granted when we played the Premier League’s bottom club Sheffield United on Sunday evening. This time the Blues returned to London with a much more favourable result and three points that move us up to fifth in the table.",
-      "matchId": 2128513
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210208the-debrief--all-action-kovacic-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-08T12:09:00.000Z",
-      "orderDate": "2021-02-08T12:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/08/the-debrief--all-action-kovacic--decisive-werner-and-courageous-",
-        "type": "NewsCard",
-        "title": "The Debrief: All-action Kovacic, decisive Werner and courageous Christensen help cut down Blades",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/08/the-debrief--all-action-kovacic--decisive-werner-and-courageous-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-08T12:09:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/08/the-debrief--all-action-kovacic--decisive-werner-and-courageous-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Debrief graphic",
-          "id": "editorial/news/2021/02/08/Debrief-vs-Sheff-Utd-header",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: All-action Kovacic, decisive Werner and courageous Christensen help cut down Blades",
-      "publishDate": "2021-02-08T12:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/08/the-debrief--all-action-kovacic--decisive-werner-and-courageous-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2021-02-08T12:09:00.000Z",
-      "description": "Our statistical analysis of yesterday’s Premier League victory against Sheffield United highlights the importance of players throughout the spine of the team, including two assists for Timo Werner and a resilient rearguard effort…",
       "matchId": 2128513
     }
   ]
