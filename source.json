@@ -1,12 +1,57 @@
 {
   "pagination": {
-    "totalItems": 361,
+    "totalItems": 362,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 37,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210210women-s-report--chelsea-3-arsena",
+      "type": "NewsCard",
+      "timestamp": "2021-02-10T21:06:00.000Z",
+      "orderDate": "2021-02-10T21:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/10/women-s-report--chelsea-3-arsenal-0",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 3 Arsenal 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/women-s-report--chelsea-3-arsenal-0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-10T21:06:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/02/10/women-s-report--chelsea-3-arsenal-0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pernille Harder celebrates with Sophie Ingle",
+          "id": "editorial/match-reports/2020-21/women-arsenal-home/Women-Arsenal-Harder",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Chelsea 3 Arsenal 0",
+      "publishDate": "2021-02-10T21:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/women-s-report--chelsea-3-arsenal-0.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-02-10T21:06:00.000Z",
+      "description": "Pernille Harder’s brace early in the second half helped to settle an absorbing London derby that will have huge ramifications for both sides' Barclays Women’s Super League title hopes.",
+      "matchId": 2138454
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210210ziyech-and-kante-to-start-at-bar",
@@ -500,43 +545,6 @@
       "date": "2021-02-09T14:46:00.000Z",
       "description": "Ahead of our trip to Yorkshire to face Barnsley, Ben Chilwell reveals how a loan spell at another Championship side in that part of the country gave him his first taste of senior football and was the launch pad for the journey that would bring him to Stamford Bridge.",
       "matchId": 2187322
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210209chelsea-s-premier-league-penalty",
-      "type": "NewsCard",
-      "timestamp": "2021-02-09T17:13:00.000Z",
-      "orderDate": "2021-02-09T13:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/09/chelsea-s-premier-league-penalty-takers---the-quiz--what-do-you-",
-        "type": "NewsCard",
-        "title": "Chelsea’s Premier League penalty takers – the quiz! What do you know about Jorginho and co?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/09/chelsea-s-premier-league-penalty-takers---the-quiz--what-do-you-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-09T17:13:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/09/chelsea-s-premier-league-penalty-takers---the-quiz--what-do-you-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jorginho scoring a penalty",
-          "id": "editorial/match-reports/2020-21/tottenham-away/jorginho-penalty-1-tottenham",
-          "gravity": "auto",
-          "aspectRatio": 1.4858757,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea’s Premier League penalty takers – the quiz! What do you know about Jorginho and co?",
-      "publishDate": "2021-02-09T17:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/09/chelsea-s-premier-league-penalty-takers---the-quiz--what-do-you-.html",
-      "readTimeInMins": 7,
-      "tags": [],
-      "date": "2021-02-09T17:13:00.000Z",
-      "description": "Jorginho’s recent penalty successes have established him at the top of one Premier League list – but how much do you know about other Chelsea players’ records from the spot over the years? Take our quiz to find out…"
     }
   ]
 }
