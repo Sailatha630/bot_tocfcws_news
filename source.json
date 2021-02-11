@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 369,
+    "totalItems": 370,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 37,
@@ -8,40 +8,63 @@
   },
   "newsFeed": [
     {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210211help-the-chelsea-foundation-supp",
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210211tuchel-assesses-impact-of-atleti",
       "type": "NewsCard",
-      "timestamp": "2021-02-11T12:00:00.000Z",
-      "orderDate": "2021-02-11T11:10:00.000Z",
+      "timestamp": "2021-02-11T13:00:00.000Z",
+      "orderDate": "2021-02-11T13:00:00.000Z",
       "link": {
-        "path": "/content/chelseafc/en/news/2021/02/11/help-the-chelsea-foundation-support-our-communities",
+        "path": "/content/chelseafc/en/news/2021/02/11/tuchel-assesses-impact-of-atletico-tie-in-romania-and-recalls-ch",
         "type": "NewsCard",
-        "title": "Help the Chelsea Foundation support our communities",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/help-the-chelsea-foundation-support-our-communities.html",
+        "title": "Tuchel assesses impact of Atletico tie in Romania and recalls childhood FA Cup memories",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/tuchel-assesses-impact-of-atletico-tie-in-romania-and-recalls-ch.html",
         "external": true,
         "target": "sameWindow",
         "categories": [],
-        "timestamp": "2021-02-11T12:00:00.000Z"
+        "timestamp": "2021-02-11T13:00:00.000Z"
       },
       "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/11/help-the-chelsea-foundation-support-our-communities",
+      "path": "/content/chelseafc/en/news/2021/02/11/tuchel-assesses-impact-of-atletico-tie-in-romania-and-recalls-ch",
       "media": {
         "type": "image-component",
         "image": {
           "type": "ImageCloudinary",
-          "id": "editorial/news/2021/02/11/ChelseaFoundation_FansAppeal",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/02/11/Tuchel-stock",
           "gravity": "auto",
-          "aspectRatio": 1,
+          "aspectRatio": 1.8204334,
           "cropMode": "fill"
         }
       },
-      "content": "Help the Chelsea Foundation support our communities",
-      "publishDate": "2021-02-11T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/help-the-chelsea-foundation-support-our-communities.html",
+      "content": "Tuchel assesses impact of Atletico tie in Romania and recalls childhood FA Cup memories",
+      "publishDate": "2021-02-11T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/tuchel-assesses-impact-of-atletico-tie-in-romania-and-recalls-ch.html",
       "readTimeInMins": 9,
-      "tags": [],
-      "date": "2021-02-11T12:00:00.000Z",
-      "description": "Chelsea Foundation continues to deliver a range of programmes during the latest lockdown to help those most in need, and it is now calling on fans to help support our wider communities and increase the number of people helped."
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-02-11T13:00:00.000Z",
+      "description": "Following confirmation that our Champions League away tie against Atletico Madrid will be played in Bucharest, Thomas Tuchel acknowledged the Spaniards would be disappointed to lose home advantage but insisted they would still be formidable opponents.",
+      "matchId": 2187322
     },
     {
       "contentType": "Columnist",
@@ -105,6 +128,42 @@
       },
       "date": "2021-02-11T10:51:00.000Z",
       "description": "With numbers heading in the right direction for his football team and for some counts in the wider world, Chelsea fan and columnist Giles Smith reviews a statistically dominant derby win, playing ‘away’ in the Champions League, and why you might want to give a gift to the Tottenham fan in your life…"
+    },
+    {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210211help-the-chelsea-foundation-supp",
+      "type": "NewsCard",
+      "timestamp": "2021-02-11T12:00:00.000Z",
+      "orderDate": "2021-02-11T09:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/11/help-the-chelsea-foundation-support-our-communities",
+        "type": "NewsCard",
+        "title": "Help the Chelsea Foundation support our communities",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/help-the-chelsea-foundation-support-our-communities.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-11T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/11/help-the-chelsea-foundation-support-our-communities",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/02/11/ChelseaFoundation_FansAppeal",
+          "gravity": "auto",
+          "aspectRatio": 1,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Help the Chelsea Foundation support our communities",
+      "publishDate": "2021-02-11T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/help-the-chelsea-foundation-support-our-communities.html",
+      "readTimeInMins": 9,
+      "tags": [],
+      "date": "2021-02-11T12:00:00.000Z",
+      "description": "Chelsea Foundation continues to deliver a range of programmes during the latest lockdown to help those most in need, and it is now calling on fans to help support our wider communities and increase the number of people helped."
     },
     {
       "contentType": "Match Preview",
@@ -482,60 +541,6 @@
       ],
       "date": "2021-02-10T13:49:00.000Z",
       "description": "Thomas Tuchel has confirmed that both N’Golo Kante and Hakim Ziyech will start tomorrow’s FA Cup tie at Barnsley, although Thiago Silva remains sidelined through injury.",
-      "matchId": 2187322
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210210tuchel--targeting-prestigious-fa",
-      "type": "NewsCard",
-      "timestamp": "2021-02-10T15:26:00.000Z",
-      "orderDate": "2021-02-10T12:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/10/tuchel--targeting-prestigious-fa-cup",
-        "type": "NewsCard",
-        "title": "Tuchel: Targeting prestigious FA Cup",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/tuchel--targeting-prestigious-fa-cup.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-10T15:26:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/10/tuchel--targeting-prestigious-fa-cup",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea training",
-          "id": "editorial/news/2021/02/10/Tuchel_GettyImages-1231064675",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Targeting prestigious FA Cup",
-      "publishDate": "2021-02-10T15:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/tuchel--targeting-prestigious-fa-cup.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-10T15:26:00.000Z",
-      "description": "Thomas Tuchel is excited to be competing for the first time in a competition he has followed since he was a boy...",
       "matchId": 2187322
     }
   ]
