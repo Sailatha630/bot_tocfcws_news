@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 370,
+    "totalItems": 371,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 37,
+    "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
@@ -392,6 +392,50 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210211marcos-alonso-exclusive-in-newca",
+      "type": "NewsCard",
+      "timestamp": "2021-02-11T12:46:00.000Z",
+      "orderDate": "2021-02-11T00:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/11/marcos-alonso-exclusive-in-newcastle-matchday-programme--availab",
+        "type": "NewsCard",
+        "title": "Marcos Alonso exclusive in Newcastle matchday programme, available to order now",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/marcos-alonso-exclusive-in-newcastle-matchday-programme--availab.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-11T12:46:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/11/marcos-alonso-exclusive-in-newcastle-matchday-programme--availab",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Marcos Alonso",
+          "id": "editorial/match-reports/2020-21/burnley-home/GettyImages-1299600178",
+          "gravity": "face",
+          "aspectRatio": 0.6666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Marcos Alonso exclusive in Newcastle matchday programme, available to order now",
+      "publishDate": "2021-02-11T12:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/marcos-alonso-exclusive-in-newcastle-matchday-programme--availab.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2021-02-11T12:46:00.000Z",
+      "description": "The programme for Monday night’s Premier League game against Newcastle is available now.",
+      "matchId": 2128518
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210211fixture-details-confirmed-for-co",
       "type": "NewsCard",
       "timestamp": "2021-02-11T11:00:00.000Z",
@@ -483,65 +527,6 @@
       "date": "2021-02-10T21:06:00.000Z",
       "description": "Pernille Harder’s brace early in the second half helped to settle an absorbing London derby that will have huge ramifications for both sides' Barclays Women’s Super League title hopes.",
       "matchId": 2138454
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210210ziyech-and-kante-to-start-at-bar",
-      "type": "NewsCard",
-      "timestamp": "2021-02-10T13:49:00.000Z",
-      "orderDate": "2021-02-10T13:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/10/ziyech-and-kante-to-start-at-barnsley-but-defender-misses-out",
-        "type": "NewsCard",
-        "title": "Ziyech and Kante to start at Barnsley but defender misses out",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/ziyech-and-kante-to-start-at-barnsley-but-defender-misses-out.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-10T13:49:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/10/ziyech-and-kante-to-start-at-barnsley-but-defender-misses-out",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2020/12/kante_training_champions_league",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ziyech and Kante to start at Barnsley but defender misses out",
-      "publishDate": "2021-02-10T13:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/ziyech-and-kante-to-start-at-barnsley-but-defender-misses-out.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2021-02-10T13:49:00.000Z",
-      "description": "Thomas Tuchel has confirmed that both N’Golo Kante and Hakim Ziyech will start tomorrow’s FA Cup tie at Barnsley, although Thiago Silva remains sidelined through injury.",
-      "matchId": 2187322
     }
   ]
 }
