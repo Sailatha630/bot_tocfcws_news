@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 373,
+    "totalItems": 374,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210211thomas-tuchel-s-history-in-domes",
+      "type": "NewsCard",
+      "timestamp": "2021-02-11T15:00:00.000Z",
+      "orderDate": "2021-02-11T15:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/11/thomas-tuchel-s-history-in-domestic-cup-competitions",
+        "type": "NewsCard",
+        "title": "Thomas Tuchel's history in domestic cup competitions",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/thomas-tuchel-s-history-in-domestic-cup-competitions.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-11T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/11/thomas-tuchel-s-history-in-domestic-cup-competitions",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel lifts the german Cup",
+          "id": "editorial/news/2021/02/11/tuchel-german-cup-2017",
+          "gravity": "south",
+          "aspectRatio": 1.4850066,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thomas Tuchel's history in domestic cup competitions",
+      "publishDate": "2021-02-11T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/thomas-tuchel-s-history-in-domestic-cup-competitions.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-11T15:00:00.000Z",
+      "description": "Ahead of Thomas Tuchel’s first cup game in charge of Chelsea tonight, we delve into his history in domestic knockout competitions to find out more about his selections, shocks and successes in Germany and France."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210211tuchel-assesses-impact-of-atleti",
@@ -497,50 +550,6 @@
       "date": "2021-02-11T00:30:00.000Z",
       "description": "With attention switching from the Premier League to the FA Cup this midweek, we continue to set the scene for our game in South Yorkshire with key information on the Blues, our opponents and our previous meetings...",
       "matchId": 2187322
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210211marcos-alonso-exclusive-in-newca",
-      "type": "NewsCard",
-      "timestamp": "2021-02-11T12:46:00.000Z",
-      "orderDate": "2021-02-11T00:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/11/marcos-alonso-exclusive-in-newcastle-matchday-programme--availab",
-        "type": "NewsCard",
-        "title": "Marcos Alonso exclusive in Newcastle matchday programme, available to order now",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/marcos-alonso-exclusive-in-newcastle-matchday-programme--availab.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-11T12:46:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/11/marcos-alonso-exclusive-in-newcastle-matchday-programme--availab",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Marcos Alonso",
-          "id": "editorial/match-reports/2020-21/burnley-home/GettyImages-1299600178",
-          "gravity": "face",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Marcos Alonso exclusive in Newcastle matchday programme, available to order now",
-      "publishDate": "2021-02-11T12:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/marcos-alonso-exclusive-in-newcastle-matchday-programme--availab.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2021-02-11T12:46:00.000Z",
-      "description": "The programme for Monday night’s Premier League game against Newcastle is available now.",
-      "matchId": 2128518
     }
   ]
 }
