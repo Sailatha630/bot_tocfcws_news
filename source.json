@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 374,
+    "totalItems": 375,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210211chelsea-line-up-vs-barnsley",
+      "type": "NewsCard",
+      "timestamp": "2021-02-11T19:00:00.000Z",
+      "orderDate": "2021-02-11T19:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/11/chelsea-line-up-vs-barnsley",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Barnsley",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/chelsea-line-up-vs-barnsley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-11T19:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/11/chelsea-line-up-vs-barnsley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kante shirt",
+          "id": "editorial/match-reports/2020-21/barnsley-away/Kante-dressing-room-Barnsley-away",
+          "gravity": "auto",
+          "aspectRatio": 1.2701272,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Barnsley",
+      "publishDate": "2021-02-11T19:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/chelsea-line-up-vs-barnsley.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-11T19:00:00.000Z",
+      "description": "As he indicated yesterday, Thomas Tuchel hands starts to Kepa Arrizabalaga, N'Golo Kante, Hakim Ziyech and Billy Gilmour.",
+      "matchId": 2187322
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210211thomas-tuchel-s-history-in-domes",
@@ -500,55 +549,6 @@
       ],
       "date": "2021-02-10T22:30:00.000Z",
       "description": "Thomas Tuchel has confirmed that Kepa Arrizabalaga will start for Chelsea in the FA Cup tomorrow and Billy Gilmour also has ‘a big chance’ to feature, although Timo Werner will not be risked for the trip to Barnsley.",
-      "matchId": 2187322
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210211barnsley-vs-chelsea---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2021-02-11T00:30:00.000Z",
-      "orderDate": "2021-02-11T00:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/11/barnsley-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Barnsley vs Chelsea - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/barnsley-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-11T00:30:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/02/11/barnsley-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Callum Hudson-Odoi playing against Chelsea",
-          "id": "editorial/news/2021/02/10/carabao_cup_barnsley",
-          "gravity": "auto",
-          "aspectRatio": 1.5034722,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Barnsley vs Chelsea - the stats",
-      "publishDate": "2021-02-11T00:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/barnsley-vs-chelsea---the-stats.html",
-      "readTimeInMins": 26,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-11T00:30:00.000Z",
-      "description": "With attention switching from the Premier League to the FA Cup this midweek, we continue to set the scene for our game in South Yorkshire with key information on the Blues, our opponents and our previous meetings...",
       "matchId": 2187322
     }
   ]
