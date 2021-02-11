@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 377,
+    "totalItems": 378,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210211tuchel-reacts-to-barnsley-win",
+      "type": "NewsCard",
+      "timestamp": "2021-02-11T22:20:00.000Z",
+      "orderDate": "2021-02-11T22:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/11/tuchel-reacts-to-barnsley-win",
+        "type": "NewsCard",
+        "title": "Tuchel describes dealing with difficulties at Barnsley and highlights player who made a difference",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/tuchel-reacts-to-barnsley-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-11T22:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/11/tuchel-reacts-to-barnsley-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/match-reports/2020-21/barnsley-away/Tuchel-Barnsley-a-1",
+          "gravity": "auto",
+          "aspectRatio": 1.5217718,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel describes dealing with difficulties at Barnsley and highlights player who made a difference",
+      "publishDate": "2021-02-11T22:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/tuchel-reacts-to-barnsley-win.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-11T22:20:00.000Z",
+      "description": "Thomas Tuchel was fully prepared to admit he is thankful to have left Barnsley with a win on Thursday night, but as a source of satisfaction, pointed to the bottom-line outcome which has his side sitting among the last-eight of this season’s FA Cup.",
+      "matchId": 2187322
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210211match-report--barnsley-vs-chelse",
@@ -471,55 +525,6 @@
       "date": "2021-02-11T14:11:00.000Z",
       "description": "Manager Emma Hayes could not speak more highly of her team’s performance last night as we returned to winning ways with a London derby victory over Arsenal in the Barclays FA Women’s Super League.",
       "matchId": 2138454
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210211pre-match-briefing--barnsley-vs-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-11T07:32:00.000Z",
-      "orderDate": "2021-02-11T07:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/11/pre-match-briefing--barnsley-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Barnsley vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/pre-match-briefing--barnsley-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-11T07:32:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/02/11/pre-match-briefing--barnsley-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Oakwell Stadium",
-          "id": "editorial/news/2021/02/10/barnsley_stadium_view_oakwell",
-          "gravity": "auto",
-          "aspectRatio": 1.5890571,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Barnsley vs Chelsea",
-      "publishDate": "2021-02-11T07:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/pre-match-briefing--barnsley-vs-chelsea.html",
-      "readTimeInMins": 27,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-11T07:32:00.000Z",
-      "description": "It is left to Chelsea and our opponents from South Yorkshire to conclude the fifth round matches in this season’s Emirates FA Cup. Club historian Rick Glanvill and club statistician Paul Dutton preview the Blues taking on the Tykes…",
-      "matchId": 2187322
     }
   ]
 }
