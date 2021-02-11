@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 376,
+    "totalItems": 377,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210211match-report--barnsley-vs-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-02-11T21:41:00.000Z",
+      "orderDate": "2021-02-11T21:41:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/11/match-report--barnsley-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Barnsley 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/match-report--barnsley-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-11T21:41:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/11/match-report--barnsley-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Tammy Abraham",
+          "id": "editorial/match-reports/2020-21/barnsley-away/Abraham-celebration-Barnsley-a-1",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Barnsley 0 Chelsea 1",
+      "publishDate": "2021-02-11T21:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/match-report--barnsley-vs-chelsea.html",
+      "readTimeInMins": 21,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-11T21:41:00.000Z",
+      "description": "On a freezing night in Yorkshire, the Blues had to wait until midway through the second half to find a way through a spirited Barnsley side, but a Tammy Abraham goal was sufficient to send us into next round of the FA Cup, our first success over the Tykes in this competition after two previous defeats.",
+      "matchId": 2187322
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210211potential-fa-cup-quarter-final-o",
@@ -471,64 +520,6 @@
       "date": "2021-02-11T07:32:00.000Z",
       "description": "It is left to Chelsea and our opponents from South Yorkshire to conclude the fifth round matches in this season’s Emirates FA Cup. Club historian Rick Glanvill and club statistician Paul Dutton preview the Blues taking on the Tykes…",
       "matchId": 2187322
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210211media-watch--mount-recalls-first",
-      "type": "NewsCard",
-      "timestamp": "2021-02-11T10:46:00.000Z",
-      "orderDate": "2021-02-11T01:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/11/media-watch--mount-recalls-first-havertz-encounter--hudson-odoi-",
-        "type": "NewsCard",
-        "title": "Media Watch: Mount recalls first Havertz encounter, Hudson-Odoi speaks about Tuchel’s approach to youth and Barnsley manager praises our head coach",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/media-watch--mount-recalls-first-havertz-encounter--hudson-odoi-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-11T10:46:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/11/media-watch--mount-recalls-first-havertz-encounter--hudson-odoi-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Mount-MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Mount recalls first Havertz encounter, Hudson-Odoi speaks about Tuchel’s approach to youth and Barnsley manager praises our head coach",
-      "publishDate": "2021-02-11T10:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/media-watch--mount-recalls-first-havertz-encounter--hudson-odoi-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-02-11T10:46:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Mason Mount remembers the first time he came across Kai Havertz and Callum Hudson-Odoi reveals Thomas Tuchel’s instant impact."
     }
   ]
 }
