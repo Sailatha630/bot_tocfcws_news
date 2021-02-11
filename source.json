@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 375,
+    "totalItems": 376,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210211potential-fa-cup-quarter-final-o",
+      "type": "NewsCard",
+      "timestamp": "2021-02-11T19:45:00.000Z",
+      "orderDate": "2021-02-11T19:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/11/potential-fa-cup-quarter-final-opponents-drawn",
+        "type": "NewsCard",
+        "title": "Potential FA Cup quarter-final opponents drawn",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/potential-fa-cup-quarter-final-opponents-drawn.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-11T19:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/11/potential-fa-cup-quarter-final-opponents-drawn",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " FA Cup stock",
+          "id": "editorial/news/2020/11/FA_CUP_trophy_stock_wembley_2020",
+          "gravity": "auto",
+          "aspectRatio": 1.4983714,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Potential FA Cup quarter-final opponents drawn",
+      "publishDate": "2021-02-11T19:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/potential-fa-cup-quarter-final-opponents-drawn.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-11T19:45:00.000Z",
+      "description": "The winners of tonight's FA Cup tie between Chelsea and Barnsley will face a home tie in the quarter-finals..."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210211chelsea-line-up-vs-barnsley",
@@ -481,75 +529,6 @@
       ],
       "date": "2021-02-11T10:46:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Mason Mount remembers the first time he came across Kai Havertz and Callum Hudson-Odoi reveals Thomas Tuchel’s instant impact."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210210tuchel-outlines-chances-for-kepa",
-      "type": "NewsCard",
-      "timestamp": "2021-02-10T22:30:00.000Z",
-      "orderDate": "2021-02-11T01:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/10/tuchel-outlines-chances-for-kepa-and-gilmour-but-no-risks-taken-",
-        "type": "NewsCard",
-        "title": "Tuchel outlines chances for Kepa and Gilmour but no risks taken on Werner",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/tuchel-outlines-chances-for-kepa-and-gilmour-but-no-risks-taken-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-10T22:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/10/tuchel-outlines-chances-for-kepa-and-gilmour-but-no-risks-taken-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kepa",
-          "id": "editorial/news/2021/02/10/Kepa-training-pre-Barnsley",
-          "gravity": "west",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel outlines chances for Kepa and Gilmour but no risks taken on Werner",
-      "publishDate": "2021-02-10T22:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/10/tuchel-outlines-chances-for-kepa-and-gilmour-but-no-risks-taken-.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Kepa Arrizabalaga ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kepa-arrizabalaga"
-        },
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        }
-      ],
-      "date": "2021-02-10T22:30:00.000Z",
-      "description": "Thomas Tuchel has confirmed that Kepa Arrizabalaga will start for Chelsea in the FA Cup tomorrow and Billy Gilmour also has ‘a big chance’ to feature, although Timo Werner will not be risked for the trip to Barnsley.",
-      "matchId": 2187322
     }
   ]
 }
