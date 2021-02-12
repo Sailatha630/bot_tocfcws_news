@@ -1,12 +1,56 @@
 {
   "pagination": {
-    "totalItems": 390,
+    "totalItems": 391,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 39,
+    "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210212gallery--recover-and-refocus-on-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-12T19:20:00.000Z",
+      "orderDate": "2021-02-12T19:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/12/gallery--recover-and-refocus-on-newcastle",
+        "type": "NewsCard",
+        "title": "Gallery: Recover and refocus on Newcastle",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/gallery--recover-and-refocus-on-newcastle.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-12T19:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/12/gallery--recover-and-refocus-on-newcastle",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chilwell and Werner",
+          "id": "editorial/news/2021/02/12/Chilwell-Werner-training-pre-Newcastle",
+          "gravity": "faces",
+          "aspectRatio": 1.5002853,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Recover and refocus on Newcastle",
+      "publishDate": "2021-02-12T19:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/gallery--recover-and-refocus-on-newcastle.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-12T19:20:00.000Z",
+      "description": "The Blues were back to work at Cobham today, with the onus on recovery and refocusing ahead of Monday night's clash with Newcastle.",
+      "matchId": 2128518
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210212tuchel-on-finding-the-right-bala",
@@ -498,49 +542,6 @@
       ],
       "date": "2021-02-12T10:14:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are monitoring Christian Eriksen and Micah Richards believes Marcos Alonso can be a vital player for Thomas Tuchel."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210212ingle-signs-new-blues-deal",
-      "type": "NewsCard",
-      "timestamp": "2021-02-12T10:00:00.000Z",
-      "orderDate": "2021-02-12T00:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/12/ingle-signs-new-blues-deal",
-        "type": "NewsCard",
-        "title": "Ingle signs new Blues deal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/ingle-signs-new-blues-deal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-12T10:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/12/ingle-signs-new-blues-deal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Sophie_Ingle_Contract_Extension3",
-          "gravity": "auto",
-          "aspectRatio": 1.5025108,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ingle signs new Blues deal",
-      "publishDate": "2021-02-12T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/ingle-signs-new-blues-deal.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-02-12T10:00:00.000Z",
-      "description": "Chelsea FC Women midfielder Sophie Ingle is the latest player to sign a new contract, extending her stay with the Blues until June 2023."
     }
   ]
 }
