@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 378,
+    "totalItems": 379,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210212tammy-on-playing-his-part-in-bot",
+      "type": "NewsCard",
+      "timestamp": "2021-02-12T07:31:00.000Z",
+      "orderDate": "2021-02-12T07:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/12/tammy-on-playing-his-part-in-both-boxes-",
+        "type": "NewsCard",
+        "title": "Abraham on playing his part in both boxes in Barnsley win",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/tammy-on-playing-his-part-in-both-boxes-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-12T07:31:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/12/tammy-on-playing-his-part-in-both-boxes-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Abraham-stock=GettyImages-1301648117",
+          "gravity": "auto",
+          "aspectRatio": 1.499684,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Abraham on playing his part in both boxes in Barnsley win",
+      "publishDate": "2021-02-12T07:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/tammy-on-playing-his-part-in-both-boxes-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Tammy Abraham",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tammy-abraham"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-12T07:31:00.000Z",
+      "description": "It is not often you see a striker celebrate a clearance more than a goal but that was certainly the case for Tammy Abraham at Oakwell last night!",
+      "matchId": 2187322
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210211tuchel-reacts-to-barnsley-win",
@@ -471,60 +524,6 @@
       "tags": [],
       "date": "2021-02-11T12:00:00.000Z",
       "description": "Chelsea Foundation continues to deliver a range of programmes during the latest lockdown to help those most in need, and it is now calling on fans to help support our wider communities and increase the number of people helped."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210211emma-hayes--derby-wins-are-great",
-      "type": "NewsCard",
-      "timestamp": "2021-02-11T14:11:00.000Z",
-      "orderDate": "2021-02-11T08:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/11/emma-hayes--derby-wins-are-great",
-        "type": "NewsCard",
-        "title": "Emma Hayes on London derby victory",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/emma-hayes--derby-wins-are-great.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-11T14:11:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/11/emma-hayes--derby-wins-are-great",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Hayes_post_Arsenal",
-          "gravity": "auto",
-          "aspectRatio": 1.5023664,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emma Hayes on London derby victory",
-      "publishDate": "2021-02-11T14:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/emma-hayes--derby-wins-are-great.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-02-11T14:11:00.000Z",
-      "description": "Manager Emma Hayes could not speak more highly of her team’s performance last night as we returned to winning ways with a London derby victory over Arsenal in the Barclays FA Women’s Super League.",
-      "matchId": 2138454
     }
   ]
 }
