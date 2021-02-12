@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 386,
+    "totalItems": 387,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 39,
@@ -55,6 +55,60 @@
       "date": "2021-02-12T11:27:00.000Z",
       "description": "Thomas Tuchel has provided an update on the fitness of four players ahead of our game against Newcastle United on Monday night…",
       "matchId": 2128518
+    },
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210212the-debrief--all-round-abraham-m",
+      "type": "NewsCard",
+      "timestamp": "2021-02-12T11:36:00.000Z",
+      "orderDate": "2021-02-12T10:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/12/the-debrief--all-round-abraham-maintains-impressive-season-stats",
+        "type": "NewsCard",
+        "title": "The Debrief: All-round Abraham maintains impressive season stats as battling Barnsley beaten",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/the-debrief--all-round-abraham-maintains-impressive-season-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-12T11:36:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/12/the-debrief--all-round-abraham-maintains-impressive-season-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Debrief",
+          "id": "editorial/news/2021/02/12/the-debrief-web-barnsley-main",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: All-round Abraham maintains impressive season stats as battling Barnsley beaten",
+      "publishDate": "2021-02-12T11:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/the-debrief--all-round-abraham-maintains-impressive-season-stats.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        }
+      ],
+      "date": "2021-02-12T11:36:00.000Z",
+      "description": "The statistics from last night’s FA Cup win at Barnsley highlight the influence of Tammy Abraham and also underline just what a challenge our hosts posed us…",
+      "matchId": 2187322
     },
     {
       "contentType": "News",
@@ -424,55 +478,6 @@
       ],
       "date": "2021-02-11T22:20:00.000Z",
       "description": "Thomas Tuchel was fully prepared to admit he is thankful to have left Barnsley with a win on Thursday night, but as a source of satisfaction, pointed to the bottom-line outcome which has his side sitting among the last-eight of this season’s FA Cup.",
-      "matchId": 2187322
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210211match-report--barnsley-vs-chelse",
-      "type": "NewsCard",
-      "timestamp": "2021-02-11T21:41:00.000Z",
-      "orderDate": "2021-02-11T21:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/11/match-report--barnsley-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match report: Barnsley 0 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/match-report--barnsley-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-11T21:41:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/11/match-report--barnsley-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Tammy Abraham",
-          "id": "editorial/match-reports/2020-21/barnsley-away/Abraham-celebration-Barnsley-a-1",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Barnsley 0 Chelsea 1",
-      "publishDate": "2021-02-11T21:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/11/match-report--barnsley-vs-chelsea.html",
-      "readTimeInMins": 22,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-11T21:41:00.000Z",
-      "description": "On a freezing night in Yorkshire, the Blues had to wait until midway through the second half to find a way through a spirited Barnsley side, but a Tammy Abraham goal was sufficient to send us into next round of the FA Cup, our first success over the Tykes in this competition after two previous defeats.",
       "matchId": 2187322
     }
   ]
