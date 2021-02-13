@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 395,
+    "totalItems": 396,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210214tuchel-lays-out-challenge-to--cl",
+      "type": "NewsCard",
+      "timestamp": "2021-02-13T23:16:00.000Z",
+      "orderDate": "2021-02-13T23:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/14/tuchel-lays-out-challenge-to--clearly-talented--hudson-odoi-",
+        "type": "NewsCard",
+        "title": "Tuchel lays out challenge to ‘clearly talented’ Hudson-Odoi ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/14/tuchel-lays-out-challenge-to--clearly-talented--hudson-odoi-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-13T23:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/14/tuchel-lays-out-challenge-to--clearly-talented--hudson-odoi-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2020-21/barnsley-away/Hudson-Odoi-Barnsley-a-1",
+          "gravity": "auto",
+          "aspectRatio": 1.4932393,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel lays out challenge to ‘clearly talented’ Hudson-Odoi ",
+      "publishDate": "2021-02-13T23:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/14/tuchel-lays-out-challenge-to--clearly-talented--hudson-odoi-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        }
+      ],
+      "date": "2021-02-13T23:16:00.000Z",
+      "description": "Thomas Tuchel has revealed that he has tracked Callum Hudson-Odoi’s progress for almost two years, with the Chelsea head coach fully aware of the winger during his time in charge of Paris Saint-Germain.",
+      "matchId": 2128518
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210213steps-up--tariq-uwakwe",
@@ -522,59 +570,6 @@
       ],
       "date": "2021-02-12T12:00:00.000Z",
       "description": "The Blues booked a place in the FA Cup quarter-finals with a hard-fought win away at Barnsley and you can enjoy the best of the action now.",
-      "matchId": 2187322
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210212tammy-on-playing-his-part-in-bot",
-      "type": "NewsCard",
-      "timestamp": "2021-02-12T07:31:00.000Z",
-      "orderDate": "2021-02-12T07:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/12/tammy-on-playing-his-part-in-both-boxes-",
-        "type": "NewsCard",
-        "title": "Abraham on playing his part in both boxes in Barnsley win",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/tammy-on-playing-his-part-in-both-boxes-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-12T07:31:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/12/tammy-on-playing-his-part-in-both-boxes-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Abraham-stock=GettyImages-1301648117",
-          "gravity": "auto",
-          "aspectRatio": 1.499684,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Abraham on playing his part in both boxes in Barnsley win",
-      "publishDate": "2021-02-12T07:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/tammy-on-playing-his-part-in-both-boxes-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-12T07:31:00.000Z",
-      "description": "It is not often you see a striker celebrate a clearance more than a goal but that was certainly the case for Tammy Abraham at Oakwell last night!",
       "matchId": 2187322
     }
   ]
