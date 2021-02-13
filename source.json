@@ -1,12 +1,67 @@
 {
   "pagination": {
-    "totalItems": 391,
+    "totalItems": 392,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210213pre-match-briefing--chelsea-vs-n",
+      "type": "NewsCard",
+      "timestamp": "2021-02-13T01:31:00.000Z",
+      "orderDate": "2021-02-13T01:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/13/pre-match-briefing--chelsea-vs-newcastle",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Newcastle",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/13/pre-match-briefing--chelsea-vs-newcastle.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-13T01:31:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/02/13/pre-match-briefing--chelsea-vs-newcastle",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge night view",
+          "id": "editorial/news/2021/02/12/stamford_bridge_night_view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Newcastle",
+      "publishDate": "2021-02-13T01:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/13/pre-match-briefing--chelsea-vs-newcastle.html",
+      "readTimeInMins": 64,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2021-02-13T01:31:00.000Z",
+      "description": "With the team from near the Tyne Bridge visiting Stamford Bridge in this round of Premier League fixtures, club historian Rick Glanvill and club statistician Paul Dutton look ahead to the Blues’ quest to keep our run of good results going…",
+      "matchId": 2128518
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210212gallery--recover-and-refocus-on-",
@@ -494,54 +549,6 @@
       ],
       "date": "2021-02-12T11:55:00.000Z",
       "description": "Chelsea's Under-18 game against Crystal Palace, which was due to take place tomorrow morning (Saturday), has been postponed."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210212media-watch--chelsea-interested-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-12T10:14:00.000Z",
-      "orderDate": "2021-02-12T01:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/12/media-watch--chelsea-interested-in-eriksen--pundit-praises-alons",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea interested in Eriksen, pundit praises Alonso and Havertz is backed by former team-mate",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/media-watch--chelsea-interested-in-eriksen--pundit-praises-alons.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-12T10:14:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/12/media-watch--chelsea-interested-in-eriksen--pundit-praises-alons",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Eriksen_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea interested in Eriksen, pundit praises Alonso and Havertz is backed by former team-mate",
-      "publishDate": "2021-02-12T10:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/media-watch--chelsea-interested-in-eriksen--pundit-praises-alons.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-02-12T10:14:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are monitoring Christian Eriksen and Micah Richards believes Marcos Alonso can be a vital player for Thomas Tuchel."
     }
   ]
 }
