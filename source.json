@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 394,
+    "totalItems": 395,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210213steps-up--tariq-uwakwe",
+      "type": "NewsCard",
+      "timestamp": "2021-02-13T12:00:00.000Z",
+      "orderDate": "2021-02-13T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/13/steps-up--tariq-uwakwe",
+        "type": "NewsCard",
+        "title": "Tariq Uwakwe talks life on loan in League One; watch his story in revealing film",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/13/steps-up--tariq-uwakwe.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-13T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/13/steps-up--tariq-uwakwe",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Tariq Uwakwe",
+          "id": "editorial/news/2020/09/uwakwe-accrington-stanley",
+          "gravity": "auto",
+          "aspectRatio": 0.66689944,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Tariq Uwakwe talks life on loan in League One; watch his story in revealing film",
+      "publishDate": "2021-02-13T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/13/steps-up--tariq-uwakwe.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Loan Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_loan-highlights"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-02-13T12:00:00.000Z",
+      "description": "In the next edition of our feature where we speak to Chelsea players out on loan, we hear from Tariq Uwakwe, the 21-year-old midfielder who is currently playing in League One with Accrington Stanley."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210213tuchel--it-is-the-backbone-of-an",
@@ -522,59 +576,6 @@
       "date": "2021-02-12T07:31:00.000Z",
       "description": "It is not often you see a striker celebrate a clearance more than a goal but that was certainly the case for Tammy Abraham at Oakwell last night!",
       "matchId": 2187322
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210212andreas-christensen-injury-updat",
-      "type": "NewsCard",
-      "timestamp": "2021-02-12T09:18:00.000Z",
-      "orderDate": "2021-02-12T06:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/12/andreas-christensen-injury-update",
-        "type": "NewsCard",
-        "title": "Andreas Christensen injury update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/andreas-christensen-injury-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-12T09:18:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/12/andreas-christensen-injury-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Andreas Christensen",
-          "id": "editorial/match-reports/2020-21/barnsley-away/Christensen-Barnsley-a-1",
-          "gravity": "auto",
-          "aspectRatio": 1.4652778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Andreas Christensen injury update",
-      "publishDate": "2021-02-12T09:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/andreas-christensen-injury-update.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-12T09:18:00.000Z",
-      "description": "Thomas Tuchel has explained that Andreas Christensen was suffering with a headache during the first half of our win over Barnsley and that was why he was substituted."
     }
   ]
 }
