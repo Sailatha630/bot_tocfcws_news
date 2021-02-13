@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 392,
+    "totalItems": 393,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210213tuchel--it-is-the-backbone-of-an",
+      "type": "NewsCard",
+      "timestamp": "2021-02-13T06:09:00.000Z",
+      "orderDate": "2021-02-13T06:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/13/tuchel--it-is-the-backbone-of-any-club",
+        "type": "NewsCard",
+        "title": "Tuchel: It is the backbone of any club",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/13/tuchel--it-is-the-backbone-of-any-club.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-13T06:09:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/13/tuchel--it-is-the-backbone-of-any-club",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/02/12/Tuchel_GettyImages-1300885704",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: It is the backbone of any club",
+      "publishDate": "2021-02-13T06:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/13/tuchel--it-is-the-backbone-of-any-club.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2021-02-13T06:09:00.000Z",
+      "description": "Thomas Tuchel admires the determination of our young players to make it at a top team and feels their passion for the club is vital to Chelsea’s future.",
+      "matchId": 2128518
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210213pre-match-briefing--chelsea-vs-n",
@@ -500,55 +564,6 @@
       "tags": [],
       "date": "2021-02-12T01:44:00.000Z",
       "description": "Today (12 February) marks the first day of the Lunar New Year celebration as we bid farewell to the Year of the Rat and welcome the Year of the Ox on the Chinese zodiac calendar."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210212under-18s-match-against-crystal-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-12T11:55:00.000Z",
-      "orderDate": "2021-02-12T01:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/12/under-18s-match-against-crystal-palace-postponed",
-        "type": "NewsCard",
-        "title": "Under-18s match against Crystal Palace postponed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/under-18s-match-against-crystal-palace-postponed.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-12T11:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/12/under-18s-match-against-crystal-palace-postponed",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ed Brand",
-          "id": "editorial/news/2021/02/05/Ed-Brand-cfcu18-vs-west-brom",
-          "gravity": "auto",
-          "aspectRatio": 1.5002896,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s match against Crystal Palace postponed",
-      "publishDate": "2021-02-12T11:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/under-18s-match-against-crystal-palace-postponed.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-02-12T11:55:00.000Z",
-      "description": "Chelsea's Under-18 game against Crystal Palace, which was due to take place tomorrow morning (Saturday), has been postponed."
     }
   ]
 }
