@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 397,
+    "totalItems": 398,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210214chelsea-vs-newcastle---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-02-14T12:02:00.000Z",
+      "orderDate": "2021-02-14T12:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/14/chelsea-vs-newcastle---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Newcastle - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/14/chelsea-vs-newcastle---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-14T12:02:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/02/14/chelsea-vs-newcastle---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner playing at Newcastle",
+          "id": "editorial/news/2021/02/12/newcastle_away_werner",
+          "gravity": "auto",
+          "aspectRatio": 1.5004337,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Newcastle - the stats",
+      "publishDate": "2021-02-14T12:02:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/14/chelsea-vs-newcastle---the-stats.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2021-02-14T12:02:00.000Z",
+      "description": "As the clocks tick down to Chelsea's next Premier League action on Monday night, we continue to look forward to the visit from the North-East side by detailing the key facts and figures about the game...",
+      "matchId": 2128518
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210214tuchel-lays-out-challenge-to--cl",
@@ -492,60 +546,6 @@
       "date": "2021-02-12T11:27:00.000Z",
       "description": "Thomas Tuchel has provided an update on the fitness of four players ahead of our game against Newcastle United on Monday night…",
       "matchId": 2128518
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210212the-debrief--all-round-abraham-m",
-      "type": "NewsCard",
-      "timestamp": "2021-02-12T11:36:00.000Z",
-      "orderDate": "2021-02-12T10:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/12/the-debrief--all-round-abraham-maintains-impressive-season-stats",
-        "type": "NewsCard",
-        "title": "The Debrief: All-round Abraham maintains impressive season stats as battling Barnsley beaten",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/the-debrief--all-round-abraham-maintains-impressive-season-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-12T11:36:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/12/the-debrief--all-round-abraham-maintains-impressive-season-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/02/12/the-debrief-web-barnsley-main",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: All-round Abraham maintains impressive season stats as battling Barnsley beaten",
-      "publishDate": "2021-02-12T11:36:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/the-debrief--all-round-abraham-maintains-impressive-season-stats.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2021-02-12T11:36:00.000Z",
-      "description": "The statistics from last night’s FA Cup win at Barnsley highlight the influence of Tammy Abraham and also underline just what a challenge our hosts posed us…",
-      "matchId": 2187322
     }
   ]
 }
