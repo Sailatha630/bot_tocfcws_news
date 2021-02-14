@@ -1,12 +1,57 @@
 {
   "pagination": {
-    "totalItems": 399,
+    "totalItems": 400,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210214women-s-report--bristol-city-0-c",
+      "type": "NewsCard",
+      "timestamp": "2021-02-14T16:59:00.000Z",
+      "orderDate": "2021-02-14T16:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/14/women-s-report--bristol-city-0-chelsea-5",
+        "type": "NewsCard",
+        "title": "Women’s report: Bristol City 0 Chelsea 5",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/14/women-s-report--bristol-city-0-chelsea-5.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-14T16:59:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/02/14/women-s-report--bristol-city-0-chelsea-5",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kirby opens the scoring",
+          "id": "editorial/match-reports/2020-21/women-bristol-away/Kirby-GettyImages-1302109254",
+          "gravity": "auto",
+          "aspectRatio": 1.4463146,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Bristol City 0 Chelsea 5",
+      "publishDate": "2021-02-14T16:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/14/women-s-report--bristol-city-0-chelsea-5.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-02-14T16:59:00.000Z",
+      "description": "The Blues moved five points clear at the top of the Barclays Women’s Super League standings thanks to a thumping victory at Bristol City.",
+      "matchId": 2138443
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20210214pre-match-quiz--chelsea-vs-newca",
@@ -471,85 +516,6 @@
       ],
       "date": "2021-02-12T19:20:00.000Z",
       "description": "The Blues were back to work at Cobham today, with the onus on recovery and refocusing ahead of Monday night's clash with Newcastle.",
-      "matchId": 2128518
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210212tuchel-on-finding-the-right-bala",
-      "type": "NewsCard",
-      "timestamp": "2021-02-12T13:02:00.000Z",
-      "orderDate": "2021-02-12T13:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/12/tuchel-on-finding-the-right-balance",
-        "type": "NewsCard",
-        "title": "Tuchel on finding the right balance",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/tuchel-on-finding-the-right-balance.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-12T13:02:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/12/tuchel-on-finding-the-right-balance",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2021/02/12/Tuchel_PC_120221-1",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on finding the right balance",
-      "publishDate": "2021-02-12T13:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/12/tuchel-on-finding-the-right-balance.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2021-02-12T13:02:00.000Z",
-      "description": "Thomas Tuchel says the key to helping this Chelsea team develop is being able to introduce new ideas without overloading or overworking the players during this busy season.",
       "matchId": 2128518
     }
   ]
