@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 402,
+    "totalItems": 403,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 41,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210215media-watch--blues-eyeing-rb-lei",
+      "type": "NewsCard",
+      "timestamp": "2021-02-15T09:48:00.000Z",
+      "orderDate": "2021-02-15T09:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/15/media-watch--blues-eyeing-rb-leipzig-centre-back--gallagher-open",
+        "type": "NewsCard",
+        "title": "Media Watch: Blues eyeing RB Leipzig centre-back, Gallagher opens up on Premier League rise and Diego Costa to join childhood club",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/media-watch--blues-eyeing-rb-leipzig-centre-back--gallagher-open.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-15T09:48:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/15/media-watch--blues-eyeing-rb-leipzig-centre-back--gallagher-open",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Konate-MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Blues eyeing RB Leipzig centre-back, Gallagher opens up on Premier League rise and Diego Costa to join childhood club",
+      "publishDate": "2021-02-15T09:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/media-watch--blues-eyeing-rb-leipzig-centre-back--gallagher-open.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        },
+        {
+          "title": "Diego Costa",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_diego-costa"
+        }
+      ],
+      "date": "2021-02-15T09:48:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are still interested in Ibrahima Konate and Conor Gallagher speaks about how his loans prepared him for the Premier League"
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210215tuchel--it-s-important-we-build-",
@@ -460,61 +508,6 @@
       ],
       "date": "2021-02-13T06:09:00.000Z",
       "description": "Thomas Tuchel admires the determination of our young players to make it at a top team and feels their passion for the club is vital to Chelsea’s future.",
-      "matchId": 2128518
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210213pre-match-briefing--chelsea-vs-n",
-      "type": "NewsCard",
-      "timestamp": "2021-02-13T01:31:00.000Z",
-      "orderDate": "2021-02-13T01:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/13/pre-match-briefing--chelsea-vs-newcastle",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Newcastle",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/13/pre-match-briefing--chelsea-vs-newcastle.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-13T01:31:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/02/13/pre-match-briefing--chelsea-vs-newcastle",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge night view",
-          "id": "editorial/news/2021/02/12/stamford_bridge_night_view",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Newcastle",
-      "publishDate": "2021-02-13T01:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/13/pre-match-briefing--chelsea-vs-newcastle.html",
-      "readTimeInMins": 65,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2021-02-13T01:31:00.000Z",
-      "description": "With the team from near the Tyne Bridge visiting Stamford Bridge in this round of Premier League fixtures, club historian Rick Glanvill and club statistician Paul Dutton look ahead to the Blues’ quest to keep our run of good results going…",
       "matchId": 2128518
     }
   ]
