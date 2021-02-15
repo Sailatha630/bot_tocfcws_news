@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 409,
+    "totalItems": 410,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 41,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210215tuchel-on-playing-to-our-strengt",
+      "type": "NewsCard",
+      "timestamp": "2021-02-15T16:00:00.000Z",
+      "orderDate": "2021-02-15T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/15/tuchel-on-playing-to-our-strengths",
+        "type": "NewsCard",
+        "title": "Tuchel: I'll get the best out of my strikers",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/tuchel-on-playing-to-our-strengths.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-15T16:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/15/tuchel-on-playing-to-our-strengths",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/02/12/Tuchel_GettyImages-1231030193",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: I'll get the best out of my strikers",
+      "publishDate": "2021-02-15T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/tuchel-on-playing-to-our-strengths.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Tammy Abraham",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tammy-abraham"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2021-02-15T16:00:00.000Z",
+      "description": "Thomas Tuchel has discussed the responsibility on himself and the rest of the players to get the best out of the talented strikers in our squad.",
+      "matchId": 2128518
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210215rudiger-taking-it-one-step-at-a-",
@@ -449,54 +513,6 @@
       "date": "2021-02-14T16:59:00.000Z",
       "description": "The Blues moved five points clear at the top of the Barclays Women’s Super League standings thanks to a thumping victory at Bristol City.",
       "matchId": 2138443
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210214tuchel-outlines-his-intentions-t",
-      "type": "NewsCard",
-      "timestamp": "2021-02-14T16:50:00.000Z",
-      "orderDate": "2021-02-14T16:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/14/tuchel-outlines-his-intentions-to-reward-chilwell-",
-        "type": "NewsCard",
-        "title": "Tuchel outlines his intentions to reward Chilwell ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/14/tuchel-outlines-his-intentions-to-reward-chilwell-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-14T16:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/14/tuchel-outlines-his-intentions-to-reward-chilwell-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/01/26/tuchel-chilwell-training",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel outlines his intentions to reward Chilwell ",
-      "publishDate": "2021-02-14T16:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/14/tuchel-outlines-his-intentions-to-reward-chilwell-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-02-14T16:50:00.000Z",
-      "description": "Thomas Tuchel has said he could understand if Ben Chilwell felt disappointed to be out of the Chelsea side recently but has reiterated that he sees a lot of potential in the left-back to become a big player for the Blues.",
-      "matchId": 2128518
     }
   ]
 }
