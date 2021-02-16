@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 422,
+    "totalItems": 423,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
@@ -124,6 +124,55 @@
       "date": "2021-02-16T11:30:00.000Z",
       "description": "Thomas Tuchel used his post-match interview at Stamford Bridge on Monday night to clarify Chelsea’s goalkeeping situation...",
       "matchId": 2128518
+    },
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210215kerr---we-got-the-three-points-a",
+      "type": "NewsCard",
+      "timestamp": "2021-02-16T14:39:00.000Z",
+      "orderDate": "2021-02-16T08:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/15/kerr---we-got-the-three-points-and-did-the-job-well-",
+        "type": "NewsCard",
+        "title": "Sam Kerr on a professional performance, strikers scoring and maintaining high standards",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/kerr---we-got-the-three-points-and-did-the-job-well-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-16T14:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/15/kerr---we-got-the-three-points-and-did-the-job-well-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Sam_Kerr",
+          "gravity": "auto",
+          "aspectRatio": 1.4059104,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Sam Kerr on a professional performance, strikers scoring and maintaining high standards",
+      "publishDate": "2021-02-16T14:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/kerr---we-got-the-three-points-and-did-the-job-well-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Sam Kerr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_sam-kerr"
+        }
+      ],
+      "date": "2021-02-16T14:39:00.000Z",
+      "description": "Sam Kerr praised a ‘professional performance’ from Chelsea FC Women following our 5-0 victory away at Bristol City on Sunday afternoon.",
+      "matchId": 2138443
     },
     {
       "contentType": "Analysis",
@@ -530,60 +579,6 @@
       "date": "2021-02-15T19:00:00.000Z",
       "description": "Thomas Tuchel has made four changes from our previous Premier League fixture, as a goalkeeper and striker keep their places after impressing in the FA Cup.",
       "matchId": 2128518
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210215pl2-report--derby-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-02-15T20:45:00.000Z",
-      "orderDate": "2021-02-15T19:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/15/pl2-report--derby-chelsea",
-        "type": "NewsCard",
-        "title": "PL2 report: Derby 2 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/pl2-report--derby-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-15T20:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/15/pl2-report--derby-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " George McEachran",
-          "id": "editorial/news/2021/02/15/George-McEachran-vs-derby-goal",
-          "gravity": "auto",
-          "aspectRatio": 1.5002431,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Derby 2 Chelsea 1",
-      "publishDate": "2021-02-15T20:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/pl2-report--derby-chelsea.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-02-15T20:45:00.000Z",
-      "description": "Our development squad fell to defeat at the Loughborough University Stadium on Monday night."
     }
   ]
 }
