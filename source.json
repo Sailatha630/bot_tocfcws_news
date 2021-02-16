@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 419,
+    "totalItems": 420,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 42,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210216tuchel--mendy-is-still-our-numbe",
+      "type": "NewsCard",
+      "timestamp": "2021-02-16T11:30:00.000Z",
+      "orderDate": "2021-02-16T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/16/tuchel--mendy-is-still-our-number-one",
+        "type": "NewsCard",
+        "title": "Tuchel: Mendy is still our number one",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/tuchel--mendy-is-still-our-number-one.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-16T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/16/tuchel--mendy-is-still-our-number-one",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mendy",
+          "id": "chelsea-app/Mendy-Sheffield-United-away-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5143307,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Mendy is still our number one",
+      "publishDate": "2021-02-16T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/tuchel--mendy-is-still-our-number-one.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Kepa Arrizabalaga ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kepa-arrizabalaga"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2021-02-16T11:30:00.000Z",
+      "description": "Thomas Tuchel used his post-match interview at Stamford Bridge on Monday night to clarify Chelsea’s goalkeeping situation...",
+      "matchId": 2128518
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210216werner-delighted-with-goal-and-c",
@@ -529,70 +588,6 @@
       ],
       "date": "2021-02-15T16:00:00.000Z",
       "description": "Thomas Tuchel has discussed the responsibility on himself and the rest of the players to get the best out of the talented strikers in our squad.",
-      "matchId": 2128518
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210215rudiger-taking-it-one-step-at-a-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-15T13:00:00.000Z",
-      "orderDate": "2021-02-15T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/15/rudiger-taking-it-one-step-at-a-time",
-        "type": "NewsCard",
-        "title": "Rudiger taking it one step at a time",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/rudiger-taking-it-one-step-at-a-time.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-15T13:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/15/rudiger-taking-it-one-step-at-a-time",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Rudiger",
-          "id": "editorial/news/2021/02/14/Rudiger_GettyImages-1299597828",
-          "gravity": "auto",
-          "aspectRatio": 1.516039,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rudiger taking it one step at a time",
-      "publishDate": "2021-02-15T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/15/rudiger-taking-it-one-step-at-a-time.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2021-02-15T13:00:00.000Z",
-      "description": "Antonio Rudiger has shared his targets for what he wants to achieve on the pitch for the remainder of 2020/21, but warned we can’t get ahead of ourselves given our recent improvement.",
       "matchId": 2128518
     }
   ]
