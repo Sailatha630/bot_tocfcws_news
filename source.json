@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 428,
+    "totalItems": 429,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
@@ -164,7 +164,55 @@
         }
       ],
       "date": "2021-02-17T10:27:00.000Z",
-      "description": "The latest instalment of our series looking at the upbringing of Chelsea Academy youngsters focuses today on Harvey Vale, who talks about wanting to change his name to match his idols and watching England at Wembley..."
+      "description": "The latest instalment of our series looking at the upbringing of Chelsea Academy youngsters focuses today on Harvey Vale, who talks about wanting to change his name to match his idol and watching England at Wembley..."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210217media-watch--alaba-announces-bay",
+      "type": "NewsCard",
+      "timestamp": "2021-02-17T10:03:00.000Z",
+      "orderDate": "2021-02-17T01:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/17/media-watch--alaba-announces-bayern-munich-exit--former-blue-hig",
+        "type": "NewsCard",
+        "title": "Media Watch: Alaba announces Bayern Munich exit, former Blue highlights Terry’s influence and Torres broke Gerrard’s heart",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/media-watch--alaba-announces-bayern-munich-exit--former-blue-hig.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-17T10:03:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/17/media-watch--alaba-announces-bayern-munich-exit--former-blue-hig",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Alaba-MW",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Alaba announces Bayern Munich exit, former Blue highlights Terry’s influence and Torres broke Gerrard’s heart",
+      "publishDate": "2021-02-17T10:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/media-watch--alaba-announces-bayern-munich-exit--former-blue-hig.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Fernando Torres",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_fernando-torres"
+        },
+        {
+          "title": "John Terry",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_john-terry"
+        }
+      ],
+      "date": "2021-02-17T10:03:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, Blues target David Alaba announces his Bayern Munich departure at the end of the season and Michael Mancienne speaks about how John Terry made him feel welcome in the first team."
     },
     {
       "contentType": "Analysis",
@@ -491,54 +539,6 @@
       "date": "2021-02-16T08:00:00.000Z",
       "description": "Timo Werner has been involved in plenty of Chelsea Premier League goals recently without netting one himself, so his was a most deserved name on the scoresheet in last night’s victory over Newcastle.",
       "matchId": 2128518
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210216chelsea-women-to-meet-atletico-m",
-      "type": "NewsCard",
-      "timestamp": "2021-02-16T11:37:00.000Z",
-      "orderDate": "2021-02-16T07:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/16/chelsea-women-to-meet-atletico-madrid-in-champions-league",
-        "type": "NewsCard",
-        "title": "Chelsea Women to meet Atletico Madrid in Champions League",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/chelsea-women-to-meet-atletico-madrid-in-champions-league.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-16T11:37:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/16/chelsea-women-to-meet-atletico-madrid-in-champions-league",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Womens_Champions_League_stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5026296,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women to meet Atletico Madrid in Champions League",
-      "publishDate": "2021-02-16T11:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/chelsea-women-to-meet-atletico-madrid-in-champions-league.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-02-16T11:37:00.000Z",
-      "description": "Chelsea FC Women have been drawn against Atletico Madrid in the UEFA Women's Champions League round of 16."
     }
   ]
 }
