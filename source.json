@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 432,
+    "totalItems": 433,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
@@ -59,6 +59,55 @@
       ],
       "date": "2021-02-17T12:00:00.000Z",
       "description": "Andreas Christensen is continuing to show his value after starting his fourth game in a row under Thomas Tuchel, with a third clean sheet during that run capping another good performance against Newcastle."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews202102172020-21-uefa-youth-league-cancel",
+      "type": "NewsCard",
+      "timestamp": "2021-02-17T15:27:00.000Z",
+      "orderDate": "2021-02-17T11:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/17/2020-21-uefa-youth-league-cancelled",
+        "type": "NewsCard",
+        "title": "2020/21 UEFA Youth League cancelled",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/2020-21-uefa-youth-league-cancelled.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-17T15:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/17/2020-21-uefa-youth-league-cancelled",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "UEFA Youth League",
+          "id": "editorial/news/2021/01/27/UEFA-Youth-League-202021-Round-of-64-Draw",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "2020/21 UEFA Youth League cancelled",
+      "publishDate": "2021-02-17T15:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/2020-21-uefa-youth-league-cancelled.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "U19 - UEFA Youth League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_uefa-youth-league"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-02-17T15:27:00.000Z",
+      "description": "This season's European youth competition has been cancelled, UEFA have announced..."
     },
     {
       "contentType": "Chelsea Foundation",
@@ -452,65 +501,6 @@
       "tags": [],
       "date": "2021-02-17T09:45:00.000Z",
       "description": "Chelsea Foundation is now delivering our Chelsea Champions programme at Merstham Park School."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210216the-debrief--commanding-kovacic-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-16T12:45:00.000Z",
-      "orderDate": "2021-02-16T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/16/the-debrief--commanding-kovacic-controls-chelsea-tempo-as-persis",
-        "type": "NewsCard",
-        "title": "The Debrief: Commanding Kovacic controls Chelsea tempo as persistence pays off for Werner",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/the-debrief--commanding-kovacic-controls-chelsea-tempo-as-persis.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-16T12:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/16/the-debrief--commanding-kovacic-controls-chelsea-tempo-as-persis",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/02/16/debrief-newcastle-main-image-home-web",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Commanding Kovacic controls Chelsea tempo as persistence pays off for Werner",
-      "publishDate": "2021-02-16T12:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/the-debrief--commanding-kovacic-controls-chelsea-tempo-as-persis.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2021-02-16T12:45:00.000Z",
-      "description": "Chelsea’s fine recent record against Newcastle at Stamford Bridge continued on Monday night and our statistical analysis of the 2-0 victory brings to light those players who made critical contributions in defence, midfield and attack…",
-      "matchId": 2128518
     }
   ]
 }
