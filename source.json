@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 425,
+    "totalItems": 426,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
@@ -74,6 +74,54 @@
       "date": "2021-02-17T04:00:00.000Z",
       "description": "With two more victories under our belt since his last column, Chelsea legend Pat Nevin looks in detail at Thomas Tuchel's tactical nuances, pairs of players forming understandings, and why the narrative can change quickly...",
       "matchId": 2128518
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210217hayes-and-kirby-win-manager-and-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-17T09:00:00.000Z",
+      "orderDate": "2021-02-17T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/17/hayes-and-kirby-win-manager-and-player-of-the-month-awards",
+        "type": "NewsCard",
+        "title": "Hayes and Kirby win manager and player of the month awards",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/hayes-and-kirby-win-manager-and-player-of-the-month-awards.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-17T09:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/17/hayes-and-kirby-win-manager-and-player-of-the-month-awards",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Fran_Kirby_POTM",
+          "gravity": "auto",
+          "aspectRatio": 1.5029325,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hayes and Kirby win manager and player of the month awards",
+      "publishDate": "2021-02-17T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/hayes-and-kirby-win-manager-and-player-of-the-month-awards.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2021-02-17T09:00:00.000Z",
+      "description": "Chelsea FC Women manager Emma Hayes and Blues forward Fran Kirby have won the Barclays FA WSL Manager and Player of the Month awards for January."
     },
     {
       "contentType": "Analysis",
@@ -528,80 +576,6 @@
       ],
       "date": "2021-02-15T23:05:00.000Z",
       "description": "Thomas Tuchel was understandably more pleased with the first 45 minutes than the second in our win over Newcastle United, but feels he has already identified the positives and negatives from the game.",
-      "matchId": 2128518
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210216watch-highlights-of-chelsea-s-wi",
-      "type": "NewsCard",
-      "timestamp": "2021-02-16T00:00:00.000Z",
-      "orderDate": "2021-02-15T23:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/16/watch-highlights-of-chelsea-s-win-over-newcastle",
-        "type": "NewsCard",
-        "title": "Watch highlights of Chelsea's win over Newcastle",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/watch-highlights-of-chelsea-s-win-over-newcastle.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-16T00:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/16/watch-highlights-of-chelsea-s-win-over-newcastle",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea 2-0 Newcastle (H) | Premier League",
-          "videoId": "lLWzzyDC",
-          "bucket": "prod-cfc",
-          "description": "Highlights of Chelsea's 2-0 win at home to Newcastle in the Premier League. ",
-          "duration": 139000,
-          "date": "2021-02-15T23:32:01.011Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/lLWzzyDC/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/watch-highlights-of-chelsea-s-win-over-newcastle.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/02/16/watch-highlights-of-chelsea-s-win-over-newcastle?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/02/16/watch-highlights-of-chelsea-s-win-over-newcastle",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Highlights of Chelsea's 2-0 win at home to Newcastle in the Premier League. "
-      },
-      "content": "Watch highlights of Chelsea's win over Newcastle",
-      "publishDate": "2021-02-16T00:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/watch-highlights-of-chelsea-s-win-over-newcastle.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2021-02-16T00:00:00.000Z",
-      "description": "The Blues won a fourth consecutive Premier League game with victory over Newcastle on Monday night and you can watch the highlights now.",
       "matchId": 2128518
     }
   ]
