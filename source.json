@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 427,
+    "totalItems": 428,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
@@ -122,6 +122,49 @@
       ],
       "date": "2021-02-17T09:00:00.000Z",
       "description": "Chelsea FC Women manager Emma Hayes and Blues forward Fran Kirby have won the Barclays FA WSL Manager and Player of the Month awards for January."
+    },
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210217teenage-kicks--harvey-vale",
+      "type": "NewsCard",
+      "timestamp": "2021-02-17T10:27:00.000Z",
+      "orderDate": "2021-02-17T02:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/17/teenage-kicks--harvey-vale",
+        "type": "NewsCard",
+        "title": "Teenage Kicks: Harvey Vale",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/teenage-kicks--harvey-vale.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-17T10:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/17/teenage-kicks--harvey-vale",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Harvey Vale",
+          "id": "editorial/news/2021/02/15/Harvey-Vale-cfcdev-vs-derby",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Teenage Kicks: Harvey Vale",
+      "publishDate": "2021-02-17T10:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/teenage-kicks--harvey-vale.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-02-17T10:27:00.000Z",
+      "description": "The latest instalment of our series looking at the upbringing of Chelsea Academy youngsters focuses today on Harvey Vale, who talks about wanting to change his name to match his idols and watching England at Wembley..."
     },
     {
       "contentType": "Analysis",
@@ -496,54 +539,6 @@
       ],
       "date": "2021-02-16T11:37:00.000Z",
       "description": "Chelsea FC Women have been drawn against Atletico Madrid in the UEFA Women's Champions League round of 16."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210216media-watch--merson-believes-blu",
-      "type": "NewsCard",
-      "timestamp": "2021-02-16T09:35:00.000Z",
-      "orderDate": "2021-02-16T01:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/16/media-watch--merson-believes-blues-should-sign-haaland--carraghe",
-        "type": "NewsCard",
-        "title": "Media Watch: Merson believes Blues should sign Haaland, Carragher compares Werner to Henry and Tomori wants online racial abuse to stop",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/media-watch--merson-believes-blues-should-sign-haaland--carraghe.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-16T09:35:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/16/media-watch--merson-believes-blues-should-sign-haaland--carraghe",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Haaland-MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Merson believes Blues should sign Haaland, Carragher compares Werner to Henry and Tomori wants online racial abuse to stop",
-      "publishDate": "2021-02-16T09:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/16/media-watch--merson-believes-blues-should-sign-haaland--carraghe.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Fikayo Tomori",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_fikayo-tomori"
-        }
-      ],
-      "date": "2021-02-16T09:35:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Paul Merson thinks signing Erling Haaland would push the Blues to the title and Jamie Carragher compares Timo Werner’s movement to Thierry Henry."
     }
   ]
 }
