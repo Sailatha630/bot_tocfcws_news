@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 437,
+    "totalItems": 438,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
@@ -212,6 +212,61 @@
       ],
       "date": "2021-02-18T10:01:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Antonio Rudiger has offered to help with any German transfer targets and Kylian Mbappe reflects on his trip to Cobham as a youngster."
+    },
+    {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210218football-for-change-campaign--on",
+      "type": "NewsCard",
+      "timestamp": "2021-02-18T12:00:00.000Z",
+      "orderDate": "2021-02-18T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/18/football-for-change-campaign--one-year-on-",
+        "type": "NewsCard",
+        "title": "Football For Change Campaign: One year on…",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/football-for-change-campaign--one-year-on-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-18T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/18/football-for-change-campaign--one-year-on-",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "videoId": "14YkZAEH",
+          "bucket": "prod-cfc",
+          "duration": 48000,
+          "date": "2021-02-18T12:04:01.011Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/14YkZAEH/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/football-for-change-campaign--one-year-on-.page.v3.json",
+          "contentType": "Chelsea Foundation",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/02/18/football-for-change-campaign--one-year-on-?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/02/18/football-for-change-campaign--one-year-on-",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        }
+      },
+      "content": "Football For Change Campaign: One year on…",
+      "publishDate": "2021-02-18T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/football-for-change-campaign--one-year-on-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Plan International",
+          "namespace": "content-tag:",
+          "id": "content-tag_Partners_plan-international"
+        }
+      ],
+      "date": "2021-02-18T12:00:00.000Z",
+      "description": "Back in 2019, the Chelsea Foundation together with global charity partner Plan International launched our Football for Change campaign."
     },
     {
       "contentType": "News",
@@ -468,54 +523,6 @@
       "date": "2021-02-17T04:00:00.000Z",
       "description": "With two more victories under our belt since his last column, Chelsea legend Pat Nevin looks in detail at Thomas Tuchel's tactical nuances, pairs of players forming understandings, and why the narrative can change quickly...",
       "matchId": 2128518
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210217hayes-and-kirby-win-manager-and-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-17T09:00:00.000Z",
-      "orderDate": "2021-02-17T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/17/hayes-and-kirby-win-manager-and-player-of-the-month-awards",
-        "type": "NewsCard",
-        "title": "Hayes and Kirby win manager and player of the month awards",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/hayes-and-kirby-win-manager-and-player-of-the-month-awards.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-17T09:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/17/hayes-and-kirby-win-manager-and-player-of-the-month-awards",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Fran_Kirby_POTM",
-          "gravity": "auto",
-          "aspectRatio": 1.5029325,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes and Kirby win manager and player of the month awards",
-      "publishDate": "2021-02-17T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/hayes-and-kirby-win-manager-and-player-of-the-month-awards.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-02-17T09:00:00.000Z",
-      "description": "Chelsea FC Women manager Emma Hayes and Blues forward Fran Kirby have won the Barclays FA WSL Manager and Player of the Month awards for January."
     }
   ]
 }
