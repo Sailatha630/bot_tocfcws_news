@@ -1,12 +1,79 @@
 {
   "pagination": {
-    "totalItems": 436,
+    "totalItems": 437,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210218giles-smith--the-wait-went-on-bu",
+      "type": "NewsCard",
+      "timestamp": "2021-02-18T11:28:00.000Z",
+      "orderDate": "2021-02-18T11:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/18/giles-smith--the-wait-went-on-but-it-was-worth-it",
+        "type": "NewsCard",
+        "title": "Giles Smith: The wait went on but it was worth it",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/giles-smith--the-wait-went-on-but-it-was-worth-it.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-18T11:28:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/02/18/giles-smith--the-wait-went-on-but-it-was-worth-it",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner goal",
+          "id": "editorial/news/2021/02/18/GettyImages-1302331020",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Giles Smith: The wait went on but it was worth it",
+      "publishDate": "2021-02-18T11:28:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/giles-smith--the-wait-went-on-but-it-was-worth-it.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Giles Smith",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_other-people_giles-smith"
+        },
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Giles",
+        "lastName": "Smith",
+        "description": "Giles Smith has been giving a supporter’s eye view on all matters Chelsea in a weekly column since 2006. A Matthew Harding Stand upper tier season ticket holders, he has been a supporter since 1970 and was briefly the proud sponsor of Gareth Hall's shorts. A former Sports Columnist of the Year, writes for the Times, and has appeared in many British publications and is the author of two books: 'Lost in Music', an autobiographical account of his failure to become a globe-girdling rock star, and 'Midnight In the Garden of Evel Kneivel', a book about sport on television. His column on chelseafc.com will be back for the new season. ",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/blogs-and-columns/giles_smith_profile_080",
+          "gravity": "face",
+          "aspectRatio": 1.1660777,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-02-18T11:28:00.000Z",
+      "description": "With Chelsea season ticket holder and weekly columnist Giles Smith finally able to put a full stop on our most recent game, he is able to look forward to an exciting few days ahead, notwithstanding certain elephants in the room..."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews2021021810-questions-with----callum-huds",
@@ -449,49 +516,6 @@
       ],
       "date": "2021-02-17T09:00:00.000Z",
       "description": "Chelsea FC Women manager Emma Hayes and Blues forward Fran Kirby have won the Barclays FA WSL Manager and Player of the Month awards for January."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210217teenage-kicks--harvey-vale",
-      "type": "NewsCard",
-      "timestamp": "2021-02-17T10:27:00.000Z",
-      "orderDate": "2021-02-17T02:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/17/teenage-kicks--harvey-vale",
-        "type": "NewsCard",
-        "title": "Teenage Kicks: Harvey Vale",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/teenage-kicks--harvey-vale.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-17T10:27:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/17/teenage-kicks--harvey-vale",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Harvey Vale",
-          "id": "editorial/news/2021/02/15/Harvey-Vale-cfcdev-vs-derby",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Teenage Kicks: Harvey Vale",
-      "publishDate": "2021-02-17T10:27:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/teenage-kicks--harvey-vale.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-02-17T10:27:00.000Z",
-      "description": "The latest instalment of our series looking at the upbringing of Chelsea Academy youngsters focuses today on Harvey Vale, who talks about wanting to change his name to match his idol and watching England at Wembley..."
     }
   ]
 }
