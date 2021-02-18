@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 433,
+    "totalItems": 434,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews2021021810-questions-with----callum-huds",
+      "type": "NewsCard",
+      "timestamp": "2021-02-18T04:00:00.000Z",
+      "orderDate": "2021-02-18T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/18/10-questions-with----callum-hudson-odoi",
+        "type": "NewsCard",
+        "title": "10 Questions with... Callum Hudson-Odoi",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/10-questions-with----callum-hudson-odoi.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-18T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/18/10-questions-with----callum-hudson-odoi",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "10 Questions graphic",
+          "id": "editorial/news/2021/02/18/10_Questions_Hudson-Odoi_Article_Body",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "10 Questions with... Callum Hudson-Odoi",
+      "publishDate": "2021-02-18T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/10-questions-with----callum-hudson-odoi.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        }
+      ],
+      "date": "2021-02-18T04:00:00.000Z",
+      "description": "Fit, fresh and making an impact, Callum Hudson-Odoi has been thriving in a new role under Thomas Tuchel and grasping the opportunity to show Chelsea supporters exactly what he’s capable of."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210217christensen-reveals-how-tuchel-h",
@@ -465,42 +513,6 @@
       "date": "2021-02-16T15:09:00.000Z",
       "description": "Despite his goal, Olivier Giroud says our clean sheet was the most pleasing thing about yesterday’s victory over Newcastle United as it rewarded goalkeeper Kepa Arrizabalaga on his return to Premier League action.",
       "matchId": 2128518
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210217foundation-expands-chelsea-champ",
-      "type": "NewsCard",
-      "timestamp": "2021-02-17T09:45:00.000Z",
-      "orderDate": "2021-02-16T14:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/17/foundation-expands-chelsea-champions-programme-to-six-secondary-",
-        "type": "NewsCard",
-        "title": "Foundation expands Chelsea Champions programme to six secondary schools ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/foundation-expands-chelsea-champions-programme-to-six-secondary-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-17T09:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/17/foundation-expands-chelsea-champions-programme-to-six-secondary-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/02/17/ChelseaFoundation_Chelsea_Champions",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Foundation expands Chelsea Champions programme to six secondary schools ",
-      "publishDate": "2021-02-17T09:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/foundation-expands-chelsea-champions-programme-to-six-secondary-.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-02-17T09:45:00.000Z",
-      "description": "Chelsea Foundation is now delivering our Chelsea Champions programme at Merstham Park School."
     }
   ]
 }
