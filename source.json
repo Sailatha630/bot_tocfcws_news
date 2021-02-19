@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 449,
+    "totalItems": 450,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 45,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210219three-premier-league-games-in-ma",
+      "type": "NewsCard",
+      "timestamp": "2021-02-19T17:54:00.000Z",
+      "orderDate": "2021-02-19T17:54:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/19/three-premier-league-games-in-march-moved",
+        "type": "NewsCard",
+        "title": "Three Premier League games in March moved",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/three-premier-league-games-in-march-moved.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-19T17:54:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/19/three-premier-league-games-in-march-moved",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "video/GettyImages-1293483339",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Three Premier League games in March moved",
+      "publishDate": "2021-02-19T17:54:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/three-premier-league-games-in-march-moved.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        }
+      ],
+      "date": "2021-02-19T17:54:00.000Z",
+      "description": "The dates and times of our upcoming Premier League fixtures against Liverpool, Everton and Leeds have been announced."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210219thomas-tuchel-press-conference-t",
@@ -460,60 +503,6 @@
       "date": "2021-02-18T16:30:00.000Z",
       "description": "The chance to continue our winning run comes at a ground that has been kind to us since its opening in 2001. Find out all about Chelsea and Southampton's statistical record here...",
       "matchId": 2128533
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210219pl2-preview--kick-off-time--how-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-19T09:30:00.000Z",
-      "orderDate": "2021-02-18T16:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/19/pl2-preview--kick-off-time--how-to-watch-live-and-ethan-wady-on-",
-        "type": "NewsCard",
-        "title": "PL2 preview: kick-off time vs Liverpool, how to watch live and Wady on being back in blue",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pl2-preview--kick-off-time--how-to-watch-live-and-ethan-wady-on-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-19T09:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/19/pl2-preview--kick-off-time--how-to-watch-live-and-ethan-wady-on-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ethan Wady",
-          "id": "editorial/news/2021/02/18/Ethan-Wady-cfcdev-matchday-preview",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 preview: kick-off time vs Liverpool, how to watch live and Wady on being back in blue",
-      "publishDate": "2021-02-19T09:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pl2-preview--kick-off-time--how-to-watch-live-and-ethan-wady-on-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-02-19T09:30:00.000Z",
-      "description": "Our development squad are back on home turf this evening and you can watch the game live and for free on the 5th Stand app and Chelsea website."
     }
   ]
 }
