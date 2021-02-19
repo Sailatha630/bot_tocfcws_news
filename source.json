@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 446,
+    "totalItems": 447,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 45,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210219thomas-tuchel-press-conference-t",
+      "type": "NewsCard",
+      "timestamp": "2021-02-19T12:30:00.000Z",
+      "orderDate": "2021-02-19T12:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/19/thomas-tuchel-press-conference-team-news-ahead-of-southampton",
+        "type": "NewsCard",
+        "title": "Tuchel rules defender out, reports on issues for Pulisic and Tomori’s future",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/thomas-tuchel-press-conference-team-news-ahead-of-southampton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-19T12:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/19/thomas-tuchel-press-conference-team-news-ahead-of-southampton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel press conference",
+          "id": "editorial/news/2021/01/28/tuchel-press-conference-graphic",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel rules defender out, reports on issues for Pulisic and Tomori’s future",
+      "publishDate": "2021-02-19T12:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/thomas-tuchel-press-conference-team-news-ahead-of-southampton.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        }
+      ],
+      "date": "2021-02-19T12:30:00.000Z",
+      "description": "There was mixed news on the injury front ahead of our trip to the South Coast tomorrow lunchtime, with Thiago Silva set to miss the game and Christian Pulisic unlikely to travel, although other doubts were expected to be available.",
+      "matchId": 2128533
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210219pre-match-briefing--southampton-",
@@ -491,54 +550,6 @@
       },
       "date": "2021-02-18T11:28:00.000Z",
       "description": "With Chelsea season ticket holder and weekly columnist Giles Smith finally able to put a full stop on our most recent game, he is able to look forward to an exciting few days ahead, notwithstanding certain elephants in the room..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews2021021810-questions-with----callum-huds",
-      "type": "NewsCard",
-      "timestamp": "2021-02-18T04:00:00.000Z",
-      "orderDate": "2021-02-18T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/18/10-questions-with----callum-hudson-odoi",
-        "type": "NewsCard",
-        "title": "10 Questions with... Callum Hudson-Odoi",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/10-questions-with----callum-hudson-odoi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-18T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/18/10-questions-with----callum-hudson-odoi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "10 Questions graphic",
-          "id": "editorial/news/2021/02/18/10_Questions_Hudson-Odoi_Article_Body",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "10 Questions with... Callum Hudson-Odoi",
-      "publishDate": "2021-02-18T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/18/10-questions-with----callum-hudson-odoi.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        }
-      ],
-      "date": "2021-02-18T04:00:00.000Z",
-      "description": "Fit, fresh and making an impact, Callum Hudson-Odoi has been thriving in a new role under Thomas Tuchel and grasping the opportunity to show Chelsea supporters exactly what he’s capable of."
     }
   ]
 }
