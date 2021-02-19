@@ -1,12 +1,67 @@
 {
   "pagination": {
-    "totalItems": 440,
+    "totalItems": 441,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 44,
+    "pageCount": 45,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210219pre-match-briefing--southampton-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-19T04:00:00.000Z",
+      "orderDate": "2021-02-19T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/19/pre-match-briefing--southampton-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Southampton vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pre-match-briefing--southampton-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-19T04:00:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/02/19/pre-match-briefing--southampton-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "St Mary's outside view",
+          "id": "editorial/news/2021/02/18/st-marys-view-southampton-outside-tunnel",
+          "gravity": "auto",
+          "aspectRatio": 1.6576875,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Pre-Match Briefing: Southampton vs Chelsea",
+      "publishDate": "2021-02-19T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pre-match-briefing--southampton-vs-chelsea.html",
+      "readTimeInMins": 68,
+      "tags": [
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-19T04:00:00.000Z",
+      "description": "The first of back-to-back away games against red-and-white opposition takes us to England's South Coast and a meeting with the Saints. Club historian Rick Glanvill and club statistician Paul Dutton analyse all the key talking points ahead of an early start on Saturday...",
+      "matchId": 2128533
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210218southampton-vs-chelsea---the-sta",
@@ -492,49 +547,6 @@
       ],
       "date": "2021-02-17T15:27:00.000Z",
       "description": "This season's European youth competition has been cancelled, UEFA have announced..."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210217chelsea-foundation-join-forces-w",
-      "type": "NewsCard",
-      "timestamp": "2021-02-17T15:00:00.000Z",
-      "orderDate": "2021-02-17T11:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/17/chelsea-foundation-join-forces-with-adl-to-launch--say-no-to-hat",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation join forces with ADL to launch ‘Say No To Hate’ programme across schools in the UK",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/chelsea-foundation-join-forces-with-adl-to-launch--say-no-to-hat.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-17T15:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/17/chelsea-foundation-join-forces-with-adl-to-launch--say-no-to-hat",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/02/09/ChelseaFoundation_Say_No_To_Hate2",
-          "gravity": "auto",
-          "aspectRatio": 1.7811501,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation join forces with ADL to launch ‘Say No To Hate’ programme across schools in the UK",
-      "publishDate": "2021-02-17T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/17/chelsea-foundation-join-forces-with-adl-to-launch--say-no-to-hat.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Say No to Antisemitism",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_say-no-to-antisemitism"
-        }
-      ],
-      "date": "2021-02-17T15:00:00.000Z",
-      "description": "Chelsea Foundation have launched a new equality programme in collaboration with US-based organisation the Anti-Defamation League (ADL)."
     }
   ]
 }
