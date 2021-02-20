@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 454,
+    "totalItems": 455,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 46,
@@ -65,6 +65,60 @@
       "date": "2021-02-20T11:30:00.000Z",
       "description": "There are four changes to the Chelsea starting 11 for today’s trip to Southampton…",
       "matchId": 2128533
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210220under-18s-report--chelsea-readin",
+      "type": "NewsCard",
+      "timestamp": "2021-02-20T12:49:00.000Z",
+      "orderDate": "2021-02-20T08:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/20/under-18s-report--chelsea-reading",
+        "type": "NewsCard",
+        "title": "Under-18s report: Chelsea 1 Reading 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/under-18s-report--chelsea-reading.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-20T12:49:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/20/under-18s-report--chelsea-reading",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Josh Brooking",
+          "id": "editorial/news/2021/02/20/Josh-Brooking-cfcu18-vs-reading",
+          "gravity": "auto",
+          "aspectRatio": 1.499804,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: Chelsea 1 Reading 2",
+      "publishDate": "2021-02-20T12:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/under-18s-report--chelsea-reading.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-02-20T12:49:00.000Z",
+      "description": "A first-half goal by Charlie Webster was overturned by Reading in the latter stages of the game as our Under-18s were defeated at Cobham this morning."
     },
     {
       "contentType": "Interview",
@@ -482,65 +536,6 @@
       ],
       "date": "2021-02-19T04:00:00.000Z",
       "description": "The first of back-to-back away games against red-and-white opposition takes us to England's South Coast and a meeting with the Saints. Club historian Rick Glanvill and club statistician Paul Dutton analyse all the key talking points ahead of an early start on Saturday...",
-      "matchId": 2128533
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210219pre-match-quiz--southampton-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2021-02-19T09:59:00.000Z",
-      "orderDate": "2021-02-19T03:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/19/pre-match-quiz--southampton-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Southampton vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pre-match-quiz--southampton-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-19T09:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/19/pre-match-quiz--southampton-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "St Mary's",
-          "id": "editorial/news/2021/02/16/St_Marys_GettyImages-1179377258",
-          "gravity": "auto",
-          "aspectRatio": 1.7777414,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Southampton vs Chelsea",
-      "publishDate": "2021-02-19T09:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pre-match-quiz--southampton-vs-chelsea.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        },
-        {
-          "title": "Southampton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_southampton"
-        }
-      ],
-      "date": "2021-02-19T09:59:00.000Z",
-      "description": "Tomorrow we head to one of our happiest hunting grounds, having scored 10 goals across our last three trips to St Mary's. How well can you remember that trio of high-scoring wins at Southampton?",
       "matchId": 2128533
     }
   ]
