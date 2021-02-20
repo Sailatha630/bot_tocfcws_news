@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 456,
+    "totalItems": 457,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 46,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210220thomas-tuchel-s-reaction-to-chel",
+      "type": "NewsCard",
+      "timestamp": "2021-02-20T14:43:00.000Z",
+      "orderDate": "2021-02-20T14:43:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/20/thomas-tuchel-s-reaction-to-chelsea-s-draw-at-southampton",
+        "type": "NewsCard",
+        "title": "Tuchel on what Chelsea must do to score more and why Hudson-Odoi was taken off",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/thomas-tuchel-s-reaction-to-chelsea-s-draw-at-southampton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-20T14:43:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/20/thomas-tuchel-s-reaction-to-chelsea-s-draw-at-southampton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/match-reports/2020-21/southampton-away/Southampton_away_tuchel_2",
+          "gravity": "auto",
+          "aspectRatio": 1.4995278,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on what Chelsea must do to score more and why Hudson-Odoi was taken off",
+      "publishDate": "2021-02-20T14:43:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/thomas-tuchel-s-reaction-to-chelsea-s-draw-at-southampton.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-20T14:43:00.000Z",
+      "description": "Having seen a run of five straight wins come to an end but his unbeaten start as Chelsea boss continue with Saturday lunchtime’s 1-1 draw at Southampton, it is the sharpness needed to score enough goals to win while keeping it tight at the back that was the subject of much of Thomas Tuchel’s analysis after the game.",
+      "matchId": 2128533
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210220match-report--southampton-vs-che",
@@ -172,7 +226,7 @@
         }
       ],
       "date": "2021-02-20T12:49:00.000Z",
-      "description": "A first-half goal by Charlie Webster was overturned by Reading in the latter stages of the game as our Under-18s were defeated at Cobham this morning."
+      "description": "A first-half goal by Charlie Webster was overturned by Reading in the latter stages of the game as our Under-18s were defeated at Cobham on Saturday morning."
     },
     {
       "contentType": "Interview",
@@ -494,48 +548,6 @@
       ],
       "date": "2021-02-19T13:47:00.000Z",
       "description": "Thomas Tuchel admits it has been hard to give so little playing time to Hakim Ziyech recently, but the boss is confident the Moroccan’s moment will come."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210219chelsea-shirts-up-for-auction-to",
-      "type": "NewsCard",
-      "timestamp": "2021-02-19T15:00:00.000Z",
-      "orderDate": "2021-02-19T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/19/chelsea-shirts-up-for-auction-to-raise-money-for-the-foundation",
-        "type": "NewsCard",
-        "title": "Chelsea shirts up for auction to raise money for the Foundation",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/chelsea-shirts-up-for-auction-to-raise-money-for-the-foundation.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-19T15:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/19/chelsea-shirts-up-for-auction-to-raise-money-for-the-foundation",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/02/19/ChelseaFoundation_Matchwornshirts_Web",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea shirts up for auction to raise money for the Foundation",
-      "publishDate": "2021-02-19T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/chelsea-shirts-up-for-auction-to-raise-money-for-the-foundation.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2021-02-19T15:00:00.000Z",
-      "description": "Chelsea Foundation are once again joining forces with Matchwornshirt.com to raise funds for our projects across the UK and internationally."
     }
   ]
 }
