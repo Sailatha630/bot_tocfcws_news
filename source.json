@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 453,
+    "totalItems": 454,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 46,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210220chelsea-line-up-vs-southampton",
+      "type": "NewsCard",
+      "timestamp": "2021-02-20T11:30:00.000Z",
+      "orderDate": "2021-02-20T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/20/chelsea-line-up-vs-southampton",
+        "type": "NewsCard",
+        "title": "Chelsea line-up vs Southampton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/chelsea-line-up-vs-southampton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-20T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/20/chelsea-line-up-vs-southampton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Dressing room shot",
+          "id": "editorial/match-reports/2020-21/southampton-away/southampton-dressing-room-st-marys",
+          "gravity": "center",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line-up vs Southampton",
+      "publishDate": "2021-02-20T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/chelsea-line-up-vs-southampton.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        }
+      ],
+      "date": "2021-02-20T11:30:00.000Z",
+      "description": "There are four changes to the Chelsea starting 11 for today’s trip to Southampton…",
+      "matchId": 2128533
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210220james-on-inspirations-new-and-ol",
@@ -483,54 +542,6 @@
       "date": "2021-02-19T09:59:00.000Z",
       "description": "Tomorrow we head to one of our happiest hunting grounds, having scored 10 goals across our last three trips to St Mary's. How well can you remember that trio of high-scoring wins at Southampton?",
       "matchId": 2128533
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210219media-watch--chelsea-eyeing-hofm",
-      "type": "NewsCard",
-      "timestamp": "2021-02-19T09:13:00.000Z",
-      "orderDate": "2021-02-19T01:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/19/media-watch--chelsea-eyeing-hofmann--tomori-opens-up-on-his-debu",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea eyeing Hofmann, Tomori opens up on his debut and Hasenhuttl praises Werner",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/media-watch--chelsea-eyeing-hofmann--tomori-opens-up-on-his-debu.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-19T09:13:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/19/media-watch--chelsea-eyeing-hofmann--tomori-opens-up-on-his-debu",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Hofmann_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea eyeing Hofmann, Tomori opens up on his debut and Hasenhuttl praises Werner",
-      "publishDate": "2021-02-19T09:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/media-watch--chelsea-eyeing-hofmann--tomori-opens-up-on-his-debu.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Fikayo Tomori",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_fikayo-tomori"
-        }
-      ],
-      "date": "2021-02-19T09:13:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are linked with Borussia Monchengladbach’s Jonas Hofmann and Fikayo Tomori reflects on his AC Milan debut."
     }
   ]
 }
