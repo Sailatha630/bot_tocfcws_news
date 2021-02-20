@@ -1,12 +1,81 @@
 {
   "pagination": {
-    "totalItems": 457,
+    "totalItems": 458,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 46,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210220watch-highlights-of-chelsea-s-dr",
+      "type": "NewsCard",
+      "timestamp": "2021-02-20T18:49:00.000Z",
+      "orderDate": "2021-02-20T18:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea's draw at Southampton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-20T18:49:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Southampton 1-1 Chelsea | Premier League Highlights",
+          "videoId": "GM0EQU9L",
+          "bucket": "prod-cfc",
+          "description": "Highlights from our 1-1 draw away at Southampton in the Premier League",
+          "duration": 131000,
+          "date": "2021-02-20T15:44:33.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/GM0EQU9L/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "Highlights from our 1-1 draw away at Southampton in the Premier League"
+      },
+      "content": "Watch highlights of Chelsea's draw at Southampton",
+      "publishDate": "2021-02-20T18:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-20T18:49:00.000Z",
+      "description": "It was a South Coast stalemate for the Blues as we had to settle for a point in the Premier League at St Mary's and you can watch the best of the action in the video above.",
+      "matchId": 2128533
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210220thomas-tuchel-s-reaction-to-chel",
@@ -495,59 +564,6 @@
       "date": "2021-02-19T12:30:00.000Z",
       "description": "There was mixed news on the injury front ahead of our trip to the South Coast tomorrow lunchtime, with Thiago Silva set to miss the game and Christian Pulisic unlikely to travel, although other doubts were expected to be available.",
       "matchId": 2128533
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210219tuchel-explains-ziyech-s-lack-of",
-      "type": "NewsCard",
-      "timestamp": "2021-02-19T13:47:00.000Z",
-      "orderDate": "2021-02-19T12:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/19/tuchel-explains-ziyech-s-lack-of-minutes-and-reveals-what-he-s-l",
-        "type": "NewsCard",
-        "title": "Tuchel explains Ziyech’s lack of minutes and reveals what he's learned about his squad",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/tuchel-explains-ziyech-s-lack-of-minutes-and-reveals-what-he-s-l.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-19T13:47:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/19/tuchel-explains-ziyech-s-lack-of-minutes-and-reveals-what-he-s-l",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ziyech",
-          "id": "editorial/news/2021/02/19/ziyech-press-conference-graphic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel explains Ziyech’s lack of minutes and reveals what he's learned about his squad",
-      "publishDate": "2021-02-19T13:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/tuchel-explains-ziyech-s-lack-of-minutes-and-reveals-what-he-s-l.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2021-02-19T13:47:00.000Z",
-      "description": "Thomas Tuchel admits it has been hard to give so little playing time to Hakim Ziyech recently, but the boss is confident the Moroccan’s moment will come."
     }
   ]
 }
