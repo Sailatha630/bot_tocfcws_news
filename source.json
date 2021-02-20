@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 455,
+    "totalItems": 456,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 46,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210220match-report--southampton-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2021-02-20T14:30:00.000Z",
+      "orderDate": "2021-02-20T14:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/20/match-report--southampton-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Southampton 1 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/match-report--southampton-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-20T14:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/20/match-report--southampton-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount celebrates",
+          "id": "editorial/match-reports/2020-21/southampton-away/Southampton_away_mount_celebration",
+          "gravity": "north",
+          "aspectRatio": 1.4995971,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Southampton 1 Chelsea 1",
+      "publishDate": "2021-02-20T14:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/match-report--southampton-vs-chelsea.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-20T14:30:00.000Z",
+      "description": "Mason Mount scored again on the South Coast for Chelsea but it was not enough to claim all three points as Thomas Tuchel’s side had to settle for a share of the spoils at St Mary’s.",
+      "matchId": 2128533
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210220chelsea-line-up-vs-southampton",
@@ -482,61 +536,6 @@
       ],
       "date": "2021-02-19T15:00:00.000Z",
       "description": "Chelsea Foundation are once again joining forces with Matchwornshirt.com to raise funds for our projects across the UK and internationally."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210219pre-match-briefing--southampton-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-19T04:00:00.000Z",
-      "orderDate": "2021-02-19T08:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/19/pre-match-briefing--southampton-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Southampton vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pre-match-briefing--southampton-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-19T04:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/02/19/pre-match-briefing--southampton-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "St Mary's outside view",
-          "id": "editorial/news/2021/02/18/st-marys-view-southampton-outside-tunnel",
-          "gravity": "center",
-          "aspectRatio": 1.6576875,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Pre-Match Briefing: Southampton vs Chelsea",
-      "publishDate": "2021-02-19T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pre-match-briefing--southampton-vs-chelsea.html",
-      "readTimeInMins": 68,
-      "tags": [
-        {
-          "title": "Southampton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_southampton"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-19T04:00:00.000Z",
-      "description": "The first of back-to-back away games against red-and-white opposition takes us to England's South Coast and a meeting with the Saints. Club historian Rick Glanvill and club statistician Paul Dutton analyse all the key talking points ahead of an early start on Saturday...",
-      "matchId": 2128533
     }
   ]
 }
