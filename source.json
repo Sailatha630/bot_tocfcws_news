@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 462,
+    "totalItems": 463,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 47,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210221tuchel-lays-out-challenge-to-hud",
+      "type": "NewsCard",
+      "timestamp": "2021-02-21T22:30:00.000Z",
+      "orderDate": "2021-02-21T22:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/21/tuchel-lays-out-challenge-to-hudson-odoi-and-hints-at-atletico-s",
+        "type": "NewsCard",
+        "title": "Tuchel lays out challenge to Hudson-Odoi and hints at Atletico start ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/21/tuchel-lays-out-challenge-to-hudson-odoi-and-hints-at-atletico-s.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-21T22:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/21/tuchel-lays-out-challenge-to-hudson-odoi-and-hints-at-atletico-s",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Hudson-Odoi-stock-GettyImages-1303153984",
+          "gravity": "auto",
+          "aspectRatio": 1.5247909,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel lays out challenge to Hudson-Odoi and hints at Atletico start ",
+      "publishDate": "2021-02-21T22:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/21/tuchel-lays-out-challenge-to-hudson-odoi-and-hints-at-atletico-s.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        }
+      ],
+      "date": "2021-02-21T22:30:00.000Z",
+      "description": "Thomas Tuchel has discussed further why he subbed off Callum Hudson-Odoi against Southampton and explained that he has spoken to the winger about his decision.",
+      "matchId": 2180556
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210221kante-is--unbelievable--to-play-",
@@ -506,64 +554,6 @@
       ],
       "date": "2021-02-20T12:49:00.000Z",
       "description": "A first-half goal by Charlie Webster was overturned by Reading in the latter stages of the game as our Under-18s were defeated at Cobham on Saturday morning."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210220james-on-inspirations-new-and-ol",
-      "type": "NewsCard",
-      "timestamp": "2021-02-20T04:30:00.000Z",
-      "orderDate": "2021-02-20T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/20/james-on-inspirations-new-and-old",
-        "type": "NewsCard",
-        "title": "James on inspirations new and old",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/james-on-inspirations-new-and-old.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-20T04:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/20/james-on-inspirations-new-and-old",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "James",
-          "id": "editorial/news/2021/02/19/James_GettyImages-1300883322",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "James on inspirations new and old",
-      "publishDate": "2021-02-20T04:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/james-on-inspirations-new-and-old.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Didier Drogba",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_didier-drogba"
-        }
-      ],
-      "date": "2021-02-20T04:30:00.000Z",
-      "description": "Reece James explains why he is loving playing for Thomas Tuchel and idolised Didier Drogba as a youngster in the Chelsea Academy."
     }
   ]
 }
