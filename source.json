@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 460,
+    "totalItems": 461,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 46,
+    "pageCount": 47,
     "startFrom": 0
   },
   "newsFeed": [
@@ -60,6 +60,59 @@
       "date": "2021-02-21T11:14:00.000Z",
       "description": "We look at some of the pertinent statistics from yesterday’s draw with Southampton, with the point ensuring Chelsea remain unbeaten under Thomas Tuchel but will be looking to move onto the next game quickly.",
       "matchId": 2128533
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210222what-can-you-watch-on-chelsea-pl",
+      "type": "NewsCard",
+      "timestamp": "2021-02-21T10:00:00.000Z",
+      "orderDate": "2021-02-21T11:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/22/what-can-you-watch-on-chelsea-platforms-this-week-",
+        "type": "NewsCard",
+        "title": "What can you watch on Chelsea platforms this week?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-21T10:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/22/what-can-you-watch-on-chelsea-platforms-this-week-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Live streams graphic",
+          "id": "editorial/news/2021/02/18/live-streams-graphic-azpilicueta",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "What can you watch on Chelsea platforms this week?",
+      "publishDate": "2021-02-21T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-02-21T10:00:00.000Z",
+      "description": "The Champions League is back for the Blues this week and our away leg against Atletico Madrid features prominently in the live video coverage on the Chelsea website and app, along with two very special guest appearances on Matchday Live..."
     },
     {
       "contentType": "Analysis",
@@ -511,60 +564,6 @@
       "date": "2021-02-20T04:30:00.000Z",
       "description": "The boss reflects on an exemplary Frenchman and how German football is influencing the Premier League...",
       "matchId": 2128533
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210219pl2-report--chelsea-liverpool",
-      "type": "NewsCard",
-      "timestamp": "2021-02-19T20:50:00.000Z",
-      "orderDate": "2021-02-19T20:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/19/pl2-report--chelsea-liverpool",
-        "type": "NewsCard",
-        "title": "PL2 report: Chelsea 2 Liverpool 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pl2-report--chelsea-liverpool.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-19T20:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/19/pl2-report--chelsea-liverpool",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Lewis Bate",
-          "id": "editorial/news/2021/02/19/Lewis-Bate-cfcdev-vs-liverpool",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Chelsea 2 Liverpool 3",
-      "publishDate": "2021-02-19T20:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/19/pl2-report--chelsea-liverpool.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-02-19T20:50:00.000Z",
-      "description": "Goals from Thierno Ballo and Tino Livramento were not enough as our development squad fell to a defeat at home against Liverpool on Friday evening."
     }
   ]
 }
