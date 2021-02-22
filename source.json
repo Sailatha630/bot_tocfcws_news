@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 466,
+    "totalItems": 467,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 47,
@@ -64,6 +64,55 @@
       "date": "2021-02-22T11:46:00.000Z",
       "description": "Thomas Tuchel handed first Premier League starts under his tenure to Kurt Zouma and N’Golo Kante this weekend and the Chelsea head coach was left mightily impressed with what he saw from the French pair.",
       "matchId": 2128533
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210222pre-match-quiz--atletico-madrid-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-22T11:56:00.000Z",
+      "orderDate": "2021-02-22T10:56:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/22/pre-match-quiz--atletico-madrid-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Atletico Madrid vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/pre-match-quiz--atletico-madrid-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-22T11:56:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/22/pre-match-quiz--atletico-madrid-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Diego Costa and Torres",
+          "id": "editorial/news/2021/02/18/Costa_Torres_GettyImages-611519222",
+          "gravity": "auto",
+          "aspectRatio": 1.5022762,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Atletico Madrid vs Chelsea",
+      "publishDate": "2021-02-22T11:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/pre-match-quiz--atletico-madrid-vs-chelsea.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-02-22T11:56:00.000Z",
+      "description": "Plenty of players have represented both Chelsea and Atletico Madrid. Ahead of tomorrow's Champions League meeting, see how well you know them...",
+      "matchId": 2180556
     },
     {
       "contentType": "News",
@@ -477,75 +526,6 @@
       ],
       "date": "2021-02-20T14:43:00.000Z",
       "description": "Having seen a run of five straight wins come to an end but his unbeaten start as Chelsea boss continue with Saturday lunchtime’s 1-1 draw at Southampton, it is the sharpness needed to score enough goals to win while keeping it tight at the back that was the subject of much of Thomas Tuchel’s analysis after the game.",
-      "matchId": 2128533
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210220watch-highlights-of-chelsea-s-dr",
-      "type": "NewsCard",
-      "timestamp": "2021-02-20T14:40:00.000Z",
-      "orderDate": "2021-02-20T14:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton",
-        "type": "NewsCard",
-        "title": "Watch highlights of Chelsea's draw at Southampton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-20T14:40:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Southampton 1-1 Chelsea | Premier League Highlights",
-          "videoId": "GM0EQU9L",
-          "bucket": "prod-cfc",
-          "description": "Highlights from our 1-1 draw away at Southampton in the Premier League",
-          "duration": 131000,
-          "date": "2021-02-20T15:44:33.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/GM0EQU9L/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Highlights from our 1-1 draw away at Southampton in the Premier League"
-      },
-      "content": "Watch highlights of Chelsea's draw at Southampton",
-      "publishDate": "2021-02-20T14:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/watch-highlights-of-chelsea-s-draw-at-southampton.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-20T14:40:00.000Z",
-      "description": "It was a South Coast stalemate for the Blues as we had to settle for a point in the Premier League at St Mary's and you can watch the best of the action in the video above.",
       "matchId": 2128533
     }
   ]
