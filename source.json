@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 465,
+    "totalItems": 466,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 47,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210222tuchel-s-praise-for-impressive-f",
+      "type": "NewsCard",
+      "timestamp": "2021-02-22T11:46:00.000Z",
+      "orderDate": "2021-02-22T11:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/22/tuchel-s-praise-for-impressive-french-duo-",
+        "type": "NewsCard",
+        "title": "Tuchel’s praise for impressive French duo ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/tuchel-s-praise-for-impressive-french-duo-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-22T11:46:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/22/tuchel-s-praise-for-impressive-french-duo-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Zouma-Kante-GettyImages-1303143584",
+          "gravity": "auto",
+          "aspectRatio": 1.3601723,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel’s praise for impressive French duo ",
+      "publishDate": "2021-02-22T11:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/tuchel-s-praise-for-impressive-french-duo-.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Kurt Zouma",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kurt-zouma"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-22T11:46:00.000Z",
+      "description": "Thomas Tuchel handed first Premier League starts under his tenure to Kurt Zouma and N’Golo Kante this weekend and the Chelsea head coach was left mightily impressed with what he saw from the French pair.",
+      "matchId": 2128533
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210221tuchel-lays-out-challenge-to-hud",
@@ -488,60 +546,6 @@
       ],
       "date": "2021-02-20T14:40:00.000Z",
       "description": "It was a South Coast stalemate for the Blues as we had to settle for a point in the Premier League at St Mary's and you can watch the best of the action in the video above.",
-      "matchId": 2128533
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210220match-report--southampton-vs-che",
-      "type": "NewsCard",
-      "timestamp": "2021-02-20T14:30:00.000Z",
-      "orderDate": "2021-02-20T14:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/20/match-report--southampton-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match report: Southampton 1 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/match-report--southampton-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-20T14:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/20/match-report--southampton-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mount celebrates",
-          "id": "editorial/match-reports/2020-21/southampton-away/Southampton_away_mount_celebration",
-          "gravity": "north",
-          "aspectRatio": 1.4995971,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Southampton 1 Chelsea 1",
-      "publishDate": "2021-02-20T14:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/match-report--southampton-vs-chelsea.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Southampton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_southampton"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-20T14:30:00.000Z",
-      "description": "Mason Mount scored again on the South Coast for Chelsea but it was not enough to claim all three points as Thomas Tuchel’s side had to settle for a share of the spoils at St Mary’s.",
       "matchId": 2128533
     }
   ]
