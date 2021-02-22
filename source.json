@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 463,
+    "totalItems": 464,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 47,
@@ -12,7 +12,7 @@
       "id": "_content_chelseafcennews20210221tuchel-lays-out-challenge-to-hud",
       "type": "NewsCard",
       "timestamp": "2021-02-21T22:30:00.000Z",
-      "orderDate": "2021-02-21T22:30:00.000Z",
+      "orderDate": "2021-02-22T10:14:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2021/02/21/tuchel-lays-out-challenge-to-hudson-odoi-and-hints-at-atletico-s",
         "type": "NewsCard",
@@ -54,6 +54,50 @@
       "date": "2021-02-21T22:30:00.000Z",
       "description": "Thomas Tuchel has discussed further why he subbed off Callum Hudson-Odoi against Southampton and explained that he has spoken to the winger about his decision.",
       "matchId": 2180556
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210221update-on-paul-canoville-s-condi",
+      "type": "NewsCard",
+      "timestamp": "2021-02-22T10:16:00.000Z",
+      "orderDate": "2021-02-22T01:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/21/update-on-paul-canoville-s-condition-",
+        "type": "NewsCard",
+        "title": "Update on Paul Canoville’s condition ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/21/update-on-paul-canoville-s-condition-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-22T10:16:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/21/update-on-paul-canoville-s-condition-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Paul Canoville",
+          "id": "video/2021/02/16/Paul_Canoville_ThumbFull_2",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        },
+        "caption": " "
+      },
+      "content": "Update on Paul Canoville’s condition ",
+      "publishDate": "2021-02-22T10:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/21/update-on-paul-canoville-s-condition-.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Paul Canoville",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_paul-canoville"
+        }
+      ],
+      "date": "2021-02-22T10:16:00.000Z",
+      "description": "Paul Canoville’s Foundation has today announced that although he remains in hospital, our former player is off the critical list."
     },
     {
       "contentType": "News",
@@ -500,60 +544,6 @@
       "date": "2021-02-20T11:30:00.000Z",
       "description": "There are four changes to the Chelsea starting 11 for today’s trip to Southampton…",
       "matchId": 2128533
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210220under-18s-report--chelsea-readin",
-      "type": "NewsCard",
-      "timestamp": "2021-02-20T12:49:00.000Z",
-      "orderDate": "2021-02-20T08:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/20/under-18s-report--chelsea-reading",
-        "type": "NewsCard",
-        "title": "Under-18s report: Chelsea 1 Reading 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/under-18s-report--chelsea-reading.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-20T12:49:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/20/under-18s-report--chelsea-reading",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Josh Brooking",
-          "id": "editorial/news/2021/02/20/Josh-Brooking-cfcu18-vs-reading",
-          "gravity": "auto",
-          "aspectRatio": 1.499804,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Chelsea 1 Reading 2",
-      "publishDate": "2021-02-20T12:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/20/under-18s-report--chelsea-reading.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-02-20T12:49:00.000Z",
-      "description": "A first-half goal by Charlie Webster was overturned by Reading in the latter stages of the game as our Under-18s were defeated at Cobham on Saturday morning."
     }
   ]
 }
