@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 473,
+    "totalItems": 474,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210223atletico-madrid-vs-chelsea---the",
+      "type": "NewsCard",
+      "timestamp": "2021-02-23T02:18:00.000Z",
+      "orderDate": "2021-02-23T02:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/23/atletico-madrid-vs-chelsea---the-stats",
+        "type": "NewsCard",
+        "title": "Atletico Madrid vs Chelsea - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/atletico-madrid-vs-chelsea---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-23T02:18:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/02/23/atletico-madrid-vs-chelsea---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Marcos Alonso playing Atletico away",
+          "id": "editorial/news/2021/02/22/alonso_atletico_away_2017",
+          "gravity": "auto",
+          "aspectRatio": 0.6903766,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Atletico Madrid vs Chelsea - the stats",
+      "publishDate": "2021-02-23T02:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/atletico-madrid-vs-chelsea---the-stats.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-02-23T02:18:00.000Z",
+      "description": "The Champions League is back and ahead of our knockout tie with the side from Spain, we have numbers galore to prepare for kick-off...",
+      "matchId": 2180556
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210222duo-fit-to-face-atletico-madrid-",
@@ -478,64 +527,6 @@
       ],
       "date": "2021-02-22T12:30:00.000Z",
       "description": "After gaining an early advantage over Liverpool in Premier League 2 on Friday night, our development squad’s lead was overturned by three goals. Although disappointed, boss Andy Myers wants to get back on track quickly."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210222media-watch--chelsea-tipped-for-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-22T10:08:00.000Z",
-      "orderDate": "2021-02-22T02:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/22/media-watch--chelsea-tipped-for-dortmund-double-swoop--cole-prai",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea tipped for Dortmund double swoop, Cole praises Mount and Filipe Luis labels Hazard as the best he’s played with",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/media-watch--chelsea-tipped-for-dortmund-double-swoop--cole-prai.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-22T10:08:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/22/media-watch--chelsea-tipped-for-dortmund-double-swoop--cole-prai",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Sancho-Haaland_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea tipped for Dortmund double swoop, Cole praises Mount and Filipe Luis labels Hazard as the best he’s played with",
-      "publishDate": "2021-02-22T10:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/media-watch--chelsea-tipped-for-dortmund-double-swoop--cole-prai.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Eden Hazard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_eden-hazard"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Joe Cole",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_joe-cole"
-        },
-        {
-          "title": "Filipe Luis",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_filipe-luis"
-        }
-      ],
-      "date": "2021-02-22T10:08:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing both Jadon Sancho and Erling Haaland in the summer and Joe Cole believes Mason Mount can become one of Chelsea’s greatest ever players."
     }
   ]
 }
