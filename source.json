@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 478,
+    "totalItems": 479,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20210223winter-weather--security-concern",
+      "type": "NewsCard",
+      "timestamp": "2021-02-23T13:47:00.000Z",
+      "orderDate": "2021-02-23T13:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/23/winter-weather--security-concerns-and-uefa-rankings--chelsea-gam",
+        "type": "NewsCard",
+        "title": "Winter weather, security concerns and UEFA rankings: Chelsea games at unusual venues ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/winter-weather--security-concerns-and-uefa-rankings--chelsea-gam.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-23T13:47:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/23/winter-weather--security-concerns-and-uefa-rankings--chelsea-gam",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Chelsea subs in Gelsenkirchen",
+          "id": "editorial/news/2021/02/23/chelsea-bench-besiktas-2003-germany",
+          "gravity": "auto",
+          "aspectRatio": 1.5781168,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Winter weather, security concerns and UEFA rankings: Chelsea games at unusual venues ",
+      "publishDate": "2021-02-23T13:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/winter-weather--security-concerns-and-uefa-rankings--chelsea-gam.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Europa League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_europa-league"
+        }
+      ],
+      "date": "2021-02-23T13:47:00.000Z",
+      "description": "Chelsea’s ‘away’ game against Atletico Madrid tonight is taking place in Bucharest, some 1500 miles from the Spanish capital. To mark the occasion, we have delved into the history books and discovered it is not the first time the Blues will be playing at an unexpected venue away from home…",
+      "matchId": 2180556
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210223pat-nevin--why-atletico-tie-is-t",
@@ -476,64 +530,6 @@
       ],
       "date": "2021-02-22T15:45:00.000Z",
       "description": "There have been two training sessions and plenty of words spoken since Thomas Tuchel’s decision to take off Callum Hudson-Odoi just half-an-hour after he made him a half-time substitution at Southampton, but the incident was discussed again in today’s media conference ahead of tomorrow’s match against Atletico Madrid, with both the manager and captain having their say on the young player’s reaction since Saturday."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210222tuchel-s-praise-for-impressive-f",
-      "type": "NewsCard",
-      "timestamp": "2021-02-22T11:46:00.000Z",
-      "orderDate": "2021-02-22T11:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/22/tuchel-s-praise-for-impressive-french-duo-",
-        "type": "NewsCard",
-        "title": "Tuchel’s praise for impressive French duo ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/tuchel-s-praise-for-impressive-french-duo-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-22T11:46:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/22/tuchel-s-praise-for-impressive-french-duo-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Zouma-Kante-GettyImages-1303143584",
-          "gravity": "auto",
-          "aspectRatio": 1.3601723,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel’s praise for impressive French duo ",
-      "publishDate": "2021-02-22T11:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/tuchel-s-praise-for-impressive-french-duo-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Kurt Zouma",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kurt-zouma"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-22T11:46:00.000Z",
-      "description": "Thomas Tuchel handed first Premier League starts under his tenure to Kurt Zouma and N’Golo Kante this weekend and the Chelsea head coach was left mightily impressed with what he saw from the French pair.",
-      "matchId": 2128533
     }
   ]
 }
