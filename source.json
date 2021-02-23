@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 474,
+    "totalItems": 475,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210223pre-match-briefing--atletico-mad",
+      "type": "NewsCard",
+      "timestamp": "2021-02-23T07:44:00.000Z",
+      "orderDate": "2021-02-23T07:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/23/pre-match-briefing--atletico-madrid-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Atletico Madrid vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/pre-match-briefing--atletico-madrid-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-23T07:44:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/02/23/pre-match-briefing--atletico-madrid-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Bucharest stadium",
+          "id": "editorial/news/2021/02/22/bucharest_stadium_general",
+          "gravity": "auto",
+          "aspectRatio": 1.5028249,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Atletico Madrid vs Chelsea",
+      "publishDate": "2021-02-23T07:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/pre-match-briefing--atletico-madrid-vs-chelsea.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-02-23T07:44:00.000Z",
+      "description": "The Blues are in Bucharest but not to face Romanian opposition. Club historian Rick Glanvill and club statistician Paul Dutton have that story and plenty more about the unusual start to our Champions League knockout campaign…",
+      "matchId": 2180556
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210223atletico-madrid-vs-chelsea---the",
@@ -473,60 +522,6 @@
       ],
       "date": "2021-02-22T11:43:00.000Z",
       "description": "Our round-up of the latest action for those Chelsea players out on loan is headlined by goals for four players impressing on the continent…"
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210222pl2-reaction--it-s-now-about-how",
-      "type": "NewsCard",
-      "timestamp": "2021-02-22T12:30:00.000Z",
-      "orderDate": "2021-02-22T02:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/22/pl2-reaction--it-s-now-about-how-we-bounce-back",
-        "type": "NewsCard",
-        "title": "PL2 reaction: It's now about how we bounce back",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/pl2-reaction--it-s-now-about-how-we-bounce-back.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-22T12:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/22/pl2-reaction--it-s-now-about-how-we-bounce-back",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Andy Myers",
-          "id": "editorial/news/2021/02/22/Andy-Myers-cfcdev-vs-liverpool",
-          "gravity": "auto",
-          "aspectRatio": 1.5082957,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 reaction: It's now about how we bounce back",
-      "publishDate": "2021-02-22T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/pl2-reaction--it-s-now-about-how-we-bounce-back.html",
-      "readTimeInMins": 34,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-02-22T12:30:00.000Z",
-      "description": "After gaining an early advantage over Liverpool in Premier League 2 on Friday night, our development squad’s lead was overturned by three goals. Although disappointed, boss Andy Myers wants to get back on track quickly."
     }
   ]
 }
