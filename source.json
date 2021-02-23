@@ -1,12 +1,48 @@
 {
   "pagination": {
-    "totalItems": 475,
+    "totalItems": 476,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210222foundation-working-with-tfl-to-p",
+      "type": "NewsCard",
+      "timestamp": "2021-02-23T00:06:00.000Z",
+      "orderDate": "2021-02-23T10:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/22/foundation-working-with-tfl-to-provide-opportunities-for-constru",
+        "type": "NewsCard",
+        "title": "Foundation working with TFL to provide opportunities for construction workers",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/foundation-working-with-tfl-to-provide-opportunities-for-constru.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-23T00:06:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/22/foundation-working-with-tfl-to-provide-opportunities-for-constru",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/02/22/ChelseaFoundation_Foundation_Stock",
+          "gravity": "auto",
+          "aspectRatio": 1.8355995,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Foundation working with TFL to provide opportunities for construction workers",
+      "publishDate": "2021-02-23T00:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/foundation-working-with-tfl-to-provide-opportunities-for-constru.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-02-23T00:06:00.000Z",
+      "description": "Chelsea Foundation have been working alongside Transport for London (TFL) to help more than 100 individuals through the Construction Skills Certificate Scheme."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210223pre-match-briefing--atletico-mad",
@@ -479,49 +515,6 @@
       "date": "2021-02-21T22:30:00.000Z",
       "description": "Thomas Tuchel has discussed further why he subbed off Callum Hudson-Odoi against Southampton and explained that he has spoken to the winger about his decision.",
       "matchId": 2180556
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20210222chelsea-here-chelsea-there--kene",
-      "type": "NewsCard",
-      "timestamp": "2021-02-22T11:43:00.000Z",
-      "orderDate": "2021-02-22T05:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/22/chelsea-here-chelsea-there--kenedy--broja--ugbo-and-baba-among-t",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Kenedy, Broja, Ugbo and Baba among the goals",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/chelsea-here-chelsea-there--kenedy--broja--ugbo-and-baba-among-t.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-22T11:43:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/22/chelsea-here-chelsea-there--kenedy--broja--ugbo-and-baba-among-t",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kenedy celebration",
-          "id": "editorial/news/2021/02/22/Kenedy-celebration-Granada-vs-Napoli",
-          "gravity": "north_west",
-          "aspectRatio": 1.5004916,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Kenedy, Broja, Ugbo and Baba among the goals",
-      "publishDate": "2021-02-22T11:43:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/chelsea-here-chelsea-there--kenedy--broja--ugbo-and-baba-among-t.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        }
-      ],
-      "date": "2021-02-22T11:43:00.000Z",
-      "description": "Our round-up of the latest action for those Chelsea players out on loan is headlined by goals for four players impressing on the continent…"
     }
   ]
 }
