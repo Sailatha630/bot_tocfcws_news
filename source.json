@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 481,
+    "totalItems": 482,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 49,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210223match-report--atletico-madrid-vs",
+      "type": "NewsCard",
+      "timestamp": "2021-02-23T22:00:00.000Z",
+      "orderDate": "2021-02-23T22:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/23/match-report--atletico-madrid-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Atletico Madrid 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/match-report--atletico-madrid-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-23T22:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/23/match-report--atletico-madrid-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Giroud goal",
+          "id": "editorial/match-reports/2020-21/atletico-madrid-away/Giroud_GettyImages-1303739554",
+          "gravity": "auto",
+          "aspectRatio": 1.4337384,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Atletico Madrid 0 Chelsea 1",
+      "publishDate": "2021-02-23T22:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/match-report--atletico-madrid-vs-chelsea.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-02-23T22:00:00.000Z",
+      "description": "Olivier Giroud was our Champions League hero away to Spanish opposition once again, settling the first leg of this round-of-16 tie with a sublime overhead kick worthy of the highest stage.",
+      "matchId": 2180556
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210223chelsea-line-up-vs-atletico-madr",
@@ -476,60 +525,6 @@
       ],
       "date": "2021-02-22T14:29:00.000Z",
       "description": "Thomas Tuchel has confirmed that Kai Havertz and Christian Pulisic are both fine to face Atletico Madrid but Thiago Silva remains sidelined.",
-      "matchId": 2180556
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210222azpilicueta-champions-league-pre",
-      "type": "NewsCard",
-      "timestamp": "2021-02-22T15:49:00.000Z",
-      "orderDate": "2021-02-22T14:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/22/azpilicueta-champions-league-press-conference-atletico-madrid",
-        "type": "NewsCard",
-        "title": "Azpilicueta on Atletico’s threats, keeping Luis Suarez in check and his ambition to win an elusive Champions League",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/azpilicueta-champions-league-press-conference-atletico-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-22T15:49:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/22/azpilicueta-champions-league-press-conference-atletico-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Azpilicueta press conference graphic",
-          "id": "editorial/news/2021/02/22/azpilicueta-press-conference-graphic-v2",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta on Atletico’s threats, keeping Luis Suarez in check and his ambition to win an elusive Champions League",
-      "publishDate": "2021-02-22T15:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/22/azpilicueta-champions-league-press-conference-atletico-madrid.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-02-22T15:49:00.000Z",
-      "description": "There may be no return to Spain for Cesar Azpilicueta tomorrow but the opportunity to face La Liga’s outstanding side and continue our Champions League adventure into the knockout stages is one that is eagerly anticipated by the Chelsea captain.",
       "matchId": 2180556
     }
   ]
