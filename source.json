@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 484,
+    "totalItems": 485,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 49,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210224giroud-on-clean-connections-and-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-24T07:30:00.000Z",
+      "orderDate": "2021-02-24T07:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/24/giroud-on-clean-connections-and-strong-intentions",
+        "type": "NewsCard",
+        "title": "Giroud on clean connections and strong intentions",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/giroud-on-clean-connections-and-strong-intentions.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-24T07:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/24/giroud-on-clean-connections-and-strong-intentions",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Olivier Giroud",
+          "id": "editorial/match-reports/2020-21/atletico-madrid-away/giroud-man-of-the-match-award-photo-2",
+          "gravity": "auto",
+          "aspectRatio": 1.3333334,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Giroud on clean connections and strong intentions",
+      "publishDate": "2021-02-24T07:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/giroud-on-clean-connections-and-strong-intentions.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-02-24T07:30:00.000Z",
+      "description": "It was a trademark Olivier Giroud goal that secured a precious victory over Atletico Madrid in Bucharest last night, and afterwards the striker analysed his decisive moment and the collective effort required to blunt our Spanish opponents.",
+      "matchId": 2180556
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210223tuchel-delighted-with--big-rewar",
@@ -525,49 +579,6 @@
       "date": "2021-02-23T02:18:00.000Z",
       "description": "The Champions League is back and ahead of our knockout tie with the side from Spain, we have numbers galore to prepare for kick-off...",
       "matchId": 2180556
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210223media-watch--blues-receive-konat",
-      "type": "NewsCard",
-      "timestamp": "2021-02-23T10:51:00.000Z",
-      "orderDate": "2021-02-23T01:51:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/23/media-watch--blues-receive-konate-boost--simeone-praises-tuchel-",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues receive Konate boost, Simeone praises Tuchel, Chelsea legend’s son becomes Muay Thai fighter",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/media-watch--blues-receive-konate-boost--simeone-praises-tuchel-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-23T10:51:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/23/media-watch--blues-receive-konate-boost--simeone-praises-tuchel-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Konate-MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues receive Konate boost, Simeone praises Tuchel, Chelsea legend’s son becomes Muay Thai fighter",
-      "publishDate": "2021-02-23T10:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/media-watch--blues-receive-konate-boost--simeone-praises-tuchel-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-02-23T10:51:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the rumours linking the Blues to Ibrahima Konate have intensified and Diego Simeone is impressed by Thomas Tuchel and his squad."
     }
   ]
 }
