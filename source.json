@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 486,
+    "totalItems": 487,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 49,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210224the-debrief--strength-at-the-bac",
+      "type": "NewsCard",
+      "timestamp": "2021-02-24T11:30:00.000Z",
+      "orderDate": "2021-02-24T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/24/the-debrief--strength-at-the-back-and-magic-in-attack-gives-tuch",
+        "type": "NewsCard",
+        "title": "The Debrief: Strength at the back and magic in attack gives Tuchel’s Blues the edge in Romania",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/the-debrief--strength-at-the-back-and-magic-in-attack-gives-tuch.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-24T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/24/the-debrief--strength-at-the-back-and-magic-in-attack-gives-tuch",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Debrief graphic",
+          "id": "editorial/news/2021/02/24/debrief-vs-atletico",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Strength at the back and magic in attack gives Tuchel’s Blues the edge in Romania",
+      "publishDate": "2021-02-24T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/the-debrief--strength-at-the-back-and-magic-in-attack-gives-tuch.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-02-24T11:30:00.000Z",
+      "description": "We take a look over some of the notable statistics from last night’s Champions League victory against Atletico Madrid, with a focus on defensive discipline and a magical match-winning moment…",
+      "matchId": 2180556
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210224giroud-on-clean-connections-and-",
@@ -528,55 +577,6 @@
       },
       "date": "2021-02-23T10:56:00.000Z",
       "description": "With the Premier League on the back burner this week, Chelsea legend and columnist Pat Nevin looks forward to our Champions League knockout tie and discusses where an important weapon in our armoury lies…",
-      "matchId": 2180556
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210223pre-match-briefing--atletico-mad",
-      "type": "NewsCard",
-      "timestamp": "2021-02-23T07:44:00.000Z",
-      "orderDate": "2021-02-23T07:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/23/pre-match-briefing--atletico-madrid-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Atletico Madrid vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/pre-match-briefing--atletico-madrid-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-23T07:44:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/02/23/pre-match-briefing--atletico-madrid-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Bucharest stadium",
-          "id": "editorial/news/2021/02/22/bucharest_stadium_general",
-          "gravity": "auto",
-          "aspectRatio": 1.5028249,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Atletico Madrid vs Chelsea",
-      "publishDate": "2021-02-23T07:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/23/pre-match-briefing--atletico-madrid-vs-chelsea.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-02-23T07:44:00.000Z",
-      "description": "The Blues are in Bucharest but not to face Romanian opposition. Club historian Rick Glanvill and club statistician Paul Dutton have that story and plenty more about the unusual start to our Champions League knockout campaign…",
       "matchId": 2180556
     }
   ]
