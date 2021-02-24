@@ -75,16 +75,30 @@
       "template": "standard-article",
       "path": "/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1",
       "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Olivier Giroud",
-          "id": "editorial/match-reports/2020-21/atletico-madrid-away/Giroud_GettyImages-1231345882",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea's greatest overhead kicks ft. Giroud, Gudjohnsen, Eriksson",
+          "videoId": "8DRdsUFe",
+          "bucket": "prod-cfc",
+          "description": "Olivier Giroud produced a moment of magic as his acrobatic effort was enough to get the win against Atletico Madrid, but where does the Frenchman's finish rank in Chelsea's greatest ever overhead kicks? ",
+          "duration": 130000,
+          "date": "2021-02-24T01:17:34.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/8DRdsUFe/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1.page.v3.json",
+          "contentType": "History",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "Olivier Giroud produced a moment of magic as his acrobatic effort was enough to get the win against Atletico Madrid, but where does the Frenchman's finish rank in Chelsea's greatest ever overhead kicks? "
       },
       "content": "Defying gravity – Bicycle-kick goals by the Blues",
       "publishDate": "2021-02-24T12:13:00.000Z",
