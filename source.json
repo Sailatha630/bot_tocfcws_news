@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 497,
+    "totalItems": 498,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 50,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210225gallery--blues-return-to-work-at",
+      "type": "NewsCard",
+      "timestamp": "2021-02-25T19:27:00.000Z",
+      "orderDate": "2021-02-25T19:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/25/gallery--blues-return-to-work-at-cobham",
+        "type": "NewsCard",
+        "title": "Gallery: Blues return to work at Cobham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/25/gallery--blues-return-to-work-at-cobham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-25T19:27:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/25/gallery--blues-return-to-work-at-cobham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Giroud",
+          "id": "editorial/news/2021/02/25/Giroud-training-pre-Man-United",
+          "gravity": "north_west",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Blues return to work at Cobham",
+      "publishDate": "2021-02-25T19:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/25/gallery--blues-return-to-work-at-cobham.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-25T19:27:00.000Z",
+      "description": "Chelsea were back to work on Thursday as preparations started ahead of the weekend's game against Manchester United."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210225rudiger--it-s-important-to-give-",
@@ -475,58 +518,6 @@
       "date": "2021-02-24T11:30:00.000Z",
       "description": "We take a look over some of the notable statistics from last night’s Champions League victory against Atletico Madrid, with a focus on defensive discipline and a magical match-winning moment…",
       "matchId": 2180556
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210224defying-gravity---bicycle-kick-g",
-      "type": "NewsCard",
-      "timestamp": "2021-02-24T12:13:00.000Z",
-      "orderDate": "2021-02-24T09:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1",
-        "type": "NewsCard",
-        "title": "Defying gravity – Bicycle-kick goals by the Blues",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-24T12:13:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea's greatest overhead kicks ft. Giroud, Gudjohnsen, Eriksson",
-          "videoId": "8DRdsUFe",
-          "bucket": "prod-cfc",
-          "description": "Olivier Giroud produced a moment of magic as his acrobatic effort was enough to get the win against Atletico Madrid, but where does the Frenchman's finish rank in Chelsea's greatest ever overhead kicks? ",
-          "duration": 130000,
-          "date": "2021-02-24T01:17:34.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/8DRdsUFe/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1.page.v3.json",
-          "contentType": "History",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true
-        },
-        "caption": "Olivier Giroud produced a moment of magic as his acrobatic effort was enough to get the win against Atletico Madrid, but where does the Frenchman's finish rank in Chelsea's greatest ever overhead kicks? "
-      },
-      "content": "Defying gravity – Bicycle-kick goals by the Blues",
-      "publishDate": "2021-02-24T12:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/defying-gravity---bicycle-kick-goals-by-the-blues1.html",
-      "readTimeInMins": 15,
-      "tags": [],
-      "date": "2021-02-24T12:13:00.000Z",
-      "description": "As far as goals in football are concerned, there is nothing quite as spectacular as watching a player find the back of the opposition net with a well-executed bicycle kick."
     }
   ]
 }
