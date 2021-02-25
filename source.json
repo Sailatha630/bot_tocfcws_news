@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 496,
+    "totalItems": 497,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 50,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210225rudiger--it-s-important-to-give-",
+      "type": "NewsCard",
+      "timestamp": "2021-02-25T17:15:00.000Z",
+      "orderDate": "2021-02-25T17:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/25/rudiger--it-s-important-to-give-something-back",
+        "type": "NewsCard",
+        "title": "Rudiger: It’s important to give something back",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/25/rudiger--it-s-important-to-give-something-back.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-25T17:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/25/rudiger--it-s-important-to-give-something-back",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Rudiger",
+          "id": "editorial/news/2021/02/14/Rudiger_GettyImages-1300865432",
+          "gravity": "auto",
+          "aspectRatio": 1.3531384,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger: It’s important to give something back",
+      "publishDate": "2021-02-25T17:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/25/rudiger--it-s-important-to-give-something-back.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2021-02-25T17:15:00.000Z",
+      "description": "Antonio Rudiger has discussed his African heritage, growing up as the son of refugees in Germany and how that upbringing made him determined to give back to the community, especially during the Covid-19 pandemic."
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210225giles-smith--var---so-it-was-wor",
@@ -479,60 +527,6 @@
       "tags": [],
       "date": "2021-02-24T12:13:00.000Z",
       "description": "As far as goals in football are concerned, there is nothing quite as spectacular as watching a player find the back of the opposition net with a well-executed bicycle kick."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210224giroud-on-clean-connections-and-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-24T07:30:00.000Z",
-      "orderDate": "2021-02-24T07:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/24/giroud-on-clean-connections-and-strong-intentions",
-        "type": "NewsCard",
-        "title": "Giroud on clean connections and strong intentions",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/giroud-on-clean-connections-and-strong-intentions.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-24T07:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/24/giroud-on-clean-connections-and-strong-intentions",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Olivier Giroud",
-          "id": "editorial/match-reports/2020-21/atletico-madrid-away/giroud-man-of-the-match-award-photo-2",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Giroud on clean connections and strong intentions",
-      "publishDate": "2021-02-24T07:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/giroud-on-clean-connections-and-strong-intentions.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-02-24T07:30:00.000Z",
-      "description": "It was a trademark Olivier Giroud goal that secured a precious victory over Atletico Madrid in Bucharest last night, and afterwards the striker analysed his decisive moment and the collective effort required to blunt our Spanish opponents.",
-      "matchId": 2180556
     }
   ]
 }
