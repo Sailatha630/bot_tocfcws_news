@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 501,
+    "totalItems": 502,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 51,
@@ -123,6 +123,49 @@
       "date": "2021-02-26T00:29:00.000Z",
       "description": "The weekend's big match takes place at the Bridge on Sunday and as the excitement builds, we have plenty of pre-match information with which to arm yourselves...",
       "matchId": 2128536
+    },
+    {
+      "contentType": "Club Partners",
+      "id": "_content_chelseafcennews20210226the-all-new-hyundai-ioniq-5-puts",
+      "type": "NewsCard",
+      "timestamp": "2021-02-26T10:00:00.000Z",
+      "orderDate": "2021-02-26T00:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/26/the-all-new-hyundai-ioniq-5-puts-the-blues-through-their-paces",
+        "type": "NewsCard",
+        "title": "The all-new Hyundai IONIQ 5 puts the Blues through their paces",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/the-all-new-hyundai-ioniq-5-puts-the-blues-through-their-paces.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-26T10:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/26/the-all-new-hyundai-ioniq-5-puts-the-blues-through-their-paces",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/news/2021/02/25/Hyundai_promotion_1",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The all-new Hyundai IONIQ 5 puts the Blues through their paces",
+      "publishDate": "2021-02-26T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/the-all-new-hyundai-ioniq-5-puts-the-blues-through-their-paces.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Hyundai",
+          "namespace": "content-tag:",
+          "id": "content-tag_Partners_hyundai"
+        }
+      ],
+      "date": "2021-02-26T10:00:00.000Z",
+      "description": "This is the moment Chelsea star players had dozens of footballs launched at them by a machine powered by a new electric car."
     },
     {
       "contentType": "News",
@@ -478,54 +521,6 @@
       ],
       "date": "2021-02-25T10:04:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are tipped to be among the frontrunners to sign Erling Haaland while John Terry and Diego Costa share heartfelt messages after the Atletico Madrid clash."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210225mendy-on-how-we-made-atletico-su",
-      "type": "NewsCard",
-      "timestamp": "2021-02-25T08:54:00.000Z",
-      "orderDate": "2021-02-25T00:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/25/mendy-on-how-we-made-atletico-suffer--why-he-appreciates-tuchel-",
-        "type": "NewsCard",
-        "title": "Mendy on how we made Atletico suffer, why he appreciates Tuchel’s honesty and what he expects from United",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/25/mendy-on-how-we-made-atletico-suffer--why-he-appreciates-tuchel-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-25T08:54:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/25/mendy-on-how-we-made-atletico-suffer--why-he-appreciates-tuchel-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mendy",
-          "id": "editorial/news/2021/02/24/Mendy-stock",
-          "gravity": "north",
-          "aspectRatio": 1.7946995,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mendy on how we made Atletico suffer, why he appreciates Tuchel’s honesty and what he expects from United",
-      "publishDate": "2021-02-25T08:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/25/mendy-on-how-we-made-atletico-suffer--why-he-appreciates-tuchel-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2021-02-25T08:54:00.000Z",
-      "description": "Edouard Mendy believes Chelsea’s industry and intensity were key to victory in the Champions League this week..."
     }
   ]
 }
