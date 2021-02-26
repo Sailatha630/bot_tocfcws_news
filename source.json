@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 499,
+    "totalItems": 500,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 50,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210226chelsea-vs-man-united---the-stat",
+      "type": "NewsCard",
+      "timestamp": "2021-02-26T00:29:00.000Z",
+      "orderDate": "2021-02-26T00:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/26/chelsea-vs-man-united---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Man United - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/chelsea-vs-man-united---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-26T00:29:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/02/26/chelsea-vs-man-united---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jorginho playing against Manchester United",
+          "id": "editorial/news/2020/07/jorginho_man_united_semi",
+          "gravity": "auto",
+          "aspectRatio": 1.5115044,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Man United - the stats",
+      "publishDate": "2021-02-26T00:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/chelsea-vs-man-united---the-stats.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Giles",
+        "lastName": "Smith",
+        "description": "Giles Smith has been giving a supporter’s eye view on all matters Chelsea in a weekly column since 2006. A Matthew Harding Stand upper tier season ticket holders, he has been a supporter since 1970 and was briefly the proud sponsor of Gareth Hall's shorts. A former Sports Columnist of the Year, writes for the Times, and has appeared in many British publications and is the author of two books: 'Lost in Music', an autobiographical account of his failure to become a globe-girdling rock star, and 'Midnight In the Garden of Evel Kneivel', a book about sport on television. His column on chelseafc.com will be back for the new season. ",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/blogs-and-columns/giles_smith_profile_080",
+          "gravity": "face",
+          "aspectRatio": 1.1660777,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-02-26T00:29:00.000Z",
+      "description": "The weekend's big match takes place at the Bridge on Sunday and as the excitement builds, we have plenty of pre-match information with which to arm yourselves...",
+      "matchId": 2128536
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210225gallery--blues-return-to-work-at",
@@ -452,60 +515,6 @@
       ],
       "date": "2021-02-25T11:24:00.000Z",
       "description": "Bethany England, Erin Cuthbert, Jessie Fleming and Sophie Ingle have been away with their respective countries during the international break and here we give you an update of how they got on…"
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210224azpilicueta--there-is-still-a-lo",
-      "type": "NewsCard",
-      "timestamp": "2021-02-24T15:06:00.000Z",
-      "orderDate": "2021-02-24T15:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/24/azpilicueta--there-is-still-a-lot-to-do",
-        "type": "NewsCard",
-        "title": "Azpilicueta: There is still a lot to do",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/azpilicueta--there-is-still-a-lot-to-do.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-24T15:06:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/24/azpilicueta--there-is-still-a-lot-to-do",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Azpilicueta",
-          "id": "editorial/news/2021/02/24/Azpilicueta_GettyImages-1303728029",
-          "gravity": "auto",
-          "aspectRatio": 1.4330635,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta: There is still a lot to do",
-      "publishDate": "2021-02-24T15:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/24/azpilicueta--there-is-still-a-lot-to-do.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-02-24T15:06:00.000Z",
-      "description": "Cesar Azpilicueta was pleased with the performance and the result against Atletico Madrid, but knows we will need to be even better in the second leg to make sure we progress in the Champions League.",
-      "matchId": 2180556
     }
   ]
 }
