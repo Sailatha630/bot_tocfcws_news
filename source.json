@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 500,
+    "totalItems": 501,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 50,
+    "pageCount": 51,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210226pre-match-briefing--chelsea-vs-m",
+      "type": "NewsCard",
+      "timestamp": "2021-02-26T07:35:00.000Z",
+      "orderDate": "2021-02-26T07:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/26/pre-match-briefing--chelsea-vs-man-united",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Man United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/pre-match-briefing--chelsea-vs-man-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-26T07:35:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/02/26/pre-match-briefing--chelsea-vs-man-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Timo Werner playing Man United ",
+          "id": "editorial/news/2021/02/25/man_united_away",
+          "gravity": "auto",
+          "aspectRatio": 1.5900679,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Man United",
+      "publishDate": "2021-02-26T07:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/pre-match-briefing--chelsea-vs-man-united.html",
+      "readTimeInMins": 67,
+      "tags": [
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-26T07:35:00.000Z",
+      "description": "February’s matches reach their end with the Blues hosting one of the big contests of the season on Sunday. Club historian Rick Glanvill and club statistician Paul Dutton are ready for the hosting of the Red Devils…",
+      "matchId": 2128536
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210226chelsea-vs-man-united---the-stat",
@@ -472,49 +526,6 @@
       ],
       "date": "2021-02-25T08:54:00.000Z",
       "description": "Edouard Mendy believes Chelsea’s industry and intensity were key to victory in the Champions League this week..."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210225chelsea-women-international-roun",
-      "type": "NewsCard",
-      "timestamp": "2021-02-25T11:24:00.000Z",
-      "orderDate": "2021-02-24T23:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/25/chelsea-women-international-round-up",
-        "type": "NewsCard",
-        "title": "Chelsea Women international round-up",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/25/chelsea-women-international-round-up.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-25T11:24:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/25/chelsea-women-international-round-up",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Beth_England_Lionesses1",
-          "gravity": "auto",
-          "aspectRatio": 1.4754335,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women international round-up",
-      "publishDate": "2021-02-25T11:24:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/25/chelsea-women-international-round-up.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-02-25T11:24:00.000Z",
-      "description": "Bethany England, Erin Cuthbert, Jessie Fleming and Sophie Ingle have been away with their respective countries during the international break and here we give you an update of how they got on…"
     }
   ]
 }
