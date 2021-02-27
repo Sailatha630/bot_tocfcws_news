@@ -1,12 +1,81 @@
 {
   "pagination": {
-    "totalItems": 511,
+    "totalItems": 512,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 52,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210227jorginho-on-playing-to-our-stren",
+      "type": "NewsCard",
+      "timestamp": "2021-02-27T12:17:00.000Z",
+      "orderDate": "2021-02-27T12:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/27/jorginho-on-playing-to-our-strengths",
+        "type": "NewsCard",
+        "title": "Jorginho on playing to our strengths",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/27/jorginho-on-playing-to-our-strengths.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-27T12:17:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/27/jorginho-on-playing-to-our-strengths",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jorginho",
+          "id": "editorial/news/2021/02/27/Jorginho_GettyImages-1231260869",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jorginho on playing to our strengths",
+      "publishDate": "2021-02-27T12:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/27/jorginho-on-playing-to-our-strengths.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2021-02-27T12:17:00.000Z",
+      "description": "Jorginho says Thomas Tuchel is doing a good job of making the most of the players’ individual abilities and has discussed his midfield partnership with Mateo Kovacic.",
+      "matchId": 2128536
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210227how-great-is-havertz-s-talent-an",
@@ -470,43 +539,6 @@
       ],
       "date": "2021-02-26T12:58:00.000Z",
       "description": "The latest instalment of our series looking at the upbringing of Chelsea Academy youngsters focuses today on Luke Badley-Morgan, who reminisces on his Senrab days and describes playing for his country as his biggest achievement..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210226continue-your-lockdown-training-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-26T10:30:00.000Z",
-      "orderDate": "2021-02-26T00:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/26/continue-your-lockdown-training-with-chelsea-coaches-live-online",
-        "type": "NewsCard",
-        "title": "Continue your lockdown training with Chelsea coaches live online this Saturday",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/continue-your-lockdown-training-with-chelsea-coaches-live-online.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-26T10:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/26/continue-your-lockdown-training-with-chelsea-coaches-live-online",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Coaches Corner Live graphic",
-          "id": "editorial/news/2021/01/22/PP_CC_THUMB_2560_2-coaches-corner-week-2-1",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Continue your lockdown training with Chelsea coaches live online this Saturday",
-      "publishDate": "2021-02-26T10:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/continue-your-lockdown-training-with-chelsea-coaches-live-online.html",
-      "readTimeInMins": 6,
-      "tags": [],
-      "date": "2021-02-26T10:30:00.000Z",
-      "description": "Our lockdown feature Coaches Corner Live, which aims to aid your football training and physical activity amid the nationwide restrictions, returns this Saturday morning..."
     }
   ]
 }
