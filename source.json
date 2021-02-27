@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 513,
+    "totalItems": 514,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 52,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210227under-18s-report--norwich-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-02-27T10:39:00.000Z",
+      "orderDate": "2021-02-27T15:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/27/under-18s-report--norwich-chelsea",
+        "type": "NewsCard",
+        "title": "Under-18s report: Norwich 1 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/27/under-18s-report--norwich-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-27T10:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/02/27/under-18s-report--norwich-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Joe Haigh",
+          "id": "editorial/news/2021/02/27/Joe-Haigh-vs-norwich-cfcu18-2",
+          "gravity": "auto",
+          "aspectRatio": 1.5002716,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: Norwich 1 Chelsea 2",
+      "publishDate": "2021-02-27T10:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/27/under-18s-report--norwich-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-02-27T10:39:00.000Z",
+      "description": "A hard-fought win over Norwich earned Chelsea's Under-18s three points in Norwich on Saturday afternoon."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210227jorginho-on-playing-to-our-stren",
@@ -501,54 +550,6 @@
       "date": "2021-02-26T16:30:00.000Z",
       "description": "We’re ending the month on a high by giving away a special prize in this week’s Play Predictor.",
       "matchId": 2128536
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210226media-watch--uruguayan-forward-f",
-      "type": "NewsCard",
-      "timestamp": "2021-02-26T09:59:00.000Z",
-      "orderDate": "2021-02-26T01:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/26/media-watch--uruguayan-forward-flattered-by-chelsea-links--johns",
-        "type": "NewsCard",
-        "title": "Media Watch: Uruguayan forward flattered by Chelsea links, Johnson sees Blues as potential title contenders and Cascarino praises Giroud ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/media-watch--uruguayan-forward-flattered-by-chelsea-links--johns.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-26T09:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/26/media-watch--uruguayan-forward-flattered-by-chelsea-links--johns",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Satriano_MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Uruguayan forward flattered by Chelsea links, Johnson sees Blues as potential title contenders and Cascarino praises Giroud ",
-      "publishDate": "2021-02-26T09:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/media-watch--uruguayan-forward-flattered-by-chelsea-links--johns.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-02-26T09:59:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Inter Milan’s Martin Satriano is flattered by the club’s reported interest and Glen Johnson believes the Blues will contend for the title if they sign a centre-back and a striker."
     }
   ]
 }
