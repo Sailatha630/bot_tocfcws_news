@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 519,
+    "totalItems": 520,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 52,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210228thomas-tuchel-reacts-to-man-unit",
+      "type": "NewsCard",
+      "timestamp": "2021-02-28T19:59:00.000Z",
+      "orderDate": "2021-02-28T19:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/28/thomas-tuchel-reacts-to-man-united-draw",
+        "type": "NewsCard",
+        "title": "Tuchel accepts a point, explains Abraham absence and gives penalty verdict ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/28/thomas-tuchel-reacts-to-man-united-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-28T19:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/28/thomas-tuchel-reacts-to-man-united-draw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/match-reports/2020-21/man-united-home/man-utd-2-tuchel",
+          "gravity": "auto",
+          "aspectRatio": 1.5197058,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel accepts a point, explains Abraham absence and gives penalty verdict ",
+      "publishDate": "2021-02-28T19:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/28/thomas-tuchel-reacts-to-man-united-draw.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-28T19:59:00.000Z",
+      "description": "Thomas Tuchel saw his side improve as the game against Manchester United went on and even if we couldn’t take one of the few clear chances that came our way, he was still satisfied with the manner of the performance.",
+      "matchId": 2128536
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210228match-report--chelsea-vs-man-uni",
@@ -516,65 +570,6 @@
       ],
       "date": "2021-02-27T05:03:00.000Z",
       "description": "Kai Havertz played the full 90 minutes of Thomas Tuchel’s first match in charge of Chelsea but has made only two substitute appearances late in the second half since.",
-      "matchId": 2128536
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210226tuchel-chelsea-injury-update-ahe",
-      "type": "NewsCard",
-      "timestamp": "2021-02-26T14:15:00.000Z",
-      "orderDate": "2021-02-26T14:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/26/tuchel-chelsea-injury-update-ahead-of-man-united",
-        "type": "NewsCard",
-        "title": "Tuchel reports defender absent but no other Chelsea injury concerns for Man United",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/tuchel-chelsea-injury-update-ahead-of-man-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-26T14:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/26/tuchel-chelsea-injury-update-ahead-of-man-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel press conference",
-          "id": "editorial/news/2021/02/26/tuchel-press-conference-graphic-stock-2",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reports defender absent but no other Chelsea injury concerns for Man United",
-      "publishDate": "2021-02-26T14:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/tuchel-chelsea-injury-update-ahead-of-man-united.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        }
-      ],
-      "date": "2021-02-26T14:15:00.000Z",
-      "description": "The good news for Thomas Tuchel is his squad returned from Bucharest in good health, with all those who made the journey to Romania available to play Manchester United on Sunday.",
       "matchId": 2128536
     }
   ]
