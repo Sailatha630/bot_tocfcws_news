@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 514,
+    "totalItems": 515,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 52,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210228tuchel-focused-on-the-big-pictur",
+      "type": "NewsCard",
+      "timestamp": "2021-02-28T01:55:00.000Z",
+      "orderDate": "2021-02-28T01:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/28/tuchel-focused-on-the-big-picture",
+        "type": "NewsCard",
+        "title": "Tuchel focused on the big picture",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/28/tuchel-focused-on-the-big-picture.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-28T01:55:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/28/tuchel-focused-on-the-big-picture",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/02/27/Tuchel_GettyImages-1303739770",
+          "gravity": "face",
+          "aspectRatio": 0.752,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel focused on the big picture",
+      "publishDate": "2021-02-28T01:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/28/tuchel-focused-on-the-big-picture.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-02-28T01:55:00.000Z",
+      "description": "Thomas Tuchel has discussed the importance of ignoring snap-judgements from outside, whether positive or negative, and keeping his mind on the long-term goals for the team and the club.",
+      "matchId": 2128536
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210227jorginho-on-playing-to-our-stren",
@@ -495,60 +554,6 @@
       ],
       "date": "2021-02-26T07:35:00.000Z",
       "description": "February’s matches reach their end with the Blues hosting one of the big contests of the season on Sunday. Club historian Rick Glanvill and club statistician Paul Dutton are ready for the hosting of the Red Devils…",
-      "matchId": 2128536
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210226win-a-nintendo-switch-with-play-",
-      "type": "NewsCard",
-      "timestamp": "2021-02-26T16:30:00.000Z",
-      "orderDate": "2021-02-26T05:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/26/win-a-nintendo-switch-with-play-predictor-",
-        "type": "NewsCard",
-        "title": "Win a Nintendo Switch with Play Predictor!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/win-a-nintendo-switch-with-play-predictor-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-26T16:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/26/win-a-nintendo-switch-with-play-predictor-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Play Predictor",
-          "id": "editorial/news/2021/02/25/Play_Predictor_Carabao_Prize_Boost",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Win a Nintendo Switch with Play Predictor!",
-      "publishDate": "2021-02-26T16:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/win-a-nintendo-switch-with-play-predictor-.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-02-26T16:30:00.000Z",
-      "description": "We’re ending the month on a high by giving away a special prize in this week’s Play Predictor.",
       "matchId": 2128536
     }
   ]
