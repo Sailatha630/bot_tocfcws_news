@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 517,
+    "totalItems": 518,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 52,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210228chelsea-line-up-vs-manchester-un",
+      "type": "NewsCard",
+      "timestamp": "2021-02-28T15:30:00.000Z",
+      "orderDate": "2021-02-28T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/02/28/chelsea-line-up-vs-manchester-united",
+        "type": "NewsCard",
+        "title": "Chelsea line-up vs Manchester United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/28/chelsea-line-up-vs-manchester-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-02-28T15:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/02/28/chelsea-line-up-vs-manchester-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Dressing room shot",
+          "id": "editorial/match-reports/2020-21/man-united-home/dressing-room-Man-United-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line-up vs Manchester United",
+      "publishDate": "2021-02-28T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/28/chelsea-line-up-vs-manchester-united.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        }
+      ],
+      "date": "2021-02-28T15:30:00.000Z",
+      "description": "There are three changes from our midweek Champions League outing…",
+      "matchId": 2128536
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210228alonso-excited-for-crunch-period",
@@ -522,49 +581,6 @@
       "date": "2021-02-26T15:18:00.000Z",
       "description": "A pair of 34-year-olds could be leading the line for Chelsea and Manchester United on Sunday, and having now managed both of them Thomas Tuchel is well placed to explain why Olivier Giroud and Edinson Cavani are still able to play on the biggest stage.",
       "matchId": 2128536
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210226chelsea-coach-barry-adds-ireland",
-      "type": "NewsCard",
-      "timestamp": "2021-02-26T16:20:00.000Z",
-      "orderDate": "2021-02-26T11:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/26/chelsea-coach-barry-adds-ireland-role",
-        "type": "NewsCard",
-        "title": "Chelsea coach Barry adds Ireland role",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/chelsea-coach-barry-adds-ireland-role.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-26T16:20:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/26/chelsea-coach-barry-adds-ireland-role",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Anthony Barry",
-          "id": "chelsea-app/Anthony-Barry-DTW_2272",
-          "gravity": "face",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea coach Barry adds Ireland role",
-      "publishDate": "2021-02-26T16:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/26/chelsea-coach-barry-adds-ireland-role.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-26T16:20:00.000Z",
-      "description": "Anthony Barry, a coach with our men’s first team, is taking up a dual role as assistant coach of the Republic of Ireland men's international team."
     }
   ]
 }
