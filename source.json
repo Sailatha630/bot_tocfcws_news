@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 530,
+    "totalItems": 531,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 53,
+    "pageCount": 54,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210301rudiger-on-turning-draws-into-wi",
+      "type": "NewsCard",
+      "timestamp": "2021-03-01T15:23:00.000Z",
+      "orderDate": "2021-03-01T15:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/01/rudiger-on-turning-draws-into-wins-and-pushing-for-the-top-four",
+        "type": "NewsCard",
+        "title": "Rudiger on turning draws into wins and pushing for the top four",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/rudiger-on-turning-draws-into-wins-and-pushing-for-the-top-four.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-01T15:23:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/01/rudiger-on-turning-draws-into-wins-and-pushing-for-the-top-four",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Rudiger",
+          "id": "editorial/news/2021/03/01/Rudiger-vs-Man-United-h",
+          "gravity": "north",
+          "aspectRatio": 1.580403,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger on turning draws into wins and pushing for the top four",
+      "publishDate": "2021-03-01T15:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/rudiger-on-turning-draws-into-wins-and-pushing-for-the-top-four.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2021-03-01T15:23:00.000Z",
+      "description": "Toni Rudiger accepts a point apiece was the fairest result following our stalemate with Manchester United and has urged his team-mates to find the solutions which will turn draws into wins in the coming weeks.",
+      "matchId": 2128536
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210301the-debrief--defences-on-top-as-",
@@ -454,60 +503,6 @@
       "tags": [],
       "date": "2021-03-01T09:00:00.000Z",
       "description": "The Chelsea Foundation is supporting Surrey Heartlands Health and Care Partnership with the distribution of oxygen saturation monitors to care homes and residential homes across north-west Surrey."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210228thomas-tuchel-reacts-to-man-unit",
-      "type": "NewsCard",
-      "timestamp": "2021-02-28T19:59:00.000Z",
-      "orderDate": "2021-02-28T19:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/28/thomas-tuchel-reacts-to-man-united-draw",
-        "type": "NewsCard",
-        "title": "Tuchel accepts a point, explains Abraham absence and gives penalty verdict ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/28/thomas-tuchel-reacts-to-man-united-draw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-28T19:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/02/28/thomas-tuchel-reacts-to-man-united-draw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/match-reports/2020-21/man-united-home/man-utd-2-tuchel",
-          "gravity": "auto",
-          "aspectRatio": 1.5197058,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel accepts a point, explains Abraham absence and gives penalty verdict ",
-      "publishDate": "2021-02-28T19:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/28/thomas-tuchel-reacts-to-man-united-draw.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-02-28T19:59:00.000Z",
-      "description": "Thomas Tuchel saw his side improve as the game against Manchester United went on and even if we couldn’t take one of the few clear chances that came our way, he was still satisfied with the manner of the performance.",
-      "matchId": 2128536
     }
   ]
 }
