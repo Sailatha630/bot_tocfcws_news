@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 531,
+    "totalItems": 532,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 54,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210301pl2-report--leicester-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-03-01T20:45:00.000Z",
+      "orderDate": "2021-03-01T20:22:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/01/pl2-report--leicester-chelsea",
+        "type": "NewsCard",
+        "title": "PL2 report: Leicester 1 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/pl2-report--leicester-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-01T20:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/01/pl2-report--leicester-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Tino Anjorin",
+          "id": "editorial/news/2021/03/01/Anjorin-shot-cfcdev-vs-leicester",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Leicester 1 Chelsea 1",
+      "publishDate": "2021-03-01T20:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/pl2-report--leicester-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-03-01T20:45:00.000Z",
+      "description": "Chelsea’s development squad were held to a PL2 point in Leicester on Monday evening."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210301rudiger-on-turning-draws-into-wi",
@@ -467,42 +521,6 @@
       ],
       "date": "2021-03-01T08:46:00.000Z",
       "description": "Tonight’s game is rearranged from last Friday night and Andy Myers’ men are searching for a win to record a double over Leicester this season."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210301foundation-supporting-nhs-with-d",
-      "type": "NewsCard",
-      "timestamp": "2021-03-01T09:00:00.000Z",
-      "orderDate": "2021-03-01T00:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/01/foundation-supporting-nhs-with-delivery-of-oxygen-saturation-mon",
-        "type": "NewsCard",
-        "title": "Foundation supporting NHS with delivery of oxygen saturation monitors",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/foundation-supporting-nhs-with-delivery-of-oxygen-saturation-mon.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-01T09:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/01/foundation-supporting-nhs-with-delivery-of-oxygen-saturation-mon",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/03/01/ChelseaFoundation_NHS_Monitors_(2)",
-          "gravity": "auto",
-          "aspectRatio": 1.4658065,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Foundation supporting NHS with delivery of oxygen saturation monitors",
-      "publishDate": "2021-03-01T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/foundation-supporting-nhs-with-delivery-of-oxygen-saturation-mon.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2021-03-01T09:00:00.000Z",
-      "description": "The Chelsea Foundation is supporting Surrey Heartlands Health and Care Partnership with the distribution of oxygen saturation monitors to care homes and residential homes across north-west Surrey."
     }
   ]
 }
