@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 521,
+    "totalItems": 522,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 53,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210301christensen-assesses-another-cle",
+      "type": "NewsCard",
+      "timestamp": "2021-03-01T05:00:00.000Z",
+      "orderDate": "2021-03-01T05:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/01/christensen-assesses-another-clean-sheet-and-why-we-improved-aft",
+        "type": "NewsCard",
+        "title": "Christensen assesses another clean sheet and why we improved after the break against United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/christensen-assesses-another-clean-sheet-and-why-we-improved-aft.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-01T05:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/01/christensen-assesses-another-clean-sheet-and-why-we-improved-aft",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Christensen v Rashford",
+          "id": "editorial/match-reports/2020-21/man-united-home/Christensen-Rashford-Man-United-h",
+          "gravity": "auto",
+          "aspectRatio": 1.4017519,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Christensen assesses another clean sheet and why we improved after the break against United",
+      "publishDate": "2021-03-01T05:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/christensen-assesses-another-clean-sheet-and-why-we-improved-aft.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-01T05:00:00.000Z",
+      "description": "After helping the team keep another clean sheet and earn a Premier League point against Manchester United, Andreas Christensen gave his assessment on the performance, the penalty appeal that dominated the post-match discussion and why we were better after the break…",
+      "matchId": 2128536
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210228thomas-tuchel-reacts-to-man-unit",
@@ -532,55 +581,6 @@
       "date": "2021-02-27T10:52:00.000Z",
       "description": "No team has scored more penalties in the Premier League than Chelsea and Manchester United. Ahead of the two sides' next meeting, see if you can remember every player who has netted from the spot for the Blues in that competition.",
       "matchId": 2128536
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210227under-18s-report--norwich-chelse",
-      "type": "NewsCard",
-      "timestamp": "2021-02-27T13:45:00.000Z",
-      "orderDate": "2021-02-27T10:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/02/27/under-18s-report--norwich-chelsea",
-        "type": "NewsCard",
-        "title": "Under-18s report: Norwich 1 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/27/under-18s-report--norwich-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-02-27T13:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/02/27/under-18s-report--norwich-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Joe Haigh",
-          "id": "editorial/news/2021/02/27/Joe-Haigh-vs-norwich-cfcu18-2",
-          "gravity": "auto",
-          "aspectRatio": 1.5002716,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Norwich 1 Chelsea 2",
-      "publishDate": "2021-02-27T13:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/02/27/under-18s-report--norwich-chelsea.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-02-27T13:45:00.000Z",
-      "description": "A hard-fought win over Norwich earned Chelsea's Under-18s three points in Norwich on Saturday afternoon."
     }
   ]
 }
