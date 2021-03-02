@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 534,
+    "totalItems": 535,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 54,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210302tuchel--learning-lessons-from-te",
+      "type": "NewsCard",
+      "timestamp": "2021-03-02T14:52:00.000Z",
+      "orderDate": "2021-03-02T14:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/02/tuchel--learning-lessons-from-teachers",
+        "type": "NewsCard",
+        "title": "Tuchel: Learning lessons from teachers",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/tuchel--learning-lessons-from-teachers.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-02T14:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/02/tuchel--learning-lessons-from-teachers",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/news/2021/03/02/tuchel_thinking",
+          "gravity": "face",
+          "aspectRatio": 0.752,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Learning lessons from teachers",
+      "publishDate": "2021-03-02T14:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/tuchel--learning-lessons-from-teachers.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-02T14:52:00.000Z",
+      "description": "Now into his second month as Chelsea head coach, Thomas Tuchel has expanded further on some of his management philosophy, and how he seeks inspiration from walks of life far removed from the football training pitch."
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210302pat-nevin--why-the-blues-are-hor",
@@ -487,54 +535,6 @@
       ],
       "date": "2021-03-01T13:35:00.000Z",
       "description": "We have a bumper week of live Chelsea football for you across the club's online platforms, featuring action for both our Academy teams as well as all the build-up and reaction to our trip to Anfield…"
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20210301chelsea-here-chelsea-there--tomo",
-      "type": "NewsCard",
-      "timestamp": "2021-03-01T13:00:00.000Z",
-      "orderDate": "2021-03-01T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/01/chelsea-here-chelsea-there--tomori-progress-in-europa-league--dr",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Tomori progress in Europa League, Drinkwater debut in Turkey",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/chelsea-here-chelsea-there--tomori-progress-in-europa-league--dr.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-01T13:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/01/chelsea-here-chelsea-there--tomori-progress-in-europa-league--dr",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Fikayo Tomori playing for Milan",
-          "id": "editorial/news/2021/03/01/tomori_milan_belgrade",
-          "gravity": "auto",
-          "aspectRatio": 1.3493767,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Tomori progress in Europa League, Drinkwater debut in Turkey",
-      "publishDate": "2021-03-01T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/chelsea-here-chelsea-there--tomori-progress-in-europa-league--dr.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Danny Drinkwater",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_danny-drinkwater"
-        },
-        {
-          "title": "Fikayo Tomori",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_fikayo-tomori"
-        }
-      ],
-      "date": "2021-03-01T13:00:00.000Z",
-      "description": "We catch up with the highlights from the past week for Chelsea players out on loan…"
     }
   ]
 }
