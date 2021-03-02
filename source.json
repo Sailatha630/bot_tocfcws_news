@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 535,
+    "totalItems": 536,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 54,
@@ -54,6 +54,60 @@
       ],
       "date": "2021-03-02T14:52:00.000Z",
       "description": "Now into his second month as Chelsea head coach, Thomas Tuchel has expanded further on some of his management philosophy, and how he seeks inspiration from walks of life far removed from the football training pitch."
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210302emma-hayes-previews-women-s-cham",
+      "type": "NewsCard",
+      "timestamp": "2021-03-02T15:33:00.000Z",
+      "orderDate": "2021-03-02T12:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/02/emma-hayes-previews-women-s-champions-league-clash-v-atletico-ma",
+        "type": "NewsCard",
+        "title": "Emma Hayes previews Women’s Champions League clash v Atletico Madrid",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/emma-hayes-previews-women-s-champions-league-clash-v-atletico-ma.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-02T15:33:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/02/emma-hayes-previews-women-s-champions-league-clash-v-atletico-ma",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/women's-team/Hayes_coaching_Cobham1",
+          "gravity": "auto",
+          "aspectRatio": 1.5021701,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emma Hayes previews Women’s Champions League clash v Atletico Madrid",
+      "publishDate": "2021-03-02T15:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/emma-hayes-previews-women-s-champions-league-clash-v-atletico-ma.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        },
+        {
+          "title": "Uefa Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_uefa-women-s-champions-league"
+        }
+      ],
+      "date": "2021-03-02T15:33:00.000Z",
+      "description": "Emma Hayes held a press conference this afternoon ahead of Chelsea FC Women’s big Champions League game versus Atletico Madrid tomorrow evening.",
+      "matchId": 2191058
     },
     {
       "contentType": "Columnist",
@@ -482,59 +536,6 @@
       "date": "2021-03-01T14:13:00.000Z",
       "description": "Chelsea Women continue our UEFA Women’s Champions League campaign on Wednesday when we host Atletico Madrid in the first leg of our last-16 tie.",
       "matchId": 2191058
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210301what-can-you-watch-on-chelsea-pl",
-      "type": "NewsCard",
-      "timestamp": "2021-03-01T13:35:00.000Z",
-      "orderDate": "2021-03-01T01:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/01/what-can-you-watch-on-chelsea-platforms-this-week-",
-        "type": "NewsCard",
-        "title": "What can you watch on Chelsea platforms this week?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-01T13:35:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/01/what-can-you-watch-on-chelsea-platforms-this-week-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Live streams graphic",
-          "id": "editorial/news/2021/03/01/live-streams-graphic-livramento",
-          "gravity": "face",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "What can you watch on Chelsea platforms this week?",
-      "publishDate": "2021-03-01T13:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-03-01T13:35:00.000Z",
-      "description": "We have a bumper week of live Chelsea football for you across the club's online platforms, featuring action for both our Academy teams as well as all the build-up and reaction to our trip to Anfield…"
     }
   ]
 }
