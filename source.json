@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 542,
+    "totalItems": 544,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 55,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210303tuchel--we-have-everything-we-ne",
+      "type": "NewsCard",
+      "timestamp": "2021-03-03T14:49:00.000Z",
+      "orderDate": "2021-03-03T14:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/03/tuchel--we-have-everything-we-need-to-win",
+        "type": "NewsCard",
+        "title": "Tuchel: We have everything we need to win",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/tuchel--we-have-everything-we-need-to-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-03T14:49:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/03/tuchel--we-have-everything-we-need-to-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/03/03/Tuchel_PC_030321",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: We have everything we need to win",
+      "publishDate": "2021-03-03T14:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/tuchel--we-have-everything-we-need-to-win.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-03T14:49:00.000Z",
+      "description": "Thomas Tuchel is looking forward to taking on Liverpool and seeing how we compare to one of the Premier League’s ‘benchmark’ sides during a spell of matches he feels will be important, but not decisive, for our season.",
+      "matchId": 2128570
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210303thiago-silva-injury-update-tuche",
@@ -60,6 +119,54 @@
       "date": "2021-03-03T13:59:00.000Z",
       "description": "Thomas Tuchel has revealed Thiago Silva will not be available for tomorrow’s game against Liverpool.",
       "matchId": 2128570
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210303under-18s-report--chelsea-v-brig",
+      "type": "NewsCard",
+      "timestamp": "2021-03-03T14:45:00.000Z",
+      "orderDate": "2021-03-03T10:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/03/under-18s-report--chelsea-v-brighton",
+        "type": "NewsCard",
+        "title": "Under-18s report: Chelsea 2 Brighton 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/under-18s-report--chelsea-v-brighton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-03T14:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/03/under-18s-report--chelsea-v-brighton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Charlie Webster",
+          "id": "editorial/news/2021/03/03/Webster-U18s-vs-Brighton",
+          "gravity": "north_east",
+          "aspectRatio": 1.5002292,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Under-18s report: Chelsea 2 Brighton 3",
+      "publishDate": "2021-03-03T14:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/under-18s-report--chelsea-v-brighton.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-03-03T14:45:00.000Z",
+      "description": "Goals from Charlie Wiggett and Brodi Hughes twice put our youngsters in front but they were ultimately left without reward as Brighton snatched all three points in the Under-18 Premier League."
     },
     {
       "contentType": "Interview",
@@ -418,102 +525,6 @@
       },
       "date": "2021-03-02T04:00:00.000Z",
       "description": "Chelsea legend Pat Nevin gives himself more time than the Manchester United midfielders had on Sunday to analyse that game before quickly moving his focus to another massive match, and a maiden meeting between Thomas Tuchel and Jurgen Klopp in the Premier League…"
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210302new-chance-to-win-on-play-predic",
-      "type": "NewsCard",
-      "timestamp": "2021-03-02T19:56:00.000Z",
-      "orderDate": "2021-03-02T01:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/02/new-chance-to-win-on-play-predictor",
-        "type": "NewsCard",
-        "title": "New chance to win on Play Predictor",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/new-chance-to-win-on-play-predictor.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-02T19:56:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/02/new-chance-to-win-on-play-predictor",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Giroud",
-          "id": "editorial/news/2021/03/02/Giroud_Play_Predictor_Hero",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "New chance to win on Play Predictor",
-      "publishDate": "2021-03-02T19:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/new-chance-to-win-on-play-predictor.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-03-02T19:56:00.000Z",
-      "description": "The leaderboard has reset and so have your chances of winning big on Play Predictor!"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210302media-watch--ferdinand-is-impres",
-      "type": "NewsCard",
-      "timestamp": "2021-03-02T09:54:00.000Z",
-      "orderDate": "2021-03-02T00:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/02/media-watch--ferdinand-is-impressed-by-tuchel--hasselbaink-discu",
-        "type": "NewsCard",
-        "title": "Media Watch: Ferdinand is impressed by Tuchel, Hasselbaink discusses top-four hopes and former Blue close to MLS move",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/media-watch--ferdinand-is-impressed-by-tuchel--hasselbaink-discu.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-02T09:54:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/02/media-watch--ferdinand-is-impressed-by-tuchel--hasselbaink-discu",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Tuchel-MW",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Ferdinand is impressed by Tuchel, Hasselbaink discusses top-four hopes and former Blue close to MLS move",
-      "publishDate": "2021-03-02T09:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/media-watch--ferdinand-is-impressed-by-tuchel--hasselbaink-discu.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Jimmy Floyd Hasselbaink",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_jimmy-floyd-hasselbaink"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Kyle Scott",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kyle-scott"
-        }
-      ],
-      "date": "2021-03-02T09:54:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Rio Ferdinand is impressed with Thomas Tuchel’s start at Stamford Bridge and Kyle Scott is reportedly moving to the MLS."
     }
   ]
 }
