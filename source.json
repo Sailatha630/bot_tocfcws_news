@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 540,
+    "totalItems": 541,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 54,
+    "pageCount": 55,
     "startFrom": 0
   },
   "newsFeed": [
@@ -54,6 +54,65 @@
       ],
       "date": "2021-03-03T03:00:00.000Z",
       "description": "Last week N’Golo Kante played his 200th Chelsea game, so who better to speak to for the next edition of our 10 Questions with… feature than our midfield maestro."
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210303quiz--do-you-know-your-tuchel-fr",
+      "type": "NewsCard",
+      "timestamp": "2021-03-03T10:26:00.000Z",
+      "orderDate": "2021-03-03T02:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/03/quiz--do-you-know-your-tuchel-from-your-klopp-",
+        "type": "NewsCard",
+        "title": "Quiz: Do you know your Tuchel from your Klopp?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/quiz--do-you-know-your-tuchel-from-your-klopp-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-03T10:26:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/03/quiz--do-you-know-your-tuchel-from-your-klopp-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel and Klopp",
+          "id": "editorial/news/2021/03/02/Klopp_Tuchel_GettyImages-521217756",
+          "gravity": "faces",
+          "aspectRatio": 0.71192944,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Do you know your Tuchel from your Klopp?",
+      "publishDate": "2021-03-03T10:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/quiz--do-you-know-your-tuchel-from-your-klopp-.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-03-03T10:26:00.000Z",
+      "description": "Before German duo Thomas Tuchel and Jurgen Klopp go head-to-head in the Anfield dugouts when we take on Liverpool, see if you know which coach did what earlier in their career.",
+      "matchId": 2128570
     },
     {
       "contentType": "News",
@@ -455,55 +514,6 @@
       ],
       "date": "2021-03-01T20:45:00.000Z",
       "description": "Chelsea’s development squad scored first but were held to a PL2 point in Leicester on Monday evening."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210301rudiger-on-turning-draws-into-wi",
-      "type": "NewsCard",
-      "timestamp": "2021-03-01T15:23:00.000Z",
-      "orderDate": "2021-03-01T15:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/01/rudiger-on-turning-draws-into-wins-and-pushing-for-the-top-four",
-        "type": "NewsCard",
-        "title": "Rudiger on turning draws into wins and pushing for the top four",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/rudiger-on-turning-draws-into-wins-and-pushing-for-the-top-four.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-01T15:23:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/01/rudiger-on-turning-draws-into-wins-and-pushing-for-the-top-four",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Rudiger",
-          "id": "editorial/news/2021/03/01/Rudiger-vs-Man-United-h",
-          "gravity": "north",
-          "aspectRatio": 1.580403,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rudiger on turning draws into wins and pushing for the top four",
-      "publishDate": "2021-03-01T15:23:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/01/rudiger-on-turning-draws-into-wins-and-pushing-for-the-top-four.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2021-03-01T15:23:00.000Z",
-      "description": "Toni Rudiger accepts a point apiece was the fairest result following our stalemate with Manchester United and has urged his team-mates to find the solutions which will turn draws into wins in the coming weeks.",
-      "matchId": 2128536
     }
   ]
 }
