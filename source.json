@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 554,
+    "totalItems": 555,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 56,
@@ -235,6 +235,60 @@
       "description": "In his fan’s-eye view column this week, Giles Smith has spotted some important patterns which give hope for victory at Anfield, but he begins by continuing to warm towards VAR…"
     },
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210304emma-hayes-hails-chelsea-women-s",
+      "type": "NewsCard",
+      "timestamp": "2021-03-04T12:33:00.000Z",
+      "orderDate": "2021-03-04T07:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/04/emma-hayes-hails-chelsea-women-s-courage-and-conviction-after-at",
+        "type": "NewsCard",
+        "title": "Emma Hayes hails Chelsea Women’s courage and conviction after Atletico Madrid win; FA Cup news announced",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/emma-hayes-hails-chelsea-women-s-courage-and-conviction-after-at.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-04T12:33:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/04/emma-hayes-hails-chelsea-women-s-courage-and-conviction-after-at",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/women's-team/Hayes_Atletico",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emma Hayes hails Chelsea Women’s courage and conviction after Atletico Madrid win; FA Cup news announced",
+      "publishDate": "2021-03-04T12:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/emma-hayes-hails-chelsea-women-s-courage-and-conviction-after-at.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2021-03-04T12:33:00.000Z",
+      "description": "Manager Emma Hayes says her Chelsea Women side showed ‘discipline, structure and game-management’ after securing a two-goal advantage in the first leg of our Champions League round of 16 tie against Atletico Madrid despite going down to 10 players in the 12th minute.",
+      "matchId": 2191058
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210304we-re-on-it--tuchel-seeking-solu",
       "type": "NewsCard",
@@ -465,51 +519,6 @@
       "date": "2021-03-04T00:33:00.000Z",
       "description": "Our look ahead to Liverpool begins with the key facts and figures worth knowing as a regular fixture resumes...",
       "matchId": 2128570
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210303women-s-report--chelsea-2-atleti",
-      "type": "NewsCard",
-      "timestamp": "2021-03-03T21:07:00.000Z",
-      "orderDate": "2021-03-03T21:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/03/women-s-report--chelsea-2-atletico-madrid-0",
-        "type": "NewsCard",
-        "title": "Women’s report: Chelsea 2 Atletico Madrid 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/women-s-report--chelsea-2-atletico-madrid-0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-03T21:07:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/03/03/women-s-report--chelsea-2-atletico-madrid-0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Berger celebrates her first penalty save",
-          "id": "editorial/match-reports/2020-21/women-atletico-madrid-home/Berger-GettyImages-1305148749",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Chelsea 2 Atletico Madrid 0",
-      "publishDate": "2021-03-03T21:07:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/women-s-report--chelsea-2-atletico-madrid-0.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-03-03T21:07:00.000Z",
-      "description": "The Blues made light of an early red card for Sophie Ingle, as Ann-Katrin Berger saved two penalties and second-half goals from Maren Mjelde and Fran Kirby secured a superb victory over Atletico Madrid.",
-      "matchId": 2191058
     }
   ]
 }
