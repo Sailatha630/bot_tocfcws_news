@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 556,
+    "totalItems": 557,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 56,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210304tuchel-sets-time-needed-to-turn-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-04T17:16:00.000Z",
+      "orderDate": "2021-03-04T17:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/04/tuchel-sets-time-needed-to-turn-chelsea-into-challengers",
+        "type": "NewsCard",
+        "title": "Tuchel sets time needed to turn Chelsea into challengers",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/tuchel-sets-time-needed-to-turn-chelsea-into-challengers.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-04T17:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/04/tuchel-sets-time-needed-to-turn-chelsea-into-challengers",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel at training",
+          "id": "editorial/news/2021/03/04/tuchel_training_watch",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel sets time needed to turn Chelsea into challengers",
+      "publishDate": "2021-03-04T17:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/tuchel-sets-time-needed-to-turn-chelsea-into-challengers.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-04T17:16:00.000Z",
+      "description": "Chelsea have closed the gap on Premier League champions Liverpool so far this season to the extent we go into today’s clash with a point advantage over them in the table.",
+      "matchId": 2128570
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210304kante-discusses-the-difficulty-o",
@@ -463,43 +517,6 @@
       ],
       "date": "2021-03-04T10:01:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are interested in Aurelien Tchouameni and Jurgen Klopp praises Thomas Tuchel on the work he has done so far."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210303foundation-driving-youngsters-to",
-      "type": "NewsCard",
-      "timestamp": "2021-03-03T23:32:00.000Z",
-      "orderDate": "2021-03-04T00:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/03/foundation-driving-youngsters-to-achieve-a-career-in-the-sport-i",
-        "type": "NewsCard",
-        "title": "Foundation driving youngsters to achieve a career in the sport industry",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/foundation-driving-youngsters-to-achieve-a-career-in-the-sport-i.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-03T23:32:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/03/foundation-driving-youngsters-to-achieve-a-career-in-the-sport-i",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/03/04/Fulham_Cross_Academy_3",
-          "gravity": "auto",
-          "aspectRatio": 1.347709,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Foundation driving youngsters to achieve a career in the sport industry",
-      "publishDate": "2021-03-03T23:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/foundation-driving-youngsters-to-achieve-a-career-in-the-sport-i.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2021-03-03T23:32:00.000Z",
-      "description": "The Chelsea Foundation are continuing to deliver the BTEC in Sport programme at Fulham Cross Academy sixth form throughout lockdown to engage local young people and help them to pursue a career within the sport industry."
     }
   ]
 }
