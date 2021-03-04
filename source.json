@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 546,
+    "totalItems": 547,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 55,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210304we-re-on-it--tuchel-seeking-solu",
+      "type": "NewsCard",
+      "timestamp": "2021-03-04T07:10:00.000Z",
+      "orderDate": "2021-03-04T07:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/04/we-re-on-it--tuchel-seeking-solution-for-scoring-more-goals",
+        "type": "NewsCard",
+        "title": "We’re on it! Tuchel seeking solution for scoring more goals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/we-re-on-it--tuchel-seeking-solution-for-scoring-more-goals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-04T07:10:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/04/we-re-on-it--tuchel-seeking-solution-for-scoring-more-goals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel at training",
+          "id": "editorial/news/2021/03/03/tuchel_training_goal",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "We’re on it! Tuchel seeking solution for scoring more goals",
+      "publishDate": "2021-03-04T07:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/we-re-on-it--tuchel-seeking-solution-for-scoring-more-goals.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-04T07:10:00.000Z",
+      "description": "As the Blues look to up our goal count, an aim Thomas Tuchel confirms the players are working hard upon, the boss discusses the challenge of being the Chelsea centre-forward.",
+      "matchId": 2128570
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210304liverpool-vs-chelsea---the-stats",
@@ -461,54 +515,6 @@
       "date": "2021-03-03T09:34:00.000Z",
       "description": "Chelsea FC Women host Atletico Madrid in the first leg of our Champions League round of 16 tie this evening and Blues vice-captain Millie Bright is relishing the challenge from tonight’s opponents.",
       "matchId": 2191058
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210302tuchel--learning-lessons-from-te",
-      "type": "NewsCard",
-      "timestamp": "2021-03-02T14:52:00.000Z",
-      "orderDate": "2021-03-02T14:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/02/tuchel--learning-lessons-from-teachers",
-        "type": "NewsCard",
-        "title": "Tuchel: Learning lessons from teachers",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/tuchel--learning-lessons-from-teachers.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-02T14:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/02/tuchel--learning-lessons-from-teachers",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2021/03/02/tuchel_thinking",
-          "gravity": "face",
-          "aspectRatio": 0.752,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Learning lessons from teachers",
-      "publishDate": "2021-03-02T14:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/02/tuchel--learning-lessons-from-teachers.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-02T14:52:00.000Z",
-      "description": "Now into his second month as Chelsea head coach, Thomas Tuchel has expanded further on some of his management philosophy, and how he seeks inspiration from walks of life far removed from the football training pitch."
     }
   ]
 }
