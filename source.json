@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 549,
+    "totalItems": 550,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 55,
@@ -157,6 +157,49 @@
       ],
       "date": "2021-03-04T09:59:00.000Z",
       "description": "Yesterday Toni Rudiger turned 28 and marked the occasion by surprising staff at the Chelsea and Westminster Hospital with cakes and drinks to say thank you for all their hard work over the past 12 months."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210304media-watch--chelsea-monitoring-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-04T10:01:00.000Z",
+      "orderDate": "2021-03-04T01:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/04/media-watch--chelsea-monitoring-monaco-midfielder--klopp-praises",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea monitoring Monaco midfielder, Klopp praises Tuchel and Turnbull on life as a goalkeeper coach",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/media-watch--chelsea-monitoring-monaco-midfielder--klopp-praises.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-04T10:01:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/04/media-watch--chelsea-monitoring-monaco-midfielder--klopp-praises",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Tchouameni-mw",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea monitoring Monaco midfielder, Klopp praises Tuchel and Turnbull on life as a goalkeeper coach",
+      "publishDate": "2021-03-04T10:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/media-watch--chelsea-monitoring-monaco-midfielder--klopp-praises.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-03-04T10:01:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are interested in Aurelien Tchouameni and Jurgen Klopp praises Thomas Tuchel on the work he has done so far."
     },
     {
       "contentType": "Match Preview",
@@ -466,65 +509,6 @@
       ],
       "date": "2021-03-03T03:00:00.000Z",
       "description": "Last week N’Golo Kante played his 200th Chelsea game, so who better to speak to for the next edition of our 10 Questions with… feature than our midfield maestro."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210303quiz--do-you-know-your-tuchel-fr",
-      "type": "NewsCard",
-      "timestamp": "2021-03-03T10:26:00.000Z",
-      "orderDate": "2021-03-03T02:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/03/quiz--do-you-know-your-tuchel-from-your-klopp-",
-        "type": "NewsCard",
-        "title": "Quiz: Do you know your Tuchel from your Klopp?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/quiz--do-you-know-your-tuchel-from-your-klopp-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-03T10:26:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/03/quiz--do-you-know-your-tuchel-from-your-klopp-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel and Klopp",
-          "id": "editorial/news/2021/03/02/Klopp_Tuchel_GettyImages-521217756",
-          "gravity": "faces",
-          "aspectRatio": 0.71192944,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Do you know your Tuchel from your Klopp?",
-      "publishDate": "2021-03-03T10:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/03/quiz--do-you-know-your-tuchel-from-your-klopp-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-03-03T10:26:00.000Z",
-      "description": "Before German duo Thomas Tuchel and Jurgen Klopp go head-to-head in the Anfield dugouts when we take on Liverpool, see if you know which coach did what earlier in their career.",
-      "matchId": 2128570
     }
   ]
 }
