@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 558,
+    "totalItems": 559,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 56,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210304match-report--liverpool-vs-chels",
+      "type": "NewsCard",
+      "timestamp": "2021-03-04T22:20:00.000Z",
+      "orderDate": "2021-03-04T22:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/04/match-report--liverpool-vs-chelsea-",
+        "type": "NewsCard",
+        "title": "Match Report: Liverpool 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/match-report--liverpool-vs-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-04T22:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/04/match-report--liverpool-vs-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mason Mount celebrating",
+          "id": "editorial/match-reports/2020-21/liverpool-away/Mount-goal-celebration-Liverpool-a-1",
+          "gravity": "auto",
+          "aspectRatio": 1.4554822,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Liverpool 0 Chelsea 1",
+      "publishDate": "2021-03-04T22:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/match-report--liverpool-vs-chelsea-.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-04T22:20:00.000Z",
+      "description": "The Blues move back into the top four as the unbeaten run under Thomas Tuchel reaches double figures, his team taking a big three points against the side managed by his compatriot Jurgen Klopp.",
+      "matchId": 2128570
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210304chelsea-line-up-vs-liverpool",
@@ -496,43 +550,6 @@
       ],
       "date": "2021-03-04T09:59:00.000Z",
       "description": "Yesterday Toni Rudiger turned 28 and marked the occasion by surprising staff at the Chelsea and Westminster Hospital with cakes and drinks to say thank you for all their hard work over the past 12 months."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210304world-book-day--the-best-of-the-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-04T10:37:00.000Z",
-      "orderDate": "2021-03-04T01:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/04/world-book-day--the-best-of-the-blues",
-        "type": "NewsCard",
-        "title": "World Book Day: The best of the Blues",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/world-book-day--the-best-of-the-blues.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-04T10:37:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/04/world-book-day--the-best-of-the-blues",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tambling book signing",
-          "id": "editorial/news/2020/04/Tambling-DW_CHEL_LIVER_21",
-          "gravity": "south_east",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "World Book Day: The best of the Blues",
-      "publishDate": "2021-03-04T10:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/world-book-day--the-best-of-the-blues.html",
-      "readTimeInMins": 10,
-      "tags": [],
-      "date": "2021-03-04T10:37:00.000Z",
-      "description": "To celebrate World Book Day in the UK and Ireland, we've dusted off some of our favourite Chelsea tomes and picked out the juiciest excerpts for you to relive in all their glory..."
     }
   ]
 }
