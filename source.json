@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 559,
+    "totalItems": 561,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 56,
+    "pageCount": 57,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210304tuchel-reaction-to-win-vs-liverp",
+      "type": "NewsCard",
+      "timestamp": "2021-03-04T22:37:00.000Z",
+      "orderDate": "2021-03-04T22:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/04/tuchel-reaction-to-win-vs-liverpool",
+        "type": "NewsCard",
+        "title": "Super-happy Tuchel has praise for brave player at the back",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/tuchel-reaction-to-win-vs-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-04T22:37:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/04/tuchel-reaction-to-win-vs-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel after Liverpool win",
+          "id": "editorial/match-reports/2020-21/liverpool-away/liverpool_away_tuchel",
+          "gravity": "auto",
+          "aspectRatio": 1.4997468,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Super-happy Tuchel has praise for brave player at the back",
+      "publishDate": "2021-03-04T22:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/tuchel-reaction-to-win-vs-liverpool.html",
+      "readTimeInMins": 47,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-04T22:37:00.000Z",
+      "description": "Mason Mount will grab a lot of the headlines after his first-half goal at Anfield proved the champions undoing on Thursday night, but it was another Chelsea Academy product who earned special commendation from Thomas Tuchel after the 1-0 win.",
+      "matchId": 2128570
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210304match-report--liverpool-vs-chels",
@@ -59,6 +113,75 @@
       ],
       "date": "2021-03-04T22:20:00.000Z",
       "description": "The Blues move back into the top four as the unbeaten run under Thomas Tuchel reaches double figures, his team taking a big three points against the side managed by his compatriot Jurgen Klopp.",
+      "matchId": 2128570
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210304watch-highlights-of-chelsea-s-bi",
+      "type": "NewsCard",
+      "timestamp": "2021-03-04T00:00:00.000Z",
+      "orderDate": "2021-03-04T20:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/04/watch-highlights-of-chelsea-s-big-win-at-liverpool",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea's big win at Liverpool",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/watch-highlights-of-chelsea-s-big-win-at-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-04T00:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/04/watch-highlights-of-chelsea-s-big-win-at-liverpool",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Liverpool 0-1 Chelsea (A) | Premier League Highlights ",
+          "videoId": "9XEk4gGa",
+          "bucket": "prod-cfc",
+          "description": "Watch our impressive 0-1 win over Liverpool at Anfield.",
+          "duration": 143000,
+          "date": "2021-03-04T23:18:24.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/9XEk4gGa/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/watch-highlights-of-chelsea-s-big-win-at-liverpool.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/03/04/watch-highlights-of-chelsea-s-big-win-at-liverpool?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/03/04/watch-highlights-of-chelsea-s-big-win-at-liverpool",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "Watch our impressive 0-1 win over Liverpool at Anfield."
+      },
+      "content": "Watch highlights of Chelsea's big win at Liverpool",
+      "publishDate": "2021-03-04T00:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/watch-highlights-of-chelsea-s-big-win-at-liverpool.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-04T00:00:00.000Z",
+      "description": "Mason Mount was the Chelsea match-winner as the Blues took three points home from Anfield for the first time in more than six years, and you can watch the best of the victory in the video above.",
       "matchId": 2128570
     },
     {
@@ -453,103 +576,6 @@
       "date": "2021-03-04T12:33:00.000Z",
       "description": "Manager Emma Hayes says her Chelsea Women side showed ‘discipline, structure and game-management’ after securing a two-goal advantage in the first leg of our Champions League round of 16 tie against Atletico Madrid despite going down to 10 players in the 12th minute.",
       "matchId": 2191058
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210304we-re-on-it--tuchel-seeking-solu",
-      "type": "NewsCard",
-      "timestamp": "2021-03-04T07:10:00.000Z",
-      "orderDate": "2021-03-04T07:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/04/we-re-on-it--tuchel-seeking-solution-for-scoring-more-goals",
-        "type": "NewsCard",
-        "title": "We’re on it! Tuchel seeking solution for scoring more goals",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/we-re-on-it--tuchel-seeking-solution-for-scoring-more-goals.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-04T07:10:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/04/we-re-on-it--tuchel-seeking-solution-for-scoring-more-goals",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel at training",
-          "id": "editorial/news/2021/03/03/tuchel_training_goal",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "We’re on it! Tuchel seeking solution for scoring more goals",
-      "publishDate": "2021-03-04T07:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/we-re-on-it--tuchel-seeking-solution-for-scoring-more-goals.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-04T07:10:00.000Z",
-      "description": "As the Blues look to up our goal count, an aim Thomas Tuchel confirms the players are working hard upon, the boss discusses the challenge of being the Chelsea centre-forward.",
-      "matchId": 2128570
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210304rudiger-shares-the-birthday-love",
-      "type": "NewsCard",
-      "timestamp": "2021-03-04T09:59:00.000Z",
-      "orderDate": "2021-03-04T03:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/04/rudiger-shares-the-birthday-love-with-chelsea-and-westminster-ho",
-        "type": "NewsCard",
-        "title": "Rudiger shares the birthday love with Chelsea and Westminster Hospital",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/rudiger-shares-the-birthday-love-with-chelsea-and-westminster-ho.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-04T09:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/04/rudiger-shares-the-birthday-love-with-chelsea-and-westminster-ho",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea and Westminster staff",
-          "id": "editorial/news/2021/03/04/rudiger-chelsea-westminster-cakes-gift",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rudiger shares the birthday love with Chelsea and Westminster Hospital",
-      "publishDate": "2021-03-04T09:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/04/rudiger-shares-the-birthday-love-with-chelsea-and-westminster-ho.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2021-03-04T09:59:00.000Z",
-      "description": "Yesterday Toni Rudiger turned 28 and marked the occasion by surprising staff at the Chelsea and Westminster Hospital with cakes and drinks to say thank you for all their hard work over the past 12 months."
     }
   ]
 }
