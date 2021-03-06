@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 574,
+    "totalItems": 575,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 58,
@@ -39,7 +39,7 @@
       "content": "Tuchel: Kante minutes must be managed",
       "publishDate": "2021-03-06T02:45:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/06/tuchel--kante-minutes-must-be-managed.html",
-      "readTimeInMins": 7,
+      "readTimeInMins": 8,
       "tags": [
         {
           "title": "N Golo Kante",
@@ -442,6 +442,50 @@
       "matchId": 2128570
     },
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210306west-ham-women-v-chelsea-women-p",
+      "type": "NewsCard",
+      "timestamp": "2021-03-06T03:14:00.000Z",
+      "orderDate": "2021-03-05T03:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/06/west-ham-women-v-chelsea-women-preview--kick-off-time--how-to-fo",
+        "type": "NewsCard",
+        "title": "West Ham Women v Chelsea Women preview: Kick-off time, how to follow the game and more!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/06/west-ham-women-v-chelsea-women-preview--kick-off-time--how-to-fo.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-06T03:14:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/06/west-ham-women-v-chelsea-women-preview--kick-off-time--how-to-fo",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/SK_FK_NC_Atleti",
+          "gravity": "auto",
+          "aspectRatio": 1.5023854,
+          "cropMode": "fill"
+        }
+      },
+      "content": "West Ham Women v Chelsea Women preview: Kick-off time, how to follow the game and more!",
+      "publishDate": "2021-03-06T03:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/06/west-ham-women-v-chelsea-women-preview--kick-off-time--how-to-fo.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-03-06T03:14:00.000Z",
+      "description": "Chelsea FC Women travel across London tomorrow to take on West Ham in the Barclays FA Women’s Super League and here we give you all the information you need.",
+      "matchId": 2138463
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210305rudiger-exclusive-in-everton-pro",
       "type": "NewsCard",
@@ -494,42 +538,6 @@
       "date": "2021-03-05T09:29:00.000Z",
       "description": "The matchday programme for our Premier League fixture against Everton next Monday is available to order now.",
       "matchId": 2128549
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210305last-chance-to-bid-on-chelsea-sh",
-      "type": "NewsCard",
-      "timestamp": "2021-03-05T12:35:00.000Z",
-      "orderDate": "2021-03-05T00:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/05/last-chance-to-bid-on-chelsea-shirts",
-        "type": "NewsCard",
-        "title": "Last chance to bid on Chelsea shirts",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/05/last-chance-to-bid-on-chelsea-shirts.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-05T12:35:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/05/last-chance-to-bid-on-chelsea-shirts",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/03/05/Chelsea_Foundation_MWS_Mount",
-          "gravity": "auto",
-          "aspectRatio": 2,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Last chance to bid on Chelsea shirts",
-      "publishDate": "2021-03-05T12:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/05/last-chance-to-bid-on-chelsea-shirts.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-03-05T12:35:00.000Z",
-      "description": "There are just 48 hours remaining for supporters to bid on the shirts worn by Chelsea players in our 1-1 draw against Southampton, with money raised going to the Chelsea Foundation."
     }
   ]
 }
