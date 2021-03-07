@@ -56,60 +56,6 @@
       "matchId": 2128549
     },
     {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210307pl2-report--chelsea-brighton",
-      "type": "NewsCard",
-      "timestamp": "2021-03-07T16:00:00.000Z",
-      "orderDate": "2021-03-07T12:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/07/pl2-report--chelsea-brighton",
-        "type": "NewsCard",
-        "title": "PL2 report: Chelsea 0 Brighton 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/pl2-report--chelsea-brighton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-07T16:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/07/pl2-report--chelsea-brighton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Lewis Bate",
-          "id": "editorial/news/2021/03/07/Lewis-Bate-cfcdev-vs-brighton",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Chelsea 0 Brighton 0",
-      "publishDate": "2021-03-07T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/pl2-report--chelsea-brighton.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-03-07T16:00:00.000Z",
-      "description": "There were plenty of chances but no goals for either side in Sunday afternoon’s PL2 draw against Brighton."
-    },
-    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210307pre-match-briefing--chelsea-vs-e",
       "type": "NewsCard",
@@ -259,6 +205,60 @@
       "date": "2021-03-07T01:30:00.000Z",
       "description": "After extending his unbeaten start as Chelsea head coach to 10 games this week, Thomas Tuchel is rightly earning plenty of compliments for the job he has began so impressively at Stamford Bridge.",
       "matchId": 2128549
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210307pl2-report--chelsea-brighton",
+      "type": "NewsCard",
+      "timestamp": "2021-03-07T16:00:00.000Z",
+      "orderDate": "2021-03-07T01:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/07/pl2-report--chelsea-brighton",
+        "type": "NewsCard",
+        "title": "PL2 report: Chelsea 0 Brighton 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/pl2-report--chelsea-brighton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-07T16:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/07/pl2-report--chelsea-brighton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lewis Bate",
+          "id": "editorial/news/2021/03/07/Lewis-Bate-cfcdev-vs-brighton",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Chelsea 0 Brighton 0",
+      "publishDate": "2021-03-07T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/pl2-report--chelsea-brighton.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-03-07T16:00:00.000Z",
+      "description": "There were plenty of chances but no goals for either side in Sunday afternoon’s PL2 draw against Brighton."
     },
     {
       "contentType": "Chelsea Foundation",
