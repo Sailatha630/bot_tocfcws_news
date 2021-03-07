@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 581,
+    "totalItems": 582,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 59,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210307pre-match-briefing--chelsea-vs-e",
+      "type": "NewsCard",
+      "timestamp": "2021-03-07T09:31:00.000Z",
+      "orderDate": "2021-03-07T09:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/07/pre-match-briefing--chelsea-vs-everton",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/pre-match-briefing--chelsea-vs-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-07T09:31:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/03/07/pre-match-briefing--chelsea-vs-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/news/2021/03/07/stadium_view_bcd_matthew_harding_end",
+          "gravity": "north",
+          "aspectRatio": 1.5082442,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Everton",
+      "publishDate": "2021-03-07T09:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/pre-match-briefing--chelsea-vs-everton.html",
+      "readTimeInMins": 66,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-03-07T09:31:00.000Z",
+      "description": "The second of our double-header against Merseyside opposition in the Premier League awaits. Club historian Rick Glanvill and club statistician Paul Dutton look at the prospects for repeating Thursday’s good result at Anfield when we host the Toffees at Stamford Bridge…",
+      "matchId": 2128549
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210307tuchel--all-the-plaudits-should-",
@@ -448,60 +502,6 @@
       ],
       "date": "2021-03-06T02:57:00.000Z",
       "description": "Ahead of Saturday's live streaming of our Under-18s in action, the latest instalment of our series looking at the upbringing of Chelsea Academy youngsters focuses today on Prince Adegoke, who speaks about being a latecomer to the game and watching Chelsea Wembley for the first time."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210305tuchel--werner-has-no-need-to-wo",
-      "type": "NewsCard",
-      "timestamp": "2021-03-05T16:57:00.000Z",
-      "orderDate": "2021-03-05T16:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/05/tuchel--werner-has-no-need-to-worry",
-        "type": "NewsCard",
-        "title": "Tuchel: Werner has no need to worry",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/05/tuchel--werner-has-no-need-to-worry.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-05T16:57:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/05/tuchel--werner-has-no-need-to-worry",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Timo Werner and Thomas Tuchel at Anfield",
-          "id": "editorial/match-reports/2020-21/liverpool-away/liverpool_away_werner_tuchel",
-          "gravity": "auto",
-          "aspectRatio": 1.7233201,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Werner has no need to worry",
-      "publishDate": "2021-03-05T16:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/05/tuchel--werner-has-no-need-to-worry.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-05T16:57:00.000Z",
-      "description": "The margin could not have been finer!",
-      "matchId": 2128570
     }
   ]
 }
