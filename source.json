@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 584,
+    "totalItems": 585,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 59,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210307rudiger--top-four-destiny-is-in-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-07T13:52:00.000Z",
+      "orderDate": "2021-03-07T13:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/07/rudiger--top-four-destiny-is-in-our-hands",
+        "type": "NewsCard",
+        "title": "Rudiger: Top four destiny is in our hands",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/rudiger--top-four-destiny-is-in-our-hands.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-07T13:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/07/rudiger--top-four-destiny-is-in-our-hands",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/02/14/Rudiger_GettyImages-1299597828",
+          "gravity": "auto",
+          "aspectRatio": 1.516039,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger: Top four destiny is in our hands",
+      "publishDate": "2021-03-07T13:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/rudiger--top-four-destiny-is-in-our-hands.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2021-03-07T13:52:00.000Z",
+      "description": "Toni Rudiger believes Chelsea are in control of our own destiny as we search for a top-four finish this season.",
+      "matchId": 2128549
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210307pre-match-briefing--chelsea-vs-e",
@@ -446,55 +494,6 @@
       ],
       "date": "2021-03-06T02:45:00.000Z",
       "description": "Thomas Tuchel’s long-held admiration for N’Golo Kante could only have been further confirmed by the midfielder’s performance in Thursday’s win at Anfield."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210306under-18s-report--chelsea-totten",
-      "type": "NewsCard",
-      "timestamp": "2021-03-06T13:14:00.000Z",
-      "orderDate": "2021-03-06T02:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/06/under-18s-report--chelsea-tottenham",
-        "type": "NewsCard",
-        "title": "Under-18s report: Chelsea 1 Tottenham 6",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/06/under-18s-report--chelsea-tottenham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-06T13:14:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/06/under-18s-report--chelsea-tottenham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Alfie",
-          "id": "editorial/news/2021/03/06/Alfie-Gilchrist-cfcu18-vs-spurs",
-          "gravity": "auto",
-          "aspectRatio": 1.5002265,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Chelsea 1 Tottenham 6",
-      "publishDate": "2021-03-06T13:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/06/under-18s-report--chelsea-tottenham.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-03-06T13:14:00.000Z",
-      "description": "A disappointing afternoon saw Chelsea’s Under-18s fall to defeat against Tottenham at Cobham on Saturday morning."
     }
   ]
 }
