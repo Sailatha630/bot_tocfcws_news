@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 603,
+    "totalItems": 604,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 61,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210308tuchel-reacts-to-everton-win",
+      "type": "NewsCard",
+      "timestamp": "2021-03-08T20:39:00.000Z",
+      "orderDate": "2021-03-08T20:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/08/tuchel-reacts-to-everton-win",
+        "type": "NewsCard",
+        "title": "Tuchel assesses a deserved win, explains how Havertz took his opportunity and discusses his many selection options",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/tuchel-reacts-to-everton-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-08T20:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/08/tuchel-reacts-to-everton-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel and Jorginho",
+          "id": "editorial/match-reports/2020-21/everton-home/Tuchel-Jorginho-Everton-h",
+          "gravity": "face",
+          "aspectRatio": 1.5115398,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel assesses a deserved win, explains how Havertz took his opportunity and discusses his many selection options",
+      "publishDate": "2021-03-08T20:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/tuchel-reacts-to-everton-win.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-08T20:39:00.000Z",
+      "description": "After watching his side make it eight wins in 11 games since he took charge, Thomas Tuchel described our latest victory against Everton as completely deserved, with one player in particular drawing the post-match praise…",
+      "matchId": 2128549
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210308match-report--chelsea-vs-everton",
@@ -563,55 +617,6 @@
       ],
       "date": "2021-03-08T02:08:00.000Z",
       "description": "Remarkably it was on this day last year, 8 March 2020, that Stamford Bridge was most recently full to capacity.",
-      "matchId": 2128549
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210308james--progress-under--funny--pa",
-      "type": "NewsCard",
-      "timestamp": "2021-03-08T01:46:00.000Z",
-      "orderDate": "2021-03-08T01:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/08/james--progress-under--funny--passionate--tuchel-can-lead-to-tro",
-        "type": "NewsCard",
-        "title": "James: Progress under ‘funny, passionate’ Tuchel can lead to trophies",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/james--progress-under--funny--passionate--tuchel-can-lead-to-tro.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-08T01:46:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/08/james--progress-under--funny--passionate--tuchel-can-lead-to-tro",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "James and Tuchel",
-          "id": "editorial/news/2021/01/26/tuchel-reece-james-thomas-training",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "James: Progress under ‘funny, passionate’ Tuchel can lead to trophies",
-      "publishDate": "2021-03-08T01:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/james--progress-under--funny--passionate--tuchel-can-lead-to-tro.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-08T01:46:00.000Z",
-      "description": "Reece James believes the Blues could be on track for silverware if we continue to make progress under the guidance of Thomas Tuchel…",
       "matchId": 2128549
     }
   ]
