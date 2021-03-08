@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 604,
+    "totalItems": 605,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 61,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210308watch-highlights-of-chelsea-s-wi",
+      "type": "NewsCard",
+      "timestamp": "2021-03-08T22:00:00.000Z",
+      "orderDate": "2021-03-08T21:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/08/watch-highlights-of-chelsea-s-win-against-everton",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea's win against Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/watch-highlights-of-chelsea-s-win-against-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-08T22:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/08/watch-highlights-of-chelsea-s-win-against-everton",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea 2-0 Everton (H) | Premier League Highlights ",
+          "videoId": "7Wc5iGnB",
+          "bucket": "prod-cfc",
+          "description": "Highlights of Chelsea's 2-0 win against Everton at Stamford Bridge. ",
+          "duration": 134000,
+          "date": "2021-03-08T21:28:45.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/7Wc5iGnB/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/watch-highlights-of-chelsea-s-win-against-everton.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/03/08/watch-highlights-of-chelsea-s-win-against-everton?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/03/08/watch-highlights-of-chelsea-s-win-against-everton",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "Highlights of Chelsea's 2-0 win against Everton at Stamford Bridge. "
+      },
+      "content": "Watch highlights of Chelsea's win against Everton",
+      "publishDate": "2021-03-08T22:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/watch-highlights-of-chelsea-s-win-against-everton.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-08T22:00:00.000Z",
+      "description": "It was another win and another clean sheet for Thomas Tuchel's Chelsea as the Toffees came unstuck at Stamford Bridge, and you can watch the best of the victory in the video above.",
+      "matchId": 2128549
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210308tuchel-reacts-to-everton-win",
@@ -564,60 +628,6 @@
       ],
       "date": "2021-03-08T16:42:00.000Z",
       "description": "Chelsea FC Women players Jess Carter, Melanie Leupolz, Carly Telford and Hannah Blundell recently joined Chelsea Foundation participants at events to mark this year’s International Women’s Day."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210308in-pictures--the-story-of-footba",
-      "type": "NewsCard",
-      "timestamp": "2021-03-08T02:08:00.000Z",
-      "orderDate": "2021-03-08T02:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/08/in-pictures--the-story-of-football-without-fans-one-year-on",
-        "type": "NewsCard",
-        "title": "In pictures: The story of football without fans one year on",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/in-pictures--the-story-of-football-without-fans-one-year-on.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-08T02:08:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/08/in-pictures--the-story-of-football-without-fans-one-year-on",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea fans on a banner",
-          "id": "editorial/news/2021/03/08/one-year-on-crowd-banner",
-          "gravity": "south",
-          "aspectRatio": 1.5706085,
-          "cropMode": "fill"
-        }
-      },
-      "content": "In pictures: The story of football without fans one year on",
-      "publishDate": "2021-03-08T02:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/in-pictures--the-story-of-football-without-fans-one-year-on.html",
-      "readTimeInMins": 56,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        },
-        {
-          "title": "Coronavirus",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_coronavirus"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-08T02:08:00.000Z",
-      "description": "Remarkably it was on this day last year, 8 March 2020, that Stamford Bridge was most recently full to capacity.",
-      "matchId": 2128549
     }
   ]
 }
