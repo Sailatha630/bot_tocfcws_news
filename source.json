@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 594,
+    "totalItems": 595,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 60,
@@ -222,6 +222,55 @@
       "date": "2021-03-08T01:46:00.000Z",
       "description": "Reece James believes the Blues could be on track for silverware if we continue to make progress under the guidance of Thomas Tuchel…",
       "matchId": 2128549
+    },
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210308emma-hayes-on-winning-against-we",
+      "type": "NewsCard",
+      "timestamp": "2021-03-08T13:05:00.000Z",
+      "orderDate": "2021-03-08T01:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/08/emma-hayes-on-winning-against-west-ham",
+        "type": "NewsCard",
+        "title": "Hayes names players for praise after West Ham win ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/emma-hayes-on-winning-against-west-ham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-08T13:05:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/08/emma-hayes-on-winning-against-west-ham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/women's-team/ChelseaW_cele_WestHam",
+          "gravity": "auto",
+          "aspectRatio": 1.4560205,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hayes names players for praise after West Ham win ",
+      "publishDate": "2021-03-08T13:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/emma-hayes-on-winning-against-west-ham.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2021-03-08T13:05:00.000Z",
+      "description": "Chelsea FC Women remain top of the Barclays FA Women’s Super League following our 2-0 victory over West Ham United on Sunday and manager Emma Hayes thought her team executed the game-plan well and thoroughly deserved the win.",
+      "matchId": 2138463
     },
     {
       "contentType": "News",
@@ -474,60 +523,6 @@
       "date": "2021-03-07T17:00:00.000Z",
       "description": "A goal in each half from Sam Kerr and Bethany England helped Chelsea secure a 2-0 victory against West Ham United in the Barclays FA Women's Super League.",
       "matchId": 2138463
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210307pre-match-briefing--chelsea-vs-e",
-      "type": "NewsCard",
-      "timestamp": "2021-03-07T09:31:00.000Z",
-      "orderDate": "2021-03-07T09:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/07/pre-match-briefing--chelsea-vs-everton",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Everton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/pre-match-briefing--chelsea-vs-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-07T09:31:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/03/07/pre-match-briefing--chelsea-vs-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge",
-          "id": "editorial/news/2021/03/07/stadium_view_bcd_matthew_harding_end",
-          "gravity": "north",
-          "aspectRatio": 1.5082442,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Everton",
-      "publishDate": "2021-03-07T09:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/pre-match-briefing--chelsea-vs-everton.html",
-      "readTimeInMins": 67,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2021-03-07T09:31:00.000Z",
-      "description": "The second of our double-header against Merseyside opposition in the Premier League awaits. Club historian Rick Glanvill and club statistician Paul Dutton look at the prospects for repeating Thursday’s good result at Anfield when we host the Toffees at Stamford Bridge…",
-      "matchId": 2128549
     }
   ]
 }
