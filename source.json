@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 590,
+    "totalItems": 591,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 59,
+    "pageCount": 60,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210308chelsea-vs-everton---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-03-08T09:58:00.000Z",
+      "orderDate": "2021-03-08T09:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/08/chelsea-vs-everton---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Everton - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/chelsea-vs-everton---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-08T09:58:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/03/08/chelsea-vs-everton---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chelsea goal vs Everton",
+          "id": "editorial/news/2021/03/07/everton_home_goal_2020",
+          "gravity": "auto",
+          "aspectRatio": 1.500374,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Everton - the stats",
+      "publishDate": "2021-03-08T09:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/chelsea-vs-everton---the-stats.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-03-08T09:58:00.000Z",
+      "description": "It's Monday night football at the Bridge and our countdown to kick-off continues with a round-up of all the facts and figures for this meeting with the side from Goodison...",
+      "matchId": 2128549
+    },
     {
       "contentType": "History",
       "id": "_content_chelseafcennews20210308in-pictures--the-story-of-footba",
@@ -459,42 +513,6 @@
       ],
       "date": "2021-03-07T16:00:00.000Z",
       "description": "There were plenty of chances but no goals for either side in Sunday afternoon’s PL2 draw against Brighton."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210307return-to-schools",
-      "type": "NewsCard",
-      "timestamp": "2021-03-07T11:15:00.000Z",
-      "orderDate": "2021-03-07T00:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/07/return-to-schools",
-        "type": "NewsCard",
-        "title": "Return to schools",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/return-to-schools.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-07T11:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/07/return-to-schools",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/01/13/ChelseaFoundation_Check_inwith_Chelsea",
-          "gravity": "auto",
-          "aspectRatio": 1.1595092,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Return to schools",
-      "publishDate": "2021-03-07T11:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/07/return-to-schools.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2021-03-07T11:15:00.000Z",
-      "description": "With the easing of lockdown restrictions, Monday 8 March will see the return to school for many pupils across the country, and Chelsea FC Foundation will be there to greet them."
     }
   ]
 }
