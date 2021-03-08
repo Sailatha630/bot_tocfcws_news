@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 602,
+    "totalItems": 603,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 61,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210308match-report--chelsea-vs-everton",
+      "type": "NewsCard",
+      "timestamp": "2021-03-08T17:47:00.000Z",
+      "orderDate": "2021-03-08T17:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/08/match-report--chelsea-vs-everton",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 2 Everton 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/match-report--chelsea-vs-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-08T17:47:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/08/match-report--chelsea-vs-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Havertz",
+          "id": "editorial/match-reports/2020-21/everton-home/Havertz_GettyImages-1306005157",
+          "gravity": "auto",
+          "aspectRatio": 1.4997789,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 2 Everton 0",
+      "publishDate": "2021-03-08T17:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/match-report--chelsea-vs-everton.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-03-08T17:47:00.000Z",
+      "description": "A comfortable victory over Everton secured our spot in the top four and saw Thomas Tuchel become the first coach to keep a clean sheet in all of his first five home games in the Premier League.",
+      "matchId": 2128549
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210308chelsea-line-up-vs-everton",
@@ -559,50 +613,6 @@
       "date": "2021-03-08T01:46:00.000Z",
       "description": "Reece James believes the Blues could be on track for silverware if we continue to make progress under the guidance of Thomas Tuchel…",
       "matchId": 2128549
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210308musovic-proud-to-be-a-part-of-th",
-      "type": "NewsCard",
-      "timestamp": "2021-03-08T12:22:00.000Z",
-      "orderDate": "2021-03-08T01:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/08/musovic-proud-to-be-a-part-of-the-chelsea-family",
-        "type": "NewsCard",
-        "title": "Musovic proud to be a part of the Chelsea family",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/musovic-proud-to-be-a-part-of-the-chelsea-family.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-08T12:22:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/08/musovic-proud-to-be-a-part-of-the-chelsea-family",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Zecira_Musovic",
-          "gravity": "auto",
-          "aspectRatio": 1.5002154,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Musovic proud to be a part of the Chelsea family",
-      "publishDate": "2021-03-08T12:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/musovic-proud-to-be-a-part-of-the-chelsea-family.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-03-08T12:22:00.000Z",
-      "description": "Zecira Musovic says she is proud and honoured after making her debut in Chelsea FC Women’s 2-0 victory against West Ham United on Sunday.",
-      "matchId": 2138463
     }
   ]
 }
