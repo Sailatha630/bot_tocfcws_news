@@ -1,12 +1,50 @@
 {
   "pagination": {
-    "totalItems": 612,
+    "totalItems": 613,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 62,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210309bridge-of-sighs---chelsea-s-long",
+      "type": "NewsCard",
+      "timestamp": "2021-03-09T16:55:00.000Z",
+      "orderDate": "2021-03-09T15:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/09/bridge-of-sighs---chelsea-s-longest-unbeaten-runs-at-home-",
+        "type": "NewsCard",
+        "title": "Bridge of sighs - Chelsea’s longest unbeaten runs at home ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/bridge-of-sighs---chelsea-s-longest-unbeaten-runs-at-home-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-09T16:55:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/09/bridge-of-sighs---chelsea-s-longest-unbeaten-runs-at-home-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Everton",
+          "id": "editorial/news/2021/03/08/Havertz_GettyImages-1231600609",
+          "gravity": "auto",
+          "aspectRatio": 1.5007504,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Bridge of sighs - Chelsea’s longest unbeaten runs at home ",
+      "publishDate": "2021-03-09T16:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/bridge-of-sighs---chelsea-s-longest-unbeaten-runs-at-home-.html",
+      "readTimeInMins": 11,
+      "tags": [],
+      "date": "2021-03-09T16:55:00.000Z",
+      "description": "Chelsea set a new club mark on Monday as our 2-0 win over Everton stretched our unbeaten Premier League record against the Toffees at Stamford Bridge to 26 games."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210309azpilicueta--recovering-ground-a",
@@ -475,60 +513,6 @@
       ],
       "date": "2021-03-08T20:39:00.000Z",
       "description": "After watching his side make it eight wins in 11 games since he took charge, Thomas Tuchel described our latest victory against Everton as completely deserved, with one player in particular drawing the post-match praise…",
-      "matchId": 2128549
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210308match-report--chelsea-vs-everton",
-      "type": "NewsCard",
-      "timestamp": "2021-03-08T17:47:00.000Z",
-      "orderDate": "2021-03-08T17:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/08/match-report--chelsea-vs-everton",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 2 Everton 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/match-report--chelsea-vs-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-08T17:47:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/08/match-report--chelsea-vs-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Havertz",
-          "id": "editorial/match-reports/2020-21/everton-home/Havertz_GettyImages-1306005157",
-          "gravity": "auto",
-          "aspectRatio": 1.4997789,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 2 Everton 0",
-      "publishDate": "2021-03-08T17:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/match-report--chelsea-vs-everton.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2021-03-08T17:47:00.000Z",
-      "description": "A comfortable victory over Everton secured our spot in the top four and saw Thomas Tuchel become the first coach to keep a clean sheet in all of his first five home games in the Premier League.",
       "matchId": 2128549
     }
   ]
