@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 610,
+    "totalItems": 611,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 61,
+    "pageCount": 62,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210309azpilicueta--recovering-ground-a",
+      "type": "NewsCard",
+      "timestamp": "2021-03-09T14:30:00.000Z",
+      "orderDate": "2021-03-09T14:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/09/azpilicueta--recovering-ground-and-doing-the-dirty-work",
+        "type": "NewsCard",
+        "title": "Azpilicueta: Recovering ground and doing the dirty work",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/azpilicueta--recovering-ground-and-doing-the-dirty-work.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-09T14:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/09/azpilicueta--recovering-ground-and-doing-the-dirty-work",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Azpilicueta vs Everton",
+          "id": "editorial/news/2021/03/09/azpilicueta-richarlison-everton-home",
+          "gravity": "auto",
+          "aspectRatio": 1.3803879,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Azpilicueta: Recovering ground and doing the dirty work",
+      "publishDate": "2021-03-09T14:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/azpilicueta--recovering-ground-and-doing-the-dirty-work.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-03-09T14:30:00.000Z",
+      "description": "Cesar Azpilicueta had cause for celebration last night in the form of yet another clean sheet and three more precious Premier League points as our quest to finish in a Champions League place intensified.",
+      "matchId": 2128549
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210309the-debrief--unpredictable-blues",
@@ -486,60 +545,6 @@
       "date": "2021-03-08T16:38:00.000Z",
       "description": "Thomas Tuchel has made five changes to his side as we look to continue our excellent home record against Everton.",
       "matchId": 2128549
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210308emma-hayes-has-urged-her-players",
-      "type": "NewsCard",
-      "timestamp": "2021-03-08T17:51:00.000Z",
-      "orderDate": "2021-03-08T15:51:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/08/emma-hayes-has-urged-her-players-to-be-awake-and-ready-for-atlet",
-        "type": "NewsCard",
-        "title": "Hayes urges players to be awake and ready for Atletico away fixture ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/emma-hayes-has-urged-her-players-to-be-awake-and-ready-for-atlet.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-08T17:51:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/08/emma-hayes-has-urged-her-players-to-be-awake-and-ready-for-atlet",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/GettyImages-1305992242",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes urges players to be awake and ready for Atletico away fixture ",
-      "publishDate": "2021-03-08T17:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/08/emma-hayes-has-urged-her-players-to-be-awake-and-ready-for-atlet.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Uefa Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_uefa-women-s-champions-league"
-        }
-      ],
-      "date": "2021-03-08T17:51:00.000Z",
-      "description": "Ahead of Chelsea FC Women’s Champions League last-16 second-leg tie versus Atletico Madrid, Emma Hayes spoke to the media during a press conference this afternoon.",
-      "matchId": 2191059
     }
   ]
 }
