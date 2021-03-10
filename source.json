@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 619,
+    "totalItems": 620,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 62,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210310women-s-report--atletico-madrid-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-10T14:40:00.000Z",
+      "orderDate": "2021-03-10T14:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/10/women-s-report--atletico-madrid-1-chelsea-1--1-3-on-agg-",
+        "type": "NewsCard",
+        "title": "Women’s report: Atletico Madrid 1 Chelsea 1 (1-3 on agg)",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/women-s-report--atletico-madrid-1-chelsea-1--1-3-on-agg-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-10T14:40:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/03/10/women-s-report--atletico-madrid-1-chelsea-1--1-3-on-agg-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mjelde celebrates her goal from the spot",
+          "id": "editorial/match-reports/2020-21/women-atletico-madrid-away/Mjelde-Women-Atletico",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s report: Atletico Madrid 1 Chelsea 1 (1-3 on agg)",
+      "publishDate": "2021-03-10T14:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/women-s-report--atletico-madrid-1-chelsea-1--1-3-on-agg-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Uefa Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_uefa-women-s-champions-league"
+        }
+      ],
+      "date": "2021-03-10T14:40:00.000Z",
+      "description": "For the second time in this tie the penalty spot was at the centre of the action, as a missed effort by Atletico Madrid and a successful conversion from Maren Mjelde sent the Blues into the quarter-finals of the Champions League.",
+      "matchId": 2191059
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210310chelsea-and-joe-cole-celebrate-r",
@@ -441,55 +490,6 @@
       "date": "2021-03-09T15:53:00.000Z",
       "description": "A squad of 21 Chelsea Women players have arrived in Italy ahead of tomorrow’s Champions League meeting with Atletico Madrid.",
       "matchId": 2191059
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210309the-debrief--unpredictable-blues",
-      "type": "NewsCard",
-      "timestamp": "2021-03-09T10:41:00.000Z",
-      "orderDate": "2021-03-09T10:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/09/the-debrief--unpredictable-blues-keep-opponents-guessing",
-        "type": "NewsCard",
-        "title": "The Debrief: Unpredictable Blues keep opponents guessing",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/the-debrief--unpredictable-blues-keep-opponents-guessing.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-09T10:41:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/09/the-debrief--unpredictable-blues-keep-opponents-guessing",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Debrief graphic",
-          "id": "editorial/news/2021/03/09/debrief-vs-everton-header",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Unpredictable Blues keep opponents guessing",
-      "publishDate": "2021-03-09T10:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/the-debrief--unpredictable-blues-keep-opponents-guessing.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-09T10:41:00.000Z",
-      "description": "A fifth consecutive home clean sheet helped Chelsea extend their undefeated record under the new boss as Everton were beaten at Stamford Bridge, and here we use the standout statistics from the game to analyse some of the major talking points…",
-      "matchId": 2128549
     }
   ]
 }
