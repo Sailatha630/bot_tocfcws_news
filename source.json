@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 618,
+    "totalItems": 619,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 62,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210310chelsea-and-joe-cole-celebrate-r",
+      "type": "NewsCard",
+      "timestamp": "2021-03-10T12:30:00.000Z",
+      "orderDate": "2021-03-10T12:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/10/chelsea-and-joe-cole-celebrate-real-londoners--creativity-and-re",
+        "type": "NewsCard",
+        "title": "Chelsea and Joe Cole celebrate real Londoners’ creativity and resilience throughout pandemic ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/chelsea-and-joe-cole-celebrate-real-londoners--creativity-and-re.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-10T12:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/10/chelsea-and-joe-cole-celebrate-real-londoners--creativity-and-re",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Joe Cole",
+          "id": "editorial/news/2021/03/10/Proud_of_London-1004",
+          "gravity": "center",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea and Joe Cole celebrate real Londoners’ creativity and resilience throughout pandemic ",
+      "publishDate": "2021-03-10T12:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/chelsea-and-joe-cole-celebrate-real-londoners--creativity-and-re.html",
+      "readTimeInMins": 21,
+      "tags": [
+        {
+          "title": "Joe Cole",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_joe-cole"
+        }
+      ],
+      "date": "2021-03-10T12:30:00.000Z",
+      "description": "On our birthday, Chelsea Football Club is celebrating real Londoners who have shown incredible resilience, creativity and entrepreneurship during such a testing year."
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210310pat-nevin--strengthening-our-squ",
@@ -447,55 +490,6 @@
       "date": "2021-03-09T10:41:00.000Z",
       "description": "A fifth consecutive home clean sheet helped Chelsea extend their undefeated record under the new boss as Everton were beaten at Stamford Bridge, and here we use the standout statistics from the game to analyse some of the major talking points…",
       "matchId": 2128549
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210309gallery--chelsea-women-train-ahe",
-      "type": "NewsCard",
-      "timestamp": "2021-03-09T13:30:00.000Z",
-      "orderDate": "2021-03-09T07:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/09/gallery--chelsea-women-train-ahead-of-champions-league-clash-wit",
-        "type": "NewsCard",
-        "title": "Gallery: Chelsea Women train ahead of Champions League clash with Atletico Madrid",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/gallery--chelsea-women-train-ahead-of-champions-league-clash-wit.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-09T13:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/09/gallery--chelsea-women-train-ahead-of-champions-league-clash-wit",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Berger_Training_Gallery",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Chelsea Women train ahead of Champions League clash with Atletico Madrid",
-      "publishDate": "2021-03-09T13:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/gallery--chelsea-women-train-ahead-of-champions-league-clash-wit.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-03-09T13:30:00.000Z",
-      "description": "Chelsea FC Women completed final preparations at Cobham on Tuesday morning ahead of our Champions League round of 16 second leg against Atletico Madrid tomorrow afternoon.",
-      "matchId": 2191059
     }
   ]
 }
