@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 625,
+    "totalItems": 626,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210311giroud-stunner-voted-chelsea-s-f",
+      "type": "NewsCard",
+      "timestamp": "2021-03-11T17:00:00.000Z",
+      "orderDate": "2021-03-11T16:07:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/11/giroud-stunner-voted-chelsea-s-february-goal-of-the-month",
+        "type": "NewsCard",
+        "title": "Giroud stunner voted Chelsea’s February Goal of the Month",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/giroud-stunner-voted-chelsea-s-february-goal-of-the-month.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-11T17:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/11/giroud-stunner-voted-chelsea-s-february-goal-of-the-month",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2020-21/atletico-madrid-away/Giroud_GettyImages-1303739339",
+          "gravity": "auto",
+          "aspectRatio": 1.4866518,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Giroud stunner voted Chelsea’s February Goal of the Month",
+      "publishDate": "2021-03-11T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/giroud-stunner-voted-chelsea-s-february-goal-of-the-month.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        },
+        {
+          "title": "Pernille Harder",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_pernille-harder"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-03-11T17:00:00.000Z",
+      "description": "Olivier Giroud’s incredible bicycle-kick goal against Atletico Madrid has been voted as our Goal of the Month winner for February."
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210311giles-smith--will-var-s-flawed-s",
@@ -459,55 +512,6 @@
       "date": "2021-03-10T08:16:00.000Z",
       "description": "Chelsea FC Women head into this afternoon's Champions League round of 16 second leg against Atletico Madrid with a 2-0 lead and Maren Mjelde says the Blues remain focused on producing another good performance.",
       "matchId": 2191059
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210310alonso--let-s-keep-riding-this-w",
-      "type": "NewsCard",
-      "timestamp": "2021-03-09T23:55:00.000Z",
-      "orderDate": "2021-03-10T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/10/alonso--let-s-keep-riding-this-wave",
-        "type": "NewsCard",
-        "title": "Alonso: Let’s keep riding this wave",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/alonso--let-s-keep-riding-this-wave.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-09T23:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/10/alonso--let-s-keep-riding-this-wave",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Marcos Alonso",
-          "id": "editorial/news/2021/03/09/alonso-everton-throw-in-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.4998025,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Alonso: Let’s keep riding this wave",
-      "publishDate": "2021-03-09T23:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/alonso--let-s-keep-riding-this-wave.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-03-09T23:55:00.000Z",
-      "description": "The Blues continue rolling on, and after another impressive victory on Monday evening Marcos Alonso says we must seize on the positive momentum we have built up in recent weeks.",
-      "matchId": 2128549
     }
   ]
 }
