@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 622,
+    "totalItems": 623,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20210311stamford-bridge-to-host-all-star",
+      "type": "NewsCard",
+      "timestamp": "2021-03-11T12:00:00.000Z",
+      "orderDate": "2021-03-11T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/11/stamford-bridge-to-host-all-star-legacy-match-celebrating-divers",
+        "type": "NewsCard",
+        "title": "Stamford Bridge to host All Star Legacy Match celebrating diversity and supporting equality action",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/stamford-bridge-to-host-all-star-legacy-match-celebrating-divers.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-11T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/11/stamford-bridge-to-host-all-star-legacy-match-celebrating-divers",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Stamford Bridge aerial view",
+          "id": "editorial/news/2020/07/stamford-bridge-drone-7",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Stamford Bridge to host All Star Legacy Match celebrating diversity and supporting equality action",
+      "publishDate": "2021-03-11T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/stamford-bridge-to-host-all-star-legacy-match-celebrating-divers.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Stamford Bridge",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_stamford-bridge"
+        }
+      ],
+      "date": "2021-03-11T12:00:00.000Z",
+      "description": "Chelsea FC are delighted to announce that we have partnered with Equality is Legacy to host an All Star Legacy Match at Stamford Bridge on 9 October this year."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews2021031110-questions-with----marcos-alon",
@@ -445,44 +488,6 @@
       ],
       "date": "2021-03-10T09:23:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly keeping tabs on Achraf Hakimi and Paul Merson has been impressed with Thomas Tuchel’s start at Stamford Bridge."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210309bridge-of-sighs---chelsea-s-long",
-      "type": "NewsCard",
-      "timestamp": "2021-03-09T16:55:00.000Z",
-      "orderDate": "2021-03-09T15:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/09/bridge-of-sighs---chelsea-s-longest-unbeaten-runs-at-home-",
-        "type": "NewsCard",
-        "title": "Bridge of sighs - Chelsea’s longest unbeaten runs at home ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/bridge-of-sighs---chelsea-s-longest-unbeaten-runs-at-home-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-09T16:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/09/bridge-of-sighs---chelsea-s-longest-unbeaten-runs-at-home-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Everton",
-          "id": "editorial/news/2021/03/08/Havertz_GettyImages-1231600609",
-          "gravity": "auto",
-          "aspectRatio": 1.5007504,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Bridge of sighs - Chelsea’s longest unbeaten runs at home ",
-      "publishDate": "2021-03-09T16:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/09/bridge-of-sighs---chelsea-s-longest-unbeaten-runs-at-home-.html",
-      "readTimeInMins": 11,
-      "tags": [],
-      "date": "2021-03-09T16:55:00.000Z",
-      "description": "Chelsea set a new club mark on Monday as our 2-0 win over Everton stretched our unbeaten Premier League record against the Toffees at Stamford Bridge to 26 games."
     }
   ]
 }
