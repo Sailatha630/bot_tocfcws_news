@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 629,
+    "totalItems": 630,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210312kirby-commits-to-blues",
+      "type": "NewsCard",
+      "timestamp": "2021-03-12T09:00:00.000Z",
+      "orderDate": "2021-03-12T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/12/kirby-commits-to-blues",
+        "type": "NewsCard",
+        "title": "Kirby commits to the Blues",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/kirby-commits-to-blues.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-12T09:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/12/kirby-commits-to-blues",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Kirby_New_Contract",
+          "gravity": "auto",
+          "aspectRatio": 1.502314,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kirby commits to the Blues",
+      "publishDate": "2021-03-12T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/kirby-commits-to-blues.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-03-12T09:00:00.000Z",
+      "description": "Chelsea FC Women forward Fran Kirby has signed a contract extension to keep her at the Blues until the summer of 2023, with the club having an option to extend for a further 12 months."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210312pre-match-briefing--leeds-vs-che",
@@ -471,55 +514,6 @@
       ],
       "date": "2021-03-11T09:48:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Franck Kessie and Fikayo Tomori says he is enjoying his loan at AC Milan."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210310women-s-report--atletico-madrid-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-10T14:40:00.000Z",
-      "orderDate": "2021-03-10T14:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/10/women-s-report--atletico-madrid-1-chelsea-1--1-3-on-agg-",
-        "type": "NewsCard",
-        "title": "Women’s report: Atletico Madrid 1 Chelsea 1 (1-3 on agg)",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/women-s-report--atletico-madrid-1-chelsea-1--1-3-on-agg-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-10T14:40:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/03/10/women-s-report--atletico-madrid-1-chelsea-1--1-3-on-agg-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mjelde celebrates her goal from the spot",
-          "id": "editorial/match-reports/2020-21/women-atletico-madrid-away/Mjelde-Women-Atletico",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s report: Atletico Madrid 1 Chelsea 1 (1-3 on agg)",
-      "publishDate": "2021-03-10T14:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/women-s-report--atletico-madrid-1-chelsea-1--1-3-on-agg-.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Uefa Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_uefa-women-s-champions-league"
-        }
-      ],
-      "date": "2021-03-10T14:40:00.000Z",
-      "description": "For the second time in this tie the penalty spot was at the centre of the action, as a missed effort by Atletico Madrid and a successful conversion from Maren Mjelde sent the Blues into the quarter-finals of the Champions League.",
-      "matchId": 2191059
     }
   ]
 }
