@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 636,
+    "totalItems": 637,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 64,
@@ -162,6 +162,60 @@
       ],
       "date": "2021-03-12T09:00:00.000Z",
       "description": "Chelsea FC Women forward Fran Kirby has signed a contract extension to keep her at the Blues until the summer of 2023, with the club having an option to extend for a further 12 months."
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210312pre-match-quiz--leeds-united-v-c",
+      "type": "NewsCard",
+      "timestamp": "2021-03-12T13:05:00.000Z",
+      "orderDate": "2021-03-12T08:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/12/pre-match-quiz--leeds-united-v-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Leeds United v Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pre-match-quiz--leeds-united-v-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-12T13:05:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/12/pre-match-quiz--leeds-united-v-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Elland Road",
+          "id": "editorial/news/2021/03/11/Elland_Road_GettyImages-1283561482",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Leeds United v Chelsea",
+      "publishDate": "2021-03-12T13:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pre-match-quiz--leeds-united-v-chelsea.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-03-12T13:05:00.000Z",
+      "description": "We resume an old rivalry when we return to Elland Road for an away fixture against Leeds United for the first time in nine years. Can you remember the Chelsea starting line-up in that 2012 League Cup win?",
+      "matchId": 2128560
     },
     {
       "contentType": "Match Preview",
@@ -440,59 +494,6 @@
       "date": "2021-03-11T19:10:00.000Z",
       "description": "As the Blues prepare for our first league fixture away to Leeds for 17 years, we look ahead to it by showcasing the big numbers surrounding this game...",
       "matchId": 2128560
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210311giroud-stunner-voted-chelsea-s-f",
-      "type": "NewsCard",
-      "timestamp": "2021-03-11T17:00:00.000Z",
-      "orderDate": "2021-03-11T16:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/11/giroud-stunner-voted-chelsea-s-february-goal-of-the-month",
-        "type": "NewsCard",
-        "title": "Giroud stunner voted Chelsea’s February Goal of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/giroud-stunner-voted-chelsea-s-february-goal-of-the-month.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-11T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/11/giroud-stunner-voted-chelsea-s-february-goal-of-the-month",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2020-21/atletico-madrid-away/Giroud_GettyImages-1303739339",
-          "gravity": "auto",
-          "aspectRatio": 1.4866518,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Giroud stunner voted Chelsea’s February Goal of the Month",
-      "publishDate": "2021-03-11T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/giroud-stunner-voted-chelsea-s-february-goal-of-the-month.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Pernille Harder",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_pernille-harder"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-03-11T17:00:00.000Z",
-      "description": "Olivier Giroud’s incredible bicycle-kick goal against Atletico Madrid has been voted as our Goal of the Month winner for February."
     }
   ]
 }
