@@ -1,12 +1,80 @@
 {
   "pagination": {
-    "totalItems": 638,
+    "totalItems": 639,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 64,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210312gallery--final-preparations-for-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-12T15:08:00.000Z",
+      "orderDate": "2021-03-12T15:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/12/gallery--final-preparations-for-leeds",
+        "type": "NewsCard",
+        "title": "Gallery: Who trained ahead of our trip to Leeds?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/gallery--final-preparations-for-leeds.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-12T15:08:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/12/gallery--final-preparations-for-leeds",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " James",
+          "id": "editorial/media-watch/James-DTW_7391",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Who trained ahead of our trip to Leeds?",
+      "publishDate": "2021-03-12T15:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/gallery--final-preparations-for-leeds.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2021-03-12T15:08:00.000Z",
+      "description": "The Blues were hard at work at Cobham today making final preparations ahead of our trip to Yorkshire..."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210312tuchel-on-his--perfect--squad-si",
@@ -457,43 +525,6 @@
       ],
       "date": "2021-03-12T09:48:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Gianluca Mancini and Joao Cancelo names Christian Pulisic the toughest winger he has faced."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210312join-in-online-football-training",
-      "type": "NewsCard",
-      "timestamp": "2021-03-12T08:40:00.000Z",
-      "orderDate": "2021-03-11T20:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/12/join-in-online-football-training-with-chelsea-coaches-this-sunda",
-        "type": "NewsCard",
-        "title": "Join in online football training with Chelsea coaches this Sunday",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/join-in-online-football-training-with-chelsea-coaches-this-sunda.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-12T08:40:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/12/join-in-online-football-training-with-chelsea-coaches-this-sunda",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Coaches Corner Live graphic",
-          "id": "editorial/news/2021/01/22/PP_CC_THUMB_2870_2-coaches-corner-week-2-2",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Join in online football training with Chelsea coaches this Sunday",
-      "publishDate": "2021-03-12T08:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/join-in-online-football-training-with-chelsea-coaches-this-sunda.html",
-      "readTimeInMins": 6,
-      "tags": [],
-      "date": "2021-03-12T08:40:00.000Z",
-      "description": "While there is hope for the months ahead as we creep towards an easing of nationwide restrictions, lockdown remains a difficult reality for the vast majority of us so our weekly feature Coaches Corner Live returns again this weekend..."
     }
   ]
 }
