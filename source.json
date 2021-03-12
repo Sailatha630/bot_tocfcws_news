@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 631,
+    "totalItems": 632,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 64,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210312tuchel-updates-ahead-of-chelsea-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-12T09:52:00.000Z",
+      "orderDate": "2021-03-12T09:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/12/tuchel-updates-ahead-of-chelsea-match-vs-leeds",
+        "type": "NewsCard",
+        "title": "Tuchel rules out two",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/tuchel-updates-ahead-of-chelsea-match-vs-leeds.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-12T09:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/12/tuchel-updates-ahead-of-chelsea-match-vs-leeds",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel press conference",
+          "id": "editorial/news/2021/02/01/tuchel_live_stream_logo",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel rules out two",
+      "publishDate": "2021-03-12T09:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/tuchel-updates-ahead-of-chelsea-match-vs-leeds.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-12T09:52:00.000Z",
+      "description": "It was an early press conference from Thomas Tuchel on Friday morning ahead of an early kick-off at Leeds United on Saturday, and it began with the squad news which included an update on Thiago Silva.",
+      "matchId": 2128560
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210312kirby-commits-to-blues",
@@ -460,60 +514,6 @@
       ],
       "date": "2021-03-11T03:00:00.000Z",
       "description": "Marcos Alonso has enjoyed a return to the fold and a return to left wing-back since Thomas Tuchel’s arrival, displaying his worth to the team with a number of assured performances and individual contributions."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210311hayes-and-mjelde-pleased-to-prog",
-      "type": "NewsCard",
-      "timestamp": "2021-03-11T14:11:00.000Z",
-      "orderDate": "2021-03-11T02:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/11/hayes-and-mjelde-pleased-to-progress-in-champions-league",
-        "type": "NewsCard",
-        "title": "Hayes and Mjelde pleased to progress from penalty-laden Champions League tie",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/hayes-and-mjelde-pleased-to-progress-in-champions-league.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-11T14:11:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/11/hayes-and-mjelde-pleased-to-progress-in-champions-league",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Hayes_Atleti",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes and Mjelde pleased to progress from penalty-laden Champions League tie",
-      "publishDate": "2021-03-11T14:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/hayes-and-mjelde-pleased-to-progress-in-champions-league.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Uefa Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_uefa-women-s-champions-league"
-        }
-      ],
-      "date": "2021-03-11T14:11:00.000Z",
-      "description": "Yesterday afternoon Chelsea FC Women sealed a spot in the quarter-finals of the Women’s Champions League after our round of 16 second leg versus Atletico Madrid finished 1-1, and 3-1 on aggregate. Both Emma Hayes and goal scorer Maren Mjelde have spoken about the tie.",
-      "matchId": 2191059
     }
   ]
 }
