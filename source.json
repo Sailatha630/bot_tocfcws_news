@@ -8,60 +8,6 @@
   },
   "newsFeed": [
     {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210312pl2-report--chelsea-everton",
-      "type": "NewsCard",
-      "timestamp": "2021-03-12T20:45:00.000Z",
-      "orderDate": "2021-03-12T15:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton",
-        "type": "NewsCard",
-        "title": "PL2 report: Chelsea 2 Everton 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-12T20:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thierno Ballo",
-          "id": "editorial/news/2021/03/12/Thierno-Ballo-celebration-cfcdev-vs-everton",
-          "gravity": "auto",
-          "aspectRatio": 1.4997711,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Chelsea 2 Everton 1",
-      "publishDate": "2021-03-12T20:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-03-12T20:45:00.000Z",
-      "description": "A Thierno Ballo double earned Chelsea’s development squad a deserved three points on Friday evening."
-    },
-    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210312gallery--final-preparations-for-",
       "type": "NewsCard",
@@ -187,6 +133,60 @@
       "date": "2021-03-12T11:55:00.000Z",
       "description": "Despite admitting he faces tough decisions every few days to leave players on the bench or out of the matchday squad entirely, Thomas Tuchel insists he has inherited a perfect squad size at Stamford Bridge.",
       "matchId": 2128560
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210312pl2-report--chelsea-everton",
+      "type": "NewsCard",
+      "timestamp": "2021-03-12T20:45:00.000Z",
+      "orderDate": "2021-03-12T11:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton",
+        "type": "NewsCard",
+        "title": "PL2 report: Chelsea 2 Everton 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-12T20:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thierno Ballo",
+          "id": "editorial/news/2021/03/12/Thierno-Ballo-celebration-cfcdev-vs-everton",
+          "gravity": "auto",
+          "aspectRatio": 1.4997711,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Chelsea 2 Everton 1",
+      "publishDate": "2021-03-12T20:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-03-12T20:45:00.000Z",
+      "description": "A Thierno Ballo double earned Chelsea’s development squad a deserved three points on Friday evening."
     },
     {
       "contentType": "News",
