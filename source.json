@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 627,
+    "totalItems": 629,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210312pre-match-briefing--leeds-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2021-03-12T01:40:00.000Z",
+      "orderDate": "2021-03-12T01:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/12/pre-match-briefing--leeds-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Leeds vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pre-match-briefing--leeds-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-12T01:40:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/03/12/pre-match-briefing--leeds-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Elland Road Leeds",
+          "id": "editorial/news/2021/03/11/elland_road_aerial",
+          "gravity": "north",
+          "aspectRatio": 1.5010989,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Leeds vs Chelsea",
+      "publishDate": "2021-03-12T01:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pre-match-briefing--leeds-vs-chelsea.html",
+      "readTimeInMins": 21,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-12T01:40:00.000Z",
+      "description": "The Blues have a lunchtime date in West Yorkshire this weekend. Club historian Rick Glanvill and club statistician Paul Dutton preview the restoration of this traditional away fixture in our calendar…",
+      "matchId": 2128560
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210312leeds-vs-chelsea---the-stats",
@@ -113,6 +167,60 @@
       ],
       "date": "2021-03-11T17:00:00.000Z",
       "description": "Olivier Giroud’s incredible bicycle-kick goal against Atletico Madrid has been voted as our Goal of the Month winner for February."
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210312pl2-preview--kick-off-time--how-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-12T01:55:00.000Z",
+      "orderDate": "2021-03-11T14:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/12/pl2-preview--kick-off-time--how-to-watch-live-and-mcclelland-mak",
+        "type": "NewsCard",
+        "title": "PL2 Preview: Kick-off time, how to watch live and McClelland making a comeback",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pl2-preview--kick-off-time--how-to-watch-live-and-mcclelland-mak.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-12T01:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/12/pl2-preview--kick-off-time--how-to-watch-live-and-mcclelland-mak",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Sam McClelland",
+          "id": "editorial/news/2021/03/11/cfcdev-match-preview-sam-mcclelland-vs-everton",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 Preview: Kick-off time, how to watch live and McClelland making a comeback",
+      "publishDate": "2021-03-12T01:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pl2-preview--kick-off-time--how-to-watch-live-and-mcclelland-mak.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-03-12T01:55:00.000Z",
+      "description": "Chelsea's development squad return to Kingsmeadow tonight to play Everton in Premier League 2. With kick-off at 7pm, you can watch the game live and free on this website and the 5th Stand app."
     },
     {
       "contentType": "Columnist",
@@ -412,111 +520,6 @@
       "date": "2021-03-10T14:40:00.000Z",
       "description": "For the second time in this tie the penalty spot was at the centre of the action, as a missed effort by Atletico Madrid and a successful conversion from Maren Mjelde sent the Blues into the quarter-finals of the Champions League.",
       "matchId": 2191059
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210310chelsea-and-joe-cole-celebrate-r",
-      "type": "NewsCard",
-      "timestamp": "2021-03-10T12:30:00.000Z",
-      "orderDate": "2021-03-10T12:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/10/chelsea-and-joe-cole-celebrate-real-londoners--creativity-and-re",
-        "type": "NewsCard",
-        "title": "Chelsea and Joe Cole celebrate real Londoners’ creativity and resilience throughout pandemic ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/chelsea-and-joe-cole-celebrate-real-londoners--creativity-and-re.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-10T12:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/10/chelsea-and-joe-cole-celebrate-real-londoners--creativity-and-re",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Joe Cole",
-          "id": "editorial/news/2021/03/10/Proud_of_London-1004",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea and Joe Cole celebrate real Londoners’ creativity and resilience throughout pandemic ",
-      "publishDate": "2021-03-10T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/chelsea-and-joe-cole-celebrate-real-londoners--creativity-and-re.html",
-      "readTimeInMins": 21,
-      "tags": [
-        {
-          "title": "Joe Cole",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_joe-cole"
-        }
-      ],
-      "date": "2021-03-10T12:30:00.000Z",
-      "description": "On our birthday, Chelsea Football Club is celebrating real Londoners who have shown incredible resilience, creativity and entrepreneurship during such a testing year."
-    },
-    {
-      "contentType": "Columnist",
-      "id": "_content_chelseafcennews20210310pat-nevin--strengthening-our-squ",
-      "type": "NewsCard",
-      "timestamp": "2021-03-10T05:30:00.000Z",
-      "orderDate": "2021-03-10T05:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/10/pat-nevin--strengthening-our-squad-has-been-tuchel-s-biggest-win",
-        "type": "NewsCard",
-        "title": "Pat Nevin: Strengthening our squad has been Tuchel's biggest win",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/pat-nevin--strengthening-our-squad-has-been-tuchel-s-biggest-win.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-10T05:30:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2021/03/10/pat-nevin--strengthening-our-squad-has-been-tuchel-s-biggest-win",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Warm-ups",
-          "id": "editorial/news/2021/03/10/Warm-up-Everton-h",
-          "gravity": "center",
-          "aspectRatio": 1.4998223,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pat Nevin: Strengthening our squad has been Tuchel's biggest win",
-      "publishDate": "2021-03-10T05:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/10/pat-nevin--strengthening-our-squad-has-been-tuchel-s-biggest-win.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        },
-        {
-          "title": "Pat Nevin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_pat-nevin"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Pat",
-        "lastName": "Nevin",
-        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pat Nevin",
-          "id": "editorial/blogs-and-columns/nevin_h_26S",
-          "gravity": "face",
-          "aspectRatio": 0.93399847,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2021-03-10T05:30:00.000Z",
-      "description": "With Chelsea continuing an impressive start to life under Thomas Tuchel, Blues legend and columnist Pat Nevin assesses how things have improved so dramatically and pinpoints our growing options as key..."
     }
   ]
 }
