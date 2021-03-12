@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 630,
+    "totalItems": 631,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 63,
+    "pageCount": 64,
     "startFrom": 0
   },
   "newsFeed": [
@@ -103,6 +103,54 @@
       "date": "2021-03-12T01:40:00.000Z",
       "description": "The Blues have a lunchtime date in West Yorkshire this weekend. Club historian Rick Glanvill and club statistician Paul Dutton preview the restoration of this traditional away fixture in our calendar…",
       "matchId": 2128560
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210312media-watch--blues-keeping-an-ey",
+      "type": "NewsCard",
+      "timestamp": "2021-03-12T09:48:00.000Z",
+      "orderDate": "2021-03-12T00:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/12/media-watch--blues-keeping-an-eye-on-roma-centre-back--cancelo-n",
+        "type": "NewsCard",
+        "title": "Media Watch: Blues keeping an eye on Roma centre-back, Cancelo names Pulisic as toughest winger he’s faced and Baresi praises Tomori",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/media-watch--blues-keeping-an-eye-on-roma-centre-back--cancelo-n.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-12T09:48:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/12/media-watch--blues-keeping-an-eye-on-roma-centre-back--cancelo-n",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/mancini-mw",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Blues keeping an eye on Roma centre-back, Cancelo names Pulisic as toughest winger he’s faced and Baresi praises Tomori",
+      "publishDate": "2021-03-12T09:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/media-watch--blues-keeping-an-eye-on-roma-centre-back--cancelo-n.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Fikayo Tomori",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_fikayo-tomori"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2021-03-12T09:48:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Gianluca Mancini and Joao Cancelo names Christian Pulisic the toughest winger he has faced."
     },
     {
       "contentType": "Match Preview",
@@ -466,54 +514,6 @@
       "date": "2021-03-11T14:11:00.000Z",
       "description": "Yesterday afternoon Chelsea FC Women sealed a spot in the quarter-finals of the Women’s Champions League after our round of 16 second leg versus Atletico Madrid finished 1-1, and 3-1 on aggregate. Both Emma Hayes and goal scorer Maren Mjelde have spoken about the tie.",
       "matchId": 2191059
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210311media-watch--blues-interested-in",
-      "type": "NewsCard",
-      "timestamp": "2021-03-11T09:48:00.000Z",
-      "orderDate": "2021-03-11T00:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/11/media-watch--blues-interested-in-kessie--tomori-opens-up-about-l",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues interested in Kessie, Tomori opens up about life in Milan and Terry reveals managerial inspiration",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/media-watch--blues-interested-in-kessie--tomori-opens-up-about-l.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-11T09:48:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/11/media-watch--blues-interested-in-kessie--tomori-opens-up-about-l",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/kessie-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues interested in Kessie, Tomori opens up about life in Milan and Terry reveals managerial inspiration",
-      "publishDate": "2021-03-11T09:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/media-watch--blues-interested-in-kessie--tomori-opens-up-about-l.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Fikayo Tomori",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_fikayo-tomori"
-        },
-        {
-          "title": "John Terry",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-terry"
-        }
-      ],
-      "date": "2021-03-11T09:48:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Franck Kessie and Fikayo Tomori says he is enjoying his loan at AC Milan."
     }
   ]
 }
