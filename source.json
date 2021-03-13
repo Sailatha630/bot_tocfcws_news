@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 645,
+    "totalItems": 646,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 65,
@@ -65,6 +65,50 @@
       "date": "2021-03-13T11:30:00.000Z",
       "description": "There are six changes to the Chelsea team for today’s game at Leeds.",
       "matchId": 2128560
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210311road-to-the-conti-cup-final",
+      "type": "NewsCard",
+      "timestamp": "2021-03-13T14:30:00.000Z",
+      "orderDate": "2021-03-13T09:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/11/road-to-the-conti-cup-final",
+        "type": "NewsCard",
+        "title": "Road to the Conti Cup final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/road-to-the-conti-cup-final.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-13T14:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/11/road-to-the-conti-cup-final",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Hayes_post_Hammers",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Road to the Conti Cup final",
+      "publishDate": "2021-03-13T14:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/11/road-to-the-conti-cup-final.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2021-03-13T14:30:00.000Z",
+      "description": "All eyes are on Vicarage Road this weekend, as Chelsea Women prepare to face Bristol City in the Continental Cup final on Sunday afternoon.",
+      "matchId": 2189238
     },
     {
       "contentType": "News",
@@ -534,60 +578,6 @@
       "date": "2021-03-12T17:00:00.000Z",
       "description": "Chelsea FC Women manager Emma Hayes held a press conference at Cobham via Zoom to look forward to Sunday’s Continental Tyres League Cup final against Bristol City.",
       "matchId": 2189238
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210312tuchel-updates-ahead-of-chelsea-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-12T09:52:00.000Z",
-      "orderDate": "2021-03-12T09:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/12/tuchel-updates-ahead-of-chelsea-match-vs-leeds",
-        "type": "NewsCard",
-        "title": "Tuchel rules out two",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/tuchel-updates-ahead-of-chelsea-match-vs-leeds.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-12T09:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/12/tuchel-updates-ahead-of-chelsea-match-vs-leeds",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel press conference",
-          "id": "editorial/news/2021/02/26/tuchel-press-conference-graphic-stock-2",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel rules out two",
-      "publishDate": "2021-03-12T09:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/tuchel-updates-ahead-of-chelsea-match-vs-leeds.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-12T09:52:00.000Z",
-      "description": "It was an early press conference from Thomas Tuchel on Friday morning ahead of an early kick-off at Leeds United on Saturday, and it began with the squad news which included an update on Thiago Silva.",
-      "matchId": 2128560
     }
   ]
 }
