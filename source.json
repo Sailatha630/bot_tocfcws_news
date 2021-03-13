@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 648,
+    "totalItems": 649,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 65,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210313tuchel-reacts-to-leeds-draw",
+      "type": "NewsCard",
+      "timestamp": "2021-03-13T16:04:00.000Z",
+      "orderDate": "2021-03-13T16:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/13/tuchel-reacts-to-leeds-draw",
+        "type": "NewsCard",
+        "title": "Tuchel takes a point, praises defensive effort and demands more final-third precision",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/13/tuchel-reacts-to-leeds-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-13T16:04:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/13/tuchel-reacts-to-leeds-draw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/match-reports/2020-21/leeds-away/tuchel-leeds-away",
+          "gravity": "auto",
+          "aspectRatio": 1.4466759,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel takes a point, praises defensive effort and demands more final-third precision",
+      "publishDate": "2021-03-13T16:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/13/tuchel-reacts-to-leeds-draw.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-13T16:04:00.000Z",
+      "description": "‘Absolutely okay’ were the words Thomas Tuchel used to describe his team’s performance at Elland Road and the point we earned to extend our unbeaten away run.",
+      "matchId": 2128560
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210313match-report--leeds-vs-chelsea",
@@ -485,60 +544,6 @@
       "date": "2021-03-12T11:55:00.000Z",
       "description": "Despite admitting he faces tough decisions every few days to leave players on the bench or out of the matchday squad entirely, Thomas Tuchel insists he has inherited a perfect squad size at Stamford Bridge.",
       "matchId": 2128560
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210312pl2-report--chelsea-everton",
-      "type": "NewsCard",
-      "timestamp": "2021-03-12T20:45:00.000Z",
-      "orderDate": "2021-03-12T11:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton",
-        "type": "NewsCard",
-        "title": "PL2 report: Chelsea 2 Everton 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-12T20:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thierno Ballo",
-          "id": "editorial/news/2021/03/12/Thierno-Ballo-celebration-cfcdev-vs-everton",
-          "gravity": "auto",
-          "aspectRatio": 1.4997711,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Chelsea 2 Everton 1",
-      "publishDate": "2021-03-12T20:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/12/pl2-report--chelsea-everton.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-03-12T20:45:00.000Z",
-      "description": "A Thierno Ballo double earned Chelsea’s development squad a deserved three points on Friday evening."
     }
   ]
 }
