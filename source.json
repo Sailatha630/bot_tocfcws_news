@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 652,
+    "totalItems": 653,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 66,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210314eriksson---the-end-goal-is-alway",
+      "type": "NewsCard",
+      "timestamp": "2021-03-14T11:00:00.000Z",
+      "orderDate": "2021-03-14T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/14/eriksson---the-end-goal-is-always-to-win-trophies-",
+        "type": "NewsCard",
+        "title": "Eriksson: ‘The end goal is always to win trophies’",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/14/eriksson---the-end-goal-is-always-to-win-trophies-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-14T11:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/14/eriksson---the-end-goal-is-always-to-win-trophies-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Eriksson",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Eriksson: ‘The end goal is always to win trophies’",
+      "publishDate": "2021-03-14T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/14/eriksson---the-end-goal-is-always-to-win-trophies-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2021-03-14T11:00:00.000Z",
+      "description": "Chelsea FC Women face Bristol City in the Continental League Cup final this afternoon and captain Magda Eriksson is expecting a tough encounter at Vicarage Road...",
+      "matchId": 2189238
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210314chilwell--we-can-rely-on-mendy-b",
@@ -502,54 +551,6 @@
       "date": "2021-03-13T14:30:00.000Z",
       "description": "All eyes are on Vicarage Road this weekend, as Chelsea Women prepare to face Bristol City in the Continental Cup final on Sunday afternoon.",
       "matchId": 2189238
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210313tuchel-on-his-touchline-demeanou",
-      "type": "NewsCard",
-      "timestamp": "2021-03-13T05:00:00.000Z",
-      "orderDate": "2021-03-13T05:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/13/tuchel-on-his-touchline-demeanour-and-the-cobham-family-feel",
-        "type": "NewsCard",
-        "title": "Tuchel on his touchline demeanour and the Cobham family feel",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/13/tuchel-on-his-touchline-demeanour-and-the-cobham-family-feel.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-13T05:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/13/tuchel-on-his-touchline-demeanour-and-the-cobham-family-feel",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel pitchside",
-          "id": "editorial/news/2021/03/12/tuchel-animated-touchline",
-          "gravity": "face",
-          "aspectRatio": 0.7296748,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on his touchline demeanour and the Cobham family feel",
-      "publishDate": "2021-03-13T05:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/13/tuchel-on-his-touchline-demeanour-and-the-cobham-family-feel.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-13T05:00:00.000Z",
-      "description": "Nobody who has watched a Chelsea game since Thomas Tuchel’s arrival could have failed to notice his animated presence on the touchline."
     }
   ]
 }
