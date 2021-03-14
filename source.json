@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 655,
+    "totalItems": 656,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 66,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210314women-s-match-report--chelsea-v-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-14T16:15:00.000Z",
+      "orderDate": "2021-03-14T16:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/14/women-s-match-report--chelsea-v-bristol-city",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Bristol City 0-6 Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/14/women-s-match-report--chelsea-v-bristol-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-14T16:15:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/03/14/women-s-match-report--chelsea-v-bristol-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/03/14/CFCW-Conti-Cup-trophy-lift",
+          "gravity": "auto",
+          "aspectRatio": 1.5014663,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Bristol City 0-6 Chelsea",
+      "publishDate": "2021-03-14T16:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/14/women-s-match-report--chelsea-v-bristol-city.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2021-03-14T16:15:00.000Z",
+      "description": "A Sam Kerr hat-trick, a brace from Fran Kirby and a goal from Guro Reiten helped Chelsea earn a 6-0 victory against Bristol City to secure back-to-back Continental League Cup titles.",
+      "matchId": 2189238
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210314kante-reflects-on-a--hard-game--",
@@ -512,55 +560,6 @@
       "date": "2021-03-13T17:15:00.000Z",
       "description": "Chelsea and Leeds played out a goalless draw at Elland Road on Saturday and you can watch the best of the action in the video above.",
       "matchId": 2128560
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210313u18s-report--chelsea-west-brom",
-      "type": "NewsCard",
-      "timestamp": "2021-03-13T13:45:00.000Z",
-      "orderDate": "2021-03-13T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/13/u18s-report--chelsea-west-brom",
-        "type": "NewsCard",
-        "title": "U18s report: Chelsea 2 West Brom 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/13/u18s-report--chelsea-west-brom.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-13T13:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/13/u18s-report--chelsea-west-brom",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Bashir Humphreys",
-          "id": "editorial/news/2021/03/13/Bashir-Humphreys-cfcu18s-vs-west-brom-celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "U18s report: Chelsea 2 West Brom 1",
-      "publishDate": "2021-03-13T13:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/13/u18s-report--chelsea-west-brom.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-03-13T13:45:00.000Z",
-      "description": "A goal for Bashir Humphreys and Josh Brooking in each half made sure of the three points on Saturday morning for Chelsea's Under-18s."
     }
   ]
 }
