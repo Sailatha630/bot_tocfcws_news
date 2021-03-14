@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 654,
+    "totalItems": 655,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 66,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210314kante-reflects-on-a--hard-game--",
+      "type": "NewsCard",
+      "timestamp": "2021-03-14T13:51:00.000Z",
+      "orderDate": "2021-03-14T13:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/14/kante-reflects-on-a--hard-game--and-assesses--good-fight-until-t",
+        "type": "NewsCard",
+        "title": "Kante reflects on a ‘hard game’ and assesses ‘good fight until the end’ for top four",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/14/kante-reflects-on-a--hard-game--and-assesses--good-fight-until-t.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-14T13:51:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/14/kante-reflects-on-a--hard-game--and-assesses--good-fight-until-t",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kante vs Leeds",
+          "id": "editorial/news/2021/03/14/Kante-vs-Leeds-a",
+          "gravity": "auto",
+          "aspectRatio": 1.4514321,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kante reflects on a ‘hard game’ and assesses ‘good fight until the end’ for top four",
+      "publishDate": "2021-03-14T13:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/14/kante-reflects-on-a--hard-game--and-assesses--good-fight-until-t.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-14T13:51:00.000Z",
+      "description": "Few on the pitch did as much as N’Golo Kante to help Chelsea earn an away point at Leeds United on Saturday lunchtime and the French midfielder reflected afterwards on the effort exerted against an intense opponent.",
+      "matchId": 2128560
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210314the-debrief--mendy-and-kante-imp",
@@ -512,65 +561,6 @@
       ],
       "date": "2021-03-13T13:45:00.000Z",
       "description": "A goal for Bashir Humphreys and Josh Brooking in each half made sure of the three points on Saturday morning for Chelsea's Under-18s."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210313chelsea-line-up-vs-leeds",
-      "type": "NewsCard",
-      "timestamp": "2021-03-13T11:30:00.000Z",
-      "orderDate": "2021-03-13T11:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/13/chelsea-line-up-vs-leeds",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Leeds",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/13/chelsea-line-up-vs-leeds.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-13T11:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/13/chelsea-line-up-vs-leeds",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kai Havertz",
-          "id": "editorial/match-reports/2020-21/leeds-away/leeds-dressing-room-havertz",
-          "gravity": "auto",
-          "aspectRatio": 0.75,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Leeds",
-      "publishDate": "2021-03-13T11:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/13/chelsea-line-up-vs-leeds.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-13T11:30:00.000Z",
-      "description": "There are six changes to the Chelsea team for today’s game at Leeds.",
-      "matchId": 2128560
     }
   ]
 }
