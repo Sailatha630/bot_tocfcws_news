@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 666,
+    "totalItems": 667,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 67,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210315two-changes-to-april-fixtures",
+      "type": "NewsCard",
+      "timestamp": "2021-03-15T18:00:00.000Z",
+      "orderDate": "2021-03-15T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/15/two-changes-to-april-fixtures",
+        "type": "NewsCard",
+        "title": "Two changes to April fixtures",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/15/two-changes-to-april-fixtures.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-15T18:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/15/two-changes-to-april-fixtures",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Premier League",
+          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
+          "gravity": "auto",
+          "aspectRatio": 1.4790996,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Two changes to April fixtures",
+      "publishDate": "2021-03-15T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/15/two-changes-to-april-fixtures.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Brom",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-brom"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        }
+      ],
+      "date": "2021-03-15T18:00:00.000Z",
+      "description": "The kick-off times for our Premier League matches against West Bromwich Albion and Crystal Palace in April have been moved."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210315hayes-reacts-to-conti-cup-final-",
@@ -482,54 +540,6 @@
       ],
       "date": "2021-03-15T15:15:00.000Z",
       "description": "There are two big knockout matches at the Bridge to look forward to this week, plus live Academy football, which will all be featured on the club's online platforms in the coming days..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210315media-watch--cole-reveals-his-pe",
-      "type": "NewsCard",
-      "timestamp": "2021-03-15T09:29:00.000Z",
-      "orderDate": "2021-03-15T00:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/15/media-watch--cole-reveals-his-perfect-chelsea-signing--sarr-open",
-        "type": "NewsCard",
-        "title": "Media Watch: Cole reveals his perfect Chelsea signing, Sarr opens up on his development and recording-breaking forward speaks about Stamford Bridge dream",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/15/media-watch--cole-reveals-his-perfect-chelsea-signing--sarr-open.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-15T09:29:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/15/media-watch--cole-reveals-his-perfect-chelsea-signing--sarr-open",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Haaland-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Cole reveals his perfect Chelsea signing, Sarr opens up on his development and recording-breaking forward speaks about Stamford Bridge dream",
-      "publishDate": "2021-03-15T09:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/15/media-watch--cole-reveals-his-perfect-chelsea-signing--sarr-open.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Joe Cole",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_joe-cole"
-        },
-        {
-          "title": "Malang Sarr",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_malang-sarr"
-        }
-      ],
-      "date": "2021-03-15T09:29:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Joe Cole believes the Blues should sign Erling Haaland and Malang Sarr speaks about his season-long loan at Porto."
     }
   ]
 }
