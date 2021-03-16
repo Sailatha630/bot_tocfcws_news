@@ -8,54 +8,6 @@
   },
   "newsFeed": [
     {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210316watch-chelsea-train-live-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-16T12:29:00.000Z",
-      "orderDate": "2021-03-16T12:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/16/watch-chelsea-train-live-",
-        "type": "NewsCard",
-        "title": "Watch Chelsea train live!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/watch-chelsea-train-live-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-16T12:29:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/16/watch-chelsea-train-live-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Live-training-feccf2cd-3aa7-41b5-84dd-426cb28d281c",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Watch Chelsea train live!",
-      "publishDate": "2021-03-16T12:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/watch-chelsea-train-live-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-03-16T12:29:00.000Z",
-      "description": "Blues fans around the world can get closer to the club than ever before later today, by watching a live stream of this afternoon’s Champions League training session.",
-      "matchId": 2180564
-    },
-    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210316chilwell--this-is-bringing-out-t",
       "type": "NewsCard",
@@ -102,6 +54,54 @@
       ],
       "date": "2021-03-16T11:39:00.000Z",
       "description": "Competition for places in the team under Thomas Tuchel is key to the new boss’s unbeaten start at Chelsea, according to Ben Chilwell."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210316watch-chelsea-train-live-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-16T12:29:00.000Z",
+      "orderDate": "2021-03-16T11:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/16/watch-chelsea-train-live-",
+        "type": "NewsCard",
+        "title": "Watch Chelsea train live!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/watch-chelsea-train-live-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-16T12:29:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/16/watch-chelsea-train-live-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Live-training-feccf2cd-3aa7-41b5-84dd-426cb28d281c",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Watch Chelsea train live!",
+      "publishDate": "2021-03-16T12:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/watch-chelsea-train-live-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-03-16T12:29:00.000Z",
+      "description": "Blues fans around the world can get closer to the club than ever before later today, by watching a live stream of this afternoon’s Champions League training session.",
+      "matchId": 2180564
     },
     {
       "contentType": "Columnist",
