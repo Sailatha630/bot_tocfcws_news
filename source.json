@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 671,
+    "totalItems": 673,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 68,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210316chilwell--this-is-bringing-out-t",
+      "type": "NewsCard",
+      "timestamp": "2021-03-16T11:39:00.000Z",
+      "orderDate": "2021-03-16T11:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/16/chilwell--this-is-bringing-out-the-best-in-us",
+        "type": "NewsCard",
+        "title": "Chilwell: This is bringing out the best in us",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/chilwell--this-is-bringing-out-the-best-in-us.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-16T11:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/16/chilwell--this-is-bringing-out-the-best-in-us",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ben Chilwell training",
+          "id": "editorial/news/2021/03/15/chilwell_training",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chilwell: This is bringing out the best in us",
+      "publishDate": "2021-03-16T11:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/chilwell--this-is-bringing-out-the-best-in-us.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-16T11:39:00.000Z",
+      "description": "Competition for places in the team under Thomas Tuchel is key to the new boss’s unbeaten start at Chelsea, according to Ben Chilwell."
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210316pat-nevin-explains-who-can-repla",
@@ -483,59 +531,6 @@
       "date": "2021-03-15T15:38:00.000Z",
       "description": "The matchday programme for our Champions League Round of 16 second leg against Atletico Madrid on Wednesday is available to order now.",
       "matchId": 2180564
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210315pl2-reaction--eric-ramsay-left-p",
-      "type": "NewsCard",
-      "timestamp": "2021-03-15T09:08:00.000Z",
-      "orderDate": "2021-03-15T09:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/15/pl2-reaction--eric-ramsay-left-pleased-after-everton-win",
-        "type": "NewsCard",
-        "title": "PL2 reaction and highlights: Ramsay left pleased after Everton win",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/15/pl2-reaction--eric-ramsay-left-pleased-after-everton-win.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-15T09:08:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/15/pl2-reaction--eric-ramsay-left-pleased-after-everton-win",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Eric Ramsay",
-          "id": "editorial/news/2021/03/15/Eric-Ramsay-cfcdev-academy-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 reaction and highlights: Ramsay left pleased after Everton win",
-      "publishDate": "2021-03-15T09:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/15/pl2-reaction--eric-ramsay-left-pleased-after-everton-win.html",
-      "readTimeInMins": 33,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-03-15T09:08:00.000Z",
-      "description": "Development squad assistant coach Eric Ramsay feels Friday night's win was the product of performances over the last month…"
     }
   ]
 }
