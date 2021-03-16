@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 675,
+    "totalItems": 676,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 68,
@@ -362,6 +362,50 @@
       "matchId": 2195003
     },
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210316everton-women-v-chelsea-women-pr",
+      "type": "NewsCard",
+      "timestamp": "2021-03-16T13:16:00.000Z",
+      "orderDate": "2021-03-16T00:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/16/everton-women-v-chelsea-women-preview--kick-off-time--how-to-fol",
+        "type": "NewsCard",
+        "title": "Everton Women vs Chelsea Women preview: Kick-off time, how to follow and much more",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/everton-women-v-chelsea-women-preview--kick-off-time--how-to-fol.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-16T13:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/16/everton-women-v-chelsea-women-preview--kick-off-time--how-to-fol",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/CFCW_Team_ContiCup",
+          "gravity": "auto",
+          "aspectRatio": 1.3125,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Everton Women vs Chelsea Women preview: Kick-off time, how to follow and much more",
+      "publishDate": "2021-03-16T13:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/everton-women-v-chelsea-women-preview--kick-off-time--how-to-fol.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-03-16T13:16:00.000Z",
+      "description": "Chelsea FC Women are on the road next as we take on Everton in the Barclays FA Women’s Super League on Wednesday.",
+      "matchId": 2138467
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210315two-changes-to-april-fixtures",
       "type": "NewsCard",
@@ -472,54 +516,6 @@
       "date": "2021-03-15T12:45:00.000Z",
       "description": "Emma Hayes highlighted Chelsea FC Women’s resilience and relentlessness to become back-to-back Continental Tyres League Cup winners after beating Bristol City on Sunday.",
       "matchId": 2189238
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210315havertz-hoping-for-a-big-turnaro",
-      "type": "NewsCard",
-      "timestamp": "2021-03-15T12:10:00.000Z",
-      "orderDate": "2021-03-15T12:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/15/havertz-hoping-for-a-big-turnaround-soon",
-        "type": "NewsCard",
-        "title": "Havertz hoping for a big turnaround soon",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/15/havertz-hoping-for-a-big-turnaround-soon.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-15T12:10:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/15/havertz-hoping-for-a-big-turnaround-soon",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Havertz",
-          "id": "editorial/news/2021/03/15/Havertz-warm-up-Leeds-a",
-          "gravity": "auto",
-          "aspectRatio": 1.4167343,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz hoping for a big turnaround soon",
-      "publishDate": "2021-03-15T12:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/15/havertz-hoping-for-a-big-turnaround-soon.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-15T12:10:00.000Z",
-      "description": "After starting back-to-back Chelsea matches for the first time since December, Kai Havertz is feeling good and hoping to add goals to his game time in order to give the Blues a more clinical edge in attack."
     }
   ]
 }
