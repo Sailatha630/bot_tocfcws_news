@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 691,
+    "totalItems": 693,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 70,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210317match-report--chelsea-vs-atletic",
+      "type": "NewsCard",
+      "timestamp": "2021-03-17T22:00:00.000Z",
+      "orderDate": "2021-03-17T22:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/17/match-report--chelsea-vs-atletico-madrid",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 2 Atletico Madrid 0 (3-0 on agg)",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/match-report--chelsea-vs-atletico-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-17T22:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/17/match-report--chelsea-vs-atletico-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/atletico_home/Havertz-Ziyech-goal-celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.4997956,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 2 Atletico Madrid 0 (3-0 on agg)",
+      "publishDate": "2021-03-17T22:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/match-report--chelsea-vs-atletico-madrid.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-03-17T22:00:00.000Z",
+      "description": "Chelsea are through to the quarter-finals of the Champions League for the first time in seven seasons.",
+      "matchId": 2180564
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210317chelsea-line-up-vs-atletico-madr",
@@ -55,6 +104,59 @@
       "date": "2021-03-17T18:00:00.000Z",
       "description": "With Mason Mount and Jorginho suspended for this game, Mateo Kovacic, who was rested at the weekend, plays alongside N’Golo Kante in the centre of midfield and Timo Werner returns to the attack.",
       "matchId": 2180564
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210317women-s-match-report--everton-v-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-17T22:30:00.000Z",
+      "orderDate": "2021-03-17T17:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/17/women-s-match-report--everton-v-chelsea",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Everton v Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/women-s-match-report--everton-v-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-17T22:30:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/03/17/women-s-match-report--everton-v-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Fran_Kirby_Everton",
+          "gravity": "auto",
+          "aspectRatio": 1.4997962,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Everton v Chelsea",
+      "publishDate": "2021-03-17T22:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/women-s-match-report--everton-v-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-03-17T22:30:00.000Z",
+      "description": "Goals from Fran Kirby, Pernille Harder and Melanie Leupolz helped Chelsea FC Women secure a convincing 3-0 away victory against Everton in the Barclays FA Women’s Super League.",
+      "matchId": 2138467
     },
     {
       "contentType": "Competitions",
@@ -420,103 +522,6 @@
       ],
       "date": "2021-03-17T13:47:00.000Z",
       "description": "Former Chelsea player Paul Canoville, who is recovering from very serious illness, has given an interview today in which he thanks fans for ‘get well soon’ messages of support he received and a new banner at Stamford Bridge. He also discusses his time in hospital."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210317rudiger-on-luis-suarez-rivalry-a",
-      "type": "NewsCard",
-      "timestamp": "2021-03-17T02:00:00.000Z",
-      "orderDate": "2021-03-17T01:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/17/rudiger-on-luis-suarez-rivalry-and-helping-werner-settle",
-        "type": "NewsCard",
-        "title": "Rudiger on Luis Suarez rivalry and helping Werner settle",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/rudiger-on-luis-suarez-rivalry-and-helping-werner-settle.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-17T02:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/17/rudiger-on-luis-suarez-rivalry-and-helping-werner-settle",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Toni Rudiger and Luis Suarez in the first leg",
-          "id": "editorial/news/2021/03/16/rudiger-suarez",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rudiger on Luis Suarez rivalry and helping Werner settle",
-      "publishDate": "2021-03-17T02:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/rudiger-on-luis-suarez-rivalry-and-helping-werner-settle.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-03-17T02:00:00.000Z",
-      "description": "One of the most interesting match-ups in the first leg against Atletico Madrid was that of Toni Rudiger and Luis Suarez, who came together on a number of occasions in Bucharest.",
-      "matchId": 2180564
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210317media-watch--blues-keeping-an-ey",
-      "type": "NewsCard",
-      "timestamp": "2021-03-17T10:00:00.000Z",
-      "orderDate": "2021-03-17T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/17/media-watch--blues-keeping-an-eye-on-brazilian-star--simeone-bel",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues keeping an eye on Brazilian star, Simeone believes Chelsea have no weaknesses and BT Sport pundits back Blues to progress",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/media-watch--blues-keeping-an-eye-on-brazilian-star--simeone-bel.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-17T10:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/17/media-watch--blues-keeping-an-eye-on-brazilian-star--simeone-bel",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Menino-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues keeping an eye on Brazilian star, Simeone believes Chelsea have no weaknesses and BT Sport pundits back Blues to progress",
-      "publishDate": "2021-03-17T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/media-watch--blues-keeping-an-eye-on-brazilian-star--simeone-bel.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-03-17T10:00:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Gabriel Menino and Atletico Madrid boss Diego Simeone can’t find any weaknesses to exploit in Thomas Tuchel’s Chelsea."
     }
   ]
 }
