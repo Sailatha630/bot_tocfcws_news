@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 679,
+    "totalItems": 680,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 68,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210317chelsea-vs-atletico-madrid----th",
+      "type": "NewsCard",
+      "timestamp": "2021-03-17T02:00:00.000Z",
+      "orderDate": "2021-03-17T02:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/17/chelsea-vs-atletico-madrid----the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Atletico Madrid - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/chelsea-vs-atletico-madrid----the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-17T02:00:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/03/17/chelsea-vs-atletico-madrid----the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hazard scoring in our last home game vs Atletico",
+          "id": "editorial/news/2021/03/16/hazard-atletico-2017",
+          "gravity": "auto",
+          "aspectRatio": 1.5024823,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Atletico Madrid - the stats",
+      "publishDate": "2021-03-17T02:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/chelsea-vs-atletico-madrid----the-stats.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-03-17T02:00:00.000Z",
+      "description": "Ahead of tonight's decisive Champions League meeting with Atletico Madrid, we look in depth at the notable numbers you need to know...",
+      "matchId": 2180564
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210316tuchel-on-atletico-s-tactical-ap",
@@ -486,55 +540,6 @@
       "date": "2021-03-16T09:45:00.000Z",
       "description": "Atletico Madrid are one of our most common opponents in Europe. Before tomorrow's Champions League tie against the Spaniards, check your knowledge of them and the other sides we have met frequently in continental competition.",
       "matchId": 2180564
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210316women-s-champions-league-quarter",
-      "type": "NewsCard",
-      "timestamp": "2021-03-16T08:39:00.000Z",
-      "orderDate": "2021-03-16T00:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/16/women-s-champions-league-quarter-final-dates-and-venues-confirme",
-        "type": "NewsCard",
-        "title": "Women’s Champions League quarter-final dates and venues confirmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/women-s-champions-league-quarter-final-dates-and-venues-confirme.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-16T08:39:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/16/women-s-champions-league-quarter-final-dates-and-venues-confirme",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Womens_Champions_League_stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5026296,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s Champions League quarter-final dates and venues confirmed",
-      "publishDate": "2021-03-16T08:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/women-s-champions-league-quarter-final-dates-and-venues-confirme.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-03-16T08:39:00.000Z",
-      "description": "The details have been confirmed for Chelsea FC Women’s quarter-final tie against Wolfsburg.",
-      "matchId": 2195003
     }
   ]
 }
