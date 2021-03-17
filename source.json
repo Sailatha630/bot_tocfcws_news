@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 680,
+    "totalItems": 681,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 68,
+    "pageCount": 69,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210317rudiger-on-luis-suarez-rivalry-a",
+      "type": "NewsCard",
+      "timestamp": "2021-03-17T02:00:00.000Z",
+      "orderDate": "2021-03-17T13:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/17/rudiger-on-luis-suarez-rivalry-and-helping-werner-settle",
+        "type": "NewsCard",
+        "title": "Rudiger on Luis Suarez rivalry and helping Werner settle",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/rudiger-on-luis-suarez-rivalry-and-helping-werner-settle.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-17T02:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/17/rudiger-on-luis-suarez-rivalry-and-helping-werner-settle",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Toni Rudiger and Luis Suarez in the first leg",
+          "id": "editorial/news/2021/03/16/rudiger-suarez",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger on Luis Suarez rivalry and helping Werner settle",
+      "publishDate": "2021-03-17T02:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/rudiger-on-luis-suarez-rivalry-and-helping-werner-settle.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-03-17T02:00:00.000Z",
+      "description": "One of the most interesting match-ups in the first leg against Atletico Madrid was that of Toni Rudiger and Luis Suarez, who came together on a number of occasions in Bucharest.",
+      "matchId": 2180564
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210317chelsea-vs-atletico-madrid----th",
@@ -491,55 +545,6 @@
       ],
       "date": "2021-03-16T09:00:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Paulo Dybala and Aidy Boothroyd admits Callum Hudson-Odoi is unlucky to not make the senior England team."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210316pre-match-quiz--chelsea-vs-atlet",
-      "type": "NewsCard",
-      "timestamp": "2021-03-16T09:45:00.000Z",
-      "orderDate": "2021-03-16T02:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/16/pre-match-quiz--chelsea-vs-atletico-madrid",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Chelsea vs Atletico Madrid",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/pre-match-quiz--chelsea-vs-atletico-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-16T09:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/16/pre-match-quiz--chelsea-vs-atletico-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Giroud",
-          "id": "editorial/news/2021/03/15/Giroud_GettyImages-1303739339",
-          "gravity": "auto",
-          "aspectRatio": 1.4866518,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Chelsea vs Atletico Madrid",
-      "publishDate": "2021-03-16T09:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/16/pre-match-quiz--chelsea-vs-atletico-madrid.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-03-16T09:45:00.000Z",
-      "description": "Atletico Madrid are one of our most common opponents in Europe. Before tomorrow's Champions League tie against the Spaniards, check your knowledge of them and the other sides we have met frequently in continental competition.",
-      "matchId": 2180564
     }
   ]
 }
