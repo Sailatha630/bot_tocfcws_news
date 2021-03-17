@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 690,
+    "totalItems": 691,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 69,
+    "pageCount": 70,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210317chelsea-line-up-vs-atletico-madr",
+      "type": "NewsCard",
+      "timestamp": "2021-03-17T18:00:00.000Z",
+      "orderDate": "2021-03-17T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/17/chelsea-line-up-vs-atletico-madrid",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Atletico Madrid",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/chelsea-line-up-vs-atletico-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-17T18:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/17/chelsea-line-up-vs-atletico-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2020-21/atletico_home/dressing_room_atletico_home_3",
+          "gravity": "auto",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Atletico Madrid",
+      "publishDate": "2021-03-17T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/chelsea-line-up-vs-atletico-madrid.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-03-17T18:00:00.000Z",
+      "description": "With Mason Mount and Jorginho suspended for this game, Mateo Kovacic, who was rested at the weekend, plays alongside N’Golo Kante in the centre of midfield and Timo Werner returns to the attack.",
+      "matchId": 2180564
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20210317quiz--name-every-player-who-has-",
@@ -468,55 +517,6 @@
       ],
       "date": "2021-03-17T10:00:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Gabriel Menino and Atletico Madrid boss Diego Simeone can’t find any weaknesses to exploit in Thomas Tuchel’s Chelsea."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210317blues-prepared-for-toffees-test",
-      "type": "NewsCard",
-      "timestamp": "2021-03-17T09:00:00.000Z",
-      "orderDate": "2021-03-17T00:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/17/blues-prepared-for-toffees-test",
-        "type": "NewsCard",
-        "title": "Blues prepared for Toffees test",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/blues-prepared-for-toffees-test.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-17T09:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/17/blues-prepared-for-toffees-test",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Guro_Reiten_Celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5001683,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues prepared for Toffees test",
-      "publishDate": "2021-03-17T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/blues-prepared-for-toffees-test.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2021-03-17T09:00:00.000Z",
-      "description": "Chelsea FC Women face Everton this evening and Guro Reiten has highlighted the importance of producing a match-winning performance.",
-      "matchId": 2138467
     }
   ]
 }
