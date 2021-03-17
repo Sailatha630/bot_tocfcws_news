@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 694,
+    "totalItems": 695,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 70,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210317tuchel-reacts-to-atletico-win",
+      "type": "NewsCard",
+      "timestamp": "2021-03-17T22:50:00.000Z",
+      "orderDate": "2021-03-17T22:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/17/tuchel-reacts-to-atletico-win",
+        "type": "NewsCard",
+        "title": "Tuchel hails unbelievable team effort earning deserved win, praises decisive Ziyech and Kante, and claims ‘nobody will want to play us’ in quarter-finals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/tuchel-reacts-to-atletico-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-17T22:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/17/tuchel-reacts-to-atletico-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2020-21/atletico_home/Tuchel-Kovacic-Atletico-h",
+          "gravity": "auto",
+          "aspectRatio": 1.4997795,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel hails unbelievable team effort earning deserved win, praises decisive Ziyech and Kante, and claims ‘nobody will want to play us’ in quarter-finals",
+      "publishDate": "2021-03-17T22:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/tuchel-reacts-to-atletico-win.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-03-17T22:50:00.000Z",
+      "description": "After taking Chelsea through to the Champions League quarter-finals for the first time in seven years, Thomas Tuchel was full of praise for collective spirit and individuals proving decisive as we beat Atletico Madrid 2-0 on the night…",
+      "matchId": 2180564
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210317match-report--chelsea-vs-atletic",
@@ -478,55 +531,6 @@
       "date": "2021-03-17T02:00:00.000Z",
       "description": "Ahead of tonight's decisive Champions League meeting with Atletico Madrid, we look in depth at the notable numbers you need to know...",
       "matchId": 2180564
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210317development-squad-in-friendly-de",
-      "type": "NewsCard",
-      "timestamp": "2021-03-17T13:54:00.000Z",
-      "orderDate": "2021-03-17T01:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/17/development-squad-in-friendly-defeat",
-        "type": "NewsCard",
-        "title": "Development squad in friendly defeat",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/development-squad-in-friendly-defeat.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-17T13:54:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/17/development-squad-in-friendly-defeat",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Dynel Simeu",
-          "id": "editorial/news/2021/03/17/Dynel-Simeu-cfcdev-vs-brentford-stock",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Development squad in friendly defeat",
-      "publishDate": "2021-03-17T13:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/development-squad-in-friendly-defeat.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-03-17T13:54:00.000Z",
-      "description": "Our development squad hosted Brentford B in a Cobham friendly on Wednesday afternoon."
     }
   ]
 }
