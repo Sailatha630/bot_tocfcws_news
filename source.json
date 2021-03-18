@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 696,
+    "totalItems": 697,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 70,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210318club-statement-on-sheldon-review",
+      "type": "NewsCard",
+      "timestamp": "2021-03-18T08:30:00.000Z",
+      "orderDate": "2021-03-18T08:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/18/club-statement-on-sheldon-review",
+        "type": "NewsCard",
+        "title": "Club statement on Sheldon Review",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/club-statement-on-sheldon-review.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-18T08:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/18/club-statement-on-sheldon-review",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Club badge",
+          "id": "editorial/news/2021/01/25/transparent_club_badge_crest_logo_chelsea",
+          "gravity": "auto",
+          "aspectRatio": 1.9666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Club statement on Sheldon Review",
+      "publishDate": "2021-03-18T08:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/club-statement-on-sheldon-review.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-03-18T08:30:00.000Z",
+      "description": "We welcome the publication of the Sheldon Review and commend all survivors who came forward as part of the process for their bravery."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210317tuchel-reacts-to-atletico-win",
@@ -481,55 +518,6 @@
       ],
       "date": "2021-03-17T14:46:00.000Z",
       "description": "Mason Mount is in the running to be named London’s top male footballer, while there is also recognition for two stars of the Chelsea FC Women’s team, as well as the club’s campaign with UK charity Refuge…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210317pre-match-briefing--chelsea-vs-a",
-      "type": "NewsCard",
-      "timestamp": "2021-03-17T08:04:00.000Z",
-      "orderDate": "2021-03-17T08:04:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/17/pre-match-briefing--chelsea-vs-atletico-madrid",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Atletico Madrid",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/pre-match-briefing--chelsea-vs-atletico-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-17T08:04:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/03/17/pre-match-briefing--chelsea-vs-atletico-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge Champions League night",
-          "id": "editorial/news/2021/03/16/stamford_bridge_champions_league_window",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Atletico Madrid",
-      "publishDate": "2021-03-17T08:04:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/pre-match-briefing--chelsea-vs-atletico-madrid.html",
-      "readTimeInMins": 25,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-03-17T08:04:00.000Z",
-      "description": "The capital cities of England and Spain are in contest at the Bridge tonight as our Champions League tie reaches its conclusion. Club historian Rick Glanvill and club statistician Paul Dutton preview the round of 16 game with Chelsea 1-0 ahead from the first leg…",
-      "matchId": 2180564
     }
   ]
 }
