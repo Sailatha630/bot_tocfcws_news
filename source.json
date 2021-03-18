@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 699,
+    "totalItems": 700,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 70,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20210318chelsea-fc-launch-no-to-hate-cam",
+      "type": "NewsCard",
+      "timestamp": "2021-03-18T11:59:00.000Z",
+      "orderDate": "2021-03-18T11:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/18/chelsea-fc-launch-no-to-hate-campaign",
+        "type": "NewsCard",
+        "title": "Chelsea FC launch No To Hate campaign",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/chelsea-fc-launch-no-to-hate-campaign.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-18T11:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/18/chelsea-fc-launch-no-to-hate-campaign",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Christian Pulisic, Callum Hudson-Odoi and Mason Mount with No to Hate logo",
+          "id": "editorial/news/2021/03/18/No_to_Hate_Pulisic_Odoi_Mount",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea FC launch No To Hate campaign",
+      "publishDate": "2021-03-18T11:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/chelsea-fc-launch-no-to-hate-campaign.html",
+      "readTimeInMins": 13,
+      "tags": [],
+      "date": "2021-03-18T11:59:00.000Z",
+      "description": "At Chelsea FC, we are clear that there can be no place in our game, nor our society, for racism, antisemitism or any form of discrimination."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210318ziyech--timo--kai-and-i---we-hav",
@@ -459,55 +496,6 @@
       ],
       "date": "2021-03-17T18:00:00.000Z",
       "description": "With Mason Mount and Jorginho suspended for this game, Mateo Kovacic, who was rested at the weekend, plays alongside N’Golo Kante in the centre of midfield and Timo Werner returns to the attack.",
-      "matchId": 2180564
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210317quiz--name-every-player-who-has-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-17T14:00:00.000Z",
-      "orderDate": "2021-03-17T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/17/quiz--name-every-player-who-has-scored-for-chelsea-in-the-champi",
-        "type": "NewsCard",
-        "title": "Quiz: Name every player who has scored for Chelsea in the Champions League knockout round",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/quiz--name-every-player-who-has-scored-for-chelsea-in-the-champi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-17T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/17/quiz--name-every-player-who-has-scored-for-chelsea-in-the-champi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Flags",
-          "id": "editorial/news/2021/03/15/European-trophies-banner-stock",
-          "gravity": "south",
-          "aspectRatio": 1.9323972,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Name every player who has scored for Chelsea in the Champions League knockout round",
-      "publishDate": "2021-03-17T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/17/quiz--name-every-player-who-has-scored-for-chelsea-in-the-champi.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-03-17T14:00:00.000Z",
-      "description": "European knockout football is back at the Bridge tonight so we have a testing quiz for you to mark the occasion...",
       "matchId": 2180564
     }
   ]
