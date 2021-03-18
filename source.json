@@ -63,20 +63,35 @@
       "template": "standard-article",
       "path": "/content/chelseafc/en/news/2021/03/18/the-debrief--kante-and-kovacic-run-the-show-as-quick-attacks-eli",
       "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Debrief graphic",
-          "id": "editorial/news/2021/03/18/debrief-vs-atletico-main-image-web",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea's clinical counter attacks send Atletico Madrid packing | The Debrief Extra",
+          "videoId": "LDdDYpM9",
+          "bucket": "prod-cfc",
+          "description": "The Debrief Extra delves into another impressive Chelsea display and explains why efficient counter attacks and a tireless N'Golo Kante were the keys to victory...",
+          "duration": 90000,
+          "date": "2021-03-18T17:31:11.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/LDdDYpM9/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/the-debrief--kante-and-kovacic-run-the-show-as-quick-attacks-eli.page.v3.json",
+          "contentType": "Analysis",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/03/18/the-debrief--kante-and-kovacic-run-the-show-as-quick-attacks-eli?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/03/18/the-debrief--kante-and-kovacic-run-the-show-as-quick-attacks-eli",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true
+        },
+        "caption": "The Debrief Extra delves into another impressive Chelsea display and explains why efficient counter attacks and a tireless N'Golo Kante were the keys to victory..."
       },
       "content": "The Debrief: Kante and Kovacic run the show as quick attacks eliminate Atletico",
       "publishDate": "2021-03-18T13:00:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/the-debrief--kante-and-kovacic-run-the-show-as-quick-attacks-eli.html",
-      "readTimeInMins": 14,
+      "readTimeInMins": 15,
       "tags": [
         {
           "title": "N Golo Kante",
