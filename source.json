@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 715,
+    "totalItems": 716,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 72,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210319roman-abramovich-discusses-footb",
+      "type": "NewsCard",
+      "timestamp": "2021-03-19T21:12:00.000Z",
+      "orderDate": "2021-03-19T21:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/19/roman-abramovich-discusses-football-in-society-and-ambition-rema",
+        "type": "NewsCard",
+        "title": "Roman Abramovich discusses football in society and ambition remaining the same ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/roman-abramovich-discusses-football-in-society-and-ambition-rema.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-19T21:12:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/19/roman-abramovich-discusses-football-in-society-and-ambition-rema",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Roman Abramovich",
+          "id": "editorial/media-watch/roman-2017-GettyImages-686354970",
+          "gravity": "auto",
+          "aspectRatio": 1.4997001,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Roman Abramovich discusses football in society and ambition remaining the same ",
+      "publishDate": "2021-03-19T21:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/roman-abramovich-discusses-football-in-society-and-ambition-rema.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Say No to Antisemitism",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_say-no-to-antisemitism"
+        }
+      ],
+      "date": "2021-03-19T21:12:00.000Z",
+      "description": "Roman Abramovich has shared thoughts publicly on some important topics concerning Chelsea, football and wider society, including combating discrimination, having a performance-based culture and investing in the women’s game."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210319tuchel-confirms-one-out-and-one-",
@@ -476,60 +519,6 @@
       "tags": [],
       "date": "2021-03-19T16:37:00.000Z",
       "description": "Our lockdown feature Coaches Corner Live, which aims to aid your football training and physical activity amid the nationwide restrictions, returns this Saturday morning..."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210318kante-on-trusting-the-strategy-a",
-      "type": "NewsCard",
-      "timestamp": "2021-03-18T19:14:00.000Z",
-      "orderDate": "2021-03-18T19:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/18/kante-on-trusting-the-strategy-and-going-far-in-the-champions-le",
-        "type": "NewsCard",
-        "title": "Kante on trusting the strategy and going far in the Champions League",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/kante-on-trusting-the-strategy-and-going-far-in-the-champions-le.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-18T19:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/18/kante-on-trusting-the-strategy-and-going-far-in-the-champions-le",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kante with his award",
-          "id": "editorial/news/2021/03/18/kante-atletico-MOTM-award-inside",
-          "gravity": "auto",
-          "aspectRatio": 0.75,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kante on trusting the strategy and going far in the Champions League",
-      "publishDate": "2021-03-18T19:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/kante-on-trusting-the-strategy-and-going-far-in-the-champions-le.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-03-18T19:14:00.000Z",
-      "description": "N’Golo Kante was deservedly named Man of the Match for his flawless performance against Atletico Madrid on Wednesday night, and afterwards the midfielder discussed our tactical approach for the tie and his determination to go even further in the Champions League.",
-      "matchId": 2180564
     }
   ]
 }
