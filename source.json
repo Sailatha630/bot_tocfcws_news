@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 706,
+    "totalItems": 707,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 71,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210318immediate-impact---chelsea-s-qui",
+      "type": "NewsCard",
+      "timestamp": "2021-03-19T00:16:00.000Z",
+      "orderDate": "2021-03-19T00:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/18/immediate-impact---chelsea-s-quickfire-substitutes",
+        "type": "NewsCard",
+        "title": "Immediate impact – Chelsea’s quickfire substitutes",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/immediate-impact---chelsea-s-quickfire-substitutes.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-19T00:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/18/immediate-impact---chelsea-s-quickfire-substitutes",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Emerson",
+          "id": "asia/editorial/emerson-atletico-2021-GettyImages-1307643628",
+          "gravity": "auto",
+          "aspectRatio": 1.4894562,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Immediate impact – Chelsea’s quickfire substitutes",
+      "publishDate": "2021-03-19T00:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/immediate-impact---chelsea-s-quickfire-substitutes.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Willian",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_willian"
+        },
+        {
+          "title": "Cesc Fabregas",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesc-fabregas"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Ramires",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_ramires0"
+        },
+        {
+          "title": "Loic Remy",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_loic-remy"
+        }
+      ],
+      "date": "2021-03-19T00:16:00.000Z",
+      "description": "With Emerson scoring Chelsea’s clinching goal against Atletico Madrid on Wednesday just seconds after he had come on as a substitute, we look at some other Blues who have made their mark after coming off the bench in recent seasons."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210318kante-on-trusting-the-strategy-a",
@@ -489,54 +553,6 @@
       "date": "2021-03-18T15:56:00.000Z",
       "description": "The matchday programme for our FA Cup quarter-final tie against Sheffield United on Sunday is available to order now.",
       "matchId": 2190896
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210318media-watch--blues-keeping-tabs-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-18T09:36:00.000Z",
-      "orderDate": "2021-03-18T00:36:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/18/media-watch--blues-keeping-tabs-on-dahoud--cole-praises-kante-an",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues keeping tabs on Dahoud, Cole praises Kante and Ferdinand likens Havertz to Berbatov",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/media-watch--blues-keeping-tabs-on-dahoud--cole-praises-kante-an.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-18T09:36:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/18/media-watch--blues-keeping-tabs-on-dahoud--cole-praises-kante-an",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Dahoud-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues keeping tabs on Dahoud, Cole praises Kante and Ferdinand likens Havertz to Berbatov",
-      "publishDate": "2021-03-18T09:36:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/media-watch--blues-keeping-tabs-on-dahoud--cole-praises-kante-an.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-03-18T09:36:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Mahmoud Dahoud and Joe Cole praises N’Golo Kante’s performance against Atletico Madrid."
     }
   ]
 }
