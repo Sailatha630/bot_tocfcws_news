@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 707,
+    "totalItems": 708,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 71,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210319pre-match-briefing--chelsea-vs-s",
+      "type": "NewsCard",
+      "timestamp": "2021-03-19T07:59:00.000Z",
+      "orderDate": "2021-03-19T07:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/19/pre-match-briefing--chelsea-vs-sheffield-united",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Sheffield United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/pre-match-briefing--chelsea-vs-sheffield-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-19T07:59:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/03/19/pre-match-briefing--chelsea-vs-sheffield-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "FA Cup trophy",
+          "id": "editorial/news/2021/01/07/FA_Cup_trophy_podium",
+          "gravity": "auto",
+          "aspectRatio": 1.502439,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Sheffield United",
+      "publishDate": "2021-03-19T07:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/pre-match-briefing--chelsea-vs-sheffield-united.html",
+      "readTimeInMins": 27,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        }
+      ],
+      "date": "2021-03-19T07:59:00.000Z",
+      "description": "Two Premier League clubs turn their attentions to the FA Cup at Stamford Bridge on Sunday. Club historian Rick Glanvill and club statistician Paul Dutton turn their attentions to this quarter-final tie...",
+      "matchId": 2190896
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210318immediate-impact---chelsea-s-qui",
@@ -515,44 +569,6 @@
       "date": "2021-03-18T13:23:00.000Z",
       "description": "Chelsea FC Women picked up three points in the Barclays FA Women’s Super League against Everton last night and manager Emma Hayes praised her team’s ‘quality’ on Merseyside.",
       "matchId": 2138467
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210318big-brains-abound-according-to-j",
-      "type": "NewsCard",
-      "timestamp": "2021-03-18T15:56:00.000Z",
-      "orderDate": "2021-03-18T03:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/18/big-brains-abound-according-to-jorginho-in-this-weekend-s-matchd",
-        "type": "NewsCard",
-        "title": "Big brains abound according to Jorginho in this weekend’s matchday programme",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/big-brains-abound-according-to-jorginho-in-this-weekend-s-matchd.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-18T15:56:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/18/big-brains-abound-according-to-jorginho-in-this-weekend-s-matchd",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Jorginho, Kante, Kovacic",
-          "id": "editorial/news/2019/12/jorginho-kante-kovacic-2019",
-          "gravity": "auto",
-          "aspectRatio": 1.4998437,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Big brains abound according to Jorginho in this weekend’s matchday programme",
-      "publishDate": "2021-03-18T15:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/big-brains-abound-according-to-jorginho-in-this-weekend-s-matchd.html",
-      "readTimeInMins": 7,
-      "tags": [],
-      "date": "2021-03-18T15:56:00.000Z",
-      "description": "The matchday programme for our FA Cup quarter-final tie against Sheffield United on Sunday is available to order now.",
-      "matchId": 2190896
     }
   ]
 }
