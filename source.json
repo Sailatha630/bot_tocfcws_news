@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 718,
+    "totalItems": 719,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 72,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210320pre-match-quiz--chelsea-vs-sheff",
+      "type": "NewsCard",
+      "timestamp": "2021-03-20T08:39:00.000Z",
+      "orderDate": "2021-03-20T08:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/20/pre-match-quiz--chelsea-vs-sheffield-united",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Chelsea vs Sheffield United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/pre-match-quiz--chelsea-vs-sheffield-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-20T08:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/20/pre-match-quiz--chelsea-vs-sheffield-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "FA Cup",
+          "id": "editorial/news/2021/03/19/FA_Cup_GettyImages-1011398404",
+          "gravity": "auto",
+          "aspectRatio": 1.4998536,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Chelsea vs Sheffield United",
+      "publishDate": "2021-03-20T08:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/pre-match-quiz--chelsea-vs-sheffield-united.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-03-20T08:39:00.000Z",
+      "description": "When we host Sheffield United we will be looking to continue our run of winning all but one of our FA Cup quarter-finals since 2008. See how well you can remember the previous ties during that time...",
+      "matchId": 2190896
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210319roman-abramovich-discusses-footb",
@@ -486,70 +540,6 @@
       ],
       "date": "2021-03-19T09:24:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are keeping an eye on Sergio Aguero while Gareth Southgate explains why he has recalled Reece James to the national team."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210318immediate-impact---chelsea-s-qui",
-      "type": "NewsCard",
-      "timestamp": "2021-03-19T00:16:00.000Z",
-      "orderDate": "2021-03-19T00:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/18/immediate-impact---chelsea-s-quickfire-substitutes",
-        "type": "NewsCard",
-        "title": "Immediate impact – Chelsea’s quickfire substitutes",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/immediate-impact---chelsea-s-quickfire-substitutes.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-19T00:16:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/18/immediate-impact---chelsea-s-quickfire-substitutes",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Emerson",
-          "id": "asia/editorial/emerson-atletico-2021-GettyImages-1307643628",
-          "gravity": "auto",
-          "aspectRatio": 1.4894562,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Immediate impact – Chelsea’s quickfire substitutes",
-      "publishDate": "2021-03-19T00:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/18/immediate-impact---chelsea-s-quickfire-substitutes.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Willian",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_willian"
-        },
-        {
-          "title": "Cesc Fabregas",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesc-fabregas"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Ramires",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_ramires0"
-        },
-        {
-          "title": "Loic Remy",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_loic-remy"
-        }
-      ],
-      "date": "2021-03-19T00:16:00.000Z",
-      "description": "With Emerson scoring Chelsea’s clinching goal against Atletico Madrid on Wednesday just seconds after he had come on as a substitute, we look at some other Blues who have made their mark after coming off the bench in recent seasons."
     }
   ]
 }
