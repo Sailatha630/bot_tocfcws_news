@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 720,
+    "totalItems": 721,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 72,
+    "pageCount": 73,
     "startFrom": 0
   },
   "newsFeed": [
@@ -215,6 +215,55 @@
       "date": "2021-03-20T07:10:00.000Z",
       "description": "Thomas Tuchel has given his view on Tammy Abraham’s potential return to the team after injury and the roles played in the squad by youngsters Billy Gilmour and Tino Anjorin.",
       "matchId": 2190896
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210320under-18s-report--leicester-chel",
+      "type": "NewsCard",
+      "timestamp": "2021-03-20T13:45:00.000Z",
+      "orderDate": "2021-03-20T01:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/20/under-18s-report--leicester-chelsea",
+        "type": "NewsCard",
+        "title": "Under-18s report: Leicester 2 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/under-18s-report--leicester-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-20T13:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/20/under-18s-report--leicester-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Myles Peart-Harris",
+          "id": "editorial/news/2021/03/20/Myles-Peart-harris-goal-cfcu18-vs-leicester",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: Leicester 2 Chelsea 2",
+      "publishDate": "2021-03-20T13:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/under-18s-report--leicester-chelsea.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-03-20T13:45:00.000Z",
+      "description": "Chelsea’s Under-18s twice came from behind to take a point away from Leicester on Saturday afternoon."
     },
     {
       "contentType": "Competitions",
@@ -476,60 +525,6 @@
       ],
       "date": "2021-03-19T09:39:00.000Z",
       "description": "The details have been confirmed for when Chelsea will meet Porto in the quarter-finals of this season’s Champions League, with a semi-final clash with either Real Madrid or Liverpool awaiting the victors."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210319pre-match-briefing--chelsea-vs-s",
-      "type": "NewsCard",
-      "timestamp": "2021-03-19T07:59:00.000Z",
-      "orderDate": "2021-03-19T07:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/19/pre-match-briefing--chelsea-vs-sheffield-united",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Sheffield United",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/pre-match-briefing--chelsea-vs-sheffield-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-19T07:59:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/03/19/pre-match-briefing--chelsea-vs-sheffield-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "FA Cup trophy",
-          "id": "editorial/news/2021/01/07/FA_Cup_trophy_podium",
-          "gravity": "auto",
-          "aspectRatio": 1.502439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Sheffield United",
-      "publishDate": "2021-03-19T07:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/pre-match-briefing--chelsea-vs-sheffield-united.html",
-      "readTimeInMins": 27,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Sheffield United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_sheffield-united"
-        }
-      ],
-      "date": "2021-03-19T07:59:00.000Z",
-      "description": "Two Premier League clubs turn their attentions to the FA Cup at Stamford Bridge on Sunday. Club historian Rick Glanvill and club statistician Paul Dutton turn their attentions to this quarter-final tie...",
-      "matchId": 2190896
     }
   ]
 }
