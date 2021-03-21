@@ -1,12 +1,67 @@
 {
   "pagination": {
-    "totalItems": 723,
+    "totalItems": 724,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210321pl2-preview",
+      "type": "NewsCard",
+      "timestamp": "2021-03-21T00:44:00.000Z",
+      "orderDate": "2021-03-21T00:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/21/pl2-preview",
+        "type": "NewsCard",
+        "title": "PL2 Preview: Kick-off time, how to watch live and Nunn remaining focused",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/pl2-preview.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-21T00:44:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/21/pl2-preview",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " George Nunn",
+          "id": "editorial/news/2021/03/20/George-nunn-cfcdev-match-preview-man-city-home",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 Preview: Kick-off time, how to watch live and Nunn remaining focused",
+      "publishDate": "2021-03-21T00:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/pl2-preview.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-03-21T00:44:00.000Z",
+      "description": "Chelsea’s development squad take to the Cobham match pitch this morning to play Manchester City in Premier League 2. You can watch the game live and for free on our channels.",
+      "matchId": 2141108
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210320havertz--it-s-a-big-ambition-of-",
@@ -485,59 +540,6 @@
       "date": "2021-03-19T14:04:00.000Z",
       "description": "Thomas Tuchel has confirmed that Sunday’s game against Sheffield United comes too soon for Thiago Silva but the Blues are likely to be boosted by the return of striker Tammy Abraham.",
       "matchId": 2190896
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210319thomas-tuchel-and-petr-cech-reac",
-      "type": "NewsCard",
-      "timestamp": "2021-03-19T14:00:00.000Z",
-      "orderDate": "2021-03-19T13:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/19/thomas-tuchel-and-petr-cech-react-to-chelsea-champions-league-dr",
-        "type": "NewsCard",
-        "title": "Thomas Tuchel and Petr Cech give their verdict on Chelsea's Champions League draw",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/thomas-tuchel-and-petr-cech-react-to-chelsea-champions-league-dr.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-19T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/19/thomas-tuchel-and-petr-cech-react-to-chelsea-champions-league-dr",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2021/03/19/tuchel-press-conference-champions-league-graphic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Thomas Tuchel and Petr Cech give their verdict on Chelsea's Champions League draw",
-      "publishDate": "2021-03-19T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/thomas-tuchel-and-petr-cech-react-to-chelsea-champions-league-dr.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-19T14:00:00.000Z",
-      "description": "There were two aspects of today’s Champions League quarter-final draw that pleased Thomas Tuchel, but another development makes him wary as we look forward to a two-legged tie against Porto next month."
     }
   ]
 }
