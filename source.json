@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 729,
+    "totalItems": 730,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210321match-report--chelsea-vs-sheffie",
+      "type": "NewsCard",
+      "timestamp": "2021-03-21T15:30:00.000Z",
+      "orderDate": "2021-03-21T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/21/match-report--chelsea-vs-sheffield-united",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 2 Sheffield United 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/match-report--chelsea-vs-sheffield-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-21T15:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/21/match-report--chelsea-vs-sheffield-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/sheffield-united-fa-cup/GettyImages-1308268083",
+          "gravity": "auto",
+          "aspectRatio": 1.5257214,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 2 Sheffield United 0",
+      "publishDate": "2021-03-21T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/match-report--chelsea-vs-sheffield-united.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        }
+      ],
+      "date": "2021-03-21T15:30:00.000Z",
+      "description": "A first-half own goal and an injury-time strike from Hakim Ziyech sent Chelsea into the FA Cup semi-finals for the 11th time in 20 seasons.",
+      "matchId": 2190896
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210321chelsea-line-up-vs-sheffield-uni",
@@ -504,49 +558,6 @@
       "date": "2021-03-20T08:39:00.000Z",
       "description": "When we host Sheffield United we will be looking to continue our run of winning all but one of our FA Cup quarter-finals since 2008. See how well you can remember the previous ties during that time...",
       "matchId": 2190896
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210319roman-abramovich-discusses-footb",
-      "type": "NewsCard",
-      "timestamp": "2021-03-19T21:12:00.000Z",
-      "orderDate": "2021-03-20T08:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/19/roman-abramovich-discusses-football-in-society-and-ambition-rema",
-        "type": "NewsCard",
-        "title": "Roman Abramovich discusses football in society and ambition remaining the same ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/roman-abramovich-discusses-football-in-society-and-ambition-rema.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-19T21:12:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/19/roman-abramovich-discusses-football-in-society-and-ambition-rema",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Roman Abramovich",
-          "id": "editorial/media-watch/roman-2017-GettyImages-686354970",
-          "gravity": "auto",
-          "aspectRatio": 1.4997001,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Roman Abramovich discusses football in society and ambition remaining the same ",
-      "publishDate": "2021-03-19T21:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/19/roman-abramovich-discusses-football-in-society-and-ambition-rema.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Say No to Antisemitism",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_say-no-to-antisemitism"
-        }
-      ],
-      "date": "2021-03-19T21:12:00.000Z",
-      "description": "Roman Abramovich has shared thoughts publicly on some important topics concerning Chelsea, football and wider society, including combating discrimination, having a performance-based culture and investing in the women’s game."
     }
   ]
 }
