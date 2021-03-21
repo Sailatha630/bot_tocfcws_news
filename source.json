@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 725,
+    "totalItems": 726,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210321no-doubts-for-james",
+      "type": "NewsCard",
+      "timestamp": "2021-03-21T02:51:00.000Z",
+      "orderDate": "2021-03-21T02:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/21/no-doubts-for-james",
+        "type": "NewsCard",
+        "title": "Reece James recalls his days as Rhian Brewster's strike partner",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/no-doubts-for-james.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-21T02:51:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/21/no-doubts-for-james",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "James",
+          "id": "editorial/news/2021/03/20/James_GettyImages-1231808934",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Reece James recalls his days as Rhian Brewster's strike partner",
+      "publishDate": "2021-03-21T02:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/no-doubts-for-james.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-03-21T02:51:00.000Z",
+      "description": "Reece James says Chelsea are confident going into our FA Cup tie with Sheffield United and recalled his time playing up front with a current Blades striker in our Academy.",
+      "matchId": 2190896
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210321pl2-preview",
@@ -477,54 +536,6 @@
       ],
       "date": "2021-03-20T13:45:00.000Z",
       "description": "Chelsea’s Under-18s twice came from behind to take a point away from Leicester on Saturday afternoon."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210320can-you-remember-the-commentary-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-20T08:30:00.000Z",
-      "orderDate": "2021-03-20T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/20/can-you-remember-the-commentary-for--that--fernando-torres-",
-        "type": "NewsCard",
-        "title": "Can you remember the commentary for 'that' Fernando Torres goal against Barcelona?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/can-you-remember-the-commentary-for--that--fernando-torres-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-20T08:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/20/can-you-remember-the-commentary-for--that--fernando-torres-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Torres rounding Valdes",
-          "id": "editorial/blogs-and-columns/2020/10/Torres-Barcelona-GettyImages-611428100",
-          "gravity": "auto",
-          "aspectRatio": 1.502439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Can you remember the commentary for 'that' Fernando Torres goal against Barcelona?",
-      "publishDate": "2021-03-20T08:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/can-you-remember-the-commentary-for--that--fernando-torres-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Fernando Torres",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_fernando-torres"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-20T08:30:00.000Z",
-      "description": "To celebrate Fernando Torres's 37th birthday today, we have a quiz for you based around his most iconic moment in a Chelsea shirt."
     }
   ]
 }
