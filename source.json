@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 728,
+    "totalItems": 729,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
@@ -30,9 +30,9 @@
         "image": {
           "type": "ImageCloudinary",
           "alt": "Programme cover",
-          "id": "editorial/match-reports/2020-21/sheffield-united-fa-cup/programme-cover-sheffield-united-kepa-stamford-bridge",
+          "id": "editorial/match-reports/2020-21/sheffield-united-fa-cup/GettyImages-1308245426",
           "gravity": "auto",
-          "aspectRatio": 1.5,
+          "aspectRatio": 1.5053508,
           "cropMode": "fill"
         }
       },
@@ -65,6 +65,60 @@
       "date": "2021-03-21T12:30:00.000Z",
       "description": "There are changes to the Chelsea team all over the pitch for today’s FA Cup quarter-final against Sheffield United.",
       "matchId": 2190896
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210321pl2-report--chelsea-man-city",
+      "type": "NewsCard",
+      "timestamp": "2021-03-21T09:20:00.000Z",
+      "orderDate": "2021-03-21T09:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/21/pl2-report--chelsea-man-city",
+        "type": "NewsCard",
+        "title": "PL2 report: Chelsea 2 Man City 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/pl2-report--chelsea-man-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-21T09:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/21/pl2-report--chelsea-man-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ballo",
+          "id": "editorial/news/2021/03/21/Ballo-shot-cfcdev-vs-man-city",
+          "gravity": "auto",
+          "aspectRatio": 1.4997491,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Chelsea 2 Man City 2",
+      "publishDate": "2021-03-21T09:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/pl2-report--chelsea-man-city.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-03-21T09:20:00.000Z",
+      "description": "Chelsea’s development squad came from behind having had the lead at Cobham to secure a point against Manchester City on Sunday morning."
     },
     {
       "contentType": "Interview",
@@ -493,49 +547,6 @@
       ],
       "date": "2021-03-19T21:12:00.000Z",
       "description": "Roman Abramovich has shared thoughts publicly on some important topics concerning Chelsea, football and wider society, including combating discrimination, having a performance-based culture and investing in the women’s game."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210320vinnie-jones--getting-in-his-lat",
-      "type": "NewsCard",
-      "timestamp": "2021-03-20T08:24:00.000Z",
-      "orderDate": "2021-03-20T08:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/20/vinnie-jones--getting-in-his-late-tackles-early",
-        "type": "NewsCard",
-        "title": "Vinnie Jones: Getting in his late tackles early",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/vinnie-jones--getting-in-his-late-tackles-early.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-20T08:24:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/20/vinnie-jones--getting-in-his-late-tackles-early",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Vinnie Jones in action at Anfield",
-          "id": "editorial/blogs-and-columns/2021/3/Jones-GettyImages-1055494122",
-          "gravity": "auto",
-          "aspectRatio": 0.7338115,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Vinnie Jones: Getting in his late tackles early",
-      "publishDate": "2021-03-20T08:24:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/vinnie-jones--getting-in-his-late-tackles-early.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-20T08:24:00.000Z",
-      "description": "To the younger generation, Vinnie Jones is a prolific Hollywood film star; to Blues fans of an older vintage, he will always be the larger-than-life midfield hardman who set one of the more remarkable football records the last time we met Sheffield United in an FA Cup tie."
     }
   ]
 }
