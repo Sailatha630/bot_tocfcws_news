@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 726,
+    "totalItems": 727,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210321tuchel-on-chelsea-s-winning-ment",
+      "type": "NewsCard",
+      "timestamp": "2021-03-21T04:09:00.000Z",
+      "orderDate": "2021-03-21T04:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/21/tuchel-on-chelsea-s-winning-mentality-and-showing-bravery",
+        "type": "NewsCard",
+        "title": "Tuchel reveals what he demands from himself and from his team",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/tuchel-on-chelsea-s-winning-mentality-and-showing-bravery.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-21T04:09:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/21/tuchel-on-chelsea-s-winning-mentality-and-showing-bravery",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/03/20/Tuchel_GettyImages-1306858203",
+          "gravity": "auto",
+          "aspectRatio": 1.5355763,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reveals what he demands from himself and from his team",
+      "publishDate": "2021-03-21T04:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/tuchel-on-chelsea-s-winning-mentality-and-showing-bravery.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Sheffield United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_sheffield-united"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-03-21T04:09:00.000Z",
+      "description": "Thomas Tuchel says the attitude of the players at Chelsea makes man-management easy as he ensures his squad pushes for success in every competition.",
+      "matchId": 2190896
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210321no-doubts-for-james",
@@ -487,55 +546,6 @@
       "date": "2021-03-20T07:10:00.000Z",
       "description": "Thomas Tuchel has given his view on Tammy Abraham’s potential return to the team after injury and the roles played in the squad by youngsters Billy Gilmour and Tino Anjorin.",
       "matchId": 2190896
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210320under-18s-report--leicester-chel",
-      "type": "NewsCard",
-      "timestamp": "2021-03-20T13:45:00.000Z",
-      "orderDate": "2021-03-20T01:36:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/20/under-18s-report--leicester-chelsea",
-        "type": "NewsCard",
-        "title": "Under-18s report: Leicester 2 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/under-18s-report--leicester-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-20T13:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/20/under-18s-report--leicester-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Myles Peart-Harris",
-          "id": "editorial/news/2021/03/20/Myles-Peart-harris-goal-cfcu18-vs-leicester",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Leicester 2 Chelsea 2",
-      "publishDate": "2021-03-20T13:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/under-18s-report--leicester-chelsea.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-03-20T13:45:00.000Z",
-      "description": "Chelsea’s Under-18s twice came from behind to take a point away from Leicester on Saturday afternoon."
     }
   ]
 }
