@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 730,
+    "totalItems": 731,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 73,
+    "pageCount": 74,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210321tuchel-reaction-to-fa-cup-win-vs",
+      "type": "NewsCard",
+      "timestamp": "2021-03-21T15:48:00.000Z",
+      "orderDate": "2021-03-21T15:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/21/tuchel-reaction-to-fa-cup-win-vs-sheffield-united-",
+        "type": "NewsCard",
+        "title": "Tuchel gives reasons why Chelsea suffered while beating Sheffield United and reports on Abraham training accident",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/tuchel-reaction-to-fa-cup-win-vs-sheffield-united-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-21T15:48:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/21/tuchel-reaction-to-fa-cup-win-vs-sheffield-united-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/news/2021/03/21/tuchel_post_sheffield_utd_cup",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel gives reasons why Chelsea suffered while beating Sheffield United and reports on Abraham training accident",
+      "publishDate": "2021-03-21T15:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/tuchel-reaction-to-fa-cup-win-vs-sheffield-united-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-21T15:48:00.000Z",
+      "description": "It is now 14 games unbeaten for Thomas Tuchel as Chelsea manager with a first-ever trip to Wembley Stadium to look forward to as a result of Sunday afternoon’s 2-0 victory over Sheffield United in our FA Cup quarter-final.",
+      "matchId": 2190896
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210321match-report--chelsea-vs-sheffie",
@@ -503,60 +557,6 @@
       ],
       "date": "2021-03-20T01:34:00.000Z",
       "description": "It's an FA Cup weekend for the sides that have made it as far as the quarter-finals and we continue to the build-up to facing the Blades with some key facts and figures...",
-      "matchId": 2190896
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210320pre-match-quiz--chelsea-vs-sheff",
-      "type": "NewsCard",
-      "timestamp": "2021-03-20T08:39:00.000Z",
-      "orderDate": "2021-03-20T08:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/20/pre-match-quiz--chelsea-vs-sheffield-united",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Chelsea vs Sheffield United",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/pre-match-quiz--chelsea-vs-sheffield-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-20T08:39:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/20/pre-match-quiz--chelsea-vs-sheffield-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "FA Cup",
-          "id": "editorial/news/2021/03/19/FA_Cup_GettyImages-1011398404",
-          "gravity": "auto",
-          "aspectRatio": 1.4998536,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Chelsea vs Sheffield United",
-      "publishDate": "2021-03-20T08:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/pre-match-quiz--chelsea-vs-sheffield-united.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Sheffield United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_sheffield-united"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-03-20T08:39:00.000Z",
-      "description": "When we host Sheffield United we will be looking to continue our run of winning all but one of our FA Cup quarter-finals since 2008. See how well you can remember the previous ties during that time...",
       "matchId": 2190896
     }
   ]
