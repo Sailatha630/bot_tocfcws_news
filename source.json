@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 741,
+    "totalItems": 742,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 75,
@@ -29,8 +29,9 @@
         "type": "image-component",
         "image": {
           "type": "ImageCloudinary",
+          "alt": " ",
           "id": "chelsea-app/Kepa-Sheffield-United-FA-Cup-GettyImages-1308255394",
-          "gravity": "auto",
+          "gravity": "north",
           "aspectRatio": 1.5864621,
           "cropMode": "fill"
         }
@@ -263,6 +264,49 @@
       "date": "2021-03-22T04:00:00.000Z",
       "description": "Christian Pulisic was the pick of the Chelsea players in yesterday’s win over Sheffield United, and although the American was unfortunate not to find the net he could still reflect on another successful Stamford Bridge outing.",
       "matchId": 2190896
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210322azpilicueta-backing-chelsea-repr",
+      "type": "NewsCard",
+      "timestamp": "2021-03-22T17:53:00.000Z",
+      "orderDate": "2021-03-22T02:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/22/azpilicueta-backing-chelsea-representatives-in-epl-finals",
+        "type": "NewsCard",
+        "title": "Azpilicueta backing Chelsea representatives in ePL finals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/22/azpilicueta-backing-chelsea-representatives-in-epl-finals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-22T17:53:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/22/azpilicueta-backing-chelsea-representatives-in-epl-finals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/ePL_TheFinals-Widescreen",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Azpilicueta backing Chelsea representatives in ePL finals",
+      "publishDate": "2021-03-22T17:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/22/azpilicueta-backing-chelsea-representatives-in-epl-finals.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        }
+      ],
+      "date": "2021-03-22T17:53:00.000Z",
+      "description": "The ePremier League 2020/21 online finals gets underway on Tuesday, March 23 and Chelsea’s Xbox console representative Diogo Mendes and PlayStation star Kyle Hammond are aiming to win the ePL title for the first time."
     },
     {
       "contentType": "On Loan",
@@ -536,60 +580,6 @@
       ],
       "date": "2021-03-22T09:57:00.000Z",
       "description": "An entertaining game between Chelsea and Manchester City provided plenty of talking points from yesterday's Premier League 2 fixture. Andy Myers was left happy with his team's performance and believes a point each was fair at the final whistle."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210321tuchel-reaction-to-fa-cup-win-vs",
-      "type": "NewsCard",
-      "timestamp": "2021-03-21T15:48:00.000Z",
-      "orderDate": "2021-03-21T15:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/21/tuchel-reaction-to-fa-cup-win-vs-sheffield-united-",
-        "type": "NewsCard",
-        "title": "Tuchel gives reasons why Chelsea suffered while beating Sheffield United and reports on Abraham training accident",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/tuchel-reaction-to-fa-cup-win-vs-sheffield-united-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-21T15:48:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/21/tuchel-reaction-to-fa-cup-win-vs-sheffield-united-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2021/03/21/tuchel_post_sheffield_utd_cup",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel gives reasons why Chelsea suffered while beating Sheffield United and reports on Abraham training accident",
-      "publishDate": "2021-03-21T15:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/21/tuchel-reaction-to-fa-cup-win-vs-sheffield-united-.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-21T15:48:00.000Z",
-      "description": "It is now 14 games unbeaten for Thomas Tuchel as Chelsea manager with a first-ever trip to Wembley Stadium to look forward to as a result of Sunday afternoon’s 2-0 victory over Sheffield United in our FA Cup quarter-final.",
-      "matchId": 2190896
     }
   ]
 }
