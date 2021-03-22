@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 732,
+    "totalItems": 733,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 74,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210322pulisic-analyses-tough-fa-cup-vi",
+      "type": "NewsCard",
+      "timestamp": "2021-03-22T04:00:00.000Z",
+      "orderDate": "2021-03-22T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/22/pulisic-analyses-tough-fa-cup-victory-and-underlines-chelsea-con",
+        "type": "NewsCard",
+        "title": "Pulisic analyses tough FA Cup victory and underlines Chelsea confidence",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/22/pulisic-analyses-tough-fa-cup-victory-and-underlines-chelsea-con.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-22T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/22/pulisic-analyses-tough-fa-cup-victory-and-underlines-chelsea-con",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Christian Pulisic",
+          "id": "editorial/news/2021/03/22/pulisic-sheffield-united",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic analyses tough FA Cup victory and underlines Chelsea confidence",
+      "publishDate": "2021-03-22T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/22/pulisic-analyses-tough-fa-cup-victory-and-underlines-chelsea-con.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-22T04:00:00.000Z",
+      "description": "Christian Pulisic was the pick of the Chelsea players in yesterday’s win over Sheffield United, and although the American was unfortunate not to find the net he could still reflect on another successful Stamford Bridge outing.",
+      "matchId": 2190896
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210321tuchel-reaction-to-fa-cup-win-vs",
@@ -486,65 +540,6 @@
       ],
       "date": "2021-03-21T00:01:00.000Z",
       "description": "The matchday programme for today’s meeting with Sheffield United can be ordered online and as a taster of what can be found in the pages, we reproduce below Thomas Tuchel’s column. Among many other features, the programme also has a Jorginho exclusive on the different partners he has in the Chelsea midfield, but here is what is our head coach writes going into this FA Cup game…",
-      "matchId": 2190896
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210320havertz--it-s-a-big-ambition-of-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-20T13:41:00.000Z",
-      "orderDate": "2021-03-20T16:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/20/havertz--it-s-a-big-ambition-of-mine",
-        "type": "NewsCard",
-        "title": "Havertz: It’s a big ambition of mine",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/havertz--it-s-a-big-ambition-of-mine.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-20T13:41:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/20/havertz--it-s-a-big-ambition-of-mine",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Havertz",
-          "id": "editorial/news/2021/03/20/Havertz_GettyImages-1307662846",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz: It’s a big ambition of mine",
-      "publishDate": "2021-03-20T13:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/20/havertz--it-s-a-big-ambition-of-mine.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Sheffield United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_sheffield-united"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2021-03-20T13:41:00.000Z",
-      "description": "Having scored in a cup final during his last season in Germany, Kai Havertz is hoping to go one better by lifting the FA Cup in his first campaign in England.",
       "matchId": 2190896
     }
   ]
