@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 749,
+    "totalItems": 750,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 75,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210323gallery--chelsea-women-train-in-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-23T19:32:00.000Z",
+      "orderDate": "2021-03-23T16:32:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/23/gallery--chelsea-women-train-in-budapest-ahead-of-champions-leag",
+        "type": "NewsCard",
+        "title": "Gallery: Chelsea Women train in Budapest ahead of Champions League quarter-final with Wolfsburg",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/23/gallery--chelsea-women-train-in-budapest-ahead-of-champions-leag.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-23T19:32:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/23/gallery--chelsea-women-train-in-budapest-ahead-of-champions-leag",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Bright_Training_Gallery1",
+          "gravity": "auto",
+          "aspectRatio": 1.3565857,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Chelsea Women train in Budapest ahead of Champions League quarter-final with Wolfsburg",
+      "publishDate": "2021-03-23T19:32:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/23/gallery--chelsea-women-train-in-budapest-ahead-of-champions-leag.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-03-23T19:32:00.000Z",
+      "description": "Chelsea FC Women completed final preparations at the Szusza Ferenc Stadium on Tuesday afternoon ahead of tomorrow’s Champions League quarter-final first leg against Wolfsburg.",
+      "matchId": 2195003
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210323pat-nevin--why-thiago-silva-is-s",
@@ -458,55 +507,6 @@
       "tags": [],
       "date": "2021-03-22T15:20:00.000Z",
       "description": "Chelsea Football Club is aware of today’s legal action by club owner Roman Abramovich and will not be providing any comment on the matter."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210322hayes-previews-quarter-final-tie",
-      "type": "NewsCard",
-      "timestamp": "2021-03-22T18:00:00.000Z",
-      "orderDate": "2021-03-22T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/22/hayes-previews-quarter-final-tie-v-wolfsburg-and-shares-thoughts",
-        "type": "NewsCard",
-        "title": "Hayes gives squad news ahead of quarter-final tie vs Wolfsburg and shares thoughts on WSL broadcast deal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/22/hayes-previews-quarter-final-tie-v-wolfsburg-and-shares-thoughts.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-22T18:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/22/hayes-previews-quarter-final-tie-v-wolfsburg-and-shares-thoughts",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Hayes_Wolfsburg_presser",
-          "gravity": "auto",
-          "aspectRatio": 1.473317,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes gives squad news ahead of quarter-final tie vs Wolfsburg and shares thoughts on WSL broadcast deal",
-      "publishDate": "2021-03-22T18:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/22/hayes-previews-quarter-final-tie-v-wolfsburg-and-shares-thoughts.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-03-22T18:00:00.000Z",
-      "description": "Chelsea FC Women manager Emma Hayes answered questions from the media at Cobham via Zoom this afternoon ahead of our Champions League quarter-final first leg tie against Wolfsburg.",
-      "matchId": 2195003
     }
   ]
 }
