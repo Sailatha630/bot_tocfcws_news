@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 754,
+    "totalItems": 755,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 76,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210324women-s-match-report--chelsea---",
+      "type": "NewsCard",
+      "timestamp": "2021-03-24T18:00:00.000Z",
+      "orderDate": "2021-03-24T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/24/women-s-match-report--chelsea---wolfsburg",
+        "type": "NewsCard",
+        "title": "Women's Match Report: Chelsea 2-1 Wolfsburg",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/24/women-s-match-report--chelsea---wolfsburg.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-24T18:00:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/03/24/women-s-match-report--chelsea---wolfsburg",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Wolfsburg",
+          "gravity": "auto",
+          "aspectRatio": 1.4286302,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women's Match Report: Chelsea 2-1 Wolfsburg",
+      "publishDate": "2021-03-24T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/24/women-s-match-report--chelsea---wolfsburg.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-03-24T18:00:00.000Z",
+      "description": "Second half goals from Sam Kerr and Pernille Harder helped the Blues secure a 2-1 victory against Wolfsburg in the first leg of our Champions League quarter final.",
+      "matchId": 2195003
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210324tuchel-on-international-break-be",
@@ -464,44 +512,6 @@
       ],
       "date": "2021-03-23T02:00:00.000Z",
       "description": "Ben Chilwell is one of those adjusting to a new role since Thomas Tuchel’s arrival, and he has been speaking about the positional nuances of playing left wing-back and the strong competition for places at Chelsea."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210323impenetrable---chelsea-s-longest",
-      "type": "NewsCard",
-      "timestamp": "2021-03-23T01:05:00.000Z",
-      "orderDate": "2021-03-23T01:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/23/impenetrable---chelsea-s-longest-runs-of-clean-sheets-",
-        "type": "NewsCard",
-        "title": "Impenetrable – Chelsea’s longest runs of clean sheets ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/23/impenetrable---chelsea-s-longest-runs-of-clean-sheets-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-23T01:05:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/23/impenetrable---chelsea-s-longest-runs-of-clean-sheets-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mendy",
-          "id": "editorial/match-reports/2020-21/leeds-away/leeds-mendy-save",
-          "gravity": "auto",
-          "aspectRatio": 1.510574,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Impenetrable – Chelsea’s longest runs of clean sheets ",
-      "publishDate": "2021-03-23T01:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/23/impenetrable---chelsea-s-longest-runs-of-clean-sheets-.html",
-      "readTimeInMins": 20,
-      "tags": [],
-      "date": "2021-03-23T01:05:00.000Z",
-      "description": "Chelsea’s 2-0 win over Sheffield United in the FA Cup on Sunday saw the Blues match a long-standing club record as we prevented our opponents from scoring for a seventh straight game."
     }
   ]
 }
