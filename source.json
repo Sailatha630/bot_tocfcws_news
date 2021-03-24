@@ -1,18 +1,61 @@
 {
   "pagination": {
-    "totalItems": 750,
+    "totalItems": 751,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 75,
+    "pageCount": 76,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210323internationals--who-is-playing-w",
+      "type": "NewsCard",
+      "timestamp": "2021-03-24T02:02:00.000Z",
+      "orderDate": "2021-03-24T02:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/23/internationals--who-is-playing-where-",
+        "type": "NewsCard",
+        "title": "Internationals: Who is playing where and when?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/23/internationals--who-is-playing-where-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-24T02:02:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/23/internationals--who-is-playing-where-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Giroud and Kante",
+          "id": "editorial/news/2021/03/23/Giroud_Kante_GettyImages-992239716",
+          "gravity": "auto",
+          "aspectRatio": 1.4998497,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Who is playing where and when?",
+      "publishDate": "2021-03-24T02:02:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/23/internationals--who-is-playing-where-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-03-24T02:02:00.000Z",
+      "description": "The first international break of 2021 brings the start of one qualifying campaign, the end of another, plus the beginning of the tournament finals at youth level."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210323gallery--chelsea-women-train-in-",
       "type": "NewsCard",
       "timestamp": "2021-03-23T19:32:00.000Z",
-      "orderDate": "2021-03-23T16:32:00.000Z",
+      "orderDate": "2021-03-24T00:32:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2021/03/23/gallery--chelsea-women-train-in-budapest-ahead-of-champions-leag",
         "type": "NewsCard",
@@ -470,43 +513,6 @@
       "date": "2021-03-22T16:15:00.000Z",
       "description": "Kepa Arrizabalaga could not hide his delight at helping the Blues reach a fourth FA Cup semi-final in five seasons, with the goalkeeper keeping a clean sheet in our 2-0 win over Sheffield United.",
       "matchId": 2190896
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20210322statement-on-legal-action",
-      "type": "NewsCard",
-      "timestamp": "2021-03-22T15:20:00.000Z",
-      "orderDate": "2021-03-22T15:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/22/statement-on-legal-action",
-        "type": "NewsCard",
-        "title": "Statement on legal action",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/22/statement-on-legal-action.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-22T15:20:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/22/statement-on-legal-action",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Club badge",
-          "id": "editorial/news/2021/01/25/transparent_club_badge_crest_logo_chelsea",
-          "gravity": "auto",
-          "aspectRatio": 1.9666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Statement on legal action",
-      "publishDate": "2021-03-22T15:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/22/statement-on-legal-action.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2021-03-22T15:20:00.000Z",
-      "description": "Chelsea Football Club is aware of today’s legal action by club owner Roman Abramovich and will not be providing any comment on the matter."
     }
   ]
 }
