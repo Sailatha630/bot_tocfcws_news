@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 760,
+    "totalItems": 761,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 76,
+    "pageCount": 77,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210325mount--it-s-been-a-bit-of-a-roll",
+      "type": "NewsCard",
+      "timestamp": "2021-03-25T12:29:00.000Z",
+      "orderDate": "2021-03-25T12:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/25/mount--it-s-been-a-bit-of-a-rollercoaster",
+        "type": "NewsCard",
+        "title": "Mount: It's been a bit of a rollercoaster",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/25/mount--it-s-been-a-bit-of-a-rollercoaster.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-25T12:29:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/25/mount--it-s-been-a-bit-of-a-rollercoaster",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mount",
+          "id": "editorial/news/2021/03/25/Mount_GettyImages-1308313808",
+          "gravity": "auto",
+          "aspectRatio": 1.3810725,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount: It's been a bit of a rollercoaster",
+      "publishDate": "2021-03-25T12:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/25/mount--it-s-been-a-bit-of-a-rollercoaster.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-03-25T12:29:00.000Z",
+      "description": "Mason Mount has discussed the important lessons he has learned on his journey from the bench to captaining Chelsea under Thomas Tuchel, as well as why he feels versatility and consistency are proving to be priceless assets for club and country."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210325fa-youth-cup-fourth-round-date-a",
@@ -505,49 +558,6 @@
       ],
       "date": "2021-03-24T02:02:00.000Z",
       "description": "The first international break of 2021 brings the start of one qualifying campaign, the end of another, plus the beginning of the tournament finals at youth level."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210324media-watch--chelsea-eyeing-port",
-      "type": "NewsCard",
-      "timestamp": "2021-03-24T10:09:00.000Z",
-      "orderDate": "2021-03-24T01:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/24/media-watch--chelsea-eyeing-porto-star--deschamps-happy-with-new",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea eyeing Porto star, Deschamps happy with new Kante role and Guehi on the value of international experience",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/24/media-watch--chelsea-eyeing-porto-star--deschamps-happy-with-new.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-24T10:09:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/24/media-watch--chelsea-eyeing-porto-star--deschamps-happy-with-new",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Corona-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea eyeing Porto star, Deschamps happy with new Kante role and Guehi on the value of international experience",
-      "publishDate": "2021-03-24T10:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/24/media-watch--chelsea-eyeing-porto-star--deschamps-happy-with-new.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        }
-      ],
-      "date": "2021-03-24T10:09:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Jesus Corona and Didier Deschamps is happy with N’Golo Kante’s new role."
     }
   ]
 }
