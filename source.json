@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 774,
+    "totalItems": 775,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 78,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210326ziyech-qualifies-for-african-fin",
+      "type": "NewsCard",
+      "timestamp": "2021-03-26T21:12:00.000Z",
+      "orderDate": "2021-03-26T21:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/26/ziyech-qualifies-for-african-finals",
+        "type": "NewsCard",
+        "title": "Ziyech qualifies for African finals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/26/ziyech-qualifies-for-african-finals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-26T21:12:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/26/ziyech-qualifies-for-african-finals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Hakim Ziyech playing for Morocco",
+          "id": "editorial/news/2021/03/26/Ziyech_GettyImages-1182760165",
+          "gravity": "auto",
+          "aspectRatio": 1.5347748,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech qualifies for African finals",
+      "publishDate": "2021-03-26T21:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/26/ziyech-qualifies-for-african-finals.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2021-03-26T21:12:00.000Z",
+      "description": "Hakim Ziyech and the Moroccan national team followed their qualification for the Africa Cup of Nations with a draw in their match on Friday night, which guarantees them top spot in their group."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210325extra-time-with----ben-chilwell",
@@ -448,54 +491,6 @@
       "date": "2021-03-26T09:54:00.000Z",
       "description": "A goal from Pernille Harder against her former club helped Chelsea FC Women earn a 2-1 victory in the first leg of our Champions League quarter-final tie against Wolfsburg and she highlighted the Blues second-half performance as a key factor in securing Wednesday’s win.",
       "matchId": 2195003
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210326media-watch--chelsea-monitoring-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-26T09:49:00.000Z",
-      "orderDate": "2021-03-26T00:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/26/media-watch--chelsea-monitoring-dybala--southgate-pleased-with-m",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea monitoring Dybala, Southgate pleased with Mount and US coach on Pulisic’s return",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/26/media-watch--chelsea-monitoring-dybala--southgate-pleased-with-m.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-26T09:49:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/26/media-watch--chelsea-monitoring-dybala--southgate-pleased-with-m",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Dybala_MW-2c9a25e745ca",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea monitoring Dybala, Southgate pleased with Mount and US coach on Pulisic’s return",
-      "publishDate": "2021-03-26T09:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/26/media-watch--chelsea-monitoring-dybala--southgate-pleased-with-m.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-03-26T09:49:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly keeping an eye on Paulo Dybala and Gareth Southgate was impressed by Mason Mount’s performance against San Marino."
     }
   ]
 }
