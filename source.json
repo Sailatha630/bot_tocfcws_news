@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 780,
+    "totalItems": 781,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 78,
+    "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
@@ -59,6 +59,44 @@
       ],
       "date": "2021-03-27T12:45:00.000Z",
       "description": "Hakim Ziyech and Morocco will be hoping to make up for lost time at the Africa Cup of Nations as the Chelsea winger leads the current generation’s renaissance."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210327chelsea-ranked-joint-best-englis",
+      "type": "NewsCard",
+      "timestamp": "2021-03-27T15:30:00.000Z",
+      "orderDate": "2021-03-27T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/27/chelsea-ranked-joint-best-english-team-of-last-decade",
+        "type": "NewsCard",
+        "title": "Chelsea ranked joint-best English team of last decade",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/27/chelsea-ranked-joint-best-english-team-of-last-decade.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-27T15:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/27/chelsea-ranked-joint-best-english-team-of-last-decade",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Europa League",
+          "id": "site-sections/about-chelsea/history/2021/trophy-cabinet/thumbnails/Mens_Europa_League_2018-19",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Chelsea ranked joint-best English team of last decade",
+      "publishDate": "2021-03-27T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/27/chelsea-ranked-joint-best-english-team-of-last-decade.html",
+      "readTimeInMins": 6,
+      "tags": [],
+      "date": "2021-03-27T15:30:00.000Z",
+      "description": "The International Federation of Football History & Statistics (IFFHS) has revealed Chelsea were tied with Manchester City as the best English teams in their overall club ranking for the decade from 2011 to 2020."
     },
     {
       "contentType": "History",
@@ -444,54 +482,6 @@
       ],
       "date": "2021-03-26T12:00:00.000Z",
       "description": "Thomas Tuchel is among the nominations for the Premier League’s March Manager of the Month award."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210326awesome-andreas-up-for-monthly-p",
-      "type": "NewsCard",
-      "timestamp": "2021-03-26T11:00:00.000Z",
-      "orderDate": "2021-03-26T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/26/awesome-andreas-up-for-monthly-premier-league-award",
-        "type": "NewsCard",
-        "title": "Awesome Andreas up for monthly Premier League award",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/26/awesome-andreas-up-for-monthly-premier-league-award.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-26T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/26/awesome-andreas-up-for-monthly-premier-league-award",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Andreas Christensen",
-          "id": "editorial/news/2021/02/17/christensen-stock-december-2020",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Awesome Andreas up for monthly Premier League award",
-      "publishDate": "2021-03-26T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/26/awesome-andreas-up-for-monthly-premier-league-award.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-26T11:00:00.000Z",
-      "description": "Andreas Christensen’s exemplary form in March has been rewarded with a nomination for the EA Sports Premier League Player of the Month award."
     }
   ]
 }
