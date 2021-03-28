@@ -1,12 +1,85 @@
 {
   "pagination": {
-    "totalItems": 786,
+    "totalItems": 787,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210328internationals--mount-and-pulisi",
+      "type": "NewsCard",
+      "timestamp": "2021-03-28T17:33:00.000Z",
+      "orderDate": "2021-03-28T17:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/28/internationals--mount-and-pulisic-both-on-the-scoresheet--zouma-",
+        "type": "NewsCard",
+        "title": "Internationals: Mount and Pulisic both on the scoresheet, Zouma helps France to victory",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/28/internationals--mount-and-pulisic-both-on-the-scoresheet--zouma-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-28T17:33:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/28/internationals--mount-and-pulisic-both-on-the-scoresheet--zouma-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Mount-GettyImages-1231989297",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Mount and Pulisic both on the scoresheet, Zouma helps France to victory",
+      "publishDate": "2021-03-28T17:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/28/internationals--mount-and-pulisic-both-on-the-scoresheet--zouma-.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Kurt Zouma",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kurt-zouma"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        }
+      ],
+      "date": "2021-03-28T17:33:00.000Z",
+      "description": "Mason Mount was among the goals as England recorded a hard-earned victory over Albania in the latest round of World Cup qualifiers, while Christian Pulisic netted a penalty for the USA against Northern Ireland."
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210328women-s-match-report--chelsea-v-",
@@ -444,49 +517,6 @@
       "date": "2021-03-27T09:05:00.000Z",
       "description": "Chelsea FC Women are back in Barclay’s FA Women’s Super League action tomorrow when we welcome Aston Villa to Kingsmeadow, and all the information you need ahead of the clash can be found in our preview here…",
       "matchId": 2138472
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210327chelsea-women-stars-continuing-t",
-      "type": "NewsCard",
-      "timestamp": "2021-03-27T09:37:00.000Z",
-      "orderDate": "2021-03-27T02:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/27/chelsea-women-stars-continuing-to-inspire-young-females-through-",
-        "type": "NewsCard",
-        "title": "Chelsea Women stars continuing to inspire young females through Chelsea Foundation programmes",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/27/chelsea-women-stars-continuing-to-inspire-young-females-through-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-27T09:37:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/27/chelsea-women-stars-continuing-to-inspire-young-females-through-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Katie Chapman attends Goal Getters event",
-          "id": "editorial/news/2021/03/27/ChelseaFoundation_Katie_Chapman",
-          "gravity": "center",
-          "aspectRatio": 2.1192052,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women stars continuing to inspire young females through Chelsea Foundation programmes",
-      "publishDate": "2021-03-27T09:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/27/chelsea-women-stars-continuing-to-inspire-young-females-through-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2021-03-27T09:37:00.000Z",
-      "description": "Chelsea FC Women legend Katie Chapman recently joined female students at Epsom and Ewell High School to share an insight into her football career with the Blues and discuss challenges she has had to overcome, while also providing pupils with advice and tips to help shape their futures."
     }
   ]
 }
