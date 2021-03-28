@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 785,
+    "totalItems": 786,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210328women-s-match-report--chelsea-v-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-28T15:15:00.000Z",
+      "orderDate": "2021-03-28T15:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/28/women-s-match-report--chelsea-v-aston-villa",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Chelsea 2-0 Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/28/women-s-match-report--chelsea-v-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-28T15:15:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/03/28/women-s-match-report--chelsea-v-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Sam_Kerr_Aston_Villa",
+          "gravity": "auto",
+          "aspectRatio": 1.5021228,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Chelsea 2-0 Aston Villa",
+      "publishDate": "2021-03-28T15:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/28/women-s-match-report--chelsea-v-aston-villa.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2021-03-28T15:15:00.000Z",
+      "description": "Two goals from Sam Kerr helped Chelsea secure a 2-0 victory against Aston Villa to record our fifth straight league win.",
+      "matchId": 2138472
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews2021032810-questions-with----reece-james",
@@ -439,55 +487,6 @@
       ],
       "date": "2021-03-27T09:37:00.000Z",
       "description": "Chelsea FC Women legend Katie Chapman recently joined female students at Epsom and Ewell High School to share an insight into her football career with the Blues and discuss challenges she has had to overcome, while also providing pupils with advice and tips to help shape their futures."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210327under-18s-report--southampton-ch",
-      "type": "NewsCard",
-      "timestamp": "2021-03-27T12:52:00.000Z",
-      "orderDate": "2021-03-27T02:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/27/under-18s-report--southampton-chelsea",
-        "type": "NewsCard",
-        "title": "Under-18s report: Southampton 1 Chelsea 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/27/under-18s-report--southampton-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-27T12:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/27/under-18s-report--southampton-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jimi Tauriainen",
-          "id": "editorial/news/2021/03/27/Jimi-Tauriainen-cfcu18-celebration-southampton",
-          "gravity": "auto",
-          "aspectRatio": 1.4998367,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Southampton 1 Chelsea 3",
-      "publishDate": "2021-03-27T12:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/27/under-18s-report--southampton-chelsea.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-03-27T12:52:00.000Z",
-      "description": "Chelsea’s Under-18s left Southampton with three points thanks to goals from Jimi Tauriainen and Edwin Andersson."
     }
   ]
 }
