@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 793,
+    "totalItems": 794,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 80,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210329havertz--things-are-going-well-r",
+      "type": "NewsCard",
+      "timestamp": "2021-03-29T12:12:00.000Z",
+      "orderDate": "2021-03-29T12:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/29/havertz--things-are-going-well-right-now",
+        "type": "NewsCard",
+        "title": "Havertz: Things are going well right now",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/havertz--things-are-going-well-right-now.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-29T12:12:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/29/havertz--things-are-going-well-right-now",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Havertz ",
+          "id": "editorial/news/2021/03/29/Havertz-vs-Romania",
+          "gravity": "north",
+          "aspectRatio": 1.5609367,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz: Things are going well right now",
+      "publishDate": "2021-03-29T12:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/havertz--things-are-going-well-right-now.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-03-29T12:12:00.000Z",
+      "description": "Kai Havertz is confident he has put a ‘tough’ start to life in English football behind him as he focuses on ending the season strongly for both club and country."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210329kovacic-on-keeping-the-momentum-",
@@ -476,55 +529,6 @@
       ],
       "date": "2021-03-28T15:15:00.000Z",
       "description": "Two goals from Sam Kerr helped Chelsea secure a 2-0 victory against Aston Villa to record our fifth straight league win.",
-      "matchId": 2138472
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210328ingle---it-s-vital-we-start-the-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-28T06:59:00.000Z",
-      "orderDate": "2021-03-28T01:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/28/ingle---it-s-vital-we-start-the-game-well-",
-        "type": "NewsCard",
-        "title": "Ingle: It’s vital we start the game well",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/28/ingle---it-s-vital-we-start-the-game-well-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-28T06:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/28/ingle---it-s-vital-we-start-the-game-well-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Arsenal_Ingle",
-          "gravity": "auto",
-          "aspectRatio": 1.5002238,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ingle: It’s vital we start the game well",
-      "publishDate": "2021-03-28T06:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/28/ingle---it-s-vital-we-start-the-game-well-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2021-03-28T06:59:00.000Z",
-      "description": "Chelsea FC Women entertain Aston Villa this afternoon and Blues midfielder Sophie Ingle is looking forward to our return to Kingsmeadow having played our previous five fixtures away from home.",
       "matchId": 2138472
     }
   ]
