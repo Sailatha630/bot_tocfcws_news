@@ -1,12 +1,59 @@
 {
   "pagination": {
-    "totalItems": 788,
+    "totalItems": 789,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210329kovacic-on-keeping-the-momentum-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-29T03:00:00.000Z",
+      "orderDate": "2021-03-29T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/29/kovacic-on-keeping-the-momentum-going-under-tuchel",
+        "type": "NewsCard",
+        "title": "Kovacic on keeping the momentum going under Tuchel",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/kovacic-on-keeping-the-momentum-going-under-tuchel.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-29T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/29/kovacic-on-keeping-the-momentum-going-under-tuchel",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/DAZ_0371-Kovacic-",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kovacic on keeping the momentum going under Tuchel",
+      "publishDate": "2021-03-29T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/kovacic-on-keeping-the-momentum-going-under-tuchel.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2021-03-29T03:00:00.000Z",
+      "description": "Mateo Kovacic has praised the work of Thomas Tuchel as Chelsea head coach and feels the German can lead us to glory before the season is out."
+    },
     {
       "contentType": "International",
       "id": "_content_chelseafcennews20210328internationals--mount-and-pulisi",
@@ -473,59 +520,6 @@
       "tags": [],
       "date": "2021-03-27T15:30:00.000Z",
       "description": "The International Federation of Football History & Statistics (IFFHS) has revealed Chelsea were tied with Manchester City as the best English teams in their overall club ranking for the decade from 2011 to 2020."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210327jimmy-floyd-hasselbaink--service",
-      "type": "NewsCard",
-      "timestamp": "2021-03-27T08:32:00.000Z",
-      "orderDate": "2021-03-27T08:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/27/jimmy-floyd-hasselbaink--service-with-a-snarl",
-        "type": "NewsCard",
-        "title": "Jimmy Floyd Hasselbaink: Service with a snarl",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/27/jimmy-floyd-hasselbaink--service-with-a-snarl.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-27T08:32:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/27/jimmy-floyd-hasselbaink--service-with-a-snarl",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Hasselbaink celebrates his goal in the 2000 Charity Shield",
-          "id": "editorial/blogs-and-columns/2021/3/Hasselbaink-GettyImages-1034656",
-          "gravity": "auto",
-          "aspectRatio": 1.2,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jimmy Floyd Hasselbaink: Service with a snarl",
-      "publishDate": "2021-03-27T08:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/27/jimmy-floyd-hasselbaink--service-with-a-snarl.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Eidur Gudjohnsen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_eidur-gudjohnsen"
-        },
-        {
-          "title": "Jimmy Floyd Hasselbaink",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_jimmy-floyd-hasselbaink"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-27T08:32:00.000Z",
-      "description": "To celebrate the 49th birthday of one of Chelsea’s most prolific goalscorers, we look back at just why Jimmy Floyd Hasselbaink’s move to Stamford Bridge was so important – and that’s before we factor in his role in one of the all-time great strike pairings…"
     }
   ]
 }
