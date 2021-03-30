@@ -1,12 +1,74 @@
 {
   "pagination": {
-    "totalItems": 795,
+    "totalItems": 796,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 80,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210330pat-nevin-on-a-nervous-wait-and-",
+      "type": "NewsCard",
+      "timestamp": "2021-03-30T03:00:00.000Z",
+      "orderDate": "2021-03-30T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/30/pat-nevin-on-a-nervous-wait-and-the-benefits-of-staying-local",
+        "type": "NewsCard",
+        "title": "Pat Nevin on a nervous wait and the benefits of staying local",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/pat-nevin-on-a-nervous-wait-and-the-benefits-of-staying-local.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-30T03:00:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/03/30/pat-nevin-on-a-nervous-wait-and-the-benefits-of-staying-local",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "England line up featuring three Chelsea players",
+          "id": "editorial/news/2021/03/29/england-line-up-chilwell-james-mount-2021",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin on a nervous wait and the benefits of staying local",
+      "publishDate": "2021-03-30T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/pat-nevin-on-a-nervous-wait-and-the-benefits-of-staying-local.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-03-30T03:00:00.000Z",
+      "description": "In his column this week, Chelsea legend Pat Nevin examines the international scene and starts thinking about what lies ahead for the Blues when our players reconvene at Cobham…"
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210329havertz--things-are-going-well-r",
@@ -488,54 +550,6 @@
       ],
       "date": "2021-03-28T21:12:00.000Z",
       "description": "Kai Havertz played a major part as Germany secured a 1-0 away win against Romania to make it two wins from two in their World Cup qualifying campaign."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews2021032810-questions-with----reece-james",
-      "type": "NewsCard",
-      "timestamp": "2021-03-28T03:00:00.000Z",
-      "orderDate": "2021-03-28T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/28/10-questions-with----reece-james",
-        "type": "NewsCard",
-        "title": "10 Questions With... Reece James",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/28/10-questions-with----reece-james.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-28T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/28/10-questions-with----reece-james",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "James",
-          "id": "editorial/news/2021/03/24/reece-james-10-questions-with-article",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "10 Questions With... Reece James",
-      "publishDate": "2021-03-28T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/28/10-questions-with----reece-james.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-28T03:00:00.000Z",
-      "description": "Before heading off on international duty with England, Reece James became the latest player to spend time answering our 10 questions…"
     }
   ]
 }
