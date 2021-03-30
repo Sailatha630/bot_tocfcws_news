@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 805,
+    "totalItems": 806,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 81,
@@ -60,7 +60,7 @@
       "link": {
         "path": "/content/chelseafc/en/news/2021/03/30/mount-eager-to-keep-on-playing",
         "type": "NewsCard",
-        "title": "Mount eager to keep on playing",
+        "title": "Mount eager to keep on playing as Southgate confirms his availability",
         "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/mount-eager-to-keep-on-playing.html",
         "external": true,
         "target": "sameWindow",
@@ -80,10 +80,10 @@
           "cropMode": "fill"
         }
       },
-      "content": "Mount eager to keep on playing",
+      "content": "Mount eager to keep on playing as Southgate confirms his availability",
       "publishDate": "2021-03-30T12:02:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/mount-eager-to-keep-on-playing.html",
-      "readTimeInMins": 8,
+      "readTimeInMins": 9,
       "tags": [
         {
           "title": "Men",
@@ -152,6 +152,55 @@
       ],
       "date": "2021-03-30T13:14:00.000Z",
       "description": "The home Premier League fixture against Brighton and Hove Albion, which was originally scheduled for the weekend of our FA Cup semi-final tie, will now take place at Stamford Bridge on Tuesday 20 April."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210330chelsea-women-arrive-in-budapest",
+      "type": "NewsCard",
+      "timestamp": "2021-03-30T17:00:00.000Z",
+      "orderDate": "2021-03-30T10:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/30/chelsea-women-arrive-in-budapest-",
+        "type": "NewsCard",
+        "title": "Chelsea Women arrive in Budapest ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-women-arrive-in-budapest-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-30T17:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/30/chelsea-women-arrive-in-budapest-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Travelling_Squad_Magda_Eriksson",
+          "gravity": "center",
+          "aspectRatio": 1.5023783,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women arrive in Budapest ",
+      "publishDate": "2021-03-30T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-women-arrive-in-budapest-.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-03-30T17:00:00.000Z",
+      "description": "A squad of 21 Chelsea Women players have arrived in Budapest ahead of tomorrow’s Champions League quarter-final second leg against Wolfsburg.",
+      "matchId": 2195004
     },
     {
       "contentType": "Columnist",
@@ -450,42 +499,6 @@
       ],
       "date": "2021-03-30T10:46:00.000Z",
       "description": "FA Youth Cup and Women's Champions League knockout ties headline the live offering available across Chelsea digital platforms this week..."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210330chelsea-foundation-annual-report",
-      "type": "NewsCard",
-      "timestamp": "2021-03-30T09:00:00.000Z",
-      "orderDate": "2021-03-29T23:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/30/chelsea-foundation-annual-report-published",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation annual report published",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-foundation-annual-report-published.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-30T09:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/30/chelsea-foundation-annual-report-published",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/03/30/ChelseaFoundation_Annual_Report_JoeCole_",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation annual report published",
-      "publishDate": "2021-03-30T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-foundation-annual-report-published.html",
-      "readTimeInMins": 4,
-      "tags": [],
-      "date": "2021-03-30T09:00:00.000Z",
-      "description": "The Chelsea Foundation’s annual report for the 2019/20 season is now available to view online."
     }
   ]
 }
