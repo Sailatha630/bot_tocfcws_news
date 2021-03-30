@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 798,
+    "totalItems": 799,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 80,
@@ -105,6 +105,59 @@
       "tags": [],
       "date": "2021-03-30T10:02:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Martin Odegaard and Dan James reveals he supported Chelsea as a youngster."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210329what-can-you-watch-on-chelsea-pl",
+      "type": "NewsCard",
+      "timestamp": "2021-03-30T10:46:00.000Z",
+      "orderDate": "2021-03-29T23:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/29/what-can-you-watch-on-chelsea-platforms-this-week-",
+        "type": "NewsCard",
+        "title": "What can you watch on Chelsea platforms this week?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-30T10:46:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/29/what-can-you-watch-on-chelsea-platforms-this-week-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/03/29/youth-cup-live-streams-graphic",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "What can you watch on Chelsea platforms this week?",
+      "publishDate": "2021-03-30T10:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-03-30T10:46:00.000Z",
+      "description": "FA Youth Cup and Women's Champions League knockout ties headline the live offering available across Chelsea digital platforms this week..."
     },
     {
       "contentType": "Chelsea Foundation",
@@ -444,54 +497,6 @@
       "date": "2021-03-29T09:17:00.000Z",
       "description": "Emma Hayes praised the response from her players after Chelsea Women returned to the top of the Barclay’s FA Women’s Super League with a 2-0 victory against Aston Villa.",
       "matchId": 2138472
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20210329chelsea-here-chelsea-there--cumm",
-      "type": "NewsCard",
-      "timestamp": "2021-03-29T09:55:00.000Z",
-      "orderDate": "2021-03-28T21:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/29/chelsea-here-chelsea-there--cumming-helps-loan-club-towards-safe",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Cumming helps loan club towards safety",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/chelsea-here-chelsea-there--cumming-helps-loan-club-towards-safe.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-29T09:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/29/chelsea-here-chelsea-there--cumming-helps-loan-club-towards-safe",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jamie Cumming",
-          "id": "editorial/news/2021/01/08/jamie-cumming-stevenage-loan",
-          "gravity": "north",
-          "aspectRatio": 1.664539,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Cumming helps loan club towards safety",
-      "publishDate": "2021-03-29T09:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/chelsea-here-chelsea-there--cumming-helps-loan-club-towards-safe.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-03-29T09:55:00.000Z",
-      "description": "With top-flight action across the continent on pause for the final international break of the season, our weekly round-up of Chelsea players out on loan focuses on the lower leagues in England…"
     }
   ]
 }
