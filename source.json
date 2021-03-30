@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 806,
+    "totalItems": 807,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 81,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210330internationals--clean-sweep-of-w",
+      "type": "NewsCard",
+      "timestamp": "2021-03-30T21:15:00.000Z",
+      "orderDate": "2021-03-30T21:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/30/internationals--clean-sweep-of-wins-for-chelsea-players-with-bat",
+        "type": "NewsCard",
+        "title": "Internationals: Clean sweep of wins for Chelsea players with Batshuayi on target ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/internationals--clean-sweep-of-wins-for-chelsea-players-with-bat.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-30T21:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/30/internationals--clean-sweep-of-wins-for-chelsea-players-with-bat",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Michy Batshuayi",
+          "id": "editorial/news/2021/03/30/batshuayi_belgium_belarus",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Clean sweep of wins for Chelsea players with Batshuayi on target ",
+      "publishDate": "2021-03-30T21:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/internationals--clean-sweep-of-wins-for-chelsea-players-with-bat.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Michy Batshuayi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_michy-batshuayi"
+        },
+        {
+          "title": "Ethan Ampadu",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ethan_ampadu"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2021-03-30T21:15:00.000Z",
+      "description": "In Tuesday night’s international action, there was plenty of Chelsea focus on World Cup qualification Group E where two of our on-loan players were involved and both won."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210330venue-confirmed-for-our-champion",
@@ -446,59 +504,6 @@
       "date": "2021-03-30T10:00:00.000Z",
       "description": "Chelsea FC Women return to Budapest once more for the second leg of the quarter-final against Wolfsburg. All the information you need ahead of the clash can be found in our preview here…",
       "matchId": 2195004
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210329what-can-you-watch-on-chelsea-pl",
-      "type": "NewsCard",
-      "timestamp": "2021-03-30T10:46:00.000Z",
-      "orderDate": "2021-03-29T23:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/29/what-can-you-watch-on-chelsea-platforms-this-week-",
-        "type": "NewsCard",
-        "title": "What can you watch on Chelsea platforms this week?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-30T10:46:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/29/what-can-you-watch-on-chelsea-platforms-this-week-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/03/29/youth-cup-live-streams-graphic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "What can you watch on Chelsea platforms this week?",
-      "publishDate": "2021-03-30T10:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-03-30T10:46:00.000Z",
-      "description": "FA Youth Cup and Women's Champions League knockout ties headline the live offering available across Chelsea digital platforms this week..."
     }
   ]
 }
