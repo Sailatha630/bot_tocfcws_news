@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 799,
+    "totalItems": 800,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 80,
@@ -105,6 +105,55 @@
       "tags": [],
       "date": "2021-03-30T10:02:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Martin Odegaard and Dan James reveals he supported Chelsea as a youngster."
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210330champions-league--wolfsburg-wome",
+      "type": "NewsCard",
+      "timestamp": "2021-03-30T10:00:00.000Z",
+      "orderDate": "2021-03-30T00:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/30/champions-league--wolfsburg-women-v-chelsea-women-preview--kick-",
+        "type": "NewsCard",
+        "title": " Champions League: Wolfsburg Women vs Chelsea Women preview: Kick-off time, how to follow and much more",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/champions-league--wolfsburg-women-v-chelsea-women-preview--kick-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-30T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/30/champions-league--wolfsburg-women-v-chelsea-women-preview--kick-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Fran_Wolfsburg",
+          "gravity": "auto",
+          "aspectRatio": 1.4997029,
+          "cropMode": "fill"
+        }
+      },
+      "content": " Champions League: Wolfsburg Women vs Chelsea Women preview: Kick-off time, how to follow and much more",
+      "publishDate": "2021-03-30T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/champions-league--wolfsburg-women-v-chelsea-women-preview--kick-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-03-30T10:00:00.000Z",
+      "description": "Chelsea FC Women return to Budapest once more for the second leg of the quarter-final against Wolfsburg. All the information you need ahead of the clash can be found in our preview here…",
+      "matchId": 2195004
     },
     {
       "contentType": "News",
@@ -438,65 +487,6 @@
       "tags": [],
       "date": "2021-03-29T09:30:00.000Z",
       "description": "Dot Major from the band London Grammar tells us about his lifelong passion for Chelsea, travelling abroad to watch the Blues and why lead singer Hannah Reid reminds him of Gianfranco Zola..."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210329hayes-happy-with-second-half-per",
-      "type": "NewsCard",
-      "timestamp": "2021-03-29T09:17:00.000Z",
-      "orderDate": "2021-03-28T23:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/29/hayes-happy-with-second-half-performance",
-        "type": "NewsCard",
-        "title": "Hayes happy with second-half performance; Kerr on partnership with Kirby",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/hayes-happy-with-second-half-performance.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-29T09:17:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/29/hayes-happy-with-second-half-performance",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Emma_Hayes_Stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5026069,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes happy with second-half performance; Kerr on partnership with Kirby",
-      "publishDate": "2021-03-29T09:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/hayes-happy-with-second-half-performance.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Sam Kerr",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_sam-kerr"
-        }
-      ],
-      "date": "2021-03-29T09:17:00.000Z",
-      "description": "Emma Hayes praised the response from her players after Chelsea Women returned to the top of the Barclay’s FA Women’s Super League with a 2-0 victory against Aston Villa.",
-      "matchId": 2138472
     }
   ]
 }
