@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 812,
+    "totalItems": 813,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 82,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210330chelsea-s-race-for-the-premier-l",
+      "type": "NewsCard",
+      "timestamp": "2021-03-31T12:30:00.000Z",
+      "orderDate": "2021-03-31T12:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
+        "type": "NewsCard",
+        "title": "Chelsea’s race for the Premier League top four ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-31T12:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chelsea and the Premier League logo",
+          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
+          "gravity": "auto",
+          "aspectRatio": 1.4790996,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea’s race for the Premier League top four ",
+      "publishDate": "2021-03-31T12:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
+      "readTimeInMins": 67,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-03-31T12:30:00.000Z",
+      "description": "The business end of the season is well and truly upon us with the Blues among a cluster of teams aiming to finish in the top four of the Premier League. Here we analyse the remaining fixtures of our rivals for Champions League qualification and set a poll for you to answer…"
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210331hudson-odoi-returns-to-chelsea-e",
@@ -453,59 +501,6 @@
       "date": "2021-03-30T12:32:00.000Z",
       "description": "Both legs of our Champions League quarter-final against Porto will be played at the Estadio Ramon Sanchez-Pizjuan in Seville.",
       "matchId": 2197666
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210330mount-eager-to-keep-on-playing",
-      "type": "NewsCard",
-      "timestamp": "2021-03-30T12:02:00.000Z",
-      "orderDate": "2021-03-30T12:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/30/mount-eager-to-keep-on-playing",
-        "type": "NewsCard",
-        "title": "Mount eager to keep on playing as Southgate confirms his availability",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/mount-eager-to-keep-on-playing.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-30T12:02:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/30/mount-eager-to-keep-on-playing",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mount",
-          "id": "editorial/news/2021/03/29/mount-warm-up-england",
-          "gravity": "north",
-          "aspectRatio": 1.3364737,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount eager to keep on playing as Southgate confirms his availability",
-      "publishDate": "2021-03-30T12:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/mount-eager-to-keep-on-playing.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-03-30T12:02:00.000Z",
-      "description": "Fresh from starting for England for the seventh game in a row and scoring in the weekend win over Albania, Mason Mount has dismissed suggestions he may need a rest and reiterated his desire to play as much as possible for the Three Lions and Chelsea…"
     }
   ]
 }
