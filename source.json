@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 811,
+    "totalItems": 812,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 82,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210331hudson-odoi-returns-to-chelsea-e",
+      "type": "NewsCard",
+      "timestamp": "2021-03-31T11:13:00.000Z",
+      "orderDate": "2021-03-31T11:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/31/hudson-odoi-returns-to-chelsea-early-from-international-duty",
+        "type": "NewsCard",
+        "title": "Hudson-Odoi returns to Chelsea early from international duty",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/31/hudson-odoi-returns-to-chelsea-early-from-international-duty.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-03-31T11:13:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/03/31/hudson-odoi-returns-to-chelsea-early-from-international-duty",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Hudson-Odoi",
+          "id": "editorial/news/2021/03/31/Hudson-Odoi-England-U21-vs-Switzerland",
+          "gravity": "auto",
+          "aspectRatio": 1.5022573,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hudson-Odoi returns to Chelsea early from international duty",
+      "publishDate": "2021-03-31T11:13:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/31/hudson-odoi-returns-to-chelsea-early-from-international-duty.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-03-31T11:13:00.000Z",
+      "description": "Callum Hudson-Odoi has left the England Under-21 camp in Slovenia and returned to Cobham for further assessment on a shoulder injury sustained in training last week."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210331extra-time-with----kai-havertz",
@@ -453,55 +506,6 @@
       ],
       "date": "2021-03-30T12:02:00.000Z",
       "description": "Fresh from starting for England for the seventh game in a row and scoring in the weekend win over Albania, Mason Mount has dismissed suggestions he may need a rest and reiterated his desire to play as much as possible for the Three Lions and Chelsea…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210329chelsea-vs-brighton-game-rearran",
-      "type": "NewsCard",
-      "timestamp": "2021-03-30T13:14:00.000Z",
-      "orderDate": "2021-03-30T10:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/29/chelsea-vs-brighton-game-rearranged",
-        "type": "NewsCard",
-        "title": "Chelsea vs Brighton game rearranged; kick-off vs West Ham moved",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/chelsea-vs-brighton-game-rearranged.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-30T13:14:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/29/chelsea-vs-brighton-game-rearranged",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Marcos Alonso playing Brighton",
-          "id": "editorial/news/2021/03/29/chelsea_brighton_2019",
-          "gravity": "auto",
-          "aspectRatio": 1.4843266,
-          "cropMode": "fill"
-        },
-        "caption": " "
-      },
-      "content": "Chelsea vs Brighton game rearranged; kick-off vs West Ham moved",
-      "publishDate": "2021-03-30T13:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/29/chelsea-vs-brighton-game-rearranged.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-30T13:14:00.000Z",
-      "description": "The home Premier League fixture against Brighton and Hove Albion, which was originally scheduled for the weekend of our FA Cup semi-final tie, will now take place at Stamford Bridge on Tuesday 20 April."
     }
   ]
 }
