@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 820,
+    "totalItems": 821,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 82,
+    "pageCount": 83,
     "startFrom": 0
   },
   "newsFeed": [
@@ -125,6 +125,55 @@
       ],
       "date": "2021-04-01T04:00:00.000Z",
       "description": "With today being April Fool's Day, what better way to prove your knowledge of the Blues than by successfully navigating your way through our Chelsea ‘fact or fiction’ quiz!"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210401non-league-youth-cup-meets-of-th",
+      "type": "NewsCard",
+      "timestamp": "2021-04-01T10:56:00.000Z",
+      "orderDate": "2021-04-01T00:56:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/01/non-league-youth-cup-meets-of-the-past",
+        "type": "NewsCard",
+        "title": "Non-league Youth Cup meetings of the past - Under-18s live stream tomorrow",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/non-league-youth-cup-meets-of-the-past.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-01T10:56:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/01/non-league-youth-cup-meets-of-the-past",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Youth Cup",
+          "id": "editorial/news/2020/11/Ben-elliott-goal-vs-Barnsley",
+          "gravity": "auto",
+          "aspectRatio": 1.5001696,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Non-league Youth Cup meetings of the past - Under-18s live stream tomorrow",
+      "publishDate": "2021-04-01T10:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/non-league-youth-cup-meets-of-the-past.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-04-01T10:56:00.000Z",
+      "description": "Tomorrow (Friday) afternoon our youth team take on AFC Fylde live on the Chelsea website and the 5th Stand app, as the fourth round of the FA Youth Cup resumes. We have not had many ties against non-league sides in recent years, but there have been some memorable ones against Chipstead, Stevenage and Dartford."
     },
     {
       "contentType": "News",
@@ -514,54 +563,6 @@
       ],
       "date": "2021-03-31T11:13:00.000Z",
       "description": "Callum Hudson-Odoi has left the England Under-21 camp in Slovenia and returned to Cobham for further assessment on a shoulder injury sustained in training last week."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210331extra-time-with----kai-havertz",
-      "type": "NewsCard",
-      "timestamp": "2021-03-31T06:00:00.000Z",
-      "orderDate": "2021-03-31T06:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/31/extra-time-with----kai-havertz",
-        "type": "NewsCard",
-        "title": "Extra Time With... Kai Havertz",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/31/extra-time-with----kai-havertz.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-31T06:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/31/extra-time-with----kai-havertz",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kai Havertz",
-          "id": "editorial/news/2021/03/31/kai-havertz-extra-time-with-header",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Extra Time With... Kai Havertz",
-      "publishDate": "2021-03-31T06:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/31/extra-time-with----kai-havertz.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-31T06:00:00.000Z",
-      "description": "In the second edition of our new interview series speaking to the Chelsea players about their interests away from the pitch, Kai Havertz talks animals and gaming…"
     }
   ]
 }
