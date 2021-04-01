@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 819,
+    "totalItems": 820,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 82,
@@ -125,6 +125,54 @@
       ],
       "date": "2021-04-01T04:00:00.000Z",
       "description": "With today being April Fool's Day, what better way to prove your knowledge of the Blues than by successfully navigating your way through our Chelsea ‘fact or fiction’ quiz!"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210401media-watch--chelsea-linked-to-w",
+      "type": "NewsCard",
+      "timestamp": "2021-04-01T09:05:00.000Z",
+      "orderDate": "2021-04-01T00:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/01/media-watch--chelsea-linked-to-wijnaldum--keane-praises-mount-an",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked to Wijnaldum, Keane praises Mount and Ferdinand picks Lampard as favourite midfielder ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/media-watch--chelsea-linked-to-wijnaldum--keane-praises-mount-an.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-01T09:05:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/01/media-watch--chelsea-linked-to-wijnaldum--keane-praises-mount-an",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/wijnaldum-mw",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked to Wijnaldum, Keane praises Mount and Ferdinand picks Lampard as favourite midfielder ",
+      "publishDate": "2021-04-01T09:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/media-watch--chelsea-linked-to-wijnaldum--keane-praises-mount-an.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Frank Lampard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-lampard"
+        }
+      ],
+      "date": "2021-04-01T09:05:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are keeping an eye on Georginio Wijnaldum and Roy Keane praises Mason Mount."
     },
     {
       "contentType": "News",
@@ -514,55 +562,6 @@
       ],
       "date": "2021-03-31T06:00:00.000Z",
       "description": "In the second edition of our new interview series speaking to the Chelsea players about their interests away from the pitch, Kai Havertz talks animals and gaming…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210331eriksson---there-is-still-a-lot-",
-      "type": "NewsCard",
-      "timestamp": "2021-03-31T07:02:00.000Z",
-      "orderDate": "2021-03-31T00:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/31/eriksson---there-is-still-a-lot-of-work-to-be-done-",
-        "type": "NewsCard",
-        "title": "Eriksson: There is still a lot of work to be done",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/31/eriksson---there-is-still-a-lot-of-work-to-be-done-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-31T07:02:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/31/eriksson---there-is-still-a-lot-of-work-to-be-done-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Magdalena_Eriksson",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "scale"
-        }
-      },
-      "content": "Eriksson: There is still a lot of work to be done",
-      "publishDate": "2021-03-31T07:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/31/eriksson---there-is-still-a-lot-of-work-to-be-done-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-03-31T07:02:00.000Z",
-      "description": "Chelsea FC Women take on Wolfsburg this afternoon in the second leg of our Champions League quarter-final and captain Magda Eriksson is confident the Blues can overcome last year’s finalists and seal a spot in the last four.",
-      "matchId": 2195004
     }
   ]
 }
