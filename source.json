@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 821,
+    "totalItems": 822,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 83,
@@ -273,6 +273,49 @@
       "matchId": 2195004
     },
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210401new-chance-to-win-on-play-predic",
+      "type": "NewsCard",
+      "timestamp": "2021-04-01T12:09:00.000Z",
+      "orderDate": "2021-03-31T23:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/01/new-chance-to-win-on-play-predictor",
+        "type": "NewsCard",
+        "title": "New chance to win on Play Predictor",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/new-chance-to-win-on-play-predictor.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-01T12:09:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/01/new-chance-to-win-on-play-predictor",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/news/2021/04/01/Play-Predictor-Werner-Everton",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "New chance to win on Play Predictor",
+      "publishDate": "2021-04-01T12:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/new-chance-to-win-on-play-predictor.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-04-01T12:09:00.000Z",
+      "description": "The leaderboard has reset and so have your chances of winning big in Play Predictor!"
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210331internationals--clean-sheet-for-",
       "type": "NewsCard",
@@ -510,59 +553,6 @@
       ],
       "date": "2021-03-31T12:30:00.000Z",
       "description": "The business end of the season is well and truly upon us with the Blues among a cluster of teams aiming to finish in the top four of the Premier League. Here we analyse the remaining fixtures of our rivals for Champions League qualification and set a poll for you to answer…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210331hudson-odoi-returns-to-chelsea-e",
-      "type": "NewsCard",
-      "timestamp": "2021-03-31T11:13:00.000Z",
-      "orderDate": "2021-03-31T11:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/31/hudson-odoi-returns-to-chelsea-early-from-international-duty",
-        "type": "NewsCard",
-        "title": "Hudson-Odoi returns to Chelsea early from international duty",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/31/hudson-odoi-returns-to-chelsea-early-from-international-duty.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-31T11:13:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/03/31/hudson-odoi-returns-to-chelsea-early-from-international-duty",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Hudson-Odoi",
-          "id": "editorial/news/2021/03/31/Hudson-Odoi-England-U21-vs-Switzerland",
-          "gravity": "auto",
-          "aspectRatio": 1.5022573,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hudson-Odoi returns to Chelsea early from international duty",
-      "publishDate": "2021-03-31T11:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/31/hudson-odoi-returns-to-chelsea-early-from-international-duty.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-03-31T11:13:00.000Z",
-      "description": "Callum Hudson-Odoi has left the England Under-21 camp in Slovenia and returned to Cobham for further assessment on a shoulder injury sustained in training last week."
     }
   ]
 }
