@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 822,
+    "totalItems": 823,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 83,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210401chelsea-vs-west-brom---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-04-01T11:12:00.000Z",
+      "orderDate": "2021-04-01T11:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/01/chelsea-vs-west-brom---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs West Brom - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/chelsea-vs-west-brom---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-01T11:12:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/04/01/chelsea-vs-west-brom---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Callum Hudson-Odoi against West Brom",
+          "id": "editorial/match-reports/2020-21/west-brom-away/Hudson-Odoi_GettyImages-1228726565",
+          "gravity": "auto",
+          "aspectRatio": 1.4196541,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs West Brom - the stats",
+      "publishDate": "2021-04-01T11:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/chelsea-vs-west-brom---the-stats.html",
+      "readTimeInMins": 26,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Brom",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-brom"
+        }
+      ],
+      "date": "2021-04-01T11:12:00.000Z",
+      "description": "The international break is coming to an end so we turn our attention to the resumption of the Premier League campaign on Saturday with all the big numbers needed ahead of the game...",
+      "matchId": 2128578
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210401giles-smith--historic-home-game-",
@@ -505,54 +559,6 @@
       ],
       "date": "2021-03-31T16:00:00.000Z",
       "description": "Chelsea Women are Champions League semi-finalists after completing a 5-1 aggregate victory over Wolfsburg and you can watch the key action from the game in the highlights above."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210330chelsea-s-race-for-the-premier-l",
-      "type": "NewsCard",
-      "timestamp": "2021-03-31T12:30:00.000Z",
-      "orderDate": "2021-03-31T12:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
-        "type": "NewsCard",
-        "title": "Chelsea’s race for the Premier League top four ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-03-31T12:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea and the Premier League logo",
-          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
-          "gravity": "auto",
-          "aspectRatio": 1.4790996,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea’s race for the Premier League top four ",
-      "publishDate": "2021-03-31T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
-      "readTimeInMins": 67,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-03-31T12:30:00.000Z",
-      "description": "The business end of the season is well and truly upon us with the Blues among a cluster of teams aiming to finish in the top four of the Premier League. Here we analyse the remaining fixtures of our rivals for Champions League qualification and set a poll for you to answer…"
     }
   ]
 }
