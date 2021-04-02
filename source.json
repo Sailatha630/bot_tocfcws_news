@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 831,
+    "totalItems": 832,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 84,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210402unbeaten-tuchel-wins-monthly-awa",
+      "type": "NewsCard",
+      "timestamp": "2021-04-02T11:00:00.000Z",
+      "orderDate": "2021-04-02T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/02/unbeaten-tuchel-wins-monthly-award-after-a-magnificent-march-and",
+        "type": "NewsCard",
+        "title": "Unbeaten Tuchel wins monthly award after a magnificent March and hopes to keep run going",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/unbeaten-tuchel-wins-monthly-award-after-a-magnificent-march-and.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-02T11:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/02/unbeaten-tuchel-wins-monthly-award-after-a-magnificent-march-and",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Tuchel",
+          "id": "editorial/news/2021/03/20/Tuchel_GettyImages-1231666505-1",
+          "gravity": "north",
+          "aspectRatio": 1.7772443,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Unbeaten Tuchel wins monthly award after a magnificent March and hopes to keep run going",
+      "publishDate": "2021-04-02T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/unbeaten-tuchel-wins-monthly-award-after-a-magnificent-march-and.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-02T11:00:00.000Z",
+      "description": "Following another month without defeat as Chelsea boss, Thomas Tuchel has been rewarded with the Premier League Manager of the Month award for March."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210402pre-match-briefing--chelsea-vs-w",
@@ -489,53 +537,6 @@
       },
       "date": "2021-04-01T06:03:00.000Z",
       "description": "In his fan’s-view column this week, Giles Smith looks ahead, but from a distance, to what will be a Champions League tie with a difference, and celebrates the form of Chelsea’s (and England’s) Mason Mount…"
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210401chelsea-quiz--can-you-work-out-w",
-      "type": "NewsCard",
-      "timestamp": "2021-04-01T04:00:00.000Z",
-      "orderDate": "2021-04-01T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/01/chelsea-quiz--can-you-work-out-what-s-fact-and-what-s-fiction-",
-        "type": "NewsCard",
-        "title": "Chelsea Quiz: Can you work out what's fact and what's fiction?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/chelsea-quiz--can-you-work-out-what-s-fact-and-what-s-fiction-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-01T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/01/chelsea-quiz--can-you-work-out-what-s-fact-and-what-s-fiction-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Stamford-Bridge-general-GettyImages-1295608077",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Quiz: Can you work out what's fact and what's fiction?",
-      "publishDate": "2021-04-01T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/chelsea-quiz--can-you-work-out-what-s-fact-and-what-s-fiction-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        }
-      ],
-      "date": "2021-04-01T04:00:00.000Z",
-      "description": "With today being April Fool's Day, what better way to prove your knowledge of the Blues than by successfully navigating your way through our Chelsea ‘fact or fiction’ quiz!"
     }
   ]
 }
