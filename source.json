@@ -1,12 +1,56 @@
 {
   "pagination": {
-    "totalItems": 835,
+    "totalItems": 836,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 84,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210402tuchel-asked-about-haaland-and-a",
+      "type": "NewsCard",
+      "timestamp": "2021-04-02T13:46:00.000Z",
+      "orderDate": "2021-04-02T13:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/02/tuchel-asked-about-haaland-and-aguero-links-",
+        "type": "NewsCard",
+        "title": "Tuchel asked about Haaland and Aguero links ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/tuchel-asked-about-haaland-and-aguero-links-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-02T13:46:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/02/tuchel-asked-about-haaland-and-aguero-links-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Tuchel-press-conference-carabao-GettyImages-1232068088",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel asked about Haaland and Aguero links ",
+      "publishDate": "2021-04-02T13:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/tuchel-asked-about-haaland-and-aguero-links-.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-04-02T13:46:00.000Z",
+      "description": "Thomas Tuchel has commented on speculation linking Chelsea with summer moves for a pair of in-demand strikers.",
+      "matchId": 2128578
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210402kante-the-only-chelsea-absentee-",
@@ -462,69 +506,6 @@
       "tags": [],
       "date": "2021-04-02T09:21:00.000Z",
       "description": "With live episodes broadcast three times a week and plenty of new drills, Coaches Corner Live is the perfect way to aid your football training and physical activity during the Easter break..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210401internationals-return-to-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-04-01T16:47:00.000Z",
-      "orderDate": "2021-04-01T16:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/01/internationals-return-to-chelsea-training-",
-        "type": "NewsCard",
-        "title": "Internationals return to Chelsea training ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/internationals-return-to-chelsea-training-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-01T16:47:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/01/internationals-return-to-chelsea-training-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Tuchel-James-DTW_0442",
-          "gravity": "north_west",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Internationals return to Chelsea training ",
-      "publishDate": "2021-04-01T16:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/internationals-return-to-chelsea-training-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2021-04-01T16:47:00.000Z",
-      "description": "Thomas Tuchel was boosted by the return of a few more faces at training today, as those Blues involved at international level reported for duty at Cobham."
     }
   ]
 }
