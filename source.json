@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 833,
+    "totalItems": 834,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 84,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210402kante-the-only-chelsea-absentee-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-02T12:41:00.000Z",
+      "orderDate": "2021-04-02T12:41:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/02/kante-the-only-chelsea-absentee-ahead-of-west-brom-clash",
+        "type": "NewsCard",
+        "title": "Kante the only Chelsea absentee while Tuchel confirms start for Werner",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/kante-the-only-chelsea-absentee-ahead-of-west-brom-clash.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-02T12:41:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/02/kante-the-only-chelsea-absentee-ahead-of-west-brom-clash",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/03/16/tuchel-press-conference-graphic-v2",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kante the only Chelsea absentee while Tuchel confirms start for Werner",
+      "publishDate": "2021-04-02T12:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/kante-the-only-chelsea-absentee-ahead-of-west-brom-clash.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-04-02T12:41:00.000Z",
+      "description": "Thomas Tuchel has confirmed that N’Golo Kante will miss tomorrow’s clash with West Bromwich Albion through injury but aside from that he has a fully fit squad to choose from.",
+      "matchId": 2128578
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210402unbeaten-tuchel-wins-monthly-awa",
@@ -472,53 +526,6 @@
       "date": "2021-04-01T11:12:00.000Z",
       "description": "The international break is coming to an end so we turn our attention to the resumption of the Premier League campaign on Saturday with all the big numbers needed ahead of the game...",
       "matchId": 2128578
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210401confident-pulisic-ready-to-hit-t",
-      "type": "NewsCard",
-      "timestamp": "2021-04-01T14:50:00.000Z",
-      "orderDate": "2021-04-01T13:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/01/confident-pulisic-ready-to-hit-the-ground-running-",
-        "type": "NewsCard",
-        "title": "Confident Pulisic ready to hit the ground running ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/confident-pulisic-ready-to-hit-the-ground-running-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-01T14:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/01/confident-pulisic-ready-to-hit-the-ground-running-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Pulisic-throw-stock-GettyImages-1306896459",
-          "gravity": "auto",
-          "aspectRatio": 1.4104719,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Confident Pulisic ready to hit the ground running ",
-      "publishDate": "2021-04-01T14:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/01/confident-pulisic-ready-to-hit-the-ground-running-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-04-01T14:50:00.000Z",
-      "description": "Christian Pulisic believes his strong performances at international level with USA have set him up perfectly for the end of season run-in with Chelsea."
     }
   ]
 }
