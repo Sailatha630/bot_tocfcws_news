@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 840,
+    "totalItems": 841,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 84,
+    "pageCount": 85,
     "startFrom": 0
   },
   "newsFeed": [
@@ -161,6 +161,60 @@
       "tags": [],
       "date": "2021-04-03T00:20:00.000Z",
       "description": "We are proud to announce the first of the small London businesses that are receiving free advertising across our media channels for the remainder of the season…"
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210403chelsea-women-v-birmingham-city-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-03T05:27:00.000Z",
+      "orderDate": "2021-04-02T23:07:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/03/chelsea-women-v-birmingham-city-women-preview--kick-off-time--ho",
+        "type": "NewsCard",
+        "title": "Chelsea Women v Birmingham City Women preview: kick-off time, how to follow and much more",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/chelsea-women-v-birmingham-city-women-preview--kick-off-time--ho.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-03T05:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/03/chelsea-women-v-birmingham-city-women-preview--kick-off-time--ho",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Fran Kirby playing Birmingham",
+          "id": "editorial/women's-team/HAT_7218_2020100443559591",
+          "gravity": "auto",
+          "aspectRatio": 1.499601,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women v Birmingham City Women preview: kick-off time, how to follow and much more",
+      "publishDate": "2021-04-03T05:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/chelsea-women-v-birmingham-city-women-preview--kick-off-time--ho.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Birmingham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_birmingham"
+        }
+      ],
+      "date": "2021-04-03T05:27:00.000Z",
+      "description": "Chelsea FC Women are back at home for the second week in a row for our Barclay’s FA Women’s Super League match against Birmingham City Women.",
+      "matchId": 2138478
     },
     {
       "contentType": "News",
@@ -472,60 +526,6 @@
       ],
       "date": "2021-04-02T13:45:00.000Z",
       "description": "Our youth team moved into the fifth round of the FA Youth Cup after goals from Bryan Fiabema and Ben Elliott secured a win over AFC Fylde on Friday afternoon."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210402pre-match-briefing--chelsea-vs-w",
-      "type": "NewsCard",
-      "timestamp": "2021-04-02T02:40:00.000Z",
-      "orderDate": "2021-04-02T02:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/02/pre-match-briefing--chelsea-vs-west-brom",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs West Brom",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/pre-match-briefing--chelsea-vs-west-brom.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-02T02:40:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/04/02/pre-match-briefing--chelsea-vs-west-brom",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge from the air",
-          "id": "editorial/news/2021/04/01/stamford_bridge_aerial_virew",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs West Brom",
-      "publishDate": "2021-04-02T02:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/pre-match-briefing--chelsea-vs-west-brom.html",
-      "readTimeInMins": 61,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "West Brom",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-brom"
-        }
-      ],
-      "date": "2021-04-02T02:40:00.000Z",
-      "description": "We welcome the West Midlanders to west London this weekend as the penultimate month of league fixtures commences. Club historian Rick Glanvill and club statistician Paul Dutton shine a spotlight on Saturday’s fixture…",
-      "matchId": 2128578
     }
   ]
 }
