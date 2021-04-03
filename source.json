@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 841,
+    "totalItems": 842,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 85,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210403chelsea-line-up-vs-west-brom",
+      "type": "NewsCard",
+      "timestamp": "2021-04-03T10:30:00.000Z",
+      "orderDate": "2021-04-03T10:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/03/chelsea-line-up-vs-west-brom",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs West Brom",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/chelsea-line-up-vs-west-brom.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-03T10:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/03/chelsea-line-up-vs-west-brom",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Dressing room ",
+          "id": "editorial/match-reports/2020-21/west-brom-home/dressing_room_west_brom_home_2",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs West Brom",
+      "publishDate": "2021-04-03T10:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/chelsea-line-up-vs-west-brom.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Brom",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-brom"
+        }
+      ],
+      "date": "2021-04-03T10:30:00.000Z",
+      "description": "Fit-again Thiago Silva comes into the side. It will be his first action for two months.",
+      "matchId": 2128578
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210403tuchel-reveals-past-with-alonso-",
@@ -473,59 +527,6 @@
       "date": "2021-04-02T12:07:00.000Z",
       "description": "We have scored an impressive 10 goals across our last three fixtures against West Bromwich Albion. Ahead of their visit to Stamford Bridge tomorrow, see how well you remember those previous strikes against the Baggies.",
       "matchId": 2128578
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210402youth-cup-report--chelsea-afc-fy",
-      "type": "NewsCard",
-      "timestamp": "2021-04-02T13:45:00.000Z",
-      "orderDate": "2021-04-02T05:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/02/youth-cup-report--chelsea-afc-fylde",
-        "type": "NewsCard",
-        "title": "Youth Cup report: Chelsea 2 AFC Fylde 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/youth-cup-report--chelsea-afc-fylde.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-02T13:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/02/youth-cup-report--chelsea-afc-fylde",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Bryan Fiabema",
-          "id": "editorial/news/2021/04/02/Bryan-Fiabema-celebreation-fylde-youth-cup",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Youth Cup report: Chelsea 2 AFC Fylde 0",
-      "publishDate": "2021-04-02T13:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/youth-cup-report--chelsea-afc-fylde.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        },
-        {
-          "title": "U18 - FA Youth Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
-        }
-      ],
-      "date": "2021-04-02T13:45:00.000Z",
-      "description": "Our youth team moved into the fifth round of the FA Youth Cup after goals from Bryan Fiabema and Ben Elliott secured a win over AFC Fylde on Friday afternoon."
     }
   ]
 }
