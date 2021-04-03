@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 842,
+    "totalItems": 843,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 85,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210403match-report--chelsea-vs-west-br",
+      "type": "NewsCard",
+      "timestamp": "2021-04-03T14:00:00.000Z",
+      "orderDate": "2021-04-03T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/03/match-report--chelsea-vs-west-brom",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 2 West Brom 5",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/match-report--chelsea-vs-west-brom.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-03T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/03/match-report--chelsea-vs-west-brom",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/west-brom-home/Pulisic-West-Brom-h-1",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 2 West Brom 5",
+      "publishDate": "2021-04-03T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/match-report--chelsea-vs-west-brom.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Brom",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-brom"
+        }
+      ],
+      "date": "2021-04-03T14:00:00.000Z",
+      "description": "Thomas Tuchel’s club-record 14-game unbeaten start at Chelsea came to an end when his side suffered a shock home defeat against relegation-threatened opponents.",
+      "matchId": 2128578
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210403chelsea-line-up-vs-west-brom",
@@ -473,60 +527,6 @@
       ],
       "date": "2021-04-02T11:00:00.000Z",
       "description": "Following another month without defeat as Chelsea boss, Thomas Tuchel has been rewarded with the Premier League Manager of the Month award for March."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210402pre-match-quiz--chelsea-vs-west-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-02T12:07:00.000Z",
-      "orderDate": "2021-04-02T10:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/02/pre-match-quiz--chelsea-vs-west-bromwich-albion",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Chelsea vs West Bromwich Albion",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/pre-match-quiz--chelsea-vs-west-bromwich-albion.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-02T12:07:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/02/pre-match-quiz--chelsea-vs-west-bromwich-albion",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mount",
-          "id": "editorial/news/2021/03/31/Mount_GettyImages-1228725905",
-          "gravity": "auto",
-          "aspectRatio": 1.511885,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Chelsea vs West Bromwich Albion",
-      "publishDate": "2021-04-02T12:07:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/pre-match-quiz--chelsea-vs-west-bromwich-albion.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "West Brom",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-brom"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-04-02T12:07:00.000Z",
-      "description": "We have scored an impressive 10 goals across our last three fixtures against West Bromwich Albion. Ahead of their visit to Stamford Bridge tomorrow, see how well you remember those previous strikes against the Baggies.",
-      "matchId": 2128578
     }
   ]
 }
