@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 843,
+    "totalItems": 844,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 85,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210403tuchel-explains-team-selection-a",
+      "type": "NewsCard",
+      "timestamp": "2021-04-03T15:09:00.000Z",
+      "orderDate": "2021-04-03T15:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/03/tuchel-explains-team-selection-and-what-was-wrong-against-west-b",
+        "type": "NewsCard",
+        "title": "Tuchel explains team selection and what was wrong against West Brom",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/tuchel-explains-team-selection-and-what-was-wrong-against-west-b.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-03T15:09:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/03/tuchel-explains-team-selection-and-what-was-wrong-against-west-b",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/match-reports/2020-21/west-brom-home/Tuchel-West-Brom-h-1",
+          "gravity": "auto",
+          "aspectRatio": 1.5004725,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel explains team selection and what was wrong against West Brom",
+      "publishDate": "2021-04-03T15:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/tuchel-explains-team-selection-and-what-was-wrong-against-west-b.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Brom",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-brom"
+        }
+      ],
+      "date": "2021-04-03T15:09:00.000Z",
+      "description": "It has taken over two months of Thomas Tuchel being in charge at Chelsea before he had to speak about a loss, but when that moment came on Saturday afternoon, it was an emphatic one that needed dissecting.",
+      "matchId": 2128578
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210403match-report--chelsea-vs-west-br",
@@ -479,54 +538,6 @@
       ],
       "date": "2021-04-02T15:00:00.000Z",
       "description": "Now is not the time to take firm decisions on whether Conor Gallagher will be part of Thomas Tuchel’s squad at Chelsea next season, but the boss is closely following the young midfielder’s progress."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210402unbeaten-tuchel-wins-monthly-awa",
-      "type": "NewsCard",
-      "timestamp": "2021-04-02T11:00:00.000Z",
-      "orderDate": "2021-04-02T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/02/unbeaten-tuchel-wins-monthly-award-after-a-magnificent-march-and",
-        "type": "NewsCard",
-        "title": "Unbeaten Tuchel wins monthly award after a magnificent March and hopes to keep run going",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/unbeaten-tuchel-wins-monthly-award-after-a-magnificent-march-and.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-02T11:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/02/unbeaten-tuchel-wins-monthly-award-after-a-magnificent-march-and",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Tuchel",
-          "id": "editorial/news/2021/03/20/Tuchel_GettyImages-1231666505-1",
-          "gravity": "north",
-          "aspectRatio": 1.7772443,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Unbeaten Tuchel wins monthly award after a magnificent March and hopes to keep run going",
-      "publishDate": "2021-04-02T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/unbeaten-tuchel-wins-monthly-award-after-a-magnificent-march-and.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-02T11:00:00.000Z",
-      "description": "Following another month without defeat as Chelsea boss, Thomas Tuchel has been rewarded with the Premier League Manager of the Month award for March."
     }
   ]
 }
