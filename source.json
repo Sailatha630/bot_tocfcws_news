@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 844,
+    "totalItems": 845,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 85,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20210403statement-on-racist-abuse",
+      "type": "NewsCard",
+      "timestamp": "2021-04-03T21:37:00.000Z",
+      "orderDate": "2021-04-03T21:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/03/statement-on-racist-abuse",
+        "type": "NewsCard",
+        "title": "Statement on racist abuse",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/statement-on-racist-abuse.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-03T21:37:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/03/statement-on-racist-abuse",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chelsea crest",
+          "id": "editorial/news/2021/01/25/transparent_club_badge_crest_logo_chelsea",
+          "gravity": "center",
+          "aspectRatio": 1.9666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Statement on racist abuse",
+      "publishDate": "2021-04-03T21:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/statement-on-racist-abuse.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-04-03T21:37:00.000Z",
+      "description": "The following club statement has been announced..."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210403tuchel-explains-team-selection-a",
@@ -480,64 +517,6 @@
       "date": "2021-04-02T13:46:00.000Z",
       "description": "Thomas Tuchel has commented on speculation linking Chelsea with summer moves for a pair of in-demand strikers.",
       "matchId": 2128578
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210402tuchel--gallagher-should-stay-fo",
-      "type": "NewsCard",
-      "timestamp": "2021-04-02T15:00:00.000Z",
-      "orderDate": "2021-04-02T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/02/tuchel--gallagher-should-stay-focused-on-west-brom-for-now",
-        "type": "NewsCard",
-        "title": "Tuchel: Gallagher should stay focused on West Brom for now",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/tuchel--gallagher-should-stay-focused-on-west-brom-for-now.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-02T15:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/02/tuchel--gallagher-should-stay-focused-on-west-brom-for-now",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Conor Gallagher",
-          "id": "editorial/news/2021/04/02/conor_gallagher_press_conference",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Gallagher should stay focused on West Brom for now",
-      "publishDate": "2021-04-02T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/tuchel--gallagher-should-stay-focused-on-west-brom-for-now.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "West Brom",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-brom"
-        },
-        {
-          "title": "Conor Gallagher",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_conor-gallagher"
-        }
-      ],
-      "date": "2021-04-02T15:00:00.000Z",
-      "description": "Now is not the time to take firm decisions on whether Conor Gallagher will be part of Thomas Tuchel’s squad at Chelsea next season, but the boss is closely following the young midfielder’s progress."
     }
   ]
 }
