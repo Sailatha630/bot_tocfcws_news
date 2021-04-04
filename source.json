@@ -8,54 +8,6 @@
   },
   "newsFeed": [
     {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210404women-s-match-report--chelsea-6-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-04T13:57:00.000Z",
-      "orderDate": "2021-04-04T13:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city",
-        "type": "NewsCard",
-        "title": "Women’s Match Report: Chelsea 6-0 Birmingham City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-04T13:57:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/ChelseaWomen_Kerr_Bright_Birmingham",
-          "gravity": "auto",
-          "aspectRatio": 1.5021032,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s Match Report: Chelsea 6-0 Birmingham City",
-      "publishDate": "2021-04-04T13:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Birmingham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_birmingham"
-        }
-      ],
-      "date": "2021-04-04T13:57:00.000Z",
-      "description": "With three league games remaining, Chelsea FC Women remain top of the Barclay’s FA Women’s Super League following a 6-0 victory against Birmingham City at Kingsmeadow.",
-      "matchId": 2138478
-    },
-    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210404pulisic--a-big-test-of-our-menta",
       "type": "NewsCard",
@@ -98,6 +50,54 @@
       "date": "2021-04-04T13:30:00.000Z",
       "description": "Christian Pulisic is looking for Chelsea to quickly put yesterday’s defeat to West Brom behind us and ‘recharge, refocus and regroup’ ahead of Wednesday’s Champions League clash with Porto.",
       "matchId": 2128578
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210404women-s-match-report--chelsea-6-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-04T13:57:00.000Z",
+      "orderDate": "2021-04-04T10:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Chelsea 6-0 Birmingham City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-04T13:57:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Kerr_Bright_Birmingham",
+          "gravity": "auto",
+          "aspectRatio": 1.5021032,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Chelsea 6-0 Birmingham City",
+      "publishDate": "2021-04-04T13:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Birmingham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_birmingham"
+        }
+      ],
+      "date": "2021-04-04T13:57:00.000Z",
+      "description": "With three league games remaining, Chelsea FC Women remain top of the Barclay’s FA Women’s Super League following a 6-0 victory against Birmingham City at Kingsmeadow.",
+      "matchId": 2138478
     },
     {
       "contentType": "Analysis",
