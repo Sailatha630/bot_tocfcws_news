@@ -1,12 +1,81 @@
 {
   "pagination": {
-    "totalItems": 846,
+    "totalItems": 847,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 85,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210404zouma--we-have-to-react-strongly",
+      "type": "NewsCard",
+      "timestamp": "2021-04-04T02:39:00.000Z",
+      "orderDate": "2021-04-04T02:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/04/zouma--we-have-to-react-strongly",
+        "type": "NewsCard",
+        "title": "Zouma: We have to react strongly",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/zouma--we-have-to-react-strongly.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-04T02:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/04/zouma--we-have-to-react-strongly",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Zouma",
+          "id": "editorial/news/2021/04/03/Zouma_GettyImages-1306152670",
+          "gravity": "face",
+          "aspectRatio": 1.4138193,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Zouma: We have to react strongly",
+      "publishDate": "2021-04-04T02:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/zouma--we-have-to-react-strongly.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Kurt Zouma",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kurt-zouma"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Brom",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-brom"
+        },
+        {
+          "title": "FC Porto",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fc-porto"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-04T02:39:00.000Z",
+      "description": "Kurt Zouma says the Chelsea players need to accept the disappointment of defeat to West Bromwich Albion and move on quickly to bounce back against Porto.",
+      "matchId": 2128578
+    },
     {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20210403statement-on-racist-abuse",
@@ -473,60 +542,6 @@
       "date": "2021-04-03T05:27:00.000Z",
       "description": "Chelsea FC Women are back at home for the second week in a row for our Barclay’s FA Women’s Super League match against Birmingham City Women.",
       "matchId": 2138478
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210402kante-the-only-chelsea-absentee-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-02T12:41:00.000Z",
-      "orderDate": "2021-04-02T14:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/02/kante-the-only-chelsea-absentee-ahead-of-west-brom-clash",
-        "type": "NewsCard",
-        "title": "Kante the only Chelsea absentee while Tuchel confirms start for Werner",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/kante-the-only-chelsea-absentee-ahead-of-west-brom-clash.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-02T12:41:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/02/kante-the-only-chelsea-absentee-ahead-of-west-brom-clash",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/03/16/tuchel-press-conference-graphic-v2",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kante the only Chelsea absentee while Tuchel confirms start for Werner",
-      "publishDate": "2021-04-02T12:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/02/kante-the-only-chelsea-absentee-ahead-of-west-brom-clash.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-04-02T12:41:00.000Z",
-      "description": "Thomas Tuchel has confirmed that N’Golo Kante will miss tomorrow’s clash with West Bromwich Albion through injury but aside from that he has a fully fit squad to choose from.",
-      "matchId": 2128578
     }
   ]
 }
