@@ -1,12 +1,56 @@
 {
   "pagination": {
-    "totalItems": 850,
+    "totalItems": 851,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 85,
+    "pageCount": 86,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210404pulisic--a-big-test-of-our-menta",
+      "type": "NewsCard",
+      "timestamp": "2021-04-04T13:30:00.000Z",
+      "orderDate": "2021-04-04T13:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/04/pulisic--a-big-test-of-our-mentality",
+        "type": "NewsCard",
+        "title": "Pulisic: A big test of our mentality",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/pulisic--a-big-test-of-our-mentality.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-04T13:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/04/pulisic--a-big-test-of-our-mentality",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Pulisic-GettyImages-1310581366",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic: A big test of our mentality",
+      "publishDate": "2021-04-04T13:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/pulisic--a-big-test-of-our-mentality.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2021-04-04T13:30:00.000Z",
+      "description": "Christian Pulisic is looking for Chelsea to quickly put yesterday’s defeat to West Brom behind us and ‘recharge, refocus and regroup’ ahead of Wednesday’s Champions League clash with Porto.",
+      "matchId": 2128578
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210404the-debrief--tuchel-s-blues-fina",
@@ -488,70 +532,6 @@
       ],
       "date": "2021-04-03T10:30:00.000Z",
       "description": "Fit-again Thiago Silva comes into the side. It will be his first action for two months.",
-      "matchId": 2128578
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210403tuchel-reveals-past-with-alonso-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-03T03:00:00.000Z",
-      "orderDate": "2021-04-03T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/03/tuchel-reveals-past-with-alonso--happiness-with-mount-and-advice",
-        "type": "NewsCard",
-        "title": "Tuchel reveals past with Alonso, happiness with Mount and advice for Werner",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/tuchel-reveals-past-with-alonso--happiness-with-mount-and-advice.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-03T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/03/tuchel-reveals-past-with-alonso--happiness-with-mount-and-advice",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mount and Werner",
-          "id": "chelsea-app/Werner-Mount-training-DAZ_8944",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reveals past with Alonso, happiness with Mount and advice for Werner",
-      "publishDate": "2021-04-03T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/tuchel-reveals-past-with-alonso--happiness-with-mount-and-advice.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-04-03T03:00:00.000Z",
-      "description": "Ahead of this lunchtime’s return of Premier League football to Stamford Bridge, manager Thomas Tuchel has been discussing three of his players facing varying challenges in the final seven weeks of the season…",
       "matchId": 2128578
     }
   ]
