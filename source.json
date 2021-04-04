@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 851,
+    "totalItems": 852,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 86,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210404women-s-match-report--chelsea-6-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-04T13:57:00.000Z",
+      "orderDate": "2021-04-04T13:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Chelsea 6-0 Birmingham City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-04T13:57:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Kerr_Bright_Birmingham",
+          "gravity": "auto",
+          "aspectRatio": 1.5021032,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Chelsea 6-0 Birmingham City",
+      "publishDate": "2021-04-04T13:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/women-s-match-report--chelsea-6-0-birmingham-city.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Birmingham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_birmingham"
+        }
+      ],
+      "date": "2021-04-04T13:57:00.000Z",
+      "description": "With three league games remaining, Chelsea FC Women remain top of the Barclay’s FA Women’s Super League following a 6-0 victory against Birmingham City at Kingsmeadow.",
+      "matchId": 2138478
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210404pulisic--a-big-test-of-our-menta",
@@ -478,60 +526,6 @@
       ],
       "date": "2021-04-03T14:00:00.000Z",
       "description": "Thomas Tuchel’s club-record 14-game unbeaten start at Chelsea came to an end when his side suffered a shock home defeat against relegation-threatened opponents.",
-      "matchId": 2128578
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210403chelsea-line-up-vs-west-brom",
-      "type": "NewsCard",
-      "timestamp": "2021-04-03T10:30:00.000Z",
-      "orderDate": "2021-04-03T10:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/03/chelsea-line-up-vs-west-brom",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs West Brom",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/chelsea-line-up-vs-west-brom.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-03T10:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/03/chelsea-line-up-vs-west-brom",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Dressing room ",
-          "id": "editorial/match-reports/2020-21/west-brom-home/dressing_room_west_brom_home_2",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs West Brom",
-      "publishDate": "2021-04-03T10:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/03/chelsea-line-up-vs-west-brom.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "West Brom",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-brom"
-        }
-      ],
-      "date": "2021-04-03T10:30:00.000Z",
-      "description": "Fit-again Thiago Silva comes into the side. It will be his first action for two months.",
       "matchId": 2128578
     }
   ]
