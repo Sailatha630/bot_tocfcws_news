@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 858,
+    "totalItems": 859,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 86,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210405quiz--can-you-name-these-10-play",
+      "type": "NewsCard",
+      "timestamp": "2021-04-05T14:42:00.000Z",
+      "orderDate": "2021-04-05T14:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/05/quiz--can-you-name-these-10-players-who-have-represented-chelsea",
+        "type": "NewsCard",
+        "title": "Quiz: Can you name the players who have represented Chelsea and Porto?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/05/quiz--can-you-name-these-10-players-who-have-represented-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-05T14:42:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/05/quiz--can-you-name-these-10-players-who-have-represented-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Porto",
+          "id": "editorial/news/2021/04/01/Porto_2015_GettyImages-490535488",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Can you name the players who have represented Chelsea and Porto?",
+      "publishDate": "2021-04-05T14:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/05/quiz--can-you-name-these-10-players-who-have-represented-chelsea.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FC Porto",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fc-porto"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-05T14:42:00.000Z",
+      "description": "Before we take on Porto in the Champions League quarter-finals, see if you can identify these 10 men who have made a first-team appearance for both clubs.",
+      "matchId": 2197666
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210405ian-maatsen-talks-life-on-loan-a",
@@ -457,54 +506,6 @@
       ],
       "date": "2021-04-04T10:13:00.000Z",
       "description": "We look at some of the pertinent statistics from yesterday’s home defeat to West Brom, where the game seemingly turned following the first-half red card shown to Thiago Silva.",
-      "matchId": 2128578
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210404christian-pulisic-injury-update",
-      "type": "NewsCard",
-      "timestamp": "2021-04-04T09:37:00.000Z",
-      "orderDate": "2021-04-04T09:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/04/christian-pulisic-injury-update",
-        "type": "NewsCard",
-        "title": "Christian Pulisic injury update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/christian-pulisic-injury-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-04T09:37:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/04/christian-pulisic-injury-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2020-21/west-brom-home/Pulisic-goal-celebration-West-Brom-h-1",
-          "gravity": "auto",
-          "aspectRatio": 1.5007675,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Christian Pulisic injury update",
-      "publishDate": "2021-04-04T09:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/04/christian-pulisic-injury-update.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-04-04T09:37:00.000Z",
-      "description": "Thomas Tuchel has confirmed that a hamstring injury forced the half-time withdrawal of Christian Pulisic against West Brom.",
       "matchId": 2128578
     }
   ]
