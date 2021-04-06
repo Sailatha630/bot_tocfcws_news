@@ -8,60 +8,6 @@
   },
   "newsFeed": [
     {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210406pl2-report--west-ham-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-04-06T19:45:00.000Z",
-      "orderDate": "2021-04-06T19:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/06/pl2-report--west-ham-chelsea",
-        "type": "NewsCard",
-        "title": "PL2 report: West Ham 1 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/pl2-report--west-ham-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-06T19:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/06/pl2-report--west-ham-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mceachran",
-          "id": "editorial/news/2021/04/06/Mceachran-goal-vs-west-ham-pen",
-          "gravity": "auto",
-          "aspectRatio": 1.5002141,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: West Ham 1 Chelsea 1",
-      "publishDate": "2021-04-06T19:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/pl2-report--west-ham-chelsea.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-04-06T19:45:00.000Z",
-      "description": "Chelsea’s development squad earned a point from Tuesday evening’s London derby with West Ham thanks to George McEachran’s late strike."
-    },
-    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210406tuchel-champions-league-press-co",
       "type": "NewsCard",
@@ -187,6 +133,60 @@
       ],
       "date": "2021-04-06T16:14:00.000Z",
       "description": "The hard work continued for Chelsea today, with the focus turning to our Champions League quarter-final fixture against Porto on Wednesday night."
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210406pl2-report--west-ham-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-04-06T19:45:00.000Z",
+      "orderDate": "2021-04-06T13:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/06/pl2-report--west-ham-chelsea",
+        "type": "NewsCard",
+        "title": "PL2 report: West Ham 1 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/pl2-report--west-ham-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-06T19:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/06/pl2-report--west-ham-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mceachran",
+          "id": "editorial/news/2021/04/06/Mceachran-goal-vs-west-ham-pen",
+          "gravity": "auto",
+          "aspectRatio": 1.5002141,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: West Ham 1 Chelsea 1",
+      "publishDate": "2021-04-06T19:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/pl2-report--west-ham-chelsea.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-04-06T19:45:00.000Z",
+      "description": "Chelsea’s development squad earned a point from Tuesday evening’s London derby with West Ham thanks to George McEachran’s late strike."
     },
     {
       "contentType": "News",
