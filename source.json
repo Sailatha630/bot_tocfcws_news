@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 870,
+    "totalItems": 871,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 87,
+    "pageCount": 88,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210406tuchel-champions-league-press-co",
+      "type": "NewsCard",
+      "timestamp": "2021-04-06T12:22:00.000Z",
+      "orderDate": "2021-04-06T17:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news",
+        "type": "NewsCard",
+        "title": "Tuchel confirms trio fit and in the squad for Porto; midfielder to start on bench",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-06T12:22:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Press conference graphic",
+          "id": "editorial/news/2021/04/06/Tuchel-press-conference-live-stream-060421",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel confirms trio fit and in the squad for Porto; midfielder to start on bench",
+      "publishDate": "2021-04-06T12:22:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-06T12:22:00.000Z",
+      "description": "There was good news for Thomas Tuchel to report on the injury front as he confirmed at his pre-Porto press conference that three players with some doubts over their fitness would be available for the Champions League quarter-final…",
+      "matchId": 2197666
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210406training-gallery--preparations-f",
@@ -79,60 +133,6 @@
       ],
       "date": "2021-04-06T16:14:00.000Z",
       "description": "The hard work continued for Chelsea today, with the focus turning to our Champions League quarter-final fixture against Porto on Wednesday night."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210406tuchel-champions-league-press-co",
-      "type": "NewsCard",
-      "timestamp": "2021-04-06T12:22:00.000Z",
-      "orderDate": "2021-04-06T12:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news",
-        "type": "NewsCard",
-        "title": "Tuchel confirms trio fit and in the squad for Porto; midfielder to start on bench",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-06T12:22:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Press conference graphic",
-          "id": "editorial/news/2021/04/06/Tuchel-press-conference-live-stream-060421",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel confirms trio fit and in the squad for Porto; midfielder to start on bench",
-      "publishDate": "2021-04-06T12:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-06T12:22:00.000Z",
-      "description": "There was good news for Thomas Tuchel to report on the injury front as he confirmed at his pre-Porto press conference that three players with some doubts over their fitness would be available for the Champions League quarter-final…",
-      "matchId": 2197666
     },
     {
       "contentType": "News",
@@ -247,52 +247,63 @@
       "description": "Thomas Tuchel has spoken for the first time since reports of a training ground confrontation between Toni Rudiger and Kepa Arrizabalaga appeared in the media."
     },
     {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210406women-s-champions-league-semi-fi",
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210406kovacic--tomorrow-is-a-big-day-f",
       "type": "NewsCard",
-      "timestamp": "2021-04-06T16:00:00.000Z",
-      "orderDate": "2021-04-06T11:00:00.000Z",
+      "timestamp": "2021-04-06T14:01:00.000Z",
+      "orderDate": "2021-04-06T11:01:00.000Z",
       "link": {
-        "path": "/content/chelseafc/en/news/2021/04/06/women-s-champions-league-semi-final-dates-and-venues-confirmed",
+        "path": "/content/chelseafc/en/news/2021/04/06/kovacic--tomorrow-is-a-big-day-for-us",
         "type": "NewsCard",
-        "title": "Women's Champions League semi-final dates and venues confirmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/women-s-champions-league-semi-final-dates-and-venues-confirmed.html",
+        "title": "Kovacic: Tomorrow is a big day for us",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/kovacic--tomorrow-is-a-big-day-for-us.html",
         "external": true,
         "target": "sameWindow",
         "categories": [],
-        "timestamp": "2021-04-06T16:00:00.000Z"
+        "timestamp": "2021-04-06T14:01:00.000Z"
       },
       "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/06/women-s-champions-league-semi-final-dates-and-venues-confirmed",
+      "path": "/content/chelseafc/en/news/2021/04/06/kovacic--tomorrow-is-a-big-day-for-us",
       "media": {
         "type": "image-component",
         "image": {
           "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Womens_Champions_League_stock",
-          "gravity": "center",
-          "aspectRatio": 1.5026296,
-          "cropMode": "lfill"
+          "alt": "Kovacic",
+          "id": "editorial/news/2021/04/05/kovacic_champions_league_training_press_conference_logo",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
         }
       },
-      "content": "Women's Champions League semi-final dates and venues confirmed",
-      "publishDate": "2021-04-06T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/women-s-champions-league-semi-final-dates-and-venues-confirmed.html",
-      "readTimeInMins": 3,
+      "content": "Kovacic: Tomorrow is a big day for us",
+      "publishDate": "2021-04-06T14:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/kovacic--tomorrow-is-a-big-day-for-us.html",
+      "readTimeInMins": 9,
       "tags": [
         {
-          "title": "Women",
+          "title": "Men",
           "namespace": "content-tag:",
-          "id": "content-tag_team_women"
+          "id": "content-tag_team_men"
         },
         {
-          "title": "Uefa Women's Champions League",
+          "title": "FC Porto",
           "namespace": "content-tag:",
-          "id": "content-tag_custom_uefa-women-s-champions-league"
+          "id": "content-tag_custom_fc-porto"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
         }
       ],
-      "date": "2021-04-06T16:00:00.000Z",
-      "description": "The details have been confirmed for Chelsea FC Women’s semi-final tie against FC Bayern Munich."
+      "date": "2021-04-06T14:01:00.000Z",
+      "description": "Mateo Kovacic says the Blues players are prepared and proud to represent Chelsea in a big game full of big players when we take on Porto in the first leg of the Champions League quarter-finals.",
+      "matchId": 2197666
     },
     {
       "contentType": "Columnist",
@@ -370,6 +381,54 @@
       },
       "date": "2021-04-06T03:04:00.000Z",
       "description": "After Chelsea conceded more goals at the weekend than the team did in the first 14 games under Thomas Tuchel, columnist and Chelsea legend Pat Nevin puts that single result into perspective while looking ahead to a ‘tough’ European encounter this week…"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210406women-s-champions-league-semi-fi",
+      "type": "NewsCard",
+      "timestamp": "2021-04-06T16:00:00.000Z",
+      "orderDate": "2021-04-06T02:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/06/women-s-champions-league-semi-final-dates-and-venues-confirmed",
+        "type": "NewsCard",
+        "title": "Women's Champions League semi-final dates and venues confirmed",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/women-s-champions-league-semi-final-dates-and-venues-confirmed.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-06T16:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/06/women-s-champions-league-semi-final-dates-and-venues-confirmed",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Womens_Champions_League_stock",
+          "gravity": "center",
+          "aspectRatio": 1.5026296,
+          "cropMode": "lfill"
+        }
+      },
+      "content": "Women's Champions League semi-final dates and venues confirmed",
+      "publishDate": "2021-04-06T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/women-s-champions-league-semi-final-dates-and-venues-confirmed.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Uefa Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_uefa-women-s-champions-league"
+        }
+      ],
+      "date": "2021-04-06T16:00:00.000Z",
+      "description": "The details have been confirmed for Chelsea FC Women’s semi-final tie against FC Bayern Munich."
     },
     {
       "contentType": "Competitions",
@@ -521,59 +580,6 @@
       "date": "2021-04-06T08:44:00.000Z",
       "description": "Sam Kerr highlighted the quality throughout the Blues squad as a key factor in Chelsea FC Women’s 6-0 victory against Birmingham City.",
       "matchId": 2138478
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210406hayes-and-kirby-nominated-for-ma",
-      "type": "NewsCard",
-      "timestamp": "2021-04-06T09:44:00.000Z",
-      "orderDate": "2021-04-05T23:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/06/hayes-and-kirby-nominated-for-manager-and-player-of-the-month-aw",
-        "type": "NewsCard",
-        "title": "Hayes and Kirby nominated for Manager and Player of the Month Awards",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/hayes-and-kirby-nominated-for-manager-and-player-of-the-month-aw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-06T09:44:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/06/hayes-and-kirby-nominated-for-manager-and-player-of-the-month-aw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Kirby_Everton",
-          "gravity": "auto",
-          "aspectRatio": 1.5002342,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes and Kirby nominated for Manager and Player of the Month Awards",
-      "publishDate": "2021-04-06T09:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/hayes-and-kirby-nominated-for-manager-and-player-of-the-month-aw.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-04-06T09:44:00.000Z",
-      "description": "Emma Hayes and Blues forward Fran Kirby have been nominated for March’s Barclay’s FA Women’s Super League Manager and Player of the Month awards and fans can vote for them to win."
     }
   ]
 }
