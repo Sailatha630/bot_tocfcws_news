@@ -1,12 +1,85 @@
 {
   "pagination": {
-    "totalItems": 869,
+    "totalItems": 870,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 87,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210406training-gallery--preparations-f",
+      "type": "NewsCard",
+      "timestamp": "2021-04-06T16:14:00.000Z",
+      "orderDate": "2021-04-06T14:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/06/training-gallery--preparations-for-porto",
+        "type": "NewsCard",
+        "title": "Gallery: Preparing for Porto with everyone available",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/training-gallery--preparations-for-porto.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-06T16:14:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/06/training-gallery--preparations-for-porto",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Cover-DAZ_2140",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Preparing for Porto with everyone available",
+      "publishDate": "2021-04-06T16:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/training-gallery--preparations-for-porto.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Kepa Arrizabalaga ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kepa-arrizabalaga"
+        },
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        }
+      ],
+      "date": "2021-04-06T16:14:00.000Z",
+      "description": "The hard work continued for Chelsea today, with the focus turning to our Champions League quarter-final fixture against Porto on Wednesday night."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210406tuchel-champions-league-press-co",
@@ -501,55 +574,6 @@
       ],
       "date": "2021-04-06T09:44:00.000Z",
       "description": "Emma Hayes and Blues forward Fran Kirby have been nominated for March’s Barclay’s FA Women’s Super League Manager and Player of the Month awards and fans can vote for them to win."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210406pl2-preview--chelsea-vs-west-ham",
-      "type": "NewsCard",
-      "timestamp": "2021-04-06T06:18:00.000Z",
-      "orderDate": "2021-04-05T23:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/06/pl2-preview--chelsea-vs-west-ham--kick-off-time-and-how-to-watch",
-        "type": "NewsCard",
-        "title": "PL2 Preview: Chelsea vs West Ham, kick-off time and how to watch live",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/pl2-preview--chelsea-vs-west-ham--kick-off-time-and-how-to-watch.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-06T06:18:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/06/pl2-preview--chelsea-vs-west-ham--kick-off-time-and-how-to-watch",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Matchday preview",
-          "id": "editorial/news/2021/04/03/cfcdev-matchday-preview-vs-west-ham",
-          "gravity": "north_east",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 Preview: Chelsea vs West Ham, kick-off time and how to watch live",
-      "publishDate": "2021-04-06T06:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/pl2-preview--chelsea-vs-west-ham--kick-off-time-and-how-to-watch.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-04-06T06:18:00.000Z",
-      "description": "Our development squad are at West Ham’s Rush Green stadium in Premier League 2 action this evening. You can watch the game live on the 5th Stand app and on the website."
     }
   ]
 }
