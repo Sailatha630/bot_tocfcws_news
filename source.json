@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 881,
+    "totalItems": 882,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 89,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210407tuchel-reacts-to-porto-win",
+      "type": "NewsCard",
+      "timestamp": "2021-04-07T22:06:00.000Z",
+      "orderDate": "2021-04-07T22:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/07/tuchel-reacts-to-porto-win",
+        "type": "NewsCard",
+        "title": "Tuchel assesses an ‘excellent result’, reports on the dressing room mood and praises his maiden European goalscorers",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/07/tuchel-reacts-to-porto-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-07T22:06:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/07/tuchel-reacts-to-porto-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/match-reports/2020-21/porto-away/Tuchel-Porto-a-1",
+          "gravity": "north",
+          "aspectRatio": 1.5234375,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel assesses an ‘excellent result’, reports on the dressing room mood and praises his maiden European goalscorers",
+      "publishDate": "2021-04-07T22:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/07/tuchel-reacts-to-porto-win.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-07T22:06:00.000Z",
+      "description": "Thomas Tuchel watched his Chelsea side establish a two-goal cushion in their Champions League quarter-final tie and reflected afterwards on what went right, while also pinpointing the areas that need to be even better…",
+      "matchId": 2197666
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210407match-report--porto-vs-chelsea",
@@ -478,60 +532,6 @@
       ],
       "date": "2021-04-06T22:27:00.000Z",
       "description": "With a last-eight tie in the Champions League beginning on Wednesday, we have collected together the big numbers ahead of another meeting between the Blues and the Portuguese club...",
-      "matchId": 2197666
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210406tuchel-champions-league-press-co",
-      "type": "NewsCard",
-      "timestamp": "2021-04-06T12:22:00.000Z",
-      "orderDate": "2021-04-06T17:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news",
-        "type": "NewsCard",
-        "title": "Tuchel confirms trio fit and in the squad for Porto; midfielder to start on bench",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-06T12:22:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Press conference graphic",
-          "id": "editorial/news/2021/04/06/Tuchel-press-conference-live-stream-060421",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel confirms trio fit and in the squad for Porto; midfielder to start on bench",
-      "publishDate": "2021-04-06T12:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/tuchel-champions-league-press-conference-and-team-news.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-06T12:22:00.000Z",
-      "description": "There was good news for Thomas Tuchel to report on the injury front as he confirmed at his pre-Porto press conference that three players with some doubts over their fitness would be available for the Champions League quarter-final…",
       "matchId": 2197666
     }
   ]
