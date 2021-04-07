@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 877,
+    "totalItems": 878,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 88,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210407thiago-silva-on-dreaming-big-in-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-07T13:50:00.000Z",
+      "orderDate": "2021-04-07T13:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/07/thiago-silva-on-dreaming-big-in-europe-and-how-he-s-thriving-in-",
+        "type": "NewsCard",
+        "title": "Thiago Silva on dreaming big in Europe and how he’s thriving in the twilight of his career",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/07/thiago-silva-on-dreaming-big-in-europe-and-how-he-s-thriving-in-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-07T13:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/07/thiago-silva-on-dreaming-big-in-europe-and-how-he-s-thriving-in-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva",
+          "id": "editorial/news/2021/04/06/Thiago-Silva-stock",
+          "gravity": "north",
+          "aspectRatio": 1.6099453,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thiago Silva on dreaming big in Europe and how he’s thriving in the twilight of his career",
+      "publishDate": "2021-04-07T13:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/07/thiago-silva-on-dreaming-big-in-europe-and-how-he-s-thriving-in-.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-07T13:50:00.000Z",
+      "description": "Thiago Silva may be a veteran of the European game after 12 years playing at the highest level in Italy, France and now England, but the defender’s hunger and desire burn brighter than ever before...",
+      "matchId": 2197666
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210407tuchel--we-won-t-be-underestimat",
@@ -515,64 +569,6 @@
       "date": "2021-04-06T12:19:00.000Z",
       "description": "A squad of 23 Chelsea players will depart for Seville later this afternoon, ahead of tomorrow’s Champions League quarter-final first leg with Porto.",
       "matchId": 2197666
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210406tuchel-reveals-whether-kepa-and-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-06T13:38:00.000Z",
-      "orderDate": "2021-04-06T11:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/06/tuchel-reveals-whether-kepa-and-rudiger-receive-punishment-for-t",
-        "type": "NewsCard",
-        "title": "Tuchel reveals whether Kepa and Rudiger received punishment for training incident",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/tuchel-reveals-whether-kepa-and-rudiger-receive-punishment-for-t.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-06T13:38:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/06/tuchel-reveals-whether-kepa-and-rudiger-receive-punishment-for-t",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kepa and Rudiger",
-          "id": "editorial/news/2021/04/06/kepa_rudiger_training_press_conference_logo",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reveals whether Kepa and Rudiger received punishment for training incident",
-      "publishDate": "2021-04-06T13:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/06/tuchel-reveals-whether-kepa-and-rudiger-receive-punishment-for-t.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Kepa Arrizabalaga ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kepa-arrizabalaga"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2021-04-06T13:38:00.000Z",
-      "description": "Thomas Tuchel has spoken for the first time since reports of a training ground confrontation between Toni Rudiger and Kepa Arrizabalaga appeared in the media."
     }
   ]
 }
