@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 889,
+    "totalItems": 890,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 89,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210408the-debrief--patient--clinical-a",
+      "type": "NewsCard",
+      "timestamp": "2021-04-08T11:38:00.000Z",
+      "orderDate": "2021-04-08T11:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/08/the-debrief--patient--clinical-and-steely-blues-make-big-moments",
+        "type": "NewsCard",
+        "title": "The Debrief: Patient, clinical and steely Blues make big moments count",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/08/the-debrief--patient--clinical-and-steely-blues-make-big-moments.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-08T11:38:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/08/the-debrief--patient--clinical-and-steely-blues-make-big-moments",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Debrief",
+          "id": "editorial/news/2021/04/08/Debrief_Porto_A",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Patient, clinical and steely Blues make big moments count",
+      "publishDate": "2021-04-08T11:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/08/the-debrief--patient--clinical-and-steely-blues-make-big-moments.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "FC Porto",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fc-porto"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-08T11:38:00.000Z",
+      "description": "We delve into the statistics to reveal how Chelsea came out on top in the key moments to secure a valuable two-goal lead over Porto in the away leg of our Champions League quarter-final.",
+      "matchId": 2197666
+    },
     {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210408giles-smith--why-ben-chilwell-co",
@@ -516,60 +570,6 @@
       ],
       "date": "2021-04-07T20:50:00.000Z",
       "description": "Maiden European goals from Mason Mount and Ben Chilwell helped Chelsea establish a crucial advantage in the Champions League quarter-finals.",
-      "matchId": 2197666
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210407chelsea-line-up-vs-porto",
-      "type": "NewsCard",
-      "timestamp": "2021-04-07T18:00:00.000Z",
-      "orderDate": "2021-04-07T18:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/07/chelsea-line-up-vs-porto",
-        "type": "NewsCard",
-        "title": "Chelsea line-up vs Porto",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/07/chelsea-line-up-vs-porto.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-07T18:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/07/chelsea-line-up-vs-porto",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Azpilicueta dressing room shirt",
-          "id": "editorial/match-reports/2020-21/porto-away/azpilicueta-dressing-room-shirt-porto-a",
-          "gravity": "auto",
-          "aspectRatio": 1.2012012,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line-up vs Porto",
-      "publishDate": "2021-04-07T18:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/07/chelsea-line-up-vs-porto.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-07T18:00:00.000Z",
-      "description": "There are five changes for the Blues, including the return of Andreas Christensen, Kai Havertz and Mason Mount…",
       "matchId": 2197666
     }
   ]
