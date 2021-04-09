@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 892,
+    "totalItems": 893,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 90,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210409pre-match-briefing--crystal-pala",
+      "type": "NewsCard",
+      "timestamp": "2021-04-09T01:05:00.000Z",
+      "orderDate": "2021-04-09T01:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/09/pre-match-briefing--crystal-palace-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Crystal Palace vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/09/pre-match-briefing--crystal-palace-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-09T01:05:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/09/pre-match-briefing--crystal-palace-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Selhurst Park",
+          "id": "editorial/news/2021/04/08/selhurst_park_view_BCD",
+          "gravity": "auto",
+          "aspectRatio": 1.5363253,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Crystal Palace vs Chelsea",
+      "publishDate": "2021-04-09T01:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/09/pre-match-briefing--crystal-palace-vs-chelsea.html",
+      "readTimeInMins": 65,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-09T01:05:00.000Z",
+      "description": "After a 1000-mile flight to Seville midweek, the Blues travel to a stadium a mere 10 miles from Stamford Bridge for Saturday’s game. Club historian Rick Glanvill and club statistician Paul Dutton refocus on the domestic league campaign…",
+      "matchId": 2128588
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210408mount-reflects-on-a-big-champion",
@@ -485,60 +539,6 @@
       ],
       "date": "2021-04-08T09:26:00.000Z",
       "description": "Our youngsters will take on Everton in the next round of the FA Youth Cup, with the tie set to take place on Thurday 15 April."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210407tuchel-reacts-to-porto-win",
-      "type": "NewsCard",
-      "timestamp": "2021-04-07T22:06:00.000Z",
-      "orderDate": "2021-04-07T22:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/07/tuchel-reacts-to-porto-win",
-        "type": "NewsCard",
-        "title": "Tuchel assesses an ‘excellent result’, reports on the dressing room mood and praises his maiden European goalscorers",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/07/tuchel-reacts-to-porto-win.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-07T22:06:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/07/tuchel-reacts-to-porto-win",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/match-reports/2020-21/porto-away/Tuchel-Porto-a-1",
-          "gravity": "north",
-          "aspectRatio": 1.5234375,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel assesses an ‘excellent result’, reports on the dressing room mood and praises his maiden European goalscorers",
-      "publishDate": "2021-04-07T22:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/07/tuchel-reacts-to-porto-win.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-07T22:06:00.000Z",
-      "description": "Thomas Tuchel watched his Chelsea side establish a two-goal cushion in their Champions League quarter-final tie and reflected afterwards on what went right, while also pinpointing the areas that need to be even better…",
-      "matchId": 2197666
     }
   ]
 }
