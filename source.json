@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 908,
+    "totalItems": 909,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 91,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210410thomas-tuchel-reacts-to-big-vict",
+      "type": "NewsCard",
+      "timestamp": "2021-04-10T19:30:00.000Z",
+      "orderDate": "2021-04-10T20:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/10/thomas-tuchel-reacts-to-big-victory-over-crystal-palace",
+        "type": "NewsCard",
+        "title": "Tuchel pinpoints key to big Chelsea victory, rates Havertz’s performance and defines our DNA",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/10/thomas-tuchel-reacts-to-big-victory-over-crystal-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-10T19:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/10/thomas-tuchel-reacts-to-big-victory-over-crystal-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/match-reports/2020-21/crystal-palace-away/tuchel-azpilicueta",
+          "gravity": "auto",
+          "aspectRatio": 1.4632645,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel pinpoints key to big Chelsea victory, rates Havertz’s performance and defines our DNA",
+      "publishDate": "2021-04-10T19:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/10/thomas-tuchel-reacts-to-big-victory-over-crystal-palace.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-10T19:30:00.000Z",
+      "description": "Thomas Tuchel did not wish to say if today’s 4-1 victory at Crystal Palace was the best performance he has seen his Blues side deliver, but what he could comment on were the reasons for our emphatic success at Selhurst Park.",
+      "matchId": 2128588
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210410match-report--crystal-palace-vs-",
@@ -484,43 +538,6 @@
       "date": "2021-04-09T12:10:00.000Z",
       "description": "Thomas Tuchel’s attention switches from southern Spain to south London this weekend, and in his press conference to preview our trip to Crystal Palace, the boss explained how his team must approach this game and then the busy weeks that lie ahead.",
       "matchId": 2128588
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20210409stamford-bridge-megastore-and-he",
-      "type": "NewsCard",
-      "timestamp": "2021-04-09T18:32:00.000Z",
-      "orderDate": "2021-04-09T15:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/09/stamford-bridge-megastore-and-health-club-to-reopen-monday--upda",
-        "type": "NewsCard",
-        "title": "Stamford Bridge Megastore and Health Club to reopen Monday; update on other venues",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/09/stamford-bridge-megastore-and-health-club-to-reopen-monday--upda.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-09T18:32:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/09/stamford-bridge-megastore-and-health-club-to-reopen-monday--upda",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge",
-          "id": "editorial/news/2020/07/stamford-bridge-drone-7",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Stamford Bridge Megastore and Health Club to reopen Monday; update on other venues",
-      "publishDate": "2021-04-09T18:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/09/stamford-bridge-megastore-and-health-club-to-reopen-monday--upda.html",
-      "readTimeInMins": 8,
-      "tags": [],
-      "date": "2021-04-09T18:32:00.000Z",
-      "description": "In accordance with the UK Government’s easing of restrictions combating the spread of Covid-19, we are pleased to announce that from Monday 12 April, we are able to welcome visitors back to parts of our business, including the Stadium Megastore and Health Club and Spa, plus outdoor dining at the Copthorne Hotel, and we have information on further reopening in May."
     }
   ]
 }
