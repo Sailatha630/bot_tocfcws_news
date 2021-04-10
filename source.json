@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 907,
+    "totalItems": 908,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 91,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210410match-report--crystal-palace-vs-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-10T18:00:00.000Z",
+      "orderDate": "2021-04-10T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/10/match-report--crystal-palace-vs-chelsea-",
+        "type": "NewsCard",
+        "title": "Match Report: Crystal Palace 1 Chelsea 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/10/match-report--crystal-palace-vs-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-10T18:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/10/match-report--crystal-palace-vs-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kai Havertz celebrating",
+          "id": "editorial/match-reports/2020-21/crystal-palace-away/Havertz-goal-celebration-Palace-a-1",
+          "gravity": "auto",
+          "aspectRatio": 1.4413298,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Crystal Palace 1 Chelsea 4",
+      "publishDate": "2021-04-10T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/10/match-report--crystal-palace-vs-chelsea-.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-10T18:00:00.000Z",
+      "description": "Chelsea moved back up to fourth in the Premier League table with our best attacking display under Thomas Tuchel.",
+      "matchId": 2128588
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210410chelsea-line-up-vs-crystal-palac",
@@ -467,65 +521,6 @@
       "tags": [],
       "date": "2021-04-09T18:32:00.000Z",
       "description": "In accordance with the UK Government’s easing of restrictions combating the spread of Covid-19, we are pleased to announce that from Monday 12 April, we are able to welcome visitors back to parts of our business, including the Stadium Megastore and Health Club and Spa, plus outdoor dining at the Copthorne Hotel, and we have information on further reopening in May."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210409tuchel-on-abraham-s-battle-for-m",
-      "type": "NewsCard",
-      "timestamp": "2021-04-09T12:48:00.000Z",
-      "orderDate": "2021-04-09T12:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/09/tuchel-on-abraham-s-battle-for-minutes--pulisic-getting-stronger",
-        "type": "NewsCard",
-        "title": "Tuchel on Abraham’s battle for minutes, Pulisic getting stronger and how loan players will get their chance",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/09/tuchel-on-abraham-s-battle-for-minutes--pulisic-getting-stronger.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-09T12:48:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/09/tuchel-on-abraham-s-battle-for-minutes--pulisic-getting-stronger",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pulisic Abraham",
-          "id": "editorial/news/2021/04/09/pulisic_press_conference_logo",
-          "gravity": "center",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on Abraham’s battle for minutes, Pulisic getting stronger and how loan players will get their chance",
-      "publishDate": "2021-04-09T12:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/09/tuchel-on-abraham-s-battle-for-minutes--pulisic-getting-stronger.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        }
-      ],
-      "date": "2021-04-09T12:48:00.000Z",
-      "description": "In the build-up to tomorrow's Premier League trip to Crystal Palace, Thomas Tuchel has been discussing the form and fitness of two players, as well as his plans to use those out on loan next season...",
-      "matchId": 2128588
     }
   ]
 }
