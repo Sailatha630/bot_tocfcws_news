@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 910,
+    "totalItems": 911,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 91,
+    "pageCount": 92,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210411havertz-must-prove-he-s-in-form-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-11T04:33:00.000Z",
+      "orderDate": "2021-04-11T04:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/11/havertz-must-prove-he-s-in-form-in-more-games",
+        "type": "NewsCard",
+        "title": "Havertz must prove he’s in form in more games",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/11/havertz-must-prove-he-s-in-form-in-more-games.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-11T04:33:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/11/havertz-must-prove-he-s-in-form-in-more-games",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kai Havertz",
+          "id": "editorial/match-reports/2020-21/crystal-palace-away/havertz_palace_away",
+          "gravity": "face",
+          "aspectRatio": 0.6624714,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz must prove he’s in form in more games",
+      "publishDate": "2021-04-11T04:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/11/havertz-must-prove-he-s-in-form-in-more-games.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        }
+      ],
+      "date": "2021-04-11T04:33:00.000Z",
+      "description": "It was a strong start to Saturday’s game by both Kai Havertz and the Chelsea team in general as Crystal Palace were swept aside at Selhurst Park. The 21-year-old spoke about that and his position in the side after the game.",
+      "matchId": 2128588
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210410thomas-tuchel-reacts-to-big-vict",
@@ -495,49 +554,6 @@
       ],
       "date": "2021-04-10T05:50:00.000Z",
       "description": "It is London derby day as the Blues from the west take on the Eagles from the south. We continue our build-up with key facts and figures..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210410extra-time-with-jess-carter",
-      "type": "NewsCard",
-      "timestamp": "2021-04-10T07:41:00.000Z",
-      "orderDate": "2021-04-09T23:04:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/10/extra-time-with-jess-carter",
-        "type": "NewsCard",
-        "title": "Extra Time With…Jess Carter",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/10/extra-time-with-jess-carter.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-10T07:41:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/10/extra-time-with-jess-carter",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Extra_Time_Carter_Jess",
-          "gravity": "auto",
-          "aspectRatio": 1.5020732,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Extra Time With…Jess Carter",
-      "publishDate": "2021-04-10T07:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/10/extra-time-with-jess-carter.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Jess Carter",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_jess-carter"
-        }
-      ],
-      "date": "2021-04-10T07:41:00.000Z",
-      "description": "With the international break in full swing, Jess Carter talks about her interests away from the pitch in a special edition of our player interview series Extra Time With…"
     }
   ]
 }
