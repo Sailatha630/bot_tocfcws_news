@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 911,
+    "totalItems": 912,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 92,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210411the-debrief--how-fluid-front-thr",
+      "type": "NewsCard",
+      "timestamp": "2021-04-11T11:50:00.000Z",
+      "orderDate": "2021-04-11T11:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/11/the-debrief--how-fluid-front-three-ran-rings-round-palace",
+        "type": "NewsCard",
+        "title": "The Debrief: How fluid front three ran rings round Palace",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/11/the-debrief--how-fluid-front-three-ran-rings-round-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-11T11:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/11/the-debrief--how-fluid-front-three-ran-rings-round-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Debrief",
+          "id": "editorial/news/2021/04/11/Debrief_Palace_A_wide",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: How fluid front three ran rings round Palace",
+      "publishDate": "2021-04-11T11:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/11/the-debrief--how-fluid-front-three-ran-rings-round-palace.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-11T11:50:00.000Z",
+      "description": "We take a look at the facts and figures behind yesterday’s fine win over Crystal Palace and how we had the Eagles chasing shadows.",
+      "matchId": 2128588
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210411havertz-must-prove-he-s-in-form-",
@@ -501,59 +555,6 @@
       ],
       "date": "2021-04-10T05:52:00.000Z",
       "description": "Mason Mount has shone for club and country this season but the plaudits he has received of late are not going to his head according to Thomas Tuchel."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210410crystal-palace-vs-chelsea---the-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-10T05:50:00.000Z",
-      "orderDate": "2021-04-10T01:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/10/crystal-palace-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "Crystal Palace vs Chelsea - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/10/crystal-palace-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-10T05:50:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/04/10/crystal-palace-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Christian Pulisic at Crystal Palace",
-          "id": "editorial/match-reports/2019-20/palace-away/palace_away_pulisic_celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.4505717,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Crystal Palace vs Chelsea - the stats",
-      "publishDate": "2021-04-10T05:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/10/crystal-palace-vs-chelsea---the-stats.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-10T05:50:00.000Z",
-      "description": "It is London derby day as the Blues from the west take on the Eagles from the south. We continue our build-up with key facts and figures..."
     }
   ]
 }
