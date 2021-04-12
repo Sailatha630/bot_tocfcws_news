@@ -1,66 +1,12 @@
 {
   "pagination": {
-    "totalItems": 930,
+    "totalItems": 931,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 93,
+    "pageCount": 94,
     "startFrom": 0
   },
   "newsFeed": [
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210412pl2-report--chelsea-southampton",
-      "type": "NewsCard",
-      "timestamp": "2021-04-12T19:59:00.000Z",
-      "orderDate": "2021-04-12T19:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/12/pl2-report--chelsea-southampton",
-        "type": "NewsCard",
-        "title": "PL2 Report: Chelsea 3 Southampton 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/pl2-report--chelsea-southampton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-12T19:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/12/pl2-report--chelsea-southampton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Silko Thomas",
-          "id": "editorial/news/2021/04/12/Silko-Thomas-cfcdev-goal-celebration-vs-southampton",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 Report: Chelsea 3 Southampton 1",
-      "publishDate": "2021-04-12T19:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/pl2-report--chelsea-southampton.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-04-12T19:59:00.000Z",
-      "description": "Tino Anjorin, Silko Thomas and Xavier Mbuyamba were on the scoresheet as our development squad moved to six games without defeat at Kingsmeadow tonight."
-    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210412tuchel-squad-news-for-chelsea-vs",
@@ -180,6 +126,59 @@
       "matchId": 2197673
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210413football-is-for-everyone",
+      "type": "NewsCard",
+      "timestamp": "2021-04-12T23:56:00.000Z",
+      "orderDate": "2021-04-12T14:22:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/13/football-is-for-everyone",
+        "type": "NewsCard",
+        "title": "Football is for everyone",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/football-is-for-everyone.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-12T23:56:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/13/football-is-for-everyone",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea FC Foundation - Pan-disability football programme",
+          "videoId": "WZIT6BEh",
+          "bucket": "prod-cfc",
+          "description": "Through the foundation we are delighted to offer pan-disability football sessions that give people of all ages and abilities the opportunity to continue playing football. ",
+          "duration": 587000,
+          "date": "2021-03-15T11:52:42.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/WZIT6BEh/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/football-is-for-everyone.page.v3.json",
+          "contentType": "Chelsea Foundation",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/04/13/football-is-for-everyone?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/04/13/football-is-for-everyone",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Through the foundation we are delighted to offer pan-disability football sessions that give people of all ages and abilities the opportunity to continue playing football. "
+      },
+      "content": "Football is for everyone",
+      "publishDate": "2021-04-12T23:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/football-is-for-everyone.html",
+      "readTimeInMins": 5,
+      "tags": [],
+      "date": "2021-04-12T23:56:00.000Z",
+      "description": "Harvey Greenway was told by doctors that he may never walk or talk again, but with true grit, determination and a real fighting spirit, the 19-year-old is defying the odds and flourishing in the Chelsea Foundation Pan-Disability programme."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210412ben-chilwell-previews-porto-seco",
       "type": "NewsCard",
@@ -242,6 +241,60 @@
       "date": "2021-04-12T15:16:00.000Z",
       "description": "Ben Chilwell was the Chelsea player chosen to answer the media’s questions ahead of our Champions League quarter-final second leg against Porto, and the man who made such a decisive impact last week spoke about the state of the tie, his personal development in recent months and the quality of his good friend and team-mate Mason Mount.",
       "matchId": 2197673
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210412pl2-report--chelsea-southampton",
+      "type": "NewsCard",
+      "timestamp": "2021-04-12T19:59:00.000Z",
+      "orderDate": "2021-04-12T12:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/12/pl2-report--chelsea-southampton",
+        "type": "NewsCard",
+        "title": "PL2 Report: Chelsea 3 Southampton 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/pl2-report--chelsea-southampton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-12T19:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/12/pl2-report--chelsea-southampton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Silko Thomas",
+          "id": "editorial/news/2021/04/12/Silko-Thomas-cfcdev-goal-celebration-vs-southampton",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 Report: Chelsea 3 Southampton 1",
+      "publishDate": "2021-04-12T19:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/pl2-report--chelsea-southampton.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-04-12T19:59:00.000Z",
+      "description": "Tino Anjorin, Silko Thomas and Xavier Mbuyamba were on the scoresheet as our development squad moved to six games without defeat at Kingsmeadow tonight."
     },
     {
       "contentType": "News",
@@ -511,70 +564,6 @@
       ],
       "date": "2021-04-12T02:54:00.000Z",
       "description": "Christian Pulisic has discussed working to manage his fitness, getting used to a new system and clicking with his team-mates on the pitch.",
-      "matchId": 2128588
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210412how-tuchel-inspired-havertz-to-s",
-      "type": "NewsCard",
-      "timestamp": "2021-04-12T02:21:00.000Z",
-      "orderDate": "2021-04-12T02:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/12/how-tuchel-inspired-havertz-to-shine",
-        "type": "NewsCard",
-        "title": "How Tuchel inspired Havertz to shine",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/how-tuchel-inspired-havertz-to-shine.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-12T02:21:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/12/how-tuchel-inspired-havertz-to-shine",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel and Havertz",
-          "id": "editorial/news/2021/04/11/Tuchel_Havertz_GettyImages-1231648650",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "How Tuchel inspired Havertz to shine",
-      "publishDate": "2021-04-12T02:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/how-tuchel-inspired-havertz-to-shine.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        }
-      ],
-      "date": "2021-04-12T02:21:00.000Z",
-      "description": "Thomas Tuchel has revealed what he said to Kai Havertz before his brilliant display against Crystal Palace and insisted every player in his squad needs to perform at their best consistently to stay in the team.",
       "matchId": 2128588
     }
   ]
