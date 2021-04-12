@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 922,
+    "totalItems": 923,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 93,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210412mount-discusses-the-potential-of",
+      "type": "NewsCard",
+      "timestamp": "2021-04-12T11:30:00.000Z",
+      "orderDate": "2021-04-12T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/12/mount-discusses-the-potential-of-this-chelsea-attack",
+        "type": "NewsCard",
+        "title": "Mount discusses the potential of this Chelsea attack",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/mount-discusses-the-potential-of-this-chelsea-attack.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-12T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/12/mount-discusses-the-potential-of-this-chelsea-attack",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mason Mount",
+          "id": "editorial/news/2021/04/12/mount-stock-away-kit-jacket",
+          "gravity": "auto",
+          "aspectRatio": 1.4998566,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount discusses the potential of this Chelsea attack",
+      "publishDate": "2021-04-12T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/mount-discusses-the-potential-of-this-chelsea-attack.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-04-12T11:30:00.000Z",
+      "description": "Mason Mount believes the team’s attacking players will take great confidence from the incisive forward play and clinical finishing on display against Crystal Palace.",
+      "matchId": 2128588
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210412pulisic-on-good-connections-and-",
@@ -495,60 +549,6 @@
       ],
       "date": "2021-04-11T16:02:00.000Z",
       "description": "Christian Pulisic on why getting back on form with back-to-back wins over Porto and Crystal Palace was such an important step.",
-      "matchId": 2128588
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210411the-debrief--how-fluid-front-thr",
-      "type": "NewsCard",
-      "timestamp": "2021-04-11T11:50:00.000Z",
-      "orderDate": "2021-04-11T11:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/11/the-debrief--how-fluid-front-three-ran-rings-round-palace",
-        "type": "NewsCard",
-        "title": "The Debrief: How fluid front three ran rings round Palace",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/11/the-debrief--how-fluid-front-three-ran-rings-round-palace.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-11T11:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/11/the-debrief--how-fluid-front-three-ran-rings-round-palace",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Debrief",
-          "id": "editorial/news/2021/04/11/Debrief_Palace_A_wide",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: How fluid front three ran rings round Palace",
-      "publishDate": "2021-04-11T11:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/11/the-debrief--how-fluid-front-three-ran-rings-round-palace.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-11T11:50:00.000Z",
-      "description": "We take a look at the facts and figures behind yesterday’s fine win over Crystal Palace and how we had the Eagles chasing shadows.",
       "matchId": 2128588
     }
   ]
