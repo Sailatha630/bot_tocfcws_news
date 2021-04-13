@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 934,
+    "totalItems": 935,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 94,
@@ -157,6 +157,54 @@
       ],
       "date": "2021-04-13T03:00:00.000Z",
       "description": "Today is the anniversary of the first-ever Women’s Super League fixture, when Chelsea hosted Arsenal. Here is the story of a historic day for the Blues…"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210413media-watch--bridge-wants-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-04-13T09:33:00.000Z",
+      "orderDate": "2021-04-12T23:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/13/media-watch--bridge-wants-chelsea-to-sign-kane--hargreaves-prais",
+        "type": "NewsCard",
+        "title": "Media Watch: Bridge wants Chelsea to sign Kane, Hargreaves praises Pulisic and Mount impresses international team-mate",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/media-watch--bridge-wants-chelsea-to-sign-kane--hargreaves-prais.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-13T09:33:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/13/media-watch--bridge-wants-chelsea-to-sign-kane--hargreaves-prais",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Kane-mw",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Bridge wants Chelsea to sign Kane, Hargreaves praises Pulisic and Mount impresses international team-mate",
+      "publishDate": "2021-04-13T09:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/media-watch--bridge-wants-chelsea-to-sign-kane--hargreaves-prais.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-04-13T09:33:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, Wayne Bridge is keen for the Blues to sign Tottenham striker Harry Kane and Owen Hargreaves claims Christian Pulisic makes Thomas Tuchel’s side better."
     },
     {
       "contentType": "News",
@@ -500,55 +548,6 @@
       "date": "2021-04-12T12:52:00.000Z",
       "description": "Thomas Tuchel has named a 23-man squad to travel to Seville for our Champions League quarter-final second leg with Porto.",
       "matchId": 2197673
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210412update-on-chelsea-s-fa-cup-semi-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-12T16:00:00.000Z",
-      "orderDate": "2021-04-12T12:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/12/update-on-chelsea-s-fa-cup-semi-final-fixture",
-        "type": "NewsCard",
-        "title": "Update on Chelsea’s FA Cup semi-final fixture",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/update-on-chelsea-s-fa-cup-semi-final-fixture.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-12T16:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/12/update-on-chelsea-s-fa-cup-semi-final-fixture",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Wembley",
-          "id": "editorial/news/2021/04/12/wembley_fa_cup_banner",
-          "gravity": "auto",
-          "aspectRatio": 1.5300668,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Update on Chelsea’s FA Cup semi-final fixture",
-      "publishDate": "2021-04-12T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/update-on-chelsea-s-fa-cup-semi-final-fixture.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-12T16:00:00.000Z",
-      "description": "The Football Association has issued a statement confirming that the Emirates FA Cup semi-final between Chelsea and Manchester City at Wembley will go ahead as scheduled on Saturday…",
-      "matchId": 2198574
     }
   ]
 }
