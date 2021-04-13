@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 942,
+    "totalItems": 943,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 95,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210413thomas-tuchel-reacts-as-chelsea-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-13T22:22:00.000Z",
+      "orderDate": "2021-04-13T22:22:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/13/thomas-tuchel-reacts-as-chelsea-progress-past-porto",
+        "type": "NewsCard",
+        "title": "Tuchel proud of his young Chelsea team’s ‘secret’ hard work; provides Kovacic injury news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/thomas-tuchel-reacts-as-chelsea-progress-past-porto.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-13T22:22:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/13/thomas-tuchel-reacts-as-chelsea-progress-past-porto",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel post Porto",
+          "id": "editorial/match-reports/2020-21/porto-home/tuchel-porto-home-FT",
+          "gravity": "auto",
+          "aspectRatio": 1.4177694,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel proud of his young Chelsea team’s ‘secret’ hard work; provides Kovacic injury news",
+      "publishDate": "2021-04-13T22:22:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/thomas-tuchel-reacts-as-chelsea-progress-past-porto.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-13T22:22:00.000Z",
+      "description": "Many of his players may lack Champions League knockout experience but the professionalism, effort and game management on display from Chelsea against Porto tonight delighted Thomas Tuchel.",
+      "matchId": 2197673
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210413match-report--chelsea-vs-porto",
@@ -493,49 +547,6 @@
       ],
       "date": "2021-04-13T03:00:00.000Z",
       "description": "Today is the anniversary of the first-ever Women’s Super League fixture, when Chelsea hosted Arsenal. Here is the story of a historic day for the Blues…"
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210412quiz--ji-so-yun---test-your-know",
-      "type": "NewsCard",
-      "timestamp": "2021-04-13T11:30:00.000Z",
-      "orderDate": "2021-04-13T01:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/12/quiz--ji-so-yun---test-your-knowledge-of-the-chelsea-star",
-        "type": "NewsCard",
-        "title": "Quiz: Ji So-Yun – Test your knowledge of the Chelsea star",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/quiz--ji-so-yun---test-your-knowledge-of-the-chelsea-star.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-13T11:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/12/quiz--ji-so-yun---test-your-knowledge-of-the-chelsea-star",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Ji_So_Yun",
-          "gravity": "auto",
-          "aspectRatio": 1.4358606,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Ji So-Yun – Test your knowledge of the Chelsea star",
-      "publishDate": "2021-04-13T11:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/quiz--ji-so-yun---test-your-knowledge-of-the-chelsea-star.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-04-13T11:30:00.000Z",
-      "description": "Ji So-Yun made her Chelsea Women debut seven years ago today and we have a quiz for you to test your knowledge of our South Korean midfielder."
     }
   ]
 }
