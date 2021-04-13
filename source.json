@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 940,
+    "totalItems": 941,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 94,
+    "pageCount": 95,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210413chelsea-line-up-vs-porto",
+      "type": "NewsCard",
+      "timestamp": "2021-04-13T16:57:00.000Z",
+      "orderDate": "2021-04-13T16:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/13/chelsea-line-up-vs-porto",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Porto",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/chelsea-line-up-vs-porto.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-13T16:57:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/13/chelsea-line-up-vs-porto",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Dressing room",
+          "id": "chelsea-app/Giroud-shirt-DAZ_3715-2026226_2021041343957597",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Porto",
+      "publishDate": "2021-04-13T16:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/chelsea-line-up-vs-porto.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FC Porto",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fc-porto"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-13T16:57:00.000Z",
+      "description": "Thomas Tuchel has made three changes to the team which beat Crystal Palace at the weekend for his starting line-up to face Porto tonight.",
+      "matchId": 2197673
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210413tuchel-on-pursuing-the-same-appr",
@@ -472,54 +531,6 @@
       ],
       "date": "2021-04-13T10:20:00.000Z",
       "description": "Development squad assistant coach Jon Harley was well aware that patience would be a key factor in last night’s win over Southampton..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210413media-watch--bridge-wants-chelse",
-      "type": "NewsCard",
-      "timestamp": "2021-04-13T09:33:00.000Z",
-      "orderDate": "2021-04-12T23:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/13/media-watch--bridge-wants-chelsea-to-sign-kane--hargreaves-prais",
-        "type": "NewsCard",
-        "title": "Media Watch: Bridge wants Chelsea to sign Kane, Hargreaves praises Pulisic and Mount impresses international team-mate",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/media-watch--bridge-wants-chelsea-to-sign-kane--hargreaves-prais.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-13T09:33:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/13/media-watch--bridge-wants-chelsea-to-sign-kane--hargreaves-prais",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Kane-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Bridge wants Chelsea to sign Kane, Hargreaves praises Pulisic and Mount impresses international team-mate",
-      "publishDate": "2021-04-13T09:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/media-watch--bridge-wants-chelsea-to-sign-kane--hargreaves-prais.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-04-13T09:33:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Wayne Bridge is keen for the Blues to sign Tottenham striker Harry Kane and Owen Hargreaves claims Christian Pulisic makes Thomas Tuchel’s side better."
     }
   ]
 }
