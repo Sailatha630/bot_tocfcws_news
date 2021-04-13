@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 932,
+    "totalItems": 933,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 94,
@@ -55,6 +55,54 @@
       "date": "2021-04-13T03:00:00.000Z",
       "description": "A very historic home game awaits the Blues tonight in Spain. Club historian Rick Glanvill and club statistician Paul Dutton look not only at that significance but also at the task very much at hand…",
       "matchId": 2197673
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20210413whole-new-ball-game--how-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-04-13T03:00:00.000Z",
+      "orderDate": "2021-04-13T02:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/13/whole-new-ball-game--how-chelsea-women-kicked-off-wsl-era-10-yea",
+        "type": "NewsCard",
+        "title": "Whole new ball game: How Chelsea Women kicked off WSL era 10 years ago today",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/whole-new-ball-game--how-chelsea-women-kicked-off-wsl-era-10-yea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-13T03:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/13/whole-new-ball-game--how-chelsea-women-kicked-off-wsl-era-10-yea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chelsea Ladies vs Arsenal Ladies in 2011",
+          "id": "editorial/news/2021/04/12/first_WSL_game_2011_a",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Whole new ball game: How Chelsea Women kicked off WSL era 10 years ago today",
+      "publishDate": "2021-04-13T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/whole-new-ball-game--how-chelsea-women-kicked-off-wsl-era-10-yea.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2021-04-13T03:00:00.000Z",
+      "description": "Today is the anniversary of the first-ever Women’s Super League fixture, when Chelsea hosted Arsenal. Here is the story of a historic day for the Blues…"
     },
     {
       "contentType": "News",
@@ -501,60 +549,6 @@
       "date": "2021-04-12T11:51:00.000Z",
       "description": "Before the first leg of our Champions League quarter-final with Porto we asked you to identify the players who had represented both clubs. Ahead of the second match, it's time to see how well you know them.",
       "matchId": 2197673
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210412mount-discusses-the-potential-of",
-      "type": "NewsCard",
-      "timestamp": "2021-04-12T11:30:00.000Z",
-      "orderDate": "2021-04-12T11:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/12/mount-discusses-the-potential-of-this-chelsea-attack",
-        "type": "NewsCard",
-        "title": "Mount discusses the potential of this Chelsea attack",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/mount-discusses-the-potential-of-this-chelsea-attack.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-12T11:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/12/mount-discusses-the-potential-of-this-chelsea-attack",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mason Mount",
-          "id": "editorial/news/2021/04/12/mount-stock-away-kit-jacket",
-          "gravity": "auto",
-          "aspectRatio": 1.4998566,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount discusses the potential of this Chelsea attack",
-      "publishDate": "2021-04-12T11:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/mount-discusses-the-potential-of-this-chelsea-attack.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-04-12T11:30:00.000Z",
-      "description": "Mason Mount believes the team’s attacking players will take great confidence from the incisive forward play and clinical finishing on display against Crystal Palace.",
-      "matchId": 2128588
     }
   ]
 }
