@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 939,
+    "totalItems": 940,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 94,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210413tuchel-on-pursuing-the-same-appr",
+      "type": "NewsCard",
+      "timestamp": "2021-04-13T15:20:00.000Z",
+      "orderDate": "2021-04-13T15:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/13/tuchel-on-pursuing-the-same-approach-and-why-the-tie-isn-t-over-",
+        "type": "NewsCard",
+        "title": "Tuchel on pursuing the same approach and why the tie isn’t over yet",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/tuchel-on-pursuing-the-same-approach-and-why-the-tie-isn-t-over-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-13T15:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/13/tuchel-on-pursuing-the-same-approach-and-why-the-tie-isn-t-over-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/04/13/Tuchel-training-pre-Porto",
+          "gravity": "north",
+          "aspectRatio": 1.5991361,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on pursuing the same approach and why the tie isn’t over yet",
+      "publishDate": "2021-04-13T15:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/tuchel-on-pursuing-the-same-approach-and-why-the-tie-isn-t-over-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-13T15:20:00.000Z",
+      "description": "Thomas Tuchel will tell his Chelsea players to forget about their two-goal advantage in the tie as the Blues prepare for tonight’s Champions League quarter-final against Porto.",
+      "matchId": 2197673
+    },
     {
       "contentType": "History",
       "id": "_content_chelseafcennews20210413pressing-home-an-away-advantage-",
@@ -466,60 +520,6 @@
       ],
       "date": "2021-04-13T09:33:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Wayne Bridge is keen for the Blues to sign Tottenham striker Harry Kane and Owen Hargreaves claims Christian Pulisic makes Thomas Tuchel’s side better."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210412tuchel-squad-news-for-chelsea-vs",
-      "type": "NewsCard",
-      "timestamp": "2021-04-12T12:34:00.000Z",
-      "orderDate": "2021-04-12T15:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/12/tuchel-squad-news-for-chelsea-vs-porto-game",
-        "type": "NewsCard",
-        "title": "Tuchel to make late call on Kante",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/tuchel-squad-news-for-chelsea-vs-porto-game.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-12T12:34:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/12/tuchel-squad-news-for-chelsea-vs-porto-game",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "N'Golo Kante",
-          "id": "editorial/news/2021/04/12/press_conference_logo_kante",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel to make late call on Kante",
-      "publishDate": "2021-04-12T12:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/tuchel-squad-news-for-chelsea-vs-porto-game.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-12T12:34:00.000Z",
-      "description": "N’Golo Kante is part of the Chelsea squad that touched down in Spain on Monday afternoon ahead of the concluding game in our Champions League quarter-final tie with Porto, but whether the midfielder starts the game is in question.",
-      "matchId": 2197673
     }
   ]
 }
