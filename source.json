@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 935,
+    "totalItems": 936,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 94,
@@ -157,6 +157,55 @@
       ],
       "date": "2021-04-13T03:00:00.000Z",
       "description": "Today is the anniversary of the first-ever Women’s Super League fixture, when Chelsea hosted Arsenal. Here is the story of a historic day for the Blues…"
+    },
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210413pl2-reaction-and-highlights--sec",
+      "type": "NewsCard",
+      "timestamp": "2021-04-13T10:20:00.000Z",
+      "orderDate": "2021-04-13T00:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/13/pl2-reaction-and-highlights--second-half-rewards",
+        "type": "NewsCard",
+        "title": "PL2 reaction and highlights: Second-half rewards",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/pl2-reaction-and-highlights--second-half-rewards.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-13T10:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/13/pl2-reaction-and-highlights--second-half-rewards",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jon Harley",
+          "id": "editorial/news/2021/04/13/Ramsay-Harley-Myers-cfcdev",
+          "gravity": "auto",
+          "aspectRatio": 1.5002143,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 reaction and highlights: Second-half rewards",
+      "publishDate": "2021-04-13T10:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/pl2-reaction-and-highlights--second-half-rewards.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-04-13T10:20:00.000Z",
+      "description": "Development squad assistant coach Jon Harley was well aware that patience would be a key factor in last night’s win over Southampton..."
     },
     {
       "contentType": "News",
@@ -494,60 +543,6 @@
       ],
       "date": "2021-04-12T19:59:00.000Z",
       "description": "Tino Anjorin, Silko Thomas and Xavier Mbuyamba were on the scoresheet as our development squad moved to six games without defeat at Kingsmeadow tonight."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210412chelsea-s-champions-league-squad",
-      "type": "NewsCard",
-      "timestamp": "2021-04-12T12:52:00.000Z",
-      "orderDate": "2021-04-12T12:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/12/chelsea-s-champions-league-squad-confirmed-",
-        "type": "NewsCard",
-        "title": "Chelsea’s Champions League squad confirmed ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/chelsea-s-champions-league-squad-confirmed-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-12T12:52:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/12/chelsea-s-champions-league-squad-confirmed-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Eyw9CVpXAAAlqYE-Chilwell-",
-          "gravity": "auto",
-          "aspectRatio": 1.5014663,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea’s Champions League squad confirmed ",
-      "publishDate": "2021-04-12T12:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/chelsea-s-champions-league-squad-confirmed-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        }
-      ],
-      "date": "2021-04-12T12:52:00.000Z",
-      "description": "Thomas Tuchel has named a 23-man squad to travel to Seville for our Champions League quarter-final second leg with Porto.",
-      "matchId": 2197673
     }
   ]
 }
