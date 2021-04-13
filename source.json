@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 931,
+    "totalItems": 932,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 94,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210413pre-match-briefing--chelsea-vs-p",
+      "type": "NewsCard",
+      "timestamp": "2021-04-13T03:00:00.000Z",
+      "orderDate": "2021-04-13T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/13/pre-match-briefing--chelsea-vs-porto",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Porto",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/pre-match-briefing--chelsea-vs-porto.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-13T03:00:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/04/13/pre-match-briefing--chelsea-vs-porto",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Sevilla stadium",
+          "id": "editorial/news/2021/04/12/sevilla_stadium_outside_2",
+          "gravity": "auto",
+          "aspectRatio": 1.6440609,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Porto",
+      "publishDate": "2021-04-13T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/pre-match-briefing--chelsea-vs-porto.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-13T03:00:00.000Z",
+      "description": "A very historic home game awaits the Blues tonight in Spain. Club historian Rick Glanvill and club statistician Paul Dutton look not only at that significance but also at the task very much at hand…",
+      "matchId": 2197673
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210412tuchel-squad-news-for-chelsea-vs",
@@ -505,65 +554,6 @@
       ],
       "date": "2021-04-12T11:30:00.000Z",
       "description": "Mason Mount believes the team’s attacking players will take great confidence from the incisive forward play and clinical finishing on display against Crystal Palace.",
-      "matchId": 2128588
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210412pulisic-on-good-connections-and-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-12T02:54:00.000Z",
-      "orderDate": "2021-04-12T02:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/12/pulisic-on-good-connections-and-feeling-strong",
-        "type": "NewsCard",
-        "title": "Pulisic on good connections and feeling strong",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/pulisic-on-good-connections-and-feeling-strong.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-12T02:54:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/12/pulisic-on-good-connections-and-feeling-strong",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pulisic and Havertz",
-          "id": "editorial/match-reports/2020-21/crystal-palace-away/Pulisic-Havertz-goal-celebration-Palace-a-2",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pulisic on good connections and feeling strong",
-      "publishDate": "2021-04-12T02:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/12/pulisic-on-good-connections-and-feeling-strong.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        }
-      ],
-      "date": "2021-04-12T02:54:00.000Z",
-      "description": "Christian Pulisic has discussed working to manage his fitness, getting used to a new system and clicking with his team-mates on the pitch.",
       "matchId": 2128588
     }
   ]
