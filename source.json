@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 945,
+    "totalItems": 946,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 95,
@@ -243,6 +243,42 @@
       "date": "2021-04-13T19:03:00.000Z",
       "description": "Chelsea booked our place in the Champions League semi-finals for the first time since 2014 with an assured and hugely professional performance, despite a 1-0 defeat to Porto on the night in Seville.",
       "matchId": 2197673
+    },
+    {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210414chelsea-foundation-programme-pro",
+      "type": "NewsCard",
+      "timestamp": "2021-04-15T07:58:00.000Z",
+      "orderDate": "2021-04-13T18:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/14/chelsea-foundation-programme-provides-students-the-opportunity-t",
+        "type": "NewsCard",
+        "title": "Chelsea Foundation programme provides students the opportunity to combine education and football",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/chelsea-foundation-programme-provides-students-the-opportunity-t.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-15T07:58:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/14/chelsea-foundation-programme-provides-students-the-opportunity-t",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/04/14/ChelseaFoundation_Foundation_College_Academies",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Foundation programme provides students the opportunity to combine education and football",
+      "publishDate": "2021-04-15T07:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/chelsea-foundation-programme-provides-students-the-opportunity-t.html",
+      "readTimeInMins": 5,
+      "tags": [],
+      "date": "2021-04-15T07:58:00.000Z",
+      "description": "It’s that time of the year, when many students are searching for their next step in education and with the Chelsea Foundation, there’s no need to look any further as we open applications for our College Academy programme which offers the opportunity to combine academic studies alongside football."
     },
     {
       "contentType": "News",
@@ -530,55 +566,6 @@
       ],
       "date": "2021-04-13T09:34:00.000Z",
       "description": "Our Champions League quarter-final reaches its conclusion tonight, and we continue our preview here with the key facts and figures...",
-      "matchId": 2197673
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210413pre-match-briefing--chelsea-vs-p",
-      "type": "NewsCard",
-      "timestamp": "2021-04-13T03:00:00.000Z",
-      "orderDate": "2021-04-13T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/13/pre-match-briefing--chelsea-vs-porto",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Porto",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/pre-match-briefing--chelsea-vs-porto.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-13T03:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/04/13/pre-match-briefing--chelsea-vs-porto",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Sevilla stadium",
-          "id": "editorial/news/2021/04/12/sevilla_stadium_outside_2",
-          "gravity": "auto",
-          "aspectRatio": 1.6440609,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Porto",
-      "publishDate": "2021-04-13T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/13/pre-match-briefing--chelsea-vs-porto.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-13T03:00:00.000Z",
-      "description": "A very historic home game awaits the Blues tonight in Spain. Club historian Rick Glanvill and club statistician Paul Dutton look not only at that significance but also at the task very much at hand…",
       "matchId": 2197673
     }
   ]
