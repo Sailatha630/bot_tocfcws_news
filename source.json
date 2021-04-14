@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 944,
+    "totalItems": 945,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 95,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210414fighting-spirit-pleases-azpi",
+      "type": "NewsCard",
+      "timestamp": "2021-04-14T04:45:00.000Z",
+      "orderDate": "2021-04-14T04:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/14/fighting-spirit-pleases-azpi",
+        "type": "NewsCard",
+        "title": "Fighting spirit pleases Azpi",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/fighting-spirit-pleases-azpi.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-14T04:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/14/fighting-spirit-pleases-azpi",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Azpilicueta",
+          "id": "editorial/match-reports/2020-21/porto-home/Azpilicueta_DTW_4504-2026563_2021041373120085",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Fighting spirit pleases Azpi",
+      "publishDate": "2021-04-14T04:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/fighting-spirit-pleases-azpi.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "FC Porto",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fc-porto"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-14T04:45:00.000Z",
+      "description": "Cesar Azpilicueta says the Blues knew they would have to fight to finish the job against Porto, but was delighted with the spirit the team showed in securing our place in the Champions League semi-finals.",
+      "matchId": 2197673
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210413thomas-tuchel-reacts-as-chelsea-",
@@ -521,54 +580,6 @@
       "date": "2021-04-13T03:00:00.000Z",
       "description": "A very historic home game awaits the Blues tonight in Spain. Club historian Rick Glanvill and club statistician Paul Dutton look not only at that significance but also at the task very much at hand…",
       "matchId": 2197673
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210330chelsea-s-race-for-the-premier-l",
-      "type": "NewsCard",
-      "timestamp": "2021-04-13T00:30:00.000Z",
-      "orderDate": "2021-04-13T02:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
-        "type": "NewsCard",
-        "title": "Chelsea’s race for the Premier League top four ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-13T00:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea and the Premier League logo",
-          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
-          "gravity": "auto",
-          "aspectRatio": 1.4790996,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea’s race for the Premier League top four ",
-      "publishDate": "2021-04-13T00:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
-      "readTimeInMins": 63,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-13T00:30:00.000Z",
-      "description": "The business end of the season is well and truly upon us with the Blues among a cluster of teams aiming to finish in the top four of the Premier League. Here we analyse the remaining fixtures of our rivals for Champions League qualification and set a poll for you to answer…"
     }
   ]
 }
