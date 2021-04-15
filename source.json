@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 955,
+    "totalItems": 956,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 96,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210415mount-s-anfield-winner-voted-che",
+      "type": "NewsCard",
+      "timestamp": "2021-04-15T08:30:00.000Z",
+      "orderDate": "2021-04-15T08:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/15/mount-s-anfield-winner-voted-chelsea-s-march-goal-of-the-month",
+        "type": "NewsCard",
+        "title": "Mount's Anfield winner voted Chelsea's March Goal of the Month",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/mount-s-anfield-winner-voted-chelsea-s-march-goal-of-the-month.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-15T08:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/15/mount-s-anfield-winner-voted-chelsea-s-march-goal-of-the-month",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount celebration",
+          "id": "editorial/match-reports/2020-21/liverpool-away/Mount-goal-celebration-Liverpool-a-2",
+          "gravity": "auto",
+          "aspectRatio": 1.502439,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount's Anfield winner voted Chelsea's March Goal of the Month",
+      "publishDate": "2021-04-15T08:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/mount-s-anfield-winner-voted-chelsea-s-march-goal-of-the-month.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Goal of the Month",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-month"
+        },
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-04-15T08:30:00.000Z",
+      "description": "Mason Mount's brilliant strike against Liverpool has been voted as our Goal of the Month for March."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210415james-urges-chelsea-to--be-at-ou",
@@ -531,49 +594,6 @@
       ],
       "date": "2021-04-14T08:49:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Paulo Dybala in the summer and Rio Ferdinand wants to see more of Reece James and Christian Pulisic."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210414chelsea-women---final-slice-of-a",
-      "type": "NewsCard",
-      "timestamp": "2021-04-14T09:12:00.000Z",
-      "orderDate": "2021-04-13T23:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/14/chelsea-women---final-slice-of-all-the-international-action",
-        "type": "NewsCard",
-        "title": "Chelsea Women - final slice of international action",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/chelsea-women---final-slice-of-all-the-international-action.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-14T09:12:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/14/chelsea-women---final-slice-of-all-the-international-action",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/GettyImages-1312346540",
-          "gravity": "auto",
-          "aspectRatio": 1.4406295,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women - final slice of international action",
-      "publishDate": "2021-04-14T09:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/chelsea-women---final-slice-of-all-the-international-action.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-04-14T09:12:00.000Z",
-      "description": "Fifteen blues, five friendlies and one Olympic qualifier. Here we give you a round-up of all the latest action…"
     }
   ]
 }
