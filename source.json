@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 960,
+    "totalItems": 963,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 96,
+    "pageCount": 97,
     "startFrom": 0
   },
   "newsFeed": [
@@ -182,6 +182,119 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210415pulisic-speaks-exclusively-in-br",
+      "type": "NewsCard",
+      "timestamp": "2021-04-15T12:18:00.000Z",
+      "orderDate": "2021-04-15T09:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/15/pulisic-speaks-exclusively-in-brighton-matchday-programme",
+        "type": "NewsCard",
+        "title": "Pulisic speaks exclusively in Brighton matchday programme",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/pulisic-speaks-exclusively-in-brighton-matchday-programme.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-15T12:18:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/15/pulisic-speaks-exclusively-in-brighton-matchday-programme",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic",
+          "id": "editorial/match-reports/2020-21/porto-home/Pulisic_DTW_4604-2026634_2021041380556059",
+          "gravity": "auto",
+          "aspectRatio": 1.5003906,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic speaks exclusively in Brighton matchday programme",
+      "publishDate": "2021-04-15T12:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/pulisic-speaks-exclusively-in-brighton-matchday-programme.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Programmes",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_programmes"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Brighton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brighton"
+        }
+      ],
+      "date": "2021-04-15T12:18:00.000Z",
+      "description": "In the matchday programme for our next Premier League fixture at Stamford Bridge against Brighton and Hove Albion, Christian Pulisic speaks exclusively about his game, the attacking options available to Thomas Tuchel and whether he believes in hot streaks.",
+      "matchId": 2128598
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210415hayes--focus-is-on-getting-our-g",
+      "type": "NewsCard",
+      "timestamp": "2021-04-15T12:47:00.000Z",
+      "orderDate": "2021-04-15T09:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/15/hayes--focus-is-on-getting-our-game-right",
+        "type": "NewsCard",
+        "title": "Hayes: Focus is on getting our game right",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/hayes--focus-is-on-getting-our-game-right.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-15T12:47:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/15/hayes--focus-is-on-getting-our-game-right",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Emma_Hayes_Wolfsburg",
+          "gravity": "auto",
+          "aspectRatio": 1.5025147,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hayes: Focus is on getting our game right",
+      "publishDate": "2021-04-15T12:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/hayes--focus-is-on-getting-our-game-right.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2021-04-15T12:47:00.000Z",
+      "description": "Chelsea FC Women are competing on all fronts as we go into the closing parts of the season and Blues boss Emma Hayes insists her side are ready for our final run of games, starting with our Vitality Women’s FA Cup fourth-round tie against London City Lionesses tomorrow evening.",
+      "matchId": 2194079
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210415mount-s-anfield-winner-voted-che",
       "type": "NewsCard",
       "timestamp": "2021-04-15T08:30:00.000Z",
@@ -297,6 +410,49 @@
       "description": "Reece James knows he and his team-mates will have to be on top form to compete with Real Madrid in the Champions League semi-finals, though he insists the brave Blues have nothing to fear as they bid to reach the Istanbul final."
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210415chelsea-foundation--keepie-uppie",
+      "type": "NewsCard",
+      "timestamp": "2021-04-15T13:00:00.000Z",
+      "orderDate": "2021-04-15T02:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/15/chelsea-foundation--keepie-uppie--challenge-winners-announced",
+        "type": "NewsCard",
+        "title": "Chelsea Foundation ‘Keepie Uppie’ Challenge winners announced",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/chelsea-foundation--keepie-uppie--challenge-winners-announced.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-15T13:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/15/chelsea-foundation--keepie-uppie--challenge-winners-announced",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Yusuf",
+          "id": "editorial/news/2021/04/15/ChelseaFoundation_Challenge_Keepie_Uppie",
+          "gravity": "auto",
+          "aspectRatio": 1.4600496,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Foundation ‘Keepie Uppie’ Challenge winners announced",
+      "publishDate": "2021-04-15T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/chelsea-foundation--keepie-uppie--challenge-winners-announced.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2021-04-15T13:00:00.000Z",
+      "description": "The Chelsea Foundation have continued to engage young people and Kicks participants throughout the global pandemic with the introduction of our Freestyle Keepie Uppie Challenge."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210415youth-cup-preview--how-to-watch-",
       "type": "NewsCard",
@@ -397,216 +553,6 @@
       ],
       "date": "2021-04-15T08:51:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues receive a huge boost to their chances of signing Sergio Aguero and Paul Merson is impressed by Kai Havertz."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210414mount--we-ll-be-ready-for-anyone",
-      "type": "NewsCard",
-      "timestamp": "2021-04-14T13:55:00.000Z",
-      "orderDate": "2021-04-14T13:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/14/mount--we-ll-be-ready-for-anyone-in-semis",
-        "type": "NewsCard",
-        "title": "Mount: We’ll be ready for anyone in semis",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/mount--we-ll-be-ready-for-anyone-in-semis.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-14T13:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/14/mount--we-ll-be-ready-for-anyone-in-semis",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mount",
-          "id": "editorial/news/2021/04/14/Mount_GettyImages-1312356984",
-          "gravity": "auto",
-          "aspectRatio": 1.5002298,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount: We’ll be ready for anyone in semis",
-      "publishDate": "2021-04-14T13:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/mount--we-ll-be-ready-for-anyone-in-semis.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "FC Porto",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_fc-porto"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-14T13:55:00.000Z",
-      "description": "Mason Mount says Chelsea are up for the fight against any opponent in the Champions League semi-finals and the rest of the massive run of games we have in every competition between now and the end of the season.",
-      "matchId": 2197673
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210414the-debrief--deeper-defending-an",
-      "type": "NewsCard",
-      "timestamp": "2021-04-14T10:30:00.000Z",
-      "orderDate": "2021-04-14T10:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/14/the-debrief--deeper-defending-and-non-stop-screening-get-the-job",
-        "type": "NewsCard",
-        "title": "The Debrief: Deeper defending and non-stop screening get the job done in Europe",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/the-debrief--deeper-defending-and-non-stop-screening-get-the-job.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-14T10:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/14/the-debrief--deeper-defending-and-non-stop-screening-get-the-job",
-      "media": {
-        "type": "video",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Debrief Extra graphic",
-          "id": "video/2021/04/14/how-n-golo-kante-and-jorginho-ran-the-show-against-porto---the-d-C5kTFaix/thumbnail",
-          "gravity": "auto",
-          "aspectRatio": 1.773399,
-          "cropMode": "fill"
-        },
-        "video": {
-          "type": "VideoCard",
-          "title": "How N'Golo Kante and Jorginho ran the show against Porto | The Debrief Extra",
-          "videoId": "C5kTFaix",
-          "bucket": "prod-cfc",
-          "description": "Take an in-depth look at how Chelsea booked their Champions League semi-final spot with a controlled and disciplined display against Porto in Seville...",
-          "duration": 123000,
-          "date": "2021-04-14T17:30:12.000Z",
-          "image": {
-            "type": "ImageCloudinary",
-            "alt": "Debrief Extra graphic",
-            "id": "video/2021/04/14/how-n-golo-kante-and-jorginho-ran-the-show-against-porto---the-d-C5kTFaix/thumbnail",
-            "gravity": "auto",
-            "aspectRatio": 1.773399,
-            "cropMode": "fill"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/the-debrief--deeper-defending-and-non-stop-screening-get-the-job.page.v3.json",
-          "contentType": "Analysis",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/04/14/the-debrief--deeper-defending-and-non-stop-screening-get-the-job?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/04/14/the-debrief--deeper-defending-and-non-stop-screening-get-the-job",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Take an in-depth look at how Chelsea booked their Champions League semi-final spot with a controlled and disciplined display against Porto in Seville..."
-      },
-      "content": "The Debrief: Deeper defending and non-stop screening get the job done in Europe",
-      "publishDate": "2021-04-14T10:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/the-debrief--deeper-defending-and-non-stop-screening-get-the-job.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "N Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-14T10:30:00.000Z",
-      "description": "Following Chelsea’s advance to the Champions League semi-finals with a 2-1 aggregate victory over Porto, we’ve selected the standout statistics from the second leg to analyse some of the major talking points…",
-      "matchId": 2197673
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210414fighting-spirit-pleases-azpi",
-      "type": "NewsCard",
-      "timestamp": "2021-04-14T04:45:00.000Z",
-      "orderDate": "2021-04-14T04:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/14/fighting-spirit-pleases-azpi",
-        "type": "NewsCard",
-        "title": "Fighting spirit pleases Azpi",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/fighting-spirit-pleases-azpi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-14T04:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/14/fighting-spirit-pleases-azpi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Azpilicueta",
-          "id": "editorial/match-reports/2020-21/porto-home/Azpilicueta_DTW_4504-2026563_2021041373120085",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Fighting spirit pleases Azpi",
-      "publishDate": "2021-04-14T04:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/14/fighting-spirit-pleases-azpi.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "FC Porto",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_fc-porto"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-14T04:45:00.000Z",
-      "description": "Cesar Azpilicueta says the Blues knew they would have to fight to finish the job against Porto, but was delighted with the spirit the team showed in securing our place in the Champions League semi-finals.",
-      "matchId": 2197673
     }
   ]
 }
