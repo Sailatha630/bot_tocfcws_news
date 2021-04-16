@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 971,
+    "totalItems": 972,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 98,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210416tuchel--it-s-a-good-moment-to-pl",
+      "type": "NewsCard",
+      "timestamp": "2021-04-16T13:57:00.000Z",
+      "orderDate": "2021-04-16T13:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/16/tuchel--it-s-a-good-moment-to-play-city",
+        "type": "NewsCard",
+        "title": "Tuchel: It’s a good moment to play City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/tuchel--it-s-a-good-moment-to-play-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-16T13:57:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/16/tuchel--it-s-a-good-moment-to-play-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/04/16/Tuchel_PC_border_160421_2",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: It’s a good moment to play City",
+      "publishDate": "2021-04-16T13:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/tuchel--it-s-a-good-moment-to-play-city.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        }
+      ],
+      "date": "2021-04-16T13:57:00.000Z",
+      "description": "Thomas Tuchel feels his Chelsea side are in the perfect position to take on Manchester City in tomorrow’s FA Cup semi-final after the way we have overcome recent challenges and gained momentum.",
+      "matchId": 2198574
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210416thomas-tuchel-injury-update-and-",
@@ -484,50 +543,6 @@
       ],
       "date": "2021-04-15T09:56:00.000Z",
       "description": "The fixture details for our Champions League semi-final tie against Real Madrid have been announced..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210415-chelsea-women-v-london-city-lio",
-      "type": "NewsCard",
-      "timestamp": "2021-04-15T13:55:00.000Z",
-      "orderDate": "2021-04-15T09:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/15/-chelsea-women-v-london-city-lionesses-preview--kick-off-time--h",
-        "type": "NewsCard",
-        "title": "Chelsea Women v London City Lionesses: Kick-off time, how to follow and much more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/-chelsea-women-v-london-city-lionesses-preview--kick-off-time--h.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-15T13:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/15/-chelsea-women-v-london-city-lionesses-preview--kick-off-time--h",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Hayes_Birmingham",
-          "gravity": "auto",
-          "aspectRatio": 1.5024272,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v London City Lionesses: Kick-off time, how to follow and much more",
-      "publishDate": "2021-04-15T13:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/-chelsea-women-v-london-city-lionesses-preview--kick-off-time--h.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-04-15T13:55:00.000Z",
-      "description": "The Women's FA Cup is back with fourth-round matches across the weekend and Chelsea Women are in action on Friday night as we welcome London City Lionesses to Kingsmeadow.",
-      "matchId": 2194079
     }
   ]
 }
