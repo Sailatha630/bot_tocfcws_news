@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 973,
+    "totalItems": 974,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 98,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210416women-s-match-report--chelsea-v-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-16T20:30:00.000Z",
+      "orderDate": "2021-04-16T20:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Chelsea v London City Lionesses",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-16T20:30:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Charles_Spence_London_City",
+          "gravity": "auto",
+          "aspectRatio": 1.5001578,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Chelsea v London City Lionesses",
+      "publishDate": "2021-04-16T20:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2021-04-16T20:30:00.000Z",
+      "description": "Chelsea FC Women are through to the fifth round of the Women’s FA Cup after a 5-0 win against London City Lionesses.",
+      "matchId": 2194079
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210416thomas-tuchel-injury-update-and-",
@@ -495,55 +543,6 @@
       ],
       "date": "2021-04-15T12:00:00.000Z",
       "description": "Composed on the ball and a vital voice in the Chelsea side off it, it’s fair to say Jorginho is certainly helping to orchestrate the fine tune Thomas Tuchel’s Blues are playing right now."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210415youth-cup-report--chelsea-everto",
-      "type": "NewsCard",
-      "timestamp": "2021-04-15T13:45:00.000Z",
-      "orderDate": "2021-04-15T10:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/15/youth-cup-report--chelsea-everton",
-        "type": "NewsCard",
-        "title": "Youth Cup report: Chelsea 1 Everton 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/youth-cup-report--chelsea-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-15T13:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/15/youth-cup-report--chelsea-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Bashir Humphreys",
-          "id": "editorial/news/2021/04/15/Bash-humphryes-cfc-u18-youth-cup",
-          "gravity": "north_west",
-          "aspectRatio": 1.5002227,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Youth Cup report: Chelsea 1 Everton 2",
-      "publishDate": "2021-04-15T13:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/youth-cup-report--chelsea-everton.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "U18 - FA Youth Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
-        }
-      ],
-      "date": "2021-04-15T13:45:00.000Z",
-      "description": "Our FA Youth Cup journey ended at the fifth round stage with defeat against Everton on Thursday afternoon."
     }
   ]
 }
