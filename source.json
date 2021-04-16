@@ -8,54 +8,6 @@
   },
   "newsFeed": [
     {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210416women-s-match-report--chelsea-v-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-16T20:30:00.000Z",
-      "orderDate": "2021-04-16T20:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses",
-        "type": "NewsCard",
-        "title": "Women’s Match Report: Chelsea v London City Lionesses",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-16T20:30:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/ChelseaWomen_Charles_Spence_London_City",
-          "gravity": "auto",
-          "aspectRatio": 1.5001578,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s Match Report: Chelsea v London City Lionesses",
-      "publishDate": "2021-04-16T20:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        }
-      ],
-      "date": "2021-04-16T20:30:00.000Z",
-      "description": "Chelsea FC Women are through to the fifth round of the Women’s FA Cup after a 5-0 win against London City Lionesses.",
-      "matchId": 2194079
-    },
-    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210416thomas-tuchel-injury-update-and-",
       "type": "NewsCard",
@@ -275,6 +227,54 @@
       "date": "2021-04-16T09:14:00.000Z",
       "description": "The Emirates FA Cup captures the Blues attention this weekend, as we return to Wembley once more. Club historian Rick Glanvill and club statistician Paul Dutton preview our meeting with the Premier League leaders…",
       "matchId": 2198574
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210416women-s-match-report--chelsea-v-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-16T20:30:00.000Z",
+      "orderDate": "2021-04-16T09:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Chelsea v London City Lionesses",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-16T20:30:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Charles_Spence_London_City",
+          "gravity": "auto",
+          "aspectRatio": 1.5001578,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Chelsea v London City Lionesses",
+      "publishDate": "2021-04-16T20:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/women-s-match-report--chelsea-v-london-city-lionesses.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2021-04-16T20:30:00.000Z",
+      "description": "Chelsea FC Women are through to the fifth round of the Women’s FA Cup after a 5-0 win against London City Lionesses.",
+      "matchId": 2194079
     },
     {
       "contentType": "Competitions",
