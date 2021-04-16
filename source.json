@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 969,
+    "totalItems": 970,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 97,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210416pre-match-briefing--chelsea-vs-m",
+      "type": "NewsCard",
+      "timestamp": "2021-04-16T09:14:00.000Z",
+      "orderDate": "2021-04-16T09:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/16/pre-match-briefing--chelsea-vs-manchester-city",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Manchester City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/pre-match-briefing--chelsea-vs-manchester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-16T09:14:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/04/16/pre-match-briefing--chelsea-vs-manchester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Wembley ",
+          "id": "editorial/news/2021/04/16/emirates_FA_Cup_wembley",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Manchester City",
+      "publishDate": "2021-04-16T09:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/pre-match-briefing--chelsea-vs-manchester-city.html",
+      "readTimeInMins": 28,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-16T09:14:00.000Z",
+      "description": "The Emirates FA Cup captures the Blues attention this weekend, as we return to Wembley once more. Club historian Rick Glanvill and club statistician Paul Dutton preview our meeting with the Premier League leaders…",
+      "matchId": 2198574
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20210416pre-match-quiz--fa-cup-semi-fina",
@@ -117,7 +171,7 @@
         }
       ],
       "date": "2021-04-16T03:00:00.000Z",
-      "description": "Having safely booked our place in the last four of the Champions League, attention now turns to an FA Cup semi-final against Manchester City. Our preview begins with the noteworthy facts and figures...",
+      "description": "Having safely booked our place in the last four of the Champions League, attention now turns to an Emirates FA Cup semi-final against Manchester City. Our preview begins with the noteworthy facts and figures...",
       "matchId": 2198574
     },
     {
@@ -143,9 +197,9 @@
         "image": {
           "type": "ImageCloudinary",
           "alt": " ",
-          "id": "editorial/match-reports/2020-21/women-man-city-conti-cup/Cuthbert-GettyImages-1297461966",
+          "id": "editorial/news/2021/04/16/cuthbert_live_stream",
           "gravity": "center",
-          "aspectRatio": 1.5,
+          "aspectRatio": 2.2076924,
           "cropMode": "fill"
         }
       },
@@ -482,65 +536,6 @@
       },
       "date": "2021-04-15T09:53:00.000Z",
       "description": "As restrictions begin to gradually lift in England, regular columnist and season ticket holder Giles Smith can’t help but feel Chelsea’s ongoing success is only adding to the feeling things are finally getting back to normal…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210415pulisic-speaks-exclusively-in-br",
-      "type": "NewsCard",
-      "timestamp": "2021-04-15T12:18:00.000Z",
-      "orderDate": "2021-04-15T09:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/15/pulisic-speaks-exclusively-in-brighton-matchday-programme",
-        "type": "NewsCard",
-        "title": "Pulisic speaks exclusively in Brighton matchday programme",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/pulisic-speaks-exclusively-in-brighton-matchday-programme.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-15T12:18:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/15/pulisic-speaks-exclusively-in-brighton-matchday-programme",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pulisic",
-          "id": "editorial/match-reports/2020-21/porto-home/Pulisic_DTW_4604-2026634_2021041380556059",
-          "gravity": "auto",
-          "aspectRatio": 1.5003906,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pulisic speaks exclusively in Brighton matchday programme",
-      "publishDate": "2021-04-15T12:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/pulisic-speaks-exclusively-in-brighton-matchday-programme.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Programmes",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_programmes"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Brighton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brighton"
-        }
-      ],
-      "date": "2021-04-15T12:18:00.000Z",
-      "description": "In the matchday programme for our next Premier League fixture at Stamford Bridge against Brighton and Hove Albion, Christian Pulisic speaks exclusively about his game, the attacking options available to Thomas Tuchel and whether he believes in hot streaks.",
-      "matchId": 2128598
     }
   ]
 }
