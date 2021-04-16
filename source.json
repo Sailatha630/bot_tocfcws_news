@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 965,
+    "totalItems": 966,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 97,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210416chelsea-vs-man-city---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-04-16T03:00:00.000Z",
+      "orderDate": "2021-04-16T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/16/chelsea-vs-man-city---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Man City - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/chelsea-vs-man-city---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-16T03:00:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/04/16/chelsea-vs-man-city---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chilwell vs Man City",
+          "id": "editorial/news/2021/04/15/chilwell-cancelo",
+          "gravity": "auto",
+          "aspectRatio": 0.7371581,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Man City - the stats",
+      "publishDate": "2021-04-16T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/chelsea-vs-man-city---the-stats.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        }
+      ],
+      "date": "2021-04-16T03:00:00.000Z",
+      "description": "Having safely booked our place in the last four of the Champions League, attention now turns to an FA Cup semi-final against Manchester City. Our preview begins with the noteworthy facts and figures...",
+      "matchId": 2198574
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews2021041510-questions-with--jorginho",
@@ -501,49 +560,6 @@
       ],
       "date": "2021-04-15T03:00:00.000Z",
       "description": "Reece James knows he and his team-mates will have to be on top form to compete with Real Madrid in the Champions League semi-finals, though he insists the brave Blues have nothing to fear as they bid to reach the Istanbul final."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210415chelsea-foundation--keepie-uppie",
-      "type": "NewsCard",
-      "timestamp": "2021-04-15T13:00:00.000Z",
-      "orderDate": "2021-04-15T02:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/15/chelsea-foundation--keepie-uppie--challenge-winners-announced",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation ‘Keepie Uppie’ Challenge winners announced",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/chelsea-foundation--keepie-uppie--challenge-winners-announced.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-15T13:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/15/chelsea-foundation--keepie-uppie--challenge-winners-announced",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Yusuf",
-          "id": "editorial/news/2021/04/15/ChelseaFoundation_Challenge_Keepie_Uppie",
-          "gravity": "auto",
-          "aspectRatio": 1.4600496,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation ‘Keepie Uppie’ Challenge winners announced",
-      "publishDate": "2021-04-15T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/chelsea-foundation--keepie-uppie--challenge-winners-announced.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2021-04-15T13:00:00.000Z",
-      "description": "The Chelsea Foundation have continued to engage young people and Kicks participants throughout the global pandemic with the introduction of our Freestyle Keepie Uppie Challenge."
     }
   ]
 }
