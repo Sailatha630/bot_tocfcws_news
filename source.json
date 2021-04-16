@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 967,
+    "totalItems": 968,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 97,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210416pre-match-quiz--fa-cup-semi-fina",
+      "type": "NewsCard",
+      "timestamp": "2021-04-16T06:06:00.000Z",
+      "orderDate": "2021-04-16T06:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/16/pre-match-quiz--fa-cup-semi-finals",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: FA Cup semi-finals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/pre-match-quiz--fa-cup-semi-finals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-16T06:06:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/16/pre-match-quiz--fa-cup-semi-finals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Giroud",
+          "id": "editorial/news/2021/04/15/Giroud_GettyImages-1257066961",
+          "gravity": "auto",
+          "aspectRatio": 1.485059,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: FA Cup semi-finals",
+      "publishDate": "2021-04-16T06:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/pre-match-quiz--fa-cup-semi-finals.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-04-16T06:06:00.000Z",
+      "description": "We will be looking to make it four FA Cup semi-final victories in a row when we face Manchester City at Wembley. How well do you remember our previous three wins?",
+      "matchId": 2198574
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210416chelsea-vs-man-city---the-stats",
@@ -493,69 +547,6 @@
       "date": "2021-04-15T12:47:00.000Z",
       "description": "Chelsea FC Women are competing on all fronts as we go into the closing parts of the season and Blues boss Emma Hayes insists her side are ready for our final run of games, starting with our Vitality Women’s FA Cup fourth-round tie against London City Lionesses tomorrow evening.",
       "matchId": 2194079
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210415mount-s-anfield-winner-voted-che",
-      "type": "NewsCard",
-      "timestamp": "2021-04-15T08:30:00.000Z",
-      "orderDate": "2021-04-15T08:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/15/mount-s-anfield-winner-voted-chelsea-s-march-goal-of-the-month",
-        "type": "NewsCard",
-        "title": "Mount's Anfield winner voted Chelsea's March Goal of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/mount-s-anfield-winner-voted-chelsea-s-march-goal-of-the-month.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-15T08:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/15/mount-s-anfield-winner-voted-chelsea-s-march-goal-of-the-month",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mount celebration",
-          "id": "editorial/match-reports/2020-21/liverpool-away/Mount-goal-celebration-Liverpool-a-2",
-          "gravity": "auto",
-          "aspectRatio": 1.502439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount's Anfield winner voted Chelsea's March Goal of the Month",
-      "publishDate": "2021-04-15T08:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/15/mount-s-anfield-winner-voted-chelsea-s-march-goal-of-the-month.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Goal of the Month",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_goal-of-the-month"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-04-15T08:30:00.000Z",
-      "description": "Mason Mount's brilliant strike against Liverpool has been voted as our Goal of the Month for March."
     }
   ]
 }
