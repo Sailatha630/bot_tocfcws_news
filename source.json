@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 977,
+    "totalItems": 978,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 98,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210417olivier-giroud-s-matchday-ritual",
+      "type": "NewsCard",
+      "timestamp": "2021-04-17T09:24:00.000Z",
+      "orderDate": "2021-04-17T09:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/17/olivier-giroud-s-matchday-rituals",
+        "type": "NewsCard",
+        "title": "Olivier Giroud’s Matchday Rituals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/olivier-giroud-s-matchday-rituals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-17T09:24:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/04/17/olivier-giroud-s-matchday-rituals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Olivier Giroud",
+          "id": "editorial/news/2021/04/16/giroud-stock-profile",
+          "gravity": "auto",
+          "aspectRatio": 1.631987,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Olivier Giroud’s Matchday Rituals",
+      "publishDate": "2021-04-17T09:24:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/olivier-giroud-s-matchday-rituals.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-17T09:24:00.000Z",
+      "description": "Olivier Giroud has long called Wembley his ‘garden’ and on the day Chelsea play another showpiece fixture at the national stadium, we caught up with the striker to hear about the daily routine that helps him prepare for games."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210417tuchel--ask-me-at-season-s-end-i",
@@ -495,65 +543,6 @@
       ],
       "date": "2021-04-16T06:06:00.000Z",
       "description": "We will be looking to make it four FA Cup semi-final victories in a row when we face Manchester City at Wembley. How well do you remember our previous three wins?",
-      "matchId": 2198574
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210416chelsea-vs-man-city---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2021-04-16T03:00:00.000Z",
-      "orderDate": "2021-04-16T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/16/chelsea-vs-man-city---the-stats",
-        "type": "NewsCard",
-        "title": "Chelsea vs Man City - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/chelsea-vs-man-city---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-16T03:00:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/04/16/chelsea-vs-man-city---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chilwell vs Man City",
-          "id": "editorial/news/2021/04/15/chilwell-cancelo",
-          "gravity": "auto",
-          "aspectRatio": 0.7371581,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea vs Man City - the stats",
-      "publishDate": "2021-04-16T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/chelsea-vs-man-city---the-stats.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        }
-      ],
-      "date": "2021-04-16T03:00:00.000Z",
-      "description": "Having safely booked our place in the last four of the Champions League, attention now turns to an Emirates FA Cup semi-final against Manchester City. Our preview begins with the noteworthy facts and figures...",
       "matchId": 2198574
     }
   ]
