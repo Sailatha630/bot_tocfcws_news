@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 980,
+    "totalItems": 981,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 98,
+    "pageCount": 99,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210417chelsea-line-up-vs-man-city",
+      "type": "NewsCard",
+      "timestamp": "2021-04-17T15:30:00.000Z",
+      "orderDate": "2021-04-17T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/17/chelsea-line-up-vs-man-city",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Man City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/chelsea-line-up-vs-man-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-17T15:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/17/chelsea-line-up-vs-man-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kepa",
+          "id": "editorial/match-reports/2020-21/man-city-fa-cup-semi/kepa-fa-cup-training-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Man City",
+      "publishDate": "2021-04-17T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/chelsea-line-up-vs-man-city.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        }
+      ],
+      "date": "2021-04-17T15:30:00.000Z",
+      "description": "Our regular FA Cup goalkeeper this season Kepa Arrizabalaga retains his place between the posts for today’s semi-final against Manchester City.",
+      "matchId": 2198574
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210417jorginho-outlines-what-he-s-usin",
@@ -485,60 +539,6 @@
       ],
       "date": "2021-04-16T14:17:00.000Z",
       "description": "Chelsea legend Gianfranco Zola will be the special guest on Matchday Live on Saturday, looking forward to and then reviewing our FA Cup semi-final against Manchester City.",
-      "matchId": 2198574
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210416pre-match-briefing--chelsea-vs-m",
-      "type": "NewsCard",
-      "timestamp": "2021-04-16T09:14:00.000Z",
-      "orderDate": "2021-04-16T09:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/16/pre-match-briefing--chelsea-vs-manchester-city",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Manchester City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/pre-match-briefing--chelsea-vs-manchester-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-16T09:14:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/04/16/pre-match-briefing--chelsea-vs-manchester-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Wembley ",
-          "id": "editorial/news/2021/04/16/emirates_FA_Cup_wembley",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Manchester City",
-      "publishDate": "2021-04-16T09:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/pre-match-briefing--chelsea-vs-manchester-city.html",
-      "readTimeInMins": 28,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-16T09:14:00.000Z",
-      "description": "The Emirates FA Cup captures the Blues attention this weekend, as we return to Wembley once more. Club historian Rick Glanvill and club statistician Paul Dutton preview our meeting with the Premier League leaders…",
       "matchId": 2198574
     }
   ]
