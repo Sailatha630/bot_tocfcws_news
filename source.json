@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 975,
+    "totalItems": 976,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 98,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210417tuchel--ask-me-at-season-s-end-i",
+      "type": "NewsCard",
+      "timestamp": "2021-04-17T05:44:00.000Z",
+      "orderDate": "2021-04-17T05:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/17/tuchel--ask-me-at-season-s-end-if-chelsea-have-closed-gap-on-man",
+        "type": "NewsCard",
+        "title": "Tuchel: Ask me at season’s end if Chelsea have closed gap on Man City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/tuchel--ask-me-at-season-s-end-if-chelsea-have-closed-gap-on-man.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-17T05:44:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/17/tuchel--ask-me-at-season-s-end-if-chelsea-have-closed-gap-on-man",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel training",
+          "id": "editorial/news/2021/04/16/tuchel_training_april_2021",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Ask me at season’s end if Chelsea have closed gap on Man City",
+      "publishDate": "2021-04-17T05:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/tuchel--ask-me-at-season-s-end-if-chelsea-have-closed-gap-on-man.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-17T05:44:00.000Z",
+      "description": "Chelsea head into today’s Emirates FA Cup semi-final against Manchester City knowing that, should both clubs progress to the Champions League final, it would be the first of three more meetings with Pep Guardiola’s side before the season is out.",
+      "matchId": 2198574
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210416ziyech-wants-to-make-it-a-perfec",
@@ -496,54 +550,6 @@
       "date": "2021-04-16T07:52:00.000Z",
       "description": "Erin Cuthbert and the Blues begin our Vitality Women’s FA Cup campaign this evening as we entertain London City Lionesses at Kingsmeadow, and the Scottish midfielder says Chelsea are hungry for FA Cup success this year.",
       "matchId": 2194079
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210416media-watch--chelsea-interested-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-16T08:49:00.000Z",
-      "orderDate": "2021-04-15T23:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/16/media-watch--chelsea-interested-in-andersen--gullit-impressed-by",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea interested in Andersen, Gullit impressed by Tuchel’s style and Robinson tips Blues to make top four",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/media-watch--chelsea-interested-in-andersen--gullit-impressed-by.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-16T08:49:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/16/media-watch--chelsea-interested-in-andersen--gullit-impressed-by",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Andersen-mw-15-04-21",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea interested in Andersen, Gullit impressed by Tuchel’s style and Robinson tips Blues to make top four",
-      "publishDate": "2021-04-16T08:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/media-watch--chelsea-interested-in-andersen--gullit-impressed-by.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Ruud Gullit",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_ruud-gullit"
-        }
-      ],
-      "date": "2021-04-16T08:49:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Joachim Andersen and Ruud Gullit is impressed by Thomas Tuchel’s style."
     }
   ]
 }
