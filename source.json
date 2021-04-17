@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 981,
+    "totalItems": 982,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210417match-report--chelsea-vs-man-cit",
+      "type": "NewsCard",
+      "timestamp": "2021-04-17T18:35:00.000Z",
+      "orderDate": "2021-04-17T18:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/17/match-report--chelsea-vs-man-city",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 1 Man City 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/match-report--chelsea-vs-man-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-17T18:35:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/17/match-report--chelsea-vs-man-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Hakim Ziyech",
+          "id": "editorial/match-reports/2020-21/man-city-fa-cup-semi/ziyech-celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 1 Man City 0",
+      "publishDate": "2021-04-17T18:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/match-report--chelsea-vs-man-city.html",
+      "readTimeInMins": 21,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-17T18:35:00.000Z",
+      "description": "Chelsea are through to the FA Cup final for the fourth time in five seasons courtesy of Hakim Ziyech’s well-worked second-half goal and a superb collective effort.",
+      "matchId": 2198574
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210417chelsea-line-up-vs-man-city",
@@ -490,55 +544,6 @@
       ],
       "date": "2021-04-16T13:57:00.000Z",
       "description": "Thomas Tuchel feels his Chelsea side are in the perfect position to take on Manchester City in tomorrow’s FA Cup semi-final after the way we have overcome recent challenges and gained momentum.",
-      "matchId": 2198574
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210416gianfranco-zola-to-guest-on-matc",
-      "type": "NewsCard",
-      "timestamp": "2021-04-16T14:17:00.000Z",
-      "orderDate": "2021-04-16T12:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/16/gianfranco-zola-to-guest-on-matchday-live-before-and-after-man-c",
-        "type": "NewsCard",
-        "title": "Gianfranco Zola to guest on Matchday Live before and after Man City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/gianfranco-zola-to-guest-on-matchday-live-before-and-after-man-c.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-16T14:17:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/16/gianfranco-zola-to-guest-on-matchday-live-before-and-after-man-c",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Gianfranco Zola",
-          "id": "editorial/news/2021/04/16/zola-2000-cup-final-stream-graphic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gianfranco Zola to guest on Matchday Live before and after Man City",
-      "publishDate": "2021-04-16T14:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/gianfranco-zola-to-guest-on-matchday-live-before-and-after-man-c.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Gianfranco Zola",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_gianfranco-zola0"
-        },
-        {
-          "title": "5th Stand",
-          "namespace": "content-tag:",
-          "id": "content-tag_videos_5th-stand"
-        }
-      ],
-      "date": "2021-04-16T14:17:00.000Z",
-      "description": "Chelsea legend Gianfranco Zola will be the special guest on Matchday Live on Saturday, looking forward to and then reviewing our FA Cup semi-final against Manchester City.",
       "matchId": 2198574
     }
   ]
