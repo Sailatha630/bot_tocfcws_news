@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 978,
+    "totalItems": 979,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 98,
@@ -108,6 +108,55 @@
       "date": "2021-04-17T05:44:00.000Z",
       "description": "Chelsea head into today’s Emirates FA Cup semi-final against Manchester City knowing that, should both clubs progress to the Champions League final, it would be the first of three more meetings with Pep Guardiola’s side before the season is out.",
       "matchId": 2198574
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20210417semi-final-day-at-new-wembley-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-17T10:30:00.000Z",
+      "orderDate": "2021-04-17T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-",
+        "type": "NewsCard",
+        "title": "Semi-final day at new Wembley ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-17T10:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Giroud",
+          "id": "editorial/news/2018/4/hazard-giroud-949955096",
+          "gravity": "auto",
+          "aspectRatio": 1.5152028,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Semi-final day at new Wembley ",
+      "publishDate": "2021-04-17T10:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-17T10:30:00.000Z",
+      "description": "Since the new stadium at Wembley began hosting FA Cup semi-finals in 2008, no team has made more appearances or enjoyed more success at this stage than Chelsea."
     },
     {
       "contentType": "Analysis",
@@ -490,60 +539,6 @@
       "date": "2021-04-16T20:30:00.000Z",
       "description": "Chelsea FC Women are through to the fifth round of the Women’s FA Cup.",
       "matchId": 2194079
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210416pre-match-quiz--fa-cup-semi-fina",
-      "type": "NewsCard",
-      "timestamp": "2021-04-16T06:06:00.000Z",
-      "orderDate": "2021-04-16T06:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/16/pre-match-quiz--fa-cup-semi-finals",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: FA Cup semi-finals",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/pre-match-quiz--fa-cup-semi-finals.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-16T06:06:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/16/pre-match-quiz--fa-cup-semi-finals",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Giroud",
-          "id": "editorial/news/2021/04/15/Giroud_GettyImages-1257066961",
-          "gravity": "auto",
-          "aspectRatio": 1.485059,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: FA Cup semi-finals",
-      "publishDate": "2021-04-16T06:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/16/pre-match-quiz--fa-cup-semi-finals.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-04-16T06:06:00.000Z",
-      "description": "We will be looking to make it four FA Cup semi-final victories in a row when we face Manchester City at Wembley. How well do you remember our previous three wins?",
-      "matchId": 2198574
     }
   ]
 }
