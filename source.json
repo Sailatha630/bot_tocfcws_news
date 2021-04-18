@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 986,
+    "totalItems": 987,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
@@ -272,6 +272,55 @@
       "matchId": 2198574
     },
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210418spence-praises-chelsea-youngster",
+      "type": "NewsCard",
+      "timestamp": "2021-04-18T06:00:00.000Z",
+      "orderDate": "2021-04-17T17:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/18/spence-praises-chelsea-youngsters",
+        "type": "NewsCard",
+        "title": "Spence praises Chelsea youngsters",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/spence-praises-chelsea-youngsters.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-18T06:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/18/spence-praises-chelsea-youngsters",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Spence_Celebrations_London_City",
+          "gravity": "center",
+          "aspectRatio": 1.5003484,
+          "cropMode": "fit"
+        }
+      },
+      "content": "Spence praises Chelsea youngsters",
+      "publishDate": "2021-04-18T06:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/spence-praises-chelsea-youngsters.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2021-04-18T06:00:00.000Z",
+      "description": "Drew Spence bagged a brace in our 5-0 victory against London City Lionesses on Friday as Chelsea booked our place in the fifth round of the Vitality Women’s FA Cup and our longest-serving player was delighted to be back amongst the goals.",
+      "matchId": 2194079
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210417chelsea-line-up-vs-man-city",
       "type": "NewsCard",
@@ -475,55 +524,6 @@
       "date": "2021-04-17T05:44:00.000Z",
       "description": "Chelsea head into today’s Emirates FA Cup semi-final against Manchester City knowing that, should both clubs progress to the Champions League final, it would be the first of three more meetings with Pep Guardiola’s side before the season is out.",
       "matchId": 2198574
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210417semi-final-day-at-new-wembley-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-17T10:30:00.000Z",
-      "orderDate": "2021-04-17T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-",
-        "type": "NewsCard",
-        "title": "Semi-final day at new Wembley ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-17T10:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Giroud",
-          "id": "editorial/news/2018/4/hazard-giroud-949955096",
-          "gravity": "auto",
-          "aspectRatio": 1.5152028,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Semi-final day at new Wembley ",
-      "publishDate": "2021-04-17T10:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-17T10:30:00.000Z",
-      "description": "Since the new stadium at Wembley began hosting FA Cup semi-finals in 2008, no team has made more appearances or enjoyed more success at this stage than Chelsea."
     }
   ]
 }
