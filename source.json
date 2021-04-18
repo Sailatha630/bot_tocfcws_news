@@ -1,12 +1,82 @@
 {
   "pagination": {
-    "totalItems": 986,
+    "totalItems": 987,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210418watch-extended-highlights-of-che",
+      "type": "NewsCard",
+      "timestamp": "2021-04-18T10:59:00.000Z",
+      "orderDate": "2021-04-18T10:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win",
+        "type": "NewsCard",
+        "title": "Watch extended highlights of Chelsea's FA Cup semi-final win",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-18T10:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Extended Chelsea 1-0 Manchester City (N) FA Cup Highlights",
+          "videoId": "OmiYZcA4",
+          "bucket": "prod-cfc",
+          "description": "Watch extended highlights as Chelsea took on Manchester City at Wembley Stadium in the FA Cup",
+          "duration": 474000,
+          "date": "2021-04-18T00:24:26.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/OmiYZcA4/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Watch extended highlights as Chelsea took on Manchester City at Wembley Stadium in the FA Cup"
+      },
+      "content": "Watch extended highlights of Chelsea's FA Cup semi-final win",
+      "publishDate": "2021-04-18T10:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-18T10:59:00.000Z",
+      "description": "The Blues made it through to the 15th FA Cup final in our history with a well-deserved victory over Manchester City at Wembley. Extended highlights of how the game was won can be viewed above now.",
+      "matchId": 2198574
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210418ziyech-grateful-to-werner-and-ha",
@@ -470,55 +540,6 @@
       "date": "2021-04-17T05:44:00.000Z",
       "description": "Chelsea head into today’s Emirates FA Cup semi-final against Manchester City knowing that, should both clubs progress to the Champions League final, it would be the first of three more meetings with Pep Guardiola’s side before the season is out.",
       "matchId": 2198574
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210417semi-final-day-at-new-wembley-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-17T10:30:00.000Z",
-      "orderDate": "2021-04-17T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-",
-        "type": "NewsCard",
-        "title": "Semi-final day at new Wembley ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-17T10:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Giroud",
-          "id": "editorial/news/2018/4/hazard-giroud-949955096",
-          "gravity": "auto",
-          "aspectRatio": 1.5152028,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Semi-final day at new Wembley ",
-      "publishDate": "2021-04-17T10:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/semi-final-day-at-new-wembley-.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-17T10:30:00.000Z",
-      "description": "Since the new stadium at Wembley began hosting FA Cup semi-finals in 2008, no team has made more appearances or enjoyed more success at this stage than Chelsea."
     }
   ]
 }
