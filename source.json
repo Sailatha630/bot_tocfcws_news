@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 989,
+    "totalItems": 990,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210418werner---his-thinking-during-goa",
+      "type": "NewsCard",
+      "timestamp": "2021-04-18T15:06:00.000Z",
+      "orderDate": "2021-04-18T15:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/18/werner---his-thinking-during-goal-move-vs-man-city-and-hope-for-",
+        "type": "NewsCard",
+        "title": "Werner – his thinking during goal move vs Man City and hope for final ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/werner---his-thinking-during-goal-move-vs-man-city-and-hope-for-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-18T15:06:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/18/werner---his-thinking-during-goal-move-vs-man-city-and-hope-for-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Timo Werner",
+          "id": "editorial/news/2021/04/18/werner_man_city-wembley",
+          "gravity": "auto",
+          "aspectRatio": 1.5003268,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Werner – his thinking during goal move vs Man City and hope for final ",
+      "publishDate": "2021-04-18T15:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/werner---his-thinking-during-goal-move-vs-man-city-and-hope-for-.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        }
+      ],
+      "date": "2021-04-18T15:06:00.000Z",
+      "description": "Tactics played a major part in Saturday’s big win over Manchester City, but so did individual performances reckons Timo Werner, who was crucial in the game’s deciding moment.",
+      "matchId": 2198574
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210418the-debrief--chelsea-vs-man-city",
@@ -496,55 +555,6 @@
       ],
       "date": "2021-04-17T15:30:00.000Z",
       "description": "Our regular FA Cup goalkeeper this season Kepa Arrizabalaga retains his place between the posts for today’s semi-final against Manchester City.",
-      "matchId": 2198574
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210417jorginho-outlines-what-he-s-usin",
-      "type": "NewsCard",
-      "timestamp": "2021-04-17T13:21:00.000Z",
-      "orderDate": "2021-04-17T13:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/17/jorginho-outlines-what-he-s-using-as-inspiration-to-reach-the-fa",
-        "type": "NewsCard",
-        "title": "Jorginho outlines what he's using as inspiration to reach the FA Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/jorginho-outlines-what-he-s-using-as-inspiration-to-reach-the-fa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-17T13:21:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/17/jorginho-outlines-what-he-s-using-as-inspiration-to-reach-the-fa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jorginho",
-          "id": "editorial/match-reports/2020-21/porto-home/Jorginho_GettyImages-1232292020",
-          "gravity": "north",
-          "aspectRatio": 1.502439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho outlines what he's using as inspiration to reach the FA Cup final",
-      "publishDate": "2021-04-17T13:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/jorginho-outlines-what-he-s-using-as-inspiration-to-reach-the-fa.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2021-04-17T13:21:00.000Z",
-      "description": "Having tasted defeat in two major cup finals at Wembley previously, Jorginho is a man on a mission to ensure that doesn’t happen again in a Chelsea shirt.",
       "matchId": 2198574
     }
   ]
