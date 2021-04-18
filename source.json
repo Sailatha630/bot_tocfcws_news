@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 990,
+    "totalItems": 991,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 99,
+    "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20210418club-statement",
+      "type": "NewsCard",
+      "timestamp": "2021-04-18T22:22:00.000Z",
+      "orderDate": "2021-04-18T22:22:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/18/club-statement",
+        "type": "NewsCard",
+        "title": "Club statement",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/club-statement.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-18T22:22:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/18/club-statement",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Club badge",
+          "id": "editorial/news/2021/01/25/transparent_club_badge_crest_logo_chelsea",
+          "gravity": "auto",
+          "aspectRatio": 1.9666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Club statement",
+      "publishDate": "2021-04-18T22:22:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/club-statement.html",
+      "readTimeInMins": 7,
+      "tags": [],
+      "date": "2021-04-18T22:22:00.000Z",
+      "description": "Chelsea FC has today joined eleven of Europe’s leading clubs in forming a new mid-week competition, the European Super League."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210418werner---his-thinking-during-goa",
@@ -502,60 +539,6 @@
       "date": "2021-04-18T06:00:00.000Z",
       "description": "Drew Spence bagged a brace in our 5-0 victory against London City Lionesses on Friday as Chelsea booked our place in the fifth round of the Vitality Women’s FA Cup and our longest-serving player was delighted to be back amongst the goals.",
       "matchId": 2194079
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210417chelsea-line-up-vs-man-city",
-      "type": "NewsCard",
-      "timestamp": "2021-04-17T15:30:00.000Z",
-      "orderDate": "2021-04-17T15:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/17/chelsea-line-up-vs-man-city",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Man City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/chelsea-line-up-vs-man-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-17T15:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/17/chelsea-line-up-vs-man-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kepa",
-          "id": "editorial/match-reports/2020-21/man-city-fa-cup-semi/kepa-fa-cup-training-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Man City",
-      "publishDate": "2021-04-17T15:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/chelsea-line-up-vs-man-city.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        }
-      ],
-      "date": "2021-04-17T15:30:00.000Z",
-      "description": "Our regular FA Cup goalkeeper this season Kepa Arrizabalaga retains his place between the posts for today’s semi-final against Manchester City.",
-      "matchId": 2198574
     }
   ]
 }
