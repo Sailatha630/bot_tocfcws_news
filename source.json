@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 988,
+    "totalItems": 989,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
@@ -130,6 +130,60 @@
       "date": "2021-04-18T10:59:00.000Z",
       "description": "The Blues made it through to the 15th FA Cup final in our history with a well-deserved victory over Manchester City at Wembley. Extended highlights of how the game was won can be viewed above now.",
       "matchId": 2198574
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210418pl2-report--tottenham-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-04-18T14:15:00.000Z",
+      "orderDate": "2021-04-18T09:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/18/pl2-report--tottenham-chelsea",
+        "type": "NewsCard",
+        "title": "PL2 report: Tottenham 1 Chelsea 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/pl2-report--tottenham-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-18T14:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/18/pl2-report--tottenham-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "McEachran",
+          "id": "editorial/news/2021/04/18/McEachran-goal-celebration-vs-spurs",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Tottenham 1 Chelsea 4",
+      "publishDate": "2021-04-18T14:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/pl2-report--tottenham-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-04-18T14:15:00.000Z",
+      "description": "A four-midable development squad performance saw us complete a derby double over Spurs this season with goals from George McEachran, Thierno Ballo, Harvey Vale and George Nunn."
     },
     {
       "contentType": "Analysis",
@@ -492,54 +546,6 @@
       "date": "2021-04-17T13:21:00.000Z",
       "description": "Having tasted defeat in two major cup finals at Wembley previously, Jorginho is a man on a mission to ensure that doesn’t happen again in a Chelsea shirt.",
       "matchId": 2198574
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210417olivier-giroud-s-matchday-ritual",
-      "type": "NewsCard",
-      "timestamp": "2021-04-17T09:24:00.000Z",
-      "orderDate": "2021-04-17T09:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/17/olivier-giroud-s-matchday-rituals",
-        "type": "NewsCard",
-        "title": "Olivier Giroud’s Matchday Rituals",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/olivier-giroud-s-matchday-rituals.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-17T09:24:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/04/17/olivier-giroud-s-matchday-rituals",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Olivier Giroud",
-          "id": "editorial/news/2021/04/16/giroud-stock-profile",
-          "gravity": "auto",
-          "aspectRatio": 1.631987,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Olivier Giroud’s Matchday Rituals",
-      "publishDate": "2021-04-17T09:24:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/olivier-giroud-s-matchday-rituals.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-17T09:24:00.000Z",
-      "description": "Olivier Giroud has long called Wembley his ‘garden’ and on the day Chelsea play another showpiece fixture at the national stadium, we caught up with the striker to hear about the daily routine that helps him prepare for games."
     }
   ]
 }
