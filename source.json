@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 987,
+    "totalItems": 988,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210418the-debrief--chelsea-vs-man-city",
+      "type": "NewsCard",
+      "timestamp": "2021-04-18T11:21:00.000Z",
+      "orderDate": "2021-04-18T11:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/18/the-debrief--chelsea-vs-man-city",
+        "type": "NewsCard",
+        "title": "The Debrief: Pacy pairing and cutting City chances was Chelsea’s Wembley way",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/the-debrief--chelsea-vs-man-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-18T11:21:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/18/the-debrief--chelsea-vs-man-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Debrief",
+          "id": "editorial/news/2021/04/18/debrief_man_city_cup_4",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Pacy pairing and cutting City chances was Chelsea’s Wembley way",
+      "publishDate": "2021-04-18T11:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/the-debrief--chelsea-vs-man-city.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-18T11:21:00.000Z",
+      "description": "We take a look at some of the eye-catching statistics and graphics from yesterday's FA Cup victory over Manchester City, which extends a proud record in the competition...",
+      "matchId": 2198574
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210418watch-extended-highlights-of-che",
@@ -486,60 +540,6 @@
       ],
       "date": "2021-04-17T09:24:00.000Z",
       "description": "Olivier Giroud has long called Wembley his ‘garden’ and on the day Chelsea play another showpiece fixture at the national stadium, we caught up with the striker to hear about the daily routine that helps him prepare for games."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210417tuchel--ask-me-at-season-s-end-i",
-      "type": "NewsCard",
-      "timestamp": "2021-04-17T05:44:00.000Z",
-      "orderDate": "2021-04-17T05:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/17/tuchel--ask-me-at-season-s-end-if-chelsea-have-closed-gap-on-man",
-        "type": "NewsCard",
-        "title": "Tuchel: Ask me at season’s end if Chelsea have closed gap on Man City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/tuchel--ask-me-at-season-s-end-if-chelsea-have-closed-gap-on-man.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-17T05:44:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/17/tuchel--ask-me-at-season-s-end-if-chelsea-have-closed-gap-on-man",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel training",
-          "id": "editorial/news/2021/04/16/tuchel_training_april_2021",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Ask me at season’s end if Chelsea have closed gap on Man City",
-      "publishDate": "2021-04-17T05:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/17/tuchel--ask-me-at-season-s-end-if-chelsea-have-closed-gap-on-man.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-17T05:44:00.000Z",
-      "description": "Chelsea head into today’s Emirates FA Cup semi-final against Manchester City knowing that, should both clubs progress to the Champions League final, it would be the first of three more meetings with Pep Guardiola’s side before the season is out.",
-      "matchId": 2198574
     }
   ]
 }
