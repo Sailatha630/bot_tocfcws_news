@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 995,
+    "totalItems": 996,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
@@ -259,6 +259,54 @@
       "description": "The press conference, build-up and reaction to two big Premier League games are among the live streams you can watch this week, as well as live Academy football on Friday night."
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210419media-watch--chelsea-linked-with",
+      "type": "NewsCard",
+      "timestamp": "2021-04-19T09:17:00.000Z",
+      "orderDate": "2021-04-18T23:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/19/media-watch--chelsea-linked-with-garcia--shearer-praises-tuchel-",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked with Garcia, Shearer praises Tuchel and Hazard clear for Blues reunion",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/media-watch--chelsea-linked-with-garcia--shearer-praises-tuchel-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-19T09:17:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/19/media-watch--chelsea-linked-with-garcia--shearer-praises-tuchel-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Garcia-mw-190421",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked with Garcia, Shearer praises Tuchel and Hazard clear for Blues reunion",
+      "publishDate": "2021-04-19T09:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/media-watch--chelsea-linked-with-garcia--shearer-praises-tuchel-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Eden Hazard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_eden-hazard"
+        }
+      ],
+      "date": "2021-04-19T09:17:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Eric Garcia and Alan Shearer praises Thomas Tuchel’s tactics against Manchester City."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210418werner---his-thinking-during-goa",
       "type": "NewsCard",
@@ -494,65 +542,6 @@
       ],
       "date": "2021-04-18T14:15:00.000Z",
       "description": "A four-midable development squad performance saw us complete a derby double over Spurs this season with goals from George McEachran, Thierno Ballo, Harvey Vale and George Nunn."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210418ziyech-grateful-to-werner-and-ha",
-      "type": "NewsCard",
-      "timestamp": "2021-04-18T03:00:00.000Z",
-      "orderDate": "2021-04-18T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/18/ziyech-grateful-to-werner-and-happy-with-the-team-s--good-job-",
-        "type": "NewsCard",
-        "title": "Ziyech grateful to Werner and happy with the team’s ‘good job’",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/ziyech-grateful-to-werner-and-happy-with-the-team-s--good-job-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-18T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/18/ziyech-grateful-to-werner-and-happy-with-the-team-s--good-job-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ziyech",
-          "id": "editorial/match-reports/2020-21/man-city-fa-cup-semi/ziyech-goal-side-angle-man-city-cup",
-          "gravity": "west",
-          "aspectRatio": 1.8776824,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ziyech grateful to Werner and happy with the team’s ‘good job’",
-      "publishDate": "2021-04-18T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/ziyech-grateful-to-werner-and-happy-with-the-team-s--good-job-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2021-04-18T03:00:00.000Z",
-      "description": "Singling out any Chelsea player as the best of the bunch in our FA Cup victory over Manchester City is hard, such were the impressive performances of those in royal blue across the pitch, but Hakim Ziyech delivered the semi-final’s decisive moment to cap an outstanding individual display.",
-      "matchId": 2198574
     }
   ]
 }
