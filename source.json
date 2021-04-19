@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 996,
+    "totalItems": 997,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
@@ -102,6 +102,54 @@
       "tags": [],
       "date": "2021-04-18T22:22:00.000Z",
       "description": "Chelsea FC has today joined eleven of Europe’s leading clubs in forming a new mid-week competition, the European Super League."
+    },
+    {
+      "contentType": "On Loan",
+      "id": "_content_chelseafcennews20210419chelsea-here-chelsea-there--ugbo",
+      "type": "NewsCard",
+      "timestamp": "2021-04-19T11:40:00.000Z",
+      "orderDate": "2021-04-19T01:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/19/chelsea-here-chelsea-there--ugbo-scores-again-but-ampadu-suffers",
+        "type": "NewsCard",
+        "title": "Chelsea Here Chelsea There: Ugbo scores again but Ampadu suffers relegation",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/chelsea-here-chelsea-there--ugbo-scores-again-but-ampadu-suffers.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-19T11:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/19/chelsea-here-chelsea-there--ugbo-scores-again-but-ampadu-suffers",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ugbo celebrates another goalscoring display in Belgium",
+          "id": "editorial/news/2021/04/19/Ugbo-goal-celebration-Cercle-Brugge",
+          "gravity": "auto",
+          "aspectRatio": 1.5003021,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Here Chelsea There: Ugbo scores again but Ampadu suffers relegation",
+      "publishDate": "2021-04-19T11:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/chelsea-here-chelsea-there--ugbo-scores-again-but-ampadu-suffers.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Ethan Ampadu",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ethan_ampadu"
+        },
+        {
+          "title": "Loan Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_loan-highlights"
+        }
+      ],
+      "date": "2021-04-19T11:40:00.000Z",
+      "description": "Our weekly round-up of those Chelsea players out on loan today focuses on a young striker enjoying his best goalscoring season and a defender whose side were relegated…"
     },
     {
       "contentType": "Competitions",
@@ -488,60 +536,6 @@
       "date": "2021-04-18T10:59:00.000Z",
       "description": "The Blues made it through to the 15th FA Cup final in our history with a well-deserved victory over Manchester City at Wembley. Extended highlights of how the game was won can be viewed above now.",
       "matchId": 2198574
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210418pl2-report--tottenham-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-04-18T14:15:00.000Z",
-      "orderDate": "2021-04-18T09:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/18/pl2-report--tottenham-chelsea",
-        "type": "NewsCard",
-        "title": "PL2 report: Tottenham 1 Chelsea 4",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/pl2-report--tottenham-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-18T14:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/18/pl2-report--tottenham-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "McEachran",
-          "id": "editorial/news/2021/04/18/McEachran-goal-celebration-vs-spurs",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Tottenham 1 Chelsea 4",
-      "publishDate": "2021-04-18T14:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/pl2-report--tottenham-chelsea.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-04-18T14:15:00.000Z",
-      "description": "A four-midable development squad performance saw us complete a derby double over Spurs this season with goals from George McEachran, Thierno Ballo, Harvey Vale and George Nunn."
     }
   ]
 }
