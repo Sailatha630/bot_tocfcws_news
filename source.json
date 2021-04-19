@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 991,
+    "totalItems": 992,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210419tuchel--how-goals-like-our-semi-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-19T08:00:00.000Z",
+      "orderDate": "2021-04-19T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/19/tuchel--how-goals-like-our-semi-final-one-are-scored",
+        "type": "NewsCard",
+        "title": "Tuchel: How goals like our semi-final one are scored",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/tuchel--how-goals-like-our-semi-final-one-are-scored.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-19T08:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/19/tuchel--how-goals-like-our-semi-final-one-are-scored",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hakim hits the target vs Man City",
+          "id": "editorial/match-reports/2020-21/man-city-fa-cup-semi/ziyech-goal-city",
+          "gravity": "auto",
+          "aspectRatio": 1.499829,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: How goals like our semi-final one are scored",
+      "publishDate": "2021-04-19T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/tuchel--how-goals-like-our-semi-final-one-are-scored.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        }
+      ],
+      "date": "2021-04-19T08:00:00.000Z",
+      "description": "It was the goal that powered Thomas Tuchel to his first final in charge of Chelsea, while at the same time ending opponents Man City’s quest for a quadruple this season. It was also a goal that clearly had some training-ground work behind it, given that similar moves were seen in the same game and matches before.",
+      "matchId": 2198574
+    },
     {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20210418club-statement",
@@ -490,55 +549,6 @@
       "date": "2021-04-17T18:35:00.000Z",
       "description": "Chelsea are through to the Emirates FA Cup final for the fourth time in five seasons courtesy of Hakim Ziyech’s well-worked second-half goal and a superb collective effort throughout.",
       "matchId": 2198574
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210418spence-praises-chelsea-youngster",
-      "type": "NewsCard",
-      "timestamp": "2021-04-18T06:00:00.000Z",
-      "orderDate": "2021-04-17T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/18/spence-praises-chelsea-youngsters",
-        "type": "NewsCard",
-        "title": "Spence praises Chelsea youngsters",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/spence-praises-chelsea-youngsters.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-18T06:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/18/spence-praises-chelsea-youngsters",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Spence_Celebrations_London_City",
-          "gravity": "center",
-          "aspectRatio": 1.5003484,
-          "cropMode": "fit"
-        }
-      },
-      "content": "Spence praises Chelsea youngsters",
-      "publishDate": "2021-04-18T06:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/spence-praises-chelsea-youngsters.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        }
-      ],
-      "date": "2021-04-18T06:00:00.000Z",
-      "description": "Drew Spence bagged a brace in our 5-0 victory against London City Lionesses on Friday as Chelsea booked our place in the fifth round of the Vitality Women’s FA Cup and our longest-serving player was delighted to be back amongst the goals.",
-      "matchId": 2194079
     }
   ]
 }
