@@ -1,12 +1,108 @@
 {
   "pagination": {
-    "totalItems": 997,
+    "totalItems": 999,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210419tuchel-press-conference-team-new",
+      "type": "NewsCard",
+      "timestamp": "2021-04-19T12:50:00.000Z",
+      "orderDate": "2021-04-19T13:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/19/tuchel-press-conference-team-news-ahead-of-brighton-",
+        "type": "NewsCard",
+        "title": "Tuchel provides fitness update on two defenders, explains Abraham situation and reflects on Mourinho departure",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/tuchel-press-conference-team-news-ahead-of-brighton-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-19T12:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/19/tuchel-press-conference-team-news-ahead-of-brighton-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/04/19/thiago-silva-press-conf-graphic",
+          "gravity": "auto",
+          "aspectRatio": 2.2230828,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel provides fitness update on two defenders, explains Abraham situation and reflects on Mourinho departure",
+      "publishDate": "2021-04-19T12:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/tuchel-press-conference-team-news-ahead-of-brighton-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-19T12:50:00.000Z",
+      "description": "Thomas Tuchel will make a late decision on whether to start Thiago Silva in tomorrow night’s Premier League meeting with Brighton, citing concerns about the defender’s recent workload as well as the availability of the returning Andreas Christensen.",
+      "matchId": 2128598
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210419thomas-tuchel-reacts-to-european",
+      "type": "NewsCard",
+      "timestamp": "2021-04-19T12:55:00.000Z",
+      "orderDate": "2021-04-19T13:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/19/thomas-tuchel-reacts-to-european-super-league-news",
+        "type": "NewsCard",
+        "title": "Thomas Tuchel reacts to European Super League news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/thomas-tuchel-reacts-to-european-super-league-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-19T12:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/19/thomas-tuchel-reacts-to-european-super-league-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Thomas Tuchel",
+          "id": "editorial/news/2021/04/09/tuchel-press-conference-graphic-border-stock-premier-league",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thomas Tuchel reacts to European Super League news",
+      "publishDate": "2021-04-19T12:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/thomas-tuchel-reacts-to-european-super-league-news.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-19T12:55:00.000Z",
+      "description": "At his press conference today, Thomas Tuchel was asked about the new European Super League."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210419tuchel--how-goals-like-our-semi-",
@@ -411,130 +507,6 @@
       ],
       "date": "2021-04-18T15:06:00.000Z",
       "description": "Tactics played a major part in Saturday’s big win over Manchester City, but so did individual performances reckons Timo Werner, who was crucial in the game’s deciding moment.",
-      "matchId": 2198574
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210418the-debrief--chelsea-vs-man-city",
-      "type": "NewsCard",
-      "timestamp": "2021-04-18T11:21:00.000Z",
-      "orderDate": "2021-04-18T11:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/18/the-debrief--chelsea-vs-man-city",
-        "type": "NewsCard",
-        "title": "The Debrief: Pacy pairing and cutting City chances was Chelsea’s Wembley way",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/the-debrief--chelsea-vs-man-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-18T11:21:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/18/the-debrief--chelsea-vs-man-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/04/18/debrief_man_city_cup_4",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Pacy pairing and cutting City chances was Chelsea’s Wembley way",
-      "publishDate": "2021-04-18T11:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/the-debrief--chelsea-vs-man-city.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-18T11:21:00.000Z",
-      "description": "We take a look at some of the eye-catching statistics and graphics from yesterday's FA Cup victory over Manchester City, which extends a proud record in the competition...",
-      "matchId": 2198574
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210418watch-extended-highlights-of-che",
-      "type": "NewsCard",
-      "timestamp": "2021-04-18T10:59:00.000Z",
-      "orderDate": "2021-04-18T10:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win",
-        "type": "NewsCard",
-        "title": "Watch extended highlights of Chelsea's FA Cup semi-final win",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-18T10:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Extended Chelsea 1-0 Manchester City (N) FA Cup Highlights",
-          "videoId": "OmiYZcA4",
-          "bucket": "prod-cfc",
-          "description": "Watch extended highlights as Chelsea took on Manchester City at Wembley Stadium in the FA Cup",
-          "duration": 474000,
-          "date": "2021-04-18T00:24:26.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/OmiYZcA4/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Watch extended highlights as Chelsea took on Manchester City at Wembley Stadium in the FA Cup"
-      },
-      "content": "Watch extended highlights of Chelsea's FA Cup semi-final win",
-      "publishDate": "2021-04-18T10:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/watch-extended-highlights-of-chelsea-s-fa-cup-semi-final-win.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-18T10:59:00.000Z",
-      "description": "The Blues made it through to the 15th FA Cup final in our history with a well-deserved victory over Manchester City at Wembley. Extended highlights of how the game was won can be viewed above now.",
       "matchId": 2198574
     }
   ]
