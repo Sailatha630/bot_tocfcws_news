@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210420pre-match-briefing--chelsea-vs-b",
+      "type": "NewsCard",
+      "timestamp": "2021-04-20T09:03:00.000Z",
+      "orderDate": "2021-04-20T09:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/20/pre-match-briefing--chelsea-vs-brighton",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Brighton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/pre-match-briefing--chelsea-vs-brighton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-20T09:03:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/04/20/pre-match-briefing--chelsea-vs-brighton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/news/2021/04/19/stadium_view_april_2021",
+          "gravity": "auto",
+          "aspectRatio": 1.50014,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Brighton",
+      "publishDate": "2021-04-20T09:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/pre-match-briefing--chelsea-vs-brighton.html",
+      "readTimeInMins": 59,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Brighton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brighton"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-20T09:03:00.000Z",
+      "description": "And so it is back to the league after FA Cup and Champions League progress. Club historian Rick Glanvill and club statistician Paul Dutton preview our Tuesday evening encounter against the Seagulls…",
+      "matchId": 2128598
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210420tuchel--i-don-t-play-tennis-or-c",
       "type": "NewsCard",
@@ -452,64 +506,6 @@
       ],
       "date": "2021-04-19T09:01:00.000Z",
       "description": "On-loan Chelsea striker Armando Broja claimed a cup final assist in the Netherlands but it was not enough for 10-man Vitesse Arnhem as they were beaten by a stoppage-time Ajax winner."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210419five-live-streams-on-chelsea-pla",
-      "type": "NewsCard",
-      "timestamp": "2021-04-19T08:44:00.000Z",
-      "orderDate": "2021-04-18T23:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/19/five-live-streams-on-chelsea-platforms-this-week",
-        "type": "NewsCard",
-        "title": "Five live streams on Chelsea platforms this week",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/five-live-streams-on-chelsea-platforms-this-week.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-19T08:44:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/19/five-live-streams-on-chelsea-platforms-this-week",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Live streams",
-          "id": "editorial/news/2021/04/19/live-streams-19-april-graphic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Five live streams on Chelsea platforms this week",
-      "publishDate": "2021-04-19T08:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/five-live-streams-on-chelsea-platforms-this-week.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2021-04-19T08:44:00.000Z",
-      "description": "The press conference, build-up and reaction to two big Premier League games are among the live streams you can watch this week, as well as live Academy football on Friday night."
     }
   ]
 }
