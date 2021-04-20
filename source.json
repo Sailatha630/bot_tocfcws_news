@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210420tuchel--i-don-t-play-tennis-or-c",
+      "type": "NewsCard",
+      "timestamp": "2021-04-20T06:45:00.000Z",
+      "orderDate": "2021-04-20T06:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/20/tuchel--i-don-t-play-tennis-or-chess-so-players-deserve-the-cred",
+        "type": "NewsCard",
+        "title": "Tuchel: I don’t play tennis or chess so players deserve the credit",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/tuchel--i-don-t-play-tennis-or-chess-so-players-deserve-the-cred.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-20T06:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/20/tuchel--i-don-t-play-tennis-or-chess-so-players-deserve-the-cred",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel and Guardiola",
+          "id": "editorial/news/2021/04/19/Tuchel-Guardiola-Cup-semi-final",
+          "gravity": "auto",
+          "aspectRatio": 1.4040753,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: I don’t play tennis or chess so players deserve the credit",
+      "publishDate": "2021-04-20T06:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/tuchel--i-don-t-play-tennis-or-chess-so-players-deserve-the-cred.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-20T06:45:00.000Z",
+      "description": "After a week of knockout success in both European and domestic competition, the attention returns to the Premier League with two big matches for the Blues in the next five days...",
+      "matchId": 2128294
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210420chelsea-vs-brighton---the-stats",
       "type": "NewsCard",
@@ -456,54 +510,6 @@
       ],
       "date": "2021-04-19T08:44:00.000Z",
       "description": "The press conference, build-up and reaction to two big Premier League games are among the live streams you can watch this week, as well as live Academy football on Friday night."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210419media-watch--chelsea-linked-with",
-      "type": "NewsCard",
-      "timestamp": "2021-04-19T09:17:00.000Z",
-      "orderDate": "2021-04-18T23:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/19/media-watch--chelsea-linked-with-garcia--shearer-praises-tuchel-",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea linked with Garcia, Shearer praises Tuchel and Hazard clear for Blues reunion",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/media-watch--chelsea-linked-with-garcia--shearer-praises-tuchel-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-19T09:17:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/19/media-watch--chelsea-linked-with-garcia--shearer-praises-tuchel-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Garcia-mw-190421",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea linked with Garcia, Shearer praises Tuchel and Hazard clear for Blues reunion",
-      "publishDate": "2021-04-19T09:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/media-watch--chelsea-linked-with-garcia--shearer-praises-tuchel-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Eden Hazard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_eden-hazard"
-        }
-      ],
-      "date": "2021-04-19T09:17:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Eric Garcia and Alan Shearer praises Thomas Tuchel’s tactics against Manchester City."
     }
   ]
 }
