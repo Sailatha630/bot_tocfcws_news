@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210420azpilicueta-explains-our-defensi",
+      "type": "NewsCard",
+      "timestamp": "2021-04-20T14:00:00.000Z",
+      "orderDate": "2021-04-20T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/20/azpilicueta-explains-our-defensive-improvement-and-thanks-tuchel",
+        "type": "NewsCard",
+        "title": "Azpilicueta explains our defensive improvement and thanks Tuchel",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/azpilicueta-explains-our-defensive-improvement-and-thanks-tuchel.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-20T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/20/azpilicueta-explains-our-defensive-improvement-and-thanks-tuchel",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Cesar Azpilicueta",
+          "id": "editorial/news/2021/04/20/azpilicueta-training-cobham-stock",
+          "gravity": "auto",
+          "aspectRatio": 0.6666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Azpilicueta explains our defensive improvement and thanks Tuchel",
+      "publishDate": "2021-04-20T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/azpilicueta-explains-our-defensive-improvement-and-thanks-tuchel.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-20T14:00:00.000Z",
+      "description": "Cesar Azpilicueta has played every minute of Premier League and Champions League football since Thomas Tuchel arrived, and our skipper’s high-level performances in that period have contributed to so many Chelsea clean sheets.",
+      "matchId": 2128598
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210420pat-nevin--how-brighton-are-simi",
       "type": "NewsCard",
@@ -484,54 +533,6 @@
       "date": "2021-04-20T13:00:00.000Z",
       "description": "On Wednesday, Chelsea Women head to Manchester where we encounter Manchester City in the race for the title of the Barclays FA Women’s Super League.",
       "matchId": 2138485
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210419tuchel-press-conference-team-new",
-      "type": "NewsCard",
-      "timestamp": "2021-04-19T12:50:00.000Z",
-      "orderDate": "2021-04-19T13:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/19/tuchel-press-conference-team-news-ahead-of-brighton-",
-        "type": "NewsCard",
-        "title": "Tuchel provides fitness update on two defenders, explains Abraham situation and reflects on Mourinho departure",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/tuchel-press-conference-team-news-ahead-of-brighton-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-19T12:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/19/tuchel-press-conference-team-news-ahead-of-brighton-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/04/19/thiago-silva-press-conf-graphic",
-          "gravity": "auto",
-          "aspectRatio": 2.2230828,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel provides fitness update on two defenders, explains Abraham situation and reflects on Mourinho departure",
-      "publishDate": "2021-04-19T12:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/tuchel-press-conference-team-news-ahead-of-brighton-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-19T12:50:00.000Z",
-      "description": "Thomas Tuchel will make a late decision on whether to start Thiago Silva in tomorrow night’s Premier League meeting with Brighton, citing concerns about the defender’s recent workload as well as the availability of the returning Andreas Christensen.",
-      "matchId": 2128598
     }
   ]
 }
