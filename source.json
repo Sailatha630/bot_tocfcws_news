@@ -290,6 +290,55 @@
       "matchId": 2138485
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210420under-18s-report--arsenal-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-04-20T12:10:00.000Z",
+      "orderDate": "2021-04-20T03:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/20/under-18s-report--arsenal-chelsea",
+        "type": "NewsCard",
+        "title": "Under-18s report: Arsenal 2 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/under-18s-report--arsenal-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-20T12:10:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/20/under-18s-report--arsenal-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Charlie Wiggett",
+          "id": "editorial/news/2021/04/20/Charlie-Wiggett-cfcu18-arsenal-away",
+          "gravity": "auto",
+          "aspectRatio": 1.3706467,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: Arsenal 2 Chelsea 1",
+      "publishDate": "2021-04-20T12:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/under-18s-report--arsenal-chelsea.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-04-20T12:10:00.000Z",
+      "description": "Jude Soonsup-Bell’s opener wasn’t enough for our Under-18s who fell to defeat against Arsenal this morning."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210420chelsea-vs-brighton---the-stats",
       "type": "NewsCard",
@@ -487,65 +536,6 @@
       ],
       "date": "2021-04-19T12:55:00.000Z",
       "description": "At his press conference today, Thomas Tuchel was asked about the new European Super League."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210419tuchel--how-goals-like-our-semi-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-19T08:00:00.000Z",
-      "orderDate": "2021-04-19T08:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/19/tuchel--how-goals-like-our-semi-final-one-are-scored",
-        "type": "NewsCard",
-        "title": "Tuchel: How goals like our semi-final one are scored",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/tuchel--how-goals-like-our-semi-final-one-are-scored.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-19T08:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/19/tuchel--how-goals-like-our-semi-final-one-are-scored",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hakim hits the target vs Man City",
-          "id": "editorial/match-reports/2020-21/man-city-fa-cup-semi/ziyech-goal-city",
-          "gravity": "auto",
-          "aspectRatio": 1.499829,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: How goals like our semi-final one are scored",
-      "publishDate": "2021-04-19T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/19/tuchel--how-goals-like-our-semi-final-one-are-scored.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        }
-      ],
-      "date": "2021-04-19T08:00:00.000Z",
-      "description": "It was the goal that powered Thomas Tuchel to his first final in charge of Chelsea, while at the same time ending opponents Man City’s quest for a quadruple this season. It was also a goal that clearly had some training-ground work behind it, given that similar moves were seen in the same game and matches before.",
-      "matchId": 2198574
     }
   ]
 }
