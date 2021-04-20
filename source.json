@@ -1,12 +1,67 @@
 {
   "pagination": {
-    "totalItems": 999,
+    "totalItems": 1000,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210420chelsea-vs-brighton---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-04-20T03:00:00.000Z",
+      "orderDate": "2021-04-20T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/20/chelsea-vs-brighton---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Brighton - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/chelsea-vs-brighton---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-20T03:00:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/04/20/chelsea-vs-brighton---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James playing Brighton",
+          "id": "editorial/news/2020/09/GettyImages-1269517398",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Chelsea vs Brighton - the stats",
+      "publishDate": "2021-04-20T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/chelsea-vs-brighton---the-stats.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Brighton and Hove Albion",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brighton-and-hove-albion"
+        }
+      ],
+      "date": "2021-04-20T03:00:00.000Z",
+      "description": "It is quickly back to the Premier League after Saturday's cup success and as part of our preview of the hosting of Brighton, we have the run-down of the major facts and figures you need...",
+      "matchId": 2128598
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20210419tuchel-press-conference-team-new",
@@ -449,65 +504,6 @@
       ],
       "date": "2021-04-19T09:17:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Eric Garcia and Alan Shearer praises Thomas Tuchel’s tactics against Manchester City."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210418werner---his-thinking-during-goa",
-      "type": "NewsCard",
-      "timestamp": "2021-04-18T15:06:00.000Z",
-      "orderDate": "2021-04-18T15:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/18/werner---his-thinking-during-goal-move-vs-man-city-and-hope-for-",
-        "type": "NewsCard",
-        "title": "Werner – his thinking during goal move vs Man City and hope for final ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/werner---his-thinking-during-goal-move-vs-man-city-and-hope-for-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-18T15:06:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/18/werner---his-thinking-during-goal-move-vs-man-city-and-hope-for-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Timo Werner",
-          "id": "editorial/news/2021/04/18/werner_man_city-wembley",
-          "gravity": "auto",
-          "aspectRatio": 1.5003268,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Werner – his thinking during goal move vs Man City and hope for final ",
-      "publishDate": "2021-04-18T15:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/18/werner---his-thinking-during-goal-move-vs-man-city-and-hope-for-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        }
-      ],
-      "date": "2021-04-18T15:06:00.000Z",
-      "description": "Tactics played a major part in Saturday’s big win over Manchester City, but so did individual performances reckons Timo Werner, who was crucial in the game’s deciding moment.",
-      "matchId": 2198574
     }
   ]
 }
