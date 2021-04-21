@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210421women-s-match-report--manchester",
+      "type": "NewsCard",
+      "timestamp": "2021-04-21T19:30:00.000Z",
+      "orderDate": "2021-04-21T19:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/21/women-s-match-report--manchester-city-0-0-chelsea",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Manchester City 0-0 Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/women-s-match-report--manchester-city-0-0-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-21T19:30:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/04/21/women-s-match-report--manchester-city-0-0-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Kerr_Man_City_Celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.4998081,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Manchester City 0-0 Chelsea",
+      "publishDate": "2021-04-21T19:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/women-s-match-report--manchester-city-0-0-chelsea.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        }
+      ],
+      "date": "2021-04-21T19:30:00.000Z",
+      "description": "Chelsea FC Women moved one step closer to securing back-to-back Barclays FA Women’s Super League titles after a 2-2 draw against Manchester City.",
+      "matchId": 2138485
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210421the-debrief--blues-blunted-by-di",
       "type": "NewsCard",
@@ -467,55 +520,6 @@
       ],
       "date": "2021-04-20T18:00:00.000Z",
       "description": "Kick-off for tonight's match at Stamford Bridge has been delayed until 8.15pm (UK time) due to the teams arriving late at the stadium.",
-      "matchId": 2128598
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210420azpilicueta-explains-our-defensi",
-      "type": "NewsCard",
-      "timestamp": "2021-04-20T14:00:00.000Z",
-      "orderDate": "2021-04-20T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/20/azpilicueta-explains-our-defensive-improvement-and-thanks-tuchel",
-        "type": "NewsCard",
-        "title": "Azpilicueta explains our defensive improvement and thanks Tuchel",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/azpilicueta-explains-our-defensive-improvement-and-thanks-tuchel.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-20T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/20/azpilicueta-explains-our-defensive-improvement-and-thanks-tuchel",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Cesar Azpilicueta",
-          "id": "editorial/news/2021/04/20/azpilicueta-training-cobham-stock",
-          "gravity": "auto",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta explains our defensive improvement and thanks Tuchel",
-      "publishDate": "2021-04-20T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/20/azpilicueta-explains-our-defensive-improvement-and-thanks-tuchel.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-20T14:00:00.000Z",
-      "description": "Cesar Azpilicueta has played every minute of Premier League and Champions League football since Thomas Tuchel arrived, and our skipper’s high-level performances in that period have contributed to so many Chelsea clean sheets.",
       "matchId": 2128598
     }
   ]
