@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210422quiz--how-well-do-you-remember-o",
+      "type": "NewsCard",
+      "timestamp": "2021-04-22T11:52:00.000Z",
+      "orderDate": "2021-04-22T11:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/22/quiz--how-well-do-you-remember-our-fa-cup-semi-final-wins-on-thi",
+        "type": "NewsCard",
+        "title": "Quiz! How well do you remember our FA Cup semi-final wins on this day?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/quiz--how-well-do-you-remember-our-fa-cup-semi-final-wins-on-thi.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-22T11:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/22/quiz--how-well-do-you-remember-our-fa-cup-semi-final-wins-on-thi",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Diego Costa and Hazard celebrate vs Tottenham",
+          "id": "editorial/news/2021/04/21/hazard-costa-tottenham",
+          "gravity": "auto",
+          "aspectRatio": 1.4626737,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz! How well do you remember our FA Cup semi-final wins on this day?",
+      "publishDate": "2021-04-22T11:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/quiz--how-well-do-you-remember-our-fa-cup-semi-final-wins-on-thi.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-22T11:52:00.000Z",
+      "description": "Twice in recent years we have won an FA Cup semi-final on 22 April, so to mark those anniversaries shortly after our weekend success over Man City at the same stage, we have a quiz for you on those memorable victories over Tottenham and Southampton."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210422extra-time-with--willy-caballero",
       "type": "NewsCard",
@@ -485,54 +533,6 @@
       "date": "2021-04-21T08:29:00.000Z",
       "description": "The outcome of Chelsea FC Women’s clash with Manchester City this evening could prove pivotal in the race for the Barclays FA Women’s Super League title, but Millie Bright says the Blues remain focused on the task at hand.",
       "matchId": 2138485
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210421media-watch--chelsea-interested-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-21T08:59:00.000Z",
-      "orderDate": "2021-04-20T23:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/21/media-watch--chelsea-interested-in-varane--thiago-silva-hints-at",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea interested in Varane, Thiago Silva hints at contract extension and Murray believes Mendy can end stereotypes",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/media-watch--chelsea-interested-in-varane--thiago-silva-hints-at.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-21T08:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/21/media-watch--chelsea-interested-in-varane--thiago-silva-hints-at",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Varane-mw-210421",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea interested in Varane, Thiago Silva hints at contract extension and Murray believes Mendy can end stereotypes",
-      "publishDate": "2021-04-21T08:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/media-watch--chelsea-interested-in-varane--thiago-silva-hints-at.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2021-04-21T08:59:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues receive a huge boost in their reported interest in Raphael Varane and Thiago Silva says he wants to stay at Chelsea."
     }
   ]
 }
