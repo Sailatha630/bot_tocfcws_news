@@ -120,6 +120,60 @@
       "matchId": 2128614
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210423pl2-report--manchester-united-ch",
+      "type": "NewsCard",
+      "timestamp": "2021-04-23T19:59:00.000Z",
+      "orderDate": "2021-04-23T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/23/pl2-report--manchester-united-chelsea",
+        "type": "NewsCard",
+        "title": "PL2 report: Manchester United 4 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/pl2-report--manchester-united-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-23T19:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/23/pl2-report--manchester-united-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Myles Peart-Harris",
+          "id": "editorial/news/2021/04/23/Peart-Harris-goal-cfcdev-man-united-away",
+          "gravity": "auto",
+          "aspectRatio": 1.5004859,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Manchester United 4 Chelsea 2",
+      "publishDate": "2021-04-23T19:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/pl2-report--manchester-united-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-04-23T19:59:00.000Z",
+      "description": "Ten-man Chelsea fell to defeat against Manchester United in Premier League 2 on Friday night."
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20210423happy-hammers-highlights---rank-",
       "type": "NewsCard",
@@ -489,54 +543,6 @@
       ],
       "date": "2021-04-23T08:50:00.000Z",
       "description": "The business end of the season is well and truly upon us with the Blues among a cluster of teams aiming to finish in the top four of the Premier League. Here we analyse the remaining fixtures of our rivals for Champions League qualification and set a poll for you to answer…"
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210422quiz--how-well-do-you-remember-o",
-      "type": "NewsCard",
-      "timestamp": "2021-04-22T11:52:00.000Z",
-      "orderDate": "2021-04-22T11:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/22/quiz--how-well-do-you-remember-our-fa-cup-semi-final-wins-on-thi",
-        "type": "NewsCard",
-        "title": "Quiz! How well do you remember our FA Cup semi-final wins on this day?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/quiz--how-well-do-you-remember-our-fa-cup-semi-final-wins-on-thi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-22T11:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/22/quiz--how-well-do-you-remember-our-fa-cup-semi-final-wins-on-thi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Diego Costa and Hazard celebrate vs Tottenham",
-          "id": "editorial/news/2021/04/21/hazard-costa-tottenham",
-          "gravity": "auto",
-          "aspectRatio": 1.4626737,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz! How well do you remember our FA Cup semi-final wins on this day?",
-      "publishDate": "2021-04-22T11:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/quiz--how-well-do-you-remember-our-fa-cup-semi-final-wins-on-thi.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-22T11:52:00.000Z",
-      "description": "Twice in recent years we have won an FA Cup semi-final on 22 April, so to mark those anniversaries shortly after our weekend success over Man City at the same stage, we have a quiz for you on those memorable victories over Tottenham and Southampton."
     }
   ]
 }
