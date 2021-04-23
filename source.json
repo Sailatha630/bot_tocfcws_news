@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210423happy-hammers-highlights---rank-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-23T10:47:00.000Z",
+      "orderDate": "2021-04-23T10:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/23/happy-hammers-highlights---rank-our-top-premier-league-moments-a",
+        "type": "NewsCard",
+        "title": "Happy Hammers highlights - rank our top Premier League moments against West Ham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/happy-hammers-highlights---rank-our-top-premier-league-moments-a.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-23T10:47:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/23/happy-hammers-highlights---rank-our-top-premier-league-moments-a",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Torres",
+          "id": "video/2019/Torres_2011_WestHam_11",
+          "gravity": "face",
+          "aspectRatio": 1.5432099,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Happy Hammers highlights - rank our top Premier League moments against West Ham",
+      "publishDate": "2021-04-23T10:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/happy-hammers-highlights---rank-our-top-premier-league-moments-a.html",
+      "readTimeInMins": 35,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-23T10:47:00.000Z",
+      "description": "To mark a special milestone in our cross-city rivalry with West Ham, we have a selection of our favourite memories against the Clarets and a poll for you to vote in...",
+      "matchId": 2128614
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210422west-ham-vs-chelsea---the-stats",
       "type": "NewsCard",
@@ -480,54 +534,6 @@
       },
       "date": "2021-04-22T10:25:00.000Z",
       "description": "In his weekly fan’s-view column, Giles Smith looks back at Saturday’s successful quest to deny opponents a quadruple, and steels himself for extra spin on this Saturday’s challenge…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210422media-watch--chelsea-eyeing-calh",
-      "type": "NewsCard",
-      "timestamp": "2021-04-22T09:40:00.000Z",
-      "orderDate": "2021-04-22T00:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/22/media-watch--chelsea-eyeing-calhanoglu--sarri-tipped-for-premier",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea eyeing Calhanoglu, Sarri tipped for Premier League return and Real Madrid to miss key players for Champions League clash ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/media-watch--chelsea-eyeing-calhanoglu--sarri-tipped-for-premier.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-22T09:40:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/22/media-watch--chelsea-eyeing-calhanoglu--sarri-tipped-for-premier",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/calhanoglu-mw-220421",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea eyeing Calhanoglu, Sarri tipped for Premier League return and Real Madrid to miss key players for Champions League clash ",
-      "publishDate": "2021-04-22T09:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/media-watch--chelsea-eyeing-calhanoglu--sarri-tipped-for-premier.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Maurizio Sarri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_maurizio-sarri"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-04-22T09:40:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly keeping an eye on Hakan Calhanoglu and Maurizio Sarri is linked with the Tottenham job."
     }
   ]
 }
