@@ -62,6 +62,61 @@
       "matchId": 2128614
     },
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210423pl2-preview--chelsea-vs-manchest",
+      "type": "NewsCard",
+      "timestamp": "2021-04-23T06:50:00.000Z",
+      "orderDate": "2021-04-22T23:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/23/pl2-preview--chelsea-vs-manchester-united--kick-off-time-and-how",
+        "type": "NewsCard",
+        "title": "PL2 Preview: Chelsea vs Manchester United, kick-off time and how to watch live",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/pl2-preview--chelsea-vs-manchester-united--kick-off-time-and-how.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-23T06:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/23/pl2-preview--chelsea-vs-manchester-united--kick-off-time-and-how",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Development squad matchday preview",
+          "id": "editorial/news/2021/04/22/development-squad-matchday-preview-vs-man-united",
+          "gravity": "south",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 Preview: Chelsea vs Manchester United, kick-off time and how to watch live",
+      "publishDate": "2021-04-23T06:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/pl2-preview--chelsea-vs-manchester-united--kick-off-time-and-how.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-04-23T06:50:00.000Z",
+      "description": "Our development squad take on Man United in the penultimate away game of the Premier League 2 season. You can watch the game live on the 5th Stand app, the website or our YouTube channel on Friday evening.",
+      "matchId": 2141125
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210422chilwell--everyone-s-buzzing-for",
       "type": "NewsCard",
@@ -484,54 +539,6 @@
       "date": "2021-04-21T12:55:00.000Z",
       "description": "We take a close look at the key statistics from last night’s stalemate which help explain why the Blues didn’t hit top gear against Brighton…",
       "matchId": 2128598
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210421chelsea-premier-league-fixture-u",
-      "type": "NewsCard",
-      "timestamp": "2021-04-21T12:16:00.000Z",
-      "orderDate": "2021-04-21T12:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/21/chelsea-premier-league-fixture-update",
-        "type": "NewsCard",
-        "title": "Chelsea Premier League fixture update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/chelsea-premier-league-fixture-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-21T12:16:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/21/chelsea-premier-league-fixture-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Chelsea and Premier League",
-          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
-          "gravity": "auto",
-          "aspectRatio": 1.4790996,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Premier League fixture update",
-      "publishDate": "2021-04-21T12:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/chelsea-premier-league-fixture-update.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-04-21T12:16:00.000Z",
-      "description": "Two of our league games in May have new kick-off times due to TV broadcast selections"
     }
   ]
 }
