@@ -62,6 +62,54 @@
       "matchId": 2128614
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210423media-watch--chelsea-linked-with",
+      "type": "NewsCard",
+      "timestamp": "2021-04-23T09:03:00.000Z",
+      "orderDate": "2021-04-23T00:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/23/media-watch--chelsea-linked-with-kamara-bid--sir-alex-ferguson-i",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked with Kamara bid, Sir Alex Ferguson is impressed by Gilmour and Shearer praises Gallagher’s debut Premier League season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/media-watch--chelsea-linked-with-kamara-bid--sir-alex-ferguson-i.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-23T09:03:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/23/media-watch--chelsea-linked-with-kamara-bid--sir-alex-ferguson-i",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/kamara-mw-230421",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked with Kamara bid, Sir Alex Ferguson is impressed by Gilmour and Shearer praises Gallagher’s debut Premier League season",
+      "publishDate": "2021-04-23T09:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/media-watch--chelsea-linked-with-kamara-bid--sir-alex-ferguson-i.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        }
+      ],
+      "date": "2021-04-23T09:03:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues have been linked to Boubacar Kamara and Sir Alex Ferguson names Billy Gilmour as one of Scotland’s rising talents."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210423pl2-preview--chelsea-vs-manchest",
       "type": "NewsCard",
@@ -474,59 +522,6 @@
       ],
       "date": "2021-04-22T10:15:00.000Z",
       "description": "Emma Hayes was pleased with how her side adapted well to difficult moments during Wednesday’s 2-2 draw with Manchester City as Chelsea Women’s defensive display proved vital in securing an important point.",
-      "matchId": 2138485
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210421women-s-match-report--manchester",
-      "type": "NewsCard",
-      "timestamp": "2021-04-21T19:30:00.000Z",
-      "orderDate": "2021-04-21T19:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/21/women-s-match-report--manchester-city-0-0-chelsea",
-        "type": "NewsCard",
-        "title": "Women’s match report: Manchester City 2 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/women-s-match-report--manchester-city-0-0-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-21T19:30:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/04/21/women-s-match-report--manchester-city-0-0-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/ChelseaWomen_Kerr_Man_City_Celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.4998081,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s match report: Manchester City 2 Chelsea 2",
-      "publishDate": "2021-04-21T19:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/women-s-match-report--manchester-city-0-0-chelsea.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        }
-      ],
-      "date": "2021-04-21T19:30:00.000Z",
-      "description": "Chelsea FC Women moved one step closer to securing back-to-back Barclays FA Women’s Super League titles with tonight's draw against Manchester City.",
       "matchId": 2138485
     }
   ]
