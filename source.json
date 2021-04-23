@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210423general-admission-season-ticket-",
+      "type": "NewsCard",
+      "timestamp": "2021-04-23T14:00:00.000Z",
+      "orderDate": "2021-04-23T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/23/general-admission-season-ticket-and-matchday-pricing-frozen",
+        "type": "NewsCard",
+        "title": "General admission season ticket and matchday pricing frozen for next season, upgrades to stadium announced",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/general-admission-season-ticket-and-matchday-pricing-frozen.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-23T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/23/general-admission-season-ticket-and-matchday-pricing-frozen",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Stamford Bridge",
+          "id": "editorial/news/2021/04/22/stadium_view_inside_west",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "General admission season ticket and matchday pricing frozen for next season, upgrades to stadium announced",
+      "publishDate": "2021-04-23T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/general-admission-season-ticket-and-matchday-pricing-frozen.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Stamford Bridge",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_stamford-bridge"
+        },
+        {
+          "title": "Season Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_season-tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-04-23T14:00:00.000Z",
+      "description": "Following consultation last week with supporters, Chelsea Football Club can now confirm season ticket and matchday pricing for next season, as well as significant upgrades you will see at Stamford Bridge."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210423thomas-tuchel-press-conference-t",
       "type": "NewsCard",
@@ -484,48 +537,6 @@
       ],
       "date": "2021-04-22T11:52:00.000Z",
       "description": "Twice in recent years we have won an FA Cup semi-final on 22 April, so to mark those anniversaries shortly after our weekend success over Man City at the same stage, we have a quiz for you on those memorable victories over Tottenham and Southampton."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210422extra-time-with--willy-caballero",
-      "type": "NewsCard",
-      "timestamp": "2021-04-22T03:00:00.000Z",
-      "orderDate": "2021-04-22T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/22/extra-time-with--willy-caballero-",
-        "type": "NewsCard",
-        "title": "Extra Time With… Willy Caballero ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/extra-time-with--willy-caballero-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-22T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/22/extra-time-with--willy-caballero-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/3674_ExtraTimeWith_Article_Banner_Cabellero_2870x1300-WEB",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Extra Time With… Willy Caballero ",
-      "publishDate": "2021-04-22T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/extra-time-with--willy-caballero-.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Willy Caballero",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_willy-caballero"
-        }
-      ],
-      "date": "2021-04-22T03:00:00.000Z",
-      "description": "In the third edition of our new interview series speaking to the Chelsea players about their interests away from the pitch, Willy Caballero describes his passion for music and basketball…"
     }
   ]
 }
