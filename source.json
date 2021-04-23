@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210423pre-match-briefing--west-ham-uni",
+      "type": "NewsCard",
+      "timestamp": "2021-04-23T03:00:00.000Z",
+      "orderDate": "2021-04-23T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/23/pre-match-briefing--west-ham-united-vs-chelsea-",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: West Ham United vs Chelsea ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/pre-match-briefing--west-ham-united-vs-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-23T03:00:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/04/23/pre-match-briefing--west-ham-united-vs-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "London Stadium",
+          "id": "editorial/news/2021/04/22/london_olympic_stadium_aerial",
+          "gravity": "auto",
+          "aspectRatio": 1.3342246,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: West Ham United vs Chelsea ",
+      "publishDate": "2021-04-23T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/pre-match-briefing--west-ham-united-vs-chelsea-.html",
+      "readTimeInMins": 21,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2021-04-23T03:00:00.000Z",
+      "description": "A trip to London’s Olympic Park for Saturday tea-time awaits the Blues this weekend. Club historian Rick Glanvill and club statistician Paul Dutton trail an important London derby…",
+      "matchId": 2128614
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210422chilwell--everyone-s-buzzing-for",
       "type": "NewsCard",
@@ -478,65 +532,6 @@
       ],
       "date": "2021-04-21T12:16:00.000Z",
       "description": "Two of our league games in May have new kick-off times due to TV broadcast selections"
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210421jorginho--we-need-to-do-better-o",
-      "type": "NewsCard",
-      "timestamp": "2021-04-21T07:58:00.000Z",
-      "orderDate": "2021-04-21T07:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/21/jorginho--we-need-to-do-better-on-the-ball",
-        "type": "NewsCard",
-        "title": "Jorginho: We need to do better on the ball",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/jorginho--we-need-to-do-better-on-the-ball.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-21T07:58:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/21/jorginho--we-need-to-do-better-on-the-ball",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jorginho",
-          "id": "editorial/news/2021/04/20/Jorginho_GettyImages-1310642719",
-          "gravity": "auto",
-          "aspectRatio": 1.5142667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho: We need to do better on the ball",
-      "publishDate": "2021-04-21T07:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/jorginho--we-need-to-do-better-on-the-ball.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Brighton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brighton"
-        }
-      ],
-      "date": "2021-04-21T07:58:00.000Z",
-      "description": "Jorginho has explained why it was so hard to create chances against Brighton and where we need to improve to have more scoring opportunities in the future.",
-      "matchId": 2128598
     }
   ]
 }
