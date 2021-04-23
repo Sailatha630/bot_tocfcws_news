@@ -62,6 +62,54 @@
       "matchId": 2128614
     },
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210330chelsea-s-race-for-the-premier-l",
+      "type": "NewsCard",
+      "timestamp": "2021-04-23T08:50:00.000Z",
+      "orderDate": "2021-04-23T00:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
+        "type": "NewsCard",
+        "title": "Chelsea’s race for the Premier League top four ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-23T08:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chelsea and the Premier League logo",
+          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
+          "gravity": "auto",
+          "aspectRatio": 1.4790996,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea’s race for the Premier League top four ",
+      "publishDate": "2021-04-23T08:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
+      "readTimeInMins": 63,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-23T08:50:00.000Z",
+      "description": "The business end of the season is well and truly upon us with the Blues among a cluster of teams aiming to finish in the top four of the Premier League. Here we analyse the remaining fixtures of our rivals for Champions League qualification and set a poll for you to answer…"
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210423pl2-preview--chelsea-vs-manchest",
       "type": "NewsCard",
@@ -480,65 +528,6 @@
       "date": "2021-04-21T19:30:00.000Z",
       "description": "Chelsea FC Women moved one step closer to securing back-to-back Barclays FA Women’s Super League titles with tonight's draw against Manchester City.",
       "matchId": 2138485
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210421the-debrief--blues-blunted-by-di",
-      "type": "NewsCard",
-      "timestamp": "2021-04-21T12:55:00.000Z",
-      "orderDate": "2021-04-21T12:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/21/the-debrief--blues-blunted-by-disciplined-brighton-press",
-        "type": "NewsCard",
-        "title": "The Debrief: Blues blunted by disciplined Brighton press",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/the-debrief--blues-blunted-by-disciplined-brighton-press.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-21T12:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/21/the-debrief--blues-blunted-by-disciplined-brighton-press",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/04/21/debrief-graphic-brighton-home",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Blues blunted by disciplined Brighton press",
-      "publishDate": "2021-04-21T12:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/21/the-debrief--blues-blunted-by-disciplined-brighton-press.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        },
-        {
-          "title": "Brighton and Hove Albion",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brighton-and-hove-albion"
-        }
-      ],
-      "date": "2021-04-21T12:55:00.000Z",
-      "description": "We take a close look at the key statistics from last night’s stalemate which help explain why the Blues didn’t hit top gear against Brighton…",
-      "matchId": 2128598
     }
   ]
 }
