@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210424match-report--west-ham-vs-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-04-24T17:40:00.000Z",
+      "orderDate": "2021-04-24T17:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/24/match-report--west-ham-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: West Ham 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/match-report--west-ham-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-24T17:40:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/24/match-report--west-ham-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/west-ham-away/werner-chilwell-west-ham-celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.4535948,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: West Ham 0 Chelsea 1",
+      "publishDate": "2021-04-24T17:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/match-report--west-ham-vs-chelsea.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2021-04-24T17:40:00.000Z",
+      "description": "Chelsea consolidated our fourth place in the Premier League table with victory over our closest challengers for that position in Saturday’s London derby.",
+      "matchId": 2128614
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210424chelsea-line-up-vs-west-ham",
       "type": "NewsCard",
@@ -475,59 +529,6 @@
       "date": "2021-04-23T23:01:00.000Z",
       "description": "The Champions League semi-finals have arrived and this Sunday Chelsea Women head to Germany where we encounter Bayern Munich away in the first-leg tie. All the information you need ahead of the clash can be found in our preview here…",
       "matchId": 2201790
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210423general-admission-season-ticket-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-23T14:00:00.000Z",
-      "orderDate": "2021-04-23T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/23/general-admission-season-ticket-and-matchday-pricing-frozen",
-        "type": "NewsCard",
-        "title": "General admission season ticket and matchday pricing frozen for next season, upgrades to stadium announced",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/general-admission-season-ticket-and-matchday-pricing-frozen.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-23T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/23/general-admission-season-ticket-and-matchday-pricing-frozen",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge",
-          "id": "editorial/news/2021/04/22/stadium_view_inside_west",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "General admission season ticket and matchday pricing frozen for next season, upgrades to stadium announced",
-      "publishDate": "2021-04-23T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/general-admission-season-ticket-and-matchday-pricing-frozen.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        },
-        {
-          "title": "Season Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_season-tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-04-23T14:00:00.000Z",
-      "description": "Following consultation last week with supporters, Chelsea Football Club can now confirm season ticket and matchday pricing for next season, as well as significant upgrades you will see at Stamford Bridge."
     }
   ]
 }
