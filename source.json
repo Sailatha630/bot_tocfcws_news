@@ -8,6 +8,66 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210424set-pieces-key-to-overcoming-wes",
+      "type": "NewsCard",
+      "timestamp": "2021-04-24T13:45:00.000Z",
+      "orderDate": "2021-04-24T13:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/24/set-pieces-key-to-overcoming-west-ham",
+        "type": "NewsCard",
+        "title": "Set-pieces key to overcoming West Ham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/set-pieces-key-to-overcoming-west-ham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-24T13:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/24/set-pieces-key-to-overcoming-west-ham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Azpilicueta against West Ham",
+          "id": "editorial/news/2021/04/23/azpilicueta_west_ham_home",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        },
+        "caption": "Azpilicueta against West Ham"
+      },
+      "content": "Set-pieces key to overcoming West Ham",
+      "publishDate": "2021-04-24T13:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/set-pieces-key-to-overcoming-west-ham.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2021-04-24T13:45:00.000Z",
+      "description": "Analysing Chelsea’s opponents ahead of a big London derby between the fourth-place Blues and fifth-place West Ham, Thomas Tuchel has a good idea how David Moyes’ side are going to play today, and an area of the game to which his own players must pay particular attention.",
+      "matchId": 2128614
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210424mendy-on-a--massive--derby",
       "type": "NewsCard",
@@ -473,60 +533,6 @@
       "date": "2021-04-23T12:58:00.000Z",
       "description": "Edouard Mendy will return between the posts for tomorrow’s trip across the capital but Mateo Kovacic remains absent and looks unlikely to be available to face his former side Real Madrid next week…",
       "matchId": 2128614
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210423pl2-report--manchester-united-ch",
-      "type": "NewsCard",
-      "timestamp": "2021-04-23T19:59:00.000Z",
-      "orderDate": "2021-04-23T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/23/pl2-report--manchester-united-chelsea",
-        "type": "NewsCard",
-        "title": "PL2 report: Manchester United 4 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/pl2-report--manchester-united-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-23T19:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/23/pl2-report--manchester-united-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Myles Peart-Harris",
-          "id": "editorial/news/2021/04/23/Peart-Harris-goal-cfcdev-man-united-away",
-          "gravity": "auto",
-          "aspectRatio": 1.5004859,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Manchester United 4 Chelsea 2",
-      "publishDate": "2021-04-23T19:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/23/pl2-report--manchester-united-chelsea.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-04-23T19:59:00.000Z",
-      "description": "Ten-man Chelsea fell to defeat against Manchester United in Premier League 2 on Friday night."
     }
   ]
 }
