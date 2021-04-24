@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210424mendy-on-a--massive--derby",
+      "type": "NewsCard",
+      "timestamp": "2021-04-24T11:27:00.000Z",
+      "orderDate": "2021-04-24T11:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/24/mendy-on-a--massive--derby",
+        "type": "NewsCard",
+        "title": "Mendy on a 'massive' derby",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/mendy-on-a--massive--derby.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-24T11:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/24/mendy-on-a--massive--derby",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mendy",
+          "id": "editorial/news/2021/04/23/Mendy_GettyImages-1311398854",
+          "gravity": "auto",
+          "aspectRatio": 1.5655577,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mendy on a 'massive' derby",
+      "publishDate": "2021-04-24T11:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/mendy-on-a--massive--derby.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2021-04-24T11:27:00.000Z",
+      "description": "Edouard Mendy looks ahead to a crucial match in the top-four race against West Ham United and reveals the simple secret to our defensive resilience under Thomas Tuchel.",
+      "matchId": 2128614
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210424tammy-s-training-well-reports-tu",
       "type": "NewsCard",
@@ -472,65 +531,6 @@
       ],
       "date": "2021-04-23T10:47:00.000Z",
       "description": "To mark a special milestone in our cross-city rivalry with West Ham, we have a selection of our favourite memories against the Clarets and a poll for you to vote in...",
-      "matchId": 2128614
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210422west-ham-vs-chelsea---the-stats",
-      "type": "NewsCard",
-      "timestamp": "2021-04-23T10:40:00.000Z",
-      "orderDate": "2021-04-23T10:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/22/west-ham-vs-chelsea---the-stats",
-        "type": "NewsCard",
-        "title": "West Ham vs Chelsea - the stats",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/west-ham-vs-chelsea---the-stats.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-23T10:40:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/04/22/west-ham-vs-chelsea---the-stats",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea vs West Ham",
-          "id": "editorial/news/2021/04/22/west-ham-home-kante-jorginho",
-          "gravity": "auto",
-          "aspectRatio": 1.5001625,
-          "cropMode": "fill"
-        }
-      },
-      "content": "West Ham vs Chelsea - the stats",
-      "publishDate": "2021-04-23T10:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/22/west-ham-vs-chelsea---the-stats.html",
-      "readTimeInMins": 20,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "West Ham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-ham"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2021-04-23T10:40:00.000Z",
-      "description": "It is London derby day as the Blues from the west take on the Irons from the east. We continue our build-up with key facts and figures...",
       "matchId": 2128614
     }
   ]
