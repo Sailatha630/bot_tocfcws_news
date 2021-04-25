@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210425werner--i-ve-scored-less-but-i-v",
+      "type": "NewsCard",
+      "timestamp": "2021-04-25T03:30:00.000Z",
+      "orderDate": "2021-04-25T03:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/25/werner--i-ve-scored-less-but-i-ve-learned-more",
+        "type": "NewsCard",
+        "title": "Werner: I’ve scored less but I’ve learned more",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/25/werner--i-ve-scored-less-but-i-ve-learned-more.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-25T03:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/25/werner--i-ve-scored-less-but-i-ve-learned-more",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Timo Werner at West Ham",
+          "id": "editorial/match-reports/2020-21/west-ham-away/west_ham_away_werner",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Werner: I’ve scored less but I’ve learned more",
+      "publishDate": "2021-04-25T03:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/25/werner--i-ve-scored-less-but-i-ve-learned-more.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-25T03:30:00.000Z",
+      "description": "Timo Werner, the man who made the difference at West Ham with the winning goal on Saturday, is targeting a scoring run to make up for lost time this season, but he has also come to appreciate his game should not only be about goals.",
+      "matchId": 2128614
+    },
+    {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20210424chelsea-fc-to-join-english-footb",
       "type": "NewsCard",
@@ -502,55 +556,6 @@
       ],
       "date": "2021-04-24T06:32:00.000Z",
       "description": "Thomas Tuchel has revealed he is pleased with Tammy Abraham’s recent work to win a place in the side, and the head coach certainly is not ruling the striker out from having an impact before the end of the season."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210424blues-squad-confirmed-for-women-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-24T12:08:00.000Z",
-      "orderDate": "2021-04-24T08:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/24/blues-squad-confirmed-for-women-s-champions-league-semi-final-",
-        "type": "NewsCard",
-        "title": "Blues squad confirmed for Women’s Champions League semi-final ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/blues-squad-confirmed-for-women-s-champions-league-semi-final-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-24T12:08:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/24/blues-squad-confirmed-for-women-s-champions-league-semi-final-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Melanie_Leupolz_Travel_Munich",
-          "gravity": "auto",
-          "aspectRatio": 1.502156,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues squad confirmed for Women’s Champions League semi-final ",
-      "publishDate": "2021-04-24T12:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/blues-squad-confirmed-for-women-s-champions-league-semi-final-.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-04-24T12:08:00.000Z",
-      "description": "A squad of 22 Chelsea Women players have arrived in Germany ahead of tomorrow’s Champions League semi-final first leg with Bayern Munich.",
-      "matchId": 2201790
     }
   ]
 }
