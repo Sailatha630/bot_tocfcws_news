@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210425women-s-match-report--bayern-mun",
+      "type": "NewsCard",
+      "timestamp": "2021-04-25T17:35:00.000Z",
+      "orderDate": "2021-04-25T17:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/25/women-s-match-report--bayern-munich-v-chelsea",
+        "type": "NewsCard",
+        "title": "Women’s Match Report: Bayern Munich 2-1 Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/25/women-s-match-report--bayern-munich-v-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-25T17:35:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/04/25/women-s-match-report--bayern-munich-v-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Bayern_Munich",
+          "gravity": "auto",
+          "aspectRatio": 1.5022894,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s Match Report: Bayern Munich 2-1 Chelsea",
+      "publishDate": "2021-04-25T17:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/25/women-s-match-report--bayern-munich-v-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-04-25T17:35:00.000Z",
+      "description": "Chelsea FC Women suffered a 2-1 defeat against Bayern Munich but go into next week’s second leg at Kingsmeadow with a crucial away goal.",
+      "matchId": 2201790
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210425chilwell--we-re-ready-for-the-fi",
       "type": "NewsCard",
@@ -472,60 +520,6 @@
       "date": "2021-04-24T18:40:00.000Z",
       "description": "Chelsea FC Women completed final preparations at the FC Bayern Campus this afternoon (Saturday) ahead of tomorrow’s Champions League semi-final first leg against Bayern Munich.",
       "matchId": 2201790
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210424chelsea-line-up-vs-west-ham",
-      "type": "NewsCard",
-      "timestamp": "2021-04-24T15:30:00.000Z",
-      "orderDate": "2021-04-24T15:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/24/chelsea-line-up-vs-west-ham",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs West Ham",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/chelsea-line-up-vs-west-ham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-24T15:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/24/chelsea-line-up-vs-west-ham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2020-21/west-ham-away/dressing_room_west_ham_away",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs West Ham",
-      "publishDate": "2021-04-24T15:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/24/chelsea-line-up-vs-west-ham.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "West Ham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-ham"
-        }
-      ],
-      "date": "2021-04-24T15:30:00.000Z",
-      "description": "Thomas Tuchel makes six changes from the side that started Tuesday’s draw with Brighton. Edouard Mendy returns in goal and there is a place for N’Golo Kante in midfield.",
-      "matchId": 2128614
     }
   ]
 }
