@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210426real-madrid-vs-chelsea---the-sta",
+      "type": "NewsCard",
+      "timestamp": "2021-04-26T22:47:00.000Z",
+      "orderDate": "2021-04-26T22:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/26/real-madrid-vs-chelsea---the-stats",
+        "type": "NewsCard",
+        "title": "Real Madrid vs Chelsea - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/26/real-madrid-vs-chelsea---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-26T22:47:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/26/real-madrid-vs-chelsea---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Champions League trophy",
+          "id": "editorial/news/2021/04/26/Champions_League_trophy_road_to_istanbul",
+          "gravity": "auto",
+          "aspectRatio": 1.4992679,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Real Madrid vs Chelsea - the stats",
+      "publishDate": "2021-04-26T22:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/26/real-madrid-vs-chelsea---the-stats.html",
+      "readTimeInMins": 28,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-26T22:47:00.000Z",
+      "description": "Ahead of Chelsea's first Champions League semi-final for seven years, we continue the big build-up with key factors and figures...",
+      "matchId": 2197689
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210426tuchel--the-challenge-is-to-be-o",
       "type": "NewsCard",
@@ -516,64 +565,6 @@
       "date": "2021-04-26T10:52:00.000Z",
       "description": "Real Madrid coach Zinedine Zidane has discussed Eden Hazard’s chances of facing Chelsea for the first time since leaving Stamford Bridge in 2019 when the two clubs meet tomorrow.",
       "matchId": 2197689
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210426tuchel-rates-kovacic-s-chances-o",
-      "type": "NewsCard",
-      "timestamp": "2021-04-26T03:00:00.000Z",
-      "orderDate": "2021-04-26T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/26/tuchel-rates-kovacic-s-chances-of-facing-real-and-admires--humbl",
-        "type": "NewsCard",
-        "title": "Tuchel rates Kovacic’s chances of facing Real and admires ‘humble fighter’ Azpilicueta",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/26/tuchel-rates-kovacic-s-chances-of-facing-real-and-admires--humbl.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-26T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/26/tuchel-rates-kovacic-s-chances-of-facing-real-and-admires--humbl",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel and Azpilicueta",
-          "id": "editorial/news/2021/01/29/Azpilicueta_Tuchel_GettyImages-1298982766",
-          "gravity": "auto",
-          "aspectRatio": 1.4391823,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel rates Kovacic’s chances of facing Real and admires ‘humble fighter’ Azpilicueta",
-      "publishDate": "2021-04-26T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/26/tuchel-rates-kovacic-s-chances-of-facing-real-and-admires--humbl.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2021-04-26T03:00:00.000Z",
-      "description": "Mateo Kovacic has been ruled out of tomorrow’s Champions League semi-final in Madrid by Thomas Tuchel, with Saturday’s hosting of Fulham now pencilled in as a possible return date for the Croatian."
     }
   ]
 }
