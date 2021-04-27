@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210427match-report--real-madrid-v-chel",
+      "type": "NewsCard",
+      "timestamp": "2021-04-27T18:44:00.000Z",
+      "orderDate": "2021-04-27T18:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/27/match-report--real-madrid-v-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Real Madrid 1 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/27/match-report--real-madrid-v-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-27T18:44:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/27/match-report--real-madrid-v-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Pulisic",
+          "id": "editorial/match-reports/2020-21/real-madrid-away/Pulisic-goal-celebration-1",
+          "gravity": "auto",
+          "aspectRatio": 1.4497565,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Real Madrid 1 Chelsea 1",
+      "publishDate": "2021-04-27T18:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/27/match-report--real-madrid-v-chelsea.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-04-27T18:44:00.000Z",
+      "description": "Chelsea hold a narrow advantage in the Champions League semi-finals thanks to Christian Pulisic's away goal in an impressive draw at Real Madrid.",
+      "matchId": 2197689
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210427chelsea-line-up-vs-real-madrid",
       "type": "NewsCard",
@@ -494,64 +543,6 @@
       ],
       "date": "2021-04-27T09:41:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, rumoured Blues transfer target Matthias Ginter wants to play European football and Chris Sutton believes we can overcome Real Madrid."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210427hayes--kerr-and-kirby-nominated-",
-      "type": "NewsCard",
-      "timestamp": "2021-04-27T09:28:00.000Z",
-      "orderDate": "2021-04-26T23:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/27/hayes--kerr-and-kirby-nominated-for-barclays-fa-wsl-season-award",
-        "type": "NewsCard",
-        "title": "Hayes, Kerr and Kirby nominated for Barclays FA WSL season awards",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/27/hayes--kerr-and-kirby-nominated-for-barclays-fa-wsl-season-award.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-27T09:28:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/04/27/hayes--kerr-and-kirby-nominated-for-barclays-fa-wsl-season-award",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Conti_Cup_Kirby_Kerr",
-          "gravity": "auto",
-          "aspectRatio": 1.4998238,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes, Kerr and Kirby nominated for Barclays FA WSL season awards",
-      "publishDate": "2021-04-27T09:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/27/hayes--kerr-and-kirby-nominated-for-barclays-fa-wsl-season-award.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Sam Kerr",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_sam-kerr"
-        }
-      ],
-      "date": "2021-04-27T09:28:00.000Z",
-      "description": "Voting is now open for the Barclays FA Women’s Super League season honours and Emma Hayes has been nominated for the Manager of the Season award, while Blues strikers Fran Kirby and Sam Kerr have been shortlisted for the Player of the Season award."
     }
   ]
 }
