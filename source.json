@@ -62,11 +62,48 @@
       "matchId": 2128618
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210430english-football-boycott-of-soci",
+      "type": "NewsCard",
+      "timestamp": "2021-04-30T08:00:00.000Z",
+      "orderDate": "2021-04-30T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/30/english-football-boycott-of-social-media-begins",
+        "type": "NewsCard",
+        "title": "English football boycott of social media to begin",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/30/english-football-boycott-of-social-media-begins.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-30T08:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/04/30/english-football-boycott-of-social-media-begins",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Players with No to Hate sign",
+          "id": "editorial/news/2021/03/18/No_to_Hate_Giroud_Zouma_Chilwell",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "English football boycott of social media to begin",
+      "publishDate": "2021-04-30T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/30/english-football-boycott-of-social-media-begins.html",
+      "readTimeInMins": 7,
+      "tags": [],
+      "date": "2021-04-30T08:00:00.000Z",
+      "description": "Chelsea Football Club, together with the The FA, Premier League, EFL, FA Women’s Super League, FA Women’s Championship, PFA, LMA, PGMOL, Kick It Out and the FSA, will today commence a boycott of social media."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210430chelsea-vs-fulham---the-stats",
       "type": "NewsCard",
       "timestamp": "2021-04-29T20:48:00.000Z",
-      "orderDate": "2021-04-29T20:48:00.000Z",
+      "orderDate": "2021-04-30T00:48:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2021/04/30/chelsea-vs-fulham---the-stats",
         "type": "NewsCard",
@@ -465,55 +502,6 @@
       ],
       "date": "2021-04-29T12:14:00.000Z",
       "description": "The programmes for our Premier League game against Fulham and our Champions League semi-final second leg against Real Madrid are available to order now."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210429teenage-kicks--alex-kpakpe",
-      "type": "NewsCard",
-      "timestamp": "2021-04-29T11:58:00.000Z",
-      "orderDate": "2021-04-29T00:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/29/teenage-kicks--alex-kpakpe",
-        "type": "NewsCard",
-        "title": "Teenage Kicks: Alex Kpakpe",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/29/teenage-kicks--alex-kpakpe.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-29T11:58:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/29/teenage-kicks--alex-kpakpe",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Alex Kpakpe",
-          "id": "editorial/news/2020/10/Alex-Kpakpe-reading-plcup",
-          "gravity": "north_west",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Teenage Kicks: Alex Kpakpe",
-      "publishDate": "2021-04-29T11:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/29/teenage-kicks--alex-kpakpe.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-04-29T11:58:00.000Z",
-      "description": "In the latest instalment of our series where we take a look at the upbringing of our scholars, today we focus on left-back Alex Kpakpe who was inspired to play football by his cousins and recalls his days playing handball..."
     }
   ]
 }
