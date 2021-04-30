@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210430tuchel-chelsea-injury-update-ful",
+      "type": "NewsCard",
+      "timestamp": "2021-04-30T13:11:00.000Z",
+      "orderDate": "2021-04-30T13:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/04/30/tuchel-chelsea-injury-update-fulham-home",
+        "type": "NewsCard",
+        "title": "Tuchel rules two out of Fulham game and discusses Gilmour’s chances of playing",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/30/tuchel-chelsea-injury-update-fulham-home.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-04-30T13:11:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/04/30/tuchel-chelsea-injury-update-fulham-home",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/news/2021/04/30/tuchel-press-conference-graphic-cap-beard",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel rules two out of Fulham game and discusses Gilmour’s chances of playing",
+      "publishDate": "2021-04-30T13:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/30/tuchel-chelsea-injury-update-fulham-home.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-04-30T13:11:00.000Z",
+      "description": "Thomas Tuchel today confirmed Mateo Kovacic has suffered a ‘little setback’ in training and will not be able to feature as hoped against Fulham, while the knock Toni Rudiger sustained in Madrid in midweek will keep him out of the weekend game.",
+      "matchId": 2128618
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210430pre-match-briefing--chelsea-vs-f",
       "type": "NewsCard",
@@ -446,54 +500,6 @@
       "date": "2021-04-29T14:57:00.000Z",
       "description": "Cesar Azpilicueta believes Christian Pulisic's intelligence is an important part of his play and was delighted to see the American on target against Real Madrid in the Champions League.",
       "matchId": 2197689
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews2021042910-questions-with----edouard-men",
-      "type": "NewsCard",
-      "timestamp": "2021-04-29T06:00:00.000Z",
-      "orderDate": "2021-04-29T06:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/29/10-questions-with----edouard-mendy",
-        "type": "NewsCard",
-        "title": "10 Questions with... Edouard Mendy",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/29/10-questions-with----edouard-mendy.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-04-29T06:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/29/10-questions-with----edouard-mendy",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Edouard Mendy",
-          "id": "editorial/news/2021/04/27/10-questions-mendy-header",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "10 Questions with... Edouard Mendy",
-      "publishDate": "2021-04-29T06:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/29/10-questions-with----edouard-mendy.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2021-04-29T06:00:00.000Z",
-      "description": "Edouard Mendy, enjoying a first season in English football that could not have gone much better, is the next Chelsea player to answer 10 of our questions."
     }
   ]
 }
