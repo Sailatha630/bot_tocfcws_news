@@ -8,6 +8,66 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210502watch-highlights-of-chelsea-wome",
+      "type": "NewsCard",
+      "timestamp": "2021-05-02T15:39:00.000Z",
+      "orderDate": "2021-05-02T15:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea Women's semi-final win over Bayern",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-02T15:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea Women 4-1 Bayern Munich (H) | Champions League Highlights",
+          "videoId": "7VzPQvLh",
+          "bucket": "prod-cfc",
+          "description": "Watch highlights of our Champions League semi-final second leg at home to Bayern Munich.",
+          "duration": 244000,
+          "date": "2021-05-02T14:41:18.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/7VzPQvLh/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Watch highlights of our Champions League semi-final second leg at home to Bayern Munich."
+      },
+      "content": "Watch highlights of Chelsea Women's semi-final win over Bayern",
+      "publishDate": "2021-05-02T15:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-05-02T15:39:00.000Z",
+      "description": "Chelsea Women booked a place in their first-ever Champions League final today with a pulsating victory against Bayern Munich and you can now watch the highlights of a historic result.",
+      "matchId": 2201791
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210502women-s-report--chelsea-4-bayern",
       "type": "NewsCard",
@@ -517,65 +577,6 @@
       ],
       "date": "2021-05-01T15:30:00.000Z",
       "description": "Thomas Tuchel has freshened up his Chelsea side for today’s game against Fulham, making five changes from the midweek draw in Madrid.",
-      "matchId": 2128618
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210501hudson-odoi-discusses-social-med",
-      "type": "NewsCard",
-      "timestamp": "2021-05-01T11:30:00.000Z",
-      "orderDate": "2021-05-01T11:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/01/hudson-odoi-discusses-social-media-boycott--following-fulham-as-",
-        "type": "NewsCard",
-        "title": "Hudson-Odoi discusses social media boycott, following Fulham as a boy and the need for home improvements",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/01/hudson-odoi-discusses-social-media-boycott--following-fulham-as-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-01T11:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/01/hudson-odoi-discusses-social-media-boycott--following-fulham-as-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hudson-Odoi",
-          "id": "editorial/news/2021/04/30/Hudson-Odoi-Brighton-h-stock",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hudson-Odoi discusses social media boycott, following Fulham as a boy and the need for home improvements",
-      "publishDate": "2021-05-01T11:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/01/hudson-odoi-discusses-social-media-boycott--following-fulham-as-.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Fulham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_fulham"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        }
-      ],
-      "date": "2021-05-01T11:30:00.000Z",
-      "description": "Ahead of this evening’s south-west London derby with Fulham, Callum Hudson-Odoi reflects on this weekend's social media boycott, how Fulham were the club that ignited his passion to be a professional and why our home form must improve…",
       "matchId": 2128618
     }
   ]
