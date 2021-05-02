@@ -8,6 +8,56 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210502women-s-report--chelsea-4-bayern",
+      "type": "NewsCard",
+      "timestamp": "2021-05-02T13:41:00.000Z",
+      "orderDate": "2021-05-02T13:41:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/02/women-s-report--chelsea-4-bayern-munich-1--5-3-on-agg-",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 4 Bayern Munich 1 (5-3 on agg)",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/02/women-s-report--chelsea-4-bayern-munich-1--5-3-on-agg-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-02T13:41:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/05/02/women-s-report--chelsea-4-bayern-munich-1--5-3-on-agg-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Celebrating Kirby's second",
+          "id": "editorial/match-reports/2020-21/women-v-bayern-munich/GettyImages-1315847935",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Chelsea 4 Bayern Munich 1 (5-3 on agg)",
+      "publishDate": "2021-05-02T13:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/02/women-s-report--chelsea-4-bayern-munich-1--5-3-on-agg-.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Uefa Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_uefa-women-s-champions-league"
+        }
+      ],
+      "date": "2021-05-02T13:41:00.000Z",
+      "description": "Chelsea Women have reached the Champions League final for the first time in our history, as a gutsy and clinical performance against Bayern Munich settled a dramatic semi-final second leg against Bayern Munich at Kingsmeadow.",
+      "matchId": 2201791
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210502eriksson-starts-semi-final-again",
       "type": "NewsCard",
@@ -526,60 +576,6 @@
       ],
       "date": "2021-05-01T11:30:00.000Z",
       "description": "Ahead of this evening’s south-west London derby with Fulham, Callum Hudson-Odoi reflects on this weekend's social media boycott, how Fulham were the club that ignited his passion to be a professional and why our home form must improve…",
-      "matchId": 2128618
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210430pre-match-quiz--chelsea-v-fulham",
-      "type": "NewsCard",
-      "timestamp": "2021-05-01T09:22:00.000Z",
-      "orderDate": "2021-05-01T03:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/04/30/pre-match-quiz--chelsea-v-fulham",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Chelsea v Fulham",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/30/pre-match-quiz--chelsea-v-fulham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-01T09:22:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/04/30/pre-match-quiz--chelsea-v-fulham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Rudiger",
-          "id": "editorial/news/2021/04/28/Rudiger_Jorginho_Fulham_2018_GettyImages-1067583172",
-          "gravity": "auto",
-          "aspectRatio": 1.5003837,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Chelsea v Fulham",
-      "publishDate": "2021-05-01T09:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/04/30/pre-match-quiz--chelsea-v-fulham.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Fulham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_fulham"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-05-01T09:22:00.000Z",
-      "description": "It's been nearly a decade since Fulham scored a goal at Stamford Bridge. Before we try for another clean sheet against our neighbours, see how much you remember about the previous matches in that run of shut-outs...",
       "matchId": 2128618
     }
   ]
