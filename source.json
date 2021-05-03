@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210503harder--this-is-why-we-play-foot",
+      "type": "NewsCard",
+      "timestamp": "2021-05-03T09:00:00.000Z",
+      "orderDate": "2021-05-03T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/03/harder--this-is-why-we-play-football",
+        "type": "NewsCard",
+        "title": "Harder: This is why we play football",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/03/harder--this-is-why-we-play-football.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-03T09:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/03/harder--this-is-why-we-play-football",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Harder",
+          "id": "editorial/match-reports/2020-21/women-v-bayern-munich/Harder-GettyImages-1315844683",
+          "gravity": "auto",
+          "aspectRatio": 1.6574585,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Harder: This is why we play football",
+      "publishDate": "2021-05-03T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/03/harder--this-is-why-we-play-football.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Pernille Harder",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_pernille-harder"
+        }
+      ],
+      "date": "2021-05-03T09:00:00.000Z",
+      "description": "Pernille Harder's goal proved decisive in sending Chelsea Women to the Champions League final for the first time and the Dane reflected afterwards on a milestone achievement for the club...",
+      "matchId": 2201791
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210503tuchel-to-make-late-call-on-duo-",
       "type": "NewsCard",
@@ -488,75 +537,6 @@
       "date": "2021-05-02T03:13:00.000Z",
       "description": "Chelsea FC Women face Bayern Munich in the second leg of our Women’s Champions League semi-final this afternoon and Millie Bright is confident the Blues can turn the tie around.",
       "matchId": 2201791
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210501tuchel-reacts-to--perfect--win-o",
-      "type": "NewsCard",
-      "timestamp": "2021-05-01T19:34:00.000Z",
-      "orderDate": "2021-05-01T19:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/01/tuchel-reacts-to--perfect--win-over-fulham-and--decisive--havert",
-        "type": "NewsCard",
-        "title": "Tuchel reacts to 'perfect' win over Fulham and 'decisive' Havertz's performance",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/01/tuchel-reacts-to--perfect--win-over-fulham-and--decisive--havert.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-01T19:34:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/01/tuchel-reacts-to--perfect--win-over-fulham-and--decisive--havert",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/match-reports/2020-21/fulham-home/Tuchel_Gilmour_GettyImages-1232631108",
-          "gravity": "auto",
-          "aspectRatio": 1.3512616,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reacts to 'perfect' win over Fulham and 'decisive' Havertz's performance",
-      "publishDate": "2021-05-01T19:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/01/tuchel-reacts-to--perfect--win-over-fulham-and--decisive--havert.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Fulham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_fulham"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-05-01T19:34:00.000Z",
-      "description": "Thomas Tuchel was delighted with the attitude and application he saw from his players, as well as the performance and the victory, following our 2-0 win over Fulham.",
-      "matchId": 2128618
     }
   ]
 }
