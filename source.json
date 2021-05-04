@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210504pre-match-quiz--chelsea-v-real-m",
+      "type": "NewsCard",
+      "timestamp": "2021-05-04T06:26:00.000Z",
+      "orderDate": "2021-05-04T06:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/04/pre-match-quiz--chelsea-v-real-madrid",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Chelsea v Real Madrid",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/pre-match-quiz--chelsea-v-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-04T06:26:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/04/pre-match-quiz--chelsea-v-real-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hazard and Courtois",
+          "id": "editorial/news/2021/05/03/Hazard_Courtois_GettyImages-611547034",
+          "gravity": "auto",
+          "aspectRatio": 1.5023255,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Chelsea v Real Madrid",
+      "publishDate": "2021-05-04T06:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/pre-match-quiz--chelsea-v-real-madrid.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-05-04T06:26:00.000Z",
+      "description": "Before we resume battle with Real Madrid for a place in the Champions League final, find out how well you know some of the players who have represented both clubs.",
+      "matchId": 2197692
+    },
+    {
       "contentType": "On Loan",
       "id": "_content_chelseafcennews20210503chelsea-here-chelsea-there--two-",
       "type": "NewsCard",
@@ -549,66 +598,6 @@
       "date": "2021-05-02T16:30:00.000Z",
       "description": "Back in the side for his first Premier League start of the season in our win against Fulham, Billy Gilmour reflected afterwards on the need to constantly impress and meet the high expectations of the intense and demanding Thomas Tuchel…",
       "matchId": 2128618
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210502watch-highlights-of-chelsea-wome",
-      "type": "NewsCard",
-      "timestamp": "2021-05-02T15:39:00.000Z",
-      "orderDate": "2021-05-02T15:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern",
-        "type": "NewsCard",
-        "title": "Watch highlights of Chelsea Women's semi-final win over Bayern",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-02T15:39:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea Women 4-1 Bayern Munich (H) | Champions League Highlights",
-          "videoId": "7VzPQvLh",
-          "bucket": "prod-cfc",
-          "description": "Watch highlights of our Champions League semi-final second leg at home to Bayern Munich.",
-          "duration": 244000,
-          "date": "2021-05-02T14:41:18.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/7VzPQvLh/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Watch highlights of our Champions League semi-final second leg at home to Bayern Munich."
-      },
-      "content": "Watch highlights of Chelsea Women's semi-final win over Bayern",
-      "publishDate": "2021-05-02T15:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/02/watch-highlights-of-chelsea-women-s-semi-final-win-over-bayern.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-05-02T15:39:00.000Z",
-      "description": "Chelsea Women booked a place in their first-ever Champions League final today with a pulsating victory against Bayern Munich and you can now watch the highlights of a historic result.",
-      "matchId": 2201791
     }
   ]
 }
