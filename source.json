@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210505chelsea-vs-real-madrid---the-sta",
+      "type": "NewsCard",
+      "timestamp": "2021-05-05T10:00:00.000Z",
+      "orderDate": "2021-05-05T10:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/05/chelsea-vs-real-madrid---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Real Madrid - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/chelsea-vs-real-madrid---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-05T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/05/chelsea-vs-real-madrid---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Rudiger and Benzema",
+          "id": "editorial/news/2021/05/05/real-madrid-chelsea-rudiger-benzema",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Real Madrid - the stats",
+      "publishDate": "2021-05-05T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/chelsea-vs-real-madrid---the-stats.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-05T10:00:00.000Z",
+      "description": "A historic Champions League tie reaches its conclusion at Stamford Bridge tonight, and our preview continues with all the noteworthy numbers you need to know...",
+      "matchId": 2197692
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210505tuchel-explains-why-kante-is-key",
       "type": "NewsCard",
@@ -462,50 +516,6 @@
       "date": "2021-05-04T16:23:00.000Z",
       "description": "Andreas Christensen has spoken about the importance of showing plenty of steel in defence when we face Real Madrid in the Champions League semi-finals at Stamford Bridge tomorrow evening.",
       "matchId": 2197692
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210504-tottenham-hotspur-women-v-chels",
-      "type": "NewsCard",
-      "timestamp": "2021-05-04T12:44:00.000Z",
-      "orderDate": "2021-05-04T12:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/04/-tottenham-hotspur-women-v-chelsea-women-preview--kick-off-time-",
-        "type": "NewsCard",
-        "title": " Tottenham Hotspur Women v Chelsea Women preview: Kick-off time, how to follow the match and more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/-tottenham-hotspur-women-v-chelsea-women-preview--kick-off-time-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-04T12:44:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/04/-tottenham-hotspur-women-v-chelsea-women-preview--kick-off-time-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/CFCW_Spurs",
-          "gravity": "auto",
-          "aspectRatio": 1.495716,
-          "cropMode": "fill"
-        }
-      },
-      "content": " Tottenham Hotspur Women v Chelsea Women preview: Kick-off time, how to follow the match and more",
-      "publishDate": "2021-05-04T12:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/-tottenham-hotspur-women-v-chelsea-women-preview--kick-off-time-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-05-04T12:44:00.000Z",
-      "description": "Fresh from our Champions League semi-final victory against Bayern Munich, the Blues head to the Hive to face Spurs for the penultimate match of the Barclays FA Women’s Super League.",
-      "matchId": 2138493
     }
   ]
 }
