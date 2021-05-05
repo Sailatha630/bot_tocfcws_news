@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210505tuchel-explains-why-kante-is-key",
+      "type": "NewsCard",
+      "timestamp": "2021-05-05T08:00:00.000Z",
+      "orderDate": "2021-05-05T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/05/tuchel-explains-why-kante-is-key-but-chelsea-and-real-madrid-for",
+        "type": "NewsCard",
+        "title": "Tuchel explains why Kante is key but Chelsea and Real Madrid formations are not",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/tuchel-explains-why-kante-is-key-but-chelsea-and-real-madrid-for.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-05T08:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/05/tuchel-explains-why-kante-is-key-but-chelsea-and-real-madrid-for",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel and Kante in discussion",
+          "id": "editorial/news/2021/05/05/kante-tuchel-training",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel explains why Kante is key but Chelsea and Real Madrid formations are not",
+      "publishDate": "2021-05-05T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/tuchel-explains-why-kante-is-key-but-chelsea-and-real-madrid-for.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-05T08:00:00.000Z",
+      "description": "N’Golo Kante is the beating heart of the Chelsea midfield and Thomas Tuchel knows it is on big European nights such as these world-class players show their worth. That was exactly what the Frenchman did in Madrid last week.",
+      "matchId": 2197692
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210505pre-match-briefing--chelsea-vs-r",
       "type": "NewsCard",
@@ -444,55 +503,6 @@
       "tags": [],
       "date": "2021-05-04T07:20:00.000Z",
       "description": "English football, sporting organisations and people across the world united over the weekend to boycott social media, challenging platforms to do more to stop online discriminatory abuse."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210504pre-match-quiz--chelsea-v-real-m",
-      "type": "NewsCard",
-      "timestamp": "2021-05-04T06:26:00.000Z",
-      "orderDate": "2021-05-04T06:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/04/pre-match-quiz--chelsea-v-real-madrid",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Chelsea v Real Madrid",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/pre-match-quiz--chelsea-v-real-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-04T06:26:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/04/pre-match-quiz--chelsea-v-real-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hazard and Courtois",
-          "id": "editorial/news/2021/05/03/Hazard_Courtois_GettyImages-611547034",
-          "gravity": "auto",
-          "aspectRatio": 1.5023255,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Chelsea v Real Madrid",
-      "publishDate": "2021-05-04T06:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/pre-match-quiz--chelsea-v-real-madrid.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-05-04T06:26:00.000Z",
-      "description": "Before we resume battle with Real Madrid for a place in the Champions League final, find out how well you know some of the players who have represented both clubs.",
-      "matchId": 2197692
     }
   ]
 }
