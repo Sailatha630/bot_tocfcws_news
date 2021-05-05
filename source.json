@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210505chelsea-line-up-vs-real-madrid",
+      "type": "NewsCard",
+      "timestamp": "2021-05-05T17:50:00.000Z",
+      "orderDate": "2021-05-05T17:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/05/chelsea-line-up-vs-real-madrid",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Real Madrid",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/chelsea-line-up-vs-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-05T17:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/05/chelsea-line-up-vs-real-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Pennant ",
+          "id": "editorial/match-reports/2020-21/real-madrid-home/real-madrid-home-pennant",
+          "gravity": "center",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Real Madrid",
+      "publishDate": "2021-05-05T17:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/chelsea-line-up-vs-real-madrid.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-05T17:50:00.000Z",
+      "description": "Thomas Tuchel makes one change to the Chelsea side that started in Spain last week, with Kai Havertz replacing Christian Pulisic in attack.",
+      "matchId": 2197692
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210505leicester-league-game-reschedule",
       "type": "NewsCard",
       "timestamp": "2021-05-05T16:02:00.000Z",
@@ -489,60 +543,6 @@
       "date": "2021-05-05T09:02:00.000Z",
       "description": "Chelsea Women take on Tottenham Hotspur in our penultimate game of the Barclays FA Women Super League campaign this evening and Niamh Charles says the Blues are determined to continue the momentum after our Champions League semi-final triumph.",
       "matchId": 2138493
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210504tuchel-on-chelsea-s-mindset-vs-r",
-      "type": "NewsCard",
-      "timestamp": "2021-05-04T15:29:00.000Z",
-      "orderDate": "2021-05-04T15:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/04/tuchel-on-chelsea-s-mindset-vs-real-madrid--his-team-line-up-and",
-        "type": "NewsCard",
-        "title": "Tuchel on Chelsea’s mindset vs Real Madrid, his team line-up and how the Blues will prepare",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/tuchel-on-chelsea-s-mindset-vs-real-madrid--his-team-line-up-and.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-04T15:29:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/04/tuchel-on-chelsea-s-mindset-vs-real-madrid--his-team-line-up-and",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2021/05/05/thomas-tuchel-press-conference-graphic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on Chelsea’s mindset vs Real Madrid, his team line-up and how the Blues will prepare",
-      "publishDate": "2021-05-04T15:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/tuchel-on-chelsea-s-mindset-vs-real-madrid--his-team-line-up-and.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-05-04T15:29:00.000Z",
-      "description": "A goalless draw against Real Madrid tomorrow night would be enough for Chelsea to advance to the Champions League final for the first time in nine years, but Thomas Tuchel has explained why his team must not play for that result and should do everything to try and win the second leg outright.",
-      "matchId": 2197692
     }
   ]
 }
