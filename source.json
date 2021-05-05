@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210505pre-match-briefing--chelsea-vs-r",
+      "type": "NewsCard",
+      "timestamp": "2021-05-05T02:05:00.000Z",
+      "orderDate": "2021-05-05T02:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/05/pre-match-briefing--chelsea-vs-real-madrid",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Real Madrid",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/pre-match-briefing--chelsea-vs-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-05T02:05:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/05/pre-match-briefing--chelsea-vs-real-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "TV camera at Stamford Bridge",
+          "id": "editorial/news/2021/05/04/stamford_bridge_champions_league_tv_camera",
+          "gravity": "auto",
+          "aspectRatio": 1.5404292,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Real Madrid",
+      "publishDate": "2021-05-05T02:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/pre-match-briefing--chelsea-vs-real-madrid.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-05T02:05:00.000Z",
+      "description": "Stamford Bridge hosts an almighty capital city clash tonight for a place in Europe’s big showpiece final. Club historian Rick Glanvill and club statistician Paul Dutton shine the spotlight on our decisive match with the Spaniards…",
+      "matchId": 2197692
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210504tuchel-on-chelsea-s-mindset-vs-r",
       "type": "NewsCard",
@@ -444,64 +493,6 @@
       "date": "2021-05-04T06:26:00.000Z",
       "description": "Before we resume battle with Real Madrid for a place in the Champions League final, find out how well you know some of the players who have represented both clubs.",
       "matchId": 2197692
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210504hayes--kerr-and-berger-nominated",
-      "type": "NewsCard",
-      "timestamp": "2021-05-04T12:27:00.000Z",
-      "orderDate": "2021-05-04T00:27:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/04/hayes--kerr-and-berger-nominated-for-manager-and-player-of-the-m",
-        "type": "NewsCard",
-        "title": "Hayes, Kerr and Berger nominated for Manager and Player of the Month awards",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/hayes--kerr-and-berger-nominated-for-manager-and-player-of-the-m.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-04T12:27:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/04/hayes--kerr-and-berger-nominated-for-manager-and-player-of-the-m",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Hayes_Kerr",
-          "gravity": "auto",
-          "aspectRatio": 1.4055088,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes, Kerr and Berger nominated for Manager and Player of the Month awards",
-      "publishDate": "2021-05-04T12:27:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/04/hayes--kerr-and-berger-nominated-for-manager-and-player-of-the-m.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Sam Kerr",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_sam-kerr"
-        }
-      ],
-      "date": "2021-05-04T12:27:00.000Z",
-      "description": "Emma Hayes, Sam Kerr and Ann-Katrin Berger have been nominated for April’s Barclays FA Women’s Super League Manager and Player of the Month awards and fans can now vote for them to win."
     }
   ]
 }
