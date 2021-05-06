@@ -85,20 +85,36 @@
       "template": "standard-article",
       "path": "/content/chelseafc/en/news/2021/05/06/the-debrief--kante-thrives-and-kai-flies-high-as-blues-head-for-",
       "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Debrief graphic",
-          "id": "editorial/news/2021/05/06/debrief-vs-real-madrid-graphic",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Kante thrives and Havertz flies high as Blues head for Istanbul | The Debrief Extra",
+          "videoId": "IZlu8rWF",
+          "bucket": "prod-cfc",
+          "description": "Take a look at some of the main talking points from a memorable European night that saw Chelsea score twice and reach a third Champions League final…",
+          "duration": 111000,
+          "date": "2021-05-06T20:36:43.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/IZlu8rWF/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/06/the-debrief--kante-thrives-and-kai-flies-high-as-blues-head-for-.page.v3.json",
+          "contentType": "Analysis",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/05/06/the-debrief--kante-thrives-and-kai-flies-high-as-blues-head-for-?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/05/06/the-debrief--kante-thrives-and-kai-flies-high-as-blues-head-for-",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Take a look at some of the main talking points from a memorable European night that saw Chelsea score twice and reach a third Champions League final…"
       },
       "content": "The Debrief: Kante thrives and Kai flies high as Blues head for Istanbul",
       "publishDate": "2021-05-06T10:30:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/06/the-debrief--kante-thrives-and-kai-flies-high-as-blues-head-for-.html",
-      "readTimeInMins": 15,
+      "readTimeInMins": 16,
       "tags": [
         {
           "title": "N Golo Kante",
