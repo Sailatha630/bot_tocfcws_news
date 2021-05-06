@@ -181,6 +181,54 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210506media-watch--chelsea-linked-to-m",
+      "type": "NewsCard",
+      "timestamp": "2021-05-06T09:35:00.000Z",
+      "orderDate": "2021-05-06T00:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/06/media-watch--chelsea-linked-to-marquinhos--cole-praises-mendy-an",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked to Marquinhos, Cole praises Mendy and Musonda gives injury update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/06/media-watch--chelsea-linked-to-marquinhos--cole-praises-mendy-an.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-06T09:35:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/06/media-watch--chelsea-linked-to-marquinhos--cole-praises-mendy-an",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Marquinhos",
+          "id": "editorial/media-watch/Marquinhos-mw",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked to Marquinhos, Cole praises Mendy and Musonda gives injury update",
+      "publishDate": "2021-05-06T09:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/06/media-watch--chelsea-linked-to-marquinhos--cole-praises-mendy-an.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Charly Musonda",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_charly-musonda"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2021-05-06T09:35:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Marquinhos and Joe Cole praises Edouard Mendy’s performance against Real Madrid."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210505tuchel--we-wanted-this-badly--an",
       "type": "NewsCard",
       "timestamp": "2021-05-05T22:32:00.000Z",
@@ -507,60 +555,6 @@
       "date": "2021-05-05T19:00:00.000Z",
       "description": "Chelsea Women are one victory away from securing back-to-back Barclays FA Women’s Super League titles after a 2-0 win against Tottenham Hotspur.",
       "matchId": 2138493
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210505leicester-league-game-reschedule",
-      "type": "NewsCard",
-      "timestamp": "2021-05-05T16:02:00.000Z",
-      "orderDate": "2021-05-05T16:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/05/leicester-league-game-rescheduled",
-        "type": "NewsCard",
-        "title": "Leicester league game rescheduled",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/leicester-league-game-rescheduled.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-05T16:02:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/05/leicester-league-game-rescheduled",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
-          "gravity": "auto",
-          "aspectRatio": 1.4790996,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Leicester league game rescheduled",
-      "publishDate": "2021-05-05T16:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/05/leicester-league-game-rescheduled.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-05-05T16:02:00.000Z",
-      "description": "Chelsea's final home game of the season, against Leicester City in the Premier League, will take place on Tuesday 18 May.",
-      "matchId": 2128648
     }
   ]
 }
