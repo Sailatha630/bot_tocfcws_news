@@ -8,6 +8,75 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210508tuchel-reflects-on-de-bruyne-dep",
+      "type": "NewsCard",
+      "timestamp": "2021-05-08T13:00:00.000Z",
+      "orderDate": "2021-05-08T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/08/tuchel-reflects-on-de-bruyne-departure-and-draws-comparison-with",
+        "type": "NewsCard",
+        "title": "Tuchel reflects on De Bruyne departure and draws comparisons with Havertz and Werner",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/08/tuchel-reflects-on-de-bruyne-departure-and-draws-comparison-with.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-08T13:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/08/tuchel-reflects-on-de-bruyne-departure-and-draws-comparison-with",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "De Bruyne and Tuchel",
+          "id": "editorial/news/2021/05/07/De-Bruyne-Tuchel-City-FA-Cup-semi",
+          "gravity": "auto",
+          "aspectRatio": 1.5002208,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reflects on De Bruyne departure and draws comparisons with Havertz and Werner",
+      "publishDate": "2021-05-08T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/08/tuchel-reflects-on-de-bruyne-departure-and-draws-comparison-with.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        }
+      ],
+      "date": "2021-05-08T13:00:00.000Z",
+      "description": "Words from the boss on Kevin De Bruyne's Chelsea career and why the same won't happen for young German duo...",
+      "matchId": 2128632
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210508chilwell--we-are-fully-focused-o",
       "type": "NewsCard",
@@ -483,60 +552,6 @@
       ],
       "date": "2021-05-07T14:00:00.000Z",
       "description": "Sam Kerr has won the Barclays FA Women’s Super League Player of the Month award for April."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210507supporters-to-return-for-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-05-07T09:00:00.000Z",
-      "orderDate": "2021-05-07T09:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/07/supporters-to-return-for-chelsea-vs-leicester-premier-league-fix",
-        "type": "NewsCard",
-        "title": "Supporters to return for Chelsea vs Leicester Premier League fixture; ticket details confirmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/07/supporters-to-return-for-chelsea-vs-leicester-premier-league-fix.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-07T09:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/07/supporters-to-return-for-chelsea-vs-leicester-premier-league-fix",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " fans at the Bridge",
-          "id": "editorial/news/2021/03/08/one-year-on-fans-leeds",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Supporters to return for Chelsea vs Leicester Premier League fixture; ticket details confirmed",
-      "publishDate": "2021-05-07T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/07/supporters-to-return-for-chelsea-vs-leicester-premier-league-fix.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-05-07T09:00:00.000Z",
-      "description": "Chelsea Football Club is delighted to confirm we will be able to welcome supporters back to Stamford Bridge for our Premier League fixture against Leicester City, subject to the expected further easing of lockdown restrictions on Monday 17 May.",
-      "matchId": 2128648
     }
   ]
 }
