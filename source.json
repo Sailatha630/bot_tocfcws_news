@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210508match-report--manchester-city-v-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-08T16:20:00.000Z",
+      "orderDate": "2021-05-08T16:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/08/match-report--manchester-city-v-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Manchester City 1 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/08/match-report--manchester-city-v-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-08T16:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/08/match-report--manchester-city-v-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ziyech",
+          "id": "editorial/match-reports/2020-21/man-city-away/Ziyech-goal-celebration-Man-City-a-3",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Manchester City 1 Chelsea 2",
+      "publishDate": "2021-05-08T16:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/08/match-report--manchester-city-v-chelsea.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-05-08T16:20:00.000Z",
+      "description": "Chelsea moved up to third place in the Premier League and postponed Manchester City's title celebrations by coming from behind to earn a dramatic late victory at the Etihad Stadium.",
+      "matchId": 2128632
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210508chelsea-line-up-vs-manchester-ci",
       "type": "NewsCard",
@@ -492,55 +546,6 @@
       ],
       "date": "2021-05-07T13:41:00.000Z",
       "description": "Thomas Tuchel has urged his players to put the joy of our Champions League semi-final victory out of their minds to focus on tomorrow’s Premier League fixture against Manchester City, which he feels could be our toughest match so far.",
-      "matchId": 2128632
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210507tuchel-rules-one-out-against-cit",
-      "type": "NewsCard",
-      "timestamp": "2021-05-07T12:29:00.000Z",
-      "orderDate": "2021-05-07T12:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/07/tuchel-rules-one-out-against-city-and-hints-at-making-changes",
-        "type": "NewsCard",
-        "title": "Tuchel rules one out against City and hints at making changes",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/07/tuchel-rules-one-out-against-city-and-hints-at-making-changes.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-07T12:29:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/07/tuchel-rules-one-out-against-city-and-hints-at-making-changes",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/04/30/tuchel-press-conference-graphic-cap-beard",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel rules one out against City and hints at making changes",
-      "publishDate": "2021-05-07T12:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/07/tuchel-rules-one-out-against-city-and-hints-at-making-changes.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2021-05-07T12:29:00.000Z",
-      "description": "Thomas Tuchel has confirmed that Mateo Kovacic remains sidelined through injury and will miss the weekend trip to Manchester City.",
       "matchId": 2128632
     }
   ]
