@@ -179,6 +179,55 @@
       "matchId": 2128632
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210508under-18s-report--tottenham-chel",
+      "type": "NewsCard",
+      "timestamp": "2021-05-08T11:45:00.000Z",
+      "orderDate": "2021-05-08T03:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/08/under-18s-report--tottenham-chelsea",
+        "type": "NewsCard",
+        "title": "Under-18s report: Tottenham 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/08/under-18s-report--tottenham-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-08T11:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/08/under-18s-report--tottenham-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Dion Rankine",
+          "id": "editorial/news/2021/03/06/Dion-Rankine-cfcu18-vs-spurs",
+          "gravity": "auto",
+          "aspectRatio": 1.5007092,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: Tottenham 0 Chelsea 1",
+      "publishDate": "2021-05-08T11:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/08/under-18s-report--tottenham-chelsea.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-05-08T11:45:00.000Z",
+      "description": "Chelsea’s Under-18s beat Tottenham this morning thanks to a second-half goal from Dion Rankine."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210508-we-have-to-fight-their-unique-c",
       "type": "NewsCard",
@@ -488,60 +537,6 @@
       ],
       "date": "2021-05-07T17:00:00.000Z",
       "description": "Chelsea’s development squad sealed a second-place finish in Premier League 2 with this afternoon’s win over Blackburn Rovers."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210507pre-match-briefing--manchester-c",
-      "type": "NewsCard",
-      "timestamp": "2021-05-07T11:06:00.000Z",
-      "orderDate": "2021-05-07T11:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/07/pre-match-briefing--manchester-city-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Manchester City vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/07/pre-match-briefing--manchester-city-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-07T11:06:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/05/07/pre-match-briefing--manchester-city-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Etihad Stadium",
-          "id": "editorial/news/2021/05/07/etihad_stadium_view",
-          "gravity": "north",
-          "aspectRatio": 1.5002245,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Manchester City vs Chelsea",
-      "publishDate": "2021-05-07T11:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/07/pre-match-briefing--manchester-city-vs-chelsea.html",
-      "readTimeInMins": 59,
-      "tags": [
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-05-07T11:06:00.000Z",
-      "description": "The London Blues taking on the blue half of Manchester in an important match is beginning to sound very familiar, and ahead of the latest such occasion, club historian Rick Glanvill and club statistician Paul Dutton look at the story of Saturday’s game…",
-      "matchId": 2197699
     }
   ]
 }
