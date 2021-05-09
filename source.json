@@ -8,6 +8,56 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210509women-s-match-report--chelsea-5-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-09T15:23:00.000Z",
+      "orderDate": "2021-05-09T15:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/09/women-s-match-report--chelsea-5-reading-0",
+        "type": "NewsCard",
+        "title": "Women's match report: Chelsea 5 Reading 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/09/women-s-match-report--chelsea-5-reading-0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-09T15:23:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/05/09/women-s-match-report--chelsea-5-reading-0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lifting the trophy",
+          "id": "editorial/match-reports/2020-21/women-v-reading/GettyImages-1317124361",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women's match report: Chelsea 5 Reading 0",
+      "publishDate": "2021-05-09T15:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/09/women-s-match-report--chelsea-5-reading-0.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2021-05-09T15:23:00.000Z",
+      "description": "Chelsea Women have retained the Women’s Super League title, with two goals from Fran Kirby and one apiece for Melanie Leupolz, Sam Kerr and Erin Cuthbert giving us a comfortable win over Reading on the final day of the season.",
+      "matchId": 2138497
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210509the-debrief--ziyech-shooting-in-",
       "type": "NewsCard",
@@ -553,49 +603,6 @@
       "date": "2021-05-08T13:00:00.000Z",
       "description": "Words from the boss on Kevin De Bruyne's Chelsea career and why the same won't happen for young German duo...",
       "matchId": 2128632
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210508chelsea-women-v-reading-women-pr",
-      "type": "NewsCard",
-      "timestamp": "2021-05-08T12:19:00.000Z",
-      "orderDate": "2021-05-08T12:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/08/chelsea-women-v-reading-women-preview--kick-off-time--how-to-fol",
-        "type": "NewsCard",
-        "title": "Chelsea Women v Reading Women Preview: Kick-off time, how to follow and much more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/08/chelsea-women-v-reading-women-preview--kick-off-time--how-to-fol.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-08T12:19:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/08/chelsea-women-v-reading-women-preview--kick-off-time--how-to-fol",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2020-21/women-reading-away/Kirby-GettyImages-1295637754",
-          "gravity": "auto",
-          "aspectRatio": 1.5050427,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v Reading Women Preview: Kick-off time, how to follow and much more",
-      "publishDate": "2021-05-08T12:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/08/chelsea-women-v-reading-women-preview--kick-off-time--how-to-fol.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-05-08T12:19:00.000Z",
-      "description": "The Blues are once again at home at Kingsmeadow for the final Women’s Super League match of the 2020/21 season as we continue to push to secure top spot for the second year in a row.",
-      "matchId": 2138497
     }
   ]
 }
