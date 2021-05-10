@@ -66,6 +66,54 @@
       "matchId": 2128632
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210510leicester-ticket-update",
+      "type": "NewsCard",
+      "timestamp": "2021-05-10T18:12:00.000Z",
+      "orderDate": "2021-05-10T11:32:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/10/leicester-ticket-update",
+        "type": "NewsCard",
+        "title": "Leicester ticket update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/10/leicester-ticket-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-10T18:12:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/10/leicester-ticket-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Fans at the Bridge",
+          "id": "editorial/news/2021/03/08/one-year-on-fans-celebrate-leeds",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Leicester ticket update",
+      "publishDate": "2021-05-10T18:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/10/leicester-ticket-update.html",
+      "readTimeInMins": 2,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-05-10T18:12:00.000Z",
+      "description": "Ticket sales for our league fixture against Leicester City have now ended to season ticket holders. The remaining tickets will be sold to members from the 2019/20 season on a loyalty points basis. Further information will be released tomorrow (Tuesday)."
+    },
+    {
       "contentType": "On Loan",
       "id": "_content_chelseafcennews20210510chelsea-here-chelsea-there--tomo",
       "type": "NewsCard",
@@ -482,42 +530,6 @@
       ],
       "date": "2021-05-10T09:11:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Miralem Pjanic and Alan Shearer praises Reece James’ performance against Manchester City."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210510chelsea-foundation-launch-new-pr",
-      "type": "NewsCard",
-      "timestamp": "2021-05-10T09:28:00.000Z",
-      "orderDate": "2021-05-09T23:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/10/chelsea-foundation-launch-new-programme-with-mental-health-chari",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation launches new programme with Mental Health Charity",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/10/chelsea-foundation-launch-new-programme-with-mental-health-chari.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-10T09:28:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/10/chelsea-foundation-launch-new-programme-with-mental-health-chari",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/05/10/ChelseaFoundation_MIND_Launch",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation launches new programme with Mental Health Charity",
-      "publishDate": "2021-05-10T09:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/10/chelsea-foundation-launch-new-programme-with-mental-health-chari.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-05-10T09:28:00.000Z",
-      "description": "To mark Mental Health Awareness Week, the Chelsea Foundation has launched a new programme with Mental Health Charity, Hammersmith, Fulham, Ealing, and Hounslow MIND (HFEH)."
     }
   ]
 }
