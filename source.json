@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210510season-ticket-renewals-open-and-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-10T09:00:00.000Z",
+      "orderDate": "2021-05-10T03:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/10/season-ticket-renewals-open-and-ticketing-changes-for-2021-22",
+        "type": "NewsCard",
+        "title": "Season ticket renewals open and ticketing changes for 2021/22",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/10/season-ticket-renewals-open-and-ticketing-changes-for-2021-22.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-10T09:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/10/season-ticket-renewals-open-and-ticketing-changes-for-2021-22",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chelsea fans",
+          "id": "editorial/news/2018/9/stamford-bridge-fans-GettyImages-611545868",
+          "gravity": "auto",
+          "aspectRatio": 1.5020169,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Season ticket renewals open and ticketing changes for 2021/22",
+      "publishDate": "2021-05-10T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/10/season-ticket-renewals-open-and-ticketing-changes-for-2021-22.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Season Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_season-tickets"
+        },
+        {
+          "title": "Ticket renewal",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-renewal"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-05-10T09:00:00.000Z",
+      "description": "Season ticket holders may now renew their season ticket for the 2021/22 campaign. Renewals are subject to the club’s ticketing policy which can be found here and a summary of the main changes are below."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210510tuchel--chelsea-players-doing-ev",
       "type": "NewsCard",
@@ -523,60 +576,6 @@
       ],
       "date": "2021-05-09T08:04:00.000Z",
       "description": "In the latest part of our video series following Chelsea players out on loan, we hear Ian Maatsen's story of an unbringing in the Netherlands and a breakthrough season in south London..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210509eriksson--it-s-all-about-finishi",
-      "type": "NewsCard",
-      "timestamp": "2021-05-09T05:48:00.000Z",
-      "orderDate": "2021-05-08T23:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/09/eriksson--it-s-all-about-finishing-what-we-started",
-        "type": "NewsCard",
-        "title": "Eriksson: It’s all about finishing what we started",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/09/eriksson--it-s-all-about-finishing-what-we-started.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-09T05:48:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/09/eriksson--it-s-all-about-finishing-what-we-started",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Eriksson",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Eriksson: It’s all about finishing what we started",
-      "publishDate": "2021-05-09T05:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/09/eriksson--it-s-all-about-finishing-what-we-started.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Reading",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_reading"
-        }
-      ],
-      "date": "2021-05-09T05:48:00.000Z",
-      "description": "Chelsea Women go into this afternoon’s clash with Reading needing a win to secure the Barclays FA Women’s Super League and captain Magda Eriksson believes the Blues have shown in many moments this season the team can thrive under pressure.",
-      "matchId": 2138497
     }
   ]
 }
