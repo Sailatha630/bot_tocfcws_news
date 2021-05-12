@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210512pre-match-briefing--chelsea-vs-a",
+      "type": "NewsCard",
+      "timestamp": "2021-05-12T02:56:00.000Z",
+      "orderDate": "2021-05-12T02:56:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/12/pre-match-briefing--chelsea-vs-arsenal",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Arsenal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/pre-match-briefing--chelsea-vs-arsenal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-12T02:56:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/05/12/pre-match-briefing--chelsea-vs-arsenal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ben Chilwell",
+          "id": "editorial/news/2021/05/11/chilwell_arsenal_away",
+          "gravity": "auto",
+          "aspectRatio": 1.462963,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Arsenal",
+      "publishDate": "2021-05-12T02:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/pre-match-briefing--chelsea-vs-arsenal.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2021-05-12T02:56:00.000Z",
+      "description": "The final London derby of the season is upon us. Club historian Rick Glanvill and club statistician Paul Dutton look in depth at Wednesday’s local encounter…",
+      "matchId": 2128641
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210512tuchel-on-hudson-odoi-s-best-pos",
       "type": "NewsCard",
@@ -516,49 +570,6 @@
       ],
       "date": "2021-05-11T05:51:00.000Z",
       "description": "There were days when Fran Kirby wanted to call time on her illustrious playing career because of the pain she was suffering from a medical condition called pericarditis. Fast-forward 18 months, and Kirby is now days away from playing for Chelsea Women in the Champions League final for the first time. It is a remarkable story and one delicately told in the latest episode of The Pride, which you can watch now."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210511media-watch--chelsea-linked-to-m",
-      "type": "NewsCard",
-      "timestamp": "2021-05-11T09:12:00.000Z",
-      "orderDate": "2021-05-11T00:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/11/media-watch--chelsea-linked-to-milenkovic--neville-praises-tuche",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea linked to Milenkovic, Neville praises Tuchel’s coaching and Merson believes Blues learned key lessons in Manchester City win",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/11/media-watch--chelsea-linked-to-milenkovic--neville-praises-tuche.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-11T09:12:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/11/media-watch--chelsea-linked-to-milenkovic--neville-praises-tuche",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Milenkovic-mw-110521",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea linked to Milenkovic, Neville praises Tuchel’s coaching and Merson believes Blues learned key lessons in Manchester City win",
-      "publishDate": "2021-05-11T09:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/11/media-watch--chelsea-linked-to-milenkovic--neville-praises-tuche.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-05-11T09:12:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in centre-back Nikola Milenkovic and Gary Neville has praised Thomas Tuchel for his impact at Stamford Bridge."
     }
   ]
 }
