@@ -52,6 +52,61 @@
     },
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210512chelsea-vs-arsenal---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-05-12T09:57:00.000Z",
+      "orderDate": "2021-05-12T09:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/12/chelsea-vs-arsenal---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Arsenal - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/chelsea-vs-arsenal---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-12T09:57:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/05/12/chelsea-vs-arsenal---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Timo Werner playing Arsenal",
+          "id": "editorial/news/2021/05/12/werner_arsenal_away",
+          "gravity": "auto",
+          "aspectRatio": 1.4918323,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Chelsea vs Arsenal - the stats",
+      "publishDate": "2021-05-12T09:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/chelsea-vs-arsenal---the-stats.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2021-05-12T09:57:00.000Z",
+      "description": "The penultimate home game of the season takes place at Stamford Bridge tonight and we continue the build-up with key facts and figures...",
+      "matchId": 2128641
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210512pre-match-briefing--chelsea-vs-a",
       "type": "NewsCard",
       "timestamp": "2021-05-12T02:56:00.000Z",
@@ -466,68 +521,6 @@
       ],
       "date": "2021-05-11T13:22:00.000Z",
       "description": "Tickets for our league fixture against Leicester City will go on sale to members tomorrow (Wednesday) on a loyalty points basis..."
-    },
-    {
-      "contentType": "Columnist",
-      "id": "_content_chelseafcennews20210511pat-nevin--chelsea-can-keep-pili",
-      "type": "NewsCard",
-      "timestamp": "2021-05-11T03:00:00.000Z",
-      "orderDate": "2021-05-11T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/11/pat-nevin--chelsea-can-keep-piling-pressure-on-by-winning-indivi",
-        "type": "NewsCard",
-        "title": "Pat Nevin: Chelsea can keep piling pressure on by winning individual battles",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/11/pat-nevin--chelsea-can-keep-piling-pressure-on-by-winning-indivi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-11T03:00:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2021/05/11/pat-nevin--chelsea-can-keep-piling-pressure-on-by-winning-indivi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Marcos Alonso scores late winner at City",
-          "id": "editorial/news/2021/05/10/alonso_man_city_away",
-          "gravity": "auto",
-          "aspectRatio": 1.4915208,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pat Nevin: Chelsea can keep piling pressure on by winning individual battles",
-      "publishDate": "2021-05-11T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/11/pat-nevin--chelsea-can-keep-piling-pressure-on-by-winning-indivi.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        },
-        {
-          "title": "Pat Nevin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_pat-nevin"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Pat",
-        "lastName": "Nevin",
-        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pat Nevin",
-          "id": "editorial/blogs-and-columns/nevin_h_26S",
-          "gravity": "face",
-          "aspectRatio": 0.93399847,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2021-05-11T03:00:00.000Z",
-      "description": "As the club’s teams continue to ride a wave of impressive results and with still much to play for, Blues legend Pat Nevin this week writes about how squad strength is countering challenges faced, the key contests played out at Man City at the weekend, and what can be achieved from the London derby against Arsenal…"
     }
   ]
 }
