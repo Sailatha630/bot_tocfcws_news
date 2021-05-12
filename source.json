@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210512match-report--chelsea-vs-arsenal",
+      "type": "NewsCard",
+      "timestamp": "2021-05-12T20:42:00.000Z",
+      "orderDate": "2021-05-12T20:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/12/match-report--chelsea-vs-arsenal",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 0 Arsenal 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/match-report--chelsea-vs-arsenal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-12T20:42:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/12/match-report--chelsea-vs-arsenal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/arsenal-home/Thiago-Silva-Aubameyang-Arsenal-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5001457,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 0 Arsenal 1",
+      "publishDate": "2021-05-12T20:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/match-report--chelsea-vs-arsenal.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2021-05-12T20:42:00.000Z",
+      "description": "Chelsea stumbled to defeat for the first time in five Premier League games on a night at Stamford Bridge when the slickness of our recent attacking play proved hard to find.",
+      "matchId": 2128641
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210512chelsea-line-up-vs-arsenal",
       "type": "NewsCard",
@@ -481,49 +535,6 @@
       "date": "2021-05-12T02:56:00.000Z",
       "description": "The final London derby of the season is upon us. Club historian Rick Glanvill and club statistician Paul Dutton look in depth at Wednesday’s local encounter…",
       "matchId": 2128641
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210512chelsea-fc-transfer-agreed-with-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-12T08:00:00.000Z",
-      "orderDate": "2021-05-12T02:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/12/chelsea-fc-transfer-agreed-with-netherlands-defender-aniek-nouwe",
-        "type": "NewsCard",
-        "title": "Chelsea FC transfer agreed with Netherlands defender Aniek Nouwen",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/chelsea-fc-transfer-agreed-with-netherlands-defender-aniek-nouwe.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-12T08:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/12/chelsea-fc-transfer-agreed-with-netherlands-defender-aniek-nouwe",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/_MG_2809",
-          "gravity": "face",
-          "aspectRatio": 1.4996511,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC transfer agreed with Netherlands defender Aniek Nouwen",
-      "publishDate": "2021-05-12T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/chelsea-fc-transfer-agreed-with-netherlands-defender-aniek-nouwe.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-05-12T08:00:00.000Z",
-      "description": "Chelsea Women have agreed a deal to sign Aniek Nouwen from PSV Eindhoven."
     }
   ]
 }
