@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210512chelsea-line-up-vs-arsenal",
+      "type": "NewsCard",
+      "timestamp": "2021-05-12T18:15:00.000Z",
+      "orderDate": "2021-05-12T18:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/12/chelsea-line-up-vs-arsenal",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Arsenal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/chelsea-line-up-vs-arsenal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-12T18:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/12/chelsea-line-up-vs-arsenal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/arsenal-home/Chilwell-dressing-room-pre-Arsenal",
+          "gravity": "auto",
+          "aspectRatio": 1.4684513,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Arsenal",
+      "publishDate": "2021-05-12T18:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/chelsea-line-up-vs-arsenal.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2021-05-12T18:15:00.000Z",
+      "description": "There is a start in goal for Kepa Arrizabalaga tonight as Thomas Tuchel makes seven changes from the side that won at Man City.",
+      "matchId": 2128641
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210512thiago-silva-reveals-what-has-su",
       "type": "NewsCard",
@@ -470,59 +524,6 @@
       ],
       "date": "2021-05-12T08:00:00.000Z",
       "description": "Chelsea Women have agreed a deal to sign Aniek Nouwen from PSV Eindhoven."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210512tuchel-on-hudson-odoi-s-best-pos",
-      "type": "NewsCard",
-      "timestamp": "2021-05-12T03:00:00.000Z",
-      "orderDate": "2021-05-12T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/12/tuchel-on-hudson-odoi-s-best-position-and-what-he-needs-to-learn",
-        "type": "NewsCard",
-        "title": "Tuchel on Hudson-Odoi’s best position and what he needs to learn",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/tuchel-on-hudson-odoi-s-best-position-and-what-he-needs-to-learn.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-12T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/12/tuchel-on-hudson-odoi-s-best-position-and-what-he-needs-to-learn",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel and Hudson-Odoi",
-          "id": "editorial/news/2021/05/12/tuchel-hudson-odoi",
-          "gravity": "auto",
-          "aspectRatio": 1.6402439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on Hudson-Odoi’s best position and what he needs to learn",
-      "publishDate": "2021-05-12T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/tuchel-on-hudson-odoi-s-best-position-and-what-he-needs-to-learn.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        }
-      ],
-      "date": "2021-05-12T03:00:00.000Z",
-      "description": "Callum Hudson-Odoi has found himself on the periphery of the Chelsea team in recent weeks but he came on at Manchester City last weekend and had a hand in our dramatic winning goal."
     }
   ]
 }
