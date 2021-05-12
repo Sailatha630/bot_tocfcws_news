@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210512tuchel-reacts-to-arsenal-defeat",
+      "type": "NewsCard",
+      "timestamp": "2021-05-12T21:45:00.000Z",
+      "orderDate": "2021-05-12T21:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/12/tuchel-reacts-to-arsenal-defeat",
+        "type": "NewsCard",
+        "title": "Tuchel laments gifts leading to a chance missed against Arsenal, explains Gilmour withdrawal and confirms FA Cup final goalkeeper",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/tuchel-reacts-to-arsenal-defeat.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-12T21:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/12/tuchel-reacts-to-arsenal-defeat",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/match-reports/2020-21/arsenal-home/Tuchel-Arsenal-h-1",
+          "gravity": "auto",
+          "aspectRatio": 1.5614144,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel laments gifts leading to a chance missed against Arsenal, explains Gilmour withdrawal and confirms FA Cup final goalkeeper",
+      "publishDate": "2021-05-12T21:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/tuchel-reacts-to-arsenal-defeat.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-05-12T21:45:00.000Z",
+      "description": "There was disappointment and frustration in Thomas Tuchel’s post-match reflections as he assessed our defeat at the hands of Arsenal by citing a lack of energy, intensity and concentration from his team.",
+      "matchId": 2128641
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210512match-report--chelsea-vs-arsenal",
       "type": "NewsCard",
@@ -481,60 +530,6 @@
       ],
       "date": "2021-05-12T11:45:00.000Z",
       "description": "Joe Haigh’s second-half free-kick wasn’t enough to mount a comeback as our Under-18s fell to a derby day defeat on Wednesday morning."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210512pre-match-briefing--chelsea-vs-a",
-      "type": "NewsCard",
-      "timestamp": "2021-05-12T02:56:00.000Z",
-      "orderDate": "2021-05-12T02:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/12/pre-match-briefing--chelsea-vs-arsenal",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Arsenal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/pre-match-briefing--chelsea-vs-arsenal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-12T02:56:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/05/12/pre-match-briefing--chelsea-vs-arsenal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ben Chilwell",
-          "id": "editorial/news/2021/05/11/chilwell_arsenal_away",
-          "gravity": "auto",
-          "aspectRatio": 1.462963,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Arsenal",
-      "publishDate": "2021-05-12T02:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/pre-match-briefing--chelsea-vs-arsenal.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2021-05-12T02:56:00.000Z",
-      "description": "The final London derby of the season is upon us. Club historian Rick Glanvill and club statistician Paul Dutton look in depth at Wednesday’s local encounter…",
-      "matchId": 2128641
     }
   ]
 }
