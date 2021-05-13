@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Club Partners",
+      "id": "_content_chelseafcennews20210513introducing-the-blues--new-home-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-13T07:00:00.000Z",
+      "orderDate": "2021-05-13T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/13/introducing-the-blues--new-home-kit",
+        "type": "NewsCard",
+        "title": "New ‘60s-inspired 2021/22 home kit revealed!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/13/introducing-the-blues--new-home-kit.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-13T07:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/13/introducing-the-blues--new-home-kit",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "New kit",
+          "id": "editorial/news/2021/05/13/21_22_Kit_Launch_Article_header",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "New ‘60s-inspired 2021/22 home kit revealed!",
+      "publishDate": "2021-05-13T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/13/introducing-the-blues--new-home-kit.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Nike",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_nike"
+        }
+      ],
+      "date": "2021-05-13T07:00:00.000Z",
+      "description": "Chelsea’s 21/22 home kit is the perfect blend of style and substance with a bold new aesthetic that puts the environment first."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210512tuchel-reacts-to-arsenal-defeat",
       "type": "NewsCard",
@@ -481,55 +524,6 @@
       "date": "2021-05-12T15:30:00.000Z",
       "description": "Chelsea became the first club to have both our men and women’s teams reach the final of Champions League and Emma Hayes’ side are first up for a shot at European glory.",
       "matchId": 2205088
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210512under-18s-report--chelsea-arsena",
-      "type": "NewsCard",
-      "timestamp": "2021-05-12T11:45:00.000Z",
-      "orderDate": "2021-05-12T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/12/under-18s-report--chelsea-arsenal",
-        "type": "NewsCard",
-        "title": "Under-18s report: Chelsea 1 Arsenal 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/under-18s-report--chelsea-arsenal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-12T11:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/12/under-18s-report--chelsea-arsenal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Joe Haigh",
-          "id": "editorial/news/2021/05/12/Joe-Haigh-action-vs-arsenal-12-05-21",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Chelsea 1 Arsenal 2",
-      "publishDate": "2021-05-12T11:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/under-18s-report--chelsea-arsenal.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-05-12T11:45:00.000Z",
-      "description": "Joe Haigh’s second-half free-kick wasn’t enough to mount a comeback as our Under-18s fell to a derby day defeat on Wednesday morning."
     }
   ]
 }
