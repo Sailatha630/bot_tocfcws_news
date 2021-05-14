@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210514tuchel-provides-chelsea-fa-cup-f",
+      "type": "NewsCard",
+      "timestamp": "2021-05-14T12:37:00.000Z",
+      "orderDate": "2021-05-14T12:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/14/tuchel-provides-chelsea-fa-cup-final-injury-update",
+        "type": "NewsCard",
+        "title": "Tuchel provides Chelsea FA Cup final injury update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/14/tuchel-provides-chelsea-fa-cup-final-injury-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-14T12:37:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/14/tuchel-provides-chelsea-fa-cup-final-injury-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kovacic",
+          "id": "editorial/news/2021/05/14/kovacic-graphic-press-conference",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel provides Chelsea FA Cup final injury update",
+      "publishDate": "2021-05-14T12:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/14/tuchel-provides-chelsea-fa-cup-final-injury-update.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "FA Cup Final",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fa-cup-final"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-05-14T12:37:00.000Z",
+      "description": "Thomas Tuchel was thrilled to report at his press conference ahead of the FA Cup final that Mateo Kovacic is fit again and available for selection.",
+      "matchId": 2198576
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210514reece-james-analyses-his-develop",
       "type": "NewsCard",
@@ -520,60 +579,6 @@
       ],
       "date": "2021-05-13T17:57:00.000Z",
       "description": "We have been informed by Wembley Stadium that tickets purchased by Chelsea fans for Saturday’s Emirates FA Cup final will be sent out this evening (Thursday)."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210513champions-league-final-moved-to-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-13T10:41:00.000Z",
-      "orderDate": "2021-05-13T10:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/13/champions-league-final-moved-to-porto",
-        "type": "NewsCard",
-        "title": "Champions League final moved to Porto",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/13/champions-league-final-moved-to-porto.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-13T10:41:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/13/champions-league-final-moved-to-porto",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Estadio do Dragao in Porto",
-          "id": "editorial/news/2021/05/13/dragao_porto_general_view",
-          "gravity": "auto",
-          "aspectRatio": 1.4815567,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Champions League final moved to Porto",
-      "publishDate": "2021-05-13T10:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/13/champions-league-final-moved-to-porto.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-05-13T10:41:00.000Z",
-      "description": "The Champions League final between Chelsea and Manchester City on Saturday 29 May will now take place at the Estadio do Dragao in Porto in northern Portugal.",
-      "matchId": 2197699
     }
   ]
 }
