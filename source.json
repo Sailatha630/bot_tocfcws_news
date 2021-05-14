@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210515chelsea-vs-leicester---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-05-14T22:04:00.000Z",
+      "orderDate": "2021-05-14T22:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/15/chelsea-vs-leicester---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Leicester - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/chelsea-vs-leicester---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-14T22:04:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/05/15/chelsea-vs-leicester---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel and Rodgers",
+          "id": "editorial/news/2021/05/14/tuchel_rodgers_fa_cup",
+          "gravity": "auto",
+          "aspectRatio": 1.5001588,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Leicester - the stats",
+      "publishDate": "2021-05-14T22:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/chelsea-vs-leicester---the-stats.html",
+      "readTimeInMins": 28,
+      "tags": [
+        {
+          "title": "FA Cup Final",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fa-cup-final"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-05-14T22:04:00.000Z",
+      "description": "Wembley awaits and our run-up to the FA Cup final continues with plenty of facts and figures about the Blues and the Foxes...",
+      "matchId": 2198576
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210514tuchel-provides-chelsea-fa-cup-f",
       "type": "NewsCard",
@@ -572,49 +631,6 @@
       "date": "2021-05-14T05:05:00.000Z",
       "description": "The Blues put our Premier League campaign to one side this weekend for very important reasons, as we do battle with one of our rivals for a top-four place but this time for domestic knockout honours. Club historian Rick Glanvill and club statistician Paul Dutton set the scene for Saturday’s showpiece Emirates FA Cup final…",
       "matchId": 2198576
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210514cup-final-exclusive--frank-sincl",
-      "type": "NewsCard",
-      "timestamp": "2021-05-14T07:16:00.000Z",
-      "orderDate": "2021-05-14T03:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/14/cup-final-exclusive--frank-sinclair---i-enjoyed-every-minutes-of",
-        "type": "NewsCard",
-        "title": "Cup final exclusive: Frank Sinclair – I enjoyed every minute of that final, I had energy to burn",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/14/cup-final-exclusive--frank-sinclair---i-enjoyed-every-minutes-of.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-14T07:16:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/14/cup-final-exclusive--frank-sinclair---i-enjoyed-every-minutes-of",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Frank Sinclair at Wembley in 1997",
-          "id": "editorial/news/2021/05/14/sinclair_fa_cup_1997",
-          "gravity": "faces",
-          "aspectRatio": 1.1521739,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Cup final exclusive: Frank Sinclair – I enjoyed every minute of that final, I had energy to burn",
-      "publishDate": "2021-05-14T07:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/14/cup-final-exclusive--frank-sinclair---i-enjoyed-every-minutes-of.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Frank Sinclair",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-sinclair"
-        }
-      ],
-      "date": "2021-05-14T07:16:00.000Z",
-      "description": "In a special two-part interview ahead of the FA Cup final, we catch up with our former defender Frank Sinclair who played for both Chelsea and Leicester City in Wembley showpiece occasions and has quite a tale to tell…"
     }
   ]
 }
