@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210514reece-james-analyses-his-develop",
+      "type": "NewsCard",
+      "timestamp": "2021-05-14T11:30:00.000Z",
+      "orderDate": "2021-05-14T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/14/reece-james-analyses-his-development-this-season-and-outlines-fa",
+        "type": "NewsCard",
+        "title": "Reece James analyses his development this season and outlines FA Cup final hopes",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/14/reece-james-analyses-his-development-this-season-and-outlines-fa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-14T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/14/reece-james-analyses-his-development-this-season-and-outlines-fa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James at Wembley",
+          "id": "editorial/news/2021/05/14/reece-james-wembley-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.4732461,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Reece James analyses his development this season and outlines FA Cup final hopes",
+      "publishDate": "2021-05-14T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/14/reece-james-analyses-his-development-this-season-and-outlines-fa.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "FA Cup Final",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fa-cup-final"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-05-14T11:30:00.000Z",
+      "description": "Watching Chelsea triumph in FA Cup finals was a regular occurrence for a young Reece James, and now the lifelong Blues supporter wants to add his name to the list of those who have picked up a winner’s medal in the prestigious competition.",
+      "matchId": 2198576
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20210513vote-for-chelsea-s-best-fa-cup-f",
       "type": "NewsCard",
@@ -515,70 +574,6 @@
       "date": "2021-05-13T10:41:00.000Z",
       "description": "The Champions League final between Chelsea and Manchester City on Saturday 29 May will now take place at the Estadio do Dragao in Porto in northern Portugal.",
       "matchId": 2197699
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210513pick-your-ultimate-chelsea-fa-cu",
-      "type": "NewsCard",
-      "timestamp": "2021-05-13T13:02:00.000Z",
-      "orderDate": "2021-05-13T10:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/13/pick-your-ultimate-chelsea-fa-cup-final-xi---midfielders-",
-        "type": "NewsCard",
-        "title": "Pick your ultimate Chelsea FA Cup final XI - Midfielders ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/13/pick-your-ultimate-chelsea-fa-cup-final-xi---midfielders-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-13T13:02:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/13/pick-your-ultimate-chelsea-fa-cup-final-xi---midfielders-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "theshed/shot-of-the-day/GettyImages-79024983",
-          "gravity": "faces",
-          "aspectRatio": 0.6872727,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pick your ultimate Chelsea FA Cup final XI - Midfielders ",
-      "publishDate": "2021-05-13T13:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/13/pick-your-ultimate-chelsea-fa-cup-final-xi---midfielders-.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "Roberto Di Matteo",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_roberto-di-matteo"
-        },
-        {
-          "title": "Dennis Wise",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_dennis-wise"
-        },
-        {
-          "title": "Eddie Newton",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_eddie-newton"
-        },
-        {
-          "title": "Gustavo Poyet",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_gustavo-poyet"
-        },
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        }
-      ],
-      "date": "2021-05-13T13:02:00.000Z",
-      "description": "You’ve voted for your goalkeeper and defenders and now it’s time to pick four midfielders to line-up in Chelsea’s best FA Cup final team…",
-      "matchId": 2198576
     }
   ]
 }
