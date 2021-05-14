@@ -174,6 +174,54 @@
       "matchId": 2198576
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210514media-watch--chelsea-linked-to-d",
+      "type": "NewsCard",
+      "timestamp": "2021-05-14T09:30:00.000Z",
+      "orderDate": "2021-05-13T23:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/14/media-watch--chelsea-linked-to-de-ligt--cole-praises-cobham-envi",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked to De Ligt, Cole praises Cobham environment and Wright backs Blues to win FA Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/14/media-watch--chelsea-linked-to-de-ligt--cole-praises-cobham-envi.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-14T09:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/14/media-watch--chelsea-linked-to-de-ligt--cole-praises-cobham-envi",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/De-Ligt-mw-140521",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked to De Ligt, Cole praises Cobham environment and Wright backs Blues to win FA Cup",
+      "publishDate": "2021-05-14T09:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/14/media-watch--chelsea-linked-to-de-ligt--cole-praises-cobham-envi.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Ashley Cole",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_ashley-cole"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-05-14T09:30:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Matthijs de Ligt and Ashley Cole reveals he is impressed with the environment around Cobham."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210514thomas-tuchel-s-record-in-domest",
       "type": "NewsCard",
@@ -479,67 +527,6 @@
       "date": "2021-05-13T11:42:00.000Z",
       "description": "Chelsea Women have seen off Benfica, Atletico Madrid, Wolfsburg, and Bayern Munich on our journey to the Champions League final and the Blues will now battle it out with Barcelona on Sunday for the title of Champions League winners.",
       "matchId": 2205088
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210513james--we-move-on-quickly-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-13T06:29:00.000Z",
-      "orderDate": "2021-05-13T06:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/13/james--we-move-on-quickly-",
-        "type": "NewsCard",
-        "title": "James: We move on quickly ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/13/james--we-move-on-quickly-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-13T06:29:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/13/james--we-move-on-quickly-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Reece James playing against Arsenal",
-          "id": "editorial/match-reports/2020-21/arsenal-home/reece_james_arsenal_away",
-          "gravity": "auto",
-          "aspectRatio": 1.4465601,
-          "cropMode": "fill",
-          "isFullScale": true
-        },
-        "caption": "Reece James playing against Arsenal"
-      },
-      "content": "James: We move on quickly ",
-      "publishDate": "2021-05-13T06:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/13/james--we-move-on-quickly-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2021-05-13T06:29:00.000Z",
-      "description": "With an FA Cup final to play as soon as Saturday and other big games to come, now is not the time to wallow in Wednesday night’s defeat against Arsenal was the message coming out of the match from Reece James.",
-      "matchId": 2128641
     }
   ]
 }
