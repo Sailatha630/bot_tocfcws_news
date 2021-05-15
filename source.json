@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210515thomas-tuchel-reaction-to-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-05-15T19:02:00.000Z",
+      "orderDate": "2021-05-15T19:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/15/thomas-tuchel-reaction-to-chelsea-vs-leicester-in-the-fa-cup-fin",
+        "type": "NewsCard",
+        "title": "Tuchel labels Chelsea Cup final performance unlucky and gives view on handball call",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/thomas-tuchel-reaction-to-chelsea-vs-leicester-in-the-fa-cup-fin.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-15T19:02:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/15/thomas-tuchel-reaction-to-chelsea-vs-leicester-in-the-fa-cup-fin",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel at Wembley",
+          "id": "editorial/match-reports/2020-21/leicester-cup-final/fa_cup_final_tuchel",
+          "gravity": "auto",
+          "aspectRatio": 1.3661367,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel labels Chelsea Cup final performance unlucky and gives view on handball call",
+      "publishDate": "2021-05-15T19:02:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/thomas-tuchel-reaction-to-chelsea-vs-leicester-in-the-fa-cup-fin.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup Final",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fa-cup-final"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2021-05-15T19:02:00.000Z",
+      "description": "Having seen his team lose his first FA Cup final, Thomas Tuchel highlighted a degree of misfortune as contributory to the 1-0 defeat, as well as a quality strike for Leicester’s goal and a first-class save that prevented Mason Mount scoring late on.",
+      "matchId": 2198576
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210515fa-cup-final-report--chelsea-vs-",
       "type": "NewsCard",
@@ -512,65 +571,6 @@
       ],
       "date": "2021-05-15T03:15:00.000Z",
       "description": "Timo Werner leads the Chelsea attack at Wembley for the Emirates FA Cup final...",
-      "matchId": 2198576
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210515revealed--the-thomas-tuchel-way-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-15T06:30:00.000Z",
-      "orderDate": "2021-05-15T02:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/15/revealed--the-thomas-tuchel-way-to-prepare-for-a-cup-final",
-        "type": "NewsCard",
-        "title": "Revealed: The Thomas Tuchel way to prepare for a cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/revealed--the-thomas-tuchel-way-to-prepare-for-a-cup-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-15T06:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/15/revealed--the-thomas-tuchel-way-to-prepare-for-a-cup-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel at training",
-          "id": "editorial/news/2021/05/14/tuchel_training_pre_fa_cup_final",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Revealed: The Thomas Tuchel way to prepare for a cup final",
-      "publishDate": "2021-05-15T06:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/revealed--the-thomas-tuchel-way-to-prepare-for-a-cup-final.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "FA Cup Final",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_fa-cup-final"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2021-05-15T06:30:00.000Z",
-      "description": "It is not a time for new tricks explains the Chelsea head coach…",
       "matchId": 2198576
     }
   ]
