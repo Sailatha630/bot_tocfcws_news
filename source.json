@@ -9,6 +9,55 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210516women-s-champions-league-final--",
+      "type": "NewsCard",
+      "timestamp": "2021-05-16T18:00:00.000Z",
+      "orderDate": "2021-05-16T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/16/women-s-champions-league-final--chelsea-team-news",
+        "type": "NewsCard",
+        "title": "Women's Champions League final: Chelsea team news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/women-s-champions-league-final--chelsea-team-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-16T18:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/16/women-s-champions-league-final--chelsea-team-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Jess Carter",
+          "id": "editorial/news/2021/05/16/carter-ucl-final",
+          "gravity": "auto",
+          "aspectRatio": 0.7226471,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women's Champions League final: Chelsea team news",
+      "publishDate": "2021-05-16T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/women-s-champions-league-final--chelsea-team-news.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-05-16T18:00:00.000Z",
+      "description": "For tonight’s Women’s Champions League final, Emma Hayes has named the same Chelsea side that started against Reading last weekend.",
+      "matchId": 2205088
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210516hayes--it-requires-a-huge-team-e",
       "type": "NewsCard",
       "timestamp": "2021-05-16T14:30:00.000Z",
@@ -465,70 +514,6 @@
       ],
       "date": "2021-05-15T15:36:00.000Z",
       "description": "Chelsea will have to wait a little longer for our first trophy under Thomas Tuchel after a narrow defeat to Leicester City in the Emirates FA Cup final.",
-      "matchId": 2198576
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210515azpilicueta--we-know-how-special",
-      "type": "NewsCard",
-      "timestamp": "2021-05-15T12:17:00.000Z",
-      "orderDate": "2021-05-15T12:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/15/azpilicueta--we-know-how-special-it-is",
-        "type": "NewsCard",
-        "title": "Azpilicueta: We know how special it is to have fans at the final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/azpilicueta--we-know-how-special-it-is.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-15T12:17:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/15/azpilicueta--we-know-how-special-it-is",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Azpilicueta",
-          "id": "editorial/news/2021/05/14/Azpilicueta_GettyImages-1316976540",
-          "gravity": "auto",
-          "aspectRatio": 1.5115975,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta: We know how special it is to have fans at the final",
-      "publishDate": "2021-05-15T12:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/azpilicueta--we-know-how-special-it-is.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Kepa Arrizabalaga ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kepa-arrizabalaga"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2021-05-15T12:17:00.000Z",
-      "description": "Chelsea captain Cesar Azpilicueta wants to give Blues fans ‘a moment of joy’ as they return to the stands for today’s FA Cup final at Wembley Stadium.",
       "matchId": 2198576
     }
   ]
