@@ -8,6 +8,56 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210516women-s-champions-league-final-r",
+      "type": "NewsCard",
+      "timestamp": "2021-05-16T20:55:00.000Z",
+      "orderDate": "2021-05-16T20:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/16/women-s-champions-league-final-report--chelsea-0-barcelona-4",
+        "type": "NewsCard",
+        "title": "Women’s Champions League final report: Chelsea 0 Barcelona 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/women-s-champions-league-final-report--chelsea-0-barcelona-4.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-16T20:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/16/women-s-champions-league-final-report--chelsea-0-barcelona-4",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Magda Eriksson challenges for the ball",
+          "id": "editorial/match-reports/2020-21/women-v-barcelona/Eriksson-GettyImages-1232934493",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s Champions League final report: Chelsea 0 Barcelona 4",
+      "publishDate": "2021-05-16T20:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/women-s-champions-league-final-report--chelsea-0-barcelona-4.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Uefa Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_uefa-women-s-champions-league"
+        }
+      ],
+      "date": "2021-05-16T20:55:00.000Z",
+      "description": "Chelsea Women came up short in our first-ever Women’s Champions League final, as a four-goal burst in the first half did the damage and secured the trophy for Barcelona in Gothenburg.",
+      "matchId": 2205088
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210516women-s-champions-league-final--",
       "type": "NewsCard",
@@ -460,60 +510,6 @@
       ],
       "date": "2021-05-15T19:02:00.000Z",
       "description": "Having seen his team lose his first FA Cup final, Thomas Tuchel highlighted a degree of misfortune as contributory to the 1-0 defeat, as well as a quality strike for Leicester’s goal and a first-class save that prevented Mason Mount scoring late on.",
-      "matchId": 2198576
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210515fa-cup-final-report--chelsea-vs-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-15T15:36:00.000Z",
-      "orderDate": "2021-05-15T18:36:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/15/fa-cup-final-report--chelsea-vs-leicester-city",
-        "type": "NewsCard",
-        "title": "FA Cup final report: Chelsea 0 Leicester City 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/fa-cup-final-report--chelsea-vs-leicester-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-15T15:36:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/15/fa-cup-final-report--chelsea-vs-leicester-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mount",
-          "id": "editorial/match-reports/2020-21/leicester-cup-final/fa_cup_final_mount_late_shot",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "FA Cup final report: Chelsea 0 Leicester City 1",
-      "publishDate": "2021-05-15T15:36:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/fa-cup-final-report--chelsea-vs-leicester-city.html",
-      "readTimeInMins": 20,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-05-15T15:36:00.000Z",
-      "description": "Chelsea will have to wait a little longer for our first trophy under Thomas Tuchel after a narrow defeat to Leicester City in the Emirates FA Cup final.",
       "matchId": 2198576
     }
   ]
