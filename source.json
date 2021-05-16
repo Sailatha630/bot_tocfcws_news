@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210516azpilicueta--we-have-to-pick-our",
+      "type": "NewsCard",
+      "timestamp": "2021-05-16T03:00:00.000Z",
+      "orderDate": "2021-05-16T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/16/azpilicueta--we-have-to-pick-ourselves-up",
+        "type": "NewsCard",
+        "title": "Azpilicueta: We have to pick ourselves up",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/azpilicueta--we-have-to-pick-ourselves-up.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-16T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/16/azpilicueta--we-have-to-pick-ourselves-up",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Azpilicueta",
+          "id": "editorial/news/2021/05/15/Azpilicueta_GettyImages-1318178799",
+          "gravity": "auto",
+          "aspectRatio": 1.4992481,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Azpilicueta: We have to pick ourselves up",
+      "publishDate": "2021-05-16T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/azpilicueta--we-have-to-pick-ourselves-up.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        }
+      ],
+      "date": "2021-05-16T03:00:00.000Z",
+      "description": "Cesar Azpilicueta was frustrated by the missed opportunities that prevented us from winning in the FA Cup final, but insists we need to get over that disappointment quickly with three more big games coming in quick succession.",
+      "matchId": 2198576
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210515thomas-tuchel-reaction-to-chelse",
       "type": "NewsCard",
@@ -513,65 +572,6 @@
       "date": "2021-05-15T15:15:00.000Z",
       "description": "Emma Hayes’s Chelsea squad were pictured at Gamla Ullevi stadium earlier this afternoon, putting in the final preparations ahead of tomorrow’s Champions League final against Barcelona.",
       "matchId": 2205088
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210515the-chelsea-fa-cup-final-line-up",
-      "type": "NewsCard",
-      "timestamp": "2021-05-15T03:15:00.000Z",
-      "orderDate": "2021-05-15T03:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/15/the-chelsea-fa-cup-final-line-up-vs-leicester",
-        "type": "NewsCard",
-        "title": "The Chelsea FA Cup final line up vs Leicester",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/the-chelsea-fa-cup-final-line-up-vs-leicester.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-15T03:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/15/the-chelsea-fa-cup-final-line-up-vs-leicester",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mount shirt",
-          "id": "editorial/match-reports/2020-21/leicester-cup-final/mount-dressing-room-leicester-cup-final",
-          "gravity": "auto",
-          "aspectRatio": 1.4023392,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Chelsea FA Cup final line up vs Leicester",
-      "publishDate": "2021-05-15T03:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/the-chelsea-fa-cup-final-line-up-vs-leicester.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup Final",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_fa-cup-final"
-        },
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2021-05-15T03:15:00.000Z",
-      "description": "Timo Werner leads the Chelsea attack at Wembley for the Emirates FA Cup final...",
-      "matchId": 2198576
     }
   ]
 }
