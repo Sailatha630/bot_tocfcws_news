@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210516tuchel--we-can-t-feel-sorry-for-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-16T13:28:00.000Z",
+      "orderDate": "2021-05-16T13:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/16/tuchel--we-can-t-feel-sorry-for-ourselves",
+        "type": "NewsCard",
+        "title": "Tuchel: We can’t feel sorry for ourselves",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/tuchel--we-can-t-feel-sorry-for-ourselves.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-16T13:28:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/16/tuchel--we-can-t-feel-sorry-for-ourselves",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel interviewed after the Cup final",
+          "id": "editorial/news/2021/05/16/tuchel-interview-cup-final",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: We can’t feel sorry for ourselves",
+      "publishDate": "2021-05-16T13:28:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/tuchel--we-can-t-feel-sorry-for-ourselves.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-05-16T13:28:00.000Z",
+      "description": "With three huge games still to play this season, Thomas Tuchel knows his Chelsea team cannot afford to dwell on yesterday’s FA Cup final defeat to Leicester City.",
+      "matchId": 2198576
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210516eriksson--we-haven-t-come-this-f",
       "type": "NewsCard",
@@ -511,60 +560,6 @@
       ],
       "date": "2021-05-15T11:20:00.000Z",
       "description": "Once upon a time, scoring in an FA Cup final was the ultimate dream for any footballer in England – but only a few have ever achieved it for the Blues. We’ve asked some of those players just how good it feels when the ball hits the back of the net on the big stage…"
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210515cup-final-exclusive--rudiger-on-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-15T03:30:00.000Z",
-      "orderDate": "2021-05-15T09:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/15/cup-final-exclusive--rudiger-on-ending-his-toughest-season-with-",
-        "type": "NewsCard",
-        "title": "Cup final exclusive: Rudiger on ending his toughest season with trophies, relishing the return of fans and what we need to beat Leicester",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/cup-final-exclusive--rudiger-on-ending-his-toughest-season-with-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-15T03:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/15/cup-final-exclusive--rudiger-on-ending-his-toughest-season-with-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Rudiger",
-          "id": "editorial/news/2021/05/15/Rudiger-stock-Real-Madrid",
-          "gravity": "north",
-          "aspectRatio": 1.5873016,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Cup final exclusive: Rudiger on ending his toughest season with trophies, relishing the return of fans and what we need to beat Leicester",
-      "publishDate": "2021-05-15T03:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/cup-final-exclusive--rudiger-on-ending-his-toughest-season-with-.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2021-05-15T03:30:00.000Z",
-      "description": "As we continue our build-up to this evening’s FA Cup final, Antonio Rudiger talks about finishing a difficult season with silverware, the welcome return of Chelsea supporters at Wembley today and how the Blues plan to outfox Leicester City…",
-      "matchId": 2198576
     }
   ]
 }
