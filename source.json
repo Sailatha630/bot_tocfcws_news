@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210516eriksson--we-haven-t-come-this-f",
+      "type": "NewsCard",
+      "timestamp": "2021-05-16T08:28:00.000Z",
+      "orderDate": "2021-05-16T08:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/16/eriksson--we-haven-t-come-this-far-to-not-give-everything-we-can",
+        "type": "NewsCard",
+        "title": "Eriksson: We haven’t come this far to not give everything we can to lift that trophy",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/eriksson--we-haven-t-come-this-far-to-not-give-everything-we-can.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-16T08:28:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/16/eriksson--we-haven-t-come-this-far-to-not-give-everything-we-can",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Eriksson_Magda",
+          "gravity": "auto",
+          "aspectRatio": 1.5023645,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Eriksson: We haven’t come this far to not give everything we can to lift that trophy",
+      "publishDate": "2021-05-16T08:28:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/eriksson--we-haven-t-come-this-far-to-not-give-everything-we-can.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-05-16T08:28:00.000Z",
+      "description": "Magda Eriksson believes Chelsea’s defensive qualities could prove to be the difference in this evening’s Champions League final.",
+      "matchId": 2205088
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210515hayes--they-are-amazing-women-th",
       "type": "NewsCard",
@@ -39,7 +88,7 @@
       "content": "Hayes: They are amazing women that are inspiring generations",
       "publishDate": "2021-05-15T18:16:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/hayes--they-are-amazing-women-that-are-inspiring-generations.html",
-      "readTimeInMins": 6,
+      "readTimeInMins": 8,
       "tags": [
         {
           "title": "Women",
@@ -114,6 +163,49 @@
       "date": "2021-05-16T03:00:00.000Z",
       "description": "Cesar Azpilicueta was frustrated by the missed opportunities that prevented us from winning in the FA Cup final, but insists we need to get over that disappointment quickly with three more big games coming in quick succession.",
       "matchId": 2198576
+    },
+    {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20210516score-a-goal-at-stamford-bridge-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-16T09:00:00.000Z",
+      "orderDate": "2021-05-15T23:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/16/score-a-goal-at-stamford-bridge-as-part-of-special-stadium-tour-",
+        "type": "NewsCard",
+        "title": "Score a goal at Stamford Bridge as part of special stadium tour! ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/score-a-goal-at-stamford-bridge-as-part-of-special-stadium-tour-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-16T09:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/16/score-a-goal-at-stamford-bridge-as-part-of-special-stadium-tour-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge net",
+          "id": "editorial/news/2021/05/14/stamford-bridge-net-view-matthew-harding",
+          "gravity": "auto",
+          "aspectRatio": 1.5001448,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Score a goal at Stamford Bridge as part of special stadium tour! ",
+      "publishDate": "2021-05-16T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/score-a-goal-at-stamford-bridge-as-part-of-special-stadium-tour-.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Stamford Bridge",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_stamford-bridge"
+        }
+      ],
+      "date": "2021-05-16T09:00:00.000Z",
+      "description": "Chelsea fans can experience a once-in-a-lifetime opportunity to lace up their football boots, take to the Stamford Bridge turf and score a penalty at the iconic Matthew Harding End as part of the 'Bring Your Boots' stadium tour."
     },
     {
       "contentType": "News",
@@ -469,109 +561,6 @@
       "date": "2021-05-15T09:29:00.000Z",
       "description": "Blues fans around the world have been voting all week to pick an all-conquering Chelsea FA Cup final team, as well as our best final goal, and now we can reveal the results…",
       "matchId": 2198576
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210515cup-final-exclusive---part-two--",
-      "type": "NewsCard",
-      "timestamp": "2021-05-15T09:29:00.000Z",
-      "orderDate": "2021-05-15T07:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/15/cup-final-exclusive---part-two--frank-sinclair---my-best-game-ca",
-        "type": "NewsCard",
-        "title": "Cup final exclusive – part two: Frank Sinclair – My best game came at Wembley, and why 2021 final is intriguing game",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/cup-final-exclusive---part-two--frank-sinclair---my-best-game-ca.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-15T09:29:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/15/cup-final-exclusive---part-two--frank-sinclair---my-best-game-ca",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Frank Sinclair at Wembley in 1998",
-          "id": "editorial/news/2021/05/14/sinclair_league_cup_1998a",
-          "gravity": "face",
-          "aspectRatio": 0.64691657,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Cup final exclusive – part two: Frank Sinclair – My best game came at Wembley, and why 2021 final is intriguing game",
-      "publishDate": "2021-05-15T09:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/cup-final-exclusive---part-two--frank-sinclair---my-best-game-ca.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        },
-        {
-          "title": "Frank Sinclair",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-sinclair"
-        }
-      ],
-      "date": "2021-05-15T09:29:00.000Z",
-      "description": "In part one of this interview with Frank Sinclair, who enjoyed significant careers with both Chelsea and Leicester City, he spoke about learning from early FA Cup disappointments and turning them into a memorable blue-day triumph. In part two here, the story continues with our former defender’s goalscoring pinnacle at Wembley, and he looks forward to today’s big match between his former clubs…",
-      "matchId": 2198576
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210515gallery--chelsea-train-ahead-of-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-15T15:15:00.000Z",
-      "orderDate": "2021-05-15T03:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/15/gallery--chelsea-train-ahead-of-women-s-champions-league-final",
-        "type": "NewsCard",
-        "title": "Gallery: Chelsea train ahead of Women’s Champions League final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/gallery--chelsea-train-ahead-of-women-s-champions-league-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-15T15:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/15/gallery--chelsea-train-ahead-of-women-s-champions-league-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Training_Gallery_Ingle_Blundell",
-          "gravity": "auto",
-          "aspectRatio": 1.5024104,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Chelsea train ahead of Women’s Champions League final",
-      "publishDate": "2021-05-15T15:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/15/gallery--chelsea-train-ahead-of-women-s-champions-league-final.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-05-15T15:15:00.000Z",
-      "description": "Emma Hayes’s Chelsea squad were pictured at Gamla Ullevi stadium earlier this afternoon, putting in the final preparations ahead of tomorrow’s Champions League final against Barcelona.",
-      "matchId": 2205088
     }
   ]
 }
