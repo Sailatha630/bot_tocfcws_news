@@ -214,6 +214,49 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210517what-can-you-watch-on-chelsea-pl",
+      "type": "NewsCard",
+      "timestamp": "2021-05-17T11:22:00.000Z",
+      "orderDate": "2021-05-17T02:22:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/17/what-can-you-watch-on-chelsea-platforms-this-week-",
+        "type": "NewsCard",
+        "title": "What can you watch on Chelsea platforms this week?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-17T11:22:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/17/what-can-you-watch-on-chelsea-platforms-this-week-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Live-streams-chelsea-2020-play-predictor--1097c98e-88c2-4b4b-8f8d-04e45750f1f5",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "What can you watch on Chelsea platforms this week?",
+      "publishDate": "2021-05-17T11:22:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/what-can-you-watch-on-chelsea-platforms-this-week-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        }
+      ],
+      "date": "2021-05-17T11:22:00.000Z",
+      "description": "It’s another busy week on Chelsea channels, with a pair of Thomas Tuchel press conferences and two Matchday Live shows on the menu…"
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210517media-watch--chelsea-linked-with",
       "type": "NewsCard",
       "timestamp": "2021-05-17T09:17:00.000Z",
@@ -471,55 +514,6 @@
       "date": "2021-05-16T14:30:00.000Z",
       "description": "Every footballer that features in a major final dreams of etching their name into folklore, whether that’s by scoring the winner or playing a key role in a club’s success.",
       "matchId": 2205088
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210516tuchel--we-can-t-feel-sorry-for-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-16T13:28:00.000Z",
-      "orderDate": "2021-05-16T13:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/16/tuchel--we-can-t-feel-sorry-for-ourselves",
-        "type": "NewsCard",
-        "title": "Tuchel: We can’t feel sorry for ourselves",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/tuchel--we-can-t-feel-sorry-for-ourselves.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-16T13:28:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/16/tuchel--we-can-t-feel-sorry-for-ourselves",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel interviewed after the Cup final",
-          "id": "editorial/news/2021/05/16/tuchel-interview-cup-final",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: We can’t feel sorry for ourselves",
-      "publishDate": "2021-05-16T13:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/tuchel--we-can-t-feel-sorry-for-ourselves.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-05-16T13:28:00.000Z",
-      "description": "With three huge games still to play this season, Thomas Tuchel knows his Chelsea team cannot afford to dwell on yesterday’s FA Cup final defeat to Leicester City.",
-      "matchId": 2198576
     }
   ]
 }
