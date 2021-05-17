@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210517chelsea-vs-leicester---the-stats",
+      "type": "NewsCard",
+      "timestamp": "2021-05-17T09:08:00.000Z",
+      "orderDate": "2021-05-17T09:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/17/chelsea-vs-leicester---the-stats",
+        "type": "NewsCard",
+        "title": "Chelsea vs Leicester - the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/chelsea-vs-leicester---the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-17T09:08:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/05/17/chelsea-vs-leicester---the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kante playing Leicester",
+          "id": "editorial/news/2021/05/17/kante_fa_cup_final",
+          "gravity": "center",
+          "aspectRatio": 1.316297,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Leicester - the stats",
+      "publishDate": "2021-05-17T09:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/chelsea-vs-leicester---the-stats.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-05-17T09:08:00.000Z",
+      "description": "Ahead of the second of a double-header of fixtures against the Foxes, we look at the key facts and figures leading into our penultimate Premier League game of the season...",
+      "matchId": 2128648
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210516hayes--tough-to-take-but-we-will",
       "type": "NewsCard",
@@ -471,60 +525,6 @@
       "date": "2021-05-16T08:28:00.000Z",
       "description": "Magda Eriksson believes Chelsea’s defensive qualities could prove to be the difference in this evening’s Champions League final.",
       "matchId": 2205088
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210516the-debrief--chelsea-meet-stubbo",
-      "type": "NewsCard",
-      "timestamp": "2021-05-16T12:11:00.000Z",
-      "orderDate": "2021-05-16T07:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/16/the-debrief--chelsea-meet-stubborn-leicester-resistance-in-cup-f",
-        "type": "NewsCard",
-        "title": "The Debrief: Chelsea meet stubborn Leicester resistance in Cup final of tight margins",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/the-debrief--chelsea-meet-stubborn-leicester-resistance-in-cup-f.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-16T12:11:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/16/the-debrief--chelsea-meet-stubborn-leicester-resistance-in-cup-f",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/05/16/debrief-graphic-fa-cup-final-leicester",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Chelsea meet stubborn Leicester resistance in Cup final of tight margins",
-      "publishDate": "2021-05-16T12:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/16/the-debrief--chelsea-meet-stubborn-leicester-resistance-in-cup-f.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2021-05-16T12:11:00.000Z",
-      "description": "In an FA Cup final of very fine margins, the Blues were not able to make the most of the few openings that fell our way…",
-      "matchId": 2198576
     }
   ]
 }
