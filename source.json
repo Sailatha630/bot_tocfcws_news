@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210518match-report--chelsea-vs-leicest",
+      "type": "NewsCard",
+      "timestamp": "2021-05-18T21:15:00.000Z",
+      "orderDate": "2021-05-18T21:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/18/match-report--chelsea-vs-leicester-city",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 2 Leicester City 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/18/match-report--chelsea-vs-leicester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-18T21:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/18/match-report--chelsea-vs-leicester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "video/2021/05/18/chelsea---leicester--h----premier-league-highlights-WnQ4tco4/thumbnail",
+          "gravity": "auto",
+          "aspectRatio": 1.3953488,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 2 Leicester City 1",
+      "publishDate": "2021-05-18T21:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/18/match-report--chelsea-vs-leicester-city.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-05-18T21:15:00.000Z",
+      "description": "It was a very happy return to Stamford Bridge for Chelsea supporters as the Blues conjured up a fantastic showing to deservedly beat Leicester and move above the Foxes in the Premier League table.",
+      "matchId": 2128648
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210518chelsea-line-up-vs-leicester-cit",
       "type": "NewsCard",
@@ -485,42 +539,6 @@
       "date": "2021-05-18T08:41:00.000Z",
       "description": "The programme for tonight’s game against Leicester is available to pre-order now, and will also be available to buy at Stamford Bridge, as supporters return to the ground.",
       "matchId": 2128648
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210518chelsea-foundation-support-joe-c",
-      "type": "NewsCard",
-      "timestamp": "2021-05-18T10:32:00.000Z",
-      "orderDate": "2021-05-18T00:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/18/chelsea-foundation-support-joe-cole-s-11-foundation",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation support Joe Cole’s 11 Foundation",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/18/chelsea-foundation-support-joe-cole-s-11-foundation.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-18T10:32:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/18/chelsea-foundation-support-joe-cole-s-11-foundation",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/05/18/ChelseaFoundation_Joe_Cole_Mental_Health",
-          "gravity": "auto",
-          "aspectRatio": 1.4656489,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation support Joe Cole’s 11 Foundation",
-      "publishDate": "2021-05-18T10:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/18/chelsea-foundation-support-joe-cole-s-11-foundation.html",
-      "readTimeInMins": 8,
-      "tags": [],
-      "date": "2021-05-18T10:32:00.000Z",
-      "description": "After an exciting and busy Mental Health Awareness Week, with new programmes launched, existing programmes restarting after the COVID-19 pandemic and plenty of support from current and past players, the message from the Chelsea Foundation is ‘it’s not just one week’."
     }
   ]
 }
