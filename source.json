@@ -63,6 +63,65 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210518tuchel--we-talk-about-every-play",
+      "type": "NewsCard",
+      "timestamp": "2021-05-18T06:48:00.000Z",
+      "orderDate": "2021-05-17T23:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/18/tuchel--we-talk-about-every-player-every-day",
+        "type": "NewsCard",
+        "title": "Tuchel: We talk about every player every day",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/18/tuchel--we-talk-about-every-player-every-day.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-18T06:48:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/18/tuchel--we-talk-about-every-player-every-day",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel at training",
+          "id": "editorial/news/2021/05/17/tuchel_training_arms_out",
+          "gravity": "face",
+          "aspectRatio": 0.6666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: We talk about every player every day",
+      "publishDate": "2021-05-18T06:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/18/tuchel--we-talk-about-every-player-every-day.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2021-05-18T06:48:00.000Z",
+      "description": "Thomas Tuchel has revealed behind-the-scenes conversations at Cobham that have an impact on team rotation decisions during this busy time, a situation highlighted by us playing Leicester so soon again after we faced the Foxes in the FA Cup final.",
+      "matchId": 2128648
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210517tuchel--fans-can-give-us-extra-p",
       "type": "NewsCard",
       "timestamp": "2021-05-17T14:10:00.000Z",
@@ -496,59 +555,6 @@
       ],
       "date": "2021-05-17T11:26:00.000Z",
       "description": "In our round-up of the action involving Chelsea players on loan over the last week, three Blues score decisive goals at either end of the table, while the top-four race in Serie A goes to the final day..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210517tuchel-highlights-mount-s-import",
-      "type": "NewsCard",
-      "timestamp": "2021-05-17T02:30:00.000Z",
-      "orderDate": "2021-05-17T02:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/17/tuchel-highlights-mount-s-importance-and-why--strong--chelsea-gr",
-        "type": "NewsCard",
-        "title": "Tuchel highlights Mount’s importance and why ‘strong’ Chelsea group will bounce back",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/tuchel-highlights-mount-s-importance-and-why--strong--chelsea-gr.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-17T02:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/17/tuchel-highlights-mount-s-importance-and-why--strong--chelsea-gr",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Tuchel-stock-Wembley-GettyImages-1232908157",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel highlights Mount’s importance and why ‘strong’ Chelsea group will bounce back",
-      "publishDate": "2021-05-17T02:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/tuchel-highlights-mount-s-importance-and-why--strong--chelsea-gr.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-05-17T02:30:00.000Z",
-      "description": "Thomas Tuchel has called on his Chelsea players to use the pain of our FA Cup final defeat to Leicester as motivation ahead of the two sides meeting in the Premier League tomorrow evening.",
-      "matchId": 2128648
     }
   ]
 }
