@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210517pre-match-briefing--chelsea-vs-l",
+      "type": "NewsCard",
+      "timestamp": "2021-05-18T01:11:00.000Z",
+      "orderDate": "2021-05-18T01:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/17/pre-match-briefing--chelsea-vs-leicester",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Leicester",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/pre-match-briefing--chelsea-vs-leicester.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-18T01:11:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/05/17/pre-match-briefing--chelsea-vs-leicester",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Shed at Stamford Bridge",
+          "id": "editorial/news/2021/05/17/stadium_shed_turnstiles",
+          "gravity": "auto",
+          "aspectRatio": 1.4915254,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Leicester",
+      "publishDate": "2021-05-18T01:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/pre-match-briefing--chelsea-vs-leicester.html",
+      "readTimeInMins": 61,
+      "tags": [
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-05-18T01:11:00.000Z",
+      "description": "So we reach the final Stamford Bridge outing of the season. Club historian Rick Glanvill and club statistician Paul Dutton analyse and anticipate a night game with plenty of significance and a fair few fans present…",
+      "matchId": 2128648
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210517tuchel--fans-can-give-us-extra-p",
       "type": "NewsCard",
@@ -495,49 +549,6 @@
       "date": "2021-05-17T02:30:00.000Z",
       "description": "Thomas Tuchel has called on his Chelsea players to use the pain of our FA Cup final defeat to Leicester as motivation ahead of the two sides meeting in the Premier League tomorrow evening.",
       "matchId": 2128648
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210517what-can-you-watch-on-chelsea-pl",
-      "type": "NewsCard",
-      "timestamp": "2021-05-17T11:22:00.000Z",
-      "orderDate": "2021-05-17T02:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/17/what-can-you-watch-on-chelsea-platforms-this-week-",
-        "type": "NewsCard",
-        "title": "What can you watch on Chelsea platforms this week?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-17T11:22:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/17/what-can-you-watch-on-chelsea-platforms-this-week-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Live-streams-chelsea-2020-play-predictor--1097c98e-88c2-4b4b-8f8d-04e45750f1f5",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "What can you watch on Chelsea platforms this week?",
-      "publishDate": "2021-05-17T11:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/17/what-can-you-watch-on-chelsea-platforms-this-week-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        }
-      ],
-      "date": "2021-05-17T11:22:00.000Z",
-      "description": "It’s another busy week on Chelsea channels, with a pair of Thomas Tuchel press conferences and two Matchday Live shows on the menu…"
     }
   ]
 }
