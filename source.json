@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210519rudiger--they-gave-us-the-motiva",
+      "type": "NewsCard",
+      "timestamp": "2021-05-19T13:03:00.000Z",
+      "orderDate": "2021-05-19T13:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/19/rudiger--they-gave-us-the-motivation",
+        "type": "NewsCard",
+        "title": "Rudiger: They gave us the motivation",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/rudiger--they-gave-us-the-motivation.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-19T13:03:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/19/rudiger--they-gave-us-the-motivation",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Rudiger-mask-stock-GettyImages-1318713886",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger: They gave us the motivation",
+      "publishDate": "2021-05-19T13:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/rudiger--they-gave-us-the-motivation.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2021-05-19T13:03:00.000Z",
+      "description": "Toni Rudiger has revealed that seeing Leicester celebrating their FA Cup final win at the weekend gave the Chelsea players all the inspiration required for securing a big three points last night.",
+      "matchId": 2128648
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210519gilmour-named-in-scotland-euro-2",
       "type": "NewsCard",
@@ -509,60 +567,6 @@
       ],
       "date": "2021-05-18T21:15:00.000Z",
       "description": "It was a very happy return to Stamford Bridge for Chelsea supporters as the Blues conjured up a fantastic showing to deservedly beat Leicester and move above the Foxes in the Premier League table.",
-      "matchId": 2128648
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210518chelsea-line-up-vs-leicester-cit",
-      "type": "NewsCard",
-      "timestamp": "2021-05-18T18:15:00.000Z",
-      "orderDate": "2021-05-18T18:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/18/chelsea-line-up-vs-leicester-city",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Leicester City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/18/chelsea-line-up-vs-leicester-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-18T18:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/18/chelsea-line-up-vs-leicester-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mason Mount",
-          "id": "editorial/match-reports/2020-21/leicester-home/Mount_dressing_room",
-          "gravity": "auto",
-          "aspectRatio": 1.467742,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Leicester City",
-      "publishDate": "2021-05-18T18:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/18/chelsea-line-up-vs-leicester-city.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-05-18T18:15:00.000Z",
-      "description": "Thomas Tuchel makes three changes to the Chelsea side that started the FA Cup final for tonight’s league game against the same opposition Leicester City.",
       "matchId": 2128648
     }
   ]
