@@ -31,7 +31,7 @@
           "type": "ImageCloudinary",
           "alt": "Trivago partnership",
           "id": "editorial/news/2021/05/19/trivago_launch_hero_image_2",
-          "gravity": "auto",
+          "gravity": "north",
           "aspectRatio": 1.7777778,
           "cropMode": "fill"
         }
@@ -435,6 +435,53 @@
       "description": "Frank Lampard is the first former Chelsea player to be inducted into the new Premier League Hall of Fame."
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20210519chelsea-foundation-and-adl-prese",
+      "type": "NewsCard",
+      "timestamp": "2021-05-19T16:29:00.000Z",
+      "orderDate": "2021-05-19T07:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/19/chelsea-foundation-and-adl-present-new-three-year-partnership",
+        "type": "NewsCard",
+        "title": "CHELSEA FOUNDATION AND ADL PRESENT NEW THREE-YEAR PARTNERSHIP",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/chelsea-foundation-and-adl-present-new-three-year-partnership.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-19T16:29:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/19/chelsea-foundation-and-adl-present-new-three-year-partnership",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "video/2021/02/16/ADL_THUMB",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "CHELSEA FOUNDATION AND ADL PRESENT NEW THREE-YEAR PARTNERSHIP",
+      "publishDate": "2021-05-19T16:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/chelsea-foundation-and-adl-present-new-three-year-partnership.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Say No to Antisemitism",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_say-no-to-antisemitism"
+        },
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2021-05-19T16:29:00.000Z",
+      "description": "This Thursday’s proposed Chelsea Foundation and Anti-Defamation League (ADL) webinar with Lord John Mann has been postponed."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210519werner-grateful-for-chelsea-supp",
       "type": "NewsCard",
@@ -487,59 +534,6 @@
       "date": "2021-05-19T03:30:00.000Z",
       "description": "From the moment he exquisitely turned between two Leicester players on the halfway line with a couple of minutes on the clock, Timo Werner was in the thick of things at Stamford Bridge.",
       "matchId": 2128648
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210519media-watch--chelsea-linked-with",
-      "type": "NewsCard",
-      "timestamp": "2021-05-19T09:30:00.000Z",
-      "orderDate": "2021-05-19T01:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/19/media-watch--chelsea-linked-with-sancho--rodgers-praises-mount-a",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea linked with Sancho, Rodgers praises Mount and Arsenal goalkeeper hails Blues’ German duo",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/media-watch--chelsea-linked-with-sancho--rodgers-praises-mount-a.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-19T09:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/19/media-watch--chelsea-linked-with-sancho--rodgers-praises-mount-a",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/j-sancho-mw-190521",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea linked with Sancho, Rodgers praises Mount and Arsenal goalkeeper hails Blues’ German duo",
-      "publishDate": "2021-05-19T09:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/media-watch--chelsea-linked-with-sancho--rodgers-praises-mount-a.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-05-19T09:30:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in making a move for Jadon Sancho while Brendan Rodgers labels Mason Mount as a top player."
     }
   ]
 }
