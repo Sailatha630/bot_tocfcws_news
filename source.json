@@ -154,6 +154,54 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210520media-watch--chelsea-interested-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-20T09:03:00.000Z",
+      "orderDate": "2021-05-20T00:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/20/media-watch--chelsea-interested-in-lewandowski--hargreaves-backs",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked with Lewandowski, Hargreaves backs Werner, Sarri tipped for Premier League return",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/20/media-watch--chelsea-interested-in-lewandowski--hargreaves-backs.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-20T09:03:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/20/media-watch--chelsea-interested-in-lewandowski--hargreaves-backs",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/lewandowski-mw-200521",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked with Lewandowski, Hargreaves backs Werner, Sarri tipped for Premier League return",
+      "publishDate": "2021-05-20T09:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/20/media-watch--chelsea-interested-in-lewandowski--hargreaves-backs.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Maurizio Sarri",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_maurizio-sarri"
+        },
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        }
+      ],
+      "date": "2021-05-20T09:03:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Robert Lewandowski and Maurizio Sarri is tipped for a return to the Premier League."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210519jorginho-s-delight-at-helping-th",
       "type": "NewsCard",
       "timestamp": "2021-05-19T22:18:00.000Z",
@@ -480,60 +528,6 @@
       ],
       "date": "2021-05-19T11:29:00.000Z",
       "description": "Billy Gilmour has been named in the senior Scotland squad for the first time for this summer's European Championships, while N'Golo Kante, Kurt Zouma and Olivier Giroud are in Didier Deschamps' France squad."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210519the-debrief--intense-chelsea-pre",
-      "type": "NewsCard",
-      "timestamp": "2021-05-19T11:15:00.000Z",
-      "orderDate": "2021-05-19T11:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/19/the-debrief--intense-chelsea-press-and-physical-dominance-sets-t",
-        "type": "NewsCard",
-        "title": "The Debrief: Intense Chelsea press and physical dominance sets tone for worthy win",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/the-debrief--intense-chelsea-press-and-physical-dominance-sets-t.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-19T11:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/19/the-debrief--intense-chelsea-press-and-physical-dominance-sets-t",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/05/19/debrief-graphic-web-leicester-home",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Intense Chelsea press and physical dominance sets tone for worthy win",
-      "publishDate": "2021-05-19T11:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/the-debrief--intense-chelsea-press-and-physical-dominance-sets-t.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2021-05-19T11:15:00.000Z",
-      "description": "Roared on by a partisan home crowd last night, Chelsea started at a ferocious intensity and barely relented as we never let Leicester settle.",
-      "matchId": 2128648
     }
   ]
 }
