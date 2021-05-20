@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210520women-s-match-report--chelsea-v-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-20T20:29:00.000Z",
+      "orderDate": "2021-05-20T14:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/20/women-s-match-report--chelsea-v-everton",
+        "type": "NewsCard",
+        "title": "Women's Match Report: Chelsea 3-0 Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/20/women-s-match-report--chelsea-v-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-20T20:29:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/05/20/women-s-match-report--chelsea-v-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Drew_Spence_Everton",
+          "gravity": "auto",
+          "aspectRatio": 1.4998239,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women's Match Report: Chelsea 3-0 Everton",
+      "publishDate": "2021-05-20T20:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/20/women-s-match-report--chelsea-v-everton.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-05-20T20:29:00.000Z",
+      "description": "Chelsea Women are through to the FA Cup quarter-finals after a 3-0 victory against Everton at Kingsmeadow.",
+      "matchId": 2203989
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210520kirby-named-chelsea-women-s-play",
       "type": "NewsCard",
@@ -433,59 +486,6 @@
       ],
       "date": "2021-05-20T09:03:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Robert Lewandowski and Maurizio Sarri is tipped for a return to the Premier League."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210519jorginho-s-delight-at-helping-th",
-      "type": "NewsCard",
-      "timestamp": "2021-05-19T22:18:00.000Z",
-      "orderDate": "2021-05-19T22:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/19/jorginho-s-delight-at-helping-the-blues-secure-a-big-win-in-fron",
-        "type": "NewsCard",
-        "title": "Jorginho’s delight at helping the Blues secure a big win in front of the Chelsea fans ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/jorginho-s-delight-at-helping-the-blues-secure-a-big-win-in-fron.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-19T22:18:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/19/jorginho-s-delight-at-helping-the-blues-secure-a-big-win-in-fron",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Jorginho-celebration-Leicester-h-GettyImages-1318709833",
-          "gravity": "auto",
-          "aspectRatio": 1.500167,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho’s delight at helping the Blues secure a big win in front of the Chelsea fans ",
-      "publishDate": "2021-05-19T22:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/19/jorginho-s-delight-at-helping-the-blues-secure-a-big-win-in-fron.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2021-05-19T22:18:00.000Z",
-      "description": "After taking his tally to seven for the season and securing a vital three points in the process, it’s fair to say Jorginho deserved to be smiling as much as he was when talking following the match.",
-      "matchId": 2128648
     }
   ]
 }
