@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210522pre-match-briefing--aston-villa-",
+      "type": "NewsCard",
+      "timestamp": "2021-05-22T06:12:00.000Z",
+      "orderDate": "2021-05-22T06:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/22/pre-match-briefing--aston-villa-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Aston Villa vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/22/pre-match-briefing--aston-villa-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-22T06:12:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/05/22/pre-match-briefing--aston-villa-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Villa Park ",
+          "id": "editorial/news/2021/05/21/villa_park_view_aerial",
+          "gravity": "auto",
+          "aspectRatio": 1.3343465,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Aston Villa vs Chelsea",
+      "publishDate": "2021-05-22T06:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/22/pre-match-briefing--aston-villa-vs-chelsea.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-05-22T06:12:00.000Z",
+      "description": "The domestic season reaches its conclusion in the West Midlands and in front of the home team’s fans. Club historian Rick Glanvill and club statistician Paul Dutton survey the scene ahead of a big Sunday afternoon…",
+      "matchId": 2128657
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210521tuchel-press-conference-team-new",
       "type": "NewsCard",
@@ -456,59 +510,6 @@
       ],
       "date": "2021-05-20T08:00:00.000Z",
       "description": "In the next instalment of our interview series speaking to Chelsea players about their interests away from football, Callum Hudson-Odoi explains how he unwinds at home and reveals the NBA-inspired nickname he’s been given by team-mates…"
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210520women-s-match-report--chelsea-v-",
-      "type": "NewsCard",
-      "timestamp": "2021-05-20T20:29:00.000Z",
-      "orderDate": "2021-05-20T14:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/20/women-s-match-report--chelsea-v-everton",
-        "type": "NewsCard",
-        "title": "Women's Match Report: Chelsea 3 Everton 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/20/women-s-match-report--chelsea-v-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-20T20:29:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/05/20/women-s-match-report--chelsea-v-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/ChelseaWomen_Drew_Spence_Everton",
-          "gravity": "auto",
-          "aspectRatio": 1.4998239,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women's Match Report: Chelsea 3 Everton 0",
-      "publishDate": "2021-05-20T20:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/20/women-s-match-report--chelsea-v-everton.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2021-05-20T20:29:00.000Z",
-      "description": "Chelsea Women are through to the FA Cup quarter-finals after a 3-0 victory against Everton at Kingsmeadow.",
-      "matchId": 2203989
     }
   ]
 }
