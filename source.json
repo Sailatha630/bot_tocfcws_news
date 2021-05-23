@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210523match-report--aston-villa-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2021-05-23T16:49:00.000Z",
+      "orderDate": "2021-05-23T16:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/23/match-report--aston-villa-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Aston Villa 2 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/23/match-report--aston-villa-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-23T16:49:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/23/match-report--aston-villa-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/aston-villa-away/Chilwell-Villa-a-1",
+          "gravity": "auto",
+          "aspectRatio": 1.5003834,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Aston Villa 2 Chelsea 1",
+      "publishDate": "2021-05-23T16:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/23/match-report--aston-villa-vs-chelsea.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-05-23T16:49:00.000Z",
+      "description": "The Blues edged over the line to claim fourth place in the Premier League despite defeat on a dramatic and tense final day of the domestic season.",
+      "matchId": 2128657
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210523chelsea-line-up-vs-aston-villa",
       "type": "NewsCard",
@@ -471,54 +525,6 @@
       "date": "2021-05-22T06:12:00.000Z",
       "description": "The domestic season reaches its conclusion in the West Midlands and in front of the home team’s fans. Club historian Rick Glanvill and club statistician Paul Dutton survey the scene ahead of a big Sunday afternoon…",
       "matchId": 2128657
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210522thomas-tuchel-on-his-respect-for",
-      "type": "NewsCard",
-      "timestamp": "2021-05-22T07:10:00.000Z",
-      "orderDate": "2021-05-22T03:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/22/thomas-tuchel-on-his-respect-for-john-terry-and-respect-for-tott",
-        "type": "NewsCard",
-        "title": "Thomas Tuchel on his respect for John Terry and respect for Tottenham over Harry Kane",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/22/thomas-tuchel-on-his-respect-for-john-terry-and-respect-for-tott.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-22T07:10:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/22/thomas-tuchel-on-his-respect-for-john-terry-and-respect-for-tott",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "John Terry",
-          "id": "editorial/news/2019/11/Terry_Villa_GettyImages-1277188164",
-          "gravity": "auto",
-          "aspectRatio": 1.3832802,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Thomas Tuchel on his respect for John Terry and respect for Tottenham over Harry Kane",
-      "publishDate": "2021-05-22T07:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/22/thomas-tuchel-on-his-respect-for-john-terry-and-respect-for-tott.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-05-22T07:10:00.000Z",
-      "description": "In the build-up to this weekend’s action, Thomas Tuchel has been asked about two England captains, a former one and a current one, with Chelsea about to face Aston Villa where John Terry is now a coach, and with media speculation rife about the future of Harry Kane."
     }
   ]
 }
