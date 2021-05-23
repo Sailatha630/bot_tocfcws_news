@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210523chelsea-line-up-vs-aston-villa",
+      "type": "NewsCard",
+      "timestamp": "2021-05-23T14:00:00.000Z",
+      "orderDate": "2021-05-23T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/23/chelsea-line-up-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/23/chelsea-line-up-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-23T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/23/chelsea-line-up-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2020-21/aston-villa-away/villa-away_dressing_2",
+          "gravity": "auto",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Aston Villa",
+      "publishDate": "2021-05-23T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/23/chelsea-line-up-vs-aston-villa.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-05-23T14:00:00.000Z",
+      "description": "Mateo Kovacic returns to the starting line-up for today’s crucial final league game of the season.",
+      "matchId": 2128657
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210523tuchel-going--all-in--for-the-wi",
       "type": "NewsCard",
@@ -465,60 +519,6 @@
       ],
       "date": "2021-05-22T07:10:00.000Z",
       "description": "In the build-up to this weekend’s action, Thomas Tuchel has been asked about two England captains, a former one and a current one, with Chelsea about to face Aston Villa where John Terry is now a coach, and with media speculation rife about the future of Harry Kane."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210522reiten--we-talked-about-finishin",
-      "type": "NewsCard",
-      "timestamp": "2021-05-22T09:37:00.000Z",
-      "orderDate": "2021-05-22T00:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/22/reiten--we-talked-about-finishing-on-a-high-and-that-s-what-we-d",
-        "type": "NewsCard",
-        "title": "Reiten: We talked about finishing on a high and that’s what we did",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/22/reiten--we-talked-about-finishing-on-a-high-and-that-s-what-we-d.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-22T09:37:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/22/reiten--we-talked-about-finishing-on-a-high-and-that-s-what-we-d",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Guro_Reiten_Everton",
-          "gravity": "auto",
-          "aspectRatio": 1.5026923,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Reiten: We talked about finishing on a high and that’s what we did",
-      "publishDate": "2021-05-22T09:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/22/reiten--we-talked-about-finishing-on-a-high-and-that-s-what-we-d.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2021-05-22T09:37:00.000Z",
-      "description": "Guro Reiten netted the opener in our Vitality Women’s FA Cup fifth-round victory against Everton and the Norwegian was pleased to end the season with a win.",
-      "matchId": 2203989
     }
   ]
 }
