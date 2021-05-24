@@ -144,6 +144,54 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210524media-watch--chelsea-eyeing-tcho",
+      "type": "NewsCard",
+      "timestamp": "2021-05-24T09:37:00.000Z",
+      "orderDate": "2021-05-24T00:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/24/media-watch--chelsea-eyeing-tchouameni--bridge-praises-gilmour-a",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea eyeing Tchouameni, Bridge praises Gilmour and BBC pundit includes Rudiger in Team of the Season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/24/media-watch--chelsea-eyeing-tchouameni--bridge-praises-gilmour-a.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-24T09:37:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/24/media-watch--chelsea-eyeing-tchouameni--bridge-praises-gilmour-a",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Tchouameni-mw",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea eyeing Tchouameni, Bridge praises Gilmour and BBC pundit includes Rudiger in Team of the Season",
+      "publishDate": "2021-05-24T09:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/24/media-watch--chelsea-eyeing-tchouameni--bridge-praises-gilmour-a.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-05-24T09:37:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are interested in Monaco midfielder Aurelien Tchouameni and Wayne Bridge hails Billy Gilmour after Euro 2020 call-up."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210523watch-highlights-of-chelsea-s-le",
       "type": "NewsCard",
       "timestamp": "2021-05-23T19:00:00.000Z",
@@ -486,54 +534,6 @@
       "date": "2021-05-23T00:55:00.000Z",
       "description": "Christian Pulisic is delighted that Chelsea go into the last day of the Premier League season with our fate in our own hands.",
       "matchId": 2128657
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210330chelsea-s-race-for-the-premier-l",
-      "type": "NewsCard",
-      "timestamp": "2021-05-23T10:45:00.000Z",
-      "orderDate": "2021-05-23T00:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
-        "type": "NewsCard",
-        "title": "Chelsea’s race for the Premier League top four ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-23T10:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea and the Premier League logo",
-          "id": "editorial/news/2020/05/Premier-League-trophy-GettyImages-495062546",
-          "gravity": "auto",
-          "aspectRatio": 1.5638889,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea’s race for the Premier League top four ",
-      "publishDate": "2021-05-23T10:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/03/30/chelsea-s-race-for-the-premier-league-top-four-.html",
-      "readTimeInMins": 53,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-05-23T10:45:00.000Z",
-      "description": "We're approaching the last round of fixtures for the league season and there is still work to be done in the race for Champions League qualification. Here we analyse the top-four permutations for the final weekend..."
     }
   ]
 }
