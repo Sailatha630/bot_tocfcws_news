@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210525england-euro-2020-provisional-sq",
+      "type": "NewsCard",
+      "timestamp": "2021-05-25T12:00:00.000Z",
+      "orderDate": "2021-05-25T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/25/england-euro-2020-provisional-squad",
+        "type": "NewsCard",
+        "title": "Chelsea trio named in provisional England Euro 2020 squad",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/25/england-euro-2020-provisional-squad.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-25T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/25/england-euro-2020-provisional-squad",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/05/25/mount-chilwell-james-chelsea-england",
+          "gravity": "auto",
+          "aspectRatio": 1.4657327,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea trio named in provisional England Euro 2020 squad",
+      "publishDate": "2021-05-25T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/25/england-euro-2020-provisional-squad.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-05-25T12:00:00.000Z",
+      "description": "Mason Mount, Reece James and Ben Chilwell are the three Chelsea players chosen by Gareth Southgate in his provisional 33-man squad for this summer’s European Championships."
+    },
+    {
       "contentType": "History",
       "id": "_content_chelseafcennews20210525how-far-did-they-go-",
       "type": "NewsCard",
@@ -522,65 +575,6 @@
       ],
       "date": "2021-05-24T15:09:00.000Z",
       "description": "Cesar Azpilicueta has been named in Spain’s squad for Euro 2020, and there is also plenty of Chelsea representation in Germany’s group that will contest the tournament this summer."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210524tuchel--we-are-the-guys-to-chall",
-      "type": "NewsCard",
-      "timestamp": "2021-05-24T13:55:00.000Z",
-      "orderDate": "2021-05-24T11:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/24/tuchel--we-are-the-guys-to-challenge-city",
-        "type": "NewsCard",
-        "title": "Tuchel: We are the guys to challenge City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/24/tuchel--we-are-the-guys-to-challenge-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-24T13:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/24/tuchel--we-are-the-guys-to-challenge-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel and Thiago Silva",
-          "id": "editorial/news/2021/05/24/tuchel_thiago_silva_conference_logo",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: We are the guys to challenge City",
-      "publishDate": "2021-05-24T13:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/24/tuchel--we-are-the-guys-to-challenge-city.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-05-24T13:55:00.000Z",
-      "description": "The Chelsea boss discusses returning to the Champions League final for the second year in a row and the influence beating Manchester City twice in a row has had on his current team…",
-      "matchId": 2197699
     }
   ]
 }
