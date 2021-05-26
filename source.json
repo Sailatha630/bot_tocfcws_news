@@ -214,6 +214,54 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210526media-watch--chelsea-eyeing-coma",
+      "type": "NewsCard",
+      "timestamp": "2021-05-26T09:15:00.000Z",
+      "orderDate": "2021-05-26T00:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/26/media-watch--chelsea-eyeing-coman--mount-named-in-pundits--team-",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea eyeing Coman, Mount named in pundits’ Team of the Season and Boyd praises Gilmour",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/26/media-watch--chelsea-eyeing-coman--mount-named-in-pundits--team-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-26T09:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/26/media-watch--chelsea-eyeing-coman--mount-named-in-pundits--team-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Coman-mw-260521",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea eyeing Coman, Mount named in pundits’ Team of the Season and Boyd praises Gilmour",
+      "publishDate": "2021-05-26T09:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/26/media-watch--chelsea-eyeing-coman--mount-named-in-pundits--team-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-05-26T09:15:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Kingsley Coman while Jamie Redknapp and Paul Merson include Mason Mount in their Team of the Season."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210525azpilicueta-red-card-overturned",
       "type": "NewsCard",
       "timestamp": "2021-05-25T16:08:00.000Z",
@@ -475,79 +523,6 @@
       ],
       "date": "2021-05-25T13:00:00.000Z",
       "description": "With Chelsea this week set to play in the Champions League final for the third time, here are some interesting morsels about the Blues’ showdown in Porto against Manchester City."
-    },
-    {
-      "contentType": "Columnist",
-      "id": "_content_chelseafcennews20210525pat-nevin--why-chelsea-have-to-b",
-      "type": "NewsCard",
-      "timestamp": "2021-05-25T03:30:00.000Z",
-      "orderDate": "2021-05-25T03:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/25/pat-nevin--why-chelsea-have-to-be-ruthless-and-mean-in-champions",
-        "type": "NewsCard",
-        "title": "Pat Nevin: Why Chelsea have to be ruthless and mean in Champions League final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/25/pat-nevin--why-chelsea-have-to-be-ruthless-and-mean-in-champions.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-25T03:30:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2021/05/25/pat-nevin--why-chelsea-have-to-be-ruthless-and-mean-in-champions",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "FA Cup semi-final",
-          "id": "editorial/news/2021/05/24/Zouma_azpi_fa_cup_semi",
-          "gravity": "north_east",
-          "aspectRatio": 1.6536114,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pat Nevin: Why Chelsea have to be ruthless and mean in Champions League final",
-      "publishDate": "2021-05-25T03:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/25/pat-nevin--why-chelsea-have-to-be-ruthless-and-mean-in-champions.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Pat Nevin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_pat-nevin"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Pat",
-        "lastName": "Nevin",
-        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pat Nevin",
-          "id": "editorial/blogs-and-columns/nevin_h_26S",
-          "gravity": "face",
-          "aspectRatio": 0.93399847,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2021-05-25T03:30:00.000Z",
-      "description": "The countdown to the big kick-off is truly on and in his weekly column, Blues legend Pat Nevin looks back at the nature of Chelsea Champions League finals past and forward to what may be key to success this time around…",
-      "matchId": 2197699
     }
   ]
 }
