@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210528the-debrief-special--where-the-c",
+      "type": "NewsCard",
+      "timestamp": "2021-05-28T08:00:00.000Z",
+      "orderDate": "2021-05-28T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/28/the-debrief-special--where-the-champions-league-final-could-be-w0",
+        "type": "NewsCard",
+        "title": "The Debrief Special: Where the Champions League final could be won and lost",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/28/the-debrief-special--where-the-champions-league-final-could-be-w0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-28T08:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/28/the-debrief-special--where-the-champions-league-final-could-be-w0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Debrief",
+          "id": "editorial/news/2021/05/28/the-debrief-special-man-city-cl-final",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief Special: Where the Champions League final could be won and lost",
+      "publishDate": "2021-05-28T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/28/the-debrief-special--where-the-champions-league-final-could-be-w0.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-05-28T08:00:00.000Z",
+      "description": "Drawing on our two games against Manchester City under Thomas Tuchel, we analyse some of the tactical talking points that could prove critical in tomorrow’s Champions League final…",
+      "matchId": 2197699
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210528champions-league-final-pre-match",
       "type": "NewsCard",
@@ -587,48 +636,6 @@
       ],
       "date": "2021-05-26T16:20:00.000Z",
       "description": "Chelsea's preparations for the Champions League final were boosted today as both Edouard Mendy and N'Golo Kante trained with the group at Cobham."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210527chelsea-foundation-hosts-nhs-foo",
-      "type": "NewsCard",
-      "timestamp": "2021-05-27T07:22:00.000Z",
-      "orderDate": "2021-05-26T15:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/27/chelsea-foundation-hosts-nhs-football-tournament-to-say-thank-yo",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation hosts NHS football tournament to say thank you to key workers",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/27/chelsea-foundation-hosts-nhs-football-tournament-to-say-thank-yo.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-27T07:22:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/27/chelsea-foundation-hosts-nhs-football-tournament-to-say-thank-yo",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/CJL16949_2021052574400106",
-          "gravity": "auto",
-          "aspectRatio": 1.5001485,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation hosts NHS football tournament to say thank you to key workers",
-      "publishDate": "2021-05-27T07:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/27/chelsea-foundation-hosts-nhs-football-tournament-to-say-thank-yo.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2021-05-27T07:22:00.000Z",
-      "description": "Chelsea Foundation invited key workers from three NHS trusts across north-west London to compete in a tournament at Stamford Bridge to thank them for all their amazing work during the Covid-19 pandemic and give them a well-earned fun afternoon off."
     }
   ]
 }
