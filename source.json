@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210529match-report--chelsea-vs-man-cit",
+      "type": "NewsCard",
+      "timestamp": "2021-05-29T20:02:00.000Z",
+      "orderDate": "2021-05-29T20:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/29/match-report--chelsea-vs-man-city",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 1 Man City 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/match-report--chelsea-vs-man-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-29T20:02:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/29/match-report--chelsea-vs-man-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2020-21/champions-league-final/cl-final-celebrations-1",
+          "gravity": "auto",
+          "aspectRatio": 1.4788038,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 1 Man City 0",
+      "publishDate": "2021-05-29T20:02:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/match-report--chelsea-vs-man-city.html",
+      "readTimeInMins": 26,
+      "tags": [
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-29T20:02:00.000Z",
+      "description": "Chelsea are the champions of Europe – again!",
+      "matchId": 2197699
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210529chelsea-s-champions-league-final",
       "type": "NewsCard",
@@ -479,55 +533,6 @@
       ],
       "date": "2021-05-28T18:45:00.000Z",
       "description": "Thomas Tuchel was in a relaxed mood as he conducted his final media conference before the Champions League final and claimed the tension was building naturally ahead of the biggest game in European football.",
-      "matchId": 2197699
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210528gallery--blues-train-in-portugal",
-      "type": "NewsCard",
-      "timestamp": "2021-05-28T19:34:00.000Z",
-      "orderDate": "2021-05-28T18:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/28/gallery--blues-train-in-portugal-ahead-of-champions-league-final",
-        "type": "NewsCard",
-        "title": "Gallery: Blues train in Portugal ahead of Champions League final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/28/gallery--blues-train-in-portugal-ahead-of-champions-league-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-28T19:34:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/28/gallery--blues-train-in-portugal-ahead-of-champions-league-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Chelsea players training",
-          "id": "editorial/news/2021/05/28/CL_final_training_MD-1_8",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Blues train in Portugal ahead of Champions League final",
-      "publishDate": "2021-05-28T19:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/28/gallery--blues-train-in-portugal-ahead-of-champions-league-final.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-05-28T19:34:00.000Z",
-      "description": "Under the sun in Porto, Thomas Tuchel and his coaching staff put the squad through their paces in the final training session of the season.",
       "matchId": 2197699
     }
   ]
