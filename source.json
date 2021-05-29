@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210529mount--we-re-the-best-team-in-th",
+      "type": "NewsCard",
+      "timestamp": "2021-05-29T23:16:00.000Z",
+      "orderDate": "2021-05-29T23:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/29/mount--we-re-the-best-team-in-the-world",
+        "type": "NewsCard",
+        "title": "Mount: We're the best team in the world!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/mount--we-re-the-best-team-in-the-world.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-29T23:16:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/29/mount--we-re-the-best-team-in-the-world",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount",
+          "id": "editorial/match-reports/2020-21/champions-league-final/Mount-CL-trophy",
+          "gravity": "auto",
+          "aspectRatio": 1.3647059,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount: We're the best team in the world!",
+      "publishDate": "2021-05-29T23:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/mount--we-re-the-best-team-in-the-world.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-29T23:16:00.000Z",
+      "description": "A delighted Mason Mount revelled in Chelsea being crowned kings of Europe by dubbing it the stuff of dreams...",
+      "matchId": 2197699
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210529thomas-tuchel-reaction-to-champi",
       "type": "NewsCard",
@@ -500,55 +554,6 @@
       ],
       "date": "2021-05-29T03:00:00.000Z",
       "description": "In an exclusive interview ahead of the Champions League final, we catch up with Reece James to discuss renewing an old rivalry and preview a special occasion...",
-      "matchId": 2197699
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210529badge-quiz--guess-the-chelsea-ch",
-      "type": "NewsCard",
-      "timestamp": "2021-05-29T06:00:00.000Z",
-      "orderDate": "2021-05-29T00:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/29/badge-quiz--guess-the-chelsea-champions-league-finalist-",
-        "type": "NewsCard",
-        "title": "Badge quiz! Guess the Chelsea Champions League finalist ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/badge-quiz--guess-the-chelsea-champions-league-finalist-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-29T06:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/29/badge-quiz--guess-the-chelsea-champions-league-finalist-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Badge quiz graphic",
-          "id": "editorial/news/2020/06/CFC-Crests-landscape",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Badge quiz! Guess the Chelsea Champions League finalist ",
-      "publishDate": "2021-05-29T06:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/badge-quiz--guess-the-chelsea-champions-league-finalist-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-05-29T06:00:00.000Z",
-      "description": "Can you guess the Chelsea player to have played in a men's Champions League final for the Blues based on a sequence of the club badges he's worn in his career?",
       "matchId": 2197699
     }
   ]
