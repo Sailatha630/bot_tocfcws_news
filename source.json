@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Interview",
+      "id": "_content_chelseafcennews20210529andreas-christensen-on-munich-me",
+      "type": "NewsCard",
+      "timestamp": "2021-05-29T11:53:00.000Z",
+      "orderDate": "2021-05-29T11:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/29/andreas-christensen-on-munich-memories-and-the-key-to-tonight-s-",
+        "type": "NewsCard",
+        "title": "Andreas Christensen on Munich memories and the key to tonight’s final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/andreas-christensen-on-munich-memories-and-the-key-to-tonight-s-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-29T11:53:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/29/andreas-christensen-on-munich-memories-and-the-key-to-tonight-s-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Andreas Christensen",
+          "id": "editorial/news/2021/05/29/christensen-crop-champions-league-training",
+          "gravity": "auto",
+          "aspectRatio": 0.7531645,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Andreas Christensen on Munich memories and the key to tonight’s final",
+      "publishDate": "2021-05-29T11:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/andreas-christensen-on-munich-memories-and-the-key-to-tonight-s-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-29T11:53:00.000Z",
+      "description": "Andreas Christensen’s Chelsea journey began shortly after we lifted the European Cup in Munich, and ahead of our next final in the competition the defender has recalled some of his Champions League memories.",
+      "matchId": 2197699
+    },
+    {
+      "contentType": "Interview",
       "id": "_content_chelseafcennews20210529the-diary-of-a-champions-league-",
       "type": "NewsCard",
       "timestamp": "2021-05-29T10:38:00.000Z",
@@ -486,55 +540,6 @@
       ],
       "date": "2021-05-28T11:12:00.000Z",
       "description": "Thiago Silva has a closer relationship with Porto than most and here he explains why, before looking ahead to his second consecutive Champions League final appearance…",
-      "matchId": 2197699
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210528pre-match-quiz--champions-league",
-      "type": "NewsCard",
-      "timestamp": "2021-05-28T08:50:00.000Z",
-      "orderDate": "2021-05-28T08:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/28/pre-match-quiz--champions-league-final",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Champions League final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/28/pre-match-quiz--champions-league-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-28T08:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/28/pre-match-quiz--champions-league-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Estadio do Dragao",
-          "id": "editorial/news/2021/05/25/Dragao_GettyImages-869052946",
-          "gravity": "auto",
-          "aspectRatio": 1.5025445,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Champions League final",
-      "publishDate": "2021-05-28T08:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/28/pre-match-quiz--champions-league-final.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-05-28T08:50:00.000Z",
-      "description": "We take on Manchester City in the Champions League final at the Estadio do Dragao in Porto this Saturday. See if you can identify these other stadiums which have hosted previous Champions League finals...",
       "matchId": 2197699
     }
   ]
