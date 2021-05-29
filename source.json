@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210529reece-james-exclusive-on-that-fo",
+      "type": "NewsCard",
+      "timestamp": "2021-05-29T03:00:00.000Z",
+      "orderDate": "2021-05-29T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/29/reece-james-exclusive-on-that-foden-photo-and-reviving-a-lifelon",
+        "type": "NewsCard",
+        "title": "Reece James exclusive on that Foden photo and reviving a lifelong rivalry with Manchester City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/reece-james-exclusive-on-that-foden-photo-and-reviving-a-lifelon.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-29T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/29/reece-james-exclusive-on-that-foden-photo-and-reviving-a-lifelon",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James",
+          "id": "editorial/news/2021/05/27/Reece-James-stock-2",
+          "gravity": "auto",
+          "aspectRatio": 1.5945569,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Reece James exclusive on that Foden photo and reviving a lifelong rivalry with Manchester City",
+      "publishDate": "2021-05-29T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/reece-james-exclusive-on-that-foden-photo-and-reviving-a-lifelon.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-29T03:00:00.000Z",
+      "description": "In an exclusive interview ahead of the Champions League final, we catch up with Reece James to discuss renewing an old rivalry and preview a special occasion...",
+      "matchId": 2197699
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210528tuchel--countdown-is-on-for-the-",
       "type": "NewsCard",
@@ -471,54 +525,6 @@
       "date": "2021-05-28T01:59:00.000Z",
       "description": "The biggest of big club matches is almost upon us. Club historian Rick Glanvill and club statistician Paul Dutton preview our Porto-hosted final game of the season…",
       "matchId": 2197699
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210528porto-ticket-information",
-      "type": "NewsCard",
-      "timestamp": "2021-05-28T09:56:00.000Z",
-      "orderDate": "2021-05-27T23:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/28/porto-ticket-information",
-        "type": "NewsCard",
-        "title": "Important Porto travel and ticket information",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/28/porto-ticket-information.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-28T09:56:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/28/porto-ticket-information",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Champions League trophy",
-          "id": "editorial/news/2019/12/champions-league-draw-stock-trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.5024154,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important Porto travel and ticket information",
-      "publishDate": "2021-05-28T09:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/28/porto-ticket-information.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-05-28T09:56:00.000Z",
-      "description": "Chelsea supporters who have purchased tickets from the club for Saturday’s Champions League final should have received an email containing important information regarding their tickets."
     }
   ]
 }
