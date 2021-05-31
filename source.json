@@ -9,6 +9,50 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210531five-interesting-facts-about-che",
+      "type": "NewsCard",
+      "timestamp": "2021-05-31T15:15:00.000Z",
+      "orderDate": "2021-05-31T10:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/31/five-interesting-facts-about-chelsea-s-champions-league-triumph",
+        "type": "NewsCard",
+        "title": "Five interesting facts about Chelsea’s Champions League triumph",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/31/five-interesting-facts-about-chelsea-s-champions-league-triumph.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-31T15:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/05/31/five-interesting-facts-about-chelsea-s-champions-league-triumph",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Champions League winners at Cobham",
+          "id": "editorial/news/2021/05/31/champions_league_winners_cobham",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Five interesting facts about Chelsea’s Champions League triumph",
+      "publishDate": "2021-05-31T15:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/31/five-interesting-facts-about-chelsea-s-champions-league-triumph.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-05-31T15:15:00.000Z",
+      "description": "With Chelsea crowned champions of Europe again after our 1-0 win over Manchester City in Porto, here are five interesting tidbits about our second Champions League triumph..."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210531tuchel-sets-new-target",
       "type": "NewsCard",
       "timestamp": "2021-05-31T09:30:00.000Z",
@@ -506,60 +550,6 @@
       ],
       "date": "2021-05-29T23:16:00.000Z",
       "description": "A delighted Mason Mount revelled in Chelsea being crowned kings of Europe by dubbing it the stuff of dreams...",
-      "matchId": 2197699
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210529thomas-tuchel-reaction-to-champi",
-      "type": "NewsCard",
-      "timestamp": "2021-05-29T22:41:00.000Z",
-      "orderDate": "2021-05-29T22:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/29/thomas-tuchel-reaction-to-champions-league-final-win",
-        "type": "NewsCard",
-        "title": "Tuchel: We can use this to become even better",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/thomas-tuchel-reaction-to-champions-league-final-win.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-29T22:41:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/29/thomas-tuchel-reaction-to-champions-league-final-win",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Thomas Tuchel with the Champions League trophy",
-          "id": "editorial/match-reports/2020-21/champions-league-final/tuchel_cl_trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: We can use this to become even better",
-      "publishDate": "2021-05-29T22:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/thomas-tuchel-reaction-to-champions-league-final-win.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-05-29T22:41:00.000Z",
-      "description": "A smiling Thomas Tuchel was able to reflect on turning Champions League final disappointment last year with PSG into triumph this year with Chelsea after his side got the better of Manchester City for a third meeting in a row.",
       "matchId": 2197699
     }
   ]
