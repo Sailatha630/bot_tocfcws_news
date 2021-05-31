@@ -68,6 +68,59 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210531media-watch--chelsea-linked-with",
+      "type": "NewsCard",
+      "timestamp": "2021-05-31T08:49:00.000Z",
+      "orderDate": "2021-05-31T00:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/05/31/media-watch--chelsea-linked-with-traore--cole-labels-kante-as-th",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked with Traore, Cole labels Kante as the world’s best and Ferdinand hails James",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/31/media-watch--chelsea-linked-with-traore--cole-labels-kante-as-th.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-05-31T08:49:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/05/31/media-watch--chelsea-linked-with-traore--cole-labels-kante-as-th",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Traore-mw-310521",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked with Traore, Cole labels Kante as the world’s best and Ferdinand hails James",
+      "publishDate": "2021-05-31T08:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/31/media-watch--chelsea-linked-with-traore--cole-labels-kante-as-th.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Joe Cole",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_joe-cole"
+        }
+      ],
+      "date": "2021-05-31T08:49:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, there is more transfer speculation about a possible arrival at Stamford Bridge, and Joe Cole has praised N’Golo Kante after his performance in the Champions League final."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210530havertz--i-ve-waited-a-long-time",
       "type": "NewsCard",
       "timestamp": "2021-05-30T17:13:00.000Z",
@@ -550,60 +603,6 @@
       ],
       "date": "2021-05-29T22:59:00.000Z",
       "description": "Chelsea were crowned European champions in Porto after victory over Manchester City and you can relive the best of a historic night right now.",
-      "matchId": 2197699
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210529match-report--chelsea-vs-man-cit",
-      "type": "NewsCard",
-      "timestamp": "2021-05-29T20:02:00.000Z",
-      "orderDate": "2021-05-29T20:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/29/match-report--chelsea-vs-man-city",
-        "type": "NewsCard",
-        "title": "Match Report: Chelsea 1 Man City 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/match-report--chelsea-vs-man-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-29T20:02:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/05/29/match-report--chelsea-vs-man-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2020-21/champions-league-final/cl_final_trophy_lift",
-          "gravity": "auto",
-          "aspectRatio": 1.5675676,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Chelsea 1 Man City 0",
-      "publishDate": "2021-05-29T20:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/29/match-report--chelsea-vs-man-city.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-05-29T20:02:00.000Z",
-      "description": "Chelsea are the champions of Europe – again!",
       "matchId": 2197699
     }
   ]
