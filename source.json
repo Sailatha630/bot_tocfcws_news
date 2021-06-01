@@ -9,6 +9,64 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210601mount-in-the-running-for-premier",
+      "type": "NewsCard",
+      "timestamp": "2021-06-01T13:00:00.000Z",
+      "orderDate": "2021-06-01T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/01/mount-in-the-running-for-premier-league-young-player-of-the-seas",
+        "type": "NewsCard",
+        "title": "Mount in the running for Premier League Young Player of the Season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/01/mount-in-the-running-for-premier-league-young-player-of-the-seas.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-01T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/01/mount-in-the-running-for-premier-league-young-player-of-the-seas",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount",
+          "id": "editorial/news/2021/05/28/Mount_GettyImages-1232969785",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount in the running for Premier League Young Player of the Season",
+      "publishDate": "2021-06-01T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/01/mount-in-the-running-for-premier-league-young-player-of-the-seas.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Awards",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_awards"
+        }
+      ],
+      "date": "2021-06-01T13:00:00.000Z",
+      "description": "Mason Mount has been nominated for a second Premier League individual honour, adding Hublot Premier League Young Player of the Season to the EA Sports Premier League Player of the Season announced earlier today."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210601blues-dominate-champions-league-",
       "type": "NewsCard",
       "timestamp": "2021-06-01T12:00:00.000Z",
@@ -481,54 +539,6 @@
       ],
       "date": "2021-05-31T09:55:00.000Z",
       "description": "Marc Guehi was a beaten Championship play-off finalist on Saturday as Swansea lost 2-0 to Brentford at Wembley."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210530havertz--i-ve-waited-a-long-time",
-      "type": "NewsCard",
-      "timestamp": "2021-05-30T17:13:00.000Z",
-      "orderDate": "2021-05-30T17:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/30/havertz--i-ve-waited-a-long-time-for-this",
-        "type": "NewsCard",
-        "title": "Havertz: I’ve waited a long time for this",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/30/havertz--i-ve-waited-a-long-time-for-this.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-30T17:13:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/30/havertz--i-ve-waited-a-long-time-for-this",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Havertz-GettyImages-1320702820",
-          "gravity": "auto",
-          "aspectRatio": 1.499839,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz: I’ve waited a long time for this",
-      "publishDate": "2021-05-30T17:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/30/havertz--i-ve-waited-a-long-time-for-this.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2021-05-30T17:13:00.000Z",
-      "description": "Kai Havertz fulfilled a childhood dream by scoring the winning goal in a Champions League final last night and the German was quick to pay tribute to those that have helped him on this path.",
-      "matchId": 2197699
     }
   ]
 }
