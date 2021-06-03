@@ -9,6 +9,55 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210603sam-mcclelland-makes-senior-inte",
+      "type": "NewsCard",
+      "timestamp": "2021-06-03T20:35:00.000Z",
+      "orderDate": "2021-06-03T20:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/03/sam-mcclelland-makes-senior-international-debut",
+        "type": "NewsCard",
+        "title": "Sam McClelland makes senior international debut for Northern Ireland",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/03/sam-mcclelland-makes-senior-international-debut.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-03T20:35:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/03/sam-mcclelland-makes-senior-international-debut",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Sam McClelland",
+          "id": "editorial/news/2021/06/06/McClelland-academy-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Sam McClelland makes senior international debut for Northern Ireland",
+      "publishDate": "2021-06-03T20:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/03/sam-mcclelland-makes-senior-international-debut.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-06-03T20:35:00.000Z",
+      "description": "Our development squad defender Sam McClelland made his maiden appearance for the senior Northern Ireland international team in this evening’s friendly against Ukraine."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210603our-champions-league-final-victo",
       "type": "NewsCard",
       "timestamp": "2021-06-03T14:00:00.000Z",
@@ -491,55 +540,6 @@
       ],
       "date": "2021-06-02T11:05:00.000Z",
       "description": "Olivier Giroud’s stunning bicycle kick against Atletico Madrid has been selected as one of the top strikes in this season’s Champions League and you can now vote for it as the Goal of the Tournament."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210602mount-wins-academy-graduate-awar",
-      "type": "NewsCard",
-      "timestamp": "2021-06-02T17:38:00.000Z",
-      "orderDate": "2021-06-02T09:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/02/mount-wins-academy-graduate-award-",
-        "type": "NewsCard",
-        "title": "Mount wins Academy Graduate Award ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/02/mount-wins-academy-graduate-award-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-02T17:38:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/02/mount-wins-academy-graduate-award-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mason Mount",
-          "id": "editorial/news/2021/05/28/Mount_GettyImages-1318713789",
-          "gravity": "auto",
-          "aspectRatio": 1.391928,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Mount wins Academy Graduate Award ",
-      "publishDate": "2021-06-02T17:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/02/mount-wins-academy-graduate-award-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-06-02T17:38:00.000Z",
-      "description": "Mason Mount has this evening been recognised for his incredible achievements on the pitch and inspiring work off it..."
     }
   ]
 }
