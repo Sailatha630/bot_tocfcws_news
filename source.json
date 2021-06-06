@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210606gilmour-shines-in-scotland-win-w",
+      "type": "NewsCard",
+      "timestamp": "2021-06-06T18:19:00.000Z",
+      "orderDate": "2021-06-06T18:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/06/gilmour-shines-in-scotland-win-while-christensen-helps-denmark-t",
+        "type": "NewsCard",
+        "title": "Gilmour shines in Scotland win while Christensen helps Denmark to victory",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/06/gilmour-shines-in-scotland-win-while-christensen-helps-denmark-t.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-06T18:19:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/06/gilmour-shines-in-scotland-win-while-christensen-helps-denmark-t",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Gilmour-Scotland-Luxembourg-GettyImages-1233304311",
+          "gravity": "auto",
+          "aspectRatio": 1.4513808,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gilmour shines in Scotland win while Christensen helps Denmark to victory",
+      "publishDate": "2021-06-06T18:19:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/06/gilmour-shines-in-scotland-win-while-christensen-helps-denmark-t.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        }
+      ],
+      "date": "2021-06-06T18:19:00.000Z",
+      "description": "Billy Gilmour was the pick of the Scotland performers in their away victory over Luxembourg, as the latest international matches involving Chelsea players ahead of Euro 2020 took place on Sunday evening."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210606player-of-the-year-exclusive-int",
       "type": "NewsCard",
@@ -510,54 +558,6 @@
       ],
       "date": "2021-06-04T15:45:00.000Z",
       "description": "Willy Caballero will depart Stamford Bridge after four years with Chelsea when his contract expires at the end of this month."
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20210604giroud-contract-extended",
-      "type": "NewsCard",
-      "timestamp": "2021-06-04T15:15:00.000Z",
-      "orderDate": "2021-06-04T15:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/04/giroud-contract-extended",
-        "type": "NewsCard",
-        "title": "Giroud contract extended",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/04/giroud-contract-extended.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-04T15:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/04/giroud-contract-extended",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Olivier Giroud",
-          "id": "editorial/news/2021/06/04/giroud-stock",
-          "gravity": "auto",
-          "aspectRatio": 0.72959656,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Giroud contract extended",
-      "publishDate": "2021-06-04T15:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/04/giroud-contract-extended.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-06-04T15:15:00.000Z",
-      "description": "Chelsea Football Club can confirm that an option to extend Olivier Giroud’s contract by one year was exercised in April this year."
     }
   ]
 }
