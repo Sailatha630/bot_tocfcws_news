@@ -8,6 +8,70 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210606giroud-and-mount-face-off-in-tod",
+      "type": "NewsCard",
+      "timestamp": "2021-06-06T07:28:00.000Z",
+      "orderDate": "2021-06-06T03:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/06/giroud-and-mount-face-off-in-today-s-goal-of-the-season-vote",
+        "type": "NewsCard",
+        "title": "Giroud and Mount face off in today's Goal of the Season vote",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/06/giroud-and-mount-face-off-in-today-s-goal-of-the-season-vote.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-06T07:28:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/06/06/giroud-and-mount-face-off-in-today-s-goal-of-the-season-vote",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Goal of the season: Olivier Giroud vs Mason Mount",
+          "videoId": "H7j1MqED",
+          "bucket": "prod-cfc",
+          "description": "Goal of the season: Olivier Giroud vs Mason Mount",
+          "duration": 48000,
+          "date": "2021-06-05T08:22:58.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/H7j1MqED/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/06/giroud-and-mount-face-off-in-today-s-goal-of-the-season-vote.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/06/06/giroud-and-mount-face-off-in-today-s-goal-of-the-season-vote?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/06/06/giroud-and-mount-face-off-in-today-s-goal-of-the-season-vote",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Goal of the season: Olivier Giroud vs Mason Mount"
+      },
+      "content": "Giroud and Mount face off in today's Goal of the Season vote",
+      "publishDate": "2021-06-06T07:28:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/06/giroud-and-mount-face-off-in-today-s-goal-of-the-season-vote.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-06-06T07:28:00.000Z",
+      "description": "The third Chelsea Goal of the Season quarter-final vote pairs two sublime individual efforts against one another."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210605internationals--ampadu-gets-minu",
       "type": "NewsCard",
@@ -494,49 +558,6 @@
       ],
       "date": "2021-06-04T11:30:00.000Z",
       "description": "Chelsea Football Club is very happy to confirm that, following our triumph in the Champions League, Thomas Tuchel’s contract has been extended by two years, as agreed when he joined the Club."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210604super-cup-venue-confirmed",
-      "type": "NewsCard",
-      "timestamp": "2021-06-04T12:30:00.000Z",
-      "orderDate": "2021-06-04T11:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/04/super-cup-venue-confirmed",
-        "type": "NewsCard",
-        "title": "Super Cup venue confirmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/04/super-cup-venue-confirmed.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-04T12:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/04/super-cup-venue-confirmed",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Windsor-park-general-GettyImages-1310136553",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Super Cup venue confirmed",
-      "publishDate": "2021-06-04T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/04/super-cup-venue-confirmed.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "UEFA",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_uefa"
-        }
-      ],
-      "date": "2021-06-04T12:30:00.000Z",
-      "description": "Chelsea will face Villarreal in the UEFA Super Cup later this summer, with the game to be played at Windsor Park in Belfast."
     }
   ]
 }
