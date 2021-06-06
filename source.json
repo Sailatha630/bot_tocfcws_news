@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210606player-of-the-year-exclusive-int",
+      "type": "NewsCard",
+      "timestamp": "2021-06-06T12:00:00.000Z",
+      "orderDate": "2021-06-06T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/06/player-of-the-year-exclusive-interview--mason-mount---part-two",
+        "type": "NewsCard",
+        "title": "Player of the Year exclusive interview: Mason Mount – part two",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/06/player-of-the-year-exclusive-interview--mason-mount---part-two.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-06T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/06/06/player-of-the-year-exclusive-interview--mason-mount---part-two",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mount",
+          "id": "editorial/news/2021/06/06/Mount-Porto-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5637217,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Player of the Year exclusive interview: Mason Mount – part two",
+      "publishDate": "2021-06-06T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/06/player-of-the-year-exclusive-interview--mason-mount---part-two.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-06-06T12:00:00.000Z",
+      "description": "In the second part of our exclusive interview with Chelsea’s Player of the Year, Mason Mount pinpoints the lessons he’s learnt from the past two seasons at Stamford Bridge and where he can improve further still…"
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210606the-pride--watch-documentary-cha",
       "type": "NewsCard",
@@ -510,54 +558,6 @@
       ],
       "date": "2021-06-04T15:15:00.000Z",
       "description": "Chelsea Football Club can confirm that an option to extend Olivier Giroud’s contract by one year was exercised in April this year."
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20210604thiago-silva-contract-extended",
-      "type": "NewsCard",
-      "timestamp": "2021-06-04T14:45:00.000Z",
-      "orderDate": "2021-06-04T14:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/04/thiago-silva-contract-extended",
-        "type": "NewsCard",
-        "title": "Thiago Silva contract extended",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/04/thiago-silva-contract-extended.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-04T14:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/04/thiago-silva-contract-extended",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Thiago Silva",
-          "id": "editorial/news/2020/12/thiago-silva-stock-stamford-bridge",
-          "gravity": "auto",
-          "aspectRatio": 1.511238,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Thiago Silva contract extended",
-      "publishDate": "2021-06-04T14:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/04/thiago-silva-contract-extended.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-06-04T14:45:00.000Z",
-      "description": "Following the Champions League final, Chelsea Football Club has exercised an option to extend Thiago Silva’s contract by one year, taking his time at Stamford Bridge into a second season."
     }
   ]
 }
