@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210608euro-2020-preview--england---ben",
+      "type": "NewsCard",
+      "timestamp": "2021-06-08T11:00:00.000Z",
+      "orderDate": "2021-06-08T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/08/euro-2020-preview--england---ben-chilwell--reece-james-and-mason",
+        "type": "NewsCard",
+        "title": "Euro 2020 preview: England - Ben Chilwell, Reece James and Mason Mount",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/08/euro-2020-preview--england---ben-chilwell--reece-james-and-mason.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-08T11:00:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/06/08/euro-2020-preview--england---ben-chilwell--reece-james-and-mason",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mason Mount and Ben Chilwell",
+          "id": "editorial/news/2021/06/08/mount-chilwell-england-training",
+          "gravity": "auto",
+          "aspectRatio": 1.497647,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Euro 2020 preview: England - Ben Chilwell, Reece James and Mason Mount",
+      "publishDate": "2021-06-08T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/08/euro-2020-preview--england---ben-chilwell--reece-james-and-mason.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-06-08T11:00:00.000Z",
+      "description": "We kick off our Euro 2020 previews by looking at the Three Lions, who are hoping to win the tournament for the first time with the help of a trio of Chelsea players…"
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210608pat-nevin--how-do-you-build-on-b",
       "type": "NewsCard",
@@ -487,49 +545,6 @@
       ],
       "date": "2021-06-07T08:38:00.000Z",
       "description": "The 2021 UEFA Champions League trophy has touched down in London after Chelsea’s win in Porto!"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210512applications-open-for-fans--foru",
-      "type": "NewsCard",
-      "timestamp": "2021-05-12T12:20:00.000Z",
-      "orderDate": "2021-06-07T00:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/05/12/applications-open-for-fans--forum-and-access-forum",
-        "type": "NewsCard",
-        "title": "Applications invited for Fans' Forum and Access Forum representatives",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/applications-open-for-fans--forum-and-access-forum.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-05-12T12:20:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/05/12/applications-open-for-fans--forum-and-access-forum",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea Flag",
-          "id": "editorial/news/2020/06/fans_pride_of_london_banner",
-          "gravity": "face",
-          "aspectRatio": 2.093491,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Applications invited for Fans' Forum and Access Forum representatives",
-      "publishDate": "2021-05-12T12:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/05/12/applications-open-for-fans--forum-and-access-forum.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Fans Forum",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_fans-forum"
-        }
-      ],
-      "date": "2021-05-12T12:20:00.000Z",
-      "description": "There are several seats available on the Chelsea FC Fans’ Forum and the Access Forum, with supporters welcome to apply for a place."
     }
   ]
 }
