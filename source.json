@@ -9,6 +9,69 @@
   "newsFeed": [
     {
       "contentType": "International",
+      "id": "_content_chelseafcennews20210610euro-2020-preview--france---oliv",
+      "type": "NewsCard",
+      "timestamp": "2021-06-10T17:45:00.000Z",
+      "orderDate": "2021-06-10T17:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/10/euro-2020-preview--france---olivier-giroud--n-golo-kante-and-kur",
+        "type": "NewsCard",
+        "title": "Euro 2020 preview: France – Olivier Giroud, N'Golo Kante and Kurt Zouma",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/10/euro-2020-preview--france---olivier-giroud--n-golo-kante-and-kur.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-10T17:45:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/06/10/euro-2020-preview--france---olivier-giroud--n-golo-kante-and-kur",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Giroud and Kante",
+          "id": "editorial/news/2021/06/09/Giroud_Kante_France_GettyImages-1233287163",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Euro 2020 preview: France – Olivier Giroud, N'Golo Kante and Kurt Zouma",
+      "publishDate": "2021-06-10T17:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/10/euro-2020-preview--france---olivier-giroud--n-golo-kante-and-kur.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Kurt Zouma",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kurt-zouma"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        },
+        {
+          "title": "Olivier Giroud",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_olivier-giroud"
+        }
+      ],
+      "date": "2021-06-10T17:45:00.000Z",
+      "description": "We continue our Euro 2020 previews with a focus on France, as the world champions look to add another trophy to their tally with a strong Chelsea influence, including three current Blues in a squad managed by one of our former players…"
+    },
+    {
+      "contentType": "International",
       "id": "_content_chelseafcennews20210610euro-2020-preview--belgium-and-w",
       "type": "NewsCard",
       "timestamp": "2021-06-10T14:12:00.000Z",
@@ -495,55 +558,6 @@
       ],
       "date": "2021-06-09T08:00:00.000Z",
       "description": "Defender Jess Carter has signed a contract extension with Chelsea Women to keep her at the club until the summer of 2022, with the club having an option to extend for a further 12 months."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210609academy-internationals",
-      "type": "NewsCard",
-      "timestamp": "2021-06-09T10:34:00.000Z",
-      "orderDate": "2021-06-09T00:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/09/academy-internationals",
-        "type": "NewsCard",
-        "title": "Academy internationals and contract news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/09/academy-internationals.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-09T10:34:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/06/09/academy-internationals",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thierno Ballo",
-          "id": "editorial/news/2021/06/09/Thierno-Ballo-Austria-U21-championships",
-          "gravity": "east",
-          "aspectRatio": 1.5313975,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Academy internationals and contract news",
-      "publishDate": "2021-06-09T10:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/09/academy-internationals.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-06-09T10:34:00.000Z",
-      "description": "Austria’s Under-21s and Norway’s Under-18s featured a youngster each from our Academy last night as the former got qualification for the 2023 European Championships underway."
     }
   ]
 }
