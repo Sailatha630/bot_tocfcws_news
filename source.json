@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210611try-our-kai-havertz-quiz-",
+      "type": "NewsCard",
+      "timestamp": "2021-06-11T14:54:00.000Z",
+      "orderDate": "2021-06-11T12:54:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/11/try-our-kai-havertz-quiz-",
+        "type": "NewsCard",
+        "title": "Try our Kai Havertz quiz!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/11/try-our-kai-havertz-quiz-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-11T14:54:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/11/try-our-kai-havertz-quiz-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "galleries/champions-league-final-2021/Havertz-goal-celebration-cl-final-2-1320692922",
+          "gravity": "auto",
+          "aspectRatio": 1.4433547,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Try our Kai Havertz quiz!",
+      "publishDate": "2021-06-11T14:54:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/11/try-our-kai-havertz-quiz-.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        }
+      ],
+      "date": "2021-06-11T14:54:00.000Z",
+      "description": "As Kai Havertz celebrates his 22nd birthday today, we’ve devised a quiz on our German forward for you to try!"
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210611the-wheel-turns--jorginho-s-rise",
       "type": "NewsCard",
@@ -477,65 +520,6 @@
       ],
       "date": "2021-06-10T10:16:00.000Z",
       "description": "We continue our build-up to Euro 2020, which starts on Friday, by taking a close look at Croatia’s prospects in the tournament, with Mateo Kovacic hoping to go one better than at the last World Cup…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210610second-goal-of-the-season-semi-f",
-      "type": "NewsCard",
-      "timestamp": "2021-06-10T06:55:00.000Z",
-      "orderDate": "2021-06-10T06:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/10/second-goal-of-the-season-semi-final-gets-underway",
-        "type": "NewsCard",
-        "title": "Second Goal of the Season semi-final gets underway",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/10/second-goal-of-the-season-semi-final-gets-underway.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-10T06:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/06/10/second-goal-of-the-season-semi-final-gets-underway",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Goal of the season: Olivier Giroud vs Jude Soonsup-Bell",
-          "videoId": "2e0Y5vd0",
-          "bucket": "prod-cfc",
-          "description": "Goal of the season: Olivier Giroud vs Jude Soonsup-Bell",
-          "duration": 43000,
-          "date": "2021-06-08T14:47:39.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/2e0Y5vd0/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/10/second-goal-of-the-season-semi-final-gets-underway.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/06/10/second-goal-of-the-season-semi-final-gets-underway?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/06/10/second-goal-of-the-season-semi-final-gets-underway",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Goal of the season: Olivier Giroud vs Jude Soonsup-Bell"
-      },
-      "content": "Second Goal of the Season semi-final gets underway",
-      "publishDate": "2021-06-10T06:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/10/second-goal-of-the-season-semi-final-gets-underway.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        }
-      ],
-      "date": "2021-06-10T06:55:00.000Z",
-      "description": "A pair of acrobatic efforts go head-to-head in today’s Chelsea Goal of the Season vote, with a place in the grand final at stake for the winning strike."
     }
   ]
 }
