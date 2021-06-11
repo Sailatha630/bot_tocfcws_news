@@ -9,6 +9,58 @@
   "newsFeed": [
     {
       "contentType": "International",
+      "id": "_content_chelseafcennews20210611euro-2020-preview--denmark---and",
+      "type": "NewsCard",
+      "timestamp": "2021-06-11T02:10:00.000Z",
+      "orderDate": "2021-06-11T02:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/11/euro-2020-preview--denmark---andreas-christensen",
+        "type": "NewsCard",
+        "title": "Euro 2020 preview: Denmark - Andreas Christensen",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/11/euro-2020-preview--denmark---andreas-christensen.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-11T02:10:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/06/11/euro-2020-preview--denmark---andreas-christensen",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2019/11/Christensen_Denmark_Celebrates_Euro_2020",
+          "gravity": "auto",
+          "aspectRatio": 1.5001731,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Euro 2020 preview: Denmark - Andreas Christensen",
+      "publishDate": "2021-06-11T02:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/11/euro-2020-preview--denmark---andreas-christensen.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-06-11T02:10:00.000Z",
+      "description": "Could the success of Euro 92 be the catalyst for the class of 2020 at this summer’s European Championships? Our preview of the tournament continues with Denmark, who boast an in-form Chelsea defender in their ranks…"
+    },
+    {
+      "contentType": "International",
       "id": "_content_chelseafcennews20210610euro-2020-preview--france---oliv",
       "type": "NewsCard",
       "timestamp": "2021-06-10T17:45:00.000Z",
@@ -510,54 +562,6 @@
       ],
       "date": "2021-06-09T09:00:00.000Z",
       "description": "Jess Carter has committed to Chelsea Women by extending her contract until 2022 and the Blues defender has outlined her ambitions for the future."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210609jess-carter-extends-with-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-06-09T08:00:00.000Z",
-      "orderDate": "2021-06-09T05:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/09/jess-carter-extends-with-chelsea-women",
-        "type": "NewsCard",
-        "title": "Jess Carter extends contract with Chelsea Women",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/09/jess-carter-extends-with-chelsea-women.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-09T08:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/09/jess-carter-extends-with-chelsea-women",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Jess_Carter_Contract_Extension_2",
-          "gravity": "auto",
-          "aspectRatio": 1.499858,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jess Carter extends contract with Chelsea Women",
-      "publishDate": "2021-06-09T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/09/jess-carter-extends-with-chelsea-women.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Jess Carter",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_jess-carter"
-        }
-      ],
-      "date": "2021-06-09T08:00:00.000Z",
-      "description": "Defender Jess Carter has signed a contract extension with Chelsea Women to keep her at the club until the summer of 2022, with the club having an option to extend for a further 12 months."
     }
   ]
 }
