@@ -8,6 +8,50 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210613milestones--chelsea-firsts-and-m",
+      "type": "NewsCard",
+      "timestamp": "2021-06-13T03:30:00.000Z",
+      "orderDate": "2021-06-13T03:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/13/milestones--chelsea-firsts-and-more-",
+        "type": "NewsCard",
+        "title": "Milestones, Chelsea firsts and more…",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/13/milestones--chelsea-firsts-and-more-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-13T03:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/06/13/milestones--chelsea-firsts-and-more-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kante and Mount",
+          "id": "editorial/news/2021/06/12/mount_kante_newcastle",
+          "gravity": "north_west",
+          "aspectRatio": 1.5948616,
+          "cropMode": "fill"
+        },
+        "caption": " "
+      },
+      "content": "Milestones, Chelsea firsts and more…",
+      "publishDate": "2021-06-13T03:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/13/milestones--chelsea-firsts-and-more-.html",
+      "readTimeInMins": 27,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-06-13T03:30:00.000Z",
+      "description": "As the dust continues to settle on the season just completed, we collect together the landmarks achieved and records set by Chelsea players in 2020/21…"
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210612euro-2020--christensen-defeat-on",
       "type": "NewsCard",
@@ -473,59 +517,6 @@
       ],
       "date": "2021-06-11T14:54:00.000Z",
       "description": "As Kai Havertz celebrates his 22nd birthday today, we’ve devised a quiz on our German forward for you to try!"
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210611the-wheel-turns--jorginho-s-rise",
-      "type": "NewsCard",
-      "timestamp": "2021-06-11T12:00:00.000Z",
-      "orderDate": "2021-06-11T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/11/the-wheel-turns--jorginho-s-rise-from-a-boy-in-brazil-to-an-ital",
-        "type": "NewsCard",
-        "title": "The Wheel Turns: Jorginho’s rise from a boy in Brazil to an Italy international, in his own words",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/11/the-wheel-turns--jorginho-s-rise-from-a-boy-in-brazil-to-an-ital.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-11T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/06/11/the-wheel-turns--jorginho-s-rise-from-a-boy-in-brazil-to-an-ital",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jorginho training with Italy",
-          "id": "editorial/news/2021/06/11/jorginho-italy-training-euro-2020",
-          "gravity": "auto",
-          "aspectRatio": 1.3377359,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Wheel Turns: Jorginho’s rise from a boy in Brazil to an Italy international, in his own words",
-      "publishDate": "2021-06-11T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/11/the-wheel-turns--jorginho-s-rise-from-a-boy-in-brazil-to-an-ital.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-06-11T12:00:00.000Z",
-      "description": "On the day Euro 2020 begins with Italy against Turkey, Jorginho details his early days playing football, reflects on what it takes to make it as a professional, and remembers his first few years living and playing in Europe…"
     }
   ]
 }
