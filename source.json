@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210613premier-league-2020-21-fixtures-",
+      "type": "NewsCard",
+      "timestamp": "2021-06-14T09:30:00.000Z",
+      "orderDate": "2021-06-14T09:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/13/premier-league-2020-21-fixtures--when-are-they-announced-and-how",
+        "type": "NewsCard",
+        "title": "Premier League 2020/21 fixtures: When are they announced and how are Chelsea’s opponents decided?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/13/premier-league-2020-21-fixtures--when-are-they-announced-and-how.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-14T09:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/06/13/premier-league-2020-21-fixtures--when-are-they-announced-and-how",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Premier League",
+          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
+          "gravity": "auto",
+          "aspectRatio": 1.4790996,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Premier League 2020/21 fixtures: When are they announced and how are Chelsea’s opponents decided?",
+      "publishDate": "2021-06-14T09:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/13/premier-league-2020-21-fixtures--when-are-they-announced-and-how.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-06-14T09:30:00.000Z",
+      "description": "Attention is already turning to next season, with the new Premier League fixtures to be announced soon. Here are all your questions about the 2020/21 fixtures answered…"
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210613mount-delighted-to-play-his-part",
       "type": "NewsCard",
@@ -480,59 +528,6 @@
       ],
       "date": "2021-06-12T03:30:00.000Z",
       "description": "The latest start and the greatest finish. Chelsea’s 2020/21 campaign was a rollercoaster ride, and here club historian Rick Glanvill and club statistician Paul Dutton make sense of it all…"
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210612-i-started-as-a-striker-----andr",
-      "type": "NewsCard",
-      "timestamp": "2021-06-12T11:00:00.000Z",
-      "orderDate": "2021-06-12T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/12/-i-started-as-a-striker-----andreas-christensen-on-his-denmark-d",
-        "type": "NewsCard",
-        "title": "‘I started as a striker!’ - Andreas Christensen on his Denmark days and dad’s influence",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/12/-i-started-as-a-striker-----andreas-christensen-on-his-denmark-d.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-12T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/06/12/-i-started-as-a-striker-----andreas-christensen-on-his-denmark-d",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Andreas Christensen playing for Denmark",
-          "id": "editorial/news/2021/06/11/andreas-christensen-denmark",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "‘I started as a striker!’ - Andreas Christensen on his Denmark days and dad’s influence",
-      "publishDate": "2021-06-12T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/12/-i-started-as-a-striker-----andreas-christensen-on-his-denmark-d.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-06-12T11:00:00.000Z",
-      "description": "On the day he could represent his country in a European Championships for the first time, Andreas Christensen reveals how he fell in love with the game, in his own words…"
     }
   ]
 }
