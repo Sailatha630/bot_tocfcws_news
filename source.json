@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210615quiz--order-our-premier-league-o",
+      "type": "NewsCard",
+      "timestamp": "2021-06-15T15:30:00.000Z",
+      "orderDate": "2021-06-15T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/15/quiz--order-our-premier-league-openers-from-most-recent-to-least",
+        "type": "NewsCard",
+        "title": "Quiz: Order our Premier League openers from most recent to least",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/15/quiz--order-our-premier-league-openers-from-most-recent-to-least.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-15T15:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/15/quiz--order-our-premier-league-openers-from-most-recent-to-least",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/news/2020/09/brighton_away_werner_1",
+          "gravity": "auto",
+          "aspectRatio": 1.4367635,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Order our Premier League openers from most recent to least",
+      "publishDate": "2021-06-15T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/15/quiz--order-our-premier-league-openers-from-most-recent-to-least.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-06-15T15:30:00.000Z",
+      "description": "Ahead of the 2021/22 Premier League fixtures being announced on Wednesday morning, we have a quiz to test your knowledge of our previous opening-day encounters in the competition..."
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210615pat-nevin-s-euros-column--keepin",
       "type": "NewsCard",
@@ -460,49 +508,6 @@
       ],
       "date": "2021-06-14T09:23:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are linked with Orkun Kokcu while Mason Mount impresses Jack Grealish."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210613mount-delighted-to-play-his-part",
-      "type": "NewsCard",
-      "timestamp": "2021-06-13T17:30:00.000Z",
-      "orderDate": "2021-06-13T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/13/mount-delighted-to-play-his-part-in-opening-england-victory",
-        "type": "NewsCard",
-        "title": "Mount delighted to play his part in opening England victory",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/13/mount-delighted-to-play-his-part-in-opening-england-victory.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-13T17:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/13/mount-delighted-to-play-his-part-in-opening-england-victory",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Mount-England-clap-GettyImages-1323350618",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount delighted to play his part in opening England victory",
-      "publishDate": "2021-06-13T17:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/13/mount-delighted-to-play-his-part-in-opening-england-victory.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-06-13T17:30:00.000Z",
-      "description": "Mason Mount felt England were good value for their opening Euro 2020 victory over Croatia and praised the impact the supporters had in the Three Lions’ Wembley win."
     }
   ]
 }
