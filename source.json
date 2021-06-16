@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210616chelsea-s-2021-22-premier-league",
+      "type": "NewsCard",
+      "timestamp": "2021-06-16T08:00:00.000Z",
+      "orderDate": "2021-06-16T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/16/chelsea-s-2021-22-premier-league-fixtures-announced",
+        "type": "NewsCard",
+        "title": "Chelsea's 2021/22 Premier League fixtures announced",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/16/chelsea-s-2021-22-premier-league-fixtures-announced.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-16T08:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/16/chelsea-s-2021-22-premier-league-fixtures-announced",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Nike ball",
+          "id": "editorial/news/2021/06/16/nike_ball_2021_web_2",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea's 2021/22 Premier League fixtures announced",
+      "publishDate": "2021-06-16T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/16/chelsea-s-2021-22-premier-league-fixtures-announced.html",
+      "readTimeInMins": 30,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-06-16T08:00:00.000Z",
+      "description": "We have all the details of who Chelsea are playing and when following today's release of the fixtures for the 2021/22 Premier League season..."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210615france-v-germany-euro-2020-repor",
       "type": "NewsCard",
@@ -475,49 +518,6 @@
       ],
       "date": "2021-06-14T02:00:00.000Z",
       "description": "Our review of the season just completed continues with a breakdown of the goals scored by the Blues over the course of the campaign, and those conceded, too…"
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210614getting-to-know-chelsea-women--m",
-      "type": "NewsCard",
-      "timestamp": "2021-06-14T10:50:00.000Z",
-      "orderDate": "2021-06-14T00:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/14/getting-to-know-chelsea-women--melanie-leupolz--",
-        "type": "NewsCard",
-        "title": "Getting to know Chelsea Women: Melanie Leupolz  ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/14/getting-to-know-chelsea-women--melanie-leupolz--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-14T10:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/14/getting-to-know-chelsea-women--melanie-leupolz--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/women's-team/Melly_Leupolz_",
-          "gravity": "auto",
-          "aspectRatio": 1.4747107,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Getting to know Chelsea Women: Melanie Leupolz  ",
-      "publishDate": "2021-06-14T10:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/14/getting-to-know-chelsea-women--melanie-leupolz--.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-06-14T10:50:00.000Z",
-      "description": "Melanie Leupolz is the next Chelsea Women player to give us an insight into her life away from football…"
     }
   ]
 }
