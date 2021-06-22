@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210622chelsea-to-face-arsenal-and-tott",
+      "type": "NewsCard",
+      "timestamp": "2021-06-22T15:00:00.000Z",
+      "orderDate": "2021-06-22T15:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/22/chelsea-to-face-arsenal-and-tottenham-in-mind-series--together-t",
+        "type": "NewsCard",
+        "title": "Chelsea to face Arsenal and Tottenham in Mind Series this pre-season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/22/chelsea-to-face-arsenal-and-tottenham-in-mind-series--together-t.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-22T15:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/22/chelsea-to-face-arsenal-and-tottenham-in-mind-series--together-t",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mind logo",
+          "id": "editorial/news/2021/06/22/mind_series",
+          "gravity": "center",
+          "aspectRatio": 1.8285714,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea to face Arsenal and Tottenham in Mind Series this pre-season",
+      "publishDate": "2021-06-22T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/22/chelsea-to-face-arsenal-and-tottenham-in-mind-series--together-t.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-06-22T15:00:00.000Z",
+      "description": "Chelsea, Arsenal and Tottenham will come together to support better mental health by taking part in The Mind Series this summer."
+    },
+    {
       "contentType": "History",
       "id": "_content_chelseafcennews20210622outstanding-strikes-by-chelsea-c",
       "type": "NewsCard",
@@ -477,49 +520,6 @@
       ],
       "date": "2021-06-21T09:00:00.000Z",
       "description": "It is announced today that Chelsea Football Club is recognising the important contribution made by our former player Paul Canoville by naming part of Stamford Bridge in his honour."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210621gilmour-to-miss-scotland-game",
-      "type": "NewsCard",
-      "timestamp": "2021-06-21T10:31:00.000Z",
-      "orderDate": "2021-06-21T08:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/21/gilmour-to-miss-scotland-game",
-        "type": "NewsCard",
-        "title": "Gilmour to miss Scotland game",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/21/gilmour-to-miss-scotland-game.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-21T10:31:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/21/gilmour-to-miss-scotland-game",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Billy Gilmour",
-          "id": "editorial/news/2021/06/21/gilmour_scotland",
-          "gravity": "auto",
-          "aspectRatio": 1.1528662,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gilmour to miss Scotland game",
-      "publishDate": "2021-06-21T10:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/21/gilmour-to-miss-scotland-game.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        }
-      ],
-      "date": "2021-06-21T10:31:00.000Z",
-      "description": "The Scotland national team have this morning released a statement about Billy Gilmour and his participation at Euro 2020."
     }
   ]
 }
