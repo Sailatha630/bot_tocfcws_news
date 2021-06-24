@@ -9,6 +9,59 @@
   "newsFeed": [
     {
       "contentType": "International",
+      "id": "_content_chelseafcennews20210624internationals--late-copa-americ",
+      "type": "NewsCard",
+      "timestamp": "2021-06-24T07:20:00.000Z",
+      "orderDate": "2021-06-24T07:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/24/internationals--late-copa-america-drama-for-thiago-silva-and-bra",
+        "type": "NewsCard",
+        "title": "Internationals: Late Copa America drama for Thiago Silva and Brazil",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/24/internationals--late-copa-america-drama-for-thiago-silva-and-bra.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-24T07:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/24/internationals--late-copa-america-drama-for-thiago-silva-and-bra",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Thiago Silva",
+          "id": "editorial/news/2021/06/24/Thiago-Silva-Brazil-vs-Colombia",
+          "gravity": "north",
+          "aspectRatio": 1.4405549,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Late Copa America drama for Thiago Silva and Brazil",
+      "publishDate": "2021-06-24T07:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/24/internationals--late-copa-america-drama-for-thiago-silva-and-bra.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-06-24T07:20:00.000Z",
+      "description": "There was controversy and a last-gasp winner in Rio de Janeiro as Thiago Silva featured for a Brazil side that booked their place in the Copa America quarter-finals."
+    },
+    {
+      "contentType": "International",
       "id": "_content_chelseafcennews20210623euro-2020--havertz-scores-again-",
       "type": "NewsCard",
       "timestamp": "2021-06-23T21:21:00.000Z",
@@ -477,79 +530,6 @@
       ],
       "date": "2021-06-22T16:00:00.000Z",
       "description": "Andreas Christensen has been reflecting on a special night at Euro 2020 for himself and his Denmark team-mates…"
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210622outstanding-strikes-by-chelsea-c",
-      "type": "NewsCard",
-      "timestamp": "2021-06-22T11:08:00.000Z",
-      "orderDate": "2021-06-22T11:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/22/outstanding-strikes-by-chelsea-centre-backs---a-collection-",
-        "type": "NewsCard",
-        "title": "Outstanding strikes by Chelsea centre-backs – a collection ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/22/outstanding-strikes-by-chelsea-centre-backs---a-collection-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-22T11:08:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/22/outstanding-strikes-by-chelsea-centre-backs---a-collection-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Andreas Christensen playing for Denmark",
-          "id": "editorial/news/2021/06/22/christensen_denmark_russia_goal",
-          "gravity": "auto",
-          "aspectRatio": 1.4997747,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Outstanding strikes by Chelsea centre-backs – a collection ",
-      "publishDate": "2021-06-22T11:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/22/outstanding-strikes-by-chelsea-centre-backs---a-collection-.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "David Luiz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_david-luiz"
-        },
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Gary Cahill",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_gary-cahill"
-        },
-        {
-          "title": "Fikayo Tomori",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_fikayo-tomori"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Frank Leboeuf",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-leboeuf"
-        },
-        {
-          "title": "Ricardo Carvalho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_ricardo-carvalho"
-        }
-      ],
-      "date": "2021-06-22T11:08:00.000Z",
-      "description": "Following Andreas Christensen’s spectacular strike at Euro 2020, we have chosen a few other favourites from down the years…"
     }
   ]
 }
