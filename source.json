@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20210625when-chelsea-have-triumphed-on-t",
+      "type": "NewsCard",
+      "timestamp": "2021-06-25T11:30:00.000Z",
+      "orderDate": "2021-06-25T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/25/when-chelsea-have-triumphed-on-the-away-goals-rule",
+        "type": "NewsCard",
+        "title": "When Chelsea have triumphed on the away goals rule",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/25/when-chelsea-have-triumphed-on-the-away-goals-rule.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-25T11:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/06/25/when-chelsea-have-triumphed-on-the-away-goals-rule",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Demba Ba",
+          "id": "editorial/news/2019/4/demba-ba-psg-goal",
+          "gravity": "auto",
+          "aspectRatio": 1.6172507,
+          "cropMode": "fill"
+        }
+      },
+      "content": "When Chelsea have triumphed on the away goals rule",
+      "publishDate": "2021-06-25T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/25/when-chelsea-have-triumphed-on-the-away-goals-rule.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-06-25T11:30:00.000Z",
+      "description": "Following the news yesterday UEFA have decided to scrap the away goals rule for their competitions, we revisit the occasions Chelsea have advanced to the next round when the aggregate score was level but the Blues were more efficient away from home."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210625hudson-odoi-making-a-difference-",
       "type": "NewsCard",
@@ -458,59 +506,6 @@
       ],
       "date": "2021-06-23T21:21:00.000Z",
       "description": "Kai Havertz scored his second goal at Euro 2020 as Germany did just enough to book a place in the last 16 and a trip to Wembley to take on England."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210623euro-2020--azpilicueta-returns-a",
-      "type": "NewsCard",
-      "timestamp": "2021-06-23T17:49:00.000Z",
-      "orderDate": "2021-06-23T17:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/23/euro-2020--azpilicueta-returns-as-spain-win-big-to-advance",
-        "type": "NewsCard",
-        "title": "Euro 2020: Azpilicueta returns as Spain win big to advance",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/23/euro-2020--azpilicueta-returns-as-spain-win-big-to-advance.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-23T17:49:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/23/euro-2020--azpilicueta-returns-as-spain-win-big-to-advance",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Azpilicueta",
-          "id": "editorial/news/2021/06/23/Azpilicueta-Spain-vs-Slovakia",
-          "gravity": "south_west",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Euro 2020: Azpilicueta returns as Spain win big to advance",
-      "publishDate": "2021-06-23T17:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/23/euro-2020--azpilicueta-returns-as-spain-win-big-to-advance.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-06-23T17:49:00.000Z",
-      "description": "Cesar Azpilicueta made his first appearance at Euro 2020 as Spain booked their place in the knockout stages with a comfortable victory against Slovakia."
     }
   ]
 }
