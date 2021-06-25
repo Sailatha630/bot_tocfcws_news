@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210625quiz--chelsea-at-the-euros",
+      "type": "NewsCard",
+      "timestamp": "2021-06-25T03:00:00.000Z",
+      "orderDate": "2021-06-25T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/25/quiz--chelsea-at-the-euros",
+        "type": "NewsCard",
+        "title": "Quiz: Chelsea at the Euros - who went furthest?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/25/quiz--chelsea-at-the-euros.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-25T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/06/25/quiz--chelsea-at-the-euros",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Torres and Mata with Euro 2012 medals",
+          "id": "editorial/news/2020/06/Mata_Torres_GettyImages-147535013",
+          "gravity": "auto",
+          "aspectRatio": 1.5280136,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Chelsea at the Euros - who went furthest?",
+      "publishDate": "2021-06-25T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/25/quiz--chelsea-at-the-euros.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-06-25T03:00:00.000Z",
+      "description": "As Euro 2020 takes a two-day break ahead of the knockout stage, why not take on our fiendish quiz on Chelsea stars at the tournament in years gone by..."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210624end-of-term-report--cesar-azpili",
       "type": "NewsCard",
@@ -467,49 +515,6 @@
       ],
       "date": "2021-06-23T10:56:00.000Z",
       "description": "Mason Mount is the next subject of our individual player review series at the end of a campaign in which he was voted Player of the Year by Chelsea supporters."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210623azpilicueta-sets-spain-simple-ai",
-      "type": "NewsCard",
-      "timestamp": "2021-06-23T06:30:00.000Z",
-      "orderDate": "2021-06-23T06:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/23/azpilicueta-sets-spain-simple-aim-",
-        "type": "NewsCard",
-        "title": "Azpilicueta sets Spain simple aim ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/23/azpilicueta-sets-spain-simple-aim-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-23T06:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/06/23/azpilicueta-sets-spain-simple-aim-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Cesar Azpilicueta training with Spain",
-          "id": "editorial/news/2021/06/22/azpilicueta_spain_training",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta sets Spain simple aim ",
-      "publishDate": "2021-06-23T06:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/23/azpilicueta-sets-spain-simple-aim-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2021-06-23T06:30:00.000Z",
-      "description": "There is a possibility for Spain to make it through to the last-16 stage at the Euros without a win in their final group game tonight against Slovakia, but Cesar Azpilicueta insists he and his international team-mates are thinking about nothing less than three points."
     }
   ]
 }
