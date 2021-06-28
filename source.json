@@ -9,6 +9,59 @@
   "newsFeed": [
     {
       "contentType": "International",
+      "id": "_content_chelseafcennews20210628kovacic-prepared-for-intense-mid",
+      "type": "NewsCard",
+      "timestamp": "2021-06-28T03:00:00.000Z",
+      "orderDate": "2021-06-28T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/06/28/kovacic-prepared-for-intense-midfield-battle-with-spain",
+        "type": "NewsCard",
+        "title": "Kovacic prepared for intense midfield battle with Spain",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/28/kovacic-prepared-for-intense-midfield-battle-with-spain.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-06-28T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/06/28/kovacic-prepared-for-intense-midfield-battle-with-spain",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mateo Kovacic",
+          "id": "editorial/news/2021/06/27/kovacic-croatia-training-euro-2020",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kovacic prepared for intense midfield battle with Spain",
+      "publishDate": "2021-06-28T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/28/kovacic-prepared-for-intense-midfield-battle-with-spain.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-06-28T03:00:00.000Z",
+      "description": "Today’s Euro 2020 action begins with Croatia against Spain in Copenhagen, and Mateo Kovacic knows he will have a key role to play if the Vatreni are to advance to the quarter-finals for the third time in their history."
+    },
+    {
+      "contentType": "International",
       "id": "_content_chelseafcennews20210627euro-2020--belgium-vs-portugal-r",
       "type": "NewsCard",
       "timestamp": "2021-06-27T21:06:00.000Z",
@@ -438,54 +491,6 @@
       ],
       "date": "2021-06-25T14:00:00.000Z",
       "description": "Next up in our player-by-player season reviews it is the turn of Timo Werner, as we take a closer look at his debut campaign with Chelsea, which ended with him lifting a club trophy for the first time in the Champions League final..."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210625baxter-heads-to-hull",
-      "type": "NewsCard",
-      "timestamp": "2021-06-25T18:00:00.000Z",
-      "orderDate": "2021-06-25T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/25/baxter-heads-to-hull",
-        "type": "NewsCard",
-        "title": "Baxter heads to Hull",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/25/baxter-heads-to-hull.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-25T18:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/06/25/baxter-heads-to-hull",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Nathan Baxter",
-          "id": "editorial/news/2021/06/25/Baxter-stock-Accrington",
-          "gravity": "auto",
-          "aspectRatio": 1.8545551,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Baxter heads to Hull",
-      "publishDate": "2021-06-25T18:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/25/baxter-heads-to-hull.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Nathan Baxter",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_nathan-baxter"
-        }
-      ],
-      "date": "2021-06-25T18:00:00.000Z",
-      "description": "Nathan Baxter will spend the 2021/22 season on loan in the Championship with Hull City."
     }
   ]
 }
