@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210702victor-moses-completes-russian-t",
+      "type": "NewsCard",
+      "timestamp": "2021-07-02T13:00:00.000Z",
+      "orderDate": "2021-07-02T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/02/victor-moses-completes-russian-transfer",
+        "type": "NewsCard",
+        "title": "Victor Moses completes Russian transfer",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/victor-moses-completes-russian-transfer.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-02T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/02/victor-moses-completes-russian-transfer",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Moses",
+          "id": "editorial/news/2021/07/01/moses-2017-stock",
+          "gravity": "north",
+          "aspectRatio": 1.3554392,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Victor Moses completes Russian transfer",
+      "publishDate": "2021-07-02T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/victor-moses-completes-russian-transfer.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Victor Moses",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_victor-moses"
+        }
+      ],
+      "date": "2021-07-02T13:00:00.000Z",
+      "description": "Victor Moses has today completed a permanent transfer to Spartak Moscow."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210702hayes-outlines-her-ambitions-for",
       "type": "NewsCard",
@@ -447,54 +490,6 @@
       ],
       "date": "2021-07-01T06:30:00.000Z",
       "description": "Billy Gilmour and Tino Anjorin are the next subjects of our player-by-player season reviews, as we take a closer look at the young duo’s campaign in detail…"
-    },
-    {
-      "contentType": "Say No To Antisemitism",
-      "id": "_content_chelseafcennews20210701chelsea-fc-foundation-and-the-ad",
-      "type": "NewsCard",
-      "timestamp": "2021-07-01T12:00:00.000Z",
-      "orderDate": "2021-07-01T00:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/01/chelsea-fc-foundation-and-the-adl-launch-three-year-partnership",
-        "type": "NewsCard",
-        "title": "Chelsea FC Foundation and the ADL launch three-year partnership",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/01/chelsea-fc-foundation-and-the-adl-launch-three-year-partnership.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-01T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/01/chelsea-fc-foundation-and-the-adl-launch-three-year-partnership",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "video/2021/02/16/ADL_THUMB",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC Foundation and the ADL launch three-year partnership",
-      "publishDate": "2021-07-01T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/01/chelsea-fc-foundation-and-the-adl-launch-three-year-partnership.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Say No to Antisemitism",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_say-no-to-antisemitism"
-        },
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2021-07-01T12:00:00.000Z",
-      "description": "Chelsea FC Foundation and ADL (the Anti-Defamation League) have announced a three-year partnership expanding their existing joint efforts to harness the power of sport to tackle discrimination and online abuse, as well as a renewed commitment from Chelsea to further provide financial support to the work of ADL. The partnership forms part of the club’s Say No to Antisemitism programme and is funded by club owner Roman Abramovich."
     }
   ]
 }
