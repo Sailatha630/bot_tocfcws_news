@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210702premier-league-loan-for-gilmour",
+      "type": "NewsCard",
+      "timestamp": "2021-07-02T10:00:00.000Z",
+      "orderDate": "2021-07-02T10:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/02/premier-league-loan-for-gilmour",
+        "type": "NewsCard",
+        "title": "Premier League loan for Gilmour",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/premier-league-loan-for-gilmour.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-02T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/07/02/premier-league-loan-for-gilmour",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Billy Gilmour",
+          "id": "editorial/news/2021/05/02/Gilmour-Fulham-h-stock",
+          "gravity": "face",
+          "aspectRatio": 0.71855253,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Premier League loan for Gilmour",
+      "publishDate": "2021-07-02T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/premier-league-loan-for-gilmour.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Transfer",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_transfer"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-07-02T10:00:00.000Z",
+      "description": "Billy Gilmour will spend the 2021/22 season on loan in the Premier League with Norwich City."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210702a-hug-from-totti--help-from-de-r",
       "type": "NewsCard",
@@ -471,59 +524,6 @@
       ],
       "date": "2021-06-30T12:56:00.000Z",
       "description": "There’s been plenty of Chelsea involvement at Euro 2020, with goalscorers both ends of the age spectrum already this tournament in Kai Havertz and Cesar Azpilicueta."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210630havertz-on-what-went-wrong-for-g",
-      "type": "NewsCard",
-      "timestamp": "2021-06-30T09:31:00.000Z",
-      "orderDate": "2021-06-30T09:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/06/30/havertz-on-what-went-wrong-for-germany-at-wembley",
-        "type": "NewsCard",
-        "title": "Havertz on what went wrong for Germany at Wembley",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/30/havertz-on-what-went-wrong-for-germany-at-wembley.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-06-30T09:31:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/06/30/havertz-on-what-went-wrong-for-germany-at-wembley",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Havertz",
-          "id": "editorial/news/2021/06/30/Havertz-England-vs-Germany",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz on what went wrong for Germany at Wembley",
-      "publishDate": "2021-06-30T09:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/06/30/havertz-on-what-went-wrong-for-germany-at-wembley.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-06-30T09:31:00.000Z",
-      "description": "There were mixed emotions for the Chelsea contingent as England hosted Germany at Euro 2020, with Kai Havertz one of those to come out on the wrong side of the result…"
     }
   ]
 }
