@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210703euro-2020--denmark-vs-czech-repu",
+      "type": "NewsCard",
+      "timestamp": "2021-07-03T17:35:00.000Z",
+      "orderDate": "2021-07-03T17:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/03/euro-2020--denmark-vs-czech-republic",
+        "type": "NewsCard",
+        "title": "Euro 2020: Christensen goes through with steady Denmark",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/03/euro-2020--denmark-vs-czech-republic.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-03T17:35:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/03/euro-2020--denmark-vs-czech-republic",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Andreas Christensen playing for Denmark",
+          "id": "editorial/news/2021/07/03/christensen_celebrations_denmark_czech",
+          "gravity": "auto",
+          "aspectRatio": 1.5004292,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Euro 2020: Christensen goes through with steady Denmark",
+      "publishDate": "2021-07-03T17:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/03/euro-2020--denmark-vs-czech-republic.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        }
+      ],
+      "date": "2021-07-03T17:35:00.000Z",
+      "description": "Andreas Christensen adds his name to Chelsea’s Italian and Spanish players at Euro 2020 in having secured involvement in the semi-finals."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210703end-of-term-report--hakim-ziyech",
       "type": "NewsCard",
@@ -443,59 +486,6 @@
       ],
       "date": "2021-07-02T12:14:00.000Z",
       "description": "Ben Chilwell, Reece James and Mason Mount all took part in England’s final training session ahead of Saturday's quarter-final fixture against Ukraine."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210702premier-league-loan-for-gilmour",
-      "type": "NewsCard",
-      "timestamp": "2021-07-02T10:00:00.000Z",
-      "orderDate": "2021-07-02T10:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/02/premier-league-loan-for-gilmour",
-        "type": "NewsCard",
-        "title": "Premier League loan for Gilmour",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/premier-league-loan-for-gilmour.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-02T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/02/premier-league-loan-for-gilmour",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Billy Gilmour",
-          "id": "editorial/news/2021/05/02/Gilmour-Fulham-h-stock",
-          "gravity": "face",
-          "aspectRatio": 0.71855253,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Premier League loan for Gilmour",
-      "publishDate": "2021-07-02T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/premier-league-loan-for-gilmour.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Transfer",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_transfer"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-07-02T10:00:00.000Z",
-      "description": "Billy Gilmour will spend the 2021/22 season on loan in the Premier League with Norwich City."
     }
   ]
 }
