@@ -9,6 +9,49 @@
   "newsFeed": [
     {
       "contentType": "International",
+      "id": "_content_chelseafcennews20210703euro-2020--england-vs-ukraine",
+      "type": "NewsCard",
+      "timestamp": "2021-07-03T20:39:00.000Z",
+      "orderDate": "2021-07-03T20:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/03/euro-2020--england-vs-ukraine",
+        "type": "NewsCard",
+        "title": "Euro 2020: Mount plays as England romp home in Rome",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/03/euro-2020--england-vs-ukraine.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-03T20:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/03/euro-2020--england-vs-ukraine",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mason Mount playing for England ",
+          "id": "editorial/news/2021/07/03/mount_england_ukraine",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Euro 2020: Mount plays as England romp home in Rome",
+      "publishDate": "2021-07-03T20:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/03/euro-2020--england-vs-ukraine.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2021-07-03T20:39:00.000Z",
+      "description": "Mason Mount returned to the England side for a special quarter-final performance, his national team running out 4-0 winners in their first game in the tournament played away from Wembley Stadium."
+    },
+    {
+      "contentType": "International",
       "id": "_content_chelseafcennews20210703euro-2020--denmark-vs-czech-repu",
       "type": "NewsCard",
       "timestamp": "2021-07-03T17:35:00.000Z",
@@ -408,84 +451,6 @@
       ],
       "date": "2021-07-02T12:24:00.000Z",
       "description": "It was announced earlier today that Emma Hayes is extending her stay with the club and in her first interview since signing a new deal, the Blues boss spoke exclusively to us."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210702chelsea-trio-warm-up-for-euro-20",
-      "type": "NewsCard",
-      "timestamp": "2021-07-02T12:14:00.000Z",
-      "orderDate": "2021-07-02T10:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/02/chelsea-trio-warm-up-for-euro-2020-quarter-final",
-        "type": "NewsCard",
-        "title": "Chelsea trio warm up for Euro 2020 quarter-final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/chelsea-trio-warm-up-for-euro-2020-quarter-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-02T12:14:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/02/chelsea-trio-warm-up-for-euro-2020-quarter-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Chilwell-James-Eng-GettyImages-1326605668",
-          "gravity": "auto",
-          "aspectRatio": 1.55521,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea trio warm up for Euro 2020 quarter-final",
-      "publishDate": "2021-07-02T12:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/chelsea-trio-warm-up-for-euro-2020-quarter-final.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Michy Batshuayi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_michy-batshuayi"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
-        }
-      ],
-      "date": "2021-07-02T12:14:00.000Z",
-      "description": "Ben Chilwell, Reece James and Mason Mount all took part in England’s final training session ahead of Saturday's quarter-final fixture against Ukraine."
     }
   ]
 }
