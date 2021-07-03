@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210703end-of-term-report--hakim-ziyech",
+      "type": "NewsCard",
+      "timestamp": "2021-07-03T10:45:00.000Z",
+      "orderDate": "2021-07-03T10:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/03/end-of-term-report--hakim-ziyech-s-2020-21",
+        "type": "NewsCard",
+        "title": "End of term report: Hakim Ziyech's 2020/21",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/03/end-of-term-report--hakim-ziyech-s-2020-21.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-03T10:45:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/07/03/end-of-term-report--hakim-ziyech-s-2020-21",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ziyech",
+          "id": "editorial/news/2021/06/25/Ziyech_GettyImages-1312992611",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "End of term report: Hakim Ziyech's 2020/21",
+      "publishDate": "2021-07-03T10:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/03/end-of-term-report--hakim-ziyech-s-2020-21.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2021-07-03T10:45:00.000Z",
+      "description": "Hakim Ziyech is the next person to feature in our player-by-player season reviews, after a campaign in which he overcame injury disruptions to play an important part in his first year with Chelsea."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210703seven-andriy-shevchenko-facts-yo",
       "type": "NewsCard",
@@ -448,49 +496,6 @@
       ],
       "date": "2021-07-02T08:48:00.000Z",
       "description": "Chelsea Football Club is delighted to announce Emma Hayes has committed herself to the club by signing a new contract, extending her time at Chelsea."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210702mccormick-moves-on",
-      "type": "NewsCard",
-      "timestamp": "2021-07-02T18:44:00.000Z",
-      "orderDate": "2021-07-02T08:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/02/mccormick-moves-on",
-        "type": "NewsCard",
-        "title": "McCormick moves on",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/mccormick-moves-on.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-02T18:44:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/02/mccormick-moves-on",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Luke McCormick",
-          "id": "editorial/news/2020/09/Luke-McCormick-cfcdev-oxford",
-          "gravity": "north_east",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "McCormick moves on",
-      "publishDate": "2021-07-02T18:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/02/mccormick-moves-on.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2021-07-02T18:44:00.000Z",
-      "description": "Luke McCormick has today completed a permanent transfer to AFC Wimbledon."
     }
   ]
 }
