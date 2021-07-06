@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210706euro-2020--italy-vs-spain-",
+      "type": "NewsCard",
+      "timestamp": "2021-07-06T20:33:00.000Z",
+      "orderDate": "2021-07-06T20:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/06/euro-2020--italy-vs-spain-",
+        "type": "NewsCard",
+        "title": "Euro 2020: Jorginho spot on to send Italy to final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/06/euro-2020--italy-vs-spain-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-06T20:33:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/06/euro-2020--italy-vs-spain-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Jorginho playing for Italy",
+          "id": "editorial/news/2021/07/07/jorginho_penalty_italy_spain",
+          "gravity": "east",
+          "aspectRatio": 1.5002143,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Euro 2020: Jorginho spot on to send Italy to final",
+      "publishDate": "2021-07-06T20:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/06/euro-2020--italy-vs-spain-.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Emerson Palmieri",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_emerson-palmieri"
+        }
+      ],
+      "date": "2021-07-06T20:33:00.000Z",
+      "description": "It will be Jorginho and Emerson Palmieri rather than Cesar Azpilicueta who on Sunday have the chance to add the European Championship with their country to the Champions League with their club, after the first Euro 2020 semi-final ended in a win for Italy following penalties."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210705meet-the-2021-22-academy-scholar",
       "type": "NewsCard",
@@ -435,49 +488,6 @@
       ],
       "date": "2021-07-05T15:00:00.000Z",
       "description": "Two of Chelsea’s home games and one away game in the Premier League in September have been selected for live TV broadcast and have altered kick-offs as a consequence."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210705the-elusive-dream--chelsea-and-t",
-      "type": "NewsCard",
-      "timestamp": "2021-07-05T11:34:00.000Z",
-      "orderDate": "2021-07-05T11:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/05/the-elusive-dream--chelsea-and-the-european-cup-",
-        "type": "NewsCard",
-        "title": "The elusive dream: Chelsea and the European Cup ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/05/the-elusive-dream--chelsea-and-the-european-cup-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-05T11:34:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/07/05/the-elusive-dream--chelsea-and-the-european-cup-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "European Cup",
-          "id": "editorial/news/2021/07/03/european_cup_trophy_1959",
-          "gravity": "auto",
-          "aspectRatio": 1.6697783,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The elusive dream: Chelsea and the European Cup ",
-      "publishDate": "2021-07-05T11:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/05/the-elusive-dream--chelsea-and-the-european-cup-.html",
-      "readTimeInMins": 27,
-      "tags": [
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-07-05T11:34:00.000Z",
-      "description": "On the anniversary of a meeting that denied Chelsea the chance to make history in the first flowering of the European Cup competition, now known as the Champions League, and with the Blues once again holders of the title European champions, club historian Rick Glanvill tells the story in this long read of the manoeuvres and committees of 1955 and how the then English title-winners were kept at home…"
     }
   ]
 }
