@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210705meet-the-2021-22-academy-scholar",
+      "type": "NewsCard",
+      "timestamp": "2021-07-06T18:00:00.000Z",
+      "orderDate": "2021-07-06T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/05/meet-the-2021-22-academy-scholars",
+        "type": "NewsCard",
+        "title": "Meet the 2021/22 Academy scholars",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/05/meet-the-2021-22-academy-scholars.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-06T18:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/07/05/meet-the-2021-22-academy-scholars",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Academy scholars 2021",
+          "id": "editorial/news/2021/07/06/Academy-scholars-2021-2",
+          "gravity": "auto",
+          "aspectRatio": 1.1839924,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Meet the 2021/22 Academy scholars",
+      "publishDate": "2021-07-06T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/05/meet-the-2021-22-academy-scholars.html",
+      "readTimeInMins": 26,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-07-06T18:00:00.000Z",
+      "description": "Our Academy teams returned to training on Monday along with 10 new scholars who recently signed their agreements ahead of the new season."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210706end-of-term-report--thiago-silva",
       "type": "NewsCard",
@@ -429,64 +478,6 @@
       ],
       "date": "2021-07-05T11:34:00.000Z",
       "description": "On the anniversary of a meeting that denied Chelsea the chance to make history in the first flowering of the European Cup competition, now known as the Champions League, and with the Blues once again holders of the title European champions, club historian Rick Glanvill tells the story in this long read of the manoeuvres and committees of 1955 and how the then English title-winners were kept at home…"
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20210705azpilicueta-analyses-jorginho-s-",
-      "type": "NewsCard",
-      "timestamp": "2021-07-05T10:44:00.000Z",
-      "orderDate": "2021-07-05T10:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/05/azpilicueta-analyses-jorginho-s-quality-ahead-of-spain-vs-italy",
-        "type": "NewsCard",
-        "title": "Azpilicueta analyses Jorginho’s quality ahead of Spain vs Italy",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/05/azpilicueta-analyses-jorginho-s-quality-ahead-of-spain-vs-italy.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-05T10:44:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/05/azpilicueta-analyses-jorginho-s-quality-ahead-of-spain-vs-italy",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Cesar Azpilicueta and Jorginho",
-          "id": "editorial/news/2021/07/05/jorginho-azpilicueta-chelsea",
-          "gravity": "auto",
-          "aspectRatio": 0.7211359,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta analyses Jorginho’s quality ahead of Spain vs Italy",
-      "publishDate": "2021-07-05T10:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/05/azpilicueta-analyses-jorginho-s-quality-ahead-of-spain-vs-italy.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2021-07-05T10:44:00.000Z",
-      "description": "The first of two Euro 2020 semi-finals this week pits Jorginho and Emerson’s Italy against Cesar Azpilicueta’s Spain, and the Chelsea skipper has been discussing the impressive impact made at the tournament by our vice-captain."
     }
   ]
 }
