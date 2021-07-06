@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210706quiz--name-every-italian-and-spa",
+      "type": "NewsCard",
+      "timestamp": "2021-07-06T06:18:00.000Z",
+      "orderDate": "2021-07-06T06:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/06/quiz--name-every-italian-and-spanish-chelsea-player",
+        "type": "NewsCard",
+        "title": "Quiz: Name every Italian and Spanish Chelsea player",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/06/quiz--name-every-italian-and-spanish-chelsea-player.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-06T06:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/07/06/quiz--name-every-italian-and-spanish-chelsea-player",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Italy and Spain flags",
+          "id": "editorial/news/2021/07/05/Spain-Italy-flags-Euro-2012-v2",
+          "gravity": "south_west",
+          "aspectRatio": 2.0336823,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Name every Italian and Spanish Chelsea player",
+      "publishDate": "2021-07-06T06:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/06/quiz--name-every-italian-and-spanish-chelsea-player.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-07-06T06:18:00.000Z",
+      "description": "As Italy prepare to take on Spain in the Euro 2020 semi-finals tonight, we have a quiz to test your knowledge on Chelsea players past and present from both nations..."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210706chelsea-defenders-go-face-to-fac",
       "type": "NewsCard",
@@ -421,42 +464,6 @@
       ],
       "date": "2021-07-05T08:49:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Brighton defender Ben White while Cesc Fabregas lifts the lid on his dream of becoming a manager."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210705chelsea-foundation-teams-join-up",
-      "type": "NewsCard",
-      "timestamp": "2021-07-05T10:35:00.000Z",
-      "orderDate": "2021-07-04T23:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/05/chelsea-foundation-teams-join-up-to-deliver-disability-football-",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation teams join up to deliver disability football sessions ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/05/chelsea-foundation-teams-join-up-to-deliver-disability-football-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-05T10:35:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/05/chelsea-foundation-teams-join-up-to-deliver-disability-football-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/07/05/ChelseaFoundation_Disability_Sessions",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation teams join up to deliver disability football sessions ",
-      "publishDate": "2021-07-05T10:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/05/chelsea-foundation-teams-join-up-to-deliver-disability-football-.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2021-07-05T10:35:00.000Z",
-      "description": "Chelsea Foundation’s Kicks and Disability Inclusion teams have come together to deliver weekly football sessions for young people with disabilities in Wandsworth."
     }
   ]
 }
