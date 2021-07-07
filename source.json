@@ -8,6 +8,73 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210707pat-nevin-s-euros-column--can-it",
+      "type": "NewsCard",
+      "timestamp": "2021-07-07T08:51:00.000Z",
+      "orderDate": "2021-07-07T08:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/07/pat-nevin-s-euros-column--can-italy-play-the-same-again-and-why-",
+        "type": "NewsCard",
+        "title": "Pat Nevin’s Euros column: Can Italy play the same again and why England vs Denmark could be very tight",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/07/pat-nevin-s-euros-column--can-italy-play-the-same-again-and-why-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-07T08:51:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/07/07/pat-nevin-s-euros-column--can-italy-play-the-same-again-and-why-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Wembley Stadium",
+          "id": "editorial/news/2021/07/07/wembley_outside_view_euro2020",
+          "gravity": "auto",
+          "aspectRatio": 1.5001633,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin’s Euros column: Can Italy play the same again and why England vs Denmark could be very tight",
+      "publishDate": "2021-07-07T08:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/07/pat-nevin-s-euros-column--can-italy-play-the-same-again-and-why-.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-07-07T08:51:00.000Z",
+      "description": "Continuing his articles while working as a pundit at a tournament reaching its climax, Chelsea legend Pat Nevin explains why he is proud of Jorginho’s penalty taking and why England must be prepared for a game of attrition tonight..."
+    },
+    {
       "contentType": "History",
       "id": "_content_chelseafcennews20210707england-semi-finals--the-lack-of",
       "type": "NewsCard",
@@ -444,54 +511,6 @@
       ],
       "date": "2021-07-06T05:04:00.000Z",
       "description": "Travel back over the past two months and there were times when it looked highly unlikely Cesar Azpilicueta would be in direct opposition to Emerson Palmieri in a Euro 2020 semi-final."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210706new-loan-and-new-contract-for-ca",
-      "type": "NewsCard",
-      "timestamp": "2021-07-06T17:00:00.000Z",
-      "orderDate": "2021-07-06T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/06/new-loan-and-new-contract-for-castillo",
-        "type": "NewsCard",
-        "title": "New loan and new contract for Castillo",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/06/new-loan-and-new-contract-for-castillo.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-06T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/06/new-loan-and-new-contract-for-castillo",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Juan Castillo",
-          "id": "editorial/news/2020/10/castillo_sept_2020",
-          "gravity": "auto",
-          "aspectRatio": 1.5021459,
-          "cropMode": "fill"
-        }
-      },
-      "content": "New loan and new contract for Castillo",
-      "publishDate": "2021-07-06T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/06/new-loan-and-new-contract-for-castillo.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Transfer",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_transfer"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2021-07-06T17:00:00.000Z",
-      "description": "Juan Castillo is embarking on his first loan in English football having previously had loan spells back in his homeland of the Netherlands."
     }
   ]
 }
