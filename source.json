@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210713jorginho-named-in-euro-2020-team",
+      "type": "NewsCard",
+      "timestamp": "2021-07-13T10:37:00.000Z",
+      "orderDate": "2021-07-13T10:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/13/jorginho-named-in-euro-2020-team-of-the-tournament",
+        "type": "NewsCard",
+        "title": "Jorginho named in Euro 2020 Team of the Tournament",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/13/jorginho-named-in-euro-2020-team-of-the-tournament.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-13T10:37:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/13/jorginho-named-in-euro-2020-team-of-the-tournament",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/07/12/Jorginho-Euro-2020-trophy",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jorginho named in Euro 2020 Team of the Tournament",
+      "publishDate": "2021-07-13T10:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/13/jorginho-named-in-euro-2020-team-of-the-tournament.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        }
+      ],
+      "date": "2021-07-13T10:37:00.000Z",
+      "description": "The accolades keep on coming for Jorginho, after the Chelsea midfielder was named in the UEFA Euro 2020 Team of the Tournament."
+    },
+    {
       "contentType": "Tickets",
       "id": "_content_chelseafcennews20210713ticket-information-for-the-mind-",
       "type": "NewsCard",
@@ -516,43 +559,6 @@
       ],
       "date": "2021-07-11T08:36:00.000Z",
       "description": "Mason Mount is hoping to use his recent success with Chelsea to help lead England to a first major title in 55 years."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210711england-s-steve-holland---his-ch",
-      "type": "NewsCard",
-      "timestamp": "2021-07-11T03:07:00.000Z",
-      "orderDate": "2021-07-11T03:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/11/england-s-steve-holland---his-chelsea-story",
-        "type": "NewsCard",
-        "title": "England’s Steve Holland – his Chelsea story",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/11/england-s-steve-holland---his-chelsea-story.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-11T03:07:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/11/england-s-steve-holland---his-chelsea-story",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Gareth Southgate and Steve Holland",
-          "id": "editorial/news/2021/07/10/gareth_southgate_steve_holland",
-          "gravity": "faces",
-          "aspectRatio": 1.4998146,
-          "cropMode": "fill"
-        }
-      },
-      "content": "England’s Steve Holland – his Chelsea story",
-      "publishDate": "2021-07-11T03:07:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/11/england-s-steve-holland---his-chelsea-story.html",
-      "readTimeInMins": 17,
-      "tags": [],
-      "date": "2021-07-11T03:07:00.000Z",
-      "description": "We look back at the assistant coach’s eight years working at Cobham and Stamford Bridge prior to his current role with the England team that has made the Euro 2020 final…"
     }
   ]
 }
