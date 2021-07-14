@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210714quiz--chelsea-at-euro-2020",
+      "type": "NewsCard",
+      "timestamp": "2021-07-14T11:31:00.000Z",
+      "orderDate": "2021-07-14T11:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/14/quiz--chelsea-at-euro-2020",
+        "type": "NewsCard",
+        "title": "Quiz: Chelsea at Euro 2020",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/14/quiz--chelsea-at-euro-2020.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-14T11:31:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/14/quiz--chelsea-at-euro-2020",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Jorginho and Mount",
+          "id": "chelsea-app/Mount--Jorginho=GettyImages-1328208937",
+          "gravity": "faces",
+          "aspectRatio": 1.5927051,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Chelsea at Euro 2020",
+      "publishDate": "2021-07-14T11:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/14/quiz--chelsea-at-euro-2020.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-07-14T11:31:00.000Z",
+      "description": "As the curtain comes down on a gripping European Championship finals, we have a quiz to test how closely you've been following those Chelsea players in action at the tournament..."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210714end-of-term-report--andreas-chri",
       "type": "NewsCard",
@@ -491,64 +539,6 @@
       ],
       "date": "2021-07-12T15:01:00.000Z",
       "description": "Thomas Tuchel’s Chelsea squad were boosted by the return to pre-season training of many senior players today, including Christian Pulisic, Hakim Ziyech and Edouard Mendy."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210712conquering-europe-twice---chelse",
-      "type": "NewsCard",
-      "timestamp": "2021-07-12T07:57:00.000Z",
-      "orderDate": "2021-07-12T07:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/12/conquering-europe-twice---chelsea-s-double-champions",
-        "type": "NewsCard",
-        "title": "Conquering Europe twice – Chelsea’s double champions",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/12/conquering-europe-twice---chelsea-s-double-champions.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-12T07:57:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/12/conquering-europe-twice---chelsea-s-double-champions",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Jorginho and Emerson",
-          "id": "editorial/news/2021/07/12/Jorginho-Emerson-Euro-2020-final",
-          "gravity": "north",
-          "aspectRatio": 1.3733333,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Conquering Europe twice – Chelsea’s double champions",
-      "publishDate": "2021-07-12T07:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/12/conquering-europe-twice---chelsea-s-double-champions.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
-        }
-      ],
-      "date": "2021-07-12T07:57:00.000Z",
-      "description": "Following Italy’s European Championship triumph at Wembley, a pair of Chelsea players have now joined an exclusive club of double continental champions…"
     }
   ]
 }
