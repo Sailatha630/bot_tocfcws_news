@@ -8,6 +8,53 @@
   },
   "newsFeed": [
     {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20210717-it-s-a-big-step-to-being-safe--",
+      "type": "NewsCard",
+      "timestamp": "2021-07-17T18:10:00.000Z",
+      "orderDate": "2021-07-17T18:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/17/-it-s-a-big-step-to-being-safe----tuchel-on-getting-his-covid-19",
+        "type": "NewsCard",
+        "title": "‘It’s a big step to being safe’ – Tuchel on getting his Covid-19 vaccine at Stamford Bridge",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/17/-it-s-a-big-step-to-being-safe----tuchel-on-getting-his-covid-19.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-17T18:10:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/07/17/-it-s-a-big-step-to-being-safe----tuchel-on-getting-his-covid-19",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/07/17/Tuchel-vaccination-Stamford-Bridge",
+          "gravity": "auto",
+          "aspectRatio": 1.4657778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "‘It’s a big step to being safe’ – Tuchel on getting his Covid-19 vaccine at Stamford Bridge",
+      "publishDate": "2021-07-17T18:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/17/-it-s-a-big-step-to-being-safe----tuchel-on-getting-his-covid-19.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Bruce Buck",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_other-people_bruce-buck"
+        }
+      ],
+      "date": "2021-07-17T18:10:00.000Z",
+      "description": "Stamford Bridge converted into a pop-up vaccination centre once again today and among those receiving a jab was Chelsea boss Thomas Tuchel, returning to familiar territory after the summer break."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210717chelsea-hit-six-in-opening-pre-s",
       "type": "NewsCard",
@@ -437,54 +484,6 @@
       ],
       "date": "2021-07-15T15:29:00.000Z",
       "description": "After a month-long, Europe-wide festival of football at Euro 2020, you may find yourself at a loose end without the beautiful game to keep you occupied. Fear not – here are 12 reasons for Blues fans to be cheerful!"
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210715tottenham-mind-series-pre-season",
-      "type": "NewsCard",
-      "timestamp": "2021-07-15T16:32:00.000Z",
-      "orderDate": "2021-07-15T11:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/15/tottenham-mind-series-pre-season-ticket-update-for-members",
-        "type": "NewsCard",
-        "title": "Tottenham Mind Series ticket update for members",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/15/tottenham-mind-series-pre-season-ticket-update-for-members.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-15T16:32:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/15/tottenham-mind-series-pre-season-ticket-update-for-members",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mind series",
-          "id": "editorial/news/2021/06/22/mind_series",
-          "gravity": "auto",
-          "aspectRatio": 1.8285714,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tottenham Mind Series ticket update for members",
-      "publishDate": "2021-07-15T16:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/15/tottenham-mind-series-pre-season-ticket-update-for-members.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-07-15T16:32:00.000Z",
-      "description": "The latest ticket news for our pre-season fixture against Tottenham in The Mind Series, with sales starting to members tomorrow (Friday)..."
     }
   ]
 }
