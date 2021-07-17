@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210717chelsea-hit-six-in-opening-pre-s",
+      "type": "NewsCard",
+      "timestamp": "2021-07-17T12:19:00.000Z",
+      "orderDate": "2021-07-17T12:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/17/chelsea-hit-six-in-opening-pre-season-friendly",
+        "type": "NewsCard",
+        "title": "Chelsea hit six in opening pre-season friendly",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/17/chelsea-hit-six-in-opening-pre-season-friendly.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-17T12:19:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/17/chelsea-hit-six-in-opening-pre-season-friendly",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Goal celebrations",
+          "id": "editorial/news/2021/07/17/Ziyech-celebration-Peterborough",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea hit six in opening pre-season friendly",
+      "publishDate": "2021-07-17T12:19:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/17/chelsea-hit-six-in-opening-pre-season-friendly.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-07-17T12:19:00.000Z",
+      "description": "Chelsea’s pre-season work stepped up a notch in the Cobham sunshine on Saturday morning as 22 players got their first minutes of the summer in a friendly against Peterborough United."
+    },
+    {
       "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20210717giroud-completes-italian-move",
       "type": "NewsCard",
@@ -442,49 +485,6 @@
       ],
       "date": "2021-07-15T08:25:00.000Z",
       "description": "For the next of our player-by-player season reviews, we look at Callum Hudson-Odoi's 2020/21 campaign in detail..."
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20210715covid-19-vaccine-appointments-av",
-      "type": "NewsCard",
-      "timestamp": "2021-07-15T08:30:00.000Z",
-      "orderDate": "2021-07-15T00:53:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/15/covid-19-vaccine-appointments-available-at-stamford-bridge-this-",
-        "type": "NewsCard",
-        "title": "Covid-19 vaccines available at Stamford Bridge this weekend",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/15/covid-19-vaccine-appointments-available-at-stamford-bridge-this-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-15T08:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/15/covid-19-vaccine-appointments-available-at-stamford-bridge-this-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge aerial view",
-          "id": "galleries/stamford-bridge-2020/Stamford_Bridge_View_2020_(7)",
-          "gravity": "center",
-          "aspectRatio": 1.5003175,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Covid-19 vaccines available at Stamford Bridge this weekend",
-      "publishDate": "2021-07-15T08:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/15/covid-19-vaccine-appointments-available-at-stamford-bridge-this-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        }
-      ],
-      "date": "2021-07-15T08:30:00.000Z",
-      "description": "UK adults awaiting a first dose of the Covid-19 vaccine, or those eligible for a second dose, can book a vaccination appointment at Stamford Bridge this Saturday 17 July."
     }
   ]
 }
