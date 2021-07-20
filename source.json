@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210720chelsea-travel-to-ireland",
+      "type": "NewsCard",
+      "timestamp": "2021-07-20T12:57:00.000Z",
+      "orderDate": "2021-07-20T12:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/20/chelsea-travel-to-ireland",
+        "type": "NewsCard",
+        "title": "Chelsea travel to Ireland",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/20/chelsea-travel-to-ireland.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-20T12:57:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/20/chelsea-travel-to-ireland",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chelsea team travelling",
+          "id": "editorial/news/2021/07/20/mendy-abraham-dublin-travel",
+          "gravity": "west",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea travel to Ireland",
+      "publishDate": "2021-07-20T12:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/20/chelsea-travel-to-ireland.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-07-20T12:57:00.000Z",
+      "description": "Pre-season training moved from Cobham to County Kildare today as the preparations for the 2021/22 campaign reached a new stage."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210720conor-gallagher-on-loan-lessons-",
       "type": "NewsCard",
@@ -441,43 +484,6 @@
       ],
       "date": "2021-07-19T13:43:00.000Z",
       "description": "Ticket selling details have been announced for our home Premier League match against Crystal Palace and our away pre-season match against Bournemouth."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210719trivago-to-offer-once-in-a-lifet",
-      "type": "NewsCard",
-      "timestamp": "2021-07-19T09:00:00.000Z",
-      "orderDate": "2021-07-19T00:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/19/trivago-to-offer-once-in-a-lifetime-experiences-to-lucky-raffle-",
-        "type": "NewsCard",
-        "title": "trivago to offer once-in-a-lifetime experiences to lucky raffle winners",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/19/trivago-to-offer-once-in-a-lifetime-experiences-to-lucky-raffle-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-19T09:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/19/trivago-to-offer-once-in-a-lifetime-experiences-to-lucky-raffle-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " trivago",
-          "id": "editorial/news/2021/07/15/trivago_competition_july_21_logos",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "trivago to offer once-in-a-lifetime experiences to lucky raffle winners",
-      "publishDate": "2021-07-19T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/19/trivago-to-offer-once-in-a-lifetime-experiences-to-lucky-raffle-.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-07-19T09:00:00.000Z",
-      "description": "Winners will win specially curated trips to London, with unparalleled access to Chelsea Football Club and Stamford Bridge…"
     }
   ]
 }
