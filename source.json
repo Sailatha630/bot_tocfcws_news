@@ -8,6 +8,43 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210723blundell-moves-on",
+      "type": "NewsCard",
+      "timestamp": "2021-07-23T10:00:00.000Z",
+      "orderDate": "2021-07-23T10:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/23/blundell-moves-on",
+        "type": "NewsCard",
+        "title": "Blundell moves on",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/23/blundell-moves-on.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-23T10:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/23/blundell-moves-on",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Hannah_Blundell_WestHam",
+          "gravity": "center",
+          "aspectRatio": 1.502679,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blundell moves on",
+      "publishDate": "2021-07-23T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/23/blundell-moves-on.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-07-23T10:00:00.000Z",
+      "description": "Chelsea FC Women defender Hannah Blundell has today completed a permanent move to Manchester United."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210723onso-on--demanding--training-gam",
       "type": "NewsCard",
@@ -430,59 +467,6 @@
       ],
       "date": "2021-07-22T10:13:00.000Z",
       "description": "Following alarming reports suggesting that antisemitism has significantly risen in the UK and across Europe over the past months, the Chelsea Foundation brought together several policy area experts on the subject for a breakfast seminar at Stamford Bridge to discuss the current state of antisemitism and share best practice in combatting it. The seminar was chaired by Chelsea FC Chairman Bruce Buck, who also gave an introduction to the Club’s campaign against antisemitism."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210722media-watch--chelsea-offered-haz",
-      "type": "NewsCard",
-      "timestamp": "2021-07-22T10:42:00.000Z",
-      "orderDate": "2021-07-21T23:42:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/22/media-watch--chelsea-offered-hazard-return--tuchel-impact-impres",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea offered Hazard return, Tuchel impact impresses Deco and Fabregas praises reported Chelsea target",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/22/media-watch--chelsea-offered-hazard-return--tuchel-impact-impres.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-22T10:42:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/22/media-watch--chelsea-offered-hazard-return--tuchel-impact-impres",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Hazard",
-          "id": "editorial/media-watch/MW-Hazard-220721",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea offered Hazard return, Tuchel impact impresses Deco and Fabregas praises reported Chelsea target",
-      "publishDate": "2021-07-22T10:42:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/22/media-watch--chelsea-offered-hazard-return--tuchel-impact-impres.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Cesc Fabregas",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesc-fabregas"
-        },
-        {
-          "title": "Eden Hazard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_eden-hazard"
-        }
-      ],
-      "date": "2021-07-22T10:42:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, Real Madrid reportedly offer Eden Hazard a return to Stamford Bridge and Deco praises the impact of Thomas Tuchel at the Blues so far."
     }
   ]
 }
