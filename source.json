@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210725thomas-tuchel-named-germany-mana",
+      "type": "NewsCard",
+      "timestamp": "2021-07-25T13:27:00.000Z",
+      "orderDate": "2021-07-25T13:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/25/thomas-tuchel-named-germany-manager-of-the-year",
+        "type": "NewsCard",
+        "title": "Thomas Tuchel named Germany Manager of the Year",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/25/thomas-tuchel-named-germany-manager-of-the-year.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-25T13:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/07/25/thomas-tuchel-named-germany-manager-of-the-year",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel with the UCL trophy",
+          "id": "galleries/champions-league-final-2021/tuchel_cl_trophy",
+          "gravity": "auto",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thomas Tuchel named Germany Manager of the Year",
+      "publishDate": "2021-07-25T13:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/25/thomas-tuchel-named-germany-manager-of-the-year.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-07-25T13:27:00.000Z",
+      "description": "Thomas Tuchel’s exploits in his first few months in charge of Chelsea have earned him the prestigious Germany Manager of the Year award from football magazine Kicker."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210724pulisic-wants-to-hit-the-ground-",
       "type": "NewsCard",
@@ -502,48 +550,6 @@
       ],
       "date": "2021-07-23T12:00:00.000Z",
       "description": "Chelsea Women are delighted to confirm the signing of young forward Lauren James on a four-year deal."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210723watch-chelsea-take-on-bournemout",
-      "type": "NewsCard",
-      "timestamp": "2021-07-23T11:12:00.000Z",
-      "orderDate": "2021-07-23T11:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/23/watch-chelsea-take-on-bournemouth-live-",
-        "type": "NewsCard",
-        "title": "Watch Chelsea take on Bournemouth live!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/23/watch-chelsea-take-on-bournemouth-live-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-23T11:12:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/23/watch-chelsea-take-on-bournemouth-live-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2019-20/bournemouth-away/bournemouth_stadium_view_inside",
-          "gravity": "auto",
-          "aspectRatio": 1.5001476,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Watch Chelsea take on Bournemouth live!",
-      "publishDate": "2021-07-23T11:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/23/watch-chelsea-take-on-bournemouth-live-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Pre Season",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_pre-season-tour"
-        }
-      ],
-      "date": "2021-07-23T11:12:00.000Z",
-      "description": "The Blues are back! Thomas Tuchel’s Chelsea return to action this Tuesday when we take on Bournemouth at the Vitality Stadium, with the game set to be shown live and for free on The 5th Stand app and the Chelsea website."
     }
   ]
 }
