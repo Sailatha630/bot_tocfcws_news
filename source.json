@@ -62,6 +62,54 @@
       "matchId": 2231891
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210727media-watch--chelsea-linked-to-k",
+      "type": "NewsCard",
+      "timestamp": "2021-07-27T08:44:00.000Z",
+      "orderDate": "2021-07-26T23:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/27/media-watch--chelsea-linked-to-kimpembe--terry-leaves-aston-vill",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked to Kimpembe, Terry leaves Aston Villa and Torres becomes youth team coach",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/media-watch--chelsea-linked-to-kimpembe--terry-leaves-aston-vill.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-27T08:44:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/27/media-watch--chelsea-linked-to-kimpembe--terry-leaves-aston-vill",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Kimpembe-mw-270721",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked to Kimpembe, Terry leaves Aston Villa and Torres becomes youth team coach",
+      "publishDate": "2021-07-27T08:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/media-watch--chelsea-linked-to-kimpembe--terry-leaves-aston-vill.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Fernando Torres",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_fernando-torres"
+        },
+        {
+          "title": "John Terry",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_john-terry"
+        }
+      ],
+      "date": "2021-07-27T08:44:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Presnel Kimpembe and John Terry leaves Aston Villa."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210726broja-on-stepping-up-and-the-imp",
       "type": "NewsCard",
@@ -466,54 +514,6 @@
       ],
       "date": "2021-07-26T10:03:00.000Z",
       "description": "Henry Lawrence has joined AFC Wimbledon on loan for the 2021/22 season."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210726development-squad-to-open-pl2-ca",
-      "type": "NewsCard",
-      "timestamp": "2021-07-26T14:00:00.000Z",
-      "orderDate": "2021-07-26T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/26/development-squad-to-open-pl2-campaign-with-london-derby",
-        "type": "NewsCard",
-        "title": "Development squad to open PL2 campaign with London derby",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/26/development-squad-to-open-pl2-campaign-with-london-derby.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-26T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/26/development-squad-to-open-pl2-campaign-with-london-derby",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " PL2 trophy",
-          "id": "editorial/news/2020/08/PL2-Trophy-Cobham-2",
-          "gravity": "center",
-          "aspectRatio": 1.502439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Development squad to open PL2 campaign with London derby",
-      "publishDate": "2021-07-26T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/26/development-squad-to-open-pl2-campaign-with-london-derby.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-07-26T14:00:00.000Z",
-      "description": "The Chelsea development squad's 2021/22 Premier League 2 fixtures have been announced, starting with an away tie against London rivals."
     }
   ]
 }
