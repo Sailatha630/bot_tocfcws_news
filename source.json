@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210726bournemouth-vs-chelsea-preview--",
+      "type": "NewsCard",
+      "timestamp": "2021-07-27T03:01:00.000Z",
+      "orderDate": "2021-07-27T03:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/26/bournemouth-vs-chelsea-preview--team-news--opposition-analysis-a",
+        "type": "NewsCard",
+        "title": "Bournemouth vs Chelsea preview: team news, opposition analysis and how to watch live",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/26/bournemouth-vs-chelsea-preview--team-news--opposition-analysis-a.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-27T03:01:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/07/26/bournemouth-vs-chelsea-preview--team-news--opposition-analysis-a",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Marcos Alonso",
+          "id": "editorial/news/2021/07/25/alonso-bournemouth-away-2020",
+          "gravity": "auto",
+          "aspectRatio": 1.5002035,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Bournemouth vs Chelsea preview: team news, opposition analysis and how to watch live",
+      "publishDate": "2021-07-27T03:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/26/bournemouth-vs-chelsea-preview--team-news--opposition-analysis-a.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Pre-match Brief",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_pre-match-brief"
+        },
+        {
+          "title": "5th Stand",
+          "namespace": "content-tag:",
+          "id": "content-tag_videos_5th-stand"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-07-27T03:01:00.000Z",
+      "description": "Chelsea’s pre-season campaign begins with a trip to the South Coast to take on Championship side Bournemouth, and here we look ahead to the game which can be viewed for free on The 5th Stand app and this website…",
+      "matchId": 2231891
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210726petr-cech-reveals-best-goalkeepe",
       "type": "NewsCard",
@@ -466,54 +520,6 @@
       ],
       "date": "2021-07-26T09:26:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Tony Cascarino believes the Blues will sign Erling Haaland this summer while Paul Merson looks at our season-defining start to the Premier League."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210725thomas-tuchel-named-germany-mana",
-      "type": "NewsCard",
-      "timestamp": "2021-07-25T13:27:00.000Z",
-      "orderDate": "2021-07-25T13:27:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/25/thomas-tuchel-named-germany-manager-of-the-year",
-        "type": "NewsCard",
-        "title": "Thomas Tuchel named Germany Manager of the Year",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/25/thomas-tuchel-named-germany-manager-of-the-year.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-25T13:27:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/25/thomas-tuchel-named-germany-manager-of-the-year",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel with the UCL trophy",
-          "id": "galleries/champions-league-final-2021/tuchel_cl_trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Thomas Tuchel named Germany Manager of the Year",
-      "publishDate": "2021-07-25T13:27:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/25/thomas-tuchel-named-germany-manager-of-the-year.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-07-25T13:27:00.000Z",
-      "description": "Thomas Tuchel’s exploits in his first few months in charge of Chelsea have earned him the prestigious Germany Manager of the Year award from football magazine Kicker."
     }
   ]
 }
