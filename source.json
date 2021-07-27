@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210727chelsea-s-line-up-vs-bournemouth",
+      "type": "NewsCard",
+      "timestamp": "2021-07-27T17:44:00.000Z",
+      "orderDate": "2021-07-27T17:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/27/chelsea-s-line-up-vs-bournemouth",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Bournemouth",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/chelsea-s-line-up-vs-bournemouth.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-27T17:44:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/27/chelsea-s-line-up-vs-bournemouth",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Bournemouth",
+          "id": "editorial/news/2021/07/27/vitality_stadium_view_inside",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Bournemouth",
+      "publishDate": "2021-07-27T17:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/chelsea-s-line-up-vs-bournemouth.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Pre Season",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_pre-season-tour"
+        }
+      ],
+      "date": "2021-07-27T17:44:00.000Z",
+      "description": "Tammy Abraham will lead the attack for tonight’s pre-season match on the South Coast and there are starts too for Hakim Ziyech, Christian Pulisic and Callum Hudson-Odoi.",
+      "matchId": 2231891
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210727ashley-cole-to-assist-england-un",
       "type": "NewsCard",
@@ -419,54 +468,6 @@
       ],
       "date": "2021-07-27T12:11:00.000Z",
       "description": "There are still a few days left for season-ticket holders and members to take advantage of the special offer to have their photo taken with our two Champions League trophies at Stamford Bridge."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210727media-watch--chelsea-linked-to-k",
-      "type": "NewsCard",
-      "timestamp": "2021-07-27T08:44:00.000Z",
-      "orderDate": "2021-07-26T23:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/27/media-watch--chelsea-linked-to-kimpembe--terry-leaves-aston-vill",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea linked to Kimpembe, Terry leaves Aston Villa and Torres becomes youth team coach",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/media-watch--chelsea-linked-to-kimpembe--terry-leaves-aston-vill.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-27T08:44:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/27/media-watch--chelsea-linked-to-kimpembe--terry-leaves-aston-vill",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Kimpembe-mw-270721",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea linked to Kimpembe, Terry leaves Aston Villa and Torres becomes youth team coach",
-      "publishDate": "2021-07-27T08:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/media-watch--chelsea-linked-to-kimpembe--terry-leaves-aston-vill.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Fernando Torres",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_fernando-torres"
-        },
-        {
-          "title": "John Terry",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-terry"
-        }
-      ],
-      "date": "2021-07-27T08:44:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Presnel Kimpembe and John Terry leaves Aston Villa."
     }
   ]
 }
