@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210727match-report--bournemouth-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2021-07-27T20:19:00.000Z",
+      "orderDate": "2021-07-27T20:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/27/match-report--bournemouth-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Bournemouth 1 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/match-report--bournemouth-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-27T20:19:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/27/match-report--bournemouth-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/bournemouth-pre-season/bournemouth_pre-season_1",
+          "gravity": "auto",
+          "aspectRatio": 1.4314908,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Bournemouth 1 Chelsea 2",
+      "publishDate": "2021-07-27T20:19:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/match-report--bournemouth-vs-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Pre Season",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_pre-season-tour"
+        }
+      ],
+      "date": "2021-07-27T20:19:00.000Z",
+      "description": "The Blues came from behind to win an entertaining Tuesday evening pre-season encounter on the Dorset coast.",
+      "matchId": 2231891
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210727chelsea-s-line-up-vs-bournemouth",
       "type": "NewsCard",
@@ -420,54 +469,6 @@
       ],
       "date": "2021-07-27T06:35:00.000Z",
       "description": "Armando Broja has been discussing his first experience of senior football on loan last season and explaining how it helped him develop as a player and a person."
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20210727last-chance-for-free-photo-with-",
-      "type": "NewsCard",
-      "timestamp": "2021-07-27T12:11:00.000Z",
-      "orderDate": "2021-07-27T00:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/27/last-chance-for-free-photo-with-our-champions-league-trophies",
-        "type": "NewsCard",
-        "title": "Last chance for free photo with our Champions League trophies",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/last-chance-for-free-photo-with-our-champions-league-trophies.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-27T12:11:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/27/last-chance-for-free-photo-with-our-champions-league-trophies",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "European trophies",
-          "id": "editorial/news/2021/07/27/Champions_League_Trophies_Museum",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Last chance for free photo with our Champions League trophies",
-      "publishDate": "2021-07-27T12:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/27/last-chance-for-free-photo-with-our-champions-league-trophies.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-07-27T12:11:00.000Z",
-      "description": "There are still a few days left for season-ticket holders and members to take advantage of the special offer to have their photo taken with our two Champions League trophies at Stamford Bridge."
     }
   ]
 }
