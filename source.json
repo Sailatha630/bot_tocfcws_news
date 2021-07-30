@@ -9,6 +9,54 @@
   "newsFeed": [
     {
       "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210730gallagher-departs-on-loan",
+      "type": "NewsCard",
+      "timestamp": "2021-07-30T17:30:00.000Z",
+      "orderDate": "2021-07-30T17:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/30/gallagher-departs-on-loan",
+        "type": "NewsCard",
+        "title": "Gallagher departs on loan",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/30/gallagher-departs-on-loan.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-30T17:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/07/30/gallagher-departs-on-loan",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Gallagher",
+          "id": "editorial/news/2021/07/30/Gallagher-Bournemouth-stock",
+          "gravity": "face",
+          "aspectRatio": 1.2446941,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallagher departs on loan",
+      "publishDate": "2021-07-30T17:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/30/gallagher-departs-on-loan.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-07-30T17:30:00.000Z",
+      "description": "Conor Gallagher has completed a move to Crystal Palace that will see him spend the 2021/22 campaign on loan at Selhurst Park."
+    },
+    {
+      "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20210730maatsen-heads-on-loan-to-the-cha",
       "type": "NewsCard",
       "timestamp": "2021-07-30T12:57:00.000Z",
@@ -468,48 +516,6 @@
       ],
       "date": "2021-07-29T19:20:00.000Z",
       "description": "The hard work continues for Chelsea, with the focus turning to our next pre-season fixture against Arsenal in the Mind Series."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210729watch-the-mind-series-live-on-th",
-      "type": "NewsCard",
-      "timestamp": "2021-07-29T17:00:00.000Z",
-      "orderDate": "2021-07-29T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/29/watch-the-mind-series-live-on-the-5th-stand-",
-        "type": "NewsCard",
-        "title": "Watch The Mind Series LIVE on The 5th Stand and chelseafc.com!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/29/watch-the-mind-series-live-on-the-5th-stand-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-29T17:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/29/watch-the-mind-series-live-on-the-5th-stand-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "video/2021/05/05/GettyImages-1316481909",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Watch The Mind Series LIVE on The 5th Stand and chelseafc.com!",
-      "publishDate": "2021-07-29T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/29/watch-the-mind-series-live-on-the-5th-stand-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-07-29T17:00:00.000Z",
-      "description": "Thomas Tuchel’s Blues face a double-header of London derbies against Arsenal and Tottenham as part of The Mind Series as our pre-season preparations continue this August."
     }
   ]
 }
