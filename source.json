@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210731chelsea-s-month-ahead--what-to-l",
+      "type": "NewsCard",
+      "timestamp": "2021-07-31T13:15:00.000Z",
+      "orderDate": "2021-07-31T13:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/07/31/chelsea-s-month-ahead--what-to-look-forward-to-in-august",
+        "type": "NewsCard",
+        "title": "Chelsea’s month ahead: what to look forward to in August",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/31/chelsea-s-month-ahead--what-to-look-forward-to-in-august.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-07-31T13:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/07/31/chelsea-s-month-ahead--what-to-look-forward-to-in-august",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge opening day 2016",
+          "id": "editorial/news/2018/6/opening_day_2016-589924106",
+          "gravity": "auto",
+          "aspectRatio": 1.4983382,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea’s month ahead: what to look forward to in August",
+      "publishDate": "2021-07-31T13:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/31/chelsea-s-month-ahead--what-to-look-forward-to-in-august.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-07-31T13:15:00.000Z",
+      "description": "The return of competitive football, the return of fans, the return of the European Champions. August promises to be an exciting month, and here we round up everything that is happening in the world of Chelsea over the next 31 days…"
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210801arsenal-vs-chelsea-preview--team",
       "type": "NewsCard",
@@ -453,59 +506,6 @@
       ],
       "date": "2021-07-30T16:19:00.000Z",
       "description": "We can confirm that Chelsea Football Club’s allocation of tickets for the UEFA Super Cup match against Villarreal in Belfast on Wednesday 11 August will be 2000 seats."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210730hudson-odoi-excited-for-full-sta",
-      "type": "NewsCard",
-      "timestamp": "2021-07-30T03:00:00.000Z",
-      "orderDate": "2021-07-30T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/30/hudson-odoi-excited-for-full-stamford-bridge",
-        "type": "NewsCard",
-        "title": "Hudson-Odoi excited for full Stamford Bridge",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/30/hudson-odoi-excited-for-full-stamford-bridge.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-30T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/30/hudson-odoi-excited-for-full-stamford-bridge",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hudson-Odoi",
-          "id": "editorial/news/2021/07/27/Hudson-Odoi_DTW_1833",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hudson-Odoi excited for full Stamford Bridge",
-      "publishDate": "2021-07-30T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/30/hudson-odoi-excited-for-full-stamford-bridge.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        }
-      ],
-      "date": "2021-07-30T03:00:00.000Z",
-      "description": "After seeing the atmosphere at Wembley as large crowds returned to football in England during the latter stages of Euro 2020, Callum Hudson-Odoi explained in a special interview on The 5th Stand app why he can’t wait to walk out in front of the Chelsea fans at a packed Stamford Bridge again."
     }
   ]
 }
