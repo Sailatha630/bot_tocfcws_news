@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210801match-report--arsenal-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-08-01T16:00:00.000Z",
+      "orderDate": "2021-08-01T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/01/match-report--arsenal-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Arsenal 1 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/01/match-report--arsenal-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-01T16:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/01/match-report--arsenal-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kai Havertz",
+          "id": "editorial/match-reports/2021-22/arsenal-pre-season/havertz-celebration-arsenal-away",
+          "gravity": "auto",
+          "aspectRatio": 1.4724357,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Arsenal 1 Chelsea 2",
+      "publishDate": "2021-08-01T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/01/match-report--arsenal-vs-chelsea.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2021-08-01T16:00:00.000Z",
+      "description": "Chelsea registered an impressive pre-season victory at Arsenal this afternoon courtesy of goals from Kai Havertz and Tammy Abraham.",
+      "matchId": 2215187
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210801chelsea-line-up-vs-arsenal",
       "type": "NewsCard",
@@ -430,43 +479,6 @@
       ],
       "date": "2021-07-31T13:15:00.000Z",
       "description": "The return of competitive football, the return of fans, the return of the European Champions. August promises to be an exciting month, and here we round up everything that is happening in the world of Chelsea over the next 31 days…"
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210730a-different-ball-game--len-casey",
-      "type": "NewsCard",
-      "timestamp": "2021-07-31T10:45:00.000Z",
-      "orderDate": "2021-07-31T01:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/30/a-different-ball-game--len-casey-s-chelsea-memories",
-        "type": "NewsCard",
-        "title": "A different ball game: Len Casey’s Chelsea memories",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/30/a-different-ball-game--len-casey-s-chelsea-memories.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-31T10:45:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/07/30/a-different-ball-game--len-casey-s-chelsea-memories",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Len Casey",
-          "id": "editorial/news/2021/07/26/len-casey-1950s",
-          "gravity": "auto",
-          "aspectRatio": 1.2765399,
-          "cropMode": "fill"
-        }
-      },
-      "content": "A different ball game: Len Casey’s Chelsea memories",
-      "publishDate": "2021-07-31T10:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/30/a-different-ball-game--len-casey-s-chelsea-memories.html",
-      "readTimeInMins": 24,
-      "tags": [],
-      "date": "2021-07-31T10:45:00.000Z",
-      "description": "Len Casey, believed to be our second-oldest living player, recently turned 90. In this long read, he looks back with fondness at his Chelsea career, which began in the 1950s with the promise of a new suit. He recalls some of the many moments that made his time at Stamford Bridge so special, even if he did miss out on celebrating a famous triumph…"
     }
   ]
 }
