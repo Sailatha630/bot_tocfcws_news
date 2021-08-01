@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210801chelsea-line-up-vs-arsenal",
+      "type": "NewsCard",
+      "timestamp": "2021-08-01T13:00:00.000Z",
+      "orderDate": "2021-08-01T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/01/chelsea-line-up-vs-arsenal",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Arsenal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/01/chelsea-line-up-vs-arsenal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-01T13:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/01/chelsea-line-up-vs-arsenal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Emirates",
+          "id": "editorial/match-reports/2021-22/arsenal-pre-season/emirates-arsenal-tunnel-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5023365,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Arsenal",
+      "publishDate": "2021-08-01T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/01/chelsea-line-up-vs-arsenal.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2021-08-01T13:00:00.000Z",
+      "description": "Kai Havertz, Timo Werner, Kurt Zouma, Mateo Kovacic and Toni Rudiger all start for Chelsea today.",
+      "matchId": 2215187
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210801pulisic-on-his-season-aims-to-st",
       "type": "NewsCard",
@@ -423,59 +472,6 @@
       ],
       "date": "2021-07-30T17:30:00.000Z",
       "description": "Conor Gallagher has completed a move to Crystal Palace that will see him spend the 2021/22 campaign on loan at Selhurst Park."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210730gallery--duo-return-to-cobham",
-      "type": "NewsCard",
-      "timestamp": "2021-07-30T17:45:00.000Z",
-      "orderDate": "2021-07-30T17:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/30/gallery--duo-return-to-cobham",
-        "type": "NewsCard",
-        "title": "Gallery: Duo return to Cobham",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/30/gallery--duo-return-to-cobham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-30T17:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/07/30/gallery--duo-return-to-cobham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Azpilicueta and Christensen",
-          "id": "editorial/news/2021/07/30/Azpilicueta-Christensen-training-return",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Duo return to Cobham",
-      "publishDate": "2021-07-30T17:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/30/gallery--duo-return-to-cobham.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-07-30T17:45:00.000Z",
-      "description": "Two more familiar faces rejoined the group at Cobham on Friday..."
     }
   ]
 }
