@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210802upbeat-tuchel-assesses--a-good-t",
+      "type": "NewsCard",
+      "timestamp": "2021-08-02T03:00:00.000Z",
+      "orderDate": "2021-08-02T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/02/upbeat-tuchel-assesses--a-good-test--against-arsenal-and-reveals",
+        "type": "NewsCard",
+        "title": "Upbeat Tuchel assesses ‘a good test’ against Arsenal and reveals plans for the days ahead",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/upbeat-tuchel-assesses--a-good-test--against-arsenal-and-reveals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-02T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/02/upbeat-tuchel-assesses--a-good-test--against-arsenal-and-reveals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/08/02/GettyImages-1331806443",
+          "gravity": "auto",
+          "aspectRatio": 1.5007504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Upbeat Tuchel assesses ‘a good test’ against Arsenal and reveals plans for the days ahead",
+      "publishDate": "2021-08-02T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/upbeat-tuchel-assesses--a-good-test--against-arsenal-and-reveals.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-02T03:00:00.000Z",
+      "description": "Thomas Tuchel had plenty of reasons to be cheerful following our latest pre-season exercise, a 2-1 victory over Arsenal that saw a number of players involved for the first time this summer.",
+      "matchId": 2215187
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210801match-report--arsenal-vs-chelsea",
       "type": "NewsCard",
@@ -426,59 +475,6 @@
       ],
       "date": "2021-07-29T17:00:00.000Z",
       "description": "Thomas Tuchel’s Blues face a double-header of London derbies against Arsenal and Tottenham as part of The Mind Series as our pre-season preparations continue this August."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210731chelsea-s-month-ahead--what-to-l",
-      "type": "NewsCard",
-      "timestamp": "2021-07-31T13:15:00.000Z",
-      "orderDate": "2021-07-31T13:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/31/chelsea-s-month-ahead--what-to-look-forward-to-in-august",
-        "type": "NewsCard",
-        "title": "Chelsea’s month ahead: what to look forward to in August",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/31/chelsea-s-month-ahead--what-to-look-forward-to-in-august.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-31T13:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/31/chelsea-s-month-ahead--what-to-look-forward-to-in-august",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge opening day 2016",
-          "id": "editorial/news/2018/6/opening_day_2016-589924106",
-          "gravity": "auto",
-          "aspectRatio": 1.4983382,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea’s month ahead: what to look forward to in August",
-      "publishDate": "2021-07-31T13:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/31/chelsea-s-month-ahead--what-to-look-forward-to-in-august.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-07-31T13:15:00.000Z",
-      "description": "The return of competitive football, the return of fans, the return of the European Champions. August promises to be an exciting month, and here we round up everything that is happening in the world of Chelsea over the next 31 days…"
     }
   ]
 }
