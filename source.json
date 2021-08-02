@@ -105,6 +105,54 @@
       "description": "Chelsea Football Club is delighted that we will be able to host games at Stamford Bridge at full capacity for the upcoming 2021/22 season."
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210802super-cup-ticket-news",
+      "type": "NewsCard",
+      "timestamp": "2021-08-02T15:00:00.000Z",
+      "orderDate": "2021-08-02T11:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/02/super-cup-ticket-news",
+        "type": "NewsCard",
+        "title": "Super Cup ticket news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/super-cup-ticket-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-02T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/02/super-cup-ticket-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Windsor Park",
+          "id": "editorial/news/2021/08/02/windsor-park-belfast-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Super Cup ticket news",
+      "publishDate": "2021-08-02T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/super-cup-ticket-news.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-08-02T15:00:00.000Z",
+      "description": "Ticket details for the Super Cup against Villarreal in Belfast have been confirmed."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210802important-travel-and-bag-size-up",
       "type": "NewsCard",
@@ -438,55 +486,6 @@
       ],
       "date": "2021-08-01T03:00:00.000Z",
       "description": "Christian Pulisic believes Chelsea’s new status as European champions gives the team added self-belief heading into a season in which the American believes the Blues can compete for even more silverware.",
-      "matchId": 2215187
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210801arsenal-vs-chelsea-preview--team",
-      "type": "NewsCard",
-      "timestamp": "2021-07-31T06:46:00.000Z",
-      "orderDate": "2021-07-31T23:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/01/arsenal-vs-chelsea-preview--team-news--opposition-analysis-and-h",
-        "type": "NewsCard",
-        "title": "Buy today’s live stream of Arsenal vs Chelsea in advance",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/01/arsenal-vs-chelsea-preview--team-news--opposition-analysis-and-h.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-31T06:46:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/01/arsenal-vs-chelsea-preview--team-news--opposition-analysis-and-h",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Callum Hudson-Odoi",
-          "id": "editorial/news/2020/12/Hudson-Odoi_GettyImages-1293203675",
-          "gravity": "auto",
-          "aspectRatio": 1.5779527,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Buy today’s live stream of Arsenal vs Chelsea in advance",
-      "publishDate": "2021-07-31T06:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/01/arsenal-vs-chelsea-preview--team-news--opposition-analysis-and-h.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2021-07-31T06:46:00.000Z",
-      "description": "Our second fixture of pre-season takes us to north London for the opening game of The Mind Series. Here we look forward to it and explain how you can catch all the action from the Emirates…",
       "matchId": 2215187
     }
   ]
