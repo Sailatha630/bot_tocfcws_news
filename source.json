@@ -57,6 +57,54 @@
       "matchId": 2215187
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210802media-watch--blues-eyeing-odegaa",
+      "type": "NewsCard",
+      "timestamp": "2021-08-02T08:59:00.000Z",
+      "orderDate": "2021-08-01T23:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/02/media-watch--blues-eyeing-odegaard--shevchenko-leaves-ukraine-na",
+        "type": "NewsCard",
+        "title": "Media Watch: Blues eyeing Odegaard, Shevchenko leaves Ukraine national team and Conte to begin punditry",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/media-watch--blues-eyeing-odegaard--shevchenko-leaves-ukraine-na.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-02T08:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/02/media-watch--blues-eyeing-odegaard--shevchenko-leaves-ukraine-na",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Odegaard-mw-020821",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Blues eyeing Odegaard, Shevchenko leaves Ukraine national team and Conte to begin punditry",
+      "publishDate": "2021-08-02T08:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/media-watch--blues-eyeing-odegaard--shevchenko-leaves-ukraine-na.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Andriy Shevchenko",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_andriy-shevchenko"
+        },
+        {
+          "title": "Antonio Conte",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_antonio-conte"
+        }
+      ],
+      "date": "2021-08-02T08:59:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Martin Odegaard and Andriy Shevchenko leaves the Ukraine national team."
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210801match-report--arsenal-vs-chelsea",
       "type": "NewsCard",
@@ -433,48 +481,6 @@
       ],
       "date": "2021-07-31T17:45:00.000Z",
       "description": "Our development squad continued their pre-season preparations with a thrilling friendly at non-league Woking on Saturday afternoon."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210729watch-the-mind-series-live-on-th",
-      "type": "NewsCard",
-      "timestamp": "2021-07-29T17:00:00.000Z",
-      "orderDate": "2021-07-31T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/07/29/watch-the-mind-series-live-on-the-5th-stand-",
-        "type": "NewsCard",
-        "title": "Watch The Mind Series LIVE on The 5th Stand and chelseafc.com!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/29/watch-the-mind-series-live-on-the-5th-stand-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-07-29T17:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/07/29/watch-the-mind-series-live-on-the-5th-stand-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "video/2021/05/05/GettyImages-1316481909",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Watch The Mind Series LIVE on The 5th Stand and chelseafc.com!",
-      "publishDate": "2021-07-29T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/07/29/watch-the-mind-series-live-on-the-5th-stand-.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-07-29T17:00:00.000Z",
-      "description": "Thomas Tuchel’s Blues face a double-header of London derbies against Arsenal and Tottenham as part of The Mind Series as our pre-season preparations continue this August."
     }
   ]
 }
