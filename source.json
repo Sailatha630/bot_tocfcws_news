@@ -116,6 +116,55 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210803media-watch--blues-linked-with-l",
+      "type": "NewsCard",
+      "timestamp": "2021-08-03T09:43:00.000Z",
+      "orderDate": "2021-08-03T00:43:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/03/media-watch--blues-linked-with-lukaku--cahill-leaves-crystal-pal",
+        "type": "NewsCard",
+        "title": "Media Watch: Blues linked with Lukaku, Cahill leaves Crystal Palace and Arteta labels Chelsea as the best team in Europe",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/03/media-watch--blues-linked-with-lukaku--cahill-leaves-crystal-pal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-03T09:43:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/03/media-watch--blues-linked-with-lukaku--cahill-leaves-crystal-pal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lukaku",
+          "id": "editorial/media-watch/Lukaku-mw-290421",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Media Watch: Blues linked with Lukaku, Cahill leaves Crystal Palace and Arteta labels Chelsea as the best team in Europe",
+      "publishDate": "2021-08-03T09:43:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/03/media-watch--blues-linked-with-lukaku--cahill-leaves-crystal-pal.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_romelu-lukaku"
+        },
+        {
+          "title": "Gary Cahill",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_gary-cahill"
+        }
+      ],
+      "date": "2021-08-03T09:43:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Romelu Lukaku and Gary Cahill leaves Crystal Palace after two seasons."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210802watch-chelsea-vs-tottenham-live-",
       "type": "NewsCard",
       "timestamp": "2021-08-02T16:37:00.000Z",
@@ -148,7 +197,8 @@
       "readTimeInMins": 10,
       "tags": [],
       "date": "2021-08-02T16:37:00.000Z",
-      "description": "Chelsea are back in action this Wednesday against Tottenham at 7:45pm for the second of The Mind Series matches and you can watch the game live via our app and website!"
+      "description": "Chelsea are back in action this Wednesday against Tottenham at 7:45pm for the second of The Mind Series matches and you can watch the game live via our app and website!",
+      "matchId": 2215189
     },
     {
       "contentType": "News",
@@ -454,55 +504,6 @@
       ],
       "date": "2021-08-02T15:00:00.000Z",
       "description": "Ticket details for the Super Cup against Villarreal in Belfast have been confirmed."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210802upbeat-tuchel-assesses--a-good-t",
-      "type": "NewsCard",
-      "timestamp": "2021-08-02T03:00:00.000Z",
-      "orderDate": "2021-08-02T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/02/upbeat-tuchel-assesses--a-good-test--against-arsenal-and-reveals",
-        "type": "NewsCard",
-        "title": "Upbeat Tuchel assesses ‘a good test’ against Arsenal and reveals plans for the days ahead",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/upbeat-tuchel-assesses--a-good-test--against-arsenal-and-reveals.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-02T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/02/upbeat-tuchel-assesses--a-good-test--against-arsenal-and-reveals",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2021/08/02/GettyImages-1331806443",
-          "gravity": "auto",
-          "aspectRatio": 1.5007504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Upbeat Tuchel assesses ‘a good test’ against Arsenal and reveals plans for the days ahead",
-      "publishDate": "2021-08-02T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/upbeat-tuchel-assesses--a-good-test--against-arsenal-and-reveals.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-08-02T03:00:00.000Z",
-      "description": "Thomas Tuchel had plenty of reasons to be cheerful following our latest pre-season exercise, a 2-1 victory over Arsenal that saw a number of players involved for the first time this summer.",
-      "matchId": 2215187
     }
   ]
 }
