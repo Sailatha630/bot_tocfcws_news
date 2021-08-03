@@ -68,6 +68,42 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210802watch-chelsea-vs-tottenham-live-",
+      "type": "NewsCard",
+      "timestamp": "2021-08-02T16:37:00.000Z",
+      "orderDate": "2021-08-02T16:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/02/watch-chelsea-vs-tottenham-live-",
+        "type": "NewsCard",
+        "title": "Watch Chelsea vs Tottenham live!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/watch-chelsea-vs-tottenham-live-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-02T16:37:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/02/watch-chelsea-vs-tottenham-live-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2020-21/arsenal-home/stadium_home_arsenal",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Watch Chelsea vs Tottenham live!",
+      "publishDate": "2021-08-02T16:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/watch-chelsea-vs-tottenham-live-.html",
+      "readTimeInMins": 10,
+      "tags": [],
+      "date": "2021-08-02T16:37:00.000Z",
+      "description": "Chelsea are back in action this Wednesday against Tottenham at 7:45pm for the second of The Mind Series matches and you can watch the game live via our app and website!"
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210802boost-as-more-players-return-to-",
       "type": "NewsCard",
       "timestamp": "2021-08-02T15:14:00.000Z",
@@ -467,55 +503,6 @@
       ],
       "date": "2021-08-02T08:59:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Martin Odegaard and Andriy Shevchenko leaves the Ukraine national team."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210801match-report--arsenal-vs-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-08-01T16:00:00.000Z",
-      "orderDate": "2021-08-01T16:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/01/match-report--arsenal-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match Report: Arsenal 1 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/01/match-report--arsenal-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-01T16:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/01/match-report--arsenal-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kai Havertz",
-          "id": "editorial/match-reports/2021-22/arsenal-pre-season/havertz-celebration-arsenal-away",
-          "gravity": "auto",
-          "aspectRatio": 1.4724357,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Arsenal 1 Chelsea 2",
-      "publishDate": "2021-08-01T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/01/match-report--arsenal-vs-chelsea.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2021-08-01T16:00:00.000Z",
-      "description": "Chelsea registered an impressive pre-season victory at Arsenal this afternoon courtesy of goals from Kai Havertz and Tammy Abraham.",
-      "matchId": 2215187
     }
   ]
 }
