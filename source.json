@@ -165,6 +165,55 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210802important-travel-and-bag-size-up",
+      "type": "NewsCard",
+      "timestamp": "2021-08-03T12:35:00.000Z",
+      "orderDate": "2021-08-02T23:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/02/important-travel-and-bag-size-update-for-tottenham-game",
+        "type": "NewsCard",
+        "title": "Important travel and bag size update for Tottenham game: Fulham Broadway Station closed post-match",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/important-travel-and-bag-size-update-for-tottenham-game.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-03T12:35:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/02/important-travel-and-bag-size-update-for-tottenham-game",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "fulham broadway",
+          "id": "site-sections/landing-pages/2019/tube-broadway",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Important travel and bag size update for Tottenham game: Fulham Broadway Station closed post-match",
+      "publishDate": "2021-08-03T12:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/important-travel-and-bag-size-update-for-tottenham-game.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Stamford Bridge",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_stamford-bridge"
+        },
+        {
+          "title": "Travel News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_travel-news"
+        }
+      ],
+      "date": "2021-08-03T12:35:00.000Z",
+      "description": "Supporters attending The Mind Series fixture against Tottenham at Stamford Bridge on Wednesday should take note of the following information regarding London Underground line and station closures and stadium bag size restrictions.",
+      "matchId": 2215189
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210802watch-chelsea-vs-tottenham-live-",
       "type": "NewsCard",
       "timestamp": "2021-08-02T16:37:00.000Z",
@@ -456,54 +505,6 @@
       ],
       "date": "2021-08-02T15:02:00.000Z",
       "description": "Jessie Fleming scored the winner to send Canada into the Tokyo 2020 Olympic final, where she will come up against her Swedish Chelsea team-mates Magdalena Eriksson, Jonna Andersson and Zecira Musovic after they defeated Australia."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210802super-cup-ticket-news",
-      "type": "NewsCard",
-      "timestamp": "2021-08-02T15:00:00.000Z",
-      "orderDate": "2021-08-02T11:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/02/super-cup-ticket-news",
-        "type": "NewsCard",
-        "title": "Super Cup ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/super-cup-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-02T15:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/02/super-cup-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Windsor Park",
-          "id": "editorial/news/2021/08/02/windsor-park-belfast-view",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Super Cup ticket news",
-      "publishDate": "2021-08-02T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/super-cup-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-08-02T15:00:00.000Z",
-      "description": "Ticket details for the Super Cup against Villarreal in Belfast have been confirmed."
     }
   ]
 }
