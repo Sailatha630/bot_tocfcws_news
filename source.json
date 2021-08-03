@@ -67,6 +67,54 @@
       "matchId": 2215187
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210803last-chance-to-buy-tickets-for-t",
+      "type": "NewsCard",
+      "timestamp": "2021-08-03T08:57:00.000Z",
+      "orderDate": "2021-08-03T03:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/03/last-chance-to-buy-tickets-for-tottenham",
+        "type": "NewsCard",
+        "title": "Last chance to buy tickets for Tottenham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/03/last-chance-to-buy-tickets-for-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-03T08:57:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/03/last-chance-to-buy-tickets-for-tottenham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Fans celebrating",
+          "id": "editorial/news/2021/05/22/Pulisic_GettyImages-1318711395",
+          "gravity": "auto",
+          "aspectRatio": 1.5079689,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Last chance to buy tickets for Tottenham",
+      "publishDate": "2021-08-03T08:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/03/last-chance-to-buy-tickets-for-tottenham.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-08-03T08:57:00.000Z",
+      "description": "Season ticket holders and members can buy tickets to tomorrow's Mind Series fixture against Tottenham at Stamford Bridge until 5pm today (Tuesday 3 August)."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210802watch-chelsea-vs-tottenham-live-",
       "type": "NewsCard",
@@ -455,54 +503,6 @@
       "date": "2021-08-02T03:00:00.000Z",
       "description": "Thomas Tuchel had plenty of reasons to be cheerful following our latest pre-season exercise, a 2-1 victory over Arsenal that saw a number of players involved for the first time this summer.",
       "matchId": 2215187
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210802media-watch--blues-eyeing-odegaa",
-      "type": "NewsCard",
-      "timestamp": "2021-08-02T08:59:00.000Z",
-      "orderDate": "2021-08-01T23:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/02/media-watch--blues-eyeing-odegaard--shevchenko-leaves-ukraine-na",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues eyeing Odegaard, Shevchenko leaves Ukraine national team and Conte to begin punditry",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/media-watch--blues-eyeing-odegaard--shevchenko-leaves-ukraine-na.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-02T08:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/02/media-watch--blues-eyeing-odegaard--shevchenko-leaves-ukraine-na",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Odegaard-mw-020821",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues eyeing Odegaard, Shevchenko leaves Ukraine national team and Conte to begin punditry",
-      "publishDate": "2021-08-02T08:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/media-watch--blues-eyeing-odegaard--shevchenko-leaves-ukraine-na.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Andriy Shevchenko",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_andriy-shevchenko"
-        },
-        {
-          "title": "Antonio Conte",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_antonio-conte"
-        }
-      ],
-      "date": "2021-08-02T08:59:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Martin Odegaard and Andriy Shevchenko leaves the Ukraine national team."
     }
   ]
 }
