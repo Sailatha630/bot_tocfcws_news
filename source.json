@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210804match-report--chelsea-v-tottenha",
+      "type": "NewsCard",
+      "timestamp": "2021-08-04T18:38:00.000Z",
+      "orderDate": "2021-08-04T18:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/04/match-report--chelsea-v-tottenham",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 2 Tottenham 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/04/match-report--chelsea-v-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-04T18:38:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/04/match-report--chelsea-v-tottenham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ziyech",
+          "id": "editorial/match-reports/2021-22/tottenham-pre-season/Ziyech-goal-Spurs-h",
+          "gravity": "south",
+          "aspectRatio": 1.5007504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 2 Tottenham 2",
+      "publishDate": "2021-08-04T18:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/04/match-report--chelsea-v-tottenham.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-04T18:38:00.000Z",
+      "description": "Chelsea had to settle for a draw in our last pre-season friendly before the 2021/22 campaign begins, as we were pegged back by Tottenham despite dominating large spells of the game.",
+      "matchId": 2215189
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210804chelsea-line-up-vs-tottenham",
       "type": "NewsCard",
@@ -475,65 +524,6 @@
       ],
       "date": "2021-08-03T16:39:00.000Z",
       "description": "The number of loyalty points required by season ticket holders to buy a ticket to the Super Cup has been announced..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210803tuchel-assesses-what-more-loftus",
-      "type": "NewsCard",
-      "timestamp": "2021-08-03T06:44:00.000Z",
-      "orderDate": "2021-08-03T06:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/03/tuchel-assesses-what-more-loftus-cheek-can-do-and-pulisic-s-pote",
-        "type": "NewsCard",
-        "title": "Tuchel assesses what more Loftus-Cheek can do and Pulisic’s potential at wing-back",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/03/tuchel-assesses-what-more-loftus-cheek-can-do-and-pulisic-s-pote.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-03T06:44:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/03/tuchel-assesses-what-more-loftus-cheek-can-do-and-pulisic-s-pote",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel and Loftus-Cheek",
-          "id": "chelsea-app/Tuchel-RLC-DTW_8813",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel assesses what more Loftus-Cheek can do and Pulisic’s potential at wing-back",
-      "publishDate": "2021-08-03T06:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/03/tuchel-assesses-what-more-loftus-cheek-can-do-and-pulisic-s-pote.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Ruben Loftus-Cheek",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ruben-loftus-cheek"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        }
-      ],
-      "date": "2021-08-03T06:44:00.000Z",
-      "description": "Adaptation may be key for Thomas Tuchel in the early weeks of the new season and the boss is open to finding new solutions in order to solve any selection dilemmas on the horizon…",
-      "matchId": 2215187
     }
   ]
 }
