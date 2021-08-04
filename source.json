@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210804chelsea-vs-tottenham-preview--te",
+      "type": "NewsCard",
+      "timestamp": "2021-08-04T02:00:00.000Z",
+      "orderDate": "2021-08-04T02:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/04/chelsea-vs-tottenham-preview--team-news--opposition-analysis-and",
+        "type": "NewsCard",
+        "title": "Chelsea vs Tottenham preview: team news, opposition analysis and how to watch live",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/04/chelsea-vs-tottenham-preview--team-news--opposition-analysis-and.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-04T02:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/04/chelsea-vs-tottenham-preview--team-news--opposition-analysis-and",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Chilwell-Spurs-GettyImages-1288460288",
+          "gravity": "auto",
+          "aspectRatio": 1.4690332,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea vs Tottenham preview: team news, opposition analysis and how to watch live",
+      "publishDate": "2021-08-04T02:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/04/chelsea-vs-tottenham-preview--team-news--opposition-analysis-and.html",
+      "readTimeInMins": 25,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Pre Season",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_pre-season-tour"
+        }
+      ],
+      "date": "2021-08-04T02:00:00.000Z",
+      "description": "Our second fixture of The Mind Series gets underway this evening at Stamford Bridge, as the Blues host Tottenham. Here we look forward to Wednesday's clash and explain how you can catch all the action from SW6…",
+      "matchId": 2215189
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210803preparation-for-tottenham",
       "type": "NewsCard",
@@ -487,49 +540,6 @@
       "date": "2021-08-02T15:14:00.000Z",
       "description": "There were some familiar faces at Cobham today, as the likes of Mason Mount, Thiago Silva and Euro 2020 winners Jorginho and Emerson reported back for pre-season training.",
       "matchId": 2215189
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210802livramento-joins-southampton",
-      "type": "NewsCard",
-      "timestamp": "2021-08-02T16:56:00.000Z",
-      "orderDate": "2021-08-02T13:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/02/livramento-joins-southampton",
-        "type": "NewsCard",
-        "title": "Livramento joins Southampton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/livramento-joins-southampton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-02T16:56:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/02/livramento-joins-southampton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Livramento",
-          "id": "editorial/news/2021/08/02/Livramento-stock",
-          "gravity": "north",
-          "aspectRatio": 1.3622527,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Livramento joins Southampton",
-      "publishDate": "2021-08-02T16:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/02/livramento-joins-southampton.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-08-02T16:56:00.000Z",
-      "description": "Academy defender Tino Livramento has today completed a permanent move to Southampton."
     }
   ]
 }
