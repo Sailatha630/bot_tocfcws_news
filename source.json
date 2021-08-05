@@ -9,6 +9,48 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210805ask-me-anything-with-thomas-tuch",
+      "type": "NewsCard",
+      "timestamp": "2021-08-05T17:00:00.000Z",
+      "orderDate": "2021-08-05T17:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/05/ask-me-anything-with-thomas-tuchel-only-on-the-5th-stand-app-",
+        "type": "NewsCard",
+        "title": "Ask Me Anything with Thomas Tuchel only on The 5th Stand app!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/05/ask-me-anything-with-thomas-tuchel-only-on-the-5th-stand-app-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-05T17:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/05/ask-me-anything-with-thomas-tuchel-only-on-the-5th-stand-app-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/08/02/GettyImages-1331806443",
+          "gravity": "auto",
+          "aspectRatio": 1.5007504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ask Me Anything with Thomas Tuchel only on The 5th Stand app!",
+      "publishDate": "2021-08-05T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/05/ask-me-anything-with-thomas-tuchel-only-on-the-5th-stand-app-.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-08-05T17:00:00.000Z",
+      "description": "Ever thought about what you would ask Thomas Tuchel if you were in one of his press conferences? Well, thanks to The 5th Stand app, you can do just that!"
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210805emilio-ballack",
       "type": "NewsCard",
       "timestamp": "2021-08-05T12:46:00.000Z",
@@ -459,55 +501,6 @@
       ],
       "date": "2021-08-05T08:17:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly still interested in Declan Rice and Olivier Giroud hails Hakim Ziyech’s left foot."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210804match-report--chelsea-v-tottenha",
-      "type": "NewsCard",
-      "timestamp": "2021-08-04T18:38:00.000Z",
-      "orderDate": "2021-08-04T18:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/04/match-report--chelsea-v-tottenham",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 2 Tottenham 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/04/match-report--chelsea-v-tottenham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-04T18:38:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/04/match-report--chelsea-v-tottenham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ziyech",
-          "id": "editorial/match-reports/2021-22/tottenham-pre-season/Ziyech-goal-Spurs-h",
-          "gravity": "south",
-          "aspectRatio": 1.5007504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 2 Tottenham 2",
-      "publishDate": "2021-08-04T18:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/04/match-report--chelsea-v-tottenham.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-08-04T18:38:00.000Z",
-      "description": "Chelsea had to settle for a draw in our last pre-season friendly before the 2021/22 campaign begins, as we were pegged back by Tottenham despite dominating large spells of the game.",
-      "matchId": 2215189
     }
   ]
 }
