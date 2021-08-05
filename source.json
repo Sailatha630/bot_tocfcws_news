@@ -8,6 +8,70 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210805tuchel-taking-the-positives-from",
+      "type": "NewsCard",
+      "timestamp": "2021-08-05T03:00:00.000Z",
+      "orderDate": "2021-08-05T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/05/tuchel-taking-the-positives-from-spurs-draw-and-feels-we-deserve",
+        "type": "NewsCard",
+        "title": "Tuchel taking the positives from Spurs draw and feels we deserved more",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/05/tuchel-taking-the-positives-from-spurs-draw-and-feels-we-deserve.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-05T03:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/05/tuchel-taking-the-positives-from-spurs-draw-and-feels-we-deserve",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Tuchel",
+          "id": "editorial/match-reports/2021-22/tottenham-pre-season/Tuchel-Spurs-h",
+          "gravity": "north_west",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel taking the positives from Spurs draw and feels we deserved more",
+      "publishDate": "2021-08-05T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/05/tuchel-taking-the-positives-from-spurs-draw-and-feels-we-deserve.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Tino Anjorin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tino-anjorin"
+        }
+      ],
+      "date": "2021-08-05T03:00:00.000Z",
+      "description": "Thomas Tuchel feels there were plenty of positives to take from our 2-2 friendly draw with Tottenham Hotspur having been pleased with the intensity of the game.",
+      "matchId": 2215189
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210804match-report--chelsea-v-tottenha",
       "type": "NewsCard",
@@ -477,54 +541,6 @@
       ],
       "date": "2021-08-03T12:52:00.000Z",
       "description": "In a special Access All Areas video interview conducted together as pre-season ramps up, Chelsea Academy graduates Callum Hudson-Odoi and Ruben Loftus-Cheek have been reflecting on the serious Achilles injuries they suffered within a few weeks of each other in the spring of 2019, the recovery process they undertook together and why they’re now feeling fully fit."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210803loyalty-point-ticket-update-for-",
-      "type": "NewsCard",
-      "timestamp": "2021-08-03T16:39:00.000Z",
-      "orderDate": "2021-08-03T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/03/loyalty-point-ticket-update-for-super-cup",
-        "type": "NewsCard",
-        "title": "Loyalty point ticket update for Super Cup",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/03/loyalty-point-ticket-update-for-super-cup.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-03T16:39:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/03/loyalty-point-ticket-update-for-super-cup",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Super Cup",
-          "id": "editorial/news/2021/06/03/chelsea-supporters-porto",
-          "gravity": "auto",
-          "aspectRatio": 1.4913867,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Loyalty point ticket update for Super Cup",
-      "publishDate": "2021-08-03T16:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/03/loyalty-point-ticket-update-for-super-cup.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-08-03T16:39:00.000Z",
-      "description": "The number of loyalty points required by season ticket holders to buy a ticket to the Super Cup has been announced..."
     }
   ]
 }
