@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210810broja-completes-premier-league-l",
+      "type": "NewsCard",
+      "timestamp": "2021-08-10T08:00:00.000Z",
+      "orderDate": "2021-08-10T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/10/broja-completes-premier-league-loan",
+        "type": "NewsCard",
+        "title": "Broja completes Premier League loan",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/10/broja-completes-premier-league-loan.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-10T08:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/10/broja-completes-premier-league-loan",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Broja",
+          "id": "editorial/news/2021/08/09/Broja-stock",
+          "gravity": "north",
+          "aspectRatio": 1.1290665,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Broja completes Premier League loan",
+      "publishDate": "2021-08-10T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/10/broja-completes-premier-league-loan.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Armando Broja",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_armando-broja"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-10T08:00:00.000Z",
+      "description": "Armando Broja will spend the 2021/22 season on loan in the Premier League after completing a move to Southampton."
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210809pat-nevin--why-the-super-cup-is-",
       "type": "NewsCard",
@@ -418,54 +466,6 @@
       ],
       "date": "2021-08-08T03:00:00.000Z",
       "description": "In the second part of our look ahead to 2021/22, club historian Rick Glanvill and club statistician Paul Dutton analyse the multitude of competitions that lie in store for the Blues, and also check in on VAR and other changes for the new campaign..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210808havertz--setting-new-targets",
-      "type": "NewsCard",
-      "timestamp": "2021-08-08T09:48:00.000Z",
-      "orderDate": "2021-08-08T00:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/08/havertz--setting-new-targets",
-        "type": "NewsCard",
-        "title": "Havertz: Setting new targets",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/08/havertz--setting-new-targets.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-08T09:48:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/08/havertz--setting-new-targets",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kai Havertz shooting against Arsenal",
-          "id": "editorial/match-reports/2021-22/arsenal-pre-season/havertz-goal-arsenal-pre-season",
-          "gravity": "north_west",
-          "aspectRatio": 1.7780161,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz: Setting new targets",
-      "publishDate": "2021-08-08T09:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/08/havertz--setting-new-targets.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-08-08T09:48:00.000Z",
-      "description": "Kai Havertz, back at Chelsea after the Euros and a summer break, sat down along with Toni Rudiger for an exclusive video interview at Cobham."
     }
   ]
 }
