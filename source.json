@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews2021081024-strong-chelsea-squad-arrive-i",
+      "type": "NewsCard",
+      "timestamp": "2021-08-10T11:30:00.000Z",
+      "orderDate": "2021-08-10T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/10/24-strong-chelsea-squad-arrive-in-northern-ireland",
+        "type": "NewsCard",
+        "title": "24-strong Chelsea squad arrive in Northern Ireland",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/10/24-strong-chelsea-squad-arrive-in-northern-ireland.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-10T11:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/10/24-strong-chelsea-squad-arrive-in-northern-ireland",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic",
+          "id": "editorial/news/2021/08/10/Pulisic-Super-Cup-travel",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "24-strong Chelsea squad arrive in Northern Ireland",
+      "publishDate": "2021-08-10T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/10/24-strong-chelsea-squad-arrive-in-northern-ireland.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "European Super Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_european-super-cup"
+        }
+      ],
+      "date": "2021-08-10T11:30:00.000Z",
+      "description": "A group of 24 Chelsea players have landed in Belfast ahead of tomorrow’s Super Cup showdown with Villarreal.",
+      "matchId": 2206389
+    },
+    {
       "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20210810broja-completes-premier-league-l",
       "type": "NewsCard",
@@ -432,49 +481,6 @@
       ],
       "date": "2021-08-09T03:00:00.000Z",
       "description": "As our countdown to the start of 2021/22 continues, here are the special dates you need to look out for this season..."
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20210809chelsea-here--chelsea-there--hap",
-      "type": "NewsCard",
-      "timestamp": "2021-08-09T12:47:00.000Z",
-      "orderDate": "2021-08-09T00:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/09/chelsea-here--chelsea-there--happy-homecoming-for-maatsen-and-co",
-        "type": "NewsCard",
-        "title": "Chelsea Here, Chelsea There: Happy homecoming for Maatsen and Coventry, Castillo makes winning start with Birmingham",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/09/chelsea-here--chelsea-there--happy-homecoming-for-maatsen-and-co.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-09T12:47:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/09/chelsea-here--chelsea-there--happy-homecoming-for-maatsen-and-co",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Maatsen",
-          "id": "editorial/news/2021/08/09/Maatsen_DTW_9138",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here, Chelsea There: Happy homecoming for Maatsen and Coventry, Castillo makes winning start with Birmingham",
-      "publishDate": "2021-08-09T12:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/09/chelsea-here--chelsea-there--happy-homecoming-for-maatsen-and-co.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        }
-      ],
-      "date": "2021-08-09T12:47:00.000Z",
-      "description": "In our round-up of the action involving Chelsea players on loan, three Blues kicked off their Football League campaigns in England…"
     }
   ]
 }
