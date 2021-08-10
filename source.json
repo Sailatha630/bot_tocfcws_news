@@ -8,6 +8,69 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210809pat-nevin--why-the-super-cup-is-",
+      "type": "NewsCard",
+      "timestamp": "2021-08-10T05:06:00.000Z",
+      "orderDate": "2021-08-10T05:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/09/pat-nevin--why-the-super-cup-is-so-important",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Why the Super Cup is so important",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/09/pat-nevin--why-the-super-cup-is-so-important.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-10T05:06:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/08/09/pat-nevin--why-the-super-cup-is-so-important",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Azpilicueta parades the Champions League trophy",
+          "id": "editorial/match-reports/2021-22/tottenham-pre-season/Azpilicueta-Champions-League-trophy-Spurs-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5001787,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Why the Super Cup is so important",
+      "publishDate": "2021-08-10T05:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/09/pat-nevin--why-the-super-cup-is-so-important.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-08-10T05:06:00.000Z",
+      "description": "In his first column of the 2021/22 campaign, Blues legend Pat Nevin reflects on Chelsea’s pre-season, explains the myriad advantages of contesting the Super Cup this midweek, and gets excited at the prospect of a sold-out Stamford Bridge…",
+      "matchId": 2206389
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210809watch-chelsea-s-super-cup-traini",
       "type": "NewsCard",
@@ -403,49 +466,6 @@
       ],
       "date": "2021-08-08T09:48:00.000Z",
       "description": "Kai Havertz, back at Chelsea after the Euros and a summer break, sat down along with Toni Rudiger for an exclusive video interview at Cobham."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews202108072021-22-pre-season-briefing-part",
-      "type": "NewsCard",
-      "timestamp": "2021-08-07T03:00:00.000Z",
-      "orderDate": "2021-08-07T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/07/2021-22-pre-season-briefing-part-one--growing-from-greatness",
-        "type": "NewsCard",
-        "title": "2021/22 pre-season briefing part one: Growing from greatness",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/07/2021-22-pre-season-briefing-part-one--growing-from-greatness.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-07T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/07/2021-22-pre-season-briefing-part-one--growing-from-greatness",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge",
-          "id": "editorial/match-reports/2021-22/tottenham-pre-season/stadium-view-vs-Spurs",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "2021/22 pre-season briefing part one: Growing from greatness",
-      "publishDate": "2021-08-07T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/07/2021-22-pre-season-briefing-part-one--growing-from-greatness.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-08-07T03:00:00.000Z",
-      "description": "With the start of a new season just days away and Chelsea's men team hoping to build on the success of being crowned European champions, we begin to set the scene with club historian Rick Glanvill and club statistican Paul Dutton..."
     }
   ]
 }
