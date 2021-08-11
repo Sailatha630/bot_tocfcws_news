@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210811pre-match-briefing--chelsea-vs-v",
+      "type": "NewsCard",
+      "timestamp": "2021-08-11T03:00:00.000Z",
+      "orderDate": "2021-08-11T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/11/pre-match-briefing--chelsea-vs-villarreal",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Villarreal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/11/pre-match-briefing--chelsea-vs-villarreal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-11T03:00:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/08/11/pre-match-briefing--chelsea-vs-villarreal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/08/10/super_cup_stand",
+          "gravity": "west",
+          "aspectRatio": 1.4998463,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Villarreal",
+      "publishDate": "2021-08-11T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/11/pre-match-briefing--chelsea-vs-villarreal.html",
+      "readTimeInMins": 27,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "European Super Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_european-super-cup"
+        }
+      ],
+      "date": "2021-08-11T03:00:00.000Z",
+      "description": "Two-and-a-half months after the Champions League final, Chelsea are on the trail of silverware again…",
+      "matchId": 2206389
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210810blues-train-in-belfast-ahead-of-",
       "type": "NewsCard",
@@ -467,54 +516,6 @@
       "date": "2021-08-10T19:05:00.000Z",
       "description": "Chelsea supporters who purchased tickets from the club for Wednesday's UEFA Super Cup match should have received an email containing important information regarding their tickets.",
       "matchId": 2206389
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210810five-chelsea-women-games-selecte",
-      "type": "NewsCard",
-      "timestamp": "2021-08-10T09:00:00.000Z",
-      "orderDate": "2021-08-10T02:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/10/five-chelsea-women-games-selected-for-tv-with-fixture-dates-conf",
-        "type": "NewsCard",
-        "title": "Five Chelsea Women games selected for TV with fixture dates confirmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/10/five-chelsea-women-games-selected-for-tv-with-fixture-dates-conf.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-10T09:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/10/five-chelsea-women-games-selected-for-tv-with-fixture-dates-conf",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_WSL_Trophy_Lift",
-          "gravity": "auto",
-          "aspectRatio": 1.5001396,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Five Chelsea Women games selected for TV with fixture dates confirmed",
-      "publishDate": "2021-08-10T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/10/five-chelsea-women-games-selected-for-tv-with-fixture-dates-conf.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2021-08-10T09:00:00.000Z",
-      "description": "The first five of Chelsea Women’s opening Barclays FA Women’s Super League fixtures have been selected for live TV broadcast, giving fans more opportunity than ever to catch all our WSL action."
     }
   ]
 }
