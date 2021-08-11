@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210811tuchel-on-managing-extra-pressur",
+      "type": "NewsCard",
+      "timestamp": "2021-08-11T07:08:00.000Z",
+      "orderDate": "2021-08-11T07:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/11/tuchel-on-managing-extra-pressure-and-chelsea-s-punctuated-pre-s",
+        "type": "NewsCard",
+        "title": "Tuchel on managing extra pressure and Chelsea’s punctuated pre-season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/11/tuchel-on-managing-extra-pressure-and-chelsea-s-punctuated-pre-s.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-11T07:08:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/11/tuchel-on-managing-extra-pressure-and-chelsea-s-punctuated-pre-s",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "chelsea-app/Tuchel-GettyImages-1333410631",
+          "gravity": "face",
+          "aspectRatio": 1.5007328,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on managing extra pressure and Chelsea’s punctuated pre-season",
+      "publishDate": "2021-08-11T07:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/11/tuchel-on-managing-extra-pressure-and-chelsea-s-punctuated-pre-s.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-11T07:08:00.000Z",
+      "description": "As his first full season as Chelsea boss gets underway, Thomas Tuchel has been explaining why he does not feel any extra pressure just because the Blues reached the pinnacle of European football by winning the Champions League a few short months ago.",
+      "matchId": 2206389
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210811pre-match-briefing--chelsea-vs-v",
       "type": "NewsCard",
@@ -467,55 +516,6 @@
       ],
       "date": "2021-08-10T08:50:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Matthijs De Ligt and Christian Pulisic opens up about winning trophies for club and country."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210810super-cup-ticket-information",
-      "type": "NewsCard",
-      "timestamp": "2021-08-10T19:05:00.000Z",
-      "orderDate": "2021-08-10T04:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/10/super-cup-ticket-information",
-        "type": "NewsCard",
-        "title": "Important Super Cup ticket information",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/10/super-cup-ticket-information.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-10T19:05:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/10/super-cup-ticket-information",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Super Cup trophy",
-          "id": "editorial/match-reports/2019-20/super-cup/Super-Cup-trophy-DTW_6820-529346_2019081480358095",
-          "gravity": "auto",
-          "aspectRatio": 1.499862,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important Super Cup ticket information",
-      "publishDate": "2021-08-10T19:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/10/super-cup-ticket-information.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-08-10T19:05:00.000Z",
-      "description": "Chelsea supporters who purchased tickets from the club for Wednesday's UEFA Super Cup match should have received an email containing important information regarding their tickets.",
-      "matchId": 2206389
     }
   ]
 }
