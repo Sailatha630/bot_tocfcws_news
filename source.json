@@ -260,6 +260,49 @@
       "matchId": 2210273
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210812arsenal-away-ticket-latest",
+      "type": "NewsCard",
+      "timestamp": "2021-08-12T16:44:00.000Z",
+      "orderDate": "2021-08-12T08:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/12/arsenal-away-ticket-latest",
+        "type": "NewsCard",
+        "title": "Arsenal away ticket latest",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/12/arsenal-away-ticket-latest.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-12T16:44:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/12/arsenal-away-ticket-latest",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/arsenal-pre-season/emirates-arsenal-tunnel-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5023365,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Arsenal away ticket latest",
+      "publishDate": "2021-08-12T16:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/12/arsenal-away-ticket-latest.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-08-12T16:44:00.000Z",
+      "description": "Ticket information for Arsenal away..."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210812kepa-and-mendy-celebrate-their-s",
       "type": "NewsCard",
@@ -434,60 +477,6 @@
       ],
       "date": "2021-08-12T09:33:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, Rio Ferdinand believes our UEFA Super Cup win will push us to challenge Manchester City for the title and Billy Gilmour reveals why he chose to go on loan to Norwich City."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210811tuchel-reaction-to-chelsea-winni",
-      "type": "NewsCard",
-      "timestamp": "2021-08-11T22:30:00.000Z",
-      "orderDate": "2021-08-11T22:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/11/tuchel-reaction-to-chelsea-winning-super-cup",
-        "type": "NewsCard",
-        "title": "Tuchel explains Kepa substitution and updates on Ziyech",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/11/tuchel-reaction-to-chelsea-winning-super-cup.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-11T22:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/11/tuchel-reaction-to-chelsea-winning-super-cup",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Thomas Tuchel",
-          "id": "editorial/news/2021/08/11/tuchel_super_cup",
-          "gravity": "auto",
-          "aspectRatio": 1.5087652,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel explains Kepa substitution and updates on Ziyech",
-      "publishDate": "2021-08-11T22:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/11/tuchel-reaction-to-chelsea-winning-super-cup.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "European Super Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_european-super-cup"
-        }
-      ],
-      "date": "2021-08-11T22:30:00.000Z",
-      "description": "Kepa Arrizabalaga was the hero for Chelsea in the Super Cup, saving two penalties in the successful shoot-out having come on right at the end of extra-time, and Thomas Tuchel explained why he was introduced in place of Edouard Mendy.",
-      "matchId": 2206389
     }
   ]
 }
