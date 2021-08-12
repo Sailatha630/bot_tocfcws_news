@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210812romelu-lukaku-comes-home",
+      "type": "NewsCard",
+      "timestamp": "2021-08-12T15:00:00.000Z",
+      "orderDate": "2021-08-12T15:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/12/romelu-lukaku-comes-home",
+        "type": "NewsCard",
+        "title": "Romelu Lukaku comes home",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/12/romelu-lukaku-comes-home.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-12T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/12/romelu-lukaku-comes-home",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Romelu Lukaku",
+          "id": "editorial/news/2021/08/12/romelu-lukaku-signing-marina-granovskaia",
+          "gravity": "north_west",
+          "aspectRatio": 1.1315417,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Romelu Lukaku comes home",
+      "publishDate": "2021-08-12T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/12/romelu-lukaku-comes-home.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_romelu-lukaku"
+        },
+        {
+          "title": "Transfer",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_transfer"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-12T15:00:00.000Z",
+      "description": "Romelu Lukaku is back in Chelsea blue!"
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210812jorginho-delighted-for-kepa-and-",
       "type": "NewsCard",
@@ -289,7 +342,7 @@
           "type": "ImageCloudinary",
           "alt": " Kepa Eintracht Frankfurt",
           "id": "editorial/match-reports/2018-19/eintracht-frankfurt-home/kepa-save-one",
-          "gravity": "auto",
+          "gravity": "south",
           "aspectRatio": 1.5002652,
           "cropMode": "fill",
           "isFullScale": true
@@ -434,65 +487,6 @@
       ],
       "date": "2021-08-11T22:30:00.000Z",
       "description": "Kepa Arrizabalaga was the hero for Chelsea in the Super Cup, saving two penalties in the successful shoot-out having come on right at the end of extra-time, and Thomas Tuchel explained why he was introduced in place of Edouard Mendy.",
-      "matchId": 2206389
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210811gallery--super-cup-celebrations-",
-      "type": "NewsCard",
-      "timestamp": "2021-08-11T22:17:00.000Z",
-      "orderDate": "2021-08-11T22:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/11/gallery--super-cup-celebrations-",
-        "type": "NewsCard",
-        "title": "Gallery: Super Cup celebrations!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/11/gallery--super-cup-celebrations-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-11T22:17:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/11/gallery--super-cup-celebrations-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/08/11/super_cup_trophy_lift",
-          "gravity": "auto",
-          "aspectRatio": 1.492049,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Super Cup celebrations!",
-      "publishDate": "2021-08-11T22:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/11/gallery--super-cup-celebrations-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "European Super Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_european-super-cup"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2021-08-11T22:17:00.000Z",
-      "description": "Chelsea are Super Cup champions!",
       "matchId": 2206389
     }
   ]
