@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210813romelu-lukaku-quiz--do-you-know-",
+      "type": "NewsCard",
+      "timestamp": "2021-08-13T09:00:00.000Z",
+      "orderDate": "2021-08-13T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/13/romelu-lukaku-quiz--do-you-know-everything-about-our-new-signing",
+        "type": "NewsCard",
+        "title": "Romelu Lukaku quiz: Do you know everything about our new signing?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/13/romelu-lukaku-quiz--do-you-know-everything-about-our-new-signing.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-13T09:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/13/romelu-lukaku-quiz--do-you-know-everything-about-our-new-signing",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lukaku",
+          "id": "editorial/news/2021/08/13/Lukaku-Belgium",
+          "gravity": "north",
+          "aspectRatio": 1.5339471,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Romelu Lukaku quiz: Do you know everything about our new signing?",
+      "publishDate": "2021-08-13T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/13/romelu-lukaku-quiz--do-you-know-everything-about-our-new-signing.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_romelu-lukaku"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-13T09:00:00.000Z",
+      "description": "As a familar face to Chelsea supporters and a big name in European football, you might think you know everything there is to know about our new signing Romelu Lukaku, so it's time to test your knowledge of the Belgian striker in our special quiz."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210813-he-s-forcing-his-way-into-my-th",
       "type": "NewsCard",
@@ -467,60 +515,6 @@
       "date": "2021-08-12T11:20:00.000Z",
       "description": "Chelsea’s new season started the same way the last one had finished, with European silverware heading back to Stamford Bridge, as we won a penalty shoot-out to defeat Villarreal in the UEFA Super Cup.",
       "matchId": 2206389
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210812play-predictor-is-back-",
-      "type": "NewsCard",
-      "timestamp": "2021-08-12T14:00:00.000Z",
-      "orderDate": "2021-08-12T09:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/12/play-predictor-is-back-",
-        "type": "NewsCard",
-        "title": "Play Predictor is back!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/12/play-predictor-is-back-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-12T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/12/play-predictor-is-back-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Play Predictor",
-          "id": "editorial/news/2021/08/12/Play_Predictor_Super_Cup",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Play Predictor is back!",
-      "publishDate": "2021-08-12T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/12/play-predictor-is-back-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-08-12T14:00:00.000Z",
-      "description": "The Play Predictor game, available exclusively on The 5th Stand app, returns for the 2021/22 season bigger and better than ever, with the chance to win signed shirts, games consoles and even a VIP matchday experience.",
-      "matchId": 2210273
     }
   ]
 }
