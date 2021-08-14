@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210814match-report--chelsea-vs-crystal",
+      "type": "NewsCard",
+      "timestamp": "2021-08-14T15:50:00.000Z",
+      "orderDate": "2021-08-14T15:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/14/match-report--chelsea-vs-crystal-palace",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 3 Crystal Palace 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/match-report--chelsea-vs-crystal-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-14T15:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/14/match-report--chelsea-vs-crystal-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Goal celebrations",
+          "id": "editorial/match-reports/2021-22/palace-home/Alonso-goal-celebration-Palace-h-2",
+          "gravity": "north",
+          "aspectRatio": 1.4998153,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 3 Crystal Palace 0",
+      "publishDate": "2021-08-14T15:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/match-report--chelsea-vs-crystal-palace.html",
+      "readTimeInMins": 21,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-14T15:50:00.000Z",
+      "description": "Chelsea’s season started in style at a sun-drenched Stamford Bridge with a clean sheet, three goals and three Premier League points on the board on the opening weekend.",
+      "matchId": 2210273
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210814chelsea-team-line-up-vs-crystal-",
       "type": "NewsCard",
@@ -431,54 +480,6 @@
       "tags": [],
       "date": "2021-08-13T16:00:00.000Z",
       "description": "The Chelsea squad numbers for the 2021/22 season have been confirmed, with Mateo Kovacic switching to eight from 17."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210814under-18s-preview--ed-brand-on-t",
-      "type": "NewsCard",
-      "timestamp": "2021-08-14T03:00:00.000Z",
-      "orderDate": "2021-08-13T15:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/14/under-18s-preview--ed-brand-on-the-new-season--education-excelle",
-        "type": "NewsCard",
-        "title": "Under-18s preview: Ed Brand on the new season, education excellence and building a bond",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/under-18s-preview--ed-brand-on-the-new-season--education-excelle.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-14T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/14/under-18s-preview--ed-brand-on-the-new-season--education-excelle",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ed Brand",
-          "id": "editorial/news/2021/08/14/Ed-Brand-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5006002,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Under-18s preview: Ed Brand on the new season, education excellence and building a bond",
-      "publishDate": "2021-08-14T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/under-18s-preview--ed-brand-on-the-new-season--education-excelle.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-08-14T03:00:00.000Z",
-      "description": "Chelsea Under-18s get 2021/22 started this lunchtime with a Cobham clash against West Brom and we caught up with head coach Ed Brand to look ahead to the new campaign…"
     }
   ]
 }
