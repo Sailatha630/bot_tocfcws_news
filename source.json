@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210814chelsea-team-line-up-vs-crystal-",
+      "type": "NewsCard",
+      "timestamp": "2021-08-14T13:00:00.000Z",
+      "orderDate": "2021-08-14T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/14/chelsea-team-line-up-vs-crystal-palace",
+        "type": "NewsCard",
+        "title": "Chelsea team line up vs Crystal Palace",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/chelsea-team-line-up-vs-crystal-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-14T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/14/chelsea-team-line-up-vs-crystal-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kovacic shirt",
+          "id": "chelsea-app/Kovacic-DAZ_7591-2438344",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea team line up vs Crystal Palace",
+      "publishDate": "2021-08-14T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/chelsea-team-line-up-vs-crystal-palace.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-14T13:00:00.000Z",
+      "description": "Thomas Tuchel makes five changes from our Super Cup-winning starting team as Chelsea take on Crystal Palace in the Premier League opener.",
+      "matchId": 2210273
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210814werner-hungry-for-more-success-i",
       "type": "NewsCard",
@@ -430,44 +479,6 @@
       ],
       "date": "2021-08-14T03:00:00.000Z",
       "description": "Chelsea Under-18s get 2021/22 started this lunchtime with a Cobham clash against West Brom and we caught up with head coach Ed Brand to look ahead to the new campaign…"
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20210813confirmed-seating-restrictions-i",
-      "type": "NewsCard",
-      "timestamp": "2021-08-13T14:00:00.000Z",
-      "orderDate": "2021-08-13T14:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/13/confirmed-seating-restrictions-in-the-matthew-harding-lower",
-        "type": "NewsCard",
-        "title": "Confirmed seating restrictions in the Matthew Harding Lower",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/13/confirmed-seating-restrictions-in-the-matthew-harding-lower.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-13T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/13/confirmed-seating-restrictions-in-the-matthew-harding-lower",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge aerial view",
-          "id": "editorial/news/2020/07/stamford-bridge-aeriel-view",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Confirmed seating restrictions in the Matthew Harding Lower",
-      "publishDate": "2021-08-13T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/13/confirmed-seating-restrictions-in-the-matthew-harding-lower.html",
-      "readTimeInMins": 12,
-      "tags": [],
-      "date": "2021-08-13T14:00:00.000Z",
-      "description": "Further to the announcement yesterday, regarding the challenges of installing rail seating in the Shed End and Matthew Harding Lower, we now have final information on what will be available for the match against Crystal Palace tomorrow.",
-      "matchId": 2210273
     }
   ]
 }
