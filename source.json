@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210815pulisic--it-was-important-to-sta",
+      "type": "NewsCard",
+      "timestamp": "2021-08-15T14:16:00.000Z",
+      "orderDate": "2021-08-15T14:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/15/pulisic--it-was-important-to-start-well",
+        "type": "NewsCard",
+        "title": "Pulisic: 'It was important to start well'",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/15/pulisic--it-was-important-to-start-well.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-15T14:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/15/pulisic--it-was-important-to-start-well",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic",
+          "id": "editorial/news/2021/08/15/Pulisic_GettyImages-1334115965",
+          "gravity": "auto",
+          "aspectRatio": 1.5001682,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic: 'It was important to start well'",
+      "publishDate": "2021-08-15T14:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/15/pulisic--it-was-important-to-start-well.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2021-08-15T14:16:00.000Z",
+      "description": "Christian Pulisic was delighted to get his name on the score sheet against Crystal Palace and is excited by the great start we made to our Premier League campaign.",
+      "matchId": 2210273
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210815the-debrief--alonso-and-pulisic-",
       "type": "NewsCard",
@@ -505,60 +564,6 @@
       "tags": [],
       "date": "2021-08-14T10:00:00.000Z",
       "description": "Chelsea are kick-starting the season by taking a stand against racism and discrimination with a new film that highlights the harmful and dangerous effects of online abuse."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210814blues-bulletin--chelsea-vs-cryst",
-      "type": "NewsCard",
-      "timestamp": "2021-08-14T07:00:00.000Z",
-      "orderDate": "2021-08-14T07:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/14/blues-bulletin--chelsea-vs-crystal-palace",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Crystal Palace",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/blues-bulletin--chelsea-vs-crystal-palace.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-14T07:00:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/08/14/blues-bulletin--chelsea-vs-crystal-palace",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Timo Werner",
-          "id": "editorial/news/2021/08/14/timo-werner-palace",
-          "gravity": "auto",
-          "aspectRatio": 1.5003704,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Crystal Palace",
-      "publishDate": "2021-08-14T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/blues-bulletin--chelsea-vs-crystal-palace.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2021-08-14T07:00:00.000Z",
-      "description": "A new Premier League season starts today and so does the Blues Bulletin, focusing on the key pre-match stats and information you need, and featuring brand new graphics...",
-      "matchId": 2210273
     }
   ]
 }
