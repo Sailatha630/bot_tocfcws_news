@@ -77,6 +77,54 @@
       "matchId": 2210281
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210816media-watch--chelsea-eyeing-saul",
+      "type": "NewsCard",
+      "timestamp": "2021-08-16T09:21:00.000Z",
+      "orderDate": "2021-08-15T23:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/16/media-watch--chelsea-eyeing-saul--pundit-praises-chalobah-perfor",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea eyeing Saul, pundit praises Chalobah performance and Vieira tips Blues for potential title challenge",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/16/media-watch--chelsea-eyeing-saul--pundit-praises-chalobah-perfor.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-16T09:21:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/16/media-watch--chelsea-eyeing-saul--pundit-praises-chalobah-perfor",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Saul-mw-070621",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea eyeing Saul, pundit praises Chalobah performance and Vieira tips Blues for potential title challenge",
+      "publishDate": "2021-08-16T09:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/16/media-watch--chelsea-eyeing-saul--pundit-praises-chalobah-perfor.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Trevor Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
+        }
+      ],
+      "date": "2021-08-16T09:21:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Saul Niguez while Trevoh Chalobah impresses on his Premier League debut."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210815pulisic--it-was-important-to-sta",
       "type": "NewsCard",
@@ -560,49 +608,6 @@
       "date": "2021-08-14T15:50:00.000Z",
       "description": "Chelsea’s season started in style at a sun-drenched Stamford Bridge with a clean sheet, three goals and three Premier League points on the board on the opening weekend.",
       "matchId": 2210273
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210814arsenal-away-ticket-update",
-      "type": "NewsCard",
-      "timestamp": "2021-08-14T12:16:00.000Z",
-      "orderDate": "2021-08-14T15:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/14/arsenal-away-ticket-update",
-        "type": "NewsCard",
-        "title": "Arsenal away ticket update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/arsenal-away-ticket-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-14T12:16:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/14/arsenal-away-ticket-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Emirates",
-          "id": "editorial/news/2019/12/emirates_stadium_view_insidee",
-          "gravity": "auto",
-          "aspectRatio": 1.4925984,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Arsenal away ticket update",
-      "publishDate": "2021-08-14T12:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/14/arsenal-away-ticket-update.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-08-14T12:16:00.000Z",
-      "description": "An update for members wishing to attend the game at the Emirates..."
     }
   ]
 }
