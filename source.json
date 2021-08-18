@@ -100,7 +100,7 @@
       "description": "Romelu Lukaku will wear the number nine shirt for Chelsea this season."
     },
     {
-      "contentType": "News",
+      "contentType": "Events",
       "id": "_content_chelseafcennews20210818tuchel--lukaku-and-azpilicueta-s",
       "type": "NewsCard",
       "timestamp": "2021-08-18T12:33:00.000Z",
@@ -142,6 +142,11 @@
           "title": "Men",
           "namespace": "content-tag:",
           "id": "content-tag_team_men"
+        },
+        {
+          "title": "Stamford Bridge",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_stamford-bridge"
         },
         {
           "title": "Cesar Azpilicueta",
