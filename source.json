@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210819emerson-completes-french-loan",
+      "type": "NewsCard",
+      "timestamp": "2021-08-19T17:25:00.000Z",
+      "orderDate": "2021-08-19T17:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/19/emerson-completes-french-loan",
+        "type": "NewsCard",
+        "title": "Emerson completes French loan",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/19/emerson-completes-french-loan.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-19T17:25:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/19/emerson-completes-french-loan",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/people/first-team/2021-22/hero/Emerson_DAZ_5554",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emerson completes French loan",
+      "publishDate": "2021-08-19T17:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/19/emerson-completes-french-loan.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Emerson Palmieri",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_emerson-palmieri"
+        }
+      ],
+      "date": "2021-08-19T17:25:00.000Z",
+      "description": "Emerson Palmieri will spend the remainder of the 2021/22 season in Ligue 1 after completing a loan move to Lyon."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210819three-blues-make-final-shortlist",
       "type": "NewsCard",
@@ -455,69 +498,6 @@
       ],
       "date": "2021-08-18T12:45:00.000Z",
       "description": "Romelu Lukaku will wear the number nine shirt for Chelsea this season."
-    },
-    {
-      "contentType": "Events",
-      "id": "_content_chelseafcennews20210818tuchel--lukaku-and-azpilicueta-s",
-      "type": "NewsCard",
-      "timestamp": "2021-08-18T12:33:00.000Z",
-      "orderDate": "2021-08-18T12:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/18/tuchel--lukaku-and-azpilicueta-s-message-to-fans-at-open-trainin",
-        "type": "NewsCard",
-        "title": "Tuchel, Lukaku and Azpilicueta’s message to fans at open training",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/18/tuchel--lukaku-and-azpilicueta-s-message-to-fans-at-open-trainin.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-18T12:33:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/18/tuchel--lukaku-and-azpilicueta-s-message-to-fans-at-open-trainin",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lukaku",
-          "id": "editorial/news/2021/08/18/Tuchel_CH1_7028",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel, Lukaku and Azpilicueta’s message to fans at open training",
-      "publishDate": "2021-08-18T12:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/18/tuchel--lukaku-and-azpilicueta-s-message-to-fans-at-open-trainin.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2021-08-18T12:33:00.000Z",
-      "description": "Thomas Tuchel, Romelu Lukaku and Cesar Azpilicueta all addressed the Chelsea supporters during an open training session at Stamford Bridge."
     }
   ]
 }
