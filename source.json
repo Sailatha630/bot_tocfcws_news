@@ -195,6 +195,43 @@
       "matchId": 2210281
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210820liverpool-ticket-details",
+      "type": "NewsCard",
+      "timestamp": "2021-08-20T16:21:00.000Z",
+      "orderDate": "2021-08-20T10:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/20/liverpool-ticket-details",
+        "type": "NewsCard",
+        "title": "Liverpool ticket details",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/liverpool-ticket-details.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-20T16:21:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/20/liverpool-ticket-details",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Anfield",
+          "id": "editorial/news/2019/4/Anfield-view-839816168",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Liverpool ticket details",
+      "publishDate": "2021-08-20T16:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/liverpool-ticket-details.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-08-20T16:21:00.000Z",
+      "description": "Ticket-selling information for our trip to Anfield next Saturday has been announced..."
+    },
+    {
       "contentType": "Chelsea Foundation",
       "id": "_content_chelseafcennews20210820chelsea-foundation-recruiting-se",
       "type": "NewsCard",
@@ -470,55 +507,6 @@
       ],
       "date": "2021-08-20T10:00:00.000Z",
       "description": "Charlotte Wardlaw will spend the 2021/22 campaign on a season-long loan at Liverpool."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210818come-and-see-the-new-wave-at-sta",
-      "type": "NewsCard",
-      "timestamp": "2021-08-20T08:01:00.000Z",
-      "orderDate": "2021-08-19T23:51:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/18/come-and-see-the-new-wave-at-stamford-bridge-this-friday-for-jus",
-        "type": "NewsCard",
-        "title": "Watch the new wave at Stamford Bridge tonight live on the 5th Stand!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/18/come-and-see-the-new-wave-at-stamford-bridge-this-friday-for-jus.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-20T08:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/18/come-and-see-the-new-wave-at-stamford-bridge-this-friday-for-jus",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pl2 promo",
-          "id": "editorial/news/2021/08/16/pl2-promo",
-          "gravity": "center",
-          "aspectRatio": 1.7780857,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Watch the new wave at Stamford Bridge tonight live on the 5th Stand!",
-      "publishDate": "2021-08-20T08:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/18/come-and-see-the-new-wave-at-stamford-bridge-this-friday-for-jus.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2021-08-20T08:01:00.000Z",
-      "description": "Tickets for our development squad’s game against Manchester United at Stamford Bridge tonight have now sold out, but you can still catch the action live on the 5th Stand app and this website.",
-      "matchId": 2237186
     }
   ]
 }
