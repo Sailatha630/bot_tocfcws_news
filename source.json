@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210820lukaku-reveals-admiration-for-tu",
+      "type": "NewsCard",
+      "timestamp": "2021-08-20T03:00:00.000Z",
+      "orderDate": "2021-08-20T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/20/lukaku-reveals-admiration-for-tuchel-and-what-he-learned-in-ital",
+        "type": "NewsCard",
+        "title": "Lukaku reveals admiration for Tuchel and what he learned in Italy",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/lukaku-reveals-admiration-for-tuchel-and-what-he-learned-in-ital.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-20T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/20/lukaku-reveals-admiration-for-tuchel-and-what-he-learned-in-ital",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lukaku",
+          "id": "editorial/media-watch/Lukaku-DTW_1317",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lukaku reveals admiration for Tuchel and what he learned in Italy",
+      "publishDate": "2021-08-20T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/lukaku-reveals-admiration-for-tuchel-and-what-he-learned-in-ital.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2021-08-20T03:00:00.000Z",
+      "description": "Romelu Lukaku has explained why he was so keen to work with Thomas Tuchel and how his experiences at Inter Milan and during his first spell with Chelsea have made him a complete player with nothing to prove."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210819blues-bulletin--arsenal-vs-chels",
       "type": "NewsCard",
@@ -216,6 +269,65 @@
       "description": "In this interview Edouard Mendy reflects on the Blues’ solidity at the back, underlines the importance of team spirit at Chelsea and assesses his own development since arriving at Stamford Bridge…"
     },
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210820pre-match-briefing--arsenal-vs-c",
+      "type": "NewsCard",
+      "timestamp": "2021-08-19T03:45:00.000Z",
+      "orderDate": "2021-08-19T03:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/20/pre-match-briefing--arsenal-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Arsenal vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/pre-match-briefing--arsenal-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-19T03:45:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/08/20/pre-match-briefing--arsenal-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Emirates",
+          "id": "editorial/news/2021/08/20/arsenal-emirates-outside-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Arsenal vs Chelsea",
+      "publishDate": "2021-08-19T03:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/pre-match-briefing--arsenal-vs-chelsea.html",
+      "readTimeInMins": 25,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        },
+        {
+          "title": "Pre-match Brief",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_pre-match-brief"
+        }
+      ],
+      "date": "2021-08-19T03:45:00.000Z",
+      "description": "The Blues’ first away fixture of the season, and the first league game with a travelling Chelsea support in 18 months, is an all-London affair in the north of the capital. Club historian Rick Glanvill and club statistician Paul Dutton set the scene…",
+      "matchId": 2210281
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210819lukaku-explains-how-he-plans-on-",
       "type": "NewsCard",
@@ -422,98 +534,6 @@
       ],
       "date": "2021-08-19T09:17:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are still interested in Aurelien Tchouameni while Raul Jimenez thanks Petr Cech for his help after suffering a serious head injury."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210819beever-jones-heads-to-bristol-on",
-      "type": "NewsCard",
-      "timestamp": "2021-08-19T09:00:00.000Z",
-      "orderDate": "2021-08-18T23:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/19/beever-jones-heads-to-bristol-on-loan",
-        "type": "NewsCard",
-        "title": "Beever-Jones heads to Bristol City on loan",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/19/beever-jones-heads-to-bristol-on-loan.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-19T09:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/19/beever-jones-heads-to-bristol-on-loan",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Aggie_Beever_Jones_Arsenal_PreSeason",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Beever-Jones heads to Bristol City on loan",
-      "publishDate": "2021-08-19T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/19/beever-jones-heads-to-bristol-on-loan.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-08-19T09:00:00.000Z",
-      "description": "Aggie Beever-Jones will spend the 2021/22 campaign on a season-long loan at Bristol City to gain first team experience in the FA Women’s Championship."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210818lukaku--great-to-be-back-and-i-m",
-      "type": "NewsCard",
-      "timestamp": "2021-08-18T13:15:00.000Z",
-      "orderDate": "2021-08-18T13:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/18/lukaku--great-to-be-back-and-i-m-ready-to-go-",
-        "type": "NewsCard",
-        "title": "Lukaku: Great to be back and I’m ready to go!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/18/lukaku--great-to-be-back-and-i-m-ready-to-go-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-18T13:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/18/lukaku--great-to-be-back-and-i-m-ready-to-go-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Romelu Lukaku",
-          "id": "editorial/news/2021/08/18/lukaku-press-conference",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lukaku: Great to be back and I’m ready to go!",
-      "publishDate": "2021-08-18T13:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/18/lukaku--great-to-be-back-and-i-m-ready-to-go-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-08-18T13:15:00.000Z",
-      "description": "Romelu Lukaku has said he hopes to make his second Chelsea debut this weekend, declaring he is ‘fit and ready’ should Thomas Tuchel wish to select him.",
-      "matchId": 2210281
     }
   ]
 }
