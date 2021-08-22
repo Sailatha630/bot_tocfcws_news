@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210822match-report--arsenal-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-08-22T17:30:00.000Z",
+      "orderDate": "2021-08-22T17:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/22/match-report--arsenal-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Arsenal 0 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/match-report--arsenal-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-22T17:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/22/match-report--arsenal-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Romelu Lukaku",
+          "id": "editorial/match-reports/2021-22/arsenal-away/Lukaku-goal-celebration-Arsenal-away-1",
+          "gravity": "auto",
+          "aspectRatio": 1.5890986,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Arsenal 0 Chelsea 2",
+      "publishDate": "2021-08-22T17:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/match-report--arsenal-vs-chelsea.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2021-08-22T17:30:00.000Z",
+      "description": "It was the perfect start to life as a Chelsea player again for Romelu Lukaku as his predatory early finish set us on our way to a comfortable victory at Arsenal.",
+      "matchId": 2210281
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210822tuchel-s-pre-debut-message-to-lu",
       "type": "NewsCard",
@@ -492,70 +546,6 @@
       ],
       "date": "2021-08-21T09:00:00.000Z",
       "description": "Earlier this week Romelu Lukaku returned to Stamford Bridge for the first time since rejoining Chelsea, where he surprised fans on a stadium tour, recalled his own maiden visit to SW6, and gave an exclusive interview in the dressing room he calls home again. You can now watch the special show in which we captured every moment of a momentous day."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210820tuchel-reveals-where-chalobah-wi",
-      "type": "NewsCard",
-      "timestamp": "2021-08-20T14:01:00.000Z",
-      "orderDate": "2021-08-20T14:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/20/tuchel-reveals-where-chalobah-will-play-this-season",
-        "type": "NewsCard",
-        "title": "Tuchel reveals where Chalobah will play this season",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/tuchel-reveals-where-chalobah-will-play-this-season.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-20T14:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/20/tuchel-reveals-where-chalobah-will-play-this-season",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel and Chalobah",
-          "id": "editorial/news/2021/08/20/Tuchel_Chalobah_GettyImages-1333419449",
-          "gravity": "auto",
-          "aspectRatio": 1.4995257,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reveals where Chalobah will play this season",
-      "publishDate": "2021-08-20T14:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/tuchel-reveals-where-chalobah-will-play-this-season.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        },
-        {
-          "title": "Trevor Chalobah",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_trevor-chalobah"
-        }
-      ],
-      "date": "2021-08-20T14:01:00.000Z",
-      "description": "Thomas Tuchel has confirmed Trevoh Chalobah is set to play an important role for Chelsea in 2021/22 and discussed the possibility of him moving into midfield in the future, ahead of our Premier League visit to Arsenal.",
-      "matchId": 2210281
     }
   ]
 }
