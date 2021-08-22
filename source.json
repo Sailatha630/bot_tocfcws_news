@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210822-i-let-my-football-do-the-talkin",
+      "type": "NewsCard",
+      "timestamp": "2021-08-22T11:00:00.000Z",
+      "orderDate": "2021-08-22T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/22/-i-let-my-football-do-the-talking----lukaku-reveals-what-matters",
+        "type": "NewsCard",
+        "title": "‘I let my football do the talking’ – Lukaku reveals what matters most to him",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/-i-let-my-football-do-the-talking----lukaku-reveals-what-matters.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-22T11:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/22/-i-let-my-football-do-the-talking----lukaku-reveals-what-matters",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Romelu Lukaku",
+          "id": "editorial/news/2021/08/22/lukaku-club-chelsea-bts-lifestyle",
+          "gravity": "auto",
+          "aspectRatio": 0.8,
+          "cropMode": "fill"
+        }
+      },
+      "content": "‘I let my football do the talking’ – Lukaku reveals what matters most to him",
+      "publishDate": "2021-08-22T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/-i-let-my-football-do-the-talking----lukaku-reveals-what-matters.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2021-08-22T11:00:00.000Z",
+      "description": "The time for talking is over. That’s Romelu Lukaku’s message on the day he could play his first Chelsea game in eight years."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210821tuchel--the-door-is-always-open-",
       "type": "NewsCard",
@@ -498,65 +546,6 @@
       "date": "2021-08-20T19:45:00.000Z",
       "description": "Our development squad had to settle for their second draw of the season in Premier League 2 after seeing their lead snuffed out moments from time at Stamford Bridge.",
       "matchId": 2237186
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210820tuchel-press-conference-team-new",
-      "type": "NewsCard",
-      "timestamp": "2021-08-20T12:25:00.000Z",
-      "orderDate": "2021-08-20T12:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/20/tuchel-press-conference-team-news-ahead-of-arsenal",
-        "type": "NewsCard",
-        "title": "Pulisic misses out but trio could all feature at Arsenal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/tuchel-press-conference-team-news-ahead-of-arsenal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-20T12:25:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/20/tuchel-press-conference-team-news-ahead-of-arsenal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Pulisic",
-          "id": "editorial/news/2021/07/31/pulisic-training-stock",
-          "gravity": "face",
-          "aspectRatio": 1.362835,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pulisic misses out but trio could all feature at Arsenal",
-      "publishDate": "2021-08-20T12:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/20/tuchel-press-conference-team-news-ahead-of-arsenal.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2021-08-20T12:25:00.000Z",
-      "description": "Thomas Tuchel used his Friday media conference to provide the latest team news ahead of Sunday’s London derby at Arsenal…",
-      "matchId": 2210281
     }
   ]
 }
