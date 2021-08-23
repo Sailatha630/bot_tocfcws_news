@@ -68,6 +68,43 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210823thank-you-for-raising-over-p225k",
+      "type": "NewsCard",
+      "timestamp": "2021-08-23T09:00:00.000Z",
+      "orderDate": "2021-08-23T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/23/thank-you-for-raising-over-p225k-for-mind-",
+        "type": "NewsCard",
+        "title": "Thank you for raising over £225k for Mind ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/thank-you-for-raising-over-p225k-for-mind-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-23T09:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/23/thank-you-for-raising-over-p225k-for-mind-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mind Series",
+          "id": "editorial/news/2021/08/23/stamford-bridge-view-mind-series",
+          "gravity": "south",
+          "aspectRatio": 1.5018976,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thank you for raising over £225k for Mind ",
+      "publishDate": "2021-08-23T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/thank-you-for-raising-over-p225k-for-mind-.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-08-23T09:00:00.000Z",
+      "description": "We would like to thank everyone who attended games at The Mind Series or bought live streams to watch them, with a fantastic total of £228,064.08 raised for the mental health charity by Arsenal, Chelsea and Tottenham supporters."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210823media-watch--chelsea-receive-ric",
       "type": "NewsCard",
       "timestamp": "2021-08-23T08:55:00.000Z",
@@ -515,54 +552,6 @@
       ],
       "date": "2021-08-22T03:00:00.000Z",
       "description": "Thomas Tuchel confirmed yesterday that Trevoh Chalobah will be a part of his plans for the upcoming season, the latest in a string of Academy graduates to have made the step up at Chelsea, and the boss has been discussing why he loves to work with homegrown players."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210822tuchel-s-praise-for--strategic--",
-      "type": "NewsCard",
-      "timestamp": "2021-08-22T01:34:00.000Z",
-      "orderDate": "2021-08-22T01:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/22/tuchel-s-praise-for--strategic--and--top-guy--jorginho",
-        "type": "NewsCard",
-        "title": "Tuchel’s praise for ‘strategic’ and ‘top guy’ Jorginho",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/tuchel-s-praise-for--strategic--and--top-guy--jorginho.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-22T01:34:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/22/tuchel-s-praise-for--strategic--and--top-guy--jorginho",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Jorginho-GettyImages-1234732233",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel’s praise for ‘strategic’ and ‘top guy’ Jorginho",
-      "publishDate": "2021-08-22T01:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/tuchel-s-praise-for--strategic--and--top-guy--jorginho.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-08-22T01:34:00.000Z",
-      "description": "It’s been quite the few months for Jorginho, with the midfielder lifting not one, not two but three major European trophies recently.",
-      "matchId": 2210281
     }
   ]
 }
