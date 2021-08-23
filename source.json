@@ -146,6 +146,49 @@
       "matchId": 2215187
     },
     {
+      "contentType": "On Loan",
+      "id": "_content_chelseafcennews20210823chelsea-here-chelsea-there--colw",
+      "type": "NewsCard",
+      "timestamp": "2021-08-23T13:18:00.000Z",
+      "orderDate": "2021-08-23T02:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/23/chelsea-here-chelsea-there--colwill-grabs-late-winner--debuts-fo",
+        "type": "NewsCard",
+        "title": "Chelsea here Chelsea there: Colwill grabs late winner, debuts for Emerson and Batshuayi",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/chelsea-here-chelsea-there--colwill-grabs-late-winner--debuts-fo.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-23T13:18:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/23/chelsea-here-chelsea-there--colwill-grabs-late-winner--debuts-fo",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Levi Colwill",
+          "id": "editorial/news/2021/08/23/colwill-goal-huddersfield",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea here Chelsea there: Colwill grabs late winner, debuts for Emerson and Batshuayi",
+      "publishDate": "2021-08-23T13:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/chelsea-here-chelsea-there--colwill-grabs-late-winner--debuts-fo.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Loan Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_loan-highlights"
+        }
+      ],
+      "date": "2021-08-23T13:18:00.000Z",
+      "description": "Levi Colwill’s maiden senior goal was a dramatic one and headlines our round-up of the latest action for those Chelsea players out on loan…"
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210823thank-you-for-raising-over-p225k",
       "type": "NewsCard",
@@ -530,54 +573,6 @@
       "date": "2021-08-22T14:30:00.000Z",
       "description": "Romelu Lukaku starts for Chelsea at Arsenal today, one of three changes Thomas Tuchel makes to his side.",
       "matchId": 2210281
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210822-i-let-my-football-do-the-talkin",
-      "type": "NewsCard",
-      "timestamp": "2021-08-22T11:00:00.000Z",
-      "orderDate": "2021-08-22T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/22/-i-let-my-football-do-the-talking----lukaku-reveals-what-matters",
-        "type": "NewsCard",
-        "title": "‘I let my football do the talking’ – Lukaku reveals what matters most to him",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/-i-let-my-football-do-the-talking----lukaku-reveals-what-matters.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-22T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/22/-i-let-my-football-do-the-talking----lukaku-reveals-what-matters",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Romelu Lukaku",
-          "id": "editorial/news/2021/08/22/lukaku-club-chelsea-bts-lifestyle",
-          "gravity": "auto",
-          "aspectRatio": 0.8,
-          "cropMode": "fill"
-        }
-      },
-      "content": "‘I let my football do the talking’ – Lukaku reveals what matters most to him",
-      "publishDate": "2021-08-22T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/-i-let-my-football-do-the-talking----lukaku-reveals-what-matters.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2021-08-22T11:00:00.000Z",
-      "description": "The time for talking is over. That’s Romelu Lukaku’s message on the day he could play his first Chelsea game in eight years."
     }
   ]
 }
