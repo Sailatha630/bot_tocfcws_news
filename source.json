@@ -141,6 +141,54 @@
       "matchId": 2210281
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210823liverpool-members-ticket-update",
+      "type": "NewsCard",
+      "timestamp": "2021-08-23T15:21:00.000Z",
+      "orderDate": "2021-08-23T03:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/23/liverpool-members-ticket-update",
+        "type": "NewsCard",
+        "title": "Liverpool members ticket update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/liverpool-members-ticket-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-23T15:21:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/23/liverpool-members-ticket-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Anfield",
+          "id": "editorial/news/2020/07/anfield-outside-view-pmb-june2020",
+          "gravity": "auto",
+          "aspectRatio": 1.4974705,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Liverpool members ticket update",
+      "publishDate": "2021-08-23T15:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/liverpool-members-ticket-update.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-08-23T15:21:00.000Z",
+      "description": "The number of loyalty points required by members to buy a ticket tomorrow (Tuesday) to our game at Anfield has been announced..."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210823lukaku-on-his-favourite-premier-",
       "type": "NewsCard",
@@ -485,60 +533,6 @@
       ],
       "date": "2021-08-22T18:17:00.000Z",
       "description": "Thomas Tuchel hailed Chelsea’s ‘perfect’ start to the season after watching his side claim a commanding victory away at Arsenal.",
-      "matchId": 2210281
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210822match-report--arsenal-vs-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-08-22T17:30:00.000Z",
-      "orderDate": "2021-08-22T17:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/22/match-report--arsenal-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match Report: Arsenal 0 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/match-report--arsenal-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-22T17:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/22/match-report--arsenal-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Romelu Lukaku",
-          "id": "editorial/match-reports/2021-22/arsenal-away/Lukaku_celeb_GettyImages-1335688694",
-          "gravity": "auto",
-          "aspectRatio": 1.7043597,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Arsenal 0 Chelsea 2",
-      "publishDate": "2021-08-22T17:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/22/match-report--arsenal-vs-chelsea.html",
-      "readTimeInMins": 20,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2021-08-22T17:30:00.000Z",
-      "description": "It was the perfect start to life as a Chelsea player again for Romelu Lukaku as his predatory early finish set us on our way to a comfortable victory at Arsenal.",
       "matchId": 2210281
     }
   ]
