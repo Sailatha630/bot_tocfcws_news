@@ -56,6 +56,49 @@
       "description": "Davide Zappacosta has today joined Atalanta on a permanent deal."
     },
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210824try-our-cesar-azpilicueta-quiz-",
+      "type": "NewsCard",
+      "timestamp": "2021-08-24T16:12:00.000Z",
+      "orderDate": "2021-08-24T14:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/24/try-our-cesar-azpilicueta-quiz-",
+        "type": "NewsCard",
+        "title": "Try our Cesar Azpilicueta quiz!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/try-our-cesar-azpilicueta-quiz-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-24T16:12:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/24/try-our-cesar-azpilicueta-quiz-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/08/18/Azpilicueta_DTW_1048",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Try our Cesar Azpilicueta quiz!",
+      "publishDate": "2021-08-24T16:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/try-our-cesar-azpilicueta-quiz-.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        }
+      ],
+      "date": "2021-08-24T16:12:00.000Z",
+      "description": "Reckon you know all there is to know about our club captain? Then why not put five minutes aside to try our tricky little test!"
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210824ask-me-anything-with-emma-hayes-",
       "type": "NewsCard",
@@ -494,54 +537,6 @@
       "date": "2021-08-23T11:00:00.000Z",
       "description": "Chelsea dominated Arsenal all over the pitch yesterday, and our statistical analysis highlights the performance of Romelu Lukaku on his second debut, the way in which Reece James and Marcos Alonso exploited the Gunners, and the influence of Andreas Christensen in the heart of our defence.",
       "matchId": 2210281
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210823liverpool-members-ticket-update",
-      "type": "NewsCard",
-      "timestamp": "2021-08-23T15:21:00.000Z",
-      "orderDate": "2021-08-23T03:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/23/liverpool-members-ticket-update",
-        "type": "NewsCard",
-        "title": "Liverpool members ticket update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/liverpool-members-ticket-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-23T15:21:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/23/liverpool-members-ticket-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Anfield",
-          "id": "editorial/news/2020/07/anfield-outside-view-pmb-june2020",
-          "gravity": "auto",
-          "aspectRatio": 1.4974705,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Liverpool members ticket update",
-      "publishDate": "2021-08-23T15:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/liverpool-members-ticket-update.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-08-23T15:21:00.000Z",
-      "description": "The number of loyalty points required by members to buy a ticket tomorrow (Tuesday) to our game at Anfield has been announced..."
     }
   ]
 }
