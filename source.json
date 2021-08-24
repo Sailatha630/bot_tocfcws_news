@@ -230,6 +230,49 @@
       "matchId": 2229488
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210824academy-fixture-update",
+      "type": "NewsCard",
+      "timestamp": "2021-08-24T11:26:00.000Z",
+      "orderDate": "2021-08-23T23:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/24/academy-fixture-update",
+        "type": "NewsCard",
+        "title": "Academy fixture update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/academy-fixture-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-24T11:26:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/24/academy-fixture-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Academy reception",
+          "id": "editorial/news/2020/04/Academy-reception",
+          "gravity": "auto",
+          "aspectRatio": 1.5002143,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Academy fixture update",
+      "publishDate": "2021-08-24T11:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/academy-fixture-update.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-08-24T11:26:00.000Z",
+      "description": "Dates and opponents have been confirmed for two upcoming cup competitions…"
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210823james-relishes-derby-goal-and-ai",
       "type": "NewsCard",
@@ -511,42 +554,6 @@
       ],
       "date": "2021-08-23T13:18:00.000Z",
       "description": "Levi Colwill’s maiden senior goal was a dramatic one and headlines our round-up of the latest action for those Chelsea players out on loan…"
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20210823chelsea-foundation-hosts-footbal",
-      "type": "NewsCard",
-      "timestamp": "2021-08-23T14:29:00.000Z",
-      "orderDate": "2021-08-23T02:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/23/chelsea-foundation-hosts-football-tournament-to-encourage-more-f",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation hosts football tournament to encourage more females to play competitively",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/chelsea-foundation-hosts-football-tournament-to-encourage-more-f.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-23T14:29:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/23/chelsea-foundation-hosts-football-tournament-to-encourage-more-f",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/08/23/ChelseaFoundation_Female_Only_Tournament",
-          "gravity": "auto",
-          "aspectRatio": 1.500938,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation hosts football tournament to encourage more females to play competitively",
-      "publishDate": "2021-08-23T14:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/23/chelsea-foundation-hosts-football-tournament-to-encourage-more-f.html",
-      "readTimeInMins": 7,
-      "tags": [],
-      "date": "2021-08-23T14:29:00.000Z",
-      "description": "The Chelsea Foundation recently hosted an all-female football tournament with an aim to increase female participation and encourage more females to play competitively."
     }
   ]
 }
