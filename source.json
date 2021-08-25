@@ -9,6 +9,54 @@
   "newsFeed": [
     {
       "contentType": "Interview",
+      "id": "_content_chelseafcennews20210825reece-s-rise-to-the-top",
+      "type": "NewsCard",
+      "timestamp": "2021-08-25T11:30:00.000Z",
+      "orderDate": "2021-08-25T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/25/reece-s-rise-to-the-top",
+        "type": "NewsCard",
+        "title": "Reece's rise to the top",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/25/reece-s-rise-to-the-top.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-25T11:30:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/08/25/reece-s-rise-to-the-top",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James",
+          "id": "editorial/news/2021/08/25/james-arsenal-celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.4394099,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Reece's rise to the top",
+      "publishDate": "2021-08-25T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/25/reece-s-rise-to-the-top.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-08-25T11:30:00.000Z",
+      "description": "From getting scouted as a seven-year-old to winning the Champions League with his boyhood club, it’s been quite a ride for Reece James at Chelsea. Here he tells his story…"
+    },
+    {
+      "contentType": "Interview",
       "id": "_content_chelseafcennews20210825christensen-on-centre-back-compe",
       "type": "NewsCard",
       "timestamp": "2021-08-25T03:00:00.000Z",
@@ -462,59 +510,6 @@
       ],
       "date": "2021-08-24T03:00:00.000Z",
       "description": "With exactly a week to go before the summer transfer window closes, Thomas Tuchel has declared himself happy with both the size and quality of his Chelsea squad, as well as the team spirit within it."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210824media-watch--chelsea-interested-",
-      "type": "NewsCard",
-      "timestamp": "2021-08-24T07:52:00.000Z",
-      "orderDate": "2021-08-24T01:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/24/media-watch--chelsea-interested-in-saul-loan--neville-tips-haver",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea interested in Saul loan, Neville tips Havertz to shine and Caballero praises Tuchel ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/media-watch--chelsea-interested-in-saul-loan--neville-tips-haver.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-24T07:52:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/24/media-watch--chelsea-interested-in-saul-loan--neville-tips-haver",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/Saul-mw-070621",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea interested in Saul loan, Neville tips Havertz to shine and Caballero praises Tuchel ",
-      "publishDate": "2021-08-24T07:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/media-watch--chelsea-interested-in-saul-loan--neville-tips-haver.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Willy Caballero",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_willy-caballero"
-        }
-      ],
-      "date": "2021-08-24T07:52:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Saul Niguez on loan while Gary Neville labels Kai Havertz as a player to watch this season."
     }
   ]
 }
