@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210825carabao-cup-third-round-draw",
+      "type": "NewsCard",
+      "timestamp": "2021-08-25T21:20:00.000Z",
+      "orderDate": "2021-08-25T21:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/25/carabao-cup-third-round-draw",
+        "type": "NewsCard",
+        "title": "Chelsea handed home draw in the Carabao Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/25/carabao-cup-third-round-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-25T21:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/25/carabao-cup-third-round-draw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Carabao Cup trophy",
+          "id": "editorial/news/2019/8/carabao-cup-trophy-draw",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea handed home draw in the Carabao Cup",
+      "publishDate": "2021-08-25T21:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/25/carabao-cup-third-round-draw.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2021-08-25T21:20:00.000Z",
+      "description": "Chelsea have been drawn to play Aston Villa at home in the third round of the Carabao Cup."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210825reece-s-rise-to-the-top",
       "type": "NewsCard",
@@ -439,48 +487,6 @@
       ],
       "date": "2021-08-24T16:12:00.000Z",
       "description": "Reckon you know all there is to know about our club captain? Then why not put five minutes aside to try our tricky little test!"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210824ask-me-anything-with-emma-hayes-",
-      "type": "NewsCard",
-      "timestamp": "2021-08-24T13:23:00.000Z",
-      "orderDate": "2021-08-24T13:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/24/ask-me-anything-with-emma-hayes---only-on-the-5th-stand-app-",
-        "type": "NewsCard",
-        "title": "Ask me anything with Emma Hayes - only on The 5th Stand app!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/ask-me-anything-with-emma-hayes---only-on-the-5th-stand-app-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-24T13:23:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/24/ask-me-anything-with-emma-hayes---only-on-the-5th-stand-app-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/07/03/hayes_close_up",
-          "gravity": "auto",
-          "aspectRatio": 1.5041128,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ask me anything with Emma Hayes - only on The 5th Stand app!",
-      "publishDate": "2021-08-24T13:23:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/ask-me-anything-with-emma-hayes---only-on-the-5th-stand-app-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-08-24T13:23:00.000Z",
-      "description": "Emma Hayes will sit down with the Chelsea app to answer YOUR questions exclusively on The 5th Stand this Friday!"
     }
   ]
 }
