@@ -9,6 +9,54 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210826who-can-chelsea-get-in-today-s-c",
+      "type": "NewsCard",
+      "timestamp": "2021-08-26T00:16:00.000Z",
+      "orderDate": "2021-08-26T00:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/26/who-can-chelsea-get-in-today-s-champions-league-draw-",
+        "type": "NewsCard",
+        "title": "Who can Chelsea get in today's Champions League draw?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/who-can-chelsea-get-in-today-s-champions-league-draw-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-26T00:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/26/who-can-chelsea-get-in-today-s-champions-league-draw-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Champions League trophy",
+          "id": "editorial/news/2021/08/25/Champions_League_trophy_GettyImages-1334125454",
+          "gravity": "west",
+          "aspectRatio": 1.4998497,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Who can Chelsea get in today's Champions League draw?",
+      "publishDate": "2021-08-26T00:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/who-can-chelsea-get-in-today-s-champions-league-draw-.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-08-26T00:16:00.000Z",
+      "description": "A little under three months since Chelsea lifted the Champions League trophy in Porto, the competition is getting back under way again, starting with this afternoon’s group stage draw in Turkey."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210825carabao-cup-third-round-draw",
       "type": "NewsCard",
       "timestamp": "2021-08-25T21:20:00.000Z",
@@ -444,49 +492,6 @@
       "date": "2021-08-24T20:17:00.000Z",
       "description": "Our development squad took two points from their opening Papa John’s Trophy fixture away to Exeter, winning a penalty shoot-out 4-3 after a 1-1 draw in normal time.",
       "matchId": 2229488
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210824try-our-cesar-azpilicueta-quiz-",
-      "type": "NewsCard",
-      "timestamp": "2021-08-24T16:12:00.000Z",
-      "orderDate": "2021-08-24T14:51:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/24/try-our-cesar-azpilicueta-quiz-",
-        "type": "NewsCard",
-        "title": "Try our Cesar Azpilicueta quiz!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/try-our-cesar-azpilicueta-quiz-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-24T16:12:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/24/try-our-cesar-azpilicueta-quiz-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/08/18/Azpilicueta_DTW_1048",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Try our Cesar Azpilicueta quiz!",
-      "publishDate": "2021-08-24T16:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/24/try-our-cesar-azpilicueta-quiz-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2021-08-24T16:12:00.000Z",
-      "description": "Reckon you know all there is to know about our club captain? Then why not put five minutes aside to try our tricky little test!"
     }
   ]
 }
