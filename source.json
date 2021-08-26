@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210826important-information-on-champio",
+      "type": "NewsCard",
+      "timestamp": "2021-08-26T14:12:00.000Z",
+      "orderDate": "2021-08-26T14:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/26/important-information-on-champions-league-travel",
+        "type": "NewsCard",
+        "title": "Important information on Champions League travel",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/important-information-on-champions-league-travel.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-26T14:12:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/26/important-information-on-champions-league-travel",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Champions League trophy",
+          "id": "editorial/news/2021/08/26/UCL_trophy_GettyImages-1233170262",
+          "gravity": "auto",
+          "aspectRatio": 1.5001369,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Important information on Champions League travel",
+      "publishDate": "2021-08-26T14:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/important-information-on-champions-league-travel.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Travel News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_travel-news"
+        },
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-08-26T14:12:00.000Z",
+      "description": "Supporters planning to attend our upcoming Champions League away fixtures are strongly urged to refrain from making any travel arrangements until more information is available."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210826two-blues-included-in-latest-eng",
       "type": "NewsCard",
@@ -457,49 +515,6 @@
       ],
       "date": "2021-08-25T11:30:00.000Z",
       "description": "From getting scouted as a seven-year-old to winning the Champions League with his boyhood club, it’s been quite a ride for Reece James at Chelsea. Here he tells his story…"
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210825ugbo-leaves-chelsea-for-genk",
-      "type": "NewsCard",
-      "timestamp": "2021-08-25T12:19:00.000Z",
-      "orderDate": "2021-08-25T05:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/25/ugbo-leaves-chelsea-for-genk",
-        "type": "NewsCard",
-        "title": "Ugbo leaves Chelsea for Genk",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/25/ugbo-leaves-chelsea-for-genk.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-25T12:19:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/25/ugbo-leaves-chelsea-for-genk",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ugbo",
-          "id": "editorial/news/2021/08/24/Ugbo_DAZ_4730-2403379_2021072791011796",
-          "gravity": "north",
-          "aspectRatio": 1.2878549,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ugbo leaves Chelsea for Genk",
-      "publishDate": "2021-08-25T12:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/25/ugbo-leaves-chelsea-for-genk.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-08-25T12:19:00.000Z",
-      "description": "Ike Ugbo has completed a permanent transfer from Chelsea to Belgian side KRC Genk."
     }
   ]
 }
