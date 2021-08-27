@@ -8,64 +8,11 @@
   },
   "newsFeed": [
     {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210827carabao-cup-third-round-date-con",
-      "type": "NewsCard",
-      "timestamp": "2021-08-27T09:04:00.000Z",
-      "orderDate": "2021-08-27T09:04:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/27/carabao-cup-third-round-date-confirmed",
-        "type": "NewsCard",
-        "title": "Carabao Cup third round date confirmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/carabao-cup-third-round-date-confirmed.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-27T09:04:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/27/carabao-cup-third-round-date-confirmed",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Carabao Cup",
-          "id": "editorial/news/2020/09/carabao_cup_trophy_stamford_bridge",
-          "gravity": "auto",
-          "aspectRatio": 1.5062388,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Carabao Cup third round date confirmed",
-      "publishDate": "2021-08-27T09:04:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/carabao-cup-third-round-date-confirmed.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-08-27T09:04:00.000Z",
-      "description": "The date and time for our Carabao Cup third round fixture against Aston Villa have been announced."
-    },
-    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210827pre-match-briefing--liverpool-vs",
       "type": "NewsCard",
       "timestamp": "2021-08-27T06:45:00.000Z",
-      "orderDate": "2021-08-27T06:45:00.000Z",
+      "orderDate": "2021-08-27T08:45:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2021/08/27/pre-match-briefing--liverpool-vs-chelsea",
         "type": "NewsCard",
@@ -118,6 +65,59 @@
       "date": "2021-08-27T06:45:00.000Z",
       "description": "As we venture out of the capital for the first time in this Premier League season, club historian Rick Glanvill and club statistician Paul Dutton set the scene ahead of a tasty Saturday teatime treat...",
       "matchId": 2210294
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210827carabao-cup-third-round-date-con",
+      "type": "NewsCard",
+      "timestamp": "2021-08-27T09:04:00.000Z",
+      "orderDate": "2021-08-27T08:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/27/carabao-cup-third-round-date-confirmed",
+        "type": "NewsCard",
+        "title": "Carabao Cup third round date confirmed",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/carabao-cup-third-round-date-confirmed.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-27T09:04:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/27/carabao-cup-third-round-date-confirmed",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Carabao Cup",
+          "id": "editorial/news/2020/09/carabao_cup_trophy_stamford_bridge",
+          "gravity": "auto",
+          "aspectRatio": 1.5062388,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Carabao Cup third round date confirmed",
+      "publishDate": "2021-08-27T09:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/carabao-cup-third-round-date-confirmed.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2021-08-27T09:04:00.000Z",
+      "description": "The date and time for our Carabao Cup third round fixture against Aston Villa have been announced."
     },
     {
       "contentType": "Interview",
