@@ -9,6 +9,49 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210827emma-hayes--ask-me-anything-",
+      "type": "NewsCard",
+      "timestamp": "2021-08-27T18:16:00.000Z",
+      "orderDate": "2021-08-27T13:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/27/emma-hayes--ask-me-anything-",
+        "type": "NewsCard",
+        "title": "Emma Hayes: Ask me anything!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/emma-hayes--ask-me-anything-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-27T18:16:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/27/emma-hayes--ask-me-anything-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Emma_Hayes_Stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5026069,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emma Hayes: Ask me anything!",
+      "publishDate": "2021-08-27T18:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/emma-hayes--ask-me-anything-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2021-08-27T18:16:00.000Z",
+      "description": "Chelsea Women's head coach Emma Hayes was a special guest on The 5th Stand app this afternoon, as she popped by to speak directly to Blues fans from around the world."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210827tuchel-comments-on-transfer-spec",
       "type": "NewsCard",
       "timestamp": "2021-08-27T13:08:00.000Z",
@@ -497,59 +540,6 @@
       ],
       "date": "2021-08-26T16:54:00.000Z",
       "description": "Chelsea have been grouped with Juventus, Zenit Saint Petersburg and Malmo in the first stage of the 2021/22 Champions League."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210826jorginho-named-uefa-men-s-player",
-      "type": "NewsCard",
-      "timestamp": "2021-08-26T16:02:00.000Z",
-      "orderDate": "2021-08-26T16:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/26/jorginho-named-uefa-men-s-player-of-the-year-",
-        "type": "NewsCard",
-        "title": "Jorginho named UEFA Men’s Player of the Year ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/jorginho-named-uefa-men-s-player-of-the-year-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-26T16:02:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/26/jorginho-named-uefa-men-s-player-of-the-year-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Jorginho",
-          "id": "editorial/news/2021/08/26/Jorginho-Palace-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho named UEFA Men’s Player of the Year ",
-      "publishDate": "2021-08-26T16:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/jorginho-named-uefa-men-s-player-of-the-year-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-08-26T16:02:00.000Z",
-      "description": "Jorginho has added another trophy to his incredible collection of silverware after being voted as the UEFA Men’s Player of the Year."
     }
   ]
 }
