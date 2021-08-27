@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210827pre-match-briefing--liverpool-vs",
+      "type": "NewsCard",
+      "timestamp": "2021-08-27T06:45:00.000Z",
+      "orderDate": "2021-08-27T06:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/27/pre-match-briefing--liverpool-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Liverpool vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/pre-match-briefing--liverpool-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-27T06:45:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/08/27/pre-match-briefing--liverpool-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Anfield",
+          "id": "editorial/news/2020/07/anfield-outside-view-pmb-june2020",
+          "gravity": "auto",
+          "aspectRatio": 1.4974705,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Liverpool vs Chelsea",
+      "publishDate": "2021-08-27T06:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/pre-match-briefing--liverpool-vs-chelsea.html",
+      "readTimeInMins": 28,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Pre-match Brief",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_pre-match-brief"
+        }
+      ],
+      "date": "2021-08-27T06:45:00.000Z",
+      "description": "As we venture out of the capital for the first time in this Premier League season, club historian Rick Glanvill and club statistician Paul Dutton set the scene ahead of a tasty Saturday teatime treat...",
+      "matchId": 2210294
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210827blues-bulletin--liverpool-vs-che",
       "type": "NewsCard",
       "timestamp": "2021-08-27T03:00:00.000Z",
@@ -503,44 +562,6 @@
       "tags": [],
       "date": "2021-08-26T10:20:00.000Z",
       "description": "Chelsea Women’s 2020/21 FA Cup campaign will resume next month with a quarter-final against Birmingham City on Wednesday 29 September."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210826chelsea-s-memorable-third-kit-ma",
-      "type": "NewsCard",
-      "timestamp": "2021-08-26T11:05:00.000Z",
-      "orderDate": "2021-08-26T07:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/26/chelsea-s-memorable-third-kit-matches",
-        "type": "NewsCard",
-        "title": "Chelsea’s memorable third kit matches",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/chelsea-s-memorable-third-kit-matches.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-26T11:05:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/26/chelsea-s-memorable-third-kit-matches",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Fernando Torres ",
-          "id": "video/2018/03/13/bring-on-barca--dqc2RvZTE6Q0bRzmHFywnV-6lxKmMNzZ/thumbnail",
-          "gravity": "auto",
-          "aspectRatio": 1.3764706,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Chelsea’s memorable third kit matches",
-      "publishDate": "2021-08-26T11:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/chelsea-s-memorable-third-kit-matches.html",
-      "readTimeInMins": 14,
-      "tags": [],
-      "date": "2021-08-26T11:05:00.000Z",
-      "description": "With Chelsea revealing a brand new third kit for the 2021/22 season, we take a look back at some great games of the recent past when the Blues have shone in our third-choice colours."
     }
   ]
 }
