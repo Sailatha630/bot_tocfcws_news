@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210827tuchel-comments-on-transfer-spec",
+      "type": "NewsCard",
+      "timestamp": "2021-08-27T13:08:00.000Z",
+      "orderDate": "2021-08-27T13:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/27/tuchel-comments-on-transfer-speculation-and-updates-on-zouma",
+        "type": "NewsCard",
+        "title": "Tuchel comments on transfer speculation and updates on Zouma",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/tuchel-comments-on-transfer-speculation-and-updates-on-zouma.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-27T13:08:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/27/tuchel-comments-on-transfer-speculation-and-updates-on-zouma",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Zouma-stock-GettyImages-1234385672",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel comments on transfer speculation and updates on Zouma",
+      "publishDate": "2021-08-27T13:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/tuchel-comments-on-transfer-speculation-and-updates-on-zouma.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Kurt Zouma",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kurt-zouma"
+        }
+      ],
+      "date": "2021-08-27T13:08:00.000Z",
+      "description": "Thomas Tuchel has said that there is a possibility that there could be more transfer activity at Chelsea before the window shuts and has confirmed that Kurt Zouma is in talks with West Ham.",
+      "matchId": 2210294
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210827pre-match-briefing--liverpool-vs",
       "type": "NewsCard",
@@ -495,64 +544,6 @@
       ],
       "date": "2021-08-26T16:00:00.000Z",
       "description": "Edouard Mendy and N’Golo Kante have been recognised as the best in their positions following Chelsea’s incredible European triumph last season."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210826important-information-on-champio",
-      "type": "NewsCard",
-      "timestamp": "2021-08-26T14:12:00.000Z",
-      "orderDate": "2021-08-26T14:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/26/important-information-on-champions-league-travel",
-        "type": "NewsCard",
-        "title": "Important information on Champions League travel",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/important-information-on-champions-league-travel.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-26T14:12:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/26/important-information-on-champions-league-travel",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Champions League trophy",
-          "id": "editorial/news/2021/08/26/UCL_trophy_GettyImages-1233170262",
-          "gravity": "auto",
-          "aspectRatio": 1.5001369,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important information on Champions League travel",
-      "publishDate": "2021-08-26T14:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/26/important-information-on-champions-league-travel.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Travel News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_travel-news"
-        },
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-08-26T14:12:00.000Z",
-      "description": "Supporters planning to attend our upcoming Champions League away fixtures are strongly urged to refrain from making any travel arrangements until more information is available."
     }
   ]
 }
