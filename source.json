@@ -8,6 +8,43 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210828fox-signs-first-professional-con",
+      "type": "NewsCard",
+      "timestamp": "2021-08-28T10:55:00.000Z",
+      "orderDate": "2021-08-28T10:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/28/fox-signs-first-professional-contract",
+        "type": "NewsCard",
+        "title": "Fox signs first professional contract",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/28/fox-signs-first-professional-contract.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-28T10:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/28/fox-signs-first-professional-contract",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Jorja_Fox_Signing",
+          "gravity": "auto",
+          "aspectRatio": 1.4997935,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Fox signs first professional contract",
+      "publishDate": "2021-08-28T10:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/28/fox-signs-first-professional-contract.html",
+      "readTimeInMins": 5,
+      "tags": [],
+      "date": "2021-08-28T10:55:00.000Z",
+      "description": "Jorja Fox has signed her first professional contract with Chelsea Women."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210828tuchel-on-why-hudson-odoi-could-",
       "type": "NewsCard",
@@ -466,69 +503,6 @@
       ],
       "date": "2021-08-27T09:04:00.000Z",
       "description": "The date and time for our Carabao Cup third round fixture against Aston Villa have been announced."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210827blues-legends-react-to-champions",
-      "type": "NewsCard",
-      "timestamp": "2021-08-27T05:58:00.000Z",
-      "orderDate": "2021-08-27T05:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/27/blues-legends-react-to-champions-league-draw",
-        "type": "NewsCard",
-        "title": "Blues legends react to Champions League draw",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/blues-legends-react-to-champions-league-draw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-27T05:58:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/08/27/blues-legends-react-to-champions-league-draw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Cech and Ivanovic",
-          "id": "editorial/news/2021/08/26/Ivanovic_Cech_GettyImages-611489830",
-          "gravity": "auto",
-          "aspectRatio": 1.5020169,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues legends react to Champions League draw",
-      "publishDate": "2021-08-27T05:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/blues-legends-react-to-champions-league-draw.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        },
-        {
-          "title": "Branislav Ivanovic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_branislav-ivanovic"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Michael Essien",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_michael-essien"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-08-27T05:58:00.000Z",
-      "description": "Chelsea’s 2012 Champions League winners Petr Cech, Branislav Ivanovic and Michael Essien have all given their verdict on this season’s group stage draw."
     }
   ]
 }
