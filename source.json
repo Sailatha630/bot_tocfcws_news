@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210828chelsea-line-up-vs-liverpool",
+      "type": "NewsCard",
+      "timestamp": "2021-08-28T15:30:00.000Z",
+      "orderDate": "2021-08-28T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/28/chelsea-line-up-vs-liverpool",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Liverpool",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/28/chelsea-line-up-vs-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-28T15:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/28/chelsea-line-up-vs-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Azpilicueta",
+          "id": "editorial/news/2021/08/28/GettyImages-1234814850",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Liverpool",
+      "publishDate": "2021-08-28T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/28/chelsea-line-up-vs-liverpool.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        }
+      ],
+      "date": "2021-08-28T15:30:00.000Z",
+      "description": "Cesar Azpilicueta makes his 300th Premier League appearance for Chelsea on his 32nd birthday as the Blues make one change from last weekend's win at Arsenal.",
+      "matchId": 2210294
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210828rudiger-breaks-down-chelsea-s-de",
       "type": "NewsCard",
@@ -444,54 +503,6 @@
       "date": "2021-08-27T14:12:00.000Z",
       "description": "Thomas Tuchel believes our trip to Anfield will be the perfect opportunity for his players to prove themselves after a positive start to the season, though he has cautioned that Liverpool will be a different proposition to the team we beat on Merseyside in March.",
       "matchId": 2210294
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210827baba-completes-championship-loan",
-      "type": "NewsCard",
-      "timestamp": "2021-08-27T16:00:00.000Z",
-      "orderDate": "2021-08-27T10:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/27/baba-completes-championship-loan",
-        "type": "NewsCard",
-        "title": "Baba completes Championship loan",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/baba-completes-championship-loan.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-27T16:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/27/baba-completes-championship-loan",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Baba Rahman",
-          "id": "editorial/news/2021/08/27/Baba-Rahman-Arsenal-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.7776097,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Baba completes Championship loan",
-      "publishDate": "2021-08-27T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/27/baba-completes-championship-loan.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Baba Rahman",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_baba-rahman"
-        }
-      ],
-      "date": "2021-08-27T16:00:00.000Z",
-      "description": "Baba Rahman has extended his contract with Chelsea and moved on loan to Championship side Reading for the remainder of the 2021/22 campaign."
     }
   ]
 }
