@@ -118,6 +118,102 @@
       "description": "Dujon Sterling has signed a new deal with Chelsea until June 2023 and moved on loan to Blackpool."
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210831tickets-together--both-aston-vil",
+      "type": "NewsCard",
+      "timestamp": "2021-08-31T11:16:00.000Z",
+      "orderDate": "2021-08-31T00:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/31/tickets-together--both-aston-villa-home-games-and-tottenham",
+        "type": "NewsCard",
+        "title": "Tickets Together: Both Aston Villa home games and Tottenham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/31/tickets-together--both-aston-villa-home-games-and-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-31T11:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/08/31/tickets-together--both-aston-villa-home-games-and-tottenham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ticket office",
+          "id": "editorial/news/2019/12/ticket-office-stamford-bridge-view",
+          "gravity": "auto",
+          "aspectRatio": 1.500122,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tickets Together: Both Aston Villa home games and Tottenham",
+      "publishDate": "2021-08-31T11:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/31/tickets-together--both-aston-villa-home-games-and-tottenham.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-08-31T11:16:00.000Z",
+      "description": "Ticket sales information has been released for our upcoming league and Carabao Cup meetings with Aston Villa, and the away game at Tottenham, while news on our Champions League home fixtures will be announced in due course."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210831media-watch--chelsea-linked-with",
+      "type": "NewsCard",
+      "timestamp": "2021-08-31T10:48:00.000Z",
+      "orderDate": "2021-08-30T23:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/08/31/media-watch--chelsea-linked-with-insigne--hasselbaink-backs-blue",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea linked with Insigne, Hasselbaink backs Blues for title and Vieira impressed by Gallagher",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/31/media-watch--chelsea-linked-with-insigne--hasselbaink-backs-blue.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-08-31T10:48:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/08/31/media-watch--chelsea-linked-with-insigne--hasselbaink-backs-blue",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/media-watch/Insigner-mw-310821",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea linked with Insigne, Hasselbaink backs Blues for title and Vieira impressed by Gallagher",
+      "publishDate": "2021-08-31T10:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/31/media-watch--chelsea-linked-with-insigne--hasselbaink-backs-blue.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        },
+        {
+          "title": "Jimmy Floyd Hasselbaink",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_jimmy-floyd-hasselbaink"
+        }
+      ],
+      "date": "2021-08-31T10:48:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in signing Lorenzo Insigne while Jimmy Floyd Hasselbaink backs Thomas Tuchel’s men for the title."
+    },
+    {
       "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20210830drinkwater-moves-to-reading-on-l",
       "type": "NewsCard",
@@ -360,11 +456,6 @@
       "readTimeInMins": 10,
       "tags": [
         {
-          "title": "Norwich City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_norwich-city"
-        },
-        {
           "title": "U18 - Premier League",
           "namespace": "content-tag:",
           "id": "content-tag_competition_academy-competitions_u18-premier-league"
@@ -373,6 +464,11 @@
           "title": "Under 18's",
           "namespace": "content-tag:",
           "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
         }
       ],
       "date": "2021-08-30T14:00:00.000Z",
@@ -451,88 +547,6 @@
       ],
       "date": "2021-08-30T10:10:00.000Z",
       "description": "Conor Gallagher and Armando Broja stand out in our round-up of the action involving Chelsea players on loan over the last week, with the duo scoring four goals between them..."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20210829havertz-pleased-to-score-and-del",
-      "type": "NewsCard",
-      "timestamp": "2021-08-29T12:49:00.000Z",
-      "orderDate": "2021-08-29T12:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/29/havertz-pleased-to-score-and-delighted-with-chelsea-s-fighting-s",
-        "type": "NewsCard",
-        "title": "Havertz pleased to score and delighted with Chelsea’s fighting spirit",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/29/havertz-pleased-to-score-and-delighted-with-chelsea-s-fighting-s.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-29T12:49:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/29/havertz-pleased-to-score-and-delighted-with-chelsea-s-fighting-s",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/liverpool-away/Havertz-goal-celebration-1",
-          "gravity": "auto",
-          "aspectRatio": 1.5003309,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz pleased to score and delighted with Chelsea’s fighting spirit",
-      "publishDate": "2021-08-29T12:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/29/havertz-pleased-to-score-and-delighted-with-chelsea-s-fighting-s.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        }
-      ],
-      "date": "2021-08-29T12:49:00.000Z",
-      "description": "Kai Havertz praised the spirit and character shown by Chelsea, as the 10-men Blues held Liverpool at Anfield on Saturday evening to ensure we left with a deserved share of the spoils.",
-      "matchId": 2210294
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210829pl2-report--west-ham-2-chelsea-1",
-      "type": "NewsCard",
-      "timestamp": "2021-08-29T15:06:00.000Z",
-      "orderDate": "2021-08-29T12:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/29/pl2-report--west-ham-2-chelsea-1",
-        "type": "NewsCard",
-        "title": "PL2 report: West Ham 2 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/29/pl2-report--west-ham-2-chelsea-1.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-29T15:06:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/29/pl2-report--west-ham-2-chelsea-1",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Fiabema-west-ham-away-GettyImages-1234939163",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 report: West Ham 2 Chelsea 1",
-      "publishDate": "2021-08-29T15:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/29/pl2-report--west-ham-2-chelsea-1.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-08-29T15:06:00.000Z",
-      "description": "Chelsea were narrowly defeated in Sunday’s PL2 clash with West Ham, being edged out 2-1 by our London rivals at Rush Green thanks to an injury-time winning goal.",
-      "matchId": 2237197
     }
   ]
 }
