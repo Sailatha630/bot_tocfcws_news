@@ -9,6 +9,54 @@
   "newsFeed": [
     {
       "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20210901chelsea-transfer-news--the-blues",
+      "type": "NewsCard",
+      "timestamp": "2021-09-01T08:30:00.000Z",
+      "orderDate": "2021-09-01T08:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/01/chelsea-transfer-news--the-blues--signings--outgoings-and-loan-m",
+        "type": "NewsCard",
+        "title": "Chelsea Transfer News: The Blues’ signings, outgoings and loan moves this summer",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/01/chelsea-transfer-news--the-blues--signings--outgoings-and-loan-m.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-01T08:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/01/chelsea-transfer-news--the-blues--signings--outgoings-and-loan-m",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Romelu Lukaku",
+          "id": "editorial/media-watch/Lukaku_-_DTW_0243",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Transfer News: The Blues’ signings, outgoings and loan moves this summer",
+      "publishDate": "2021-09-01T08:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/01/chelsea-transfer-news--the-blues--signings--outgoings-and-loan-m.html",
+      "readTimeInMins": 27,
+      "tags": [
+        {
+          "title": "Transfer",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_transfer"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-01T08:30:00.000Z",
+      "description": "The transfer window has now closed in England and most of Europe’s top leagues, and here we summarise all of Chelsea’s summer activity."
+    },
+    {
+      "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20210831saul-niguez---spanish-midfielder",
       "type": "NewsCard",
       "timestamp": "2021-08-31T22:45:00.000Z",
@@ -447,59 +495,6 @@
       ],
       "date": "2021-08-30T17:29:00.000Z",
       "description": "Danny Drinkwater has joined Reading on loan for the 2021/22 season."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210830bakayoko-returns-to-italy-on-loa",
-      "type": "NewsCard",
-      "timestamp": "2021-08-30T15:30:00.000Z",
-      "orderDate": "2021-08-30T15:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/30/bakayoko-returns-to-italy-on-loan",
-        "type": "NewsCard",
-        "title": "Bakayoko returns to Italy on loan",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/30/bakayoko-returns-to-italy-on-loan.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-30T15:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/30/bakayoko-returns-to-italy-on-loan",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Tiemoue Bakayoko playing",
-          "id": "editorial/news/2021/08/30/bakayoko_tottenham_mind_series",
-          "gravity": "face",
-          "aspectRatio": 0.7331254,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Bakayoko returns to Italy on loan",
-      "publishDate": "2021-08-30T15:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/30/bakayoko-returns-to-italy-on-loan.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Transfer",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_transfer"
-        },
-        {
-          "title": "Tiemoue Bakayoko",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tiemoue-bakayoko"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-08-30T15:30:00.000Z",
-      "description": "Tiemoue Bakayoko will spend this season back in Serie A after joining AC Milan on a two-year loan."
     }
   ]
 }
