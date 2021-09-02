@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20210902jorginho-on-cobham-bragging-righ",
+      "type": "NewsCard",
+      "timestamp": "2021-09-02T06:30:00.000Z",
+      "orderDate": "2021-09-02T06:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/02/jorginho-on-cobham-bragging-rights-and-italy-s-next-challenge",
+        "type": "NewsCard",
+        "title": "Jorginho on Cobham bragging rights and Italy’s next challenge",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/02/jorginho-on-cobham-bragging-rights-and-italy-s-next-challenge.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-02T06:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/02/jorginho-on-cobham-bragging-rights-and-italy-s-next-challenge",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jorginho",
+          "id": "editorial/news/2021/09/01/jorginho-italy-press-conference",
+          "gravity": "auto",
+          "aspectRatio": 1.3644366,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jorginho on Cobham bragging rights and Italy’s next challenge",
+      "publishDate": "2021-09-02T06:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/02/jorginho-on-cobham-bragging-rights-and-italy-s-next-challenge.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-09-02T06:30:00.000Z",
+      "description": "Jorginho’s focus tonight returns to international football as Italy host Bulgaria in a World Cup qualifier, and our midfielder has been assessing how the Azzurri can build on their triumph at Euro 2020."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210901exclusive-first-photos--saul-che",
       "type": "NewsCard",
@@ -458,59 +511,6 @@
       "tags": [],
       "date": "2021-08-31T11:49:00.000Z",
       "description": "Having a player sent off before half-time is never a good thing for a football team but as we discovered in the 1-1 draw at Liverpool on Saturday, Chelsea should never be counted out even with a man disadvantage."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20210831ballo-heads-on-loan-to-austria",
-      "type": "NewsCard",
-      "timestamp": "2021-08-31T14:06:00.000Z",
-      "orderDate": "2021-08-31T10:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/08/31/ballo-heads-on-loan-to-austria",
-        "type": "NewsCard",
-        "title": "Ballo heads on loan to Austria",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/31/ballo-heads-on-loan-to-austria.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-08-31T14:06:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/08/31/ballo-heads-on-loan-to-austria",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ballo",
-          "id": "editorial/news/2021/08/31/Ballo-stock",
-          "gravity": "north",
-          "aspectRatio": 1.5211726,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ballo heads on loan to Austria",
-      "publishDate": "2021-08-31T14:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/08/31/ballo-heads-on-loan-to-austria.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-08-31T14:06:00.000Z",
-      "description": "Academy forward Thierno Ballo has completed a season-long loan move to Rapid Vienna."
     }
   ]
 }
