@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210902saul-squad-number-confirmed",
+      "type": "NewsCard",
+      "timestamp": "2021-09-02T13:00:00.000Z",
+      "orderDate": "2021-09-02T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/02/saul-squad-number-confirmed",
+        "type": "NewsCard",
+        "title": "Saul squad number confirmed",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/02/saul-squad-number-confirmed.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-02T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/02/saul-squad-number-confirmed",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Saul",
+          "id": "editorial/news/2021/09/02/saul-shirt-print-squad-number",
+          "gravity": "auto",
+          "aspectRatio": 1.7776798,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Saul squad number confirmed",
+      "publishDate": "2021-09-02T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/02/saul-squad-number-confirmed.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Saul Niguez",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_saul-niguez"
+        }
+      ],
+      "date": "2021-09-02T13:00:00.000Z",
+      "description": "New Chelsea signing Saul Niguez will wear the number 17 shirt for the Blues this season."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210902saul-niguez-exclusive-first-inte",
       "type": "NewsCard",
@@ -468,54 +516,6 @@
       ],
       "date": "2021-09-01T20:55:00.000Z",
       "description": "The first international break of 2021/22 is underway and Chelsea players were in action in Europe and Africa on Wednesday night in their bids to make it to the 2022 World Cup in Qatar."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210901saul-niguez-quiz--how-much-do-yo",
-      "type": "NewsCard",
-      "timestamp": "2021-09-01T18:33:00.000Z",
-      "orderDate": "2021-09-01T18:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/01/saul-niguez-quiz--how-much-do-you-know-about-our-new-midfielder-",
-        "type": "NewsCard",
-        "title": "Saul Niguez quiz: How much do you know about our new midfielder?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/01/saul-niguez-quiz--how-much-do-you-know-about-our-new-midfielder-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-01T18:33:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/01/saul-niguez-quiz--how-much-do-you-know-about-our-new-midfielder-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Saul",
-          "id": "editorial/news/2021/09/01/saul-arrival-5",
-          "gravity": "auto",
-          "aspectRatio": 0.66680145,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Saul Niguez quiz: How much do you know about our new midfielder?",
-      "publishDate": "2021-09-01T18:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/01/saul-niguez-quiz--how-much-do-you-know-about-our-new-midfielder-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Saul Niguez",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_saul-niguez"
-        }
-      ],
-      "date": "2021-09-01T18:33:00.000Z",
-      "description": "Check your knowledge of the newest addition to the Chelsea squad with our Saul Niguez quiz..."
     }
   ]
 }
