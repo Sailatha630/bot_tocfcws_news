@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20210903from-atletico-to-chelsea--jimmy-",
+      "type": "NewsCard",
+      "timestamp": "2021-09-03T14:00:00.000Z",
+      "orderDate": "2021-09-03T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/03/from-atletico-to-chelsea--jimmy-floyd-hasselbaink-leads-the-way",
+        "type": "NewsCard",
+        "title": "From Atletico to Chelsea: Jimmy Floyd Hasselbaink leads the way",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/03/from-atletico-to-chelsea--jimmy-floyd-hasselbaink-leads-the-way.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-03T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/03/from-atletico-to-chelsea--jimmy-floyd-hasselbaink-leads-the-way",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Jimmy Floyd Hasselbaink",
+          "id": "editorial/news/2021/09/03/jimmy-floyd-hasselbaink-chelsea-stock-celebration",
+          "gravity": "south_west",
+          "aspectRatio": 1.5706806,
+          "cropMode": "fill"
+        }
+      },
+      "content": "From Atletico to Chelsea: Jimmy Floyd Hasselbaink leads the way",
+      "publishDate": "2021-09-03T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/03/from-atletico-to-chelsea--jimmy-floyd-hasselbaink-leads-the-way.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Jimmy Floyd Hasselbaink",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_jimmy-floyd-hasselbaink"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Saul Niguez",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_saul-niguez"
+        }
+      ],
+      "date": "2021-09-03T14:00:00.000Z",
+      "description": "Saul Niguez adds to the extensive list of players to drop two thirds of the red, white and blue of Atletico Madrid to join Chelsea. We look back at a man who made that same move, for a club-record fee, 21 years ago this summer."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210903vote-for-your-august-chelsea-goa",
       "type": "NewsCard",
@@ -456,54 +509,6 @@
       ],
       "date": "2021-09-02T12:00:00.000Z",
       "description": "Saul Niguez has been settling in at Cobham following his deadline day loan move from Atletico Madrid and we caught up with the Spanish midfielder for an exclusive first interview to discuss an opportunity too good to turn down and reuniting with old friends he hopes will help him adjust…"
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210902tottenham-ticket-update-for-memb",
-      "type": "NewsCard",
-      "timestamp": "2021-09-02T15:40:00.000Z",
-      "orderDate": "2021-09-02T11:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/02/tottenham-ticket-update-for-members",
-        "type": "NewsCard",
-        "title": "Tottenham ticket update for members",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/02/tottenham-ticket-update-for-members.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-02T15:40:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/02/tottenham-ticket-update-for-members",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tottenham Stadium",
-          "id": "editorial/news/2020/09/tottenham_stadium_aerial_view",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tottenham ticket update for members",
-      "publishDate": "2021-09-02T15:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/02/tottenham-ticket-update-for-members.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-09-02T15:40:00.000Z",
-      "description": "An update for members wishing to buy a ticket to our away game at Tottenham..."
     }
   ]
 }
