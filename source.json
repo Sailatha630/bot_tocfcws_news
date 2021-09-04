@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210904internationals--wins-for-christe",
+      "type": "NewsCard",
+      "timestamp": "2021-09-04T20:53:00.000Z",
+      "orderDate": "2021-09-04T20:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/04/internationals--wins-for-christensen--kovacic-and-gilmour",
+        "type": "NewsCard",
+        "title": "Internationals: Wins for Christensen, Kovacic and Gilmour",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/04/internationals--wins-for-christensen--kovacic-and-gilmour.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-04T20:53:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/04/internationals--wins-for-christensen--kovacic-and-gilmour",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Kovacic-GettyImages-1235054427",
+          "gravity": "auto",
+          "aspectRatio": 1.5028185,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Wins for Christensen, Kovacic and Gilmour",
+      "publishDate": "2021-09-04T20:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/04/internationals--wins-for-christensen--kovacic-and-gilmour.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy_gilmour"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2021-09-04T20:53:00.000Z",
+      "description": "It was a successful night on the international front for Chelsea trio Andreas Christensen, Mateo Kovacic and Billy Gilmour as they all helped their nations earn victory in the latest round of World Cup qualifying."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210904tuchel--it-s-an-honour-to-coach-",
       "type": "NewsCard",
@@ -465,53 +518,6 @@
       ],
       "date": "2021-09-03T08:00:00.000Z",
       "description": "August saw the return of club football for our men’s and Academy teams, while Chelsea Women continued their pre-season campaign, and now it’s time for you to vote for your favourite goal of the month…"
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210903women-s-play-predictor-has-arriv",
-      "type": "NewsCard",
-      "timestamp": "2021-09-03T11:30:00.000Z",
-      "orderDate": "2021-09-03T06:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/03/women-s-play-predictor-has-arrived-",
-        "type": "NewsCard",
-        "title": "Women’s Play Predictor has arrived!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/03/women-s-play-predictor-has-arrived-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-03T11:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/03/women-s-play-predictor-has-arrived-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Women-Play-Predictor-web-hero-",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s Play Predictor has arrived!",
-      "publishDate": "2021-09-03T11:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/03/women-s-play-predictor-has-arrived-.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-09-03T11:30:00.000Z",
-      "description": "Play Predictor is getting bigger and better this season with more chances to win big prizes with the launch of Chelsea Women’s Play Predictor for the 2021/22 season, exclusively on The 5th Stand app."
     }
   ]
 }
