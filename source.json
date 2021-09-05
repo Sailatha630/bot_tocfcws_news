@@ -8,6 +8,51 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210905women-s-report--arsenal-3-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-09-05T13:18:00.000Z",
+      "orderDate": "2021-09-05T13:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/05/women-s-report--arsenal-3-chelsea-2",
+        "type": "NewsCard",
+        "title": "Women's report: Arsenal 3 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/05/women-s-report--arsenal-3-chelsea-2.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-05T13:18:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/09/05/women-s-report--arsenal-3-chelsea-2",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reiten in action for the Blues",
+          "id": "editorial/match-reports/2021-22/arsenal-away-women/Reiten",
+          "gravity": "auto",
+          "aspectRatio": 1.5002309,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women's report: Arsenal 3 Chelsea 2",
+      "publishDate": "2021-09-05T13:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/05/women-s-report--arsenal-3-chelsea-2.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-09-05T13:18:00.000Z",
+      "description": "The Blues were on the wrong end of a five-goal thriller at the Emirates Stadium, as we fell to defeat in our Barclays Women’s Super League opener.",
+      "matchId": 2236317
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210905werner-back-in-stuttgart-and-aim",
       "type": "NewsCard",
@@ -450,59 +495,6 @@
       ],
       "date": "2021-09-03T20:59:00.000Z",
       "description": "Baba Rahman was the only Chelsea player involved in a senior men’s international today as Ghana’s World Cup qualifying campaign got off to a good start, but there was plenty of action for young Blues including an England goalscorer."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210903from-atletico-to-chelsea--jimmy-",
-      "type": "NewsCard",
-      "timestamp": "2021-09-03T14:00:00.000Z",
-      "orderDate": "2021-09-03T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/03/from-atletico-to-chelsea--jimmy-floyd-hasselbaink-leads-the-way",
-        "type": "NewsCard",
-        "title": "From Atletico to Chelsea: Jimmy Floyd Hasselbaink leads the way",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/03/from-atletico-to-chelsea--jimmy-floyd-hasselbaink-leads-the-way.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-03T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/03/from-atletico-to-chelsea--jimmy-floyd-hasselbaink-leads-the-way",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Jimmy Floyd Hasselbaink",
-          "id": "editorial/news/2021/09/03/jimmy-floyd-hasselbaink-chelsea-stock-celebration",
-          "gravity": "south_west",
-          "aspectRatio": 1.5706806,
-          "cropMode": "fill"
-        }
-      },
-      "content": "From Atletico to Chelsea: Jimmy Floyd Hasselbaink leads the way",
-      "publishDate": "2021-09-03T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/03/from-atletico-to-chelsea--jimmy-floyd-hasselbaink-leads-the-way.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Jimmy Floyd Hasselbaink",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_jimmy-floyd-hasselbaink"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Saul Niguez",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_saul-niguez"
-        }
-      ],
-      "date": "2021-09-03T14:00:00.000Z",
-      "description": "Saul Niguez adds to the extensive list of players to drop two thirds of the red, white and blue of Atletico Madrid to join Chelsea. We look back at a man who made that same move, for a club-record fee, 21 years ago this summer."
     }
   ]
 }
