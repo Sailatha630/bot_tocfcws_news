@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210905eriksson-outlines-new-goals-ahea",
+      "type": "NewsCard",
+      "timestamp": "2021-09-05T07:46:00.000Z",
+      "orderDate": "2021-09-05T07:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/05/eriksson-outlines-new-goals-ahead-of-arsenal-opener",
+        "type": "NewsCard",
+        "title": "Eriksson outlines new goals ahead of Arsenal opener",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/05/eriksson-outlines-new-goals-ahead-of-arsenal-opener.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-05T07:46:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/05/eriksson-outlines-new-goals-ahead-of-arsenal-opener",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Magda_Eriksson_Close_Shot",
+          "gravity": "auto",
+          "aspectRatio": 1.5021442,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Eriksson outlines new goals ahead of Arsenal opener",
+      "publishDate": "2021-09-05T07:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/05/eriksson-outlines-new-goals-ahead-of-arsenal-opener.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2021-09-05T07:46:00.000Z",
+      "description": "Chelsea Women begin our Barclays FA Women’s Super League title defence this afternoon and captain Magda Eriksson is confident the Blues can achieve more success this season.",
+      "matchId": 2236317
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210905mount-and-james-proud-of--histor",
       "type": "NewsCard",
@@ -460,54 +514,6 @@
       "date": "2021-09-03T16:30:00.000Z",
       "description": "Emma Hayes says her players are raring to go ahead of our Barclays FA Women’s Super League opener on Sunday, but the Chelsea boss expects a tough battle against Arsenal.",
       "matchId": 2236317
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210903zenit-ticket-details",
-      "type": "NewsCard",
-      "timestamp": "2021-09-03T13:14:00.000Z",
-      "orderDate": "2021-09-03T13:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/03/zenit-ticket-details",
-        "type": "NewsCard",
-        "title": "Tickets Together: Zenit, Man City, PL2 games and Women v Brighton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/03/zenit-ticket-details.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-03T13:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/03/zenit-ticket-details",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mason Mount",
-          "id": "editorial/news/2021/06/14/mount_champions_league_final",
-          "gravity": "auto",
-          "aspectRatio": 1.4033642,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tickets Together: Zenit, Man City, PL2 games and Women v Brighton",
-      "publishDate": "2021-09-03T13:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/03/zenit-ticket-details.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-09-03T13:14:00.000Z",
-      "description": "Ticket information for two men's fixtures, two Academy fixtures and a Women's fixture have been announced..."
     }
   ]
 }
