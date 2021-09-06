@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210906alonso-on-saul---he-s-a-great-pl",
+      "type": "NewsCard",
+      "timestamp": "2021-09-06T06:00:00.000Z",
+      "orderDate": "2021-09-06T06:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/06/alonso-on-saul---he-s-a-great-player-and-a-fun-guy-",
+        "type": "NewsCard",
+        "title": "Alonso on Saul: ‘He’s a great player and a fun guy’",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/06/alonso-on-saul---he-s-a-great-player-and-a-fun-guy-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-06T06:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/06/alonso-on-saul---he-s-a-great-player-and-a-fun-guy-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Alonso and Saul",
+          "id": "chelsea-app/Alonso-Saul-cobham-GettyImages-1337906944",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Alonso on Saul: ‘He’s a great player and a fun guy’",
+      "publishDate": "2021-09-06T06:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/06/alonso-on-saul---he-s-a-great-player-and-a-fun-guy-.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Saul Niguez",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_saul-niguez"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2021-09-06T06:00:00.000Z",
+      "description": "Five years after Marcos Alonso joined Chelsea on transfer deadline day, Saul Niguez did likewise, becoming the latest Spaniard to represent the Blues. To find out more about our new signing, we caught up with Alonso."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210905internationals--goals-for-broja-",
       "type": "NewsCard",
@@ -486,50 +539,6 @@
       ],
       "date": "2021-09-04T03:00:00.000Z",
       "description": "Trevoh Chalobah, the latest Academy graduate to make his mark in the first team, is the first player to sit down and answer our 10 questions this season…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210904arsenal-women-v-chelsea-women-pr",
-      "type": "NewsCard",
-      "timestamp": "2021-09-04T08:59:00.000Z",
-      "orderDate": "2021-09-04T00:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/04/arsenal-women-v-chelsea-women-preview--kick-off-time--how-to-fol",
-        "type": "NewsCard",
-        "title": "Arsenal Women v Chelsea Women preview: Kick-off time, how to follow and much more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/04/arsenal-women-v-chelsea-women-preview--kick-off-time--how-to-fol.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-04T08:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/04/arsenal-women-v-chelsea-women-preview--kick-off-time--how-to-fol",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/GettyImages-1331830919",
-          "gravity": "auto",
-          "aspectRatio": 1.5001929,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Arsenal Women v Chelsea Women preview: Kick-off time, how to follow and much more",
-      "publishDate": "2021-09-04T08:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/04/arsenal-women-v-chelsea-women-preview--kick-off-time--how-to-fol.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-09-04T08:59:00.000Z",
-      "description": "Chelsea FC Women are back in Barclay’s FA Women’s Super League action tomorrow, when we travel to the Emirates to face Arsenal in a mouthwatering opening league fixture. Here we preview the game and explain how you can follow all the action...",
-      "matchId": 2236317
     }
   ]
 }
