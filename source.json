@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210906pulisic--lukaku-and-havertz-prov",
+      "type": "NewsCard",
+      "timestamp": "2021-09-06T16:00:00.000Z",
+      "orderDate": "2021-09-06T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/06/pulisic--lukaku-and-havertz-provide-fitness-update-after-interna",
+        "type": "NewsCard",
+        "title": "Pulisic, Lukaku and Havertz provide fitness update after international action",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/06/pulisic--lukaku-and-havertz-provide-fitness-update-after-interna.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-06T16:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/06/pulisic--lukaku-and-havertz-provide-fitness-update-after-interna",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic and Havertz",
+          "id": "editorial/media-watch/Pulisic-DTW_6799",
+          "gravity": "faces",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic, Lukaku and Havertz provide fitness update after international action",
+      "publishDate": "2021-09-06T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/06/pulisic--lukaku-and-havertz-provide-fitness-update-after-interna.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2021-09-06T16:00:00.000Z",
+      "description": "Christian Pulisic reported feeling ‘pretty good’ on his return to action for the first time since testing positive for Covid-19 as he played 90 minutes in a 1-1 draw for the USA against Canada.",
+      "matchId": 2210303
+    },
+    {
       "contentType": "History",
       "id": "_content_chelseafcennews20210906pierluigi-casiraghi--a-story-of-",
       "type": "NewsCard",
@@ -476,60 +535,6 @@
       ],
       "date": "2021-09-05T11:25:00.000Z",
       "description": "Timo Werner was back among the goals for Germany in midweek and the forward is hoping that finding the net will add to his confidence at the start of this new campaign."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210905eriksson-outlines-new-goals-ahea",
-      "type": "NewsCard",
-      "timestamp": "2021-09-05T07:46:00.000Z",
-      "orderDate": "2021-09-05T07:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/05/eriksson-outlines-new-goals-ahead-of-arsenal-opener",
-        "type": "NewsCard",
-        "title": "Eriksson outlines new goals ahead of Arsenal opener",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/05/eriksson-outlines-new-goals-ahead-of-arsenal-opener.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-05T07:46:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/05/eriksson-outlines-new-goals-ahead-of-arsenal-opener",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Magda_Eriksson_Close_Shot",
-          "gravity": "auto",
-          "aspectRatio": 1.5021442,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Eriksson outlines new goals ahead of Arsenal opener",
-      "publishDate": "2021-09-05T07:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/05/eriksson-outlines-new-goals-ahead-of-arsenal-opener.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2021-09-05T07:46:00.000Z",
-      "description": "Chelsea Women begin our Barclays FA Women’s Super League title defence this afternoon and captain Magda Eriksson is confident the Blues can achieve more success this season.",
-      "matchId": 2236317
     }
   ]
 }
