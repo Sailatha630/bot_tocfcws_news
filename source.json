@@ -8,6 +8,73 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210907pat-nevin--why-this-is-when-the-",
+      "type": "NewsCard",
+      "timestamp": "2021-09-07T03:00:00.000Z",
+      "orderDate": "2021-09-07T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/07/pat-nevin--why-this-is-when-the-season-really-starts",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Why this is when the season really starts",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/07/pat-nevin--why-this-is-when-the-season-really-starts.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-07T03:00:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/09/07/pat-nevin--why-this-is-when-the-season-really-starts",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/news/2021/09/07/stamford-bridge-view-inside-sunny",
+          "gravity": "auto",
+          "aspectRatio": 1.5001523,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Why this is when the season really starts",
+      "publishDate": "2021-09-07T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/07/pat-nevin--why-this-is-when-the-season-really-starts.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-09-07T03:00:00.000Z",
+      "description": "With the Blues in action every weekend and midweek until the next pause for international football, Chelsea great Pat Nevin is prepared for the meaty part of the 2021/22 campaign to begin, and is already looking forward to our upcoming home fixtures against Aston Villa and Zenit St Petersburg..."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210906pulisic--lukaku-and-havertz-prov",
       "type": "NewsCard",
@@ -487,54 +554,6 @@
       "date": "2021-09-05T13:18:00.000Z",
       "description": "The Blues were on the wrong end of a five-goal thriller at the Emirates Stadium, as we fell to defeat in our Barclays Women’s Super League opener.",
       "matchId": 2236317
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210905werner-back-in-stuttgart-and-aim",
-      "type": "NewsCard",
-      "timestamp": "2021-09-05T11:25:00.000Z",
-      "orderDate": "2021-09-05T11:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/05/werner-back-in-stuttgart-and-aiming-to-continue-in-a-good-direct",
-        "type": "NewsCard",
-        "title": "Werner back in Stuttgart and aiming to continue in a good direction",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/05/werner-back-in-stuttgart-and-aiming-to-continue-in-a-good-direct.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-05T11:25:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/05/werner-back-in-stuttgart-and-aiming-to-continue-in-a-good-direct",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Werner",
-          "id": "editorial/news/2021/09/05/Werner-Germany-press-conference",
-          "gravity": "face",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Werner back in Stuttgart and aiming to continue in a good direction",
-      "publishDate": "2021-09-05T11:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/05/werner-back-in-stuttgart-and-aiming-to-continue-in-a-good-direct.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-09-05T11:25:00.000Z",
-      "description": "Timo Werner was back among the goals for Germany in midweek and the forward is hoping that finding the net will add to his confidence at the start of this new campaign."
     }
   ]
 }
