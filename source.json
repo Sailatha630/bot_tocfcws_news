@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210908extra-time-with----marcos-alonso",
+      "type": "NewsCard",
+      "timestamp": "2021-09-08T06:30:00.000Z",
+      "orderDate": "2021-09-08T06:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/08/extra-time-with----marcos-alonso",
+        "type": "NewsCard",
+        "title": "Extra Time With... Marcos Alonso",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/08/extra-time-with----marcos-alonso.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-08T06:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/08/extra-time-with----marcos-alonso",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Marcos Alonso",
+          "id": "editorial/news/2021/09/08/alonso-extra-time-with-header",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Extra Time With... Marcos Alonso",
+      "publishDate": "2021-09-08T06:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/08/extra-time-with----marcos-alonso.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2021-09-08T06:30:00.000Z",
+      "description": "In our feature finding out what the Chelsea players enjoy away from football, Marcos Alonso picks three other sports he is passionate about."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20210907internationals--big-victory-on-l",
       "type": "NewsCard",
@@ -489,59 +537,6 @@
       ],
       "date": "2021-09-06T14:00:00.000Z",
       "description": "Harvey Vale has been shortlisted for the Premier League’s PL2 Player of the Month award for August after the 17-year-old netted three goals in as many games for our development squad."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210906alonso-on-saul---he-s-a-great-pl",
-      "type": "NewsCard",
-      "timestamp": "2021-09-06T06:00:00.000Z",
-      "orderDate": "2021-09-06T06:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/06/alonso-on-saul---he-s-a-great-player-and-a-fun-guy-",
-        "type": "NewsCard",
-        "title": "Alonso on Saul: ‘He’s a great player and a fun guy’",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/06/alonso-on-saul---he-s-a-great-player-and-a-fun-guy-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-06T06:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/06/alonso-on-saul---he-s-a-great-player-and-a-fun-guy-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Alonso and Saul",
-          "id": "chelsea-app/Alonso-Saul-cobham-GettyImages-1337906944",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Alonso on Saul: ‘He’s a great player and a fun guy’",
-      "publishDate": "2021-09-06T06:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/06/alonso-on-saul---he-s-a-great-player-and-a-fun-guy-.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Saul Niguez",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_saul-niguez"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-09-06T06:00:00.000Z",
-      "description": "Five years after Marcos Alonso joined Chelsea on transfer deadline day, Saul Niguez did likewise, becoming the latest Spaniard to represent the Blues. To find out more about our new signing, we caught up with Alonso."
     }
   ]
 }
