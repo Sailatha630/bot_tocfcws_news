@@ -8,6 +8,80 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210909gallery--internationals-start-to",
+      "type": "NewsCard",
+      "timestamp": "2021-09-09T19:17:00.000Z",
+      "orderDate": "2021-09-09T19:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/09/gallery--internationals-start-to-return",
+        "type": "NewsCard",
+        "title": "Gallery: Internationals start to return",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/gallery--internationals-start-to-return.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-09T19:17:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/09/gallery--internationals-start-to-return",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lukaku training",
+          "id": "editorial/news/2021/09/09/Lukaku-training-090921",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Internationals start to return",
+      "publishDate": "2021-09-09T19:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/gallery--internationals-start-to-return.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Saul Niguez",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_saul-niguez"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        },
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2021-09-09T19:17:00.000Z",
+      "description": "A number of our internationals returned to training at Cobham today as the hard work continues with such a quick turnaround before the Premier League campaign resumes this weekend.",
+      "matchId": 2210303
+    },
+    {
       "contentType": "Columnist",
       "id": "_content_chelseafcennews20210909petr-cech-column-setting-the-ton",
       "type": "NewsCard",
@@ -501,49 +575,6 @@
       ],
       "date": "2021-09-08T06:30:00.000Z",
       "description": "In our feature finding out what the Chelsea players enjoy away from football, Marcos Alonso picks three other sports he is passionate about."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210908champions-league-away-fixtures",
-      "type": "NewsCard",
-      "timestamp": "2021-09-08T15:45:00.000Z",
-      "orderDate": "2021-09-08T06:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/08/champions-league-away-fixtures",
-        "type": "NewsCard",
-        "title": "Champions League away fixtures",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/08/champions-league-away-fixtures.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-08T15:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/08/champions-league-away-fixtures",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Chelsea fans in Porto",
-          "id": "galleries/champions-league-final-2021/cl_final_fans_2",
-          "gravity": "auto",
-          "aspectRatio": 1.6718996,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Champions League away fixtures",
-      "publishDate": "2021-09-08T15:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/08/champions-league-away-fixtures.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-09-08T15:45:00.000Z",
-      "description": "We note UEFA’s update regarding the lifting of a ban on away fans attending Champions League and other European competition matches, but we would strongly advise Chelsea supporters do not book travel to our group stage away games."
     }
   ]
 }
