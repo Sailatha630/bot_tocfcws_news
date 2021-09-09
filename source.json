@@ -8,6 +8,68 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210909petr-cech-column-setting-the-ton",
+      "type": "NewsCard",
+      "timestamp": "2021-09-09T09:40:00.000Z",
+      "orderDate": "2021-09-09T09:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/09/petr-cech-column-setting-the-tone-and-romelu-return",
+        "type": "NewsCard",
+        "title": "Petr Cech column: Setting the tone and Romelu's return",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/petr-cech-column-setting-the-tone-and-romelu-return.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-09T09:40:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/09/09/petr-cech-column-setting-the-tone-and-romelu-return",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Petr Cech and the Super Cup",
+          "id": "editorial/news/2021/09/09/cech-stamford-bridge-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5969338,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Petr Cech column: Setting the tone and Romelu's return",
+      "publishDate": "2021-09-09T09:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/petr-cech-column-setting-the-tone-and-romelu-return.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Petr Cech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_petr-cech"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Petr",
+        "lastName": "Cech",
+        "description": " ",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Petr Cecg",
+          "id": "video/2021/03/23/-porto-are-always-a-tough-opponent--you-have-to-respect-them-----3Ytf4Dtj/210323_Cech_UCL_Thumb1",
+          "gravity": "face",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-09-09T09:40:00.000Z",
+      "description": "In the first of a new regular column, our great former goalkeeper and current technical and performance advisor Petr Cech shares some of his views and recollections on Chelsea and the game of football."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210909media-watch--chelsea-linked-to-k",
       "type": "NewsCard",
@@ -466,59 +528,6 @@
       ],
       "date": "2021-09-07T20:34:00.000Z",
       "description": "Andreas Christensen marked his 50th international appearance in some style as his Denmark side recorded a commanding win over Israel, while Mateo Kovacic and Billy Gilmour earned important three points for their countries’ chances of qualifying for the next World Cup."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210907-i-know-he-believes-in-me----chr",
-      "type": "NewsCard",
-      "timestamp": "2021-09-07T13:00:00.000Z",
-      "orderDate": "2021-09-07T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/07/-i-know-he-believes-in-me----christensen-on-tuchel-s-trust",
-        "type": "NewsCard",
-        "title": "‘I know he believes in me’ – Christensen on Tuchel’s trust",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/07/-i-know-he-believes-in-me----christensen-on-tuchel-s-trust.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-07T13:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/07/-i-know-he-believes-in-me----christensen-on-tuchel-s-trust",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Christensen and Tuchel",
-          "id": "editorial/news/2021/09/07/Tuchel-Christensen-Liverpool-away",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "‘I know he believes in me’ – Christensen on Tuchel’s trust",
-      "publishDate": "2021-09-07T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/07/-i-know-he-believes-in-me----christensen-on-tuchel-s-trust.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-09-07T13:00:00.000Z",
-      "description": "An ever-present for club and country so far this term, Andreas Christensen is arguably in the most settled form of his career and has pinpointed the faith of his manager as a significant factor in that."
     }
   ]
 }
