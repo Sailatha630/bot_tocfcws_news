@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210910pre-match-briefing--chelsea-vs-a",
+      "type": "NewsCard",
+      "timestamp": "2021-09-10T08:32:00.000Z",
+      "orderDate": "2021-09-10T08:32:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/10/pre-match-briefing--chelsea-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/pre-match-briefing--chelsea-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-10T08:32:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/09/10/pre-match-briefing--chelsea-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Outside Stamford Bridge",
+          "id": "editorial/news/2021/09/10/stamford_bridge_2021_outside_west_stand",
+          "gravity": "auto",
+          "aspectRatio": 1.5001605,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Aston Villa",
+      "publishDate": "2021-09-10T08:32:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/pre-match-briefing--chelsea-vs-aston-villa.html",
+      "readTimeInMins": 62,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-09-10T08:32:00.000Z",
+      "description": "Our opponents from the last game before we were crowned European champions provide the opposition for the second home match of this season. Club historian Rick Glanvill and club statistician preview the game…",
+      "matchId": 2210303
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210909blues-bulletin--chelsea-vs-aston",
       "type": "NewsCard",
       "timestamp": "2021-09-10T02:29:00.000Z",
@@ -498,59 +552,6 @@
       ],
       "date": "2021-09-09T16:19:00.000Z",
       "description": "Regulation changes for this season mean all supporters visiting our stadiums should be aware of the following information."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210909media-watch--chelsea-linked-to-k",
-      "type": "NewsCard",
-      "timestamp": "2021-09-09T08:50:00.000Z",
-      "orderDate": "2021-09-08T23:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/09/media-watch--chelsea-linked-to-kessie--terry-lauds-lukaku-signin",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea linked to Kessie, Terry lauds Lukaku signing and Southgate backs Hudson-Odoi for England return",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/media-watch--chelsea-linked-to-kessie--terry-lauds-lukaku-signin.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-09T08:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/09/media-watch--chelsea-linked-to-kessie--terry-lauds-lukaku-signin",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/kessie-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea linked to Kessie, Terry lauds Lukaku signing and Southgate backs Hudson-Odoi for England return",
-      "publishDate": "2021-09-09T08:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/media-watch--chelsea-linked-to-kessie--terry-lauds-lukaku-signin.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "John Terry",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-terry"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2021-09-09T08:50:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Franck Kessie while John Terry has praised Romelu Lukaku’s return to Stamford Bridge"
     }
   ]
 }
