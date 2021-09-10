@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210910thomas-tuchel-issues-chelsea-inj",
+      "type": "NewsCard",
+      "timestamp": "2021-09-10T13:11:00.000Z",
+      "orderDate": "2021-09-10T13:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/10/thomas-tuchel-issues-chelsea-injury-update-",
+        "type": "NewsCard",
+        "title": "Tuchel: Two out, one available and one maybe for Villa game",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/thomas-tuchel-issues-chelsea-injury-update-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-10T13:11:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/10/thomas-tuchel-issues-chelsea-injury-update-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kante and Pulisic",
+          "id": "editorial/news/2021/09/14/kante-pulisic-training",
+          "gravity": "auto",
+          "aspectRatio": 1.4998308,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Two out, one available and one maybe for Villa game",
+      "publishDate": "2021-09-10T13:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/thomas-tuchel-issues-chelsea-injury-update-.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-09-10T13:11:00.000Z",
+      "description": "Thomas Tuchel was back on media duty at Cobham this afternoon ahead of our return to Premier League action, and the boss issued an update on four Chelsea players’ availability for the meeting with Aston Villa at Stamford Bridge tomorrow.",
+      "matchId": 2210303
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210909chalobah-debut-strike-voted-chel",
       "type": "NewsCard",
       "timestamp": "2021-09-10T10:59:00.000Z",
@@ -506,54 +565,6 @@
       ],
       "date": "2021-09-09T14:04:00.000Z",
       "description": "With the transfer window now closed, Chelsea's squad for the 2021/22 Premier League campaign has been submitted."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210909buy-your-zenit-and-aston-villa-t",
-      "type": "NewsCard",
-      "timestamp": "2021-09-09T12:45:00.000Z",
-      "orderDate": "2021-09-09T07:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/09/buy-your-zenit-and-aston-villa-tickets-",
-        "type": "NewsCard",
-        "title": "Buy your Zenit and Aston Villa tickets!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/buy-your-zenit-and-aston-villa-tickets-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-09T12:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/09/buy-your-zenit-and-aston-villa-tickets-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge",
-          "id": "editorial/news/2019/1/Shed-END_Night-Pano",
-          "gravity": "auto",
-          "aspectRatio": 1.5695068,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Buy your Zenit and Aston Villa tickets!",
-      "publishDate": "2021-09-09T12:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/buy-your-zenit-and-aston-villa-tickets-.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-09-09T12:45:00.000Z",
-      "description": "All Chelsea supporters can now buy up to four tickets per person for our upcoming games against Zenit St Petersburg and Aston Villa."
     }
   ]
 }
