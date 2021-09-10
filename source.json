@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210909blues-bulletin--chelsea-vs-aston",
+      "type": "NewsCard",
+      "timestamp": "2021-09-10T02:29:00.000Z",
+      "orderDate": "2021-09-10T02:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/09/blues-bulletin--chelsea-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Aston Villa ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/blues-bulletin--chelsea-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-10T02:29:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/09/09/blues-bulletin--chelsea-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva and Toni Rudiger doing battle with Ollie Watkins",
+          "id": "editorial/news/2021/05/24/Kovacic_GettyImages-1319629043",
+          "gravity": "auto",
+          "aspectRatio": 1.3876041,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Aston Villa ",
+      "publishDate": "2021-09-10T02:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/blues-bulletin--chelsea-vs-aston-villa.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        }
+      ],
+      "date": "2021-09-10T02:29:00.000Z",
+      "description": "The Premier League season resumes this weekend and so does the Blues Bulletin, focusing on the key pre-match stats and information you need, and featuring brand new graphics...",
+      "matchId": 2210303
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210909gallery--internationals-start-to",
       "type": "NewsCard",
@@ -527,54 +581,6 @@
       ],
       "date": "2021-09-08T20:24:00.000Z",
       "description": "It was a proud night for Jorginho as he captained Italy for the first time, while Timo Werner and Antonio Rudiger were among the goals for Germany."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210908extra-time-with----marcos-alonso",
-      "type": "NewsCard",
-      "timestamp": "2021-09-08T06:30:00.000Z",
-      "orderDate": "2021-09-08T06:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/08/extra-time-with----marcos-alonso",
-        "type": "NewsCard",
-        "title": "Extra Time With... Marcos Alonso",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/08/extra-time-with----marcos-alonso.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-08T06:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/08/extra-time-with----marcos-alonso",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Marcos Alonso",
-          "id": "editorial/news/2021/09/08/alonso-extra-time-with-header",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Extra Time With... Marcos Alonso",
-      "publishDate": "2021-09-08T06:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/08/extra-time-with----marcos-alonso.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-09-08T06:30:00.000Z",
-      "description": "In our feature finding out what the Chelsea players enjoy away from football, Marcos Alonso picks three other sports he is passionate about."
     }
   ]
 }
