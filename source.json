@@ -52,6 +52,65 @@
       "matchId": 2210303
     },
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20210909pre-match-quiz--goals-galore-ver",
+      "type": "NewsCard",
+      "timestamp": "2021-09-11T09:58:00.000Z",
+      "orderDate": "2021-09-11T07:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/09/pre-match-quiz--goals-galore-versus-villa",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Goals galore versus Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/pre-match-quiz--goals-galore-versus-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-11T09:58:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/09/pre-match-quiz--goals-galore-versus-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hazard",
+          "id": "editorial/news/2021/09/09/Hazard_Villa_GettyImages-177160985",
+          "gravity": "auto",
+          "aspectRatio": 1.7773836,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Goals galore versus Villa",
+      "publishDate": "2021-09-11T09:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/pre-match-quiz--goals-galore-versus-villa.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-09-11T09:58:00.000Z",
+      "description": "We have enjoyed some pretty good days in front of goal against Aston Villa at Stamford Bridge. Get ready for Saturday’s game by testing your knowledge of some of those high-scoring matches…",
+      "matchId": 2210303
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210911tuchel--possible-for-saul-to-pla",
       "type": "NewsCard",
@@ -534,60 +593,6 @@
       ],
       "date": "2021-09-10T10:59:00.000Z",
       "description": "Trevoh Chalobah’s stunner in our opening Premier League game of the season has been voted as our Goal of the Month for August."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210910pre-match-briefing--chelsea-vs-a",
-      "type": "NewsCard",
-      "timestamp": "2021-09-10T08:32:00.000Z",
-      "orderDate": "2021-09-10T08:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/10/pre-match-briefing--chelsea-vs-aston-villa",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Aston Villa",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/pre-match-briefing--chelsea-vs-aston-villa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-10T08:32:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/09/10/pre-match-briefing--chelsea-vs-aston-villa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Outside Stamford Bridge",
-          "id": "editorial/news/2021/09/10/stamford_bridge_2021_outside_west_stand",
-          "gravity": "auto",
-          "aspectRatio": 1.5001605,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Aston Villa",
-      "publishDate": "2021-09-10T08:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/pre-match-briefing--chelsea-vs-aston-villa.html",
-      "readTimeInMins": 63,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        }
-      ],
-      "date": "2021-09-10T08:32:00.000Z",
-      "description": "Our opponents from the last game before we were crowned European champions provide the opposition for the second home match of this season. Club historian Rick Glanvill and club statistician preview the game…",
-      "matchId": 2210303
     }
   ]
 }
