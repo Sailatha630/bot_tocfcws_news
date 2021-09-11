@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210911chelsea-line-up-vs-aston-villa",
+      "type": "NewsCard",
+      "timestamp": "2021-09-11T15:30:00.000Z",
+      "orderDate": "2021-09-11T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/11/chelsea-line-up-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/chelsea-line-up-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-11T15:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/11/chelsea-line-up-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Saul shirt",
+          "id": "editorial/match-reports/2021-22/aston-villa-home/DAZ_0071-2505173",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Aston Villa",
+      "publishDate": "2021-09-11T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/chelsea-line-up-vs-aston-villa.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-11T15:30:00.000Z",
+      "description": "Saul makes his Chelsea debut today, and there are also starts for Callum Hudson-Odoi, Hakim Ziyech and Trevoh Chalobah.",
+      "matchId": 2210303
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210911christensen--we-are-hungry-to-ke",
       "type": "NewsCard",
@@ -529,65 +583,6 @@
       ],
       "date": "2021-09-10T13:28:00.000Z",
       "description": "Saul could make his Chelsea debut tomorrow and ahead of that fixture against Aston Villa Thomas Tuchel explained why he was so keen to bring the midfielder to Chelsea.",
-      "matchId": 2210303
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210910thomas-tuchel-issues-chelsea-inj",
-      "type": "NewsCard",
-      "timestamp": "2021-09-10T13:11:00.000Z",
-      "orderDate": "2021-09-10T13:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/10/thomas-tuchel-issues-chelsea-injury-update-",
-        "type": "NewsCard",
-        "title": "Tuchel: Two out, one available and one maybe for Villa game",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/thomas-tuchel-issues-chelsea-injury-update-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-10T13:11:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/10/thomas-tuchel-issues-chelsea-injury-update-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kante and Pulisic",
-          "id": "editorial/news/2021/09/14/kante-pulisic-training",
-          "gravity": "auto",
-          "aspectRatio": 1.4998308,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Two out, one available and one maybe for Villa game",
-      "publishDate": "2021-09-10T13:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/thomas-tuchel-issues-chelsea-injury-update-.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        }
-      ],
-      "date": "2021-09-10T13:11:00.000Z",
-      "description": "Thomas Tuchel was back on media duty at Cobham this afternoon ahead of our return to Premier League action, and the boss issued an update on four Chelsea players’ availability for the meeting with Aston Villa at Stamford Bridge tomorrow.",
       "matchId": 2210303
     }
   ]
