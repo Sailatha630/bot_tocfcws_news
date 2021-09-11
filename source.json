@@ -239,6 +239,55 @@
       "matchId": 2210303
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210911under-18s-report--chelsea-v-birm",
+      "type": "NewsCard",
+      "timestamp": "2021-09-11T12:50:00.000Z",
+      "orderDate": "2021-09-11T00:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/11/under-18s-report--chelsea-v-birmingham",
+        "type": "NewsCard",
+        "title": "Under-18s report: Chelsea 3 Birmingham 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/under-18s-report--chelsea-v-birmingham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-11T12:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/11/under-18s-report--chelsea-v-birmingham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Malik Mothersille",
+          "id": "editorial/news/2021/09/11/Mothersille-CFCU18",
+          "gravity": "north",
+          "aspectRatio": 1.3577743,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Under-18s report: Chelsea 3 Birmingham 0",
+      "publishDate": "2021-09-11T12:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/under-18s-report--chelsea-v-birmingham.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-09-11T12:50:00.000Z",
+      "description": "Our youth team continued their winning start to 2021/22 with goals from Louis Flower and a Malik Mothersille brace at Cobham.",
+      "matchId": 2238211
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210911chelsea-women-v-everton-women-pr",
       "type": "NewsCard",
@@ -540,65 +589,6 @@
       "date": "2021-09-10T13:11:00.000Z",
       "description": "Thomas Tuchel was back on media duty at Cobham this afternoon ahead of our return to Premier League action, and the boss issued an update on four Chelsea players’ availability for the meeting with Aston Villa at Stamford Bridge tomorrow.",
       "matchId": 2210303
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210910hayes-targets-three-points-again",
-      "type": "NewsCard",
-      "timestamp": "2021-09-10T16:00:00.000Z",
-      "orderDate": "2021-09-10T11:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/10/hayes-targets-three-points-against-the-toffees",
-        "type": "NewsCard",
-        "title": "Hayes targets three points against the Toffees",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/hayes-targets-three-points-against-the-toffees.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-10T16:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/10/hayes-targets-three-points-against-the-toffees",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Emma_Hayes_Arsenal_Awy",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes targets three points against the Toffees",
-      "publishDate": "2021-09-10T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/hayes-targets-three-points-against-the-toffees.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2021-09-10T16:00:00.000Z",
-      "description": "Emma Hayes is excited about the return of our Blues fans for this weekend’s game against Everton at Kingsmeadow.",
-      "matchId": 2236324
     }
   ]
 }
