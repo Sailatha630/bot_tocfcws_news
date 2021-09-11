@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210911christensen--we-are-hungry-to-ke",
+      "type": "NewsCard",
+      "timestamp": "2021-09-11T11:30:00.000Z",
+      "orderDate": "2021-09-11T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/11/christensen--we-are-hungry-to-keep-riding-this-wave",
+        "type": "NewsCard",
+        "title": "Christensen: We are hungry to keep riding this wave",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/christensen--we-are-hungry-to-keep-riding-this-wave.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-11T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/11/christensen--we-are-hungry-to-keep-riding-this-wave",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Andreas Christensen",
+          "id": "editorial/news/2021/09/11/andreas-christensen-stock-21-22",
+          "gravity": "auto",
+          "aspectRatio": 1.4995146,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Christensen: We are hungry to keep riding this wave",
+      "publishDate": "2021-09-11T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/christensen--we-are-hungry-to-keep-riding-this-wave.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-09-11T11:30:00.000Z",
+      "description": "Andreas Christensen is aware of the positive feeling around the club following our recent European successes, and the defender wants to help ensure that momentum is maintained as we head into a busy spell of fixtures.",
+      "matchId": 2210303
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210911thiago-silva-cleared-for-chelsea",
       "type": "NewsCard",
@@ -540,59 +599,6 @@
       "date": "2021-09-10T16:00:00.000Z",
       "description": "Emma Hayes is excited about the return of our Blues fans for this weekend’s game against Everton at Kingsmeadow.",
       "matchId": 2236324
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210909chalobah-debut-strike-voted-chel",
-      "type": "NewsCard",
-      "timestamp": "2021-09-10T10:59:00.000Z",
-      "orderDate": "2021-09-10T10:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/09/chalobah-debut-strike-voted-chelsea-s-august-goal-of-the-month",
-        "type": "NewsCard",
-        "title": "Chalobah debut strike voted Chelsea’s August Goal of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/chalobah-debut-strike-voted-chelsea-s-august-goal-of-the-month.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-10T10:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/09/chalobah-debut-strike-voted-chelsea-s-august-goal-of-the-month",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Chalobah",
-          "id": "editorial/news/2021/08/17/trevoh-chalobah-fans-celebration-goal",
-          "gravity": "west",
-          "aspectRatio": 1.4847181,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chalobah debut strike voted Chelsea’s August Goal of the Month",
-      "publishDate": "2021-09-10T10:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/09/chalobah-debut-strike-voted-chelsea-s-august-goal-of-the-month.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Goal of the Month",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_goal-of-the-month"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Trevoh Chalobah",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_trevor-chalobah"
-        }
-      ],
-      "date": "2021-09-10T10:59:00.000Z",
-      "description": "Trevoh Chalobah’s stunner in our opening Premier League game of the season has been voted as our Goal of the Month for August."
     }
   ]
 }
