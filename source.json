@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210911match-report--chelsea-vs-aston-v",
+      "type": "NewsCard",
+      "timestamp": "2021-09-11T18:40:00.000Z",
+      "orderDate": "2021-09-11T18:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/11/match-report--chelsea-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 3 Aston Villa 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/match-report--chelsea-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-11T18:40:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/11/match-report--chelsea-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lukaku celebrating",
+          "id": "editorial/match-reports/2021-22/aston-villa-home/villa-h-1-lukaku-celeb",
+          "gravity": "auto",
+          "aspectRatio": 1.4995787,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 3 Aston Villa 0",
+      "publishDate": "2021-09-11T18:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/match-report--chelsea-vs-aston-villa.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-09-11T18:40:00.000Z",
+      "description": "Chelsea continued our excellent start to the Premier League season as a much-changed team defeated Aston Villa 3-0 in the first game after the September international break.",
+      "matchId": 2210303
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210911chelsea-line-up-vs-aston-villa",
       "type": "NewsCard",
@@ -505,70 +559,6 @@
       ],
       "date": "2021-09-09T16:19:00.000Z",
       "description": "Regulation changes for this season mean all supporters visiting our stadiums should be aware of the following information."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210910alonso-exclusive-and-tribute-to-",
-      "type": "NewsCard",
-      "timestamp": "2021-09-10T09:47:00.000Z",
-      "orderDate": "2021-09-10T18:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/10/alonso-exclusive-and-tribute-to-sean-lock-in-matchday-programme",
-        "type": "NewsCard",
-        "title": "Alonso exclusive and tribute to Sean Lock in matchday programme",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/alonso-exclusive-and-tribute-to-sean-lock-in-matchday-programme.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-10T09:47:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/10/alonso-exclusive-and-tribute-to-sean-lock-in-matchday-programme",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Alonso",
-          "id": "editorial/news/2021/09/10/Alonso_GettyImages-1337905337",
-          "gravity": "auto",
-          "aspectRatio": 1.5028117,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Alonso exclusive and tribute to Sean Lock in matchday programme",
-      "publishDate": "2021-09-10T09:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/10/alonso-exclusive-and-tribute-to-sean-lock-in-matchday-programme.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Programmes",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_programmes"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-09-10T09:47:00.000Z",
-      "description": "Don’t forget to pick up your copy of the Chelsea matchday programme when you arrive at Stamford Bridge for the game against Aston Villa.",
-      "matchId": 2210303
     }
   ]
 }
