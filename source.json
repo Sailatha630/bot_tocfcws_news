@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210912kovacic--winning-that-game-by-th",
+      "type": "NewsCard",
+      "timestamp": "2021-09-12T03:30:00.000Z",
+      "orderDate": "2021-09-12T03:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/12/kovacic--winning-that-game-by-that-score-says-a-lot-about-us",
+        "type": "NewsCard",
+        "title": "Kovacic: Winning that game by that score says a lot about us",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/12/kovacic--winning-that-game-by-that-score-says-a-lot-about-us.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-12T03:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/12/kovacic--winning-that-game-by-that-score-says-a-lot-about-us",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mateo Kovacic",
+          "id": "editorial/news/2021/09/11/kovacic_villa_home",
+          "gravity": "face",
+          "aspectRatio": 0.77297795,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kovacic: Winning that game by that score says a lot about us",
+      "publishDate": "2021-09-12T03:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/12/kovacic--winning-that-game-by-that-score-says-a-lot-about-us.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2021-09-12T03:30:00.000Z",
+      "description": "Mateo Kovacic ended a 21-month wait for a Chelsea goal when he scored the second in Saturday tea-time’s 3-0 victory over Aston Villa but there was plenty more to his performance than just that strike.",
+      "matchId": 2210303
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210911tuchel-on-chelsea-s-room-for-imp",
       "type": "NewsCard",
@@ -543,55 +602,6 @@
       "date": "2021-09-11T03:30:00.000Z",
       "description": "Stamford Bridge could witness a debut today Thomas Tuchel has confirmed, and if it happens, it will be a bow in addition to Romelu Lukaku’s possible ‘second home debut’ as a Chelsea player.",
       "matchId": 2210303
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210911under-18s-report--chelsea-v-birm",
-      "type": "NewsCard",
-      "timestamp": "2021-09-11T12:50:00.000Z",
-      "orderDate": "2021-09-11T00:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/11/under-18s-report--chelsea-v-birmingham",
-        "type": "NewsCard",
-        "title": "Under-18s report: Chelsea 3 Birmingham 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/under-18s-report--chelsea-v-birmingham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-11T12:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/11/under-18s-report--chelsea-v-birmingham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Malik Mothersille",
-          "id": "editorial/news/2021/09/11/Mothersille-CFCU18",
-          "gravity": "north",
-          "aspectRatio": 1.3577743,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Under-18s report: Chelsea 3 Birmingham 0",
-      "publishDate": "2021-09-11T12:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/11/under-18s-report--chelsea-v-birmingham.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-09-11T12:50:00.000Z",
-      "description": "Our youth team continued their winning start to 2021/22 with goals from Louis Flower and a Malik Mothersille brace at Cobham.",
-      "matchId": 2238211
     }
   ]
 }
