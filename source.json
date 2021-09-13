@@ -78,6 +78,65 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210913tuchel-on-being-addicted-to-winn",
+      "type": "NewsCard",
+      "timestamp": "2021-09-13T13:45:00.000Z",
+      "orderDate": "2021-09-13T11:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/13/tuchel-on-being-addicted-to-winning-and-the-importance-of-lukaku",
+        "type": "NewsCard",
+        "title": "Tuchel on being addicted to winning and the importance of Lukaku’s fast start",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/13/tuchel-on-being-addicted-to-winning-and-the-importance-of-lukaku.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-13T13:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/13/tuchel-on-being-addicted-to-winning-and-the-importance-of-lukaku",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel press conference",
+          "id": "editorial/news/2021/09/13/Tuchel-press-conference-pre-Zenit",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on being addicted to winning and the importance of Lukaku’s fast start",
+      "publishDate": "2021-09-13T13:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/13/tuchel-on-being-addicted-to-winning-and-the-importance-of-lukaku.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-09-13T13:45:00.000Z",
+      "description": "Thomas Tuchel believes starting a new Champions League campaign as the defending champions does not diminish Chelsea’s motivation to triumph again in European football’s biggest club competition because winning in elite-level sport is an addictive feeling.",
+      "matchId": 2244591
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210913alonso-backs-lukaku-in-golden-bo",
       "type": "NewsCard",
       "timestamp": "2021-09-13T09:20:00.000Z",
@@ -534,55 +593,6 @@
       "date": "2021-09-12T07:51:00.000Z",
       "description": "With our 3-0 victory over Aston Villa on Saturday making Chelsea just the second club to win 600 Premier League games, we take a look at some of the Blues’ other landmark victories in the top flight over the course of the past 30 seasons...",
       "matchId": 2210303
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20210912play-predictor-champions-league-",
-      "type": "NewsCard",
-      "timestamp": "2021-09-12T19:00:00.000Z",
-      "orderDate": "2021-09-12T13:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/12/play-predictor-champions-league-prize-edition-launched",
-        "type": "NewsCard",
-        "title": "Play Predictor Champions League prize edition launched",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/12/play-predictor-champions-league-prize-edition-launched.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-12T19:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/12/play-predictor-champions-league-prize-edition-launched",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Play Predictor",
-          "id": "editorial/news/2021/09/10/Play_Predictor_Champions_League_2870x1300",
-          "gravity": "center",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Play Predictor Champions League prize edition launched",
-      "publishDate": "2021-09-12T19:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/12/play-predictor-champions-league-prize-edition-launched.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2021-09-12T19:00:00.000Z",
-      "description": "As Chelsea begin our Champions League defence, you’ve got the chance to win big with Play Predictor, exclusively on The 5th Stand app.",
-      "matchId": 2244591
     }
   ]
 }
