@@ -8,6 +8,73 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnist",
+      "id": "_content_chelseafcennews20210914pat-nevin--are-there-midfielders",
+      "type": "NewsCard",
+      "timestamp": "2021-09-14T09:42:00.000Z",
+      "orderDate": "2021-09-14T09:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/14/pat-nevin--are-there-midfielders-who-work-better-together-",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Are there midfielders who work better together?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/14/pat-nevin--are-there-midfielders-who-work-better-together-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-14T09:42:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/09/14/pat-nevin--are-there-midfielders-who-work-better-together-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kovacic and Jorginho",
+          "id": "editorial/match-reports/2021-22/aston-villa-home/MOTM-villa",
+          "gravity": "north_east",
+          "aspectRatio": 1.5084112,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Are there midfielders who work better together?",
+      "publishDate": "2021-09-14T09:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/14/pat-nevin--are-there-midfielders-who-work-better-together-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-09-14T09:42:00.000Z",
+      "description": "Chelsea legend Pat Nevin is licking his lips at the thought of a full Stamford Bridge on a Champions League night, and when it comes to which players are on the pitch, the possibilities are extensive, as he discusses in this week’s column…"
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210914pre-match-briefing--chelsea-vs-z",
       "type": "NewsCard",
@@ -477,49 +544,6 @@
       "date": "2021-09-13T13:45:00.000Z",
       "description": "Thomas Tuchel believes starting a new Champions League campaign as the defending champions does not diminish Chelsea’s motivation to triumph again in European football’s biggest club competition because winning in elite-level sport is an addictive feeling.",
       "matchId": 2244591
-    },
-    {
-      "contentType": "Club Partners",
-      "id": "_content_chelseafcennews20210913new-chelsea-ratings-revealed-for",
-      "type": "NewsCard",
-      "timestamp": "2021-09-13T15:00:00.000Z",
-      "orderDate": "2021-09-13T09:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/13/new-chelsea-ratings-revealed-for-fifa-22",
-        "type": "NewsCard",
-        "title": "New Chelsea ratings revealed for FIFA 22",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/13/new-chelsea-ratings-revealed-for-fifa-22.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-13T15:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/13/new-chelsea-ratings-revealed-for-fifa-22",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Pulisic EA Sports",
-          "id": "editorial/news/2021/09/13/EA_FIFA_22_RATINGS_reveal_2",
-          "gravity": "auto",
-          "aspectRatio": 1.7781264,
-          "cropMode": "fill"
-        }
-      },
-      "content": "New Chelsea ratings revealed for FIFA 22",
-      "publishDate": "2021-09-13T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/13/new-chelsea-ratings-revealed-for-fifa-22.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "EA Sports",
-          "namespace": "content-tag:",
-          "id": "content-tag_Partners_ea-sports"
-        }
-      ],
-      "date": "2021-09-13T15:00:00.000Z",
-      "description": "Before the arrival of EA SPORTS FIFA 22 next month, the ratings for your favourite Chelsea players have been revealed…"
     }
   ]
 }
