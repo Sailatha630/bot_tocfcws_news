@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210914chelsea-line-up-vs-zenit-st-pete",
+      "type": "NewsCard",
+      "timestamp": "2021-09-14T17:59:00.000Z",
+      "orderDate": "2021-09-14T17:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/14/chelsea-line-up-vs-zenit-st-petersburg",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Zenit St Petersburg",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/14/chelsea-line-up-vs-zenit-st-petersburg.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-14T17:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/14/chelsea-line-up-vs-zenit-st-petersburg",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Changing room",
+          "id": "editorial/match-reports/2021-22/zenit-home/Changing_room_DAZ_1096-2515591_2021091463132218",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Zenit St Petersburg",
+      "publishDate": "2021-09-14T17:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/14/chelsea-line-up-vs-zenit-st-petersburg.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-09-14T17:59:00.000Z",
+      "description": "Thomas Tuchel has made five changes to his team to face Zenit St Petersburg for tonight's opening Champions League fixture, including the return of Mason Mount.",
+      "matchId": 2244591
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210914azpilicueta-on--great-additions-",
       "type": "NewsCard",
@@ -507,65 +561,6 @@
       ],
       "date": "2021-09-14T03:00:00.000Z",
       "description": "Thomas Tuchel believes Ben Chilwell is now back ‘in the race’ for a starting spot after a difficult few months for the defender.",
-      "matchId": 2244591
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210914chilwell-and-carvalho-exclusives",
-      "type": "NewsCard",
-      "timestamp": "2021-09-14T10:19:00.000Z",
-      "orderDate": "2021-09-14T00:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/14/chilwell-and-carvalho-exclusives-in-champions-league-programme",
-        "type": "NewsCard",
-        "title": "Chilwell and Carvalho exclusives in Champions League programme",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/14/chilwell-and-carvalho-exclusives-in-champions-league-programme.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-14T10:19:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/14/chilwell-and-carvalho-exclusives-in-champions-league-programme",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chilwell",
-          "id": "editorial/news/2021/09/14/Chilwell_GettyImages-1235234664",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chilwell and Carvalho exclusives in Champions League programme",
-      "publishDate": "2021-09-14T10:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/14/chilwell-and-carvalho-exclusives-in-champions-league-programme.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Ricardo Carvalho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_ricardo-carvalho"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-09-14T10:19:00.000Z",
-      "description": "The programme for tonight’s Champions League opener against Zenit St Petersburg has exclusive interviews with two defensive rocks for Chelsea in the competition, as Ben Chilwell and Ricardo Carvalho talk about their experiences at Stamford Bridge.",
       "matchId": 2244591
     }
   ]
