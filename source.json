@@ -9,6 +9,59 @@
   "newsFeed": [
     {
       "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210915lukaku-happy-to-add-to-his-tally",
+      "type": "NewsCard",
+      "timestamp": "2021-09-15T16:30:00.000Z",
+      "orderDate": "2021-09-15T16:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/15/lukaku-happy-to-add-to-his-tally-and-delighted-with-champions-le",
+        "type": "NewsCard",
+        "title": "Lukaku happy to add to his tally and delighted with Champions League win",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/15/lukaku-happy-to-add-to-his-tally-and-delighted-with-champions-le.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-15T16:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/15/lukaku-happy-to-add-to-his-tally-and-delighted-with-champions-le",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Lukaku-GettyImages-1340326980",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lukaku happy to add to his tally and delighted with Champions League win",
+      "publishDate": "2021-09-15T16:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/15/lukaku-happy-to-add-to-his-tally-and-delighted-with-champions-le.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2021-09-15T16:30:00.000Z",
+      "description": "Romelu Lukaku was delighted to add another goal to his Chelsea tally and, most importantly, help the Blues get off to a winning start in the Champions League.",
+      "matchId": 2244591
+    },
+    {
+      "contentType": "Analysis",
       "id": "_content_chelseafcennews20210915the-debrief--patience-and-findin",
       "type": "NewsCard",
       "timestamp": "2021-09-15T12:35:00.000Z",
@@ -541,60 +594,6 @@
       ],
       "date": "2021-09-14T17:10:00.000Z",
       "description": "Thomas Tuchel, Jorginho, Edouard Mendy and N’Golo Kante were presented with awards by UEFA President Aleksander Ceferin before kick-off at our opening match of this season’s Champions League.",
-      "matchId": 2244591
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210914chelsea-line-up-vs-zenit-st-pete",
-      "type": "NewsCard",
-      "timestamp": "2021-09-14T17:59:00.000Z",
-      "orderDate": "2021-09-14T17:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/14/chelsea-line-up-vs-zenit-st-petersburg",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Zenit St Petersburg",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/14/chelsea-line-up-vs-zenit-st-petersburg.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-14T17:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/14/chelsea-line-up-vs-zenit-st-petersburg",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Changing room",
-          "id": "editorial/match-reports/2021-22/zenit-home/Changing_room_DAZ_1096-2515591_2021091463132218",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Zenit St Petersburg",
-      "publishDate": "2021-09-14T17:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/14/chelsea-line-up-vs-zenit-st-petersburg.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-09-14T17:59:00.000Z",
-      "description": "Thomas Tuchel has made five changes to his team to face Zenit St Petersburg for tonight's opening Champions League fixture, including the return of Mason Mount.",
       "matchId": 2244591
     }
   ]
