@@ -125,6 +125,60 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210916information-for-supporters-atten",
+      "type": "NewsCard",
+      "timestamp": "2021-09-16T10:59:00.000Z",
+      "orderDate": "2021-09-16T00:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/16/information-for-supporters-attending-tottenham-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Information for supporters attending Tottenham vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/information-for-supporters-attending-tottenham-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-16T10:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/16/information-for-supporters-attending-tottenham-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tottenham Stadium",
+          "id": "editorial/news/2020/09/tottenham_stadium_aerial_view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Information for supporters attending Tottenham vs Chelsea",
+      "publishDate": "2021-09-16T10:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/information-for-supporters-attending-tottenham-vs-chelsea.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Travel News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_travel-news"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-16T10:59:00.000Z",
+      "description": "Chelsea supporters visiting the Tottenham Hotspur Stadium on Sunday are asked to read the following information.",
+      "matchId": 2210318
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210916media-watch--stiff-competition-f",
       "type": "NewsCard",
       "timestamp": "2021-09-16T09:18:00.000Z",
@@ -517,55 +571,6 @@
       ],
       "date": "2021-09-15T06:35:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, the Blues are reportedly interested in Aurelien Tchouameni and Joe Cole backs us to retain the Champions League."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210915juventus-away-ticket-update",
-      "type": "NewsCard",
-      "timestamp": "2021-09-15T11:48:00.000Z",
-      "orderDate": "2021-09-14T23:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/15/juventus-away-ticket-update",
-        "type": "NewsCard",
-        "title": "Juventus away ticket update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/15/juventus-away-ticket-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-15T11:48:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/15/juventus-away-ticket-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Allianz Stadium",
-          "id": "editorial/news/2021/09/15/Juventus-Allianz-Stadium-view-v2",
-          "gravity": "south",
-          "aspectRatio": 1.8463993,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Juventus away ticket update",
-      "publishDate": "2021-09-15T11:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/15/juventus-away-ticket-update.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-09-15T11:48:00.000Z",
-      "description": "An update for supporters wishing to attend our upcoming Champions League match in Turin...",
-      "matchId": 2244608
     }
   ]
 }
