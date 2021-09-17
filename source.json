@@ -67,6 +67,51 @@
       "matchId": 2210318
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210917tuchel--we-were-shocked-by-reece",
+      "type": "NewsCard",
+      "timestamp": "2021-09-17T14:00:00.000Z",
+      "orderDate": "2021-09-17T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/17/tuchel--we-were-shocked-by-reece-james-robbery",
+        "type": "NewsCard",
+        "title": "Tuchel: We were shocked by Reece James robbery",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/tuchel--we-were-shocked-by-reece-james-robbery.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-17T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/17/tuchel--we-were-shocked-by-reece-james-robbery",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel and Reece James training",
+          "id": "editorial/news/2021/09/17/tuchel_reece_james_training",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Tuchel: We were shocked by Reece James robbery",
+      "publishDate": "2021-09-17T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/tuchel--we-were-shocked-by-reece-james-robbery.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-17T14:00:00.000Z",
+      "description": "The club is giving support to Reece James following a break-in at his house Thomas Tuchel has confirmed, and he suggests the young player will be benefiting from the build-up to a big game like the one this weekend as something to take his attention away from the disturbing incident.",
+      "matchId": 2210318
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210916blues-bulletin--tottenham-vs-che",
       "type": "NewsCard",
@@ -485,54 +530,6 @@
       ],
       "date": "2021-09-16T10:16:00.000Z",
       "description": "With former Chelsea striker Demba Ba announcing his retirement as a player on Monday at the age of 36, we take a fond look back at five of his most important matches during his time in west London."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20210916man-city-returns-on-sale-on-frid",
-      "type": "NewsCard",
-      "timestamp": "2021-09-16T13:14:00.000Z",
-      "orderDate": "2021-09-16T00:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/16/man-city-returns-on-sale-on-friday",
-        "type": "NewsCard",
-        "title": "Man City returns on sale on Friday",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/man-city-returns-on-sale-on-friday.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-16T13:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/16/man-city-returns-on-sale-on-friday",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/09/07/stamford-bridge-view-inside-sunny",
-          "gravity": "auto",
-          "aspectRatio": 1.5001523,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Man City returns on sale on Friday",
-      "publishDate": "2021-09-16T13:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/man-city-returns-on-sale-on-friday.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-09-16T13:14:00.000Z",
-      "description": "We have had some tickets returned for our home fixture against Manchester City which will be going on sale to members tomorrow (Friday)."
     }
   ]
 }
