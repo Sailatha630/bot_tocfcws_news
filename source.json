@@ -112,6 +112,54 @@
       "matchId": 2210318
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210917brentford-away-ticket-news",
+      "type": "NewsCard",
+      "timestamp": "2021-09-17T14:12:00.000Z",
+      "orderDate": "2021-09-17T10:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/17/brentford-away-ticket-news",
+        "type": "NewsCard",
+        "title": "Brentford away ticket news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/brentford-away-ticket-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-17T14:12:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/17/brentford-away-ticket-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Brentford stadium",
+          "id": "editorial/news/2021/06/10/Brentford_GettyImages-1315629047",
+          "gravity": "auto",
+          "aspectRatio": 1.5005977,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Brentford away ticket news",
+      "publishDate": "2021-09-17T14:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/brentford-away-ticket-news.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-09-17T14:12:00.000Z",
+      "description": "A ticket and travel update for our away game at Brentford next month..."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210916blues-bulletin--tottenham-vs-che",
       "type": "NewsCard",
@@ -486,50 +534,6 @@
       ],
       "date": "2021-09-16T13:01:00.000Z",
       "description": "Club partner Hyundai have been helping Chelsea go green by providing players with a fleet of electric vehicles and installing charging points at Cobham."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20210916demba-ba-s-big-blue-moments",
-      "type": "NewsCard",
-      "timestamp": "2021-09-16T10:16:00.000Z",
-      "orderDate": "2021-09-16T00:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/16/demba-ba-s-big-blue-moments",
-        "type": "NewsCard",
-        "title": "Demba Ba’s big Blue moments",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/demba-ba-s-big-blue-moments.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-16T10:16:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/16/demba-ba-s-big-blue-moments",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Demba Ba",
-          "id": "asia/editorial/articles/ba-manutd-2013-GettyImages-611457352",
-          "gravity": "auto",
-          "aspectRatio": 1.497903,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Demba Ba’s big Blue moments",
-      "publishDate": "2021-09-16T10:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/demba-ba-s-big-blue-moments.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Demba Ba",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_demba-ba"
-        }
-      ],
-      "date": "2021-09-16T10:16:00.000Z",
-      "description": "With former Chelsea striker Demba Ba announcing his retirement as a player on Monday at the age of 36, we take a fond look back at five of his most important matches during his time in west London."
     }
   ]
 }
