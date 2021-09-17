@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20210917gallery--kante-trains-ahead-of-t",
+      "type": "NewsCard",
+      "timestamp": "2021-09-17T16:56:00.000Z",
+      "orderDate": "2021-09-17T12:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/17/gallery--kante-trains-ahead-of-tottenham",
+        "type": "NewsCard",
+        "title": "Gallery: Kante trains ahead of Tottenham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/gallery--kante-trains-ahead-of-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-17T16:56:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/17/gallery--kante-trains-ahead-of-tottenham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Kante-DAZ_2277",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Kante trains ahead of Tottenham",
+      "publishDate": "2021-09-17T16:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/gallery--kante-trains-ahead-of-tottenham.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "N Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2021-09-17T16:56:00.000Z",
+      "description": "There was a welcome sight at Cobham today, as N’Golo Kante returned to full training ahead of Sunday’s clash with Tottenham Hotspur.",
+      "matchId": 2210318
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20210917tuchel-confirms-kante-return-v-t",
       "type": "NewsCard",
       "timestamp": "2021-09-17T12:21:00.000Z",
@@ -481,59 +540,6 @@
       ],
       "date": "2021-09-16T13:31:00.000Z",
       "description": "Many of Jorginho’s international team-mates had seen first-hand the improvement made by Romelu Lukaku during his time in Italy, so the striker’s instant influence at Chelsea has come as no surprise to the UEFA Men’s Player of the Year."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210916academy-arsenal-fixture-moved-to",
-      "type": "NewsCard",
-      "timestamp": "2021-09-16T15:18:00.000Z",
-      "orderDate": "2021-09-16T12:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/16/academy-arsenal-fixture-moved-to-kingsmeadow",
-        "type": "NewsCard",
-        "title": "Academy Arsenal fixture moved to Kingsmeadow",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/academy-arsenal-fixture-moved-to-kingsmeadow.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-16T15:18:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/16/academy-arsenal-fixture-moved-to-kingsmeadow",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kingsmeadow",
-          "id": "editorial/news/2020/10/Kingsmeadow-wide",
-          "gravity": "auto",
-          "aspectRatio": 1.8754689,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Academy Arsenal fixture moved to Kingsmeadow",
-      "publishDate": "2021-09-16T15:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/academy-arsenal-fixture-moved-to-kingsmeadow.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-09-16T15:18:00.000Z",
-      "description": "Our development squad’s Premier League 2 match against Arsenal on Sunday will now be played at Kingsmeadow."
     }
   ]
 }
