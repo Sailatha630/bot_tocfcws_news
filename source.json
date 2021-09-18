@@ -180,6 +180,55 @@
       "matchId": 2210318
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210918under-18s-pl-cup-report--chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-09-18T14:01:00.000Z",
+      "orderDate": "2021-09-18T05:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/18/under-18s-pl-cup-report--chelsea-3-blackburn-2",
+        "type": "NewsCard",
+        "title": "Under-18s PL Cup report: Chelsea 3 Blackburn 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/18/under-18s-pl-cup-report--chelsea-3-blackburn-2.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-18T14:01:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/09/18/under-18s-pl-cup-report--chelsea-3-blackburn-2",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mothersille celebrating",
+          "id": "editorial/news/2021/09/18/u18s-blackburn-2",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Under-18s PL Cup report: Chelsea 3 Blackburn 2",
+      "publishDate": "2021-09-18T14:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/18/under-18s-pl-cup-report--chelsea-3-blackburn-2.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2021-09-18T14:01:00.000Z",
+      "description": "Chelsea’s youth team continued their flawless start to the campaign today with a hard-fought victory over Blackburn Rovers in the Under-18 Premier League Cup.",
+      "matchId": 2245343
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210918tuchel-reveals-how-close-chelsea",
       "type": "NewsCard",
@@ -497,60 +546,6 @@
       ],
       "date": "2021-09-17T14:12:00.000Z",
       "description": "A ticket and travel update for our away game at Brentford next month..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210916blues-bulletin--tottenham-vs-che",
-      "type": "NewsCard",
-      "timestamp": "2021-09-17T04:00:00.000Z",
-      "orderDate": "2021-09-17T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/16/blues-bulletin--tottenham-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Tottenham vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/blues-bulletin--tottenham-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-17T04:00:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/09/16/blues-bulletin--tottenham-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Marcos Alonso playing Tottenham",
-          "id": "editorial/match-reports/2020-21/tottenham-away/alonso-tottenham-away-6",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Tottenham vs Chelsea",
-      "publishDate": "2021-09-17T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/blues-bulletin--tottenham-vs-chelsea.html",
-      "readTimeInMins": 25,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-09-17T04:00:00.000Z",
-      "description": "It's our third London derby already this season at the weekend and we build up to it with the Blues Bulletin, focusing on the key pre-match stats and information, with our new graphics...",
-      "matchId": 2210318
     }
   ]
 }
