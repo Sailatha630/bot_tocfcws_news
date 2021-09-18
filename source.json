@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210917pre-match-briefing--tottenham-vs",
+      "type": "NewsCard",
+      "timestamp": "2021-09-18T05:17:00.000Z",
+      "orderDate": "2021-09-18T05:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/17/pre-match-briefing--tottenham-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Tottenham vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/pre-match-briefing--tottenham-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-18T05:17:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/09/17/pre-match-briefing--tottenham-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tottenham Stadium",
+          "id": "editorial/news/2021/09/16/tottenham_stadium_outside",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Tottenham vs Chelsea",
+      "publishDate": "2021-09-18T05:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/pre-match-briefing--tottenham-vs-chelsea.html",
+      "readTimeInMins": 64,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-18T05:17:00.000Z",
+      "description": "The season enters its second month with an always much-anticipated capital city clash. Club historian Rick Glanvill and club statistician Paul Dutton look at the stories surrounding our visit to Spurs…",
+      "matchId": 2210318
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210917gallery--kante-trains-ahead-of-t",
       "type": "NewsCard",
@@ -482,64 +536,6 @@
       },
       "date": "2021-09-16T07:00:00.000Z",
       "description": "In the latest instalment of a new regular column with former goalkeeping great Petr Cech, our current technical and performance advisor shares his insight on what helps goalkeepers adapt quickly to life at Chelsea and why team togetherness is proving so important."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210916jorginho-rates-lukaku-s-impact-a",
-      "type": "NewsCard",
-      "timestamp": "2021-09-16T13:31:00.000Z",
-      "orderDate": "2021-09-16T14:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/16/jorginho-rates-lukaku-s-impact-and-explains-the-two-sides-of-tuc",
-        "type": "NewsCard",
-        "title": "Jorginho rates Lukaku’s impact and explains the two sides of Tuchel",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/jorginho-rates-lukaku-s-impact-and-explains-the-two-sides-of-tuc.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-16T13:31:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/16/jorginho-rates-lukaku-s-impact-and-explains-the-two-sides-of-tuc",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lukaku and Jorginho",
-          "id": "editorial/news/2021/09/16/lukaku-jorginho-zenit",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho rates Lukaku’s impact and explains the two sides of Tuchel",
-      "publishDate": "2021-09-16T13:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/16/jorginho-rates-lukaku-s-impact-and-explains-the-two-sides-of-tuc.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2021-09-16T13:31:00.000Z",
-      "description": "Many of Jorginho’s international team-mates had seen first-hand the improvement made by Romelu Lukaku during his time in Italy, so the striker’s instant influence at Chelsea has come as no surprise to the UEFA Men’s Player of the Year."
     }
   ]
 }
