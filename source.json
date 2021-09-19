@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210919pl2-report--chelsea-v-arsenal",
+      "type": "NewsCard",
+      "timestamp": "2021-09-19T11:18:00.000Z",
+      "orderDate": "2021-09-19T11:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/19/pl2-report--chelsea-v-arsenal",
+        "type": "NewsCard",
+        "title": "PL2 report: Chelsea 1 Arsenal 6",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/19/pl2-report--chelsea-v-arsenal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-19T11:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/19/pl2-report--chelsea-v-arsenal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Vale",
+          "id": "editorial/match-reports/2021-22/pl2-v-arsenal-home/Vale_CH2_6848",
+          "gravity": "south_west",
+          "aspectRatio": 2.1182847,
+          "cropMode": "fill"
+        }
+      },
+      "content": "PL2 report: Chelsea 1 Arsenal 6",
+      "publishDate": "2021-09-19T11:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/19/pl2-report--chelsea-v-arsenal.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-09-19T11:18:00.000Z",
+      "description": "Chelsea suffered a heavy defeat to Arsenal at a rain-soaked Kingsmeadow as our development squad continue to look for our first Premier League 2 win of the season.",
+      "matchId": 2237208
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210919jimmy-greaves-1940-2021",
       "type": "NewsCard",
@@ -479,70 +533,6 @@
       "date": "2021-09-18T14:01:00.000Z",
       "description": "Chelsea’s youth team continued their flawless start to the campaign today with a hard-fought victory over Blackburn Rovers in the Under-18 Premier League Cup.",
       "matchId": 2245343
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210918tuchel-reveals-how-close-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-09-18T06:00:00.000Z",
-      "orderDate": "2021-09-18T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/18/tuchel-reveals-how-close-chelsea-came-to-signing-kane-and-assess",
-        "type": "NewsCard",
-        "title": "Tuchel reveals how close Chelsea came to signing Kane and assesses Sunday’s strike-off with Lukaku",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/18/tuchel-reveals-how-close-chelsea-came-to-signing-kane-and-assess.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-18T06:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/18/tuchel-reveals-how-close-chelsea-came-to-signing-kane-and-assess",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel and Lukaku",
-          "id": "editorial/news/2021/09/17/Tuchel-Lukaku-training-pre-Spurs",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reveals how close Chelsea came to signing Kane and assesses Sunday’s strike-off with Lukaku",
-      "publishDate": "2021-09-18T06:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/18/tuchel-reveals-how-close-chelsea-came-to-signing-kane-and-assess.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2021-09-18T06:00:00.000Z",
-      "description": "The battle of the centre-forwards takes centre stage in London this weekend and in the build-up Thomas Tuchel has detailed his understanding of both their similarities and differences, as well as revealing the extent of Chelsea’s interest in Tottenham’s main man this summer…",
-      "matchId": 2210318
     }
   ]
 }
