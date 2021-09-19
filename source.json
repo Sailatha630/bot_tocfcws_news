@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210919match-report--tottenham-vs-chels",
+      "type": "NewsCard",
+      "timestamp": "2021-09-19T17:04:00.000Z",
+      "orderDate": "2021-09-19T17:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/19/match-report--tottenham-vs-chelsea-",
+        "type": "NewsCard",
+        "title": "Match report: Tottenham 0 Chelsea 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/19/match-report--tottenham-vs-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-19T17:04:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/19/match-report--tottenham-vs-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/tottenham-away/Celebrations-Tottenham-away",
+          "gravity": "auto",
+          "aspectRatio": 1.5250431,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Tottenham 0 Chelsea 3",
+      "publishDate": "2021-09-19T17:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/19/match-report--tottenham-vs-chelsea-.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-19T17:04:00.000Z",
+      "description": "Three goals in the second half decided Sunday afternoon’s big London derby as the impressive beginning to 2021/22 continues.",
+      "matchId": 2210318
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210919chelsea-line-up-vs-tottenham",
       "type": "NewsCard",
@@ -483,60 +537,6 @@
       ],
       "date": "2021-09-18T11:30:00.000Z",
       "description": "In one week’s time Edouard Mendy will have been at Chelsea for one whole year, and it is pretty safe to say the year for the goalkeeper who arrived from Rennes in France has gone as about as well as he could possibly have wished.",
-      "matchId": 2210318
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210917pre-match-briefing--tottenham-vs",
-      "type": "NewsCard",
-      "timestamp": "2021-09-18T05:17:00.000Z",
-      "orderDate": "2021-09-18T05:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/17/pre-match-briefing--tottenham-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Tottenham vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/pre-match-briefing--tottenham-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-18T05:17:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/09/17/pre-match-briefing--tottenham-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tottenham Stadium",
-          "id": "editorial/news/2021/09/16/tottenham_stadium_outside",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Tottenham vs Chelsea",
-      "publishDate": "2021-09-18T05:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/17/pre-match-briefing--tottenham-vs-chelsea.html",
-      "readTimeInMins": 64,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-09-18T05:17:00.000Z",
-      "description": "The season enters its second month with an always much-anticipated capital city clash. Club historian Rick Glanvill and club statistician Paul Dutton look at the stories surrounding our visit to Spurs…",
       "matchId": 2210318
     }
   ]
