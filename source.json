@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210920azpilicueta--we-know-what-derby-",
+      "type": "NewsCard",
+      "timestamp": "2021-09-20T06:05:00.000Z",
+      "orderDate": "2021-09-20T06:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/20/azpilicueta--we-know-what-derby-win-means-to-fans",
+        "type": "NewsCard",
+        "title": "Azpilicueta: We know what derby win means to fans",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/20/azpilicueta--we-know-what-derby-win-means-to-fans.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-20T06:05:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/20/azpilicueta--we-know-what-derby-win-means-to-fans",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Cesar Azpilicueta celebrating at Tottenham",
+          "id": "editorial/match-reports/2021-22/tottenham-away/spurs_away_azpilicueta",
+          "gravity": "auto",
+          "aspectRatio": 1.618083,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Azpilicueta: We know what derby win means to fans",
+      "publishDate": "2021-09-20T06:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/20/azpilicueta--we-know-what-derby-win-means-to-fans.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        }
+      ],
+      "date": "2021-09-20T06:05:00.000Z",
+      "description": "It was a day at Tottenham when Chelsea emphasised there is more to our goalscoring threat this season than Romelu Lukaku, and captain Cesar Azpilicueta praised the way the whole team improved on a sub-standard first half to return from north London with a 3-0 win.",
+      "matchId": 2210318
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210919tuchel-reacts-to-tottenham-win",
       "type": "NewsCard",
@@ -490,55 +549,6 @@
       ],
       "date": "2021-09-19T03:00:00.000Z",
       "description": "Thomas Tuchel’s Chelsea allowed the opposition very few meaningful shots on goal last season, but that has not been the case in the past two league fixtures with Edouard Mendy a much busier goalkeeper than usual."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210919pl2-preview--young-blues-host-gu",
-      "type": "NewsCard",
-      "timestamp": "2021-09-19T03:00:00.000Z",
-      "orderDate": "2021-09-19T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/19/pl2-preview--young-blues-host-gunners-in-kingston---tickets-stil",
-        "type": "NewsCard",
-        "title": "PL2 preview: Young Blues host Gunners in Kingston - tickets still available or watch live stream",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/19/pl2-preview--young-blues-host-gunners-in-kingston---tickets-stil.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-19T03:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/19/pl2-preview--young-blues-host-gunners-in-kingston---tickets-stil",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Nunn training",
-          "id": "editorial/news/2021/09/17/Nunn-PL2-training",
-          "gravity": "auto",
-          "aspectRatio": 1.5489467,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 preview: Young Blues host Gunners in Kingston - tickets still available or watch live stream",
-      "publishDate": "2021-09-19T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/19/pl2-preview--young-blues-host-gunners-in-kingston---tickets-stil.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-09-19T03:00:00.000Z",
-      "description": "Our development squad continue their search for a first win of the season when we host a London derby at Kingsmeadow this lunchtime…",
-      "matchId": 2237208
     }
   ]
 }
