@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210922pre-match-briefing--chelsea-vs-a",
+      "type": "NewsCard",
+      "timestamp": "2021-09-22T05:59:00.000Z",
+      "orderDate": "2021-09-22T05:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/22/pre-match-briefing--chelsea-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/22/pre-match-briefing--chelsea-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-22T05:59:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/09/22/pre-match-briefing--chelsea-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hakim Ziyech playing against Aston Villa",
+          "id": "editorial/news/2021/09/21/ziyech_villa_home_PL",
+          "gravity": "auto",
+          "aspectRatio": 1.5661664,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Aston Villa",
+      "publishDate": "2021-09-22T05:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/22/pre-match-briefing--chelsea-vs-aston-villa.html",
+      "readTimeInMins": 26,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2021-09-22T05:59:00.000Z",
+      "description": "We host the claret-and-blue side from Birmingham for the second time this month but on this occasion, in a knockout Carabao Cup tie. Club historian Rick Glanvill and club statistician Paul Dutton are hoping for a repeat outcome…",
+      "matchId": 2244282
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210922tuchel-praises-kepa-s-positive-m",
       "type": "NewsCard",
@@ -389,7 +443,7 @@
       "readTimeInMins": 15,
       "tags": [
         {
-          "title": "N Golo Kante",
+          "title": "N'Golo Kante",
           "namespace": "content-tag:",
           "id": "content-tag_person_player_ngolokante"
         },
@@ -532,43 +586,6 @@
       ],
       "date": "2021-09-21T06:50:00.000Z",
       "description": "With his opening goal in our 3-0 victory at the Tottenham Hotspur Stadium on Sunday, Thiago Silva became one of the oldest players to score for Chelsea in the Premier League. So where does the veteran Brazilian defender rank on our top-five list?"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210921media-watch--chelsea-duo-in-team",
-      "type": "NewsCard",
-      "timestamp": "2021-09-21T07:10:00.000Z",
-      "orderDate": "2021-09-20T23:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/21/media-watch--chelsea-duo-in-team-of-the-week--ba-reveals-post-re",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea duo in team of the week, Ba reveals post-retirement plans",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/21/media-watch--chelsea-duo-in-team-of-the-week--ba-reveals-post-re.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-21T07:10:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/21/media-watch--chelsea-duo-in-team-of-the-week--ba-reveals-post-re",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/09/21/media_watch_21_09_21",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea duo in team of the week, Ba reveals post-retirement plans",
-      "publishDate": "2021-09-21T07:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/21/media-watch--chelsea-duo-in-team-of-the-week--ba-reveals-post-re.html",
-      "readTimeInMins": 9,
-      "tags": [],
-      "date": "2021-09-21T07:10:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, former Chelsea striker Demba Ba is keen to work in English football again and Danny Drinkwater seeks to make the most of his latest loan spell."
     }
   ]
 }
