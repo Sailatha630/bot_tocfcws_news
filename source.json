@@ -8,6 +8,112 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210922tuchel-praises-kepa-s-positive-m",
+      "type": "NewsCard",
+      "timestamp": "2021-09-22T05:00:00.000Z",
+      "orderDate": "2021-09-22T05:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/22/tuchel-praises-kepa-s-positive-mindset-and-says--the-pressure-is",
+        "type": "NewsCard",
+        "title": "Tuchel praises Kepa’s positive mindset and says ‘the pressure is off his shoulders’",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/22/tuchel-praises-kepa-s-positive-mindset-and-says--the-pressure-is.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-22T05:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/22/tuchel-praises-kepa-s-positive-mindset-and-says--the-pressure-is",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel and Kepa",
+          "id": "editorial/news/2021/09/21/tuchel-kepa-tottenham",
+          "gravity": "north",
+          "aspectRatio": 1.4997531,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel praises Kepa’s positive mindset and says ‘the pressure is off his shoulders’",
+      "publishDate": "2021-09-22T05:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/22/tuchel-praises-kepa-s-positive-mindset-and-says--the-pressure-is.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Kepa Arrizabalaga ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kepa-arrizabalaga"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-22T05:00:00.000Z",
+      "description": "With Edouard Mendy again ruled out through injury Kepa Arrizabalaga is likely to start a second consecutive game for Chelsea when we host Aston Villa tonight. Ahead of the Carabao Cup third round tie, Thomas Tuchel has been discussing Kepa’s current state of mind and the price tag he believes the goalkeeper is no longer burdened by."
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210922blues-bulletin--chelsea-vs-aston",
+      "type": "NewsCard",
+      "timestamp": "2021-09-22T03:00:00.000Z",
+      "orderDate": "2021-09-22T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/22/blues-bulletin--chelsea-vs-aston-villa",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Aston Villa",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/22/blues-bulletin--chelsea-vs-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-22T03:00:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/09/22/blues-bulletin--chelsea-vs-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/09/22/Villa-home-teams-line-up",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Aston Villa",
+      "publishDate": "2021-09-22T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/22/blues-bulletin--chelsea-vs-aston-villa.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        }
+      ],
+      "date": "2021-09-22T03:00:00.000Z",
+      "description": "Chelsea's bid for domestic cup glory begins tonight and with it comes our latest Blues Bulletin, containing all the key pre-match stats and information you need ahead of kick-off...",
+      "matchId": 2244282
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210921tuchel-on-evergreen-thiago-silva",
       "type": "NewsCard",
@@ -463,114 +569,6 @@
       "tags": [],
       "date": "2021-09-21T07:10:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, former Chelsea striker Demba Ba is keen to work in English football again and Danny Drinkwater seeks to make the most of his latest loan spell."
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20210921important-information-for-those-",
-      "type": "NewsCard",
-      "timestamp": "2021-09-21T14:34:00.000Z",
-      "orderDate": "2021-09-20T23:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/21/important-information-for-those-attending-carabao-cup-match",
-        "type": "NewsCard",
-        "title": "Important information for those attending Carabao Cup match",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/21/important-information-for-those-attending-carabao-cup-match.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-21T14:34:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/21/important-information-for-those-attending-carabao-cup-match",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge",
-          "id": "editorial/news/2021/09/21/stadium_view_inside_crowd",
-          "gravity": "auto",
-          "aspectRatio": 1.6549593,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important information for those attending Carabao Cup match",
-      "publishDate": "2021-09-21T14:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/21/important-information-for-those-attending-carabao-cup-match.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2021-09-21T14:34:00.000Z",
-      "description": "Recent regulation changes at Stamford Bridge mean all supporters visiting our stadium for Wednesday night's Carabao Cup game should be aware of the following information.",
-      "matchId": 2244282
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210920alonso-on-how-he-chooses-to-supp",
-      "type": "NewsCard",
-      "timestamp": "2021-09-20T21:30:00.000Z",
-      "orderDate": "2021-09-20T21:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/20/alonso-on-how-he-chooses-to-support-equality",
-        "type": "NewsCard",
-        "title": "Alonso alternative to taking knee and how he chooses to support equality",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/20/alonso-on-how-he-chooses-to-support-equality.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-20T21:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/20/alonso-on-how-he-chooses-to-support-equality",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Alonso",
-          "id": "editorial/news/2021/09/20/Alonso_GettyImages-1341293348",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Alonso alternative to taking knee and how he chooses to support equality",
-      "publishDate": "2021-09-20T21:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/20/alonso-on-how-he-chooses-to-support-equality.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2021-09-20T21:30:00.000Z",
-      "description": "Marcos Alonso has explained why he is taking a stand against racism in his own way before matches and reflected on the London derby victory over Tottenham Hotspur.",
-      "matchId": 2210318
     }
   ]
 }
