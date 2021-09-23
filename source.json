@@ -9,6 +9,49 @@
   "newsFeed": [
     {
       "contentType": "Interview",
+      "id": "_content_chelseafcennews20210923lukaku-on-the-next-steps-for-foo",
+      "type": "NewsCard",
+      "timestamp": "2021-09-23T15:23:00.000Z",
+      "orderDate": "2021-09-23T15:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/23/lukaku-on-the-next-steps-for-football-in-tackling-discrimination",
+        "type": "NewsCard",
+        "title": "Lukaku on the next steps for football in tackling discrimination and the importance of making a statement",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/23/lukaku-on-the-next-steps-for-football-in-tackling-discrimination.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-23T15:23:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/23/lukaku-on-the-next-steps-for-football-in-tackling-discrimination",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lukaku ",
+          "id": "editorial/news/2021/09/23/lukaku-no-to-hate",
+          "gravity": "face",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lukaku on the next steps for football in tackling discrimination and the importance of making a statement",
+      "publishDate": "2021-09-23T15:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/23/lukaku-on-the-next-steps-for-football-in-tackling-discrimination.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2021-09-23T15:23:00.000Z",
+      "description": "Romelu Lukaku has claimed he will never stop fighting against discrimination in the pursuit of a fairer society for future generations as he calls on social media companies to come together with football’s stakeholders to eradicate online abuse."
+    },
+    {
+      "contentType": "Interview",
       "id": "_content_chelseafcennews20210923extra-time-with--edouard-mendy",
       "type": "NewsCard",
       "timestamp": "2021-09-23T14:30:00.000Z",
@@ -30,9 +73,9 @@
         "image": {
           "type": "ImageCloudinary",
           "alt": "Edouard Mendy",
-          "id": "editorial/news/2021/09/23/mendy-extra-time-with-article",
+          "id": "editorial/news/2021/09/24/mendy-et-with",
           "gravity": "auto",
-          "aspectRatio": 2.2076924,
+          "aspectRatio": 1.5,
           "cropMode": "fill"
         }
       },
@@ -499,60 +542,6 @@
       ],
       "date": "2021-09-22T23:16:00.000Z",
       "description": "The Blues were able to overcome Premier League opposition in an entertaining Carabao Cup tie on Wednesday evening that went to penalties.",
-      "matchId": 2244282
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210922match-report--chelsea-v-aston-vi",
-      "type": "NewsCard",
-      "timestamp": "2021-09-22T18:56:00.000Z",
-      "orderDate": "2021-09-22T18:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/22/match-report--chelsea-v-aston-villa",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 1 Aston Villa 1 (4-3 on pens)",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/22/match-report--chelsea-v-aston-villa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-22T18:56:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/22/match-report--chelsea-v-aston-villa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kepa and James",
-          "id": "editorial/match-reports/2021-22/villa-home---carabao-cup/Kepa_James_GettyImages-1341939699",
-          "gravity": "auto",
-          "aspectRatio": 1.5284798,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 1 Aston Villa 1 (4-3 on pens)",
-      "publishDate": "2021-09-22T18:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/22/match-report--chelsea-v-aston-villa.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2021-09-22T18:56:00.000Z",
-      "description": "Reece James' nerveless spot kick gave Chelsea a penalty shoot-out victory over Aston Villa at Stamford Bridge and booked our place in the fourth round of the Carabao Cup.",
       "matchId": 2244282
     }
   ]
