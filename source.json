@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210924pre-match-briefing--chelsea-vs-m",
+      "type": "NewsCard",
+      "timestamp": "2021-09-24T08:08:00.000Z",
+      "orderDate": "2021-09-24T08:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/24/pre-match-briefing--chelsea-vs-manchester-city",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Manchester City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/pre-match-briefing--chelsea-vs-manchester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-24T08:08:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/09/24/pre-match-briefing--chelsea-vs-manchester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "West Stand",
+          "id": "editorial/news/2021/09/24/stadium_view_2021_22_outside_west",
+          "gravity": "auto",
+          "aspectRatio": 1.534375,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Manchester City",
+      "publishDate": "2021-09-24T08:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/pre-match-briefing--chelsea-vs-manchester-city.html",
+      "readTimeInMins": 66,
+      "tags": [
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-24T08:08:00.000Z",
+      "description": "A game to grab attention everywhere begins the Premier League’s weekend. Club historian Rick Glanvill and club statistician Paul Dutton prepare for a blue day at the Bridge…",
+      "matchId": 2210323
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20210924blues-bulletin--chelsea-vs-man-c",
       "type": "NewsCard",
       "timestamp": "2021-09-24T03:00:00.000Z",
@@ -513,70 +567,6 @@
       },
       "date": "2021-09-23T10:30:00.000Z",
       "description": "In this week’s column by our great former goalkeeper who is now technical and performance advisor at Chelsea, he reflects on the current team’s big derby win at the weekend and how the importance of beating Tottenham was ingrained in him and his team-mates. He also counts down to an early start in the meeting between the European champions and the Premier League champions this Saturday…"
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20210923werner--back-on-track--after-vil",
-      "type": "NewsCard",
-      "timestamp": "2021-09-23T07:37:00.000Z",
-      "orderDate": "2021-09-23T07:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/23/werner--back-on-track--after-villa-goal",
-        "type": "NewsCard",
-        "title": "Werner ‘back on track’ after Villa goal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/23/werner--back-on-track--after-villa-goal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-23T07:37:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/23/werner--back-on-track--after-villa-goal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Werner",
-          "id": "editorial/match-reports/2021-22/villa-home---carabao-cup/Werner_GettyImages-1341932735",
-          "gravity": "auto",
-          "aspectRatio": 1.4429206,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Werner ‘back on track’ after Villa goal",
-      "publishDate": "2021-09-23T07:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/23/werner--back-on-track--after-villa-goal.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Kepa Arrizabalaga ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kepa-arrizabalaga"
-        },
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2021-09-23T07:37:00.000Z",
-      "description": "Timo Werner was pleased to get his name on the score sheet when we beat Aston Villa in the Carabao Cup and says it was another important step towards finding his form this season.",
-      "matchId": 2244282
     }
   ]
 }
