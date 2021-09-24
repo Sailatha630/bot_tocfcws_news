@@ -67,6 +67,60 @@
       "matchId": 2210323
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210924pl2-report--chelsea-vs-liverpool",
+      "type": "NewsCard",
+      "timestamp": "2021-09-24T20:09:00.000Z",
+      "orderDate": "2021-09-24T12:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/24/pl2-report--chelsea-vs-liverpool",
+        "type": "NewsCard",
+        "title": "PL2 report: Chelsea 4 Liverpool 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/pl2-report--chelsea-vs-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-24T20:09:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/24/pl2-report--chelsea-vs-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/pl2-v-liverpool-home/CH2_8008",
+          "gravity": "north_west",
+          "aspectRatio": 1.4998131,
+          "cropMode": "fill"
+        }
+      },
+      "content": "PL2 report: Chelsea 4 Liverpool 3",
+      "publishDate": "2021-09-24T20:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/pl2-report--chelsea-vs-liverpool.html",
+      "readTimeInMins": 21,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-09-24T20:09:00.000Z",
+      "description": "Chelsea’s development squad battled back from 3-1 down to dramatically defeat Liverpool at Kingsmeadow tonight as Lewis Hall’s 95th-minute winner secured a first Premier League 2 victory of the campaign.",
+      "matchId": 2237213
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20210924tuchel-on-the-importance-of-conf",
       "type": "NewsCard",
@@ -505,55 +559,6 @@
       "date": "2021-09-24T03:00:00.000Z",
       "description": "Trevoh Chalobah says our Carabao Cup victory over Aston Villa has increased confidence even further among the Chelsea squad ahead of Saturday’s big Premier League fixture against Manchester City.",
       "matchId": 2210323
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20210924pl2-preview--searching-for-a-win",
-      "type": "NewsCard",
-      "timestamp": "2021-09-24T03:00:00.000Z",
-      "orderDate": "2021-09-24T01:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/24/pl2-preview--searching-for-a-win-against-the-reds---tickets-stil",
-        "type": "NewsCard",
-        "title": "PL2 preview: Searching for a win against the Reds – tickets still available or watch live stream",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/pl2-preview--searching-for-a-win-against-the-reds---tickets-stil.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-24T03:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/24/pl2-preview--searching-for-a-win-against-the-reds---tickets-stil",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " PL2 warm-up vs Arsenal",
-          "id": "editorial/news/2021/09/23/PL2-warming-up-vs-Arsenal",
-          "gravity": "north",
-          "aspectRatio": 1.5025729,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 preview: Searching for a win against the Reds – tickets still available or watch live stream",
-      "publishDate": "2021-09-24T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/pl2-preview--searching-for-a-win-against-the-reds---tickets-stil.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-09-24T03:00:00.000Z",
-      "description": "Our development squad kick off the weekend’s action with a league encounter against Liverpool at Kingsmeadow tonight, with tickets still on sale and a live stream available for those not attending in person…",
-      "matchId": 2237213
     }
   ]
 }
