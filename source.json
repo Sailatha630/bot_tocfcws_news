@@ -234,6 +234,43 @@
       "matchId": 2237213
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20210924media-watch--kepa-lauded-for-ath",
+      "type": "NewsCard",
+      "timestamp": "2021-09-24T07:39:00.000Z",
+      "orderDate": "2021-09-24T00:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/24/media-watch--kepa-lauded-for-athleticism--lampard-names-his-best",
+        "type": "NewsCard",
+        "title": "Media Watch: Kepa lauded for athleticism, Lampard names his best team-mates and opponents",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/media-watch--kepa-lauded-for-athleticism--lampard-names-his-best.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-24T07:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/24/media-watch--kepa-lauded-for-athleticism--lampard-names-his-best",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/MW-Kepa-chelsea-2020-",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Kepa lauded for athleticism, Lampard names his best team-mates and opponents",
+      "publishDate": "2021-09-24T07:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/media-watch--kepa-lauded-for-athleticism--lampard-names-his-best.html",
+      "readTimeInMins": 9,
+      "tags": [],
+      "date": "2021-09-24T07:39:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, David James reveals why Kepa Arrizabalaga is so good in penalty shootouts and William Gallas believes the Blues are now the team to beat in the Premier League."
+    },
+    {
       "contentType": "Stamford Bridge",
       "id": "_content_chelseafcennews20210924covid-requirements-fans-attendin",
       "type": "NewsCard",
@@ -505,68 +542,6 @@
       "date": "2021-09-23T12:30:00.000Z",
       "description": "Penalties can sometimes be described as a lottery, but the statistics show we fully deserved our victory over Aston Villa, even if we needed a shoot-out to complete the job…",
       "matchId": 2244282
-    },
-    {
-      "contentType": "Columnist",
-      "id": "_content_chelseafcennews20210923petr-cech-column--how-tottenham-",
-      "type": "NewsCard",
-      "timestamp": "2021-09-23T10:30:00.000Z",
-      "orderDate": "2021-09-23T10:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/23/petr-cech-column--how-tottenham-rivalry-lives-on",
-        "type": "NewsCard",
-        "title": "Petr Cech column: How Tottenham rivalry lives on",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/23/petr-cech-column--how-tottenham-rivalry-lives-on.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-23T10:30:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2021/09/23/petr-cech-column--how-tottenham-rivalry-lives-on",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Petr Cech column",
-          "id": "chelsea-app/Cech-column-APP-FOLLOW-FEED-",
-          "gravity": "auto",
-          "aspectRatio": 1.4981273,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Petr Cech column: How Tottenham rivalry lives on",
-      "publishDate": "2021-09-23T10:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/23/petr-cech-column--how-tottenham-rivalry-lives-on.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        },
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Petr",
-        "lastName": "Cech",
-        "description": " ",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Petr Cecg",
-          "id": "video/2021/03/23/-porto-are-always-a-tough-opponent--you-have-to-respect-them-----3Ytf4Dtj/210323_Cech_UCL_Thumb1",
-          "gravity": "face",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2021-09-23T10:30:00.000Z",
-      "description": "In this week’s column by our great former goalkeeper who is now technical and performance advisor at Chelsea, he reflects on the current team’s big derby win at the weekend and how the importance of beating Tottenham was ingrained in him and his team-mates. He also counts down to an early start in the meeting between the European champions and the Premier League champions this Saturday…"
     }
   ]
 }
