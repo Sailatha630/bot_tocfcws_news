@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20210925tuchel-reacts-to-man-city-defeat",
+      "type": "NewsCard",
+      "timestamp": "2021-09-25T14:25:00.000Z",
+      "orderDate": "2021-09-25T14:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/25/tuchel-reacts-to-man-city-defeat",
+        "type": "NewsCard",
+        "title": "Tuchel claims Chelsea didn’t do enough against City, reflects on selection decisions and updates on James injury",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/25/tuchel-reacts-to-man-city-defeat.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-25T14:25:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/25/tuchel-reacts-to-man-city-defeat",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/match-reports/2021-22/man-city-home/Tuchel-Man-City-home-1",
+          "gravity": "north",
+          "aspectRatio": 1.5206611,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel claims Chelsea didn’t do enough against City, reflects on selection decisions and updates on James injury",
+      "publishDate": "2021-09-25T14:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/25/tuchel-reacts-to-man-city-defeat.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-09-25T14:25:00.000Z",
+      "description": "Thomas Tuchel admitted that his side were not at their best against a Manchester City team that claimed victory at Stamford Bridge on Saturday afternoon.",
+      "matchId": 2210323
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210925match-report--chelsea-vs-man-cit",
       "type": "NewsCard",
@@ -519,50 +573,6 @@
       ],
       "date": "2021-09-24T13:46:00.000Z",
       "description": "Ahead of facing Manchester City, the Chelsea boss considers how important the result could be, and he also assess Thiago Silva’s chances of extending his stay…",
-      "matchId": 2210323
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20210924covid-requirements-fans-attendin",
-      "type": "NewsCard",
-      "timestamp": "2021-09-23T23:58:00.000Z",
-      "orderDate": "2021-09-24T10:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/24/covid-requirements-fans-attending-man-city-game",
-        "type": "NewsCard",
-        "title": "Fans attending Man City game must provide evidence of low risk of transmitting Covid-19",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/covid-requirements-fans-attending-man-city-game.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-23T23:58:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/24/covid-requirements-fans-attending-man-city-game",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge",
-          "id": "editorial/match-reports/2021-22/tottenham-pre-season/Fans-Spurs-h",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Fans attending Man City game must provide evidence of low risk of transmitting Covid-19",
-      "publishDate": "2021-09-23T23:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/covid-requirements-fans-attending-man-city-game.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        }
-      ],
-      "date": "2021-09-23T23:58:00.000Z",
-      "description": "It is important all supporters visiting our stadium for Saturday's Premier League game are aware of the following information or they risk not being admitted.",
       "matchId": 2210323
     }
   ]
