@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20210926carter--we-want-to-keep-on-progr",
+      "type": "NewsCard",
+      "timestamp": "2021-09-26T03:00:00.000Z",
+      "orderDate": "2021-09-26T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/26/carter--we-want-to-keep-on-progressing",
+        "type": "NewsCard",
+        "title": "Carter: We want to keep on progressing",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/26/carter--we-want-to-keep-on-progressing.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-26T03:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/09/26/carter--we-want-to-keep-on-progressing",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/ChelseaWomen_Jess_Carter",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Carter: We want to keep on progressing",
+      "publishDate": "2021-09-26T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/26/carter--we-want-to-keep-on-progressing.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Jess Carter",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_jess-carter"
+        }
+      ],
+      "date": "2021-09-26T03:00:00.000Z",
+      "description": "Jess Carter says her recent England call up has given her added motivation to perform well for Chelsea.",
+      "matchId": 2236332
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20210925rudiger--we-didn-t-show-our-pers",
       "type": "NewsCard",
@@ -515,60 +574,6 @@
       "date": "2021-09-24T12:45:00.000Z",
       "description": "Thomas Tuchel has confirmed that Mason Mount has joined Christian Pulisic on the sidelines, with the duo set to sit out Saturday’s home Premier League clash with Manchester City.",
       "matchId": 2210323
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210924pl2-report--chelsea-vs-liverpool",
-      "type": "NewsCard",
-      "timestamp": "2021-09-24T20:09:00.000Z",
-      "orderDate": "2021-09-24T12:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/24/pl2-report--chelsea-vs-liverpool",
-        "type": "NewsCard",
-        "title": "PL2 report and highlights: Chelsea 4 Liverpool 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/pl2-report--chelsea-vs-liverpool.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-24T20:09:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/24/pl2-report--chelsea-vs-liverpool",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/match-reports/2021-22/pl2-v-liverpool-home/CH2_8008",
-          "gravity": "north_west",
-          "aspectRatio": 1.4998131,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 report and highlights: Chelsea 4 Liverpool 3",
-      "publishDate": "2021-09-24T20:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/pl2-report--chelsea-vs-liverpool.html",
-      "readTimeInMins": 22,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-09-24T20:09:00.000Z",
-      "description": "Chelsea’s development squad battled back from 3-1 down to dramatically defeat Liverpool at Kingsmeadow tonight as Lewis Hall’s 95th-minute winner secured a first Premier League 2 victory of the campaign.",
-      "matchId": 2237213
     }
   ]
 }
