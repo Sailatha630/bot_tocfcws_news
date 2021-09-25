@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20210925rudiger--we-didn-t-show-our-pers",
+      "type": "NewsCard",
+      "timestamp": "2021-09-25T18:48:00.000Z",
+      "orderDate": "2021-09-25T18:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/25/rudiger--we-didn-t-show-our-personality",
+        "type": "NewsCard",
+        "title": "Rudiger: We didn’t show our personality",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/25/rudiger--we-didn-t-show-our-personality.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-25T18:48:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/25/rudiger--we-didn-t-show-our-personality",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Rudiger",
+          "id": "editorial/match-reports/2021-22/man-city-home/Rudiger_GettyImages-1342438323",
+          "gravity": "auto",
+          "aspectRatio": 1.5001733,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger: We didn’t show our personality",
+      "publishDate": "2021-09-25T18:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/25/rudiger--we-didn-t-show-our-personality.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2021-09-25T18:48:00.000Z",
+      "description": "Antonio Rudiger says the Chelsea players have to accept as a team they were well below their best in our defeat to Manchester City and was especially disappointed by the fact it was in the areas we are usually strongest that we came up short.",
+      "matchId": 2210323
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210925tuchel-reacts-to-man-city-defeat",
       "type": "NewsCard",
@@ -510,70 +569,6 @@
       "date": "2021-09-24T20:09:00.000Z",
       "description": "Chelsea’s development squad battled back from 3-1 down to dramatically defeat Liverpool at Kingsmeadow tonight as Lewis Hall’s 95th-minute winner secured a first Premier League 2 victory of the campaign.",
       "matchId": 2237213
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20210924tuchel-on-the-importance-of-conf",
-      "type": "NewsCard",
-      "timestamp": "2021-09-24T13:46:00.000Z",
-      "orderDate": "2021-09-24T11:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/24/tuchel-on-the-importance-of-confidence-against-city-and-thiago-s",
-        "type": "NewsCard",
-        "title": "Tuchel on the importance of confidence against City and Thiago Silva’s future",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/tuchel-on-the-importance-of-confidence-against-city-and-thiago-s.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-24T13:46:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/09/24/tuchel-on-the-importance-of-confidence-against-city-and-thiago-s",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thiago Silva training",
-          "id": "editorial/news/2021/09/24/thiago_silva_training_2",
-          "gravity": "north_east",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on the importance of confidence against City and Thiago Silva’s future",
-      "publishDate": "2021-09-24T13:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/24/tuchel-on-the-importance-of-confidence-against-city-and-thiago-s.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        }
-      ],
-      "date": "2021-09-24T13:46:00.000Z",
-      "description": "Ahead of facing Manchester City, the Chelsea boss considers how important the result could be, and he also assess Thiago Silva’s chances of extending his stay…",
-      "matchId": 2210323
     }
   ]
 }
