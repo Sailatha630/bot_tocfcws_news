@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20210926women-s-match-report--manchester",
+      "type": "NewsCard",
+      "timestamp": "2021-09-26T14:00:00.000Z",
+      "orderDate": "2021-09-26T14:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/26/women-s-match-report--manchester-united-v-chelsea",
+        "type": "NewsCard",
+        "title": "Women's Match Report: Manchester United 1-6 Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/26/women-s-match-report--manchester-united-v-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-26T14:00:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/09/26/women-s-match-report--manchester-united-v-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/ChelseaWomen_Kirby_Team__Celebration_Man_United",
+          "gravity": "auto",
+          "aspectRatio": 1.2695726,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women's Match Report: Manchester United 1-6 Chelsea",
+      "publishDate": "2021-09-26T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/26/women-s-match-report--manchester-united-v-chelsea.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2021-09-26T14:00:00.000Z",
+      "description": "Chelsea Women secured an impressive win against Manchester United to make it back-to-back Barclays FA Women’s Super League victories.",
+      "matchId": 2236332
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20210926the-debrief--connection-problems",
       "type": "NewsCard",
@@ -60,59 +113,6 @@
       "date": "2021-09-26T12:17:00.000Z",
       "description": "With statistics from the match and graphics to illustrate key points, we look at the details behind the Blues first loss of the season…",
       "matchId": 2210323
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210926women-s-match-report--manchester",
-      "type": "NewsCard",
-      "timestamp": "2021-09-26T14:00:00.000Z",
-      "orderDate": "2021-09-26T11:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/26/women-s-match-report--manchester-united-v-chelsea",
-        "type": "NewsCard",
-        "title": "Women's Match Report: Manchester United 1-6 Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/26/women-s-match-report--manchester-united-v-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-26T14:00:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/09/26/women-s-match-report--manchester-united-v-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/ChelseaWomen_Kirby_Team__Celebration_Man_United",
-          "gravity": "auto",
-          "aspectRatio": 1.2695726,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women's Match Report: Manchester United 1-6 Chelsea",
-      "publishDate": "2021-09-26T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/26/women-s-match-report--manchester-united-v-chelsea.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2021-09-26T14:00:00.000Z",
-      "description": "Chelsea Women secured an impressive win against Manchester United to make it back-to-back Barclays FA Women’s Super League victories.",
-      "matchId": 2236332
     },
     {
       "contentType": "Match Preview",
