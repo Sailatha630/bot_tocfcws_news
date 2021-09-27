@@ -125,6 +125,54 @@
       "matchId": 2236332
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20210927southampton-returns-on-sale-now",
+      "type": "NewsCard",
+      "timestamp": "2021-09-27T10:44:00.000Z",
+      "orderDate": "2021-09-26T23:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/09/27/southampton-returns-on-sale-now",
+        "type": "NewsCard",
+        "title": "Southampton returns on sale now",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/27/southampton-returns-on-sale-now.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-09-27T10:44:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/09/27/southampton-returns-on-sale-now",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Fans",
+          "id": "editorial/news/2021/09/07/stamford-bridge-view-inside-sunny",
+          "gravity": "auto",
+          "aspectRatio": 1.5001523,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Southampton returns on sale now",
+      "publishDate": "2021-09-27T10:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/27/southampton-returns-on-sale-now.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-09-27T10:44:00.000Z",
+      "description": "Due to a number of returns, tickets for Saturday's match are back on sale."
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20210926women-s-match-report--manchester",
       "type": "NewsCard",
@@ -509,60 +557,6 @@
       ],
       "date": "2021-09-25T14:25:00.000Z",
       "description": "Thomas Tuchel admitted that his side were not at their best against a Manchester City team that claimed victory at Stamford Bridge on Saturday afternoon.",
-      "matchId": 2210323
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20210925match-report--chelsea-vs-man-cit",
-      "type": "NewsCard",
-      "timestamp": "2021-09-25T13:20:00.000Z",
-      "orderDate": "2021-09-25T13:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/09/25/match-report--chelsea-vs-man-city",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 0 Man City 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/25/match-report--chelsea-vs-man-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-09-25T13:20:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/09/25/match-report--chelsea-vs-man-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/man-city-home/Kante_GettyImages-1342429404",
-          "gravity": "north_west",
-          "aspectRatio": 1.5004534,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 0 Man City 1",
-      "publishDate": "2021-09-25T13:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/09/25/match-report--chelsea-vs-man-city.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-09-25T13:20:00.000Z",
-      "description": "Chelsea suffered a first defeat of the season at the hands of Manchester City as Gabriel Jesus’s second-half goal settled an intriguing contest at Stamford Bridge.",
       "matchId": 2210323
     }
   ]
