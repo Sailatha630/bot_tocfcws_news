@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211103ziyech--my-best-is-still-to-come",
+      "type": "NewsCard",
+      "timestamp": "2021-11-03T01:21:00.000Z",
+      "orderDate": "2021-11-03T01:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/03/ziyech--my-best-is-still-to-come",
+        "type": "NewsCard",
+        "title": "Ziyech says his best is still to come",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/03/ziyech--my-best-is-still-to-come.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-03T01:21:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/03/ziyech--my-best-is-still-to-come",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ziyech",
+          "id": "editorial/match-reports/2021-22/malmo-away/Ziyech_celeb_GettyImages-1350901594",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech says his best is still to come",
+      "publishDate": "2021-11-03T01:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/03/ziyech--my-best-is-still-to-come.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Malmo",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_malmo"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-11-03T01:21:00.000Z",
+      "description": "After scoring the decisive goal in our 1-0 Champions League win over Malmo, Hakim Ziyech insists we still haven’t seen the best of him at Chelsea.",
+      "matchId": 2244634
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211103watch-the-highlights-of-chelsea-",
       "type": "NewsCard",
@@ -520,60 +579,6 @@
       ],
       "date": "2021-11-02T12:30:00.000Z",
       "description": "The date and kick-off time of our Carabao Cup quarter-final away to Brentford has been announced."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211102tuchel--there-is-no-room-for-com",
-      "type": "NewsCard",
-      "timestamp": "2021-11-02T07:56:00.000Z",
-      "orderDate": "2021-11-02T07:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/02/tuchel--there-is-no-room-for-complacency-now",
-        "type": "NewsCard",
-        "title": "Tuchel: There is no room for complacency now",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/02/tuchel--there-is-no-room-for-complacency-now.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-02T07:56:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/02/tuchel--there-is-no-room-for-complacency-now",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2021/11/02/tuchel-low-malmo-training",
-          "gravity": "faces",
-          "aspectRatio": 0.6666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: There is no room for complacency now",
-      "publishDate": "2021-11-02T07:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/02/tuchel--there-is-no-room-for-complacency-now.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-11-02T07:56:00.000Z",
-      "description": "Chelsea will again start a game as heavy favourites when we play Malmo tonight, and Thomas Tuchel is demanding the same amount of endeavour from his players that he has seen in recent weeks.",
-      "matchId": 2244634
     }
   ]
 }
