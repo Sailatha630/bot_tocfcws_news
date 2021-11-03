@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211103jorginho--patience-was-key",
+      "type": "NewsCard",
+      "timestamp": "2021-11-03T16:45:00.000Z",
+      "orderDate": "2021-11-03T16:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/03/jorginho--patience-was-key",
+        "type": "NewsCard",
+        "title": "Jorginho: Patience was key",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/03/jorginho--patience-was-key.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-03T16:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/03/jorginho--patience-was-key",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Jorginho-GettyImages-1350911225",
+          "gravity": "auto",
+          "aspectRatio": 1.4637109,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jorginho: Patience was key",
+      "publishDate": "2021-11-03T16:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/03/jorginho--patience-was-key.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-03T16:45:00.000Z",
+      "description": "Jorginho has praised his Chelsea team-mates for adapting to both the opponent and the pitch in Tuesday’s Champions League victory over Malmo.",
+      "matchId": 2244634
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20211103the-debrief--rampant-ruben--boss",
       "type": "NewsCard",
@@ -526,65 +579,6 @@
       "date": "2021-11-02T14:15:00.000Z",
       "description": "No less than eight of the managers competing in this season's Champions League group stage previously faced Chelsea in their playing careers, including the boss of our next opponents Malmo, but who are they?",
       "matchId": 2244634
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211102uefa-youth-league-report--malmo-",
-      "type": "NewsCard",
-      "timestamp": "2021-11-02T11:44:00.000Z",
-      "orderDate": "2021-11-02T11:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/02/uefa-youth-league-report--malmo-chelsea",
-        "type": "NewsCard",
-        "title": "UYL report: Malmo 0 Chelsea 5",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/02/uefa-youth-league-report--malmo-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-02T11:44:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/02/uefa-youth-league-report--malmo-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Fiabema",
-          "id": "editorial/match-reports/2021-22/malmo-away-uyl/Fiabema_celeb_2_DAZ_8225-356217",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "UYL report: Malmo 0 Chelsea 5",
-      "publishDate": "2021-11-02T11:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/02/uefa-youth-league-report--malmo-chelsea.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Under 19's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-19-s"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "U19 - UEFA Youth League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_uefa-youth-league"
-        },
-        {
-          "title": "Malmo",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_malmo"
-        }
-      ],
-      "date": "2021-11-02T11:44:00.000Z",
-      "description": "Chelsea's Under-19s recorded a comprehensive victory away at Malmo as we put five goals past our Swedish hosts.",
-      "matchId": 2244956
     }
   ]
 }
