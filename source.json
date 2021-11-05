@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211105tuchel-press-conference-ahead-of",
+      "type": "NewsCard",
+      "timestamp": "2021-11-05T14:00:00.000Z",
+      "orderDate": "2021-11-05T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/05/tuchel-press-conference-ahead-of-burnley",
+        "type": "NewsCard",
+        "title": "Tuchel on the four who are out for Burnley and whether Mount could feature",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/tuchel-press-conference-ahead-of-burnley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-05T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/05/tuchel-press-conference-ahead-of-burnley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel press conference",
+          "id": "editorial/news/2021/11/05/Tuchel-press-conference",
+          "gravity": "face",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on the four who are out for Burnley and whether Mount could feature",
+      "publishDate": "2021-11-05T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/tuchel-press-conference-ahead-of-burnley.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2021-11-05T14:00:00.000Z",
+      "description": "Chelsea will be without a missing quartet of players for the visit of Burnley tomorrow after Marcos Alonso joined the injury list this week.",
+      "matchId": 2210374
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211105pre-match-briefing--chelsea-vs-b",
       "type": "NewsCard",
@@ -458,54 +517,6 @@
       ],
       "date": "2021-11-04T17:00:00.000Z",
       "description": "Trevoh Chalobah has signed a new four-and-a-half-year contract at Chelsea following an impressive start to the season in which he made his senior debut for the club."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20211104thomas-tuchel--the-rise-of-trevo",
-      "type": "NewsCard",
-      "timestamp": "2021-11-04T19:00:00.000Z",
-      "orderDate": "2021-11-04T16:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/04/thomas-tuchel--the-rise-of-trevoh-chalobah",
-        "type": "NewsCard",
-        "title": "Thomas Tuchel: The rise of Trevoh Chalobah",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/04/thomas-tuchel--the-rise-of-trevoh-chalobah.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-04T19:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/04/thomas-tuchel--the-rise-of-trevoh-chalobah",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Trevoh Chalobah playing",
-          "id": "chelsea-app/Chalobah-GettyImages-1349387469",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Thomas Tuchel: The rise of Trevoh Chalobah",
-      "publishDate": "2021-11-04T19:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/04/thomas-tuchel--the-rise-of-trevoh-chalobah.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Trevoh Chalobah",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_trevor-chalobah"
-        }
-      ],
-      "date": "2021-11-04T19:00:00.000Z",
-      "description": "Thomas Tuchel has said that the form and consistency that Trevoh Chalobah showed in pre-season meant he could not leave him out of his squad for the current campaign."
     }
   ]
 }
