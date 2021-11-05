@@ -255,6 +255,55 @@
       "description": "Fresh from signing a brand new contract for the Blues, we've put together a handful of questions to test how well you know the youngster..."
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20211105zenit-away-ticket-news",
+      "type": "NewsCard",
+      "timestamp": "2021-11-05T10:50:00.000Z",
+      "orderDate": "2021-11-05T00:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/05/zenit-away-ticket-news",
+        "type": "NewsCard",
+        "title": "Zenit away ticket news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/zenit-away-ticket-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-05T10:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/05/zenit-away-ticket-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Zenit",
+          "id": "editorial/news/2021/11/04/Zenit-stadium-view-stock",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Zenit away ticket news",
+      "publishDate": "2021-11-05T10:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/zenit-away-ticket-news.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-11-05T10:50:00.000Z",
+      "description": "Supporters should be aware of the following information ahead of our Champions League group game away to Zenit St Petersburg next month…",
+      "matchId": 2244666
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211104chalobah--excited-and-grateful--",
       "type": "NewsCard",
@@ -480,59 +529,6 @@
       },
       "date": "2021-11-04T18:08:00.000Z",
       "description": "In the week Chelsea reached a club milestone of 500 goals scored on our European adventures, our goalkeeping legend and current technical and performance advisor Petr Cech remembers some of those he considers most significant from his playing days…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211104tuchel-shortlisted-for-october-a",
-      "type": "NewsCard",
-      "timestamp": "2021-11-04T12:00:00.000Z",
-      "orderDate": "2021-11-04T14:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/04/tuchel-shortlisted-for-october-award-after-flawless-month-",
-        "type": "NewsCard",
-        "title": "Tuchel shortlisted for October award after flawless month ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/04/tuchel-shortlisted-for-october-award-after-flawless-month-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-04T12:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/04/tuchel-shortlisted-for-october-award-after-flawless-month-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/brentford-away/Tuchel_GettyImages-1346931091",
-          "gravity": "auto",
-          "aspectRatio": 1.5004082,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel shortlisted for October award after flawless month ",
-      "publishDate": "2021-11-04T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/04/tuchel-shortlisted-for-october-award-after-flawless-month-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-11-04T12:00:00.000Z",
-      "description": "Following a flawless October in which Chelsea won every game and conceded just one goal, Thomas Tuchel has been nominated for the Premier League’s Manager of the Month award."
     }
   ]
 }
