@@ -121,6 +121,49 @@
       "matchId": 2210374
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211105media-watch--",
+      "type": "NewsCard",
+      "timestamp": "2021-11-05T10:04:00.000Z",
+      "orderDate": "2021-11-05T03:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/05/media-watch--",
+        "type": "NewsCard",
+        "title": "Media Watch: Coman is a Blues target, Maatsen is 'not normal' according to Sky Blues goalkeeper and Allardyce backs Lampard for Premier League job  ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/media-watch--.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-05T10:04:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/05/media-watch--",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/coman-chelsea-2020-play-predictor--cc20ad2e-73bb-4b3f-abe5-2e932a59e64c",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Coman is a Blues target, Maatsen is 'not normal' according to Sky Blues goalkeeper and Allardyce backs Lampard for Premier League job  ",
+      "publishDate": "2021-11-05T10:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/media-watch--.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-05T10:04:00.000Z",
+      "description": "In today's media round-up, there is a transfer link, a feature on an impressing Blues loanee and a radio interview that backs a Chelsea legend for managerial post."
+    },
+    {
       "contentType": "History",
       "id": "_content_chelseafcennews20211105crossing-the-divide--spurs-manag",
       "type": "NewsCard",
@@ -144,7 +187,7 @@
           "type": "ImageCloudinary",
           "alt": "Jose Mourinho and Antonio Conte",
           "id": "editorial/news/2021/11/05/Main-GettyImages-870569114",
-          "gravity": "auto",
+          "gravity": "north_east",
           "aspectRatio": 1.5004545,
           "cropMode": "fill"
         }
@@ -490,64 +533,6 @@
       ],
       "date": "2021-11-04T12:00:00.000Z",
       "description": "Following a flawless October in which Chelsea won every game and conceded just one goal, Thomas Tuchel has been nominated for the Premier League’s Manager of the Month award."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20211104three-blues-named-in-england-squ",
-      "type": "NewsCard",
-      "timestamp": "2021-11-04T14:00:00.000Z",
-      "orderDate": "2021-11-04T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/04/three-blues-named-in-england-squad",
-        "type": "NewsCard",
-        "title": "Three Blues named in England squad",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/04/three-blues-named-in-england-squad.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-04T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/04/three-blues-named-in-england-squad",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mount",
-          "id": "editorial/news/2021/11/04/Chilwell_Mount_James_GettyImages-1336897728",
-          "gravity": "north",
-          "aspectRatio": 1.5417683,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Three Blues named in England squad",
-      "publishDate": "2021-11-04T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/04/three-blues-named-in-england-squad.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-11-04T14:00:00.000Z",
-      "description": "Ben Chilwell, Reece James and Mason Mount have all been called up by England for the upcoming final round of World Cup qualifiers."
     }
   ]
 }
