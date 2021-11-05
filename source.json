@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211105pre-match-briefing--chelsea-vs-b",
+      "type": "NewsCard",
+      "timestamp": "2021-11-05T07:45:00.000Z",
+      "orderDate": "2021-11-05T07:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/05/pre-match-briefing--chelsea-vs-burnley",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Burnley",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/pre-match-briefing--chelsea-vs-burnley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-05T07:45:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/11/05/pre-match-briefing--chelsea-vs-burnley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge fireworks",
+          "id": "editorial/news/2021/11/05/stadium_fireworks_zenit",
+          "gravity": "auto",
+          "aspectRatio": 1.5001489,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Burnley",
+      "publishDate": "2021-11-05T07:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/pre-match-briefing--chelsea-vs-burnley.html",
+      "readTimeInMins": 66,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2021-11-05T07:45:00.000Z",
+      "description": "The final fixture before the final international break of 2021 is nearly upon us. Club historian Rick Glanvill and club statistician Paul Dutton are hoping for more of the recent same from their side…",
+      "matchId": 2210374
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211105blues-bulletin--chelsea-vs-burnl",
       "type": "NewsCard",
       "timestamp": "2021-11-05T07:32:00.000Z",
@@ -513,60 +567,6 @@
       },
       "date": "2021-11-04T00:56:00.000Z",
       "description": "In a fresh feature, a review of the past month of Chelsea life from Stamford Bridge season ticket holder and columnist Giles Smith, he gives a fan’s view on watching the team putting setbacks at the end of September behind them to serve up an October to remember…"
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20211104loftus-cheek-on-playing-freely--",
-      "type": "NewsCard",
-      "timestamp": "2021-11-04T07:00:00.000Z",
-      "orderDate": "2021-11-04T02:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/04/loftus-cheek-on-playing-freely--relishing-the-role-of-villain-an",
-        "type": "NewsCard",
-        "title": "Loftus-Cheek on playing freely, relishing the role of villain and being grateful for opportunities",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/04/loftus-cheek-on-playing-freely--relishing-the-role-of-villain-an.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-04T07:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/04/loftus-cheek-on-playing-freely--relishing-the-role-of-villain-an",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ruben Loftus-Cheek",
-          "id": "editorial/news/2021/11/03/Loftus-Cheek-Malmo-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.0778443,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Loftus-Cheek on playing freely, relishing the role of villain and being grateful for opportunities",
-      "publishDate": "2021-11-04T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/04/loftus-cheek-on-playing-freely--relishing-the-role-of-villain-an.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Ruben Loftus-Cheek",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ruben-loftus-cheek"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-11-04T07:00:00.000Z",
-      "description": "Ruben Loftus-Cheek put in an all-action display in our 1-0 win at Malmo and reflected afterwards on the team’s improvement throughout the game, as well as his own increased involvement in the side.",
-      "matchId": 2244634
     }
   ]
 }
