@@ -8,6 +8,61 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211105pl2-preview--the-eagles-make-sho",
+      "type": "NewsCard",
+      "timestamp": "2021-11-05T16:00:00.000Z",
+      "orderDate": "2021-11-05T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/05/pl2-preview--the-eagles-make-short-trip-to-kingsmeadow",
+        "type": "NewsCard",
+        "title": "PL2 preview: Sticking together and turning the corner",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/pl2-preview--the-eagles-make-short-trip-to-kingsmeadow.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-05T16:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/05/pl2-preview--the-eagles-make-short-trip-to-kingsmeadow",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chelsea development squad celebrations",
+          "id": "editorial/match-reports/2021-22/malmo-away-uyl/Fiabema_celeb_2_DAZ_8225-356217",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 preview: Sticking together and turning the corner",
+      "publishDate": "2021-11-05T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/pl2-preview--the-eagles-make-short-trip-to-kingsmeadow.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-11-05T16:00:00.000Z",
+      "description": "Our development squad will host Crystal Palace on Saturday with kick-off at 11:30am. Tickets are still available to purchase now.",
+      "matchId": 2237252
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211105tuchel-press-conference-ahead-of",
       "type": "NewsCard",
@@ -462,50 +517,6 @@
       ],
       "date": "2021-11-05T09:52:00.000Z",
       "description": "Fresh from signing a brand new contract for the Blues, we've put together a handful of questions to test how well you know the youngster..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211105rudi-in-special-remembrance-matc",
-      "type": "NewsCard",
-      "timestamp": "2021-11-05T13:40:00.000Z",
-      "orderDate": "2021-11-05T00:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/05/rudi-in-special-remembrance-matchday-programme-for-burnley-game",
-        "type": "NewsCard",
-        "title": "Rudi in special Remembrance matchday programme for Burnley game",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/rudi-in-special-remembrance-matchday-programme-for-burnley-game.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-05T13:40:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/05/rudi-in-special-remembrance-matchday-programme-for-burnley-game",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Programme cover",
-          "id": "editorial/news/2021/11/05/cover_prog_burnley",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rudi in special Remembrance matchday programme for Burnley game",
-      "publishDate": "2021-11-05T13:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/rudi-in-special-remembrance-matchday-programme-for-burnley-game.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Programmes",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_programmes"
-        }
-      ],
-      "date": "2021-11-05T13:40:00.000Z",
-      "description": "Toni Rudiger has spoken exclusively to the matchday programme for Saturday’s game against Burnley, which features a special cover to mark Remembrance Day.",
-      "matchId": 2210374
     }
   ]
 }
