@@ -121,6 +121,60 @@
       "matchId": 2210374
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211106pl2-report--chelsea-crystal-pala",
+      "type": "NewsCard",
+      "timestamp": "2021-11-06T14:00:00.000Z",
+      "orderDate": "2021-11-06T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/06/pl2-report--chelsea-crystal-palace",
+        "type": "NewsCard",
+        "title": "PL2 report: Chelsea 1 Crystal Palace 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/pl2-report--chelsea-crystal-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-06T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/06/pl2-report--chelsea-crystal-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/crystal-palace-home-u23s/Joe-Haigh-effort-struck-the-bar-v-Palace",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report: Chelsea 1 Crystal Palace 2",
+      "publishDate": "2021-11-06T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/pl2-report--chelsea-crystal-palace.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-11-06T14:00:00.000Z",
+      "description": "Our development squad came up short in the London derby against Crystal Palace, a game that could have gone either way."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211106tuchel--why-talk-about-the-title",
       "type": "NewsCard",
@@ -513,49 +567,6 @@
       "date": "2021-11-05T14:00:00.000Z",
       "description": "Chelsea will be without a missing quartet of players for the visit of Burnley tomorrow after Marcos Alonso joined the injury list this week.",
       "matchId": 2210374
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211105two-games-in-january-moved-for-t",
-      "type": "NewsCard",
-      "timestamp": "2021-11-05T17:00:00.000Z",
-      "orderDate": "2021-11-05T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/05/two-games-in-january-moved-for-tv-broadcast",
-        "type": "NewsCard",
-        "title": "Two games in January moved for TV broadcast",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/two-games-in-january-moved-for-tv-broadcast.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-05T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/05/two-games-in-january-moved-for-tv-broadcast",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/09/26/man_city_home_kante",
-          "gravity": "auto",
-          "aspectRatio": 1.593673,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Two games in January moved for TV broadcast",
-      "publishDate": "2021-11-05T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/two-games-in-january-moved-for-tv-broadcast.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        }
-      ],
-      "date": "2021-11-05T17:00:00.000Z",
-      "description": "Chelsea’s trip to Manchester City and home clash with Tottenham at the start of next year have both been chosen for live TV broadcast."
     }
   ]
 }
