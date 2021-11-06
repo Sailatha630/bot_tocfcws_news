@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "Interview",
+      "id": "_content_chelseafcennews20211106tuchel--why-talk-about-the-title",
+      "type": "NewsCard",
+      "timestamp": "2021-11-06T04:16:00.000Z",
+      "orderDate": "2021-11-06T04:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/06/tuchel--why-talk-about-the-title-now-",
+        "type": "NewsCard",
+        "title": "Tuchel: Why talk about the title now?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/tuchel--why-talk-about-the-title-now-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-06T04:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/06/tuchel--why-talk-about-the-title-now-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel at training",
+          "id": "editorial/news/2021/11/05/tuchel_training_november",
+          "gravity": "face",
+          "aspectRatio": 0.6666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Why talk about the title now?",
+      "publishDate": "2021-11-06T04:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/tuchel--why-talk-about-the-title-now-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2021-11-06T04:16:00.000Z",
+      "description": "Ten games gone, three points ahead of the rest going into today’s match against Burnley at Stamford Bridge, but Thomas Tuchel does not want to become involved in any discussion yet about whether Chelsea are up there with the favourites to win the Premier League.",
+      "matchId": 2210374
+    },
+    {
+      "contentType": "Interview",
       "id": "_content_chelseafcennews20211106loftus-cheek-assesses-burnley-th",
       "type": "NewsCard",
       "timestamp": "2021-11-06T04:15:00.000Z",
@@ -483,60 +542,6 @@
       "date": "2021-11-05T07:32:00.000Z",
       "description": "Burnley visit the Bridge in the final game before the final international break of 2021, and our preview of Chelsea against the Clarets begins with the noteworthy stats and information...",
       "matchId": 2210374
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211105aston-villa-v-chelsea-women-prev",
-      "type": "NewsCard",
-      "timestamp": "2021-11-05T16:16:00.000Z",
-      "orderDate": "2021-11-05T04:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/05/aston-villa-v-chelsea-women-preview--kick-off-time--how-to-follo",
-        "type": "NewsCard",
-        "title": "Aston Villa vs Chelsea Women preview: Kick-off time, how to follow and much more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/aston-villa-v-chelsea-women-preview--kick-off-time--how-to-follo.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-05T16:16:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/05/aston-villa-v-chelsea-women-preview--kick-off-time--how-to-follo",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Niamh_charles_villa",
-          "gravity": "auto",
-          "aspectRatio": 1.503006,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Aston Villa vs Chelsea Women preview: Kick-off time, how to follow and much more",
-      "publishDate": "2021-11-05T16:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/05/aston-villa-v-chelsea-women-preview--kick-off-time--how-to-follo.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        }
-      ],
-      "date": "2021-11-05T16:16:00.000Z",
-      "description": "Following an exciting run of Champions League and Women’s FA Cup action, the Women’s Super League is back and next up the Blues will face Aston Villa.",
-      "matchId": 2236348
     }
   ]
 }
