@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211107havertz-hopeful-momentum-not-los",
+      "type": "NewsCard",
+      "timestamp": "2021-11-07T07:30:00.000Z",
+      "orderDate": "2021-11-07T07:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/07/havertz-hopeful-momentum-not-lost",
+        "type": "NewsCard",
+        "title": "Havertz hopeful momentum not lost",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/07/havertz-hopeful-momentum-not-lost.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-07T07:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/07/havertz-hopeful-momentum-not-lost",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kai Havertz running",
+          "id": "editorial/news/2021/11/06/burnley_home_havertz",
+          "gravity": "auto",
+          "aspectRatio": 1.4991857,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz hopeful momentum not lost",
+      "publishDate": "2021-11-07T07:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/07/havertz-hopeful-momentum-not-lost.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2021-11-07T07:30:00.000Z",
+      "description": "There were mixed emotions for Kai Havertz as he reflected on his weekend outing at Stamford Bridge.",
+      "matchId": 2210374
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211106thomas-tuchel-reaction-to-drawin",
       "type": "NewsCard",
@@ -532,61 +591,6 @@
       "date": "2021-11-06T04:15:00.000Z",
       "description": "In the build-up to our final action before the international break, Ruben Loftus-Cheek looks ahead to the visit of Burnley and discusses how talks with the boss have helped his development this term…",
       "matchId": 2210374
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211106ingle-highlights-importance-of-q",
-      "type": "NewsCard",
-      "timestamp": "2021-11-06T07:39:00.000Z",
-      "orderDate": "2021-11-06T00:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/06/ingle-highlights-importance-of-quick-start-against-villa",
-        "type": "NewsCard",
-        "title": "Ingle highlights importance of quick start against Villa",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/ingle-highlights-importance-of-quick-start-against-villa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-06T07:39:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/06/ingle-highlights-importance-of-quick-start-against-villa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Sophie_Ingle",
-          "gravity": "auto",
-          "aspectRatio": 1.500233,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Ingle highlights importance of quick start against Villa",
-      "publishDate": "2021-11-06T07:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/ingle-highlights-importance-of-quick-start-against-villa.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        }
-      ],
-      "date": "2021-11-06T07:39:00.000Z",
-      "description": "Chelsea Women are aiming to make it five straight league wins when we travel to the Midlands to take on Aston Villa today and Sophie Ingle revealed spirits are high in the Blues squad.",
-      "matchId": 2236348
     }
   ]
 }
