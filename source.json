@@ -125,6 +125,50 @@
       "matchId": 2236348
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211107callum-hudson-odoi-s-big-blue-mo",
+      "type": "NewsCard",
+      "timestamp": "2021-11-07T14:17:00.000Z",
+      "orderDate": "2021-11-07T09:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/07/callum-hudson-odoi-s-big-blue-moments1",
+        "type": "NewsCard",
+        "title": "Callum Hudson-Odoi’s Big Blue Moments",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/07/callum-hudson-odoi-s-big-blue-moments1.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-07T14:17:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/07/callum-hudson-odoi-s-big-blue-moments1",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Callum Hudson-Odoi",
+          "id": "chelsea-app/Hudson-Odoi-GettyImages-1348224597",
+          "gravity": "auto",
+          "aspectRatio": 1.4992679,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Callum Hudson-Odoi’s Big Blue Moments",
+      "publishDate": "2021-11-07T14:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/07/callum-hudson-odoi-s-big-blue-moments1.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        }
+      ],
+      "date": "2021-11-07T14:17:00.000Z",
+      "description": "As Callum Hudson-Odoi celebrates his 21st birthday today (7 November), we take a look at the Chelsea career to date of the young Blues star."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211107havertz-hopeful-momentum-not-los",
       "type": "NewsCard",
@@ -531,60 +575,6 @@
       "date": "2021-11-06T11:30:00.000Z",
       "description": "Chelsea head coach Thomas Tuchel believes the club is the 'perfect fit' for him as he confirms he sees his current role as a long-term project.",
       "matchId": 2210374
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211106pl2-report--chelsea-crystal-pala",
-      "type": "NewsCard",
-      "timestamp": "2021-11-06T14:00:00.000Z",
-      "orderDate": "2021-11-06T09:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/06/pl2-report--chelsea-crystal-palace",
-        "type": "NewsCard",
-        "title": "PL2 report: Chelsea 1 Crystal Palace 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/pl2-report--chelsea-crystal-palace.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-06T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/06/pl2-report--chelsea-crystal-palace",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/crystal-palace-home-u23s/Joe-Haigh-effort-struck-the-bar-v-Palace",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Chelsea 1 Crystal Palace 2",
-      "publishDate": "2021-11-06T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/pl2-report--chelsea-crystal-palace.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-11-06T14:00:00.000Z",
-      "description": "Our development squad came up short in the London derby against Crystal Palace, a game that could have gone either way."
     }
   ]
 }
