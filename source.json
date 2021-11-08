@@ -9,6 +9,58 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20211108tuchel-reveals-his-international",
+      "type": "NewsCard",
+      "timestamp": "2021-11-08T04:45:00.000Z",
+      "orderDate": "2021-11-08T04:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/08/tuchel-reveals-his-international-break-plans-and-why-he-s--frigh",
+        "type": "NewsCard",
+        "title": "Tuchel reveals his international break plans and why he’s ‘frightened’ of national team duty",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/tuchel-reveals-his-international-break-plans-and-why-he-s--frigh.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-08T04:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/08/tuchel-reveals-his-international-break-plans-and-why-he-s--frigh",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Tuchel-GettyImages-1337908602",
+          "gravity": "auto",
+          "aspectRatio": 1.502012,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reveals his international break plans and why he’s ‘frightened’ of national team duty",
+      "publishDate": "2021-11-08T04:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/tuchel-reveals-his-international-break-plans-and-why-he-s--frigh.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2021-11-08T04:45:00.000Z",
+      "description": "Thomas Tuchel has stated that while he hopes to switch off from football and spend some quality time with his family this week, he will still be keeping tabs on two members of his squad during this international break."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20211107tuchel-on-monitoring-pulisic-s-n",
       "type": "NewsCard",
       "timestamp": "2021-11-07T22:30:00.000Z",
@@ -516,59 +568,6 @@
       "date": "2021-11-06T13:23:00.000Z",
       "description": "Thomas Tuchel has made one change to the side which triumphed 3-0 against Newcastle United in our last Premier League fixture, handing Ross Barkley his first league start of the season.",
       "matchId": 2210374
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211106womens-match-report--aston-villa",
-      "type": "NewsCard",
-      "timestamp": "2021-11-06T16:09:00.000Z",
-      "orderDate": "2021-11-06T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/06/womens-match-report--aston-villa-0-0-chelsea-",
-        "type": "NewsCard",
-        "title": "Women's match report and highlights: Aston Villa 0 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/womens-match-report--aston-villa-0-0-chelsea-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-06T16:09:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/11/06/womens-match-report--aston-villa-0-0-chelsea-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/ChelseaWomen_Villa_Away_Fleming_Celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women's match report and highlights: Aston Villa 0 Chelsea 1",
-      "publishDate": "2021-11-06T16:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/06/womens-match-report--aston-villa-0-0-chelsea-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        }
-      ],
-      "date": "2021-11-06T16:09:00.000Z",
-      "description": "Chelsea Women made it five straight league wins with a 1-0 away victory against Aston Villa on Saturday afternoon.",
-      "matchId": 2236348
     }
   ]
 }
