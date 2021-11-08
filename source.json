@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20211108mason-mount-england-call-up-upda",
+      "type": "NewsCard",
+      "timestamp": "2021-11-08T16:15:00.000Z",
+      "orderDate": "2021-11-08T16:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/08/mason-mount-england-call-up-update",
+        "type": "NewsCard",
+        "title": "Mason Mount England call-up update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/mason-mount-england-call-up-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-08T16:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/08/mason-mount-england-call-up-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mason Mount playing for England",
+          "id": "editorial/news/2021/07/08/mount_england_denmark",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Mason Mount England call-up update",
+      "publishDate": "2021-11-08T16:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/mason-mount-england-call-up-update.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-11-08T16:15:00.000Z",
+      "description": "The England national team have announced Mason Mount’s arrival for preparations for their forthcoming matches has been delayed."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211108chelsea-women-arrive-in-switzerl",
       "type": "NewsCard",
@@ -462,64 +511,6 @@
       ],
       "date": "2021-11-08T09:00:00.000Z",
       "description": "Malik Mothersille came up with a late winner to give our Under-18s the win in a pulsating affair away at Crystal Palace."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20211107the-debrief--chelsea-dominant-bu",
-      "type": "NewsCard",
-      "timestamp": "2021-11-07T10:52:00.000Z",
-      "orderDate": "2021-11-07T10:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/07/the-debrief--chelsea-dominant-but-left-frustrated-by-stubborn-bu",
-        "type": "NewsCard",
-        "title": "The Debrief: Chelsea dominant but left frustrated by stubborn Burnley",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/07/the-debrief--chelsea-dominant-but-left-frustrated-by-stubborn-bu.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-07T10:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/07/the-debrief--chelsea-dominant-but-left-frustrated-by-stubborn-bu",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/debrief-16x9-chelsea-v-Burnley-f8336bde-",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Chelsea dominant but left frustrated by stubborn Burnley",
-      "publishDate": "2021-11-07T10:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/07/the-debrief--chelsea-dominant-but-left-frustrated-by-stubborn-bu.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Ross Barkley",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ross-barkley"
-        }
-      ],
-      "date": "2021-11-07T10:52:00.000Z",
-      "description": "The Blues had to settle for a point against Burnley despite almost complete domination at Stamford Bridge and here we take a closer look at the key match statistics and talking points…",
-      "matchId": 2210374
     }
   ]
 }
