@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211109vote-for-your-october-chelsea-go",
+      "type": "NewsCard",
+      "timestamp": "2021-11-09T07:00:00.000Z",
+      "orderDate": "2021-11-09T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/09/vote-for-your-october-chelsea-goal-of-the-month-",
+        "type": "NewsCard",
+        "title": "Vote for your October Chelsea Goal of the Month!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/09/vote-for-your-october-chelsea-goal-of-the-month-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-09T07:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/09/vote-for-your-october-chelsea-goal-of-the-month-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/10/18/brentford_away_chilwell_goal_3",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Vote for your October Chelsea Goal of the Month!",
+      "publishDate": "2021-11-09T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/09/vote-for-your-october-chelsea-goal-of-the-month-.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Sam Kerr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_sam-kerr"
+        }
+      ],
+      "date": "2021-11-09T07:00:00.000Z",
+      "description": "In the month of October there were plenty of wins for Thomas Tuchel's Chelsea with 19 goals scored across all competitions, while the women’s side carried on their fine Champions League form and the young Blues were unbeaten in three of four PL2 matches."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211108hayes-demands--relentless--appro",
       "type": "NewsCard",
@@ -459,54 +517,6 @@
       ],
       "date": "2021-11-08T09:01:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is an official managerial appointment for an ex-Blue, our former head coach is heavily linked with a new job and a transfer story."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211108chelsea-women-arrive-in-switzerl",
-      "type": "NewsCard",
-      "timestamp": "2021-11-08T14:51:00.000Z",
-      "orderDate": "2021-11-08T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/08/chelsea-women-arrive-in-switzerland-ahead-of-champions-league-cl",
-        "type": "NewsCard",
-        "title": "Chelsea Women arrive in Switzerland ahead of Champions League clash",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/chelsea-women-arrive-in-switzerland-ahead-of-champions-league-cl.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-08T14:51:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/08/chelsea-women-arrive-in-switzerland-ahead-of-champions-league-cl",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Geneva_touchdown_ChampionsLeague",
-          "gravity": "auto",
-          "aspectRatio": 1.5028571,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women arrive in Switzerland ahead of Champions League clash",
-      "publishDate": "2021-11-08T14:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/chelsea-women-arrive-in-switzerland-ahead-of-champions-league-cl.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-11-08T14:51:00.000Z",
-      "description": "A squad of 23 Chelsea Women players have arrived in Geneva ahead of tomorrow’s Champions League group stage fixture against Servette.",
-      "matchId": 2245942
     }
   ]
 }
