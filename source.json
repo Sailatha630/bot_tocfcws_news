@@ -8,6 +8,56 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211109women-s-report--servette-0-chels",
+      "type": "NewsCard",
+      "timestamp": "2021-11-09T19:34:00.000Z",
+      "orderDate": "2021-11-09T19:34:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/09/women-s-report--servette-0-chelsea-7",
+        "type": "NewsCard",
+        "title": "Women’s report: Servette 0 Chelsea 7",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/09/women-s-report--servette-0-chelsea-7.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-09T19:34:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/11/09/women-s-report--servette-0-chelsea-7",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reiten celebrates with Sam Kerr",
+          "id": "editorial/match-reports/2021-22/women-servette-away/Reiten-Kerr-GettyImages-1352307200",
+          "gravity": "auto",
+          "aspectRatio": 1.5028571,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Servette 0 Chelsea 7",
+      "publishDate": "2021-11-09T19:34:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/09/women-s-report--servette-0-chelsea-7.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-11-09T19:34:00.000Z",
+      "description": "Chelsea made it back-to-back victories in the Women’s Champions League, courtesy of a thumping win over Servette in Geneva.",
+      "matchId": 2245942
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20211109pat-nevin--do-even-chelsea-centr",
       "type": "NewsCard",
@@ -460,49 +510,6 @@
       ],
       "date": "2021-11-08T16:15:00.000Z",
       "description": "The England national team have announced Mason Mount’s arrival for preparations for their forthcoming matches has been delayed."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211108chelsea-to-adopt-safe-standing-a",
-      "type": "NewsCard",
-      "timestamp": "2021-11-08T17:30:00.000Z",
-      "orderDate": "2021-11-08T16:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/08/chelsea-to-adopt-safe-standing-at-stamford-bridge-from-january",
-        "type": "NewsCard",
-        "title": "Chelsea to adopt safe standing at Stamford Bridge from January",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/chelsea-to-adopt-safe-standing-at-stamford-bridge-from-january.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-08T17:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/08/chelsea-to-adopt-safe-standing-at-stamford-bridge-from-january",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Rail seating",
-          "id": "editorial/news/2021/11/06/rail_seating",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea to adopt safe standing at Stamford Bridge from January",
-      "publishDate": "2021-11-08T17:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/chelsea-to-adopt-safe-standing-at-stamford-bridge-from-january.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        }
-      ],
-      "date": "2021-11-08T17:30:00.000Z",
-      "description": "Chelsea Football Club’s application to be an early adopter of licensed safe standing from 1 January 2022 has been approved by the Sports Grounds Safety Authority (SGSA) and the Sports Minister."
     }
   ]
 }
