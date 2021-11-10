@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20211110internationals--who-is-in-world-",
+      "type": "NewsCard",
+      "timestamp": "2021-11-10T07:05:00.000Z",
+      "orderDate": "2021-11-10T07:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/10/internationals--who-is-in-world-cup-qualifying-action-and-what-d",
+        "type": "NewsCard",
+        "title": "Internationals: Who is in World Cup qualifying action and what do they need to reach the tournament?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/10/internationals--who-is-in-world-cup-qualifying-action-and-what-d.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-10T07:05:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/10/internationals--who-is-in-world-cup-qualifying-action-and-what-d",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jorginho",
+          "id": "editorial/news/2021/11/09/Jorginho_ITA_GettyImages-1235019269",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Who is in World Cup qualifying action and what do they need to reach the tournament?",
+      "publishDate": "2021-11-10T07:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/10/internationals--who-is-in-world-cup-qualifying-action-and-what-d.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2021-11-10T07:05:00.000Z",
+      "description": "Many of the Chelsea players have joined their national teams for the last round of international fixtures in 2021, with the attention firmly on qualification for next year's World Cup..."
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20211109women-s-report--servette-0-chels",
       "type": "NewsCard",
@@ -461,55 +504,6 @@
       "date": "2021-11-09T17:30:00.000Z",
       "description": "Chelsea Women's third UEFA Women's Champions League group stage fixture is away against Swiss side Servette today, and a free live stream of the action is available below.",
       "matchId": 2245935
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20211108mason-mount-england-call-up-upda",
-      "type": "NewsCard",
-      "timestamp": "2021-11-08T16:15:00.000Z",
-      "orderDate": "2021-11-08T16:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/08/mason-mount-england-call-up-update",
-        "type": "NewsCard",
-        "title": "Mason Mount England call-up update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/mason-mount-england-call-up-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-08T16:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/08/mason-mount-england-call-up-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mason Mount playing for England",
-          "id": "editorial/news/2021/07/08/mount_england_denmark",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Mason Mount England call-up update",
-      "publishDate": "2021-11-08T16:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/08/mason-mount-england-call-up-update.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2021-11-08T16:15:00.000Z",
-      "description": "The England national team have announced Mason Mount’s arrival for preparations for their forthcoming matches has been delayed."
     }
   ]
 }
