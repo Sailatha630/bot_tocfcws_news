@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211110reece-james-reacts-to-his-most-i",
+      "type": "NewsCard",
+      "timestamp": "2021-11-10T09:50:00.000Z",
+      "orderDate": "2021-11-10T09:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/10/reece-james-reacts-to-his-most-in-form-player-rating",
+        "type": "NewsCard",
+        "title": "Reece James reacts to his most in-form player rating",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/10/reece-james-reacts-to-his-most-in-form-player-rating.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-10T09:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/10/reece-james-reacts-to-his-most-in-form-player-rating",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James at Newcastle",
+          "id": "editorial/match-reports/2021-22/newcastle-away/James_GettyImages-1236225750",
+          "gravity": "auto",
+          "aspectRatio": 1.5001795,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Reece James reacts to his most in-form player rating",
+      "publishDate": "2021-11-10T09:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/10/reece-james-reacts-to-his-most-in-form-player-rating.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        }
+      ],
+      "date": "2021-11-10T09:50:00.000Z",
+      "description": "Reece James is currently away on England international duty but it is his Chelsea club form that has been making headlines, with the wing-back speaking about how highly his recent performances are being rated."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211110hayes-acclaims-outstanding-blues",
       "type": "NewsCard",
@@ -456,54 +504,6 @@
       ],
       "date": "2021-11-09T09:51:00.000Z",
       "description": "In our look at the latest Chelsea-related stories from the media, there is a fresh tranfer link, a report linking former Blues technical director to a new role and an interview in which a Chelsea icon is the subject."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211109ticket-details-and-loyalty-point",
-      "type": "NewsCard",
-      "timestamp": "2021-11-09T15:02:00.000Z",
-      "orderDate": "2021-11-09T01:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/09/ticket-details-and-loyalty-point-information-for-leeds",
-        "type": "NewsCard",
-        "title": "Ticket details and loyalty point information for Leeds",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/09/ticket-details-and-loyalty-point-information-for-leeds.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-09T15:02:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/09/ticket-details-and-loyalty-point-information-for-leeds",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea fans",
-          "id": "editorial/news/2021/09/07/stamford-bridge-view-inside-sunny",
-          "gravity": "auto",
-          "aspectRatio": 1.5001523,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ticket details and loyalty point information for Leeds",
-      "publishDate": "2021-11-09T15:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/09/ticket-details-and-loyalty-point-information-for-leeds.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-11-09T15:02:00.000Z",
-      "description": "Tickets for our home game against Leeds United next month will go on sale tomorrow on a loyalty points basis."
     }
   ]
 }
