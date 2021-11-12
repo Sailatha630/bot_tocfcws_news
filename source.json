@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211112james-goal-named-chelsea-s-best-",
+      "type": "NewsCard",
+      "timestamp": "2021-11-12T08:00:00.000Z",
+      "orderDate": "2021-11-12T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/12/james-goal-named-chelsea-s-best-in-october",
+        "type": "NewsCard",
+        "title": "James goal named Chelsea’s best in October",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/12/james-goal-named-chelsea-s-best-in-october.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-12T08:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/12/james-goal-named-chelsea-s-best-in-october",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " James",
+          "id": "chelsea-app/James-Celeb-GettyImages-1350236450",
+          "gravity": "auto",
+          "aspectRatio": 1.5573123,
+          "cropMode": "fill"
+        }
+      },
+      "content": "James goal named Chelsea’s best in October",
+      "publishDate": "2021-11-12T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/12/james-goal-named-chelsea-s-best-in-october.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Goal of the Month",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-month"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-12T08:00:00.000Z",
+      "description": "Chelsea supporters have voted Reece James’s first strike at Newcastle United as our Goal of the Month for October."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20211111internationals--rudiger-features",
       "type": "NewsCard",
@@ -462,59 +515,6 @@
       "date": "2021-11-11T08:55:00.000Z",
       "description": "Guro Reiten says our ruthless 7-0 thrashing of Servette had been coming and sets the standard heading into Sunday’s Women’s Super League fixture against Manchester City.",
       "matchId": 2245942
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20211111chelsea-women-academy-players-me",
-      "type": "NewsCard",
-      "timestamp": "2021-11-11T11:15:00.000Z",
-      "orderDate": "2021-11-11T02:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/11/chelsea-women-academy-players-meet-with-ukaf-flight-sergeant-to-",
-        "type": "NewsCard",
-        "title": "Chelsea Women Academy players meet with UKAF Flight Sergeant to discuss remembrance ahead of Remembrance Day fixture this evening",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/11/chelsea-women-academy-players-meet-with-ukaf-flight-sergeant-to-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-11T11:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/11/chelsea-women-academy-players-meet-with-ukaf-flight-sergeant-to-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Remembrance_Day_Women",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women Academy players meet with UKAF Flight Sergeant to discuss remembrance ahead of Remembrance Day fixture this evening",
-      "publishDate": "2021-11-11T11:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/11/chelsea-women-academy-players-meet-with-ukaf-flight-sergeant-to-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-11-11T11:15:00.000Z",
-      "description": "Ahead of this evening’s fixture between Chelsea FC Women Under-18s and UK Armed Forces Women, Flight Sergeant Michelle Perkins spoke with our Academy players about Remembrance."
     }
   ]
 }
