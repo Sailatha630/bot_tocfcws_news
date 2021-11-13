@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211113the-debrief--chelsea-s-2021-22-s",
+      "type": "NewsCard",
+      "timestamp": "2021-11-13T09:36:00.000Z",
+      "orderDate": "2021-11-13T11:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/13/the-debrief--chelsea-s-2021-22-season-so-far",
+        "type": "NewsCard",
+        "title": "The Debrief: Chelsea's 2021/22 season so far",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/13/the-debrief--chelsea-s-2021-22-season-so-far.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-13T09:36:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/13/the-debrief--chelsea-s-2021-22-season-so-far",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Debrief",
+          "id": "editorial/news/2021/11/11/the-debrief-season-so-far-web",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Chelsea's 2021/22 season so far",
+      "publishDate": "2021-11-13T09:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/13/the-debrief--chelsea-s-2021-22-season-so-far.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        }
+      ],
+      "date": "2021-11-13T09:36:00.000Z",
+      "description": "Over a quarter of the way through the Premier League campaign and with our Champions League group taking shape, the final international break of the year provides a chance to analyse some of the standout statistics from Chelsea’s season so far and reflect on what they tell us about our style of play…"
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211113manchester-city-women-v-chelsea-",
       "type": "NewsCard",
@@ -136,59 +189,6 @@
       "description": "Legendary Chelsea skipper Ron Harris celebrates his 77th birthday today (13 November) and to mark the occasion, we’re taking a fond look at ‘Chopper’ and the other Stamford Bridge heroes who have captained the Blues to glory in major cup finals."
     },
     {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20211113the-debrief--chelsea-s-2021-22-s",
-      "type": "NewsCard",
-      "timestamp": "2021-11-13T09:36:00.000Z",
-      "orderDate": "2021-11-13T09:36:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/13/the-debrief--chelsea-s-2021-22-season-so-far",
-        "type": "NewsCard",
-        "title": "The Debrief: Chelsea's 2021/22 season so far",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/13/the-debrief--chelsea-s-2021-22-season-so-far.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-13T09:36:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/13/the-debrief--chelsea-s-2021-22-season-so-far",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/11/11/the-debrief-season-so-far-web",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Chelsea's 2021/22 season so far",
-      "publishDate": "2021-11-13T09:36:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/13/the-debrief--chelsea-s-2021-22-season-so-far.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2021-11-13T09:36:00.000Z",
-      "description": "Over a quarter of the way through the Premier League campaign and with our Champions League group taking shape, the final international break of the year provides a chance to analyse some of the standout statistics from Chelsea’s season so far and reflect on what they tell us about our style of play…"
-    },
-    {
       "contentType": "International",
       "id": "_content_chelseafcennews20211113pulisic-strike-sends-usa-top",
       "type": "NewsCard",
@@ -308,6 +308,49 @@
       ],
       "date": "2021-11-13T06:20:00.000Z",
       "description": "The impact Thomas Tuchel had in galvanising Chelsea into a team capable of winning European club football’s biggest honour is just one of the stories behind our glorious Champions League triumph earlier this year, which is explored in an exclusive new two-part documentary."
+    },
+    {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20211113chelsea-foundation-inspires-seco",
+      "type": "NewsCard",
+      "timestamp": "2021-11-13T01:34:00.000Z",
+      "orderDate": "2021-11-13T01:34:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/13/chelsea-foundation-inspires-secondary-school-children-with-visit",
+        "type": "NewsCard",
+        "title": "Chelsea Foundation inspires secondary school children with visit from Academy Scholars",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/13/chelsea-foundation-inspires-secondary-school-children-with-visit.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-13T01:34:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/13/chelsea-foundation-inspires-secondary-school-children-with-visit",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Foundation event",
+          "id": "editorial/news/2021/11/12/Foundation_Merstham_Park_Scholar_Session_crop",
+          "gravity": "auto",
+          "aspectRatio": 1.3755656,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Foundation inspires secondary school children with visit from Academy Scholars",
+      "publishDate": "2021-11-13T01:34:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/13/chelsea-foundation-inspires-secondary-school-children-with-visit.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2021-11-13T01:34:00.000Z",
+      "description": "The next generation of Chelsea players have been inspiring secondary school children with a look into life at the club's Academy thanks to an engagement scheme run by the Chelsea Foundation."
     },
     {
       "contentType": "International",
@@ -521,59 +564,6 @@
       "date": "2021-11-12T17:09:00.000Z",
       "description": "Chelsea return to Barclays Women’s Super League action on Sunday when we travel to face Manchester City, with boss Emma Hayes calling for more of the same after the magnificent 7-0 victory over Servette in the Champions League on Tuesday.",
       "matchId": 2236356
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211112james-goal-named-chelsea-s-best-",
-      "type": "NewsCard",
-      "timestamp": "2021-11-12T09:00:00.000Z",
-      "orderDate": "2021-11-12T09:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/12/james-goal-named-chelsea-s-best-in-october",
-        "type": "NewsCard",
-        "title": "James goal named Chelsea’s best in October",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/12/james-goal-named-chelsea-s-best-in-october.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-12T09:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/12/james-goal-named-chelsea-s-best-in-october",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " James",
-          "id": "chelsea-app/James-Celeb-GettyImages-1350236450",
-          "gravity": "auto",
-          "aspectRatio": 1.5573123,
-          "cropMode": "fill"
-        }
-      },
-      "content": "James goal named Chelsea’s best in October",
-      "publishDate": "2021-11-12T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/12/james-goal-named-chelsea-s-best-in-october.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Goal of the Month",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_goal-of-the-month"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-11-12T09:00:00.000Z",
-      "description": "Chelsea supporters have voted Reece James’s first strike at Newcastle United as our Goal of the Month for October."
     }
   ]
 }
