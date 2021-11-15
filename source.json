@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20211115southgate-s-praise-for-gallagher",
+      "type": "NewsCard",
+      "timestamp": "2021-11-15T15:00:00.000Z",
+      "orderDate": "2021-11-15T14:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/15/southgate-s-praise-for-gallagher-and-james",
+        "type": "NewsCard",
+        "title": "Southgate’s praise for Gallagher and James",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/15/southgate-s-praise-for-gallagher-and-james.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-15T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/15/southgate-s-praise-for-gallagher-and-james",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James",
+          "id": "editorial/news/2021/11/15/James-England-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5699549,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Southgate’s praise for Gallagher and James",
+      "publishDate": "2021-11-15T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/15/southgate-s-praise-for-gallagher-and-james.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        },
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        }
+      ],
+      "date": "2021-11-15T15:00:00.000Z",
+      "description": "Ahead of England’s final World Cup qualifier this evening, boss Gareth Southgate has been discussing the progress of two Chelsea players who have made impressive starts to the season."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211115-i-feel-as-good-as-i-ve-ever-fel",
       "type": "NewsCard",
@@ -440,49 +498,6 @@
       "date": "2021-11-14T16:59:00.000Z",
       "description": "The Blues produced a clinical performance at the Academy Stadium to win away at Manchester City for the first time in a Women’s Super League game.",
       "matchId": 2236356
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211114thiago-silva-opens-up-on-his-emo",
-      "type": "NewsCard",
-      "timestamp": "2021-11-14T15:29:00.000Z",
-      "orderDate": "2021-11-14T15:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/14/thiago-silva-opens-up-on-his-emotional-rollercoaster-in-chelsea-",
-        "type": "NewsCard",
-        "title": "Porto Uncovered: Thiago Silva opens up on his emotional rollercoaster in Chelsea blue",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/14/thiago-silva-opens-up-on-his-emotional-rollercoaster-in-chelsea-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-14T15:29:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/14/thiago-silva-opens-up-on-his-emotional-rollercoaster-in-chelsea-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/06/04/GettyImages-1320713888",
-          "gravity": "auto",
-          "aspectRatio": 1.4982659,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Porto Uncovered: Thiago Silva opens up on his emotional rollercoaster in Chelsea blue",
-      "publishDate": "2021-11-14T15:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/14/thiago-silva-opens-up-on-his-emotional-rollercoaster-in-chelsea-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        }
-      ],
-      "date": "2021-11-14T15:29:00.000Z",
-      "description": "Thiago Silva has won silverware everywhere he has played in football. From top-flight domestic titles in both Italy and France, to cup triumph in his native Brazil. Yet one trophy he had come so close to winning but never quite got his hands on is the Champions League."
     }
   ]
 }
