@@ -243,6 +243,60 @@
       "matchId": 2245955
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20211118brentford-cup-match-ticket-news",
+      "type": "NewsCard",
+      "timestamp": "2021-11-18T15:23:00.000Z",
+      "orderDate": "2021-11-18T03:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/18/brentford-cup-match-ticket-news",
+        "type": "NewsCard",
+        "title": "Brentford cup match ticket news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/brentford-cup-match-ticket-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-18T15:23:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/18/brentford-cup-match-ticket-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Brentford Community Stadium",
+          "id": "editorial/match-reports/2021-22/brentford-away/brentford_away_stadium",
+          "gravity": "auto",
+          "aspectRatio": 1.5437063,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Brentford cup match ticket news",
+      "publishDate": "2021-11-18T15:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/brentford-cup-match-ticket-news.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-11-18T15:23:00.000Z",
+      "description": "Ticket details have been announced for our Carabao Cup quarter-final away against Brentford.",
+      "matchId": 2258261
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211118media-watch--fofana-linked-to-th",
       "type": "NewsCard",
@@ -465,54 +519,6 @@
       ],
       "date": "2021-11-18T11:50:00.000Z",
       "description": "Chelsea supporters travelling to Leicester City by car on Saturday should take note of the following information."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211117watch-three-live-games-on-chelse",
-      "type": "NewsCard",
-      "timestamp": "2021-11-17T17:13:00.000Z",
-      "orderDate": "2021-11-17T17:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/17/watch-three-live-games-on-chelsea-platforms-this-week",
-        "type": "NewsCard",
-        "title": "Watch three live games on Chelsea platforms this week",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/17/watch-three-live-games-on-chelsea-platforms-this-week.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-17T17:13:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/17/watch-three-live-games-on-chelsea-platforms-this-week",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Celebrations against Man City Women",
-          "id": "chat-hub/fan-chat-app/women-celebration-GettyImages-1353262033",
-          "gravity": "auto",
-          "aspectRatio": 1.5021459,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Watch three live games on Chelsea platforms this week",
-      "publishDate": "2021-11-17T17:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/17/watch-three-live-games-on-chelsea-platforms-this-week.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2021-11-17T17:13:00.000Z",
-      "description": "We will be bringing you live coverage of two Chelsea Women fixtures and a PL2 game on the 5th Stand app and Chelsea website in the coming days, as well as Thomas Tuchel’s pre-match press conference to preview our trip to Leicester City."
     }
   ]
 }
