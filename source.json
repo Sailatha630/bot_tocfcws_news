@@ -223,6 +223,49 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20211115leicester-travel-news---m1-closu",
+      "type": "NewsCard",
+      "timestamp": "2021-11-18T11:50:00.000Z",
+      "orderDate": "2021-11-18T00:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure",
+        "type": "NewsCard",
+        "title": "Leicester travel news - M1 closure",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-18T11:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "King Power",
+          "id": "editorial/news/2020/06/KingPower_GettyImages-1214462009",
+          "gravity": "auto",
+          "aspectRatio": 1.5001514,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Leicester travel news - M1 closure",
+      "publishDate": "2021-11-18T11:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Travel News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_travel-news"
+        }
+      ],
+      "date": "2021-11-18T11:50:00.000Z",
+      "description": "Chelsea supporters travelling to Leicester City by car on Saturday should take note of the following information."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20211117watch-three-live-games-on-chelse",
       "type": "NewsCard",
       "timestamp": "2021-11-17T17:13:00.000Z",
@@ -456,54 +499,6 @@
       ],
       "date": "2021-11-17T01:06:00.000Z",
       "description": "Following his penalty heroics this season, Kepa Arrizabalaga is the latest player to sit down to answer our 10 questions on a range of subjects…"
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211117westview-season-ticket-update",
-      "type": "NewsCard",
-      "timestamp": "2021-11-17T13:58:00.000Z",
-      "orderDate": "2021-11-17T01:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/17/westview-season-ticket-update",
-        "type": "NewsCard",
-        "title": "Westview season ticket update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/17/westview-season-ticket-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-17T13:58:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/17/westview-season-ticket-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Westview",
-          "id": "editorial/news/2021/08/11/westview",
-          "gravity": "auto",
-          "aspectRatio": 1.7774618,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Westview season ticket update",
-      "publishDate": "2021-11-17T13:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/17/westview-season-ticket-update.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        },
-        {
-          "title": "Season Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_season-tickets"
-        }
-      ],
-      "date": "2021-11-17T13:58:00.000Z",
-      "description": "Season ticket prices for Westview have been confirmed for the 2022/23 season."
     }
   ]
 }
