@@ -8,6 +8,56 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211118women-s-report--chelsea-1-servet",
+      "type": "NewsCard",
+      "timestamp": "2021-11-18T21:59:00.000Z",
+      "orderDate": "2021-11-18T21:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/18/women-s-report--chelsea-1-servette-0",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 1 Servette 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/women-s-report--chelsea-1-servette-0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-18T21:59:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/11/18/women-s-report--chelsea-1-servette-0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Celebrating Kerr's winner",
+          "id": "editorial/match-reports/2021-22/women-servette-home/Kerr-GettyImages-1354081588",
+          "gravity": "auto",
+          "aspectRatio": 1.5003183,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Chelsea 1 Servette 0",
+      "publishDate": "2021-11-18T21:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/women-s-report--chelsea-1-servette-0.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
+        }
+      ],
+      "date": "2021-11-18T21:59:00.000Z",
+      "description": "The Blues had to be patient against a much-improved Servette side, but Sam Kerr’s second-half strike solidified our spot at the top of Group A in the Women’s Champions League.",
+      "matchId": 2245955
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211118watch-chelsea-women-live-stream",
       "type": "NewsCard",
@@ -455,49 +505,6 @@
       "tags": [],
       "date": "2021-11-18T14:39:00.000Z",
       "description": "On Thursday 11 November, the Chelsea FC Foundation in partnership with the Jewish Community of Vienna (IKG), the Office of Lord Mann and the International Coalition for Combating Antisemitism (ICCA) co-hosted a one-day Global Conference on Football's Role in Combatting Antisemitism."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211115leicester-travel-news---m1-closu",
-      "type": "NewsCard",
-      "timestamp": "2021-11-18T11:50:00.000Z",
-      "orderDate": "2021-11-18T00:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure",
-        "type": "NewsCard",
-        "title": "Leicester travel news - M1 closure",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-18T11:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "King Power",
-          "id": "editorial/news/2020/06/KingPower_GettyImages-1214462009",
-          "gravity": "auto",
-          "aspectRatio": 1.5001514,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Leicester travel news - M1 closure",
-      "publishDate": "2021-11-18T11:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Travel News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_travel-news"
-        }
-      ],
-      "date": "2021-11-18T11:50:00.000Z",
-      "description": "Chelsea supporters travelling to Leicester City by car on Saturday should take note of the following information."
     }
   ]
 }
