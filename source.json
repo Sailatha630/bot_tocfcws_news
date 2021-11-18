@@ -180,6 +180,48 @@
       "description": "In our look at the latest Chelsea-related news stories from the media there is a transfer link to a Premier League star, a fan vote on the world's best footballers and an interview with a former goalkeeper who talks about one of our players."
     },
     {
+      "contentType": "Events",
+      "id": "_content_chelseafcennews20211118tuchel-announced-as-special-gues",
+      "type": "NewsCard",
+      "timestamp": "2021-11-18T10:30:00.000Z",
+      "orderDate": "2021-11-18T01:07:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/18/tuchel-announced-as-special-guest-at-2021-annual-lunch",
+        "type": "NewsCard",
+        "title": "Tuchel announced as special guest at 2021 Annual Lunch",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/tuchel-announced-as-special-guest-at-2021-annual-lunch.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-18T10:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/18/tuchel-announced-as-special-guest-at-2021-annual-lunch",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Tuchel-GettyImages-1314829250",
+          "gravity": "auto",
+          "aspectRatio": 1.4998289,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel announced as special guest at 2021 Annual Lunch",
+      "publishDate": "2021-11-18T10:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/tuchel-announced-as-special-guest-at-2021-annual-lunch.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-11-18T10:30:00.000Z",
+      "description": "Chelsea head coach Thomas Tuchel will join the festivities as a special guest at this year's Annual Lunch."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211117watch-three-live-games-on-chelse",
       "type": "NewsCard",
@@ -462,50 +504,6 @@
       ],
       "date": "2021-11-17T13:58:00.000Z",
       "description": "Season ticket prices for Westview have been confirmed for the 2022/23 season."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211117champions-league--chelsea-women-",
-      "type": "NewsCard",
-      "timestamp": "2021-11-17T11:20:00.000Z",
-      "orderDate": "2021-11-17T00:42:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/17/champions-league--chelsea-women-v-servette-fccf-preview--kick-of",
-        "type": "NewsCard",
-        "title": "Chelsea Women v Servette Champions League preview: Kick-off time, how to watch live stream and much more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/17/champions-league--chelsea-women-v-servette-fccf-preview--kick-of.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-17T11:20:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/17/champions-league--chelsea-women-v-servette-fccf-preview--kick-of",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/guro_reiten_servette_5",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v Servette Champions League preview: Kick-off time, how to watch live stream and much more",
-      "publishDate": "2021-11-17T11:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/17/champions-league--chelsea-women-v-servette-fccf-preview--kick-of.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-11-17T11:20:00.000Z",
-      "description": "Tomorrow we continue our Champions League campaign as we play our fourth European fixture of the season. All the information you need for our second meeting with Servette can be found in our preview here…",
-      "matchId": 2245955
     }
   ]
 }
