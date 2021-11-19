@@ -8,59 +8,6 @@
   },
   "newsFeed": [
     {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211119pl2-report--leeds-united-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-11-19T15:45:00.000Z",
-      "orderDate": "2021-11-19T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/19/pl2-report--leeds-united-chelsea-",
-        "type": "NewsCard",
-        "title": "PL2 report: Leeds 1 Chelsea 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/pl2-report--leeds-united-chelsea-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-19T15:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/19/pl2-report--leeds-united-chelsea-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mbuyamba celebrates",
-          "id": "editorial/match-reports/2021-22/leeds-united-away-u23s/Mbuyamba-celebrations-for-second-goal-v-Leeds",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 report: Leeds 1 Chelsea 3",
-      "publishDate": "2021-11-19T15:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/pl2-report--leeds-united-chelsea-.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-11-19T15:45:00.000Z",
-      "description": "Our young Blues kicked off the Premier League 2 weekend with a dominant 3-1 victory over Leeds United, taking us out of the bottom two."
-    },
-    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211119thomas-tuchel-chelsea-injury-new",
       "type": "NewsCard",
@@ -128,6 +75,107 @@
       "date": "2021-11-19T11:23:00.000Z",
       "description": "Two weeks since his last media assignment and following the international break, Thomas Tuchel was back in front of the press on Friday morning and had mixed news to report on those Chelsea players with injury problems.",
       "matchId": 2210383
+    },
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20211119liverpool-ticket-news",
+      "type": "NewsCard",
+      "timestamp": "2021-11-19T16:49:00.000Z",
+      "orderDate": "2021-11-19T10:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/19/liverpool-ticket-news",
+        "type": "NewsCard",
+        "title": "Liverpool ticket news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/liverpool-ticket-news.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-19T16:49:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/19/liverpool-ticket-news",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva vs Liverpool",
+          "id": "editorial/news/2021/08/30/thiago_silva_liverpool_away",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Liverpool ticket news",
+      "publishDate": "2021-11-19T16:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/liverpool-ticket-news.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-11-19T16:49:00.000Z",
+      "description": "Ticket sales for our home game against Liverpool in the New Year will commence to members on Monday..."
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211119pl2-report--leeds-united-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-11-19T15:45:00.000Z",
+      "orderDate": "2021-11-19T10:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/19/pl2-report--leeds-united-chelsea-",
+        "type": "NewsCard",
+        "title": "PL2 report: Leeds 1 Chelsea 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/pl2-report--leeds-united-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-19T15:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/19/pl2-report--leeds-united-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mbuyamba celebrates",
+          "id": "editorial/match-reports/2021-22/leeds-united-away-u23s/Mbuyamba-celebrations-for-second-goal-v-Leeds",
+          "gravity": "auto",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "PL2 report: Leeds 1 Chelsea 3",
+      "publishDate": "2021-11-19T15:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/pl2-report--leeds-united-chelsea-.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-11-19T15:45:00.000Z",
+      "description": "Our young Blues kicked off the Premier League 2 weekend with a dominant 3-1 victory over Leeds United, taking us out of the bottom two."
     },
     {
       "contentType": "News",
@@ -516,49 +564,6 @@
       "date": "2021-11-18T19:30:00.000Z",
       "description": "Chelsea Women are in Champions League action at home and a live stream of the action can be viewed here for free below.",
       "matchId": 2245955
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211115leicester-travel-news---m1-closu",
-      "type": "NewsCard",
-      "timestamp": "2021-11-19T07:33:00.000Z",
-      "orderDate": "2021-11-18T19:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure",
-        "type": "NewsCard",
-        "title": "Leicester travel news - M1 closure",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-19T07:33:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "King Power",
-          "id": "editorial/news/2020/06/KingPower_GettyImages-1214462009",
-          "gravity": "auto",
-          "aspectRatio": 1.5001514,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Leicester travel news - M1 closure",
-      "publishDate": "2021-11-19T07:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/15/leicester-travel-news---m1-closure.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Travel News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_travel-news"
-        }
-      ],
-      "date": "2021-11-19T07:33:00.000Z",
-      "description": "Chelsea supporters travelling to Leicester City by car on Saturday should take note of the following information."
     }
   ]
 }
