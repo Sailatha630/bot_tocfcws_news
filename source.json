@@ -62,6 +62,54 @@
       "matchId": 2210383
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211119media-watch--kompany-names-blues",
+      "type": "NewsCard",
+      "timestamp": "2021-11-19T08:39:00.000Z",
+      "orderDate": "2021-11-19T03:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/19/media-watch--kompany-names-blues-icon-in-five-a-side-team--hoddl",
+        "type": "NewsCard",
+        "title": "Media Watch: Kompany names Blues icon in five-a-side team, Hoddle speaks out on his managerial influences and Koulibaly shines a positive light on Jorginho",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/media-watch--kompany-names-blues-icon-in-five-a-side-team--hoddl.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-19T08:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/19/media-watch--kompany-names-blues-icon-in-five-a-side-team--hoddl",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Kompany-hazard-mw-chelsea--34ae942f-1d01-4745-a4d1-1366243ad9e0",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Kompany names Blues icon in five-a-side team, Hoddle speaks out on his managerial influences and Koulibaly shines a positive light on Jorginho",
+      "publishDate": "2021-11-19T08:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/media-watch--kompany-names-blues-icon-in-five-a-side-team--hoddl.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Eden Hazard",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_eden-hazard"
+        }
+      ],
+      "date": "2021-11-19T08:39:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, there is a podcast interview, an admission from an ex-Chelsea player and manager, and some words from the Italian media with Jorginho's ex-team-mate."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211119hayes--we-wanted-more-and-player",
       "type": "NewsCard",
@@ -485,60 +533,6 @@
       "date": "2021-11-18T10:30:00.000Z",
       "description": "Magda Eriksson says playing in front of Chelsea’s passionate supporters when Servette visit tonight in the Women’s Champions League will be a welcome tonic after a five-game run of away games.",
       "matchId": 2245955
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211118brentford-cup-match-ticket-news",
-      "type": "NewsCard",
-      "timestamp": "2021-11-18T15:23:00.000Z",
-      "orderDate": "2021-11-18T03:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/18/brentford-cup-match-ticket-news",
-        "type": "NewsCard",
-        "title": "Brentford cup match ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/brentford-cup-match-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-18T15:23:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/18/brentford-cup-match-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Brentford Community Stadium",
-          "id": "editorial/match-reports/2021-22/brentford-away/brentford_away_stadium",
-          "gravity": "auto",
-          "aspectRatio": 1.5437063,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Brentford cup match ticket news",
-      "publishDate": "2021-11-18T15:23:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/brentford-cup-match-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Brentford",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brentford"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-11-18T15:23:00.000Z",
-      "description": "Ticket details have been announced for our Carabao Cup quarter-final away against Brentford.",
-      "matchId": 2258261
     }
   ]
 }
