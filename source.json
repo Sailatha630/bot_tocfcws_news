@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211118blues-bulletin--leicester-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2021-11-18T23:00:00.000Z",
+      "orderDate": "2021-11-18T23:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/18/blues-bulletin--leicester-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Leicester vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/blues-bulletin--leicester-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-18T23:00:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/11/18/blues-bulletin--leicester-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva vs Brentford",
+          "id": "editorial/news/2021/11/18/thiago-silva-leicester",
+          "gravity": "north_east",
+          "aspectRatio": 1.3953034,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Leicester vs Chelsea",
+      "publishDate": "2021-11-18T23:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/blues-bulletin--leicester-vs-chelsea.html",
+      "readTimeInMins": 25,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2021-11-18T23:00:00.000Z",
+      "description": "The Premier League returns on Saturday lunchtime and with it comes the latest Blues Bulletin, detailing all the noteworthy stats and information ahead of our trip to Leicester...",
+      "matchId": 2210383
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20211118women-s-report--chelsea-1-servet",
       "type": "NewsCard",
@@ -468,43 +527,6 @@
       ],
       "date": "2021-11-18T10:30:00.000Z",
       "description": "Chelsea head coach Thomas Tuchel will join the festivities as a special guest at this year's Annual Lunch."
-    },
-    {
-      "contentType": "Say No To Antisemitism",
-      "id": "_content_chelseafcennews20211118chelsea-host-global-conference-o",
-      "type": "NewsCard",
-      "timestamp": "2021-11-18T14:39:00.000Z",
-      "orderDate": "2021-11-18T00:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/18/chelsea-host-global-conference-on-football-s-role-in-combatting-",
-        "type": "NewsCard",
-        "title": "Chelsea hosts global conference on football’s role in combatting antisemitism",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/chelsea-host-global-conference-on-football-s-role-in-combatting-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-18T14:39:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/18/chelsea-host-global-conference-on-football-s-role-in-combatting-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Conference",
-          "id": "editorial/news/2021/11/18/vienna_conference_1",
-          "gravity": "auto",
-          "aspectRatio": 1.4985015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea hosts global conference on football’s role in combatting antisemitism",
-      "publishDate": "2021-11-18T14:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/chelsea-host-global-conference-on-football-s-role-in-combatting-.html",
-      "readTimeInMins": 9,
-      "tags": [],
-      "date": "2021-11-18T14:39:00.000Z",
-      "description": "On Thursday 11 November, the Chelsea FC Foundation in partnership with the Jewish Community of Vienna (IKG), the Office of Lord Mann and the International Coalition for Combating Antisemitism (ICCA) co-hosted a one-day Global Conference on Football's Role in Combatting Antisemitism."
     }
   ]
 }
