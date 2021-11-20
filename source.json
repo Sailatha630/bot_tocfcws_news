@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211120tuchel--aiming-to-be-team-nobody",
+      "type": "NewsCard",
+      "timestamp": "2021-11-20T07:00:00.000Z",
+      "orderDate": "2021-11-20T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/20/tuchel--aiming-to-be-team-nobody-wants-to-face-",
+        "type": "NewsCard",
+        "title": "Tuchel: Aiming to be team nobody wants to face ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/tuchel--aiming-to-be-team-nobody-wants-to-face-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-20T07:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/20/tuchel--aiming-to-be-team-nobody-wants-to-face-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel on the touchline",
+          "id": "editorial/news/2021/11/19/tuchel_pointing",
+          "gravity": "auto",
+          "aspectRatio": 1.5579886,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Aiming to be team nobody wants to face ",
+      "publishDate": "2021-11-20T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/tuchel--aiming-to-be-team-nobody-wants-to-face-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-20T07:00:00.000Z",
+      "description": "It is domestic football all the way now for the coming months with the last international break of 2021 out the way and a full programme of matches ahead, beginning later today at Leicester.",
+      "matchId": 2210383
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211120hudson-odoi-excited-by-title-rac",
       "type": "NewsCard",
@@ -508,65 +562,6 @@
       ],
       "date": "2021-11-19T08:39:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a podcast interview, an admission from an ex-Chelsea player and manager, and some words from the Italian media with Jorginho's ex-team-mate."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20211119hayes--we-wanted-more-and-player",
-      "type": "NewsCard",
-      "timestamp": "2021-11-19T08:57:00.000Z",
-      "orderDate": "2021-11-19T00:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/19/hayes--we-wanted-more-and-players-responded",
-        "type": "NewsCard",
-        "title": "Hayes: We wanted more and players responded",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/hayes--we-wanted-more-and-players-responded.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-19T08:57:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/19/hayes--we-wanted-more-and-players-responded",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Chelsea Women",
-          "id": "editorial/news/2021/11/19/women_servette_home_huddle",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes: We wanted more and players responded",
-      "publishDate": "2021-11-19T08:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/hayes--we-wanted-more-and-players-responded.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        },
-        {
-          "title": "Lauren James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_lauren-james"
-        }
-      ],
-      "date": "2021-11-19T08:57:00.000Z",
-      "description": "Chelsea manager Emma Hayes said our response to a below-par first-half performance impressed her as we opened up a three-point gap at the top of Group A of the Women’s Champions League with a 1-0 win over Servette.",
-      "matchId": 2245955
     }
   ]
 }
