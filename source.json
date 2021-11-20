@@ -9,6 +9,59 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20211120chelsea-line-up-vs-leicester-cit",
+      "type": "NewsCard",
+      "timestamp": "2021-11-20T11:30:00.000Z",
+      "orderDate": "2021-11-20T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/20/chelsea-line-up-vs-leicester-city",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Leicester City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/chelsea-line-up-vs-leicester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-20T11:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/20/chelsea-line-up-vs-leicester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount",
+          "id": "editorial/match-reports/2021-22/leicester-away/Mount-shirt-Leicester-away",
+          "gravity": "auto",
+          "aspectRatio": 1.1524024,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Leicester City",
+      "publishDate": "2021-11-20T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/chelsea-line-up-vs-leicester-city.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-20T11:30:00.000Z",
+      "description": "Thomas Tuchel has made two changes to his team to face Leicester City, including the return to the starting line-up of Mason Mount."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20211120tuchel--aiming-to-be-team-nobody",
       "type": "NewsCard",
       "timestamp": "2021-11-20T07:00:00.000Z",
@@ -503,60 +556,6 @@
       ],
       "date": "2021-11-19T12:45:00.000Z",
       "description": "After watching Kai Havertz score in back-to-back games for club and country, Thomas Tuchel believes his compatriot is making steady progress in his second season as a Chelsea player.",
-      "matchId": 2210383
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211119pre-match-briefing--leicester-vs",
-      "type": "NewsCard",
-      "timestamp": "2021-11-19T07:30:00.000Z",
-      "orderDate": "2021-11-19T07:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/19/pre-match-briefing--leicester-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Leicester vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/pre-match-briefing--leicester-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-19T07:30:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/11/19/pre-match-briefing--leicester-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "King Power Stadium",
-          "id": "editorial/news/2021/11/18/leicester_stadium_aerial_view",
-          "gravity": "auto",
-          "aspectRatio": 1.5010989,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Leicester vs Chelsea",
-      "publishDate": "2021-11-19T07:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/19/pre-match-briefing--leicester-vs-chelsea.html",
-      "readTimeInMins": 66,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-11-19T07:30:00.000Z",
-      "description": "The wait is almost over. The Blues can continue our challenge at the top of the league in the earliest available time slot this weekend. Club historian Rick Glanvill and club statistician Paul Dutton look ahead to lunchtime in Leicester…",
       "matchId": 2210383
     }
   ]
