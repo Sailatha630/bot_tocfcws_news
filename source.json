@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211120hudson-odoi-excited-by-title-rac",
+      "type": "NewsCard",
+      "timestamp": "2021-11-20T04:00:00.000Z",
+      "orderDate": "2021-11-20T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/20/hudson-odoi-excited-by-title-race-involvement-and-the-leicester-",
+        "type": "NewsCard",
+        "title": "Hudson-Odoi excited by title race involvement and the Leicester challenge",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/hudson-odoi-excited-by-title-race-involvement-and-the-leicester-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-20T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/20/hudson-odoi-excited-by-title-race-involvement-and-the-leicester-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hudson-Odoi",
+          "id": "editorial/news/2021/11/19/Hudson-Odoi-stock",
+          "gravity": "north_west",
+          "aspectRatio": 1.4995583,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hudson-Odoi excited by title race involvement and the Leicester challenge",
+      "publishDate": "2021-11-20T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/hudson-odoi-excited-by-title-race-involvement-and-the-leicester-.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2021-11-20T04:00:00.000Z",
+      "description": "Ahead of domestic football’s resumption today and our lunchtime trip to Leicester City, Callum Hudson-Odoi has revealed how the Chelsea squad are relishing the pressure of leading from the front in the Premier League…",
+      "matchId": 2210383
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211119an-update-on-the-future-of-hakim",
       "type": "NewsCard",
@@ -508,65 +567,6 @@
       "date": "2021-11-19T08:57:00.000Z",
       "description": "Chelsea manager Emma Hayes said our response to a below-par first-half performance impressed her as we opened up a three-point gap at the top of Group A of the Women’s Champions League with a 1-0 win over Servette.",
       "matchId": 2245955
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211118blues-bulletin--leicester-vs-che",
-      "type": "NewsCard",
-      "timestamp": "2021-11-18T23:00:00.000Z",
-      "orderDate": "2021-11-18T23:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/18/blues-bulletin--leicester-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Leicester vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/blues-bulletin--leicester-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-18T23:00:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/11/18/blues-bulletin--leicester-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thiago Silva vs Brentford",
-          "id": "editorial/news/2021/11/18/thiago-silva-leicester",
-          "gravity": "north_east",
-          "aspectRatio": 1.3953034,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Leicester vs Chelsea",
-      "publishDate": "2021-11-18T23:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/18/blues-bulletin--leicester-vs-chelsea.html",
-      "readTimeInMins": 25,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        },
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        }
-      ],
-      "date": "2021-11-18T23:00:00.000Z",
-      "description": "The Premier League returns on Saturday lunchtime and with it comes the latest Blues Bulletin, detailing all the noteworthy stats and information ahead of our trip to Leicester...",
-      "matchId": 2210383
     }
   ]
 }
