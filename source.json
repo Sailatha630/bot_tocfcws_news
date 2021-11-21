@@ -8,6 +8,51 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211121women-s-report--chelsea-5-birmin",
+      "type": "NewsCard",
+      "timestamp": "2021-11-21T16:05:00.000Z",
+      "orderDate": "2021-11-21T16:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/21/women-s-report--chelsea-5-birmingham-city-0",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 5 Birmingham City 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/21/women-s-report--chelsea-5-birmingham-city-0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-21T16:05:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2021/11/21/women-s-report--chelsea-5-birmingham-city-0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kerr and Kirby celebrate",
+          "id": "editorial/match-reports/2021-22/women-birmingham-home/Kerr-Kirby-GettyImages-1354689831",
+          "gravity": "auto",
+          "aspectRatio": 1.5028291,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Chelsea 5 Birmingham City 0",
+      "publishDate": "2021-11-21T16:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/21/women-s-report--chelsea-5-birmingham-city-0.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-11-21T16:05:00.000Z",
+      "description": "Sam Kerr scored a hat-trick and Fran Kirby brought up a century of goals for the Blues in a thumping victory over a Birmingham City side struggling at the foot of the Women’s Super League standings.",
+      "matchId": 2236359
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20211121the-debrief--leicester-vs-chelse",
       "type": "NewsCard",
@@ -521,60 +566,6 @@
       "date": "2021-11-20T11:30:00.000Z",
       "description": "Thomas Tuchel has made two changes to his team to face Leicester City, including the return to the starting line-up of Mason Mount.",
       "matchId": 2210383
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211120under-18s-report--brighton---hov",
-      "type": "NewsCard",
-      "timestamp": "2021-11-20T15:00:00.000Z",
-      "orderDate": "2021-11-20T09:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/20/under-18s-report--brighton---hove-albion-chelsea",
-        "type": "NewsCard",
-        "title": "Under-18s report and video highlights: Brighton 1 Chelsea 6",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/under-18s-report--brighton---hove-albion-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-20T15:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/20/under-18s-report--brighton---hove-albion-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tudor Mendel-Idowu celebrating with the team after one of his goals",
-          "id": "editorial/match-reports/2021-22/brighton-away-under-18s/Mendel-Idowu-with-the-team",
-          "gravity": "auto",
-          "aspectRatio": 1.4997001,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report and video highlights: Brighton 1 Chelsea 6",
-      "publishDate": "2021-11-20T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/under-18s-report--brighton---hove-albion-chelsea.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2021-11-20T15:00:00.000Z",
-      "description": "Our Under-18s made it three wins on the spin as they put in a dominant display to win big away at Brighton on Saturday morning."
     }
   ]
 }
