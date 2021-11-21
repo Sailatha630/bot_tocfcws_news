@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211121the-debrief--leicester-vs-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-11-21T14:03:00.000Z",
+      "orderDate": "2021-11-21T14:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/21/the-debrief--leicester-vs-chelsea",
+        "type": "NewsCard",
+        "title": "The Debrief: Away run continues as Chilwell and James cut through",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/21/the-debrief--leicester-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-21T14:03:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/21/the-debrief--leicester-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Debrief",
+          "id": "editorial/news/2021/11/21/debrief_leicester_away_9",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Away run continues as Chilwell and James cut through",
+      "publishDate": "2021-11-21T14:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/21/the-debrief--leicester-vs-chelsea.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-21T14:03:00.000Z",
+      "description": "In Saturday’s early game, Chelsea bounced back from a rare two points dropped in our previous match, at home against Burnley before the international break, with our excellent away form this season continuing. We take a look here at the data and key points from the contest…",
+      "matchId": 2210383
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211121belief-is-growing--squad-so-stro",
       "type": "NewsCard",
@@ -521,60 +575,6 @@
       ],
       "date": "2021-11-20T15:00:00.000Z",
       "description": "Our Under-18s made it three wins on the spin as they put in a dominant display to win big away at Brighton on Saturday morning."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211120tuchel--aiming-to-be-team-nobody",
-      "type": "NewsCard",
-      "timestamp": "2021-11-20T07:00:00.000Z",
-      "orderDate": "2021-11-20T07:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/20/tuchel--aiming-to-be-team-nobody-wants-to-face-",
-        "type": "NewsCard",
-        "title": "Tuchel: Aiming to be team nobody wants to face ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/tuchel--aiming-to-be-team-nobody-wants-to-face-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-20T07:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/20/tuchel--aiming-to-be-team-nobody-wants-to-face-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel on the touchline",
-          "id": "editorial/news/2021/11/19/tuchel_pointing",
-          "gravity": "auto",
-          "aspectRatio": 1.5579886,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Aiming to be team nobody wants to face ",
-      "publishDate": "2021-11-20T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/tuchel--aiming-to-be-team-nobody-wants-to-face-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-11-20T07:00:00.000Z",
-      "description": "It is domestic football all the way now for the coming months with the last international break of 2021 out the way and a full programme of matches ahead, beginning later today at Leicester.",
-      "matchId": 2210383
     }
   ]
 }
