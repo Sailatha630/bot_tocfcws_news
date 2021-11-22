@@ -114,6 +114,60 @@
       "description": "In our look at the latest Chelsea-related news stories from the media, there is praise for a Blues-loanee, a video interview with a Chelsea icon and a strong Blues turnout in one pundit's Team of the Week.."
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews202111222021-22-chelsea-yearbook-out-now",
+      "type": "NewsCard",
+      "timestamp": "2021-11-22T10:31:00.000Z",
+      "orderDate": "2021-11-22T01:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/22/2021-22-chelsea-yearbook-out-now",
+        "type": "NewsCard",
+        "title": "2021/22 Chelsea Yearbook out now",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/22/2021-22-chelsea-yearbook-out-now.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-22T10:31:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/22/2021-22-chelsea-yearbook-out-now",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Yearbook",
+          "id": "editorial/news/2021/11/22/cover_website_yearbook21_22",
+          "gravity": "south",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "2021/22 Chelsea Yearbook out now",
+      "publishDate": "2021-11-22T10:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/22/2021-22-chelsea-yearbook-out-now.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-11-22T10:31:00.000Z",
+      "description": "This season’s Chelsea Yearbook is out now – and here’s how fans can get their hands on the latest edition of a publication steeped in Blues history."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211122hayes--chelsea-matching-my-outra",
       "type": "NewsCard",
@@ -500,76 +554,6 @@
       ],
       "date": "2021-11-20T15:20:00.000Z",
       "description": "Thomas Tuchel was happy with his players' performance against Leicester City and felt the result was fully deserved for their efforts, even if he wants to see a more clinical Chelsea side in the future.",
-      "matchId": 2210383
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211120watch-the-highlights-of-chelsea-",
-      "type": "NewsCard",
-      "timestamp": "2021-11-20T17:15:00.000Z",
-      "orderDate": "2021-11-20T14:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/20/watch-the-highlights-of-chelsea-s-victory-over-leicester",
-        "type": "NewsCard",
-        "title": "Watch the highlights of Chelsea's victory over Leicester",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/watch-the-highlights-of-chelsea-s-victory-over-leicester.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-20T17:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/20/watch-the-highlights-of-chelsea-s-victory-over-leicester",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Leicester 0-3 Chelsea (A) | Premier League Highlights ",
-          "videoId": "IxnjXqDy",
-          "bucket": "prod-cfc",
-          "description": "Highlights from our Premier League match against Leicester.",
-          "duration": 126000,
-          "date": "2021-11-20T14:27:08.088Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/IxnjXqDy/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/watch-the-highlights-of-chelsea-s-victory-over-leicester.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/11/20/watch-the-highlights-of-chelsea-s-victory-over-leicester?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/11/20/watch-the-highlights-of-chelsea-s-victory-over-leicester",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Highlights from our Premier League match against Leicester."
-      },
-      "content": "Watch the highlights of Chelsea's victory over Leicester",
-      "publishDate": "2021-11-20T17:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/20/watch-the-highlights-of-chelsea-s-victory-over-leicester.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-11-20T17:15:00.000Z",
-      "description": "Chelsea secured a dominant victory at Leicester on Saturday courtesy of goals from Toni Rudiger, N'Golo Kante and Christian Pulisic, and you can watch the best of the action now.",
       "matchId": 2210383
     }
   ]
