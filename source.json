@@ -116,6 +116,59 @@
       "matchId": 2244655
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211123uyl-report--chelsea-vs-juventus",
+      "type": "NewsCard",
+      "timestamp": "2021-11-23T17:59:00.000Z",
+      "orderDate": "2021-11-23T12:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/23/uyl-report--chelsea-vs-juventus",
+        "type": "NewsCard",
+        "title": "UYL report: Chelsea 1 Juventus 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/uyl-report--chelsea-vs-juventus.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-23T17:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/23/uyl-report--chelsea-vs-juventus",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/juventus-home-uyl/Joe-Haigh_grabbed-our-only-goal-UYL",
+          "gravity": "auto",
+          "aspectRatio": 1.500238,
+          "cropMode": "fill"
+        }
+      },
+      "content": "UYL report: Chelsea 1 Juventus 3",
+      "publishDate": "2021-11-23T17:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/uyl-report--chelsea-vs-juventus.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Under 19's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-19-s"
+        },
+        {
+          "title": "U19 - UEFA Youth League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_uefa-youth-league"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2021-11-23T17:59:00.000Z",
+      "description": "Juventus beat our young Blues 3-1 which confims them as UEFA Youth League Group H winners and means we must avoid defeat against Zenit in our final group game to make it into the next round.",
+      "matchId": 2244972
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211123pre-match-briefing--chelsea-vs-j",
       "type": "NewsCard",
@@ -513,61 +566,6 @@
       ],
       "date": "2021-11-23T08:33:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is an interview with a former Blues captain, two youngsters receive plenty of praise and a podcast talks about Chelsea's system..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211123uefa-youth-league--young-blues-w",
-      "type": "NewsCard",
-      "timestamp": "2021-11-23T11:00:00.000Z",
-      "orderDate": "2021-11-23T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/23/uefa-youth-league--young-blues-welcome-juventus--kick-off-time-a",
-        "type": "NewsCard",
-        "title": "UYL preview: Andersson on form and opportunities - watch live from 3pm",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/uefa-youth-league--young-blues-welcome-juventus--kick-off-time-a.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-23T11:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/23/uefa-youth-league--young-blues-welcome-juventus--kick-off-time-a",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Edwin Andersson",
-          "id": "editorial/news/2021/11/23/Edwin-Andersson-stock",
-          "gravity": "face",
-          "aspectRatio": 1.498227,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "UYL preview: Andersson on form and opportunities - watch live from 3pm",
-      "publishDate": "2021-11-23T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/uefa-youth-league--young-blues-welcome-juventus--kick-off-time-a.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "U19 - UEFA Youth League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_uefa-youth-league"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-11-23T11:00:00.000Z",
-      "description": "Our penultimate UEFA Youth League group-stage game sees us face Juventus on Tuesday afternoon, a game being streamed live and for free on Chelsea platforms...",
-      "matchId": 2244972
     }
   ]
 }
