@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211123chelsea-line-up-vs-juventus",
+      "type": "NewsCard",
+      "timestamp": "2021-11-23T19:00:00.000Z",
+      "orderDate": "2021-11-23T19:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/23/chelsea-line-up-vs-juventus",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Juventus",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/chelsea-line-up-vs-juventus.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-23T19:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/23/chelsea-line-up-vs-juventus",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Juventus programme",
+          "id": "editorial/match-reports/2021-22/juventus-home/Juventus-h-programme",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Juventus",
+      "publishDate": "2021-11-23T19:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/chelsea-line-up-vs-juventus.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Juventus",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_juventus"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-11-23T19:00:00.000Z",
+      "description": "Thomas Tuchel makes two changes from the side that won at Leicester City three days ago for tonight’s latest Champions League assignment…",
+      "matchId": 2244655
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20211123quiz--test-your-knowledge-of-our",
       "type": "NewsCard",
@@ -508,64 +562,6 @@
       "date": "2021-11-23T08:49:00.000Z",
       "description": "Fran Kirby said the unity at the club shone through in the celebrations following her 100th Chelsea goal in our crushing 5-0 Barclays Women’s Super League win over Birmingham City.",
       "matchId": 2236359
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211123media-watch--terry-outlines-chel",
-      "type": "NewsCard",
-      "timestamp": "2021-11-23T08:33:00.000Z",
-      "orderDate": "2021-11-23T02:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/23/media-watch--terry-outlines-chelsea-s-strengths--wright-phillips",
-        "type": "NewsCard",
-        "title": "Media Watch: Terry outlines Chelsea's strengths, Wright-Phillips sends message to Blues loan stars and Tuchel's system is 'perfect' for Thiago",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/media-watch--terry-outlines-chelsea-s-strengths--wright-phillips.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-23T08:33:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/23/media-watch--terry-outlines-chelsea-s-strengths--wright-phillips",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Terry-mw-chelsea-b7b8623f-a2c1-4744-b9ce-a4407ab85147",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Terry outlines Chelsea's strengths, Wright-Phillips sends message to Blues loan stars and Tuchel's system is 'perfect' for Thiago",
-      "publishDate": "2021-11-23T08:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/media-watch--terry-outlines-chelsea-s-strengths--wright-phillips.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "John Terry",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-terry"
-        },
-        {
-          "title": "Conor Gallagher",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_conor-gallagher"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        }
-      ],
-      "date": "2021-11-23T08:33:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there is an interview with a former Blues captain, two youngsters receive plenty of praise and a podcast talks about Chelsea's system..."
     }
   ]
 }
