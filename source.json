@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20211123quiz--test-your-knowledge-of-our",
+      "type": "NewsCard",
+      "timestamp": "2021-11-23T16:00:00.000Z",
+      "orderDate": "2021-11-23T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/23/quiz--test-your-knowledge-of-our-previous-home-meetings-with-juv",
+        "type": "NewsCard",
+        "title": "Quiz: Test your knowledge of our previous home meetings with Juventus",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/quiz--test-your-knowledge-of-our-previous-home-meetings-with-juv.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-23T16:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/23/quiz--test-your-knowledge-of-our-previous-home-meetings-with-juv",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Terry vs Juventus",
+          "id": "editorial/news/2021/11/18/Terry-Juventus-home-2012",
+          "gravity": "auto",
+          "aspectRatio": 1.4616363,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Test your knowledge of our previous home meetings with Juventus",
+      "publishDate": "2021-11-23T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/quiz--test-your-knowledge-of-our-previous-home-meetings-with-juv.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Juventus",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_juventus"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-11-23T16:00:00.000Z",
+      "description": "The Old Lady of Turin have visited Stamford Bridge on two previous occasions in the Champions League and here we have a quiz to test your knowledge of who featured in those past meetings...",
+      "matchId": 2244655
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211123tuchel-on-why-there-s-more-to-co",
       "type": "NewsCard",
@@ -514,65 +568,6 @@
       "date": "2021-11-23T11:00:00.000Z",
       "description": "Our penultimate UEFA Youth League group-stage game sees us face Juventus on Tuesday afternoon, a game being streamed live and for free on Chelsea platforms...",
       "matchId": 2244972
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211122duo-miss-training-before-juventu",
-      "type": "NewsCard",
-      "timestamp": "2021-11-22T17:00:00.000Z",
-      "orderDate": "2021-11-22T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/22/duo-miss-training-before-juventus",
-        "type": "NewsCard",
-        "title": "Duo miss training before Juventus",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/22/duo-miss-training-before-juventus.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-22T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/22/duo-miss-training-before-juventus",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/11/22/training-pre-Juventus-1",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Duo miss training before Juventus",
-      "publishDate": "2021-11-22T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/22/duo-miss-training-before-juventus.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-11-22T17:00:00.000Z",
-      "description": "Mateo Kovacic and Kai Havertz were the two Chelsea absentees from our final training session before Tuesday’s Champions League clash with Juventus.",
-      "matchId": 2244655
     }
   ]
 }
