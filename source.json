@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211124the-debrief--brilliant-balance-a",
+      "type": "NewsCard",
+      "timestamp": "2021-11-24T12:00:00.000Z",
+      "orderDate": "2021-11-24T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/24/the-debrief--brilliant-balance-and-champion-s-aura-make-blues-om",
+        "type": "NewsCard",
+        "title": "The Debrief: Brilliant balance and champion’s aura make Blues ominous opponents",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/24/the-debrief--brilliant-balance-and-champion-s-aura-make-blues-om.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-24T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/24/the-debrief--brilliant-balance-and-champion-s-aura-make-blues-om",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Debrief graphic",
+          "id": "editorial/news/2021/11/24/debrief-vs-juventus-graphic",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Brilliant balance and champion’s aura make Blues ominous opponents",
+      "publishDate": "2021-11-24T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/24/the-debrief--brilliant-balance-and-champion-s-aura-make-blues-om.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-11-24T12:00:00.000Z",
+      "description": "On a decisive night in the Champions League, the holders put in a statement performance as we thumped Juventus 4-0 at Stamford Bridge to book a place in the last-16. We take a closer look here at the key match statistics and talking points…",
+      "matchId": 2244655
+    },
+    {
+      "contentType": "Analysis",
       "id": "_content_chelseafcennews20211124tuchel-brings-up-his-half-centur",
       "type": "NewsCard",
       "timestamp": "2021-11-24T11:00:00.000Z",
@@ -502,59 +561,6 @@
       "date": "2021-11-23T14:30:00.000Z",
       "description": "Ahead of tonight’s match against Juventus, Thomas Tuchel has discussed Reece James’s recent performances and how far the wing-back’s potential could still take him.",
       "matchId": 2244655
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211123uyl-report--chelsea-vs-juventus",
-      "type": "NewsCard",
-      "timestamp": "2021-11-23T17:59:00.000Z",
-      "orderDate": "2021-11-23T12:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/23/uyl-report--chelsea-vs-juventus",
-        "type": "NewsCard",
-        "title": "UYL report: Chelsea 1 Juventus 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/uyl-report--chelsea-vs-juventus.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-23T17:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/23/uyl-report--chelsea-vs-juventus",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2021-22/juventus-home-uyl/Joe-Haigh_grabbed-our-only-goal-UYL",
-          "gravity": "auto",
-          "aspectRatio": 1.500238,
-          "cropMode": "fill"
-        }
-      },
-      "content": "UYL report: Chelsea 1 Juventus 3",
-      "publishDate": "2021-11-23T17:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/uyl-report--chelsea-vs-juventus.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Under 19's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-19-s"
-        },
-        {
-          "title": "U19 - UEFA Youth League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_uefa-youth-league"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-11-23T17:59:00.000Z",
-      "description": "Juventus beat our young Blues 3-1 which confims them as UEFA Youth League Group H winners and means we must avoid defeat against Zenit in our final group game to make it into the next round.",
-      "matchId": 2244972
     }
   ]
 }
