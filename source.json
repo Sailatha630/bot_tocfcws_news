@@ -56,6 +56,55 @@
       "description": "In our look at the latest Chelsea-related news stories from the media, there is an interview with a former Blues goalkeeper, a claim from a radio pundit and an ex-Chelsea striker fails to distance himself from fresh managerial role.."
     },
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211124tuchel-brings-up-his-half-centur",
+      "type": "NewsCard",
+      "timestamp": "2021-11-24T11:00:00.000Z",
+      "orderDate": "2021-11-24T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/24/tuchel-brings-up-his-half-century-in-style",
+        "type": "NewsCard",
+        "title": "Tuchel brings up his half-century in style",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/24/tuchel-brings-up-his-half-century-in-style.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-24T11:00:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2021/11/24/tuchel-brings-up-his-half-century-in-style",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/match-reports/2021-22/juventus-home/tuchel-celebrating-juventus",
+          "gravity": "auto",
+          "aspectRatio": 1.6731734,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel brings up his half-century in style",
+      "publishDate": "2021-11-24T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/24/tuchel-brings-up-his-half-century-in-style.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-24T11:00:00.000Z",
+      "description": "It was a night that summed up Chelsea under Thomas Tuchel.",
+      "matchId": 2244655
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211124chalobah--that-one-meant-so-much",
       "type": "NewsCard",
@@ -506,60 +555,6 @@
       "date": "2021-11-23T17:59:00.000Z",
       "description": "Juventus beat our young Blues 3-1 which confims them as UEFA Youth League Group H winners and means we must avoid defeat against Zenit in our final group game to make it into the next round.",
       "matchId": 2244972
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211123pre-match-briefing--chelsea-vs-j",
-      "type": "NewsCard",
-      "timestamp": "2021-11-23T04:24:00.000Z",
-      "orderDate": "2021-11-23T09:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/23/pre-match-briefing--chelsea-vs-juventus",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Juventus",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/pre-match-briefing--chelsea-vs-juventus.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-23T04:24:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/11/23/pre-match-briefing--chelsea-vs-juventus",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Andreas Christensen playing against Juventus",
-          "id": "editorial/news/2021/11/22/christensen_juventus_away",
-          "gravity": "faces",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Juventus",
-      "publishDate": "2021-11-23T04:24:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/23/pre-match-briefing--chelsea-vs-juventus.html",
-      "readTimeInMins": 42,
-      "tags": [
-        {
-          "title": "Juventus",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_juventus"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-11-23T04:24:00.000Z",
-      "description": "A big night of European football action awaits as the top two in our group go head-to-head. Club historian Rick Glanvill and club statistician Paul Dutton are ready with the stories surrounding the game…",
-      "matchId": 2244655
     }
   ]
 }
