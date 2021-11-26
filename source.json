@@ -82,6 +82,49 @@
       "matchId": 2210395
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20211126chelsea-continues-support-for-ra",
+      "type": "NewsCard",
+      "timestamp": "2021-11-26T13:12:00.000Z",
+      "orderDate": "2021-11-26T11:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/26/chelsea-continues-support-for-rainbow-laces",
+        "type": "NewsCard",
+        "title": "Chelsea continues support for Rainbow Laces",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/chelsea-continues-support-for-rainbow-laces.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-26T13:12:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/26/chelsea-continues-support-for-rainbow-laces",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Rainbow_Laces_SB",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea continues support for Rainbow Laces",
+      "publishDate": "2021-11-26T13:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/chelsea-continues-support-for-rainbow-laces.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2021-11-26T13:12:00.000Z",
+      "description": "Chelsea Football Club continues to support Stonewall’s annual Rainbow Laces campaign with activity planned at both Sunday’s match against Manchester United at Stamford Bridge and Wednesday’s encounter with Watford at Vicarage Road Stadium."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211126blues-bulletin--chelsea-vs-manch",
       "type": "NewsCard",
@@ -402,7 +445,7 @@
           "type": "ImageCloudinary",
           "alt": "Club World Cup trophy",
           "id": "editorial/news/2021/08/06/Club_World_Cup_trophy_GettyImages-1189855127",
-          "gravity": "auto",
+          "gravity": "north_west",
           "aspectRatio": 1.5,
           "cropMode": "fill"
         }
@@ -468,68 +511,6 @@
       ],
       "date": "2021-11-26T13:16:00.000Z",
       "description": "It is important all supporters visiting Stamford Bridge or Kingsmeadow on matchdays are aware of the following information or they risk a delay in entering the stadium."
-    },
-    {
-      "contentType": "Columnists",
-      "id": "_content_chelseafcennews20211125petr-cech-column--the-new-broom-",
-      "type": "NewsCard",
-      "timestamp": "2021-11-25T15:00:00.000Z",
-      "orderDate": "2021-11-25T15:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/25/petr-cech-column--the-new-broom-sweeps-better",
-        "type": "NewsCard",
-        "title": "Petr Cech column: The new broom sweeps better",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/25/petr-cech-column--the-new-broom-sweeps-better.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-25T15:00:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2021/11/25/petr-cech-column--the-new-broom-sweeps-better",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Petr Cech column",
-          "id": "editorial/news/2021/09/10/Petr_Cech_Column_Article_Hero",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Petr Cech column: The new broom sweeps better",
-      "publishDate": "2021-11-25T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/25/petr-cech-column--the-new-broom-sweeps-better.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Petr",
-        "lastName": "Cech",
-        "description": " ",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Petr Cecg",
-          "id": "video/2021/03/23/-porto-are-always-a-tough-opponent--you-have-to-respect-them-----3Ytf4Dtj/210323_Cech_UCL_Thumb1",
-          "gravity": "face",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2021-11-25T15:00:00.000Z",
-      "description": "In his column this week Petr Cech analyses the Juventus victory and our record-breaking number of clean sheets under Thomas Tuchel, and he also explains what to expect from a team with fresh management, like the one we face on Sunday..."
     }
   ]
 }
