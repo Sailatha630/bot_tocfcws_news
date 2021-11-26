@@ -159,6 +159,66 @@
       "matchId": 2206426
     },
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211126pl2-preview--xavier-simons-on-hi",
+      "type": "NewsCard",
+      "timestamp": "2021-11-26T10:00:00.000Z",
+      "orderDate": "2021-11-26T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/26/pl2-preview--xavier-simons-on-his-comeback-from-injury-and-findi",
+        "type": "NewsCard",
+        "title": "PL2 and U18s live stream preview: Simons on his comeback from injury and finding consistency ahead of Friday's game against Brighton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/pl2-preview--xavier-simons-on-his-comeback-from-injury-and-findi.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-26T10:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/26/pl2-preview--xavier-simons-on-his-comeback-from-injury-and-findi",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Xavier Simons against Leeds",
+          "id": "editorial/match-reports/2021-22/leeds-united-away-u23s/CFCDEV-vs-Leeds-Xavier-Simons-on-the-ball",
+          "gravity": "face",
+          "aspectRatio": 0.9225714,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 and U18s live stream preview: Simons on his comeback from injury and finding consistency ahead of Friday's game against Brighton",
+      "publishDate": "2021-11-26T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/pl2-preview--xavier-simons-on-his-comeback-from-injury-and-findi.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        }
+      ],
+      "date": "2021-11-26T10:00:00.000Z",
+      "description": "Our development squad host Brighton on Friday evening at Kingsmeadow, in a game that will be streamed live on our digital platforms. As well as that our Under-18s are in action on Saturday morning against Derby County and that will also be streamed live.",
+      "matchId": 2237267
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20211125petr-cech-column--the-new-broom-",
       "type": "NewsCard",
@@ -469,43 +529,6 @@
       ],
       "date": "2021-11-25T09:01:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, an interview with an ex-Chelsea player and reports of an amendment in football.."
-    },
-    {
-      "contentType": "Events",
-      "id": "_content_chelseafcennews20211125chelsea-are-coming-to-the-usa--",
-      "type": "NewsCard",
-      "timestamp": "2021-11-25T10:00:00.000Z",
-      "orderDate": "2021-11-25T01:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/25/chelsea-are-coming-to-the-usa--",
-        "type": "NewsCard",
-        "title": "Chelsea are coming to the USA! ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/25/chelsea-are-coming-to-the-usa--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-25T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/25/chelsea-are-coming-to-the-usa--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea fans at a US event",
-          "id": "editorial/news/2021/11/24/chelsea-fans-us-event",
-          "gravity": "south",
-          "aspectRatio": 1.7772512,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea are coming to the USA! ",
-      "publishDate": "2021-11-25T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/25/chelsea-are-coming-to-the-usa--.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2021-11-25T10:00:00.000Z",
-      "description": "Chelsea Football Club are embarking on a Supporters Club Tour in the USA this holiday season, and we’re bringing the Champions League trophy with us!"
     }
   ]
 }
