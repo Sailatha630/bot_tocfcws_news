@@ -195,6 +195,60 @@
       "matchId": 2210395
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211126pl2-report--chelsea-brighton---h",
+      "type": "NewsCard",
+      "timestamp": "2021-11-26T21:00:00.000Z",
+      "orderDate": "2021-11-26T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/26/pl2-report--chelsea-brighton---hove-albion",
+        "type": "NewsCard",
+        "title": "PL2 Report: Chelsea 1 Brighton & Hove Albion 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/pl2-report--chelsea-brighton---hove-albion.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-26T21:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/26/pl2-report--chelsea-brighton---hove-albion",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Harvey Vale with a fine finish for the goal against Brighton",
+          "id": "editorial/match-reports/2021-22/brighton-and-hove-albion-home-u23s/CFCDEV-Another-angle-of-Vale-finish-vs-Brighton",
+          "gravity": "auto",
+          "aspectRatio": 1.5005181,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 Report: Chelsea 1 Brighton & Hove Albion 1",
+      "publishDate": "2021-11-26T21:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/pl2-report--chelsea-brighton---hove-albion.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-11-26T21:00:00.000Z",
+      "description": "Harvey Vale grabbed his fifth goal of the PL2 season as our development squad came from behind to draw at Kingsmeadow on Friday evening."
+    },
+    {
       "contentType": "Chelsea Foundation",
       "id": "_content_chelseafcennews20211126chelsea-continues-support-for-ra",
       "type": "NewsCard",
@@ -507,50 +561,6 @@
       ],
       "date": "2021-11-26T08:35:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, a video interview with a club icon and an admission from a Spurs player..."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211126women-s-fa-cup-final---last-chan",
-      "type": "NewsCard",
-      "timestamp": "2021-11-26T09:37:00.000Z",
-      "orderDate": "2021-11-26T01:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/26/women-s-fa-cup-final---last-chance-to-buy-tickets-",
-        "type": "NewsCard",
-        "title": "Women's FA Cup Final – last chance to buy tickets ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/women-s-fa-cup-final---last-chance-to-buy-tickets-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-26T09:37:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/26/women-s-fa-cup-final---last-chance-to-buy-tickets-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Women's FA Cup final",
-          "id": "editorial/news/2021/11/26/women-fa-cup-final-graphic-arsenal",
-          "gravity": "south",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women's FA Cup Final – last chance to buy tickets ",
-      "publishDate": "2021-11-26T09:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/women-s-fa-cup-final---last-chance-to-buy-tickets-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-11-26T09:37:00.000Z",
-      "description": "Chelsea take on Arsenal in the Women's FA Cup final on Sunday 5 December and you can be there! But hurry, ticket sales end soon and all tickets must be purchased in advance of this fixture...",
-      "matchId": 2206426
     }
   ]
 }
