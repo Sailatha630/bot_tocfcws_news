@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211126blues-bulletin--chelsea-vs-manch",
+      "type": "NewsCard",
+      "timestamp": "2021-11-26T02:46:00.000Z",
+      "orderDate": "2021-11-26T02:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/26/blues-bulletin--chelsea-vs-manchester-united",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Manchester United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/blues-bulletin--chelsea-vs-manchester-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-26T02:46:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/26/blues-bulletin--chelsea-vs-manchester-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hudson-Odoi",
+          "id": "editorial/news/2021/11/25/Hudson-Odoi_Shaw_GettyImages-1305508616",
+          "gravity": "north_west",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Manchester United",
+      "publishDate": "2021-11-26T02:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/blues-bulletin--chelsea-vs-manchester-united.html",
+      "readTimeInMins": 28,
+      "tags": [
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-26T02:46:00.000Z",
+      "description": "The big games keep coming thick and fast. Before we host Manchester United at Stamford Bridge on Sunday, here's the latest Blues Bulletin bringing you all the vital statistics and information ahead of kick-off...",
+      "matchId": 2210395
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20211125petr-cech-column--the-new-broom-",
       "type": "NewsCard",
@@ -441,48 +495,6 @@
       ],
       "date": "2021-11-25T13:02:00.000Z",
       "description": "This Sunday, Chelsea legend Pat Nevin will be back at the stadium where he made his name in English football, signing copies of the book that tells that story and much, much more."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20211125chelsea-teams-walking-back-to-ha",
-      "type": "NewsCard",
-      "timestamp": "2021-11-25T18:32:00.000Z",
-      "orderDate": "2021-11-25T00:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/25/chelsea-teams-walking-back-to-happiness-after-lockdown",
-        "type": "NewsCard",
-        "title": "Chelsea teams walking back to happiness after lockdown",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/25/chelsea-teams-walking-back-to-happiness-after-lockdown.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-25T18:32:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/25/chelsea-teams-walking-back-to-happiness-after-lockdown",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/HEL_4251_2021112242852692",
-          "gravity": "auto",
-          "aspectRatio": 1.5022008,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea teams walking back to happiness after lockdown",
-      "publishDate": "2021-11-25T18:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/25/chelsea-teams-walking-back-to-happiness-after-lockdown.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2021-11-25T18:32:00.000Z",
-      "description": "Chelsea Foundation’s renowned walking footballers are back in full swing with extra sessions, new locations and competitive matches following their enforced pandemic break."
     }
   ]
 }
