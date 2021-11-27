@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211127pre-match-briefing--chelsea-vs-m",
+      "type": "NewsCard",
+      "timestamp": "2021-11-27T07:55:00.000Z",
+      "orderDate": "2021-11-27T07:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/27/pre-match-briefing--chelsea-vs-manchester-united",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Manchester United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/27/pre-match-briefing--chelsea-vs-manchester-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-27T07:55:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/11/27/pre-match-briefing--chelsea-vs-manchester-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Britannia Entrance at Stamford Bridge",
+          "id": "editorial/news/2021/11/26/stadium_fulham_road",
+          "gravity": "auto",
+          "aspectRatio": 1.5368388,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Manchester United",
+      "publishDate": "2021-11-27T07:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/27/pre-match-briefing--chelsea-vs-manchester-united.html",
+      "readTimeInMins": 67,
+      "tags": [
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-27T07:55:00.000Z",
+      "description": "In what has been an unusual kick-off time slot for the Blues so far this season, we have the chance to continue the good form in one of the biggest fixtures. Club historian Rick Glanvill and club statistician Paul Dutton are ready to face the Red Devils…",
+      "matchId": 2210395
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211126tuchel-issues-havertz-update-and",
       "type": "NewsCard",
@@ -524,49 +578,6 @@
       "date": "2021-11-26T02:46:00.000Z",
       "description": "The big games keep coming thick and fast. Before we host Manchester United at Stamford Bridge on Sunday, here's the latest Blues Bulletin bringing you all the vital statistics and information ahead of kick-off...",
       "matchId": 2210395
-    },
-    {
-      "contentType": "Club Partners",
-      "id": "_content_chelseafcennews20211126chelsea-extends-timekeeper-partn",
-      "type": "NewsCard",
-      "timestamp": "2021-11-26T11:47:00.000Z",
-      "orderDate": "2021-11-26T04:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/26/chelsea-extends-timekeeper-partnership-with-hublot",
-        "type": "NewsCard",
-        "title": "Chelsea extends timekeeper partnership with Hublot",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/chelsea-extends-timekeeper-partnership-with-hublot.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-26T11:47:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/26/chelsea-extends-timekeeper-partnership-with-hublot",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Players with Hublot watches",
-          "id": "editorial/news/2021/11/26/hublot_renewal",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea extends timekeeper partnership with Hublot",
-      "publishDate": "2021-11-26T11:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/chelsea-extends-timekeeper-partnership-with-hublot.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Hublot",
-          "namespace": "content-tag:",
-          "id": "content-tag_Partners_hublot"
-        }
-      ],
-      "date": "2021-11-26T11:47:00.000Z",
-      "description": "Chelsea Football Club is delighted to announce the renewal of our partnership with Hublot in a multi-year deal that sees the Swiss watch brand continue as the club’s Official Timekeeper."
     }
   ]
 }
