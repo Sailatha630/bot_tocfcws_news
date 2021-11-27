@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211127-it-needs-a-very-good-mix-to-pro",
+      "type": "NewsCard",
+      "timestamp": "2021-11-27T12:20:00.000Z",
+      "orderDate": "2021-11-27T12:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/27/-it-needs-a-very-good-mix-to-produce-numbers-like-that----tuchel",
+        "type": "NewsCard",
+        "title": "‘It needs a very good mix to produce numbers like that’ – Tuchel on Chelsea’s defensive fortitude",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/27/-it-needs-a-very-good-mix-to-produce-numbers-like-that----tuchel.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-27T12:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/27/-it-needs-a-very-good-mix-to-produce-numbers-like-that----tuchel",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva and Mendy",
+          "id": "editorial/news/2021/11/26/thiago-silva-mendy-juve",
+          "gravity": "auto",
+          "aspectRatio": 1.4660225,
+          "cropMode": "fill"
+        }
+      },
+      "content": "‘It needs a very good mix to produce numbers like that’ – Tuchel on Chelsea’s defensive fortitude",
+      "publishDate": "2021-11-27T12:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/27/-it-needs-a-very-good-mix-to-produce-numbers-like-that----tuchel.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-27T12:20:00.000Z",
+      "description": "Since Thomas Tuchel took over at Stamford Bridge, no team in Europe’s top five leagues has a better defensive record than Chelsea. The boss has been explaining why he thinks that is."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211127pre-match-briefing--chelsea-vs-m",
       "type": "NewsCard",
@@ -519,54 +567,6 @@
       ],
       "date": "2021-11-26T16:51:00.000Z",
       "description": "Those Chelsea players representing European nations competing in the 2022 World Cup play-offs now know who they will need to beat to reach the final tournament in Qatar."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211126zenit-away-ticket-update-",
-      "type": "NewsCard",
-      "timestamp": "2021-11-26T16:04:00.000Z",
-      "orderDate": "2021-11-26T11:04:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/26/zenit-away-ticket-update-",
-        "type": "NewsCard",
-        "title": "Zenit away ticket update ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/zenit-away-ticket-update-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-26T16:04:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2021/11/26/zenit-away-ticket-update-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Zenit stadium",
-          "id": "editorial/news/2021/09/13/zenit_stadium",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Zenit away ticket update ",
-      "publishDate": "2021-11-26T16:04:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/zenit-away-ticket-update-.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-11-26T16:04:00.000Z",
-      "description": "An important update for those Chelsea supporters wishing to attend our away game against Zenit St Petersburg on Wednesday 8 December…"
     }
   ]
 }
