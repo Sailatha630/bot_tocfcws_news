@@ -8,6 +8,76 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211128watch-the-highlights-of-chelsea-",
+      "type": "NewsCard",
+      "timestamp": "2021-11-28T20:32:00.000Z",
+      "orderDate": "2021-11-28T20:32:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/28/watch-the-highlights-of-chelsea-s-draw-with-man-united",
+        "type": "NewsCard",
+        "title": "Watch the highlights of Chelsea's draw with Man United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/watch-the-highlights-of-chelsea-s-draw-with-man-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-28T20:32:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/28/watch-the-highlights-of-chelsea-s-draw-with-man-united",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea 1-1 Manchester United (H) | Premier League Highlights",
+          "videoId": "HdlD2x8Q",
+          "bucket": "prod-cfc",
+          "description": "Highlights from our 1-1 draw with Manchester United at Stamford Bridge",
+          "duration": 132000,
+          "date": "2021-11-28T19:25:10.101Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/HdlD2x8Q/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/watch-the-highlights-of-chelsea-s-draw-with-man-united.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/11/28/watch-the-highlights-of-chelsea-s-draw-with-man-united?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/11/28/watch-the-highlights-of-chelsea-s-draw-with-man-united",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from our 1-1 draw with Manchester United at Stamford Bridge"
+      },
+      "content": "Watch the highlights of Chelsea's draw with Man United",
+      "publishDate": "2021-11-28T20:32:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/watch-the-highlights-of-chelsea-s-draw-with-man-united.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-28T20:32:00.000Z",
+      "description": "The Blues had to settle for a point in the final Premier League action of the weekend after a game that could have gone either way at the end, and you can watch the highlights in the video above.",
+      "matchId": 2210395
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20211128tuchel-on-why-we-deserved-all-th",
       "type": "NewsCard",
@@ -487,49 +557,6 @@
       ],
       "date": "2021-11-27T16:39:00.000Z",
       "description": "Hakim Ziyech has become the 10th African international to appear in 50 or more games for the Blues but how many of the others can you name?"
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20211126chelsea-continues-support-for-ra",
-      "type": "NewsCard",
-      "timestamp": "2021-11-26T13:12:00.000Z",
-      "orderDate": "2021-11-27T11:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/26/chelsea-continues-support-for-rainbow-laces",
-        "type": "NewsCard",
-        "title": "Chelsea continues support for Rainbow Laces",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/chelsea-continues-support-for-rainbow-laces.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-26T13:12:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/26/chelsea-continues-support-for-rainbow-laces",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Rainbow_Laces_SB",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea continues support for Rainbow Laces",
-      "publishDate": "2021-11-26T13:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/chelsea-continues-support-for-rainbow-laces.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2021-11-26T13:12:00.000Z",
-      "description": "Chelsea Football Club continues to support Stonewall’s annual Rainbow Laces campaign with activity planned at both Sunday’s match against Manchester United at Stamford Bridge and Wednesday’s encounter with Watford at Vicarage Road Stadium."
     }
   ]
 }
