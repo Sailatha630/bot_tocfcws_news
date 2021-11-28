@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211128chelsea-line-up-vs-manchester-un",
+      "type": "NewsCard",
+      "timestamp": "2021-11-28T14:39:00.000Z",
+      "orderDate": "2021-11-28T15:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/28/chelsea-line-up-vs-manchester-united",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Manchester United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/chelsea-line-up-vs-manchester-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-28T14:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/28/chelsea-line-up-vs-manchester-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Stamford Bridge",
+          "id": "editorial/match-reports/2021-22/man-utd-home/Jorginho-shirt-dressing-room-Man-United-h",
+          "gravity": "auto",
+          "aspectRatio": 1.4308286,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Manchester United",
+      "publishDate": "2021-11-28T14:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/chelsea-line-up-vs-manchester-united.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        }
+      ],
+      "date": "2021-11-28T14:39:00.000Z",
+      "description": "Thomas Tuchel has made three changes to his team as we host Manchester United in the Premier League today, including the return to the starting line-up of Timo Werner.",
+      "matchId": 2210395
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211128thiago-silva-on-playing-with-cha",
       "type": "NewsCard",
@@ -484,49 +543,6 @@
       "date": "2021-11-26T22:30:00.000Z",
       "description": "Thomas Tuchel has confirmed Kai Havertz is fit to play against Manchester United while also praising the ‘top professional’ that is Romelu Lukaku as he nears a full return to the Chelsea side.",
       "matchId": 2210395
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211127matchday-travel-news--a40-westwa",
-      "type": "NewsCard",
-      "timestamp": "2021-11-27T11:48:00.000Z",
-      "orderDate": "2021-11-26T21:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/27/matchday-travel-news--a40-westway-closure",
-        "type": "NewsCard",
-        "title": "Matchday travel news: A40 Westway closure",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/27/matchday-travel-news--a40-westway-closure.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-27T11:48:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/27/matchday-travel-news--a40-westway-closure",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Travel news",
-          "id": "editorial/news/2018/5/matchday-travel-graphic",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Matchday travel news: A40 Westway closure",
-      "publishDate": "2021-11-27T11:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/27/matchday-travel-news--a40-westway-closure.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Travel News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_travel-news"
-        }
-      ],
-      "date": "2021-11-27T11:48:00.000Z",
-      "description": "Supporters travelling to Sunday’s game at Stamford Bridge are advised there are closures on the A40 Westway this weekend which may affect car journeys through the northern part of the Royal Borough of Kensington and Chelsea."
     }
   ]
 }
