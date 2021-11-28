@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211128match-report--chelsea-manchester",
+      "type": "NewsCard",
+      "timestamp": "2021-11-28T16:25:00.000Z",
+      "orderDate": "2021-11-28T16:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/28/match-report--chelsea-manchester-united",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 1 Manchester United 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/match-report--chelsea-manchester-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-28T16:25:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/28/match-report--chelsea-manchester-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ziyech",
+          "id": "editorial/match-reports/2021-22/man-utd-home/Rudiger-shot-Man-United-h",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 1 Manchester United 1",
+      "publishDate": "2021-11-28T16:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/match-report--chelsea-manchester-united.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-28T16:25:00.000Z",
+      "description": "Chelsea had to settle for a point against Manchester United in a match we had chances to win, but were required to fight back from a goal down in the second half.",
+      "matchId": 2210395
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211128chelsea-line-up-vs-manchester-un",
       "type": "NewsCard",
@@ -484,65 +538,6 @@
       "date": "2021-11-27T12:30:00.000Z",
       "description": "Our young Blues secured their place as group winners. Luke Badley-Morgan, Charlie Webster, with a penalty, and Malik Mothersille were all on the scoresheet on a windy day in the Midlands.",
       "matchId": 2245347
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211126tuchel-issues-havertz-update-and",
-      "type": "NewsCard",
-      "timestamp": "2021-11-26T22:30:00.000Z",
-      "orderDate": "2021-11-26T22:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/26/tuchel-issues-havertz-update-and-talks-lukaku-s-influence",
-        "type": "NewsCard",
-        "title": "Tuchel issues Havertz update and talks Lukaku's huge influence",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/tuchel-issues-havertz-update-and-talks-lukaku-s-influence.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-26T22:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/26/tuchel-issues-havertz-update-and-talks-lukaku-s-influence",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/10/01/Havertz_Lukaku_Tuchel_DAZ_8169",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel issues Havertz update and talks Lukaku's huge influence",
-      "publishDate": "2021-11-26T22:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/tuchel-issues-havertz-update-and-talks-lukaku-s-influence.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2021-11-26T22:30:00.000Z",
-      "description": "Thomas Tuchel has confirmed Kai Havertz is fit to play against Manchester United while also praising the ‘top professional’ that is Romelu Lukaku as he nears a full return to the Chelsea side.",
-      "matchId": 2210395
     }
   ]
 }
