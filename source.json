@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211128tuchel--how-we-turned-form-aroun",
+      "type": "NewsCard",
+      "timestamp": "2021-11-28T04:30:00.000Z",
+      "orderDate": "2021-11-28T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/28/tuchel--how-we-turned-form-around",
+        "type": "NewsCard",
+        "title": "Tuchel: How we turned form around",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/tuchel--how-we-turned-form-around.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-28T04:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/11/28/tuchel--how-we-turned-form-around",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel on the touchline",
+          "id": "editorial/match-reports/2021-22/juventus-away/Tuchel-Juventus-away-1",
+          "gravity": "auto",
+          "aspectRatio": 1.4407421,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: How we turned form around",
+      "publishDate": "2021-11-28T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/tuchel--how-we-turned-form-around.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-11-28T04:30:00.000Z",
+      "description": "Two months ago Chelsea lost back-to-back games. They were by no means easy fixtures – home against Manchester City and away to Juventus – and they were both by a 1-0 margin but even so, following those results, the talking started.",
+      "matchId": 2210395
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20211127-it-needs-a-very-good-mix-to-pro",
       "type": "NewsCard",
@@ -500,60 +549,6 @@
       "date": "2021-11-26T15:08:00.000Z",
       "description": "Thomas Tuchel is delighted at the way his Chelsea side are performing after his 50th match in charge but knows we need to keep pushing if we are to continue that good form when we host Manchester United at Stamford Bridge in our next game.",
       "matchId": 2210395
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211126pl2-report--chelsea-brighton---h",
-      "type": "NewsCard",
-      "timestamp": "2021-11-26T21:00:00.000Z",
-      "orderDate": "2021-11-26T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/26/pl2-report--chelsea-brighton---hove-albion",
-        "type": "NewsCard",
-        "title": "PL2 report and video highlights: Chelsea 1 Brighton & Hove Albion 1 ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/pl2-report--chelsea-brighton---hove-albion.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-26T21:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/26/pl2-report--chelsea-brighton---hove-albion",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Harvey Vale with a fine finish for the goal against Brighton",
-          "id": "editorial/match-reports/2021-22/brighton-and-hove-albion-home-u23s/CFCDEV-Another-angle-of-Vale-finish-vs-Brighton",
-          "gravity": "auto",
-          "aspectRatio": 1.5005181,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report and video highlights: Chelsea 1 Brighton & Hove Albion 1 ",
-      "publishDate": "2021-11-26T21:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/26/pl2-report--chelsea-brighton---hove-albion.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-11-26T21:00:00.000Z",
-      "description": "Harvey Vale grabbed his fifth goal of the PL2 season as our development squad came from behind to draw at Kingsmeadow on Friday evening."
     }
   ]
 }
