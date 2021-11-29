@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20211129play-predictor-is-bigger-than-ev",
+      "type": "NewsCard",
+      "timestamp": "2021-11-29T12:00:00.000Z",
+      "orderDate": "2021-11-29T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/11/29/play-predictor-is-bigger-than-ever-with-the-12-games-of-christma",
+        "type": "NewsCard",
+        "title": "Play Predictor is bigger than ever with the 12 Games of Christmas!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/29/play-predictor-is-bigger-than-ever-with-the-12-games-of-christma.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-11-29T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/11/29/play-predictor-is-bigger-than-ever-with-the-12-games-of-christma",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Play Predictor",
+          "id": "editorial/news/2021/11/26/Play_Predictor_Xmas_2560x1440_BODY",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Play Predictor is bigger than ever with the 12 Games of Christmas!",
+      "publishDate": "2021-11-29T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/29/play-predictor-is-bigger-than-ever-with-the-12-games-of-christma.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2021-11-29T12:00:00.000Z",
+      "description": "Christmas has come early this year, with Play Predictor bringing the festive cheer thanks to a new way to win and all-new prizes - including personalised signed shirts, boots and brand-new consoles!"
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211129disappointed-hudson-odoi-on-miss",
       "type": "NewsCard",
@@ -498,65 +541,6 @@
       ],
       "date": "2021-11-28T13:00:00.000Z",
       "description": "Although no Chelsea player has ever had their hands on the Ballon d’Or at the time they were playing for the club, we have had three former winners on our books. You can read all about them and their achievements ahead of the ceremony for this year’s award on Monday night."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211128chelsea-line-up-vs-manchester-un",
-      "type": "NewsCard",
-      "timestamp": "2021-11-28T14:39:00.000Z",
-      "orderDate": "2021-11-28T15:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/28/chelsea-line-up-vs-manchester-united",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Manchester United",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/chelsea-line-up-vs-manchester-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-28T14:39:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/28/chelsea-line-up-vs-manchester-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Stamford Bridge",
-          "id": "editorial/match-reports/2021-22/man-utd-home/Jorginho-shirt-dressing-room-Man-United-h",
-          "gravity": "auto",
-          "aspectRatio": 1.4308286,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Manchester United",
-      "publishDate": "2021-11-28T14:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/28/chelsea-line-up-vs-manchester-united.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        }
-      ],
-      "date": "2021-11-28T14:39:00.000Z",
-      "description": "Thomas Tuchel has made three changes to his team as we host Manchester United in the Premier League today, including the return to the starting line-up of Timo Werner.",
-      "matchId": 2210395
     }
   ]
 }
