@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211201blues-bulletin--watford-vs-chels",
+      "type": "NewsCard",
+      "timestamp": "2021-12-01T12:50:00.000Z",
+      "orderDate": "2021-12-01T12:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/01/blues-bulletin--watford-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Watford vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/blues-bulletin--watford-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-01T12:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/01/blues-bulletin--watford-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mount at Watford",
+          "id": "editorial/news/2021/11/30/mount_watford_2019",
+          "gravity": "north_west",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Watford vs Chelsea",
+      "publishDate": "2021-12-01T12:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/blues-bulletin--watford-vs-chelsea.html",
+      "readTimeInMins": 26,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-01T12:50:00.000Z",
+      "description": "The Blues begin a new month with an away trip against one of last season's promoted sides, and we have the key stats and information you need ahead of the game...",
+      "matchId": 2210405
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20211201chelsea-advent-calendar-quiz---d",
       "type": "NewsCard",
@@ -533,55 +582,6 @@
       "date": "2021-11-30T13:50:00.000Z",
       "description": "Thomas Tuchel has confirmed that Ben Chilwell, Mateo Kovacic and N’Golo Kante will all miss tomorrow’s trip to Watford, while late calls will be made on a further trio of players ahead of kick-off.",
       "matchId": 2210405
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211130efl-trophy-report--forest-green-",
-      "type": "NewsCard",
-      "timestamp": "2021-11-30T17:28:00.000Z",
-      "orderDate": "2021-11-30T12:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/30/efl-trophy-report--forest-green-rovers-vs-chelsea",
-        "type": "NewsCard",
-        "title": "EFL Trophy report and highlights: Forest Green Rovers 1 Chelsea 1 (1-4 on pens)",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/30/efl-trophy-report--forest-green-rovers-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-30T17:28:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/11/30/efl-trophy-report--forest-green-rovers-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/11/30/EFL_trophy_forest_green_1",
-          "gravity": "auto",
-          "aspectRatio": 1.4858841,
-          "cropMode": "fill"
-        }
-      },
-      "content": "EFL Trophy report and highlights: Forest Green Rovers 1 Chelsea 1 (1-4 on pens)",
-      "publishDate": "2021-11-30T17:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/30/efl-trophy-report--forest-green-rovers-vs-chelsea.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-11-30T17:28:00.000Z",
-      "description": "Our young Blues are through to the next round of the Papa John's Trophy after beating League Two opposition thanks to a penalty shoot-out.",
-      "matchId": 2258854
     }
   ]
 }
