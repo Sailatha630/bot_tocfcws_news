@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211201match-report--watford-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-12-01T22:16:00.000Z",
+      "orderDate": "2021-12-01T22:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/01/match-report--watford-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Watford 1 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/match-report--watford-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-01T22:16:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/01/match-report--watford-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Hakim Ziyech",
+          "id": "editorial/match-reports/2021-22/watford-away/watford_away_ziyech_celebration",
+          "gravity": "north",
+          "aspectRatio": 1.4465007,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Watford 1 Chelsea 2",
+      "publishDate": "2021-12-01T22:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/match-report--watford-vs-chelsea.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-01T22:16:00.000Z",
+      "description": "Hakim Ziyech chose a good time to score his first Premier League goal of the season, netting a late winner to continue Chelsea’s superb recent away form.",
+      "matchId": 2210405
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211201chelsea-line-up-vs-watford",
       "type": "NewsCard",
@@ -466,59 +515,6 @@
       ],
       "date": "2021-12-01T13:30:00.000Z",
       "description": "We have had some tickets returned for our upcoming home fixtures against Leeds, Everton and Brighton which will be going back on sale to members on Thursday..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211201proud-hornets-x-chelsea-pride---",
-      "type": "NewsCard",
-      "timestamp": "2021-12-01T13:01:00.000Z",
-      "orderDate": "2021-12-01T01:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/01/proud-hornets-x-chelsea-pride---rainbow-laces-matchday",
-        "type": "NewsCard",
-        "title": "Chelsea Pride x Proud Hornets - Rainbow Laces Matchday",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/proud-hornets-x-chelsea-pride---rainbow-laces-matchday.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-01T13:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/01/proud-hornets-x-chelsea-pride---rainbow-laces-matchday",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea Pride x Proud Hornets | Rainbow Laces Matchday",
-          "videoId": "dZFgqx3s",
-          "bucket": "prod-cfc",
-          "description": "Ahead of Rainbow Laces Matchday 2021, when the Blues travel to Watford in the Premier League, Tracy Brown of Chelsea Pride and Proud Hornets sit down to discuss the campaign.\r\n\r\n ",
-          "duration": 527000,
-          "date": "2021-12-01T12:41:31.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/dZFgqx3s/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/proud-hornets-x-chelsea-pride---rainbow-laces-matchday.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/12/01/proud-hornets-x-chelsea-pride---rainbow-laces-matchday?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/12/01/proud-hornets-x-chelsea-pride---rainbow-laces-matchday",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Ahead of Rainbow Laces Matchday 2021, when the Blues travel to Watford in the Premier League, Tracy Brown of Chelsea Pride and Proud Hornets sit down to discuss the campaign.\r\n\r\n "
-      },
-      "content": "Chelsea Pride x Proud Hornets - Rainbow Laces Matchday",
-      "publishDate": "2021-12-01T13:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/proud-hornets-x-chelsea-pride---rainbow-laces-matchday.html",
-      "readTimeInMins": 4,
-      "tags": [],
-      "date": "2021-12-01T13:01:00.000Z",
-      "description": "Ahead of Rainbow Laces Matchday 2021, when Watford host Chelsea in the Premier League, Tracy Brown from Chelsea Pride and a representatives of Proud Hornets sat down to discuss the campaign."
     }
   ]
 }
