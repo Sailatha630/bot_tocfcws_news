@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211201pre-match-briefing--watford-vs-c",
+      "type": "NewsCard",
+      "timestamp": "2021-12-01T07:47:00.000Z",
+      "orderDate": "2021-12-01T07:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/01/pre-match-briefing--watford-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Watford vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/pre-match-briefing--watford-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-01T07:47:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/12/01/pre-match-briefing--watford-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Vicarage Road",
+          "id": "editorial/news/2021/11/30/vicarage_road_view",
+          "gravity": "auto",
+          "aspectRatio": 1.5219446,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Watford vs Chelsea",
+      "publishDate": "2021-12-01T07:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/pre-match-briefing--watford-vs-chelsea.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-01T07:47:00.000Z",
+      "description": "A run of away games begins tonight against a side with a familiar face at the helm. Club historian Rick Glanvill and club statistician Paul Dutton prepare to fend off the Hornets…",
+      "matchId": 2210405
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211130tuchel-updates-us-on-andreas-chr",
       "type": "NewsCard",
@@ -517,54 +566,6 @@
       "date": "2021-11-30T10:00:00.000Z",
       "description": "Andy Myers and his Under-21 side face a tricky away trip to the League Two runaway leaders Forest Green Rovers in the Papa John's Trophy tonight.",
       "matchId": 2258854
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20211129jorginho--team-work-wins-you-awa",
-      "type": "NewsCard",
-      "timestamp": "2021-11-29T23:42:00.000Z",
-      "orderDate": "2021-11-29T23:42:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/29/jorginho--team-work-wins-you-awards",
-        "type": "NewsCard",
-        "title": "Jorginho: Team work wins you awards",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/29/jorginho--team-work-wins-you-awards.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-29T23:42:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/11/29/jorginho--team-work-wins-you-awards",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jorginho speaking",
-          "id": "editorial/news/2021/11/29/jorginho_ballon_dor",
-          "gravity": "west",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho: Team work wins you awards",
-      "publishDate": "2021-11-29T23:42:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/29/jorginho--team-work-wins-you-awards.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-11-29T23:42:00.000Z",
-      "description": "Having become just the second Chelsea player in the entire history of the Ballon d’Or to be named in the top-three places, Jorginho was very keen to emphasis the team ethic behind his success."
     }
   ]
 }
