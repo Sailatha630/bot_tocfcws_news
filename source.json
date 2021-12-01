@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211201tuchel-reaction-to-beating-watfo",
+      "type": "NewsCard",
+      "timestamp": "2021-12-01T22:52:00.000Z",
+      "orderDate": "2021-12-01T22:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/01/tuchel-reaction-to-beating-watford",
+        "type": "NewsCard",
+        "title": "Tuchel on a lucky win and Saul's withdrawal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/tuchel-reaction-to-beating-watford.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-01T22:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/01/tuchel-reaction-to-beating-watford",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel on the touchline",
+          "id": "editorial/match-reports/2021-22/watford-away/tuchel_watford_away",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on a lucky win and Saul's withdrawal",
+      "publishDate": "2021-12-01T22:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/tuchel-reaction-to-beating-watford.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-01T22:52:00.000Z",
+      "description": "Thomas Tuchel admitted his team ‘stole three points’ at Vicarage Road tonight in a performance he ranked as among the worst of his Chelsea reign so far.",
+      "matchId": 2210405
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20211201match-report--watford-vs-chelsea",
       "type": "NewsCard",
@@ -467,54 +521,6 @@
       },
       "date": "2021-12-01T11:02:00.000Z",
       "description": "Our Chelsea supporter columnist and season ticket holder Giles Smith continues to review each month of the season from a fan’s point of view, with the one just finished bringing an ‘extraordinary demonstration of energised coherence’ but also a chance that causes sleepless nights…"
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211201returned-leeds--everton-and-brig",
-      "type": "NewsCard",
-      "timestamp": "2021-12-01T13:30:00.000Z",
-      "orderDate": "2021-12-01T01:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/01/returned-leeds--everton-and-brighton-tickets-to-go-back-on-sale",
-        "type": "NewsCard",
-        "title": "Returned Leeds, Everton and Brighton tickets to go back on sale",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/returned-leeds--everton-and-brighton-tickets-to-go-back-on-sale.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-01T13:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/01/returned-leeds--everton-and-brighton-tickets-to-go-back-on-sale",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge",
-          "id": "editorial/news/2021/09/13/fans_outside_night_game",
-          "gravity": "auto",
-          "aspectRatio": 1.5099558,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Returned Leeds, Everton and Brighton tickets to go back on sale",
-      "publishDate": "2021-12-01T13:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/returned-leeds--everton-and-brighton-tickets-to-go-back-on-sale.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-12-01T13:30:00.000Z",
-      "description": "We have had some tickets returned for our upcoming home fixtures against Leeds, Everton and Brighton which will be going back on sale to members on Thursday..."
     }
   ]
 }
