@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211201chelsea-line-up-vs-watford",
+      "type": "NewsCard",
+      "timestamp": "2021-12-01T18:30:00.000Z",
+      "orderDate": "2021-12-01T18:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/01/chelsea-line-up-vs-watford",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Watford",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/chelsea-line-up-vs-watford.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-01T18:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/01/chelsea-line-up-vs-watford",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Saul Niguez",
+          "id": "chelsea-app/Saul-GettyImages-1355196183",
+          "gravity": "auto",
+          "aspectRatio": 1.5001405,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Watford",
+      "publishDate": "2021-12-01T18:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/chelsea-line-up-vs-watford.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-01T18:30:00.000Z",
+      "description": "There are six changes to the Chelsea team for tonight’s game at Watford.",
+      "matchId": 2210405
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211201pulisic-on-battling-impatience-a",
       "type": "NewsCard",
@@ -481,55 +530,6 @@
       ],
       "date": "2021-12-01T09:41:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a radio interview with Man United star, a new transfer link, and an interview with a TV pundit who makes Blues prediction.."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211130tuchel-updates-us-on-andreas-chr",
-      "type": "NewsCard",
-      "timestamp": "2021-11-30T22:30:00.000Z",
-      "orderDate": "2021-11-30T22:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/11/30/tuchel-updates-us-on-andreas-christensen-s-future-",
-        "type": "NewsCard",
-        "title": "Tuchel updates on Andreas Christensen's future ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/30/tuchel-updates-us-on-andreas-christensen-s-future-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-11-30T22:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/11/30/tuchel-updates-us-on-andreas-christensen-s-future-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Christensen-GettyImages-1351901480",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel updates on Andreas Christensen's future ",
-      "publishDate": "2021-11-30T22:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/11/30/tuchel-updates-us-on-andreas-christensen-s-future-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-11-30T22:30:00.000Z",
-      "description": "Head coach Thomas Tuchel has said he is still waiting for good news regarding the future of Andreas Christensen, who is out of contract in the summer.",
-      "matchId": 2210405
     }
   ]
 }
