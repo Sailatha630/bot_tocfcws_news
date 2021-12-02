@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211202ziyech--happy-to-score-a-decisiv",
+      "type": "NewsCard",
+      "timestamp": "2021-12-02T04:00:00.000Z",
+      "orderDate": "2021-12-02T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/02/ziyech--happy-to-score-a-decisive-goal",
+        "type": "NewsCard",
+        "title": "Ziyech: Happy to score a decisive goal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/02/ziyech--happy-to-score-a-decisive-goal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-02T04:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/02/ziyech--happy-to-score-a-decisive-goal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ziyech",
+          "id": "editorial/match-reports/2021-22/watford-away/Ziyech-stock-Watford-away",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech: Happy to score a decisive goal",
+      "publishDate": "2021-12-02T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/02/ziyech--happy-to-score-a-decisive-goal.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-02T04:00:00.000Z",
+      "description": "Hakim Ziyech picked an opportune moment to score his first Premier League goal of the season and reflected afterwards on his pleasure at being able to have such a big influence at a crucial time.",
+      "matchId": 2210405
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211201tuchel-reaction-to-beating-watfo",
       "type": "NewsCard",
@@ -474,55 +528,6 @@
       ],
       "date": "2021-12-01T08:53:00.000Z",
       "description": "Although frustration was the overriding emotion during the closing stages of Sunday’s draw with Manchester United as we strived to find a winning goal, the sight of Romelu Lukaku back in blue after injury provided a welcome boost.",
-      "matchId": 2210405
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211201pre-match-briefing--watford-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2021-12-01T07:47:00.000Z",
-      "orderDate": "2021-12-01T07:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/01/pre-match-briefing--watford-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Watford vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/pre-match-briefing--watford-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-01T07:47:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/12/01/pre-match-briefing--watford-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Vicarage Road",
-          "id": "editorial/news/2021/11/30/vicarage_road_view",
-          "gravity": "auto",
-          "aspectRatio": 1.5219446,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Watford vs Chelsea",
-      "publishDate": "2021-12-01T07:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/pre-match-briefing--watford-vs-chelsea.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-01T07:47:00.000Z",
-      "description": "A run of away games begins tonight against a side with a familiar face at the helm. Club historian Rick Glanvill and club statistician Paul Dutton prepare to fend off the Hornets…",
       "matchId": 2210405
     }
   ]
