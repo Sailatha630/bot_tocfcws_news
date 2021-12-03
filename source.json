@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211203blues-bulletin--west-ham-united-",
+      "type": "NewsCard",
+      "timestamp": "2021-12-03T00:07:00.000Z",
+      "orderDate": "2021-12-03T00:07:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/03/blues-bulletin--west-ham-united-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: West Ham United vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/blues-bulletin--west-ham-united-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-03T00:07:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/03/blues-bulletin--west-ham-united-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/news/2021/12/02/Werner_West_Ham_GettyImages-1314235805",
+          "gravity": "auto",
+          "aspectRatio": 1.5255653,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: West Ham United vs Chelsea",
+      "publishDate": "2021-12-03T00:07:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/blues-bulletin--west-ham-united-vs-chelsea.html",
+      "readTimeInMins": 25,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2021-12-03T00:07:00.000Z",
+      "description": "The Blues play our fifth London derby of the season on Saturday, and here are all the vital facts and statistics you need ahead of Saturday's game.",
+      "matchId": 2210419
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20211202petr-cech-column--we-are-worthy-",
       "type": "NewsCard",
@@ -477,55 +531,6 @@
       ],
       "date": "2021-12-01T22:52:00.000Z",
       "description": "Thomas Tuchel admitted his team ‘stole three points’ at Vicarage Road tonight in a performance he ranked as among the worst of his Chelsea reign so far.",
-      "matchId": 2210405
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211201match-report--watford-vs-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-12-01T22:16:00.000Z",
-      "orderDate": "2021-12-01T22:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/01/match-report--watford-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match Report: Watford 1 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/match-report--watford-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-01T22:16:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/01/match-report--watford-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Hakim Ziyech",
-          "id": "editorial/match-reports/2021-22/watford-away/watford_away_ziyech_celebration",
-          "gravity": "north",
-          "aspectRatio": 1.4465007,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Watford 1 Chelsea 2",
-      "publishDate": "2021-12-01T22:16:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/match-report--watford-vs-chelsea.html",
-      "readTimeInMins": 22,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-01T22:16:00.000Z",
-      "description": "Hakim Ziyech chose a good time to score his first Premier League goal of the season, netting a late winner to continue Chelsea’s superb recent away form.",
       "matchId": 2210405
     }
   ]
