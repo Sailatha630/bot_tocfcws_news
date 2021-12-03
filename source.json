@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211203kante-strike-nominated-for-goal-",
+      "type": "NewsCard",
+      "timestamp": "2021-12-03T13:00:00.000Z",
+      "orderDate": "2021-12-03T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/03/kante-strike-nominated-for-goal-of-the-month",
+        "type": "NewsCard",
+        "title": "Kante strike nominated for Goal of the Month",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/kante-strike-nominated-for-goal-of-the-month.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-03T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/03/kante-strike-nominated-for-goal-of-the-month",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kante",
+          "id": "editorial/news/2021/12/02/Kante_Leicester_celeb_GettyImages-1236678882",
+          "gravity": "north_west",
+          "aspectRatio": 1.3937283,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kante strike nominated for Goal of the Month",
+      "publishDate": "2021-12-03T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/kante-strike-nominated-for-goal-of-the-month.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Awards",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_awards"
+        }
+      ],
+      "date": "2021-12-03T13:00:00.000Z",
+      "description": "N’Golo Kante has been named on the eight-man shortlist in the running to win the Premier League Goal of the Month award for November.",
+      "matchId": 2210383
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211203pre-match-briefing--west-ham-uni",
       "type": "NewsCard",
@@ -452,60 +511,6 @@
       "date": "2021-12-02T13:10:00.000Z",
       "description": "The details for purchasing tickets for our UEFA Champions League match away against Zenit St Petersburg are as follows…",
       "matchId": 2244666
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20211202mount--three-points-the-most-imp",
-      "type": "NewsCard",
-      "timestamp": "2021-12-02T12:12:00.000Z",
-      "orderDate": "2021-12-02T12:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/02/mount--three-points-the-most-important-thing",
-        "type": "NewsCard",
-        "title": "Mount: Three points the most important thing",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/02/mount--three-points-the-most-important-thing.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-02T12:12:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/02/mount--three-points-the-most-important-thing",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mount",
-          "id": "editorial/news/2021/12/02/Mount_GettyImages-1356642757",
-          "gravity": "auto",
-          "aspectRatio": 1.295273,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount: Three points the most important thing",
-      "publishDate": "2021-12-02T12:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/02/mount--three-points-the-most-important-thing.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2021-12-02T12:12:00.000Z",
-      "description": "Mason Mount was not happy with how we performed at Watford and knows we need to get back to our best quickly, but felt it was important to secure the win despite not matching our usual standards.",
-      "matchId": 2210405
     }
   ]
 }
