@@ -366,6 +366,61 @@
       "matchId": 2210383
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211203pl2-report--derby-county-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-12-03T21:00:00.000Z",
+      "orderDate": "2021-12-03T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/03/pl2-report--derby-county-chelsea-",
+        "type": "NewsCard",
+        "title": "PL2 report and video highlights: Derby County 3 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/pl2-report--derby-county-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-03T21:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/03/pl2-report--derby-county-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jude battling for the ball against Derby",
+          "id": "editorial/match-reports/2021-22/derby-county-away-u23s/CFCDEV-Jude-Battling-vs-Derby-Away",
+          "gravity": "auto",
+          "aspectRatio": 1.4990427,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 report and video highlights: Derby County 3 Chelsea 1",
+      "publishDate": "2021-12-03T21:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/pl2-report--derby-county-chelsea-.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2021-12-03T21:00:00.000Z",
+      "description": "Our development squad were beaten on Friday evening and will rue the lack of cutting edge, as three quick-fire goals were enough to see us off.",
+      "matchId": 2237269
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211203pre-match-briefing--west-ham-uni",
       "type": "NewsCard",
@@ -503,55 +558,6 @@
       "tags": [],
       "date": "2021-12-03T10:29:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a story from inside Chelsea, an ex-boss highlights classy Blues player and a TV pundit heaps positive comments on a Cobham graduate.."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211203pl2-preview--myers-looks-back-an",
-      "type": "NewsCard",
-      "timestamp": "2021-12-03T08:38:00.000Z",
-      "orderDate": "2021-12-03T00:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/03/pl2-preview--myers-looks-back-and-forward-ahead-of-live-friday-n",
-        "type": "NewsCard",
-        "title": "PL2 preview: Myers looks back and forward ahead of live Friday night action",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/pl2-preview--myers-looks-back-and-forward-ahead-of-live-friday-n.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-03T08:38:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/03/pl2-preview--myers-looks-back-and-forward-ahead-of-live-friday-n",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Andy Myers",
-          "id": "editorial/match-reports/2021-22/pl2-leicester-city-home/Myers_smiling_Leicester_away_2122",
-          "gravity": "north",
-          "aspectRatio": 1.5001885,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 preview: Myers looks back and forward ahead of live Friday night action",
-      "publishDate": "2021-12-03T08:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/pl2-preview--myers-looks-back-and-forward-ahead-of-live-friday-n.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-12-03T08:38:00.000Z",
-      "description": "Our development squad take a trip to the Midlands tonight (Friday) as they face Derby County in Premier League 2, a game you can watch live across Chelsea platforms.",
-      "matchId": 2237269
     }
   ]
 }
