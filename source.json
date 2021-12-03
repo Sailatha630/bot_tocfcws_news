@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211203pre-match-briefing--west-ham-uni",
+      "type": "NewsCard",
+      "timestamp": "2021-12-03T07:36:00.000Z",
+      "orderDate": "2021-12-03T07:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/03/pre-match-briefing--west-ham-united-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: West Ham United vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/pre-match-briefing--west-ham-united-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-03T07:36:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/12/03/pre-match-briefing--west-ham-united-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "West Ham stadium view",
+          "id": "editorial/news/2021/12/02/west_ham_stadium_view",
+          "gravity": "auto",
+          "aspectRatio": 1.7241379,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: West Ham United vs Chelsea",
+      "publishDate": "2021-12-03T07:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/pre-match-briefing--west-ham-united-vs-chelsea.html",
+      "readTimeInMins": 68,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2021-12-03T07:36:00.000Z",
+      "description": "Our trilogy of away games continues with a capital-city clash. Club historian Rick Glanvill and club statistician Paul Dutton prepare for Saturday lunchtime in the Olympic Park…",
+      "matchId": 2210419
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211203blues-bulletin--west-ham-united-",
       "type": "NewsCard",
       "timestamp": "2021-12-03T00:07:00.000Z",
@@ -478,60 +532,6 @@
       ],
       "date": "2021-12-02T09:45:00.000Z",
       "description": "As part of our Black History Month celebrations, 40 local primary school children recently took part in the final performances of ‘This Is Us’ at Stamford Bridge."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211201tuchel-reaction-to-beating-watfo",
-      "type": "NewsCard",
-      "timestamp": "2021-12-01T22:52:00.000Z",
-      "orderDate": "2021-12-01T22:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/01/tuchel-reaction-to-beating-watford",
-        "type": "NewsCard",
-        "title": "Tuchel on a lucky win, hanging in there and Saul's withdrawal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/tuchel-reaction-to-beating-watford.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-01T22:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/01/tuchel-reaction-to-beating-watford",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel on the touchline",
-          "id": "editorial/match-reports/2021-22/watford-away/tuchel_watford_away",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on a lucky win, hanging in there and Saul's withdrawal",
-      "publishDate": "2021-12-01T22:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/01/tuchel-reaction-to-beating-watford.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-01T22:52:00.000Z",
-      "description": "Thomas Tuchel admitted his team ‘stole three points’ at Vicarage Road tonight in a performance he ranked as among the worst of his Chelsea reign so far.",
-      "matchId": 2210405
     }
   ]
 }
