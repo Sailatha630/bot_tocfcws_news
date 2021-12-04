@@ -131,6 +131,43 @@
       "matchId": 2210419
     },
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20211204ken-bates-at-90---a-quiz",
+      "type": "NewsCard",
+      "timestamp": "2021-12-04T08:00:00.000Z",
+      "orderDate": "2021-12-04T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/04/ken-bates-at-90---a-quiz",
+        "type": "NewsCard",
+        "title": "Ken Bates at 90 – a quiz",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/04/ken-bates-at-90---a-quiz.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-04T08:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/04/ken-bates-at-90---a-quiz",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ken Bates",
+          "id": "editorial/news/2021/12/04/GettyImages-97580303",
+          "gravity": "auto",
+          "aspectRatio": 0.681,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ken Bates at 90 – a quiz",
+      "publishDate": "2021-12-04T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/04/ken-bates-at-90---a-quiz.html",
+      "readTimeInMins": 4,
+      "tags": [],
+      "date": "2021-12-04T08:00:00.000Z",
+      "description": "Former Chelsea chairman Ken Bates turns 90 years old today. On his birthday, we have a quiz about him and the club during his time in charge."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211203tuchel-explains-kurt-zouma-depar",
       "type": "NewsCard",
@@ -531,61 +568,6 @@
       "date": "2021-12-03T13:00:00.000Z",
       "description": "N’Golo Kante has been named on the eight-man shortlist in the running to win the Premier League Goal of the Month award for November.",
       "matchId": 2210383
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211203pl2-report--derby-county-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2021-12-03T21:00:00.000Z",
-      "orderDate": "2021-12-03T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/03/pl2-report--derby-county-chelsea-",
-        "type": "NewsCard",
-        "title": "PL2 report and video highlights: Derby County 3 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/pl2-report--derby-county-chelsea-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-03T21:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/03/pl2-report--derby-county-chelsea-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jude battling for the ball against Derby",
-          "id": "editorial/match-reports/2021-22/derby-county-away-u23s/CFCDEV-Jude-Battling-vs-Derby-Away",
-          "gravity": "auto",
-          "aspectRatio": 1.4990427,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report and video highlights: Derby County 3 Chelsea 1",
-      "publishDate": "2021-12-03T21:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/pl2-report--derby-county-chelsea-.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2021-12-03T21:00:00.000Z",
-      "description": "Our development squad were beaten on Friday evening and will rue the lack of cutting edge, as three quick-fire goals were enough to see us off.",
-      "matchId": 2237269
     }
   ]
 }
