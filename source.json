@@ -8,6 +8,61 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211204chelsea-line-up-vs-west-ham",
+      "type": "NewsCard",
+      "timestamp": "2021-12-04T11:30:00.000Z",
+      "orderDate": "2021-12-04T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/04/chelsea-line-up-vs-west-ham",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs West Ham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/04/chelsea-line-up-vs-west-ham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-04T11:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/04/chelsea-line-up-vs-west-ham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "chelsea-app/James-GettyImages-1355171329",
+          "gravity": "auto",
+          "aspectRatio": 1.4833413,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Chelsea line up vs West Ham",
+      "publishDate": "2021-12-04T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/04/chelsea-line-up-vs-west-ham.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2021-12-04T11:30:00.000Z",
+      "description": "Reece James and Jorginho return to the side as Thomas Tuchel makes four changes from the Watford win.",
+      "matchId": 2210419
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211204-it-s-very-hard-to-drop-him----t",
       "type": "NewsCard",
@@ -495,74 +550,6 @@
       "date": "2021-12-03T14:57:00.000Z",
       "description": "There were contrasting fortunes for Saul and Hakim Ziyech on Wednesday at Watford and ahead of the next match tomorrow against West Ham, Thomas Tuchel has been discussing the pair and whether either could feature at the London Stadium.",
       "matchId": 2210419
-    },
-    {
-      "contentType": "Events",
-      "id": "_content_chelseafcennews20211203blues-legends-past-and-present-r",
-      "type": "NewsCard",
-      "timestamp": "2021-12-03T18:19:00.000Z",
-      "orderDate": "2021-12-03T13:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/03/blues-legends-past-and-present-recall-champions-league-triumphs-",
-        "type": "NewsCard",
-        "title": "Blues legends past and present recall Champions League triumphs at Annual Lunch",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/blues-legends-past-and-present-recall-champions-league-triumphs-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-03T18:19:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/03/blues-legends-past-and-present-recall-champions-league-triumphs-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Annual Lunch",
-          "id": "editorial/news/2021/12/03/Tuchel_Azpilicueta_Annual_Lunch_2021_CL1_7934_2021120343520742",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues legends past and present recall Champions League triumphs at Annual Lunch",
-      "publishDate": "2021-12-03T18:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/03/blues-legends-past-and-present-recall-champions-league-triumphs-.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Paulo Ferreira",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_paulo-ferreira"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-12-03T18:19:00.000Z",
-      "description": "Thomas Tuchel, Cesar Azpilicueta, Petr Cech and Paulo Ferreira were among the special guests at this year’s Annual Lunch to share their memories of our two Champions League victories."
     }
   ]
 }
