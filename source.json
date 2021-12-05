@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211205thiago-silva--it-s-difficult-to-",
+      "type": "NewsCard",
+      "timestamp": "2021-12-05T04:00:00.000Z",
+      "orderDate": "2021-12-05T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/05/thiago-silva--it-s-difficult-to-take-but-we-must-keep-our-heads-",
+        "type": "NewsCard",
+        "title": "Thiago Silva: It’s difficult to take but we must keep our heads up",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/05/thiago-silva--it-s-difficult-to-take-but-we-must-keep-our-heads-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-05T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/05/thiago-silva--it-s-difficult-to-take-but-we-must-keep-our-heads-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva",
+          "id": "editorial/match-reports/2021-22/west-ham-away/thiago-silva-west-ham-fans-clapping",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thiago Silva: It’s difficult to take but we must keep our heads up",
+      "publishDate": "2021-12-05T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/05/thiago-silva--it-s-difficult-to-take-but-we-must-keep-our-heads-.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-05T04:00:00.000Z",
+      "description": "In his assessment of our loss to West Ham yesterday, Thiago Silva explained why he felt we were hard done by and deserved to leave the London Stadium with at least a point.",
+      "matchId": 2210419
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211204thomas-tuchel-reaction-to-defeat",
       "type": "NewsCard",
@@ -521,49 +575,6 @@
       "tags": [],
       "date": "2021-12-04T08:00:00.000Z",
       "description": "Former Chelsea chairman Ken Bates turns 90 years old today. On his birthday, we have a quiz about him and the club during his time in charge."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211204eriksson-urges-calm-to-help-repe",
-      "type": "NewsCard",
-      "timestamp": "2021-12-04T00:48:00.000Z",
-      "orderDate": "2021-12-04T00:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/04/eriksson-urges-calm-to-help-repeat-perfect-fa-cup-final",
-        "type": "NewsCard",
-        "title": "Eriksson urges calm to help repeat perfect FA Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/04/eriksson-urges-calm-to-help-repeat-perfect-fa-cup-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-04T00:48:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/04/eriksson-urges-calm-to-help-repeat-perfect-fa-cup-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Magda_eriksson_Cup_final",
-          "gravity": "auto",
-          "aspectRatio": 1.5021771,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Eriksson urges calm to help repeat perfect FA Cup final",
-      "publishDate": "2021-12-04T00:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/04/eriksson-urges-calm-to-help-repeat-perfect-fa-cup-final.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-12-04T00:48:00.000Z",
-      "description": "Chelsea Women captain Magdalena Eriksson says staying calm and treating Sunday’s Vitality FA Cup final as ‘just another game’ could be key as she looks to repeat one of her best days in football against Arsenal at Wembley."
     }
   ]
 }
