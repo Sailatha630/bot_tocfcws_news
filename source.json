@@ -112,6 +112,59 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20211205vote-now-for-your-chelsea-goal-o",
+      "type": "NewsCard",
+      "timestamp": "2021-12-05T10:00:00.000Z",
+      "orderDate": "2021-12-05T01:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/05/vote-now-for-your-chelsea-goal-of-the-month-for-november",
+        "type": "NewsCard",
+        "title": "Vote now for your Chelsea Goal of the Month for November",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/05/vote-now-for-your-chelsea-goal-of-the-month-for-november.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-05T10:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/05/vote-now-for-your-chelsea-goal-of-the-month-for-november",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/leicester-away/Kante_celeb_GettyImages-1236678882",
+          "gravity": "auto",
+          "aspectRatio": 1.3937283,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Vote now for your Chelsea Goal of the Month for November",
+      "publishDate": "2021-12-05T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/05/vote-now-for-your-chelsea-goal-of-the-month-for-november.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2021-12-05T10:00:00.000Z",
+      "description": "There were some brilliant Chelsea goals from all of our teams across November and now you have the chance to vote for your favourite..."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20211204thomas-tuchel-reaction-to-defeat",
       "type": "NewsCard",
       "timestamp": "2021-12-04T14:55:00.000Z",
@@ -533,60 +586,6 @@
       "date": "2021-12-04T04:00:00.000Z",
       "description": "After coming off the bench to score the midweek winner at Watford, Hakim Ziyech made it two goals and two assists in his past five Chelsea appearances, a run of form he believes is down to returning to full fitness both physically and psychologically.",
       "matchId": 2210419
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211204chelsea-women-v-arsenal-women--w",
-      "type": "NewsCard",
-      "timestamp": "2021-12-04T08:32:00.000Z",
-      "orderDate": "2021-12-04T03:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/04/chelsea-women-v-arsenal-women--women-s-vitality-fa-cup-preview--",
-        "type": "NewsCard",
-        "title": "Chelsea Women v Arsenal Women: Women’s Vitality FA Cup preview: Kick-off time, how to follow and much more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/04/chelsea-women-v-arsenal-women--women-s-vitality-fa-cup-preview--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-04T08:32:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/04/chelsea-women-v-arsenal-women--women-s-vitality-fa-cup-preview--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/news/2021/12/04/Womens_final_1",
-          "gravity": "auto",
-          "aspectRatio": 1.8287331,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women v Arsenal Women: Women’s Vitality FA Cup preview: Kick-off time, how to follow and much more",
-      "publishDate": "2021-12-04T08:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/04/chelsea-women-v-arsenal-women--women-s-vitality-fa-cup-preview--.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2021-12-04T08:32:00.000Z",
-      "description": "Tomorrow we face Arsenal in the FA Cup final as the domestic season resumes following the international break. All the information you need can be found in our preview here…",
-      "matchId": 2206426
     }
   ]
 }
