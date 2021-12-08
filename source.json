@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211208tuchel-explains-why-chelsea-are-",
+      "type": "NewsCard",
+      "timestamp": "2021-12-08T21:06:00.000Z",
+      "orderDate": "2021-12-08T21:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/08/tuchel-explains-why-chelsea-are-letting-leads-slip",
+        "type": "NewsCard",
+        "title": "Tuchel explains why Chelsea are letting leads slip",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/tuchel-explains-why-chelsea-are-letting-leads-slip.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-08T21:06:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/08/tuchel-explains-why-chelsea-are-letting-leads-slip",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel on the touchline",
+          "id": "editorial/match-reports/2021-22/ucl-zenit-away/zenit_away_tuchel",
+          "gravity": "auto",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel explains why Chelsea are letting leads slip",
+      "publishDate": "2021-12-08T21:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/tuchel-explains-why-chelsea-are-letting-leads-slip.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-12-08T21:06:00.000Z",
+      "description": "After a topsy-turvy game in Russia in which Chelsea took a rapid lead, went behind, secured the lead again but were eventually pegged back in stoppage time for a 3-3 draw, Thomas Tuchel said he believes his players are lulled into a false sense of security when they go a goal up.",
+      "matchId": 2244666
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20211208match-report--zenit-st-petersbur",
       "type": "NewsCard",
@@ -440,60 +494,6 @@
       ],
       "date": "2021-12-08T06:42:00.000Z",
       "description": "We are counting down to Christmas with our own take on a traditional advent calendar, as we bring you a new player-based quiz to enjoy every day, continuing today with five questions on our greatest number eight..."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211208uyl-report--zenit-st-petersburg-",
-      "type": "NewsCard",
-      "timestamp": "2021-12-08T11:10:00.000Z",
-      "orderDate": "2021-12-08T03:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/08/uyl-report--zenit-st-petersburg-vs-chelsea",
-        "type": "NewsCard",
-        "title": "UYL report: Zenit St Petersburg 1 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/uyl-report--zenit-st-petersburg-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-08T11:10:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/08/uyl-report--zenit-st-petersburg-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Celebrations",
-          "id": "editorial/match-reports/2021-22/zenit-st-petersburg-away-u19s-/Gilchrist-goal-celebrations-Zenit-U19s-away",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "UYL report: Zenit St Petersburg 1 Chelsea 1",
-      "publishDate": "2021-12-08T11:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/uyl-report--zenit-st-petersburg-vs-chelsea.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Under 19's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-19-s"
-        },
-        {
-          "title": "U19 - UEFA Youth League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_uefa-youth-league"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-12-08T11:10:00.000Z",
-      "description": "Our Under-19s booked their place in the UEFA Youth League play-off round with a gutsy draw in sub-zero Russian temperatures in our group stage finale.",
-      "matchId": 2244970
     }
   ]
 }
