@@ -160,6 +160,55 @@
       "matchId": 2244970
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20211208zenit-ticket-information",
+      "type": "NewsCard",
+      "timestamp": "2021-12-08T07:50:00.000Z",
+      "orderDate": "2021-12-08T00:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/08/zenit-ticket-information",
+        "type": "NewsCard",
+        "title": "Important Zenit ticket information",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/zenit-ticket-information.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-08T07:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/08/zenit-ticket-information",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Zenit's Stadium",
+          "id": "editorial/news/2021/11/02/st-petersburg-stadium-snow-1",
+          "gravity": "auto",
+          "aspectRatio": 1.6298891,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Important Zenit ticket information",
+      "publishDate": "2021-12-08T07:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/zenit-ticket-information.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-12-08T07:50:00.000Z",
+      "description": "Chelsea supporters who have purchased tickets from the club for the Champions League game in St Petersburg should have received an email containing important information regarding entry to the stadium.",
+      "matchId": 2244666
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211207tuchel-updates-on--superman--kan",
       "type": "NewsCard",
@@ -506,68 +555,6 @@
       "date": "2021-12-07T11:25:00.000Z",
       "description": "Kai Havertz was back in team training for our final session before the long trip to St Petersburg, though Mateo Kovacic remained an absentee as Thomas Tuchel put his players through their paces at Cobham on Tuesday morning.",
       "matchId": 2244666
-    },
-    {
-      "contentType": "Columnists",
-      "id": "_content_chelseafcennews20211207pat-nevin--is-it-right-time-for-",
-      "type": "NewsCard",
-      "timestamp": "2021-12-07T04:24:00.000Z",
-      "orderDate": "2021-12-07T04:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/07/pat-nevin--is-it-right-time-for-thomas-tuchel-to-make-team-tweak",
-        "type": "NewsCard",
-        "title": "Pat Nevin: Is it right time for Thomas Tuchel to make team tweaks?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/07/pat-nevin--is-it-right-time-for-thomas-tuchel-to-make-team-tweak.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-07T04:24:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2021/12/07/pat-nevin--is-it-right-time-for-thomas-tuchel-to-make-team-tweak",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Players training",
-          "id": "editorial/news/2021/12/06/training_group_dusk",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pat Nevin: Is it right time for Thomas Tuchel to make team tweaks?",
-      "publishDate": "2021-12-07T04:24:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/07/pat-nevin--is-it-right-time-for-thomas-tuchel-to-make-team-tweak.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        },
-        {
-          "title": "Pat Nevin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_pat-nevin"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Pat",
-        "lastName": "Nevin",
-        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pat Nevin",
-          "id": "editorial/blogs-and-columns/nevin_h_26S",
-          "gravity": "face",
-          "aspectRatio": 0.93399847,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2021-12-07T04:24:00.000Z",
-      "description": "Following the dip in performance level in the past few games, including a loss in the weekend London derby, columnist and Chelsea legend Pat Nevin discusses the possibilities ahead of playing Zenit St Petersburg, and speculates on a new role for Reece James…"
     }
   ]
 }
