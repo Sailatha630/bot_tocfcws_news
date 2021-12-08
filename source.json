@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211208chelsea-line-up-vs-zenit-st-pete",
+      "type": "NewsCard",
+      "timestamp": "2021-12-08T16:38:00.000Z",
+      "orderDate": "2021-12-08T16:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/08/chelsea-line-up-vs-zenit-st-petersburg",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Zenit St Petersburg",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/chelsea-line-up-vs-zenit-st-petersburg.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-08T16:38:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/08/chelsea-line-up-vs-zenit-st-petersburg",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Zenit stadium",
+          "id": "editorial/match-reports/2021-22/ucl-zenit-away/Dressing-room-Lukaku-shirt-Zenit-away",
+          "gravity": "auto",
+          "aspectRatio": 1.4044812,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Zenit St Petersburg",
+      "publishDate": "2021-12-08T16:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/chelsea-line-up-vs-zenit-st-petersburg.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-12-08T16:38:00.000Z",
+      "description": "Thomas Tuchel makes eight changes to his Chelsea team with fresh faces in goal, defence, midfield and attack.",
+      "matchId": 2244666
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20211208quiz--order-these-champions-leag",
       "type": "NewsCard",
@@ -439,55 +493,6 @@
       "date": "2021-12-08T04:00:00.000Z",
       "description": "Chelsea Under-19s kick off the matchday six roadshow in Russia with a lunchtime clash against their counterparts from Zenit St Petersburg, with a draw or even a narrow defeat enough to secure our finish as Group H runners-up.",
       "matchId": 2244970
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211208zenit-ticket-information",
-      "type": "NewsCard",
-      "timestamp": "2021-12-08T07:50:00.000Z",
-      "orderDate": "2021-12-08T00:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/08/zenit-ticket-information",
-        "type": "NewsCard",
-        "title": "Important Zenit ticket information",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/zenit-ticket-information.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-08T07:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/08/zenit-ticket-information",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Zenit's Stadium",
-          "id": "editorial/news/2021/11/02/st-petersburg-stadium-snow-1",
-          "gravity": "auto",
-          "aspectRatio": 1.6298891,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important Zenit ticket information",
-      "publishDate": "2021-12-08T07:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/zenit-ticket-information.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-12-08T07:50:00.000Z",
-      "description": "Chelsea supporters who have purchased tickets from the club for the Champions League game in St Petersburg should have received an email containing important information regarding entry to the stadium.",
-      "matchId": 2244666
     }
   ]
 }
