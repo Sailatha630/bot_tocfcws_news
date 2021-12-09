@@ -165,6 +165,49 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20211209blues-midfielder-jessie-fleming-",
+      "type": "NewsCard",
+      "timestamp": "2021-12-09T12:30:00.000Z",
+      "orderDate": "2021-12-09T04:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/09/blues-midfielder-jessie-fleming-has-won-the-barclays-fa-wsl-play",
+        "type": "NewsCard",
+        "title": "Fleming named best WSL player in November",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/blues-midfielder-jessie-fleming-has-won-the-barclays-fa-wsl-play.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-09T12:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/09/blues-midfielder-jessie-fleming-has-won-the-barclays-fa-wsl-play",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Jessie_Fleming_POTM",
+          "gravity": "auto",
+          "aspectRatio": 1.5022681,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Fleming named best WSL player in November",
+      "publishDate": "2021-12-09T12:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/blues-midfielder-jessie-fleming-has-won-the-barclays-fa-wsl-play.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2021-12-09T12:30:00.000Z",
+      "description": "Blues midfielder Jessie Fleming has won the Barclays FA WSL Player of the Month award for November."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20211209hayes-praises-immense-effort-as-",
       "type": "NewsCard",
       "timestamp": "2021-12-09T08:43:00.000Z",
@@ -497,60 +540,6 @@
       "date": "2021-12-08T21:46:00.000Z",
       "description": "The Blues still have work to do to reach the knockout phase of the Champions League after a frustrating night at Kingsmeadow against a dogged Juventus side.",
       "matchId": 2245959
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211208chelsea-line-up-vs-zenit-st-pete",
-      "type": "NewsCard",
-      "timestamp": "2021-12-08T16:38:00.000Z",
-      "orderDate": "2021-12-08T16:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/08/chelsea-line-up-vs-zenit-st-petersburg",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Zenit St Petersburg",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/chelsea-line-up-vs-zenit-st-petersburg.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-08T16:38:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/08/chelsea-line-up-vs-zenit-st-petersburg",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Zenit stadium",
-          "id": "editorial/match-reports/2021-22/ucl-zenit-away/Dressing-room-Lukaku-shirt-Zenit-away",
-          "gravity": "auto",
-          "aspectRatio": 1.4044812,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Zenit St Petersburg",
-      "publishDate": "2021-12-08T16:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/chelsea-line-up-vs-zenit-st-petersburg.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-12-08T16:38:00.000Z",
-      "description": "Thomas Tuchel makes eight changes to his Chelsea team with fresh faces in goal, defence, midfield and attack.",
-      "matchId": 2244666
     }
   ]
 }
