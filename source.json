@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211209werner--i-am-happy-personally-bu",
+      "type": "NewsCard",
+      "timestamp": "2021-12-09T13:38:00.000Z",
+      "orderDate": "2021-12-09T13:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/09/werner--i-am-happy-personally-but-disappointed-with-the-result",
+        "type": "NewsCard",
+        "title": "Werner: I am happy personally but disappointed with the result",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/werner--i-am-happy-personally-but-disappointed-with-the-result.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-09T13:38:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/09/werner--i-am-happy-personally-but-disappointed-with-the-result",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/ucl-zenit-away/zenit_away_lukaku_celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.42892,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Werner: I am happy personally but disappointed with the result",
+      "publishDate": "2021-12-09T13:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/werner--i-am-happy-personally-but-disappointed-with-the-result.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        }
+      ],
+      "date": "2021-12-09T13:38:00.000Z",
+      "description": "Chelsea forward Timo Werner has admitted he was ‘very happy’ with his personal performance against Zenit Saint Petersburg last night but a win would have made it much sweeter.",
+      "matchId": 2244666
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20211209the-debrief--fluctuating-fortune",
       "type": "NewsCard",
@@ -490,56 +533,6 @@
       "date": "2021-12-09T00:19:00.000Z",
       "description": "Chelsea's men's and women's teams were both in Champions League action on Wednesday evening and both finished with draws, and the key action can be viewed here.",
       "matchId": 2244666
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211208women-s-report--chelsea-0-juvent",
-      "type": "NewsCard",
-      "timestamp": "2021-12-08T21:46:00.000Z",
-      "orderDate": "2021-12-08T17:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/08/women-s-report--chelsea-0-juventus-0",
-        "type": "NewsCard",
-        "title": "Women's report: Chelsea 0 Juventus 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/women-s-report--chelsea-0-juventus-0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-08T21:46:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2021/12/08/women-s-report--chelsea-0-juventus-0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Blues look to score from a corner",
-          "id": "editorial/match-reports/2021-22/women-juventus-home/Harder-GettyImages-1357945156",
-          "gravity": "auto",
-          "aspectRatio": 1.534965,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women's report: Chelsea 0 Juventus 0",
-      "publishDate": "2021-12-08T21:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/08/women-s-report--chelsea-0-juventus-0.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-12-08T21:46:00.000Z",
-      "description": "The Blues still have work to do to reach the knockout phase of the Champions League after a frustrating night at Kingsmeadow against a dogged Juventus side.",
-      "matchId": 2245959
     }
   ]
 }
