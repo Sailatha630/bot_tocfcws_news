@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211210blues-bulletin--chelsea-vs-leeds",
+      "type": "NewsCard",
+      "timestamp": "2021-12-10T04:00:00.000Z",
+      "orderDate": "2021-12-10T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/10/blues-bulletin--chelsea-vs-leeds-united",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Leeds United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/blues-bulletin--chelsea-vs-leeds-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-10T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/10/blues-bulletin--chelsea-vs-leeds-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Leeds",
+          "id": "editorial/news/2021/12/09/Silva_Leeds_GettyImages-1289615299",
+          "gravity": "auto",
+          "aspectRatio": 1.499854,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Leeds United",
+      "publishDate": "2021-12-10T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/blues-bulletin--chelsea-vs-leeds-united.html",
+      "readTimeInMins": 27,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-10T04:00:00.000Z",
+      "description": "Chelsea host Leeds United at Stamford Bridge on Saturday as we look to get back to winning ways in the Premier League. Here are all the pre-match facts and stats you need to know ahead of kick-off.",
+      "matchId": 2210425
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20211209petr-cech-column--extra-socks--s",
       "type": "NewsCard",
@@ -476,55 +530,6 @@
       ],
       "date": "2021-12-09T09:58:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a brave comparison from a TV pundit, and two transfer stories linking the Blues to three players.."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211209hayes-praises-immense-effort-as-",
-      "type": "NewsCard",
-      "timestamp": "2021-12-09T08:43:00.000Z",
-      "orderDate": "2021-12-09T03:43:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/09/hayes-praises-immense-effort-as-juve-cling-on-for-draw",
-        "type": "NewsCard",
-        "title": "Hayes praises immense effort as Blues edge closer to qualification",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/hayes-praises-immense-effort-as-juve-cling-on-for-draw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-09T08:43:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/09/hayes-praises-immense-effort-as-juve-cling-on-for-draw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/juventus_women_2",
-          "gravity": "auto",
-          "aspectRatio": 1.5024154,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes praises immense effort as Blues edge closer to qualification",
-      "publishDate": "2021-12-09T08:43:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/hayes-praises-immense-effort-as-juve-cling-on-for-draw.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-12-09T08:43:00.000Z",
-      "description": "Chelsea manager Emma Hayes said her players were ‘immense’ as we moved to within a point of qualifying for the quarter-finals of the Women’s Champions League with a 0-0 draw against Juventus.",
-      "matchId": 2245959
     }
   ]
 }
