@@ -62,6 +62,54 @@
       "matchId": 2210425
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211210champions-league--when-is-the-la",
+      "type": "NewsCard",
+      "timestamp": "2021-12-10T10:40:00.000Z",
+      "orderDate": "2021-12-10T03:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p",
+        "type": "NewsCard",
+        "title": "Champions League: When is the last 16 draw and who can Chelsea play?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-10T10:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "UCL",
+          "id": "editorial/news/2021/08/26/Chelsea-ball-UEFA-Champions-League-202122-Group-Stage-Draw",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Champions League: When is the last 16 draw and who can Chelsea play?",
+      "publishDate": "2021-12-10T10:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-12-10T10:40:00.000Z",
+      "description": "Chelsea and the other 15 teams in the first knockout round of this season's Champions League have all now been confirmed. Here is all the information you need on when the draw for the last-16 is taking place and who the Blues could face in our next European match."
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20211210chelsea-advent-calendar-quiz---d",
       "type": "NewsCard",
@@ -475,60 +523,6 @@
       ],
       "date": "2021-12-09T16:54:00.000Z",
       "description": "Supporters attending this weekend’s matches at Stamford Bridge and Kingsmeadow should read the following information following the Government’s announcement yesterday regarding new Covid rules."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20211209the-debrief--fluctuating-fortune",
-      "type": "NewsCard",
-      "timestamp": "2021-12-09T11:33:00.000Z",
-      "orderDate": "2021-12-09T11:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/09/the-debrief--fluctuating-fortunes-and-a-new-role-for-reece",
-        "type": "NewsCard",
-        "title": "The Debrief: Fluctuating fortunes and a new role for Reece",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/the-debrief--fluctuating-fortunes-and-a-new-role-for-reece.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-09T11:33:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/09/the-debrief--fluctuating-fortunes-and-a-new-role-for-reece",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Debrief",
-          "id": "editorial/news/2021/12/09/debrief-zenit-away-web",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Fluctuating fortunes and a new role for Reece",
-      "publishDate": "2021-12-09T11:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/the-debrief--fluctuating-fortunes-and-a-new-role-for-reece.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-12-09T11:33:00.000Z",
-      "description": "We pick the bones out of yesterday’s action-packed draw against Zenit St Petersburg with the aid of the match statistics…",
-      "matchId": 2244666
     }
   ]
 }
