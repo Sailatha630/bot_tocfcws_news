@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211210pre-match-briefing--chelsea-vs-l",
+      "type": "NewsCard",
+      "timestamp": "2021-12-10T11:44:00.000Z",
+      "orderDate": "2021-12-10T11:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/10/pre-match-briefing--chelsea-vs-leeds-united",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Leeds United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/pre-match-briefing--chelsea-vs-leeds-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-10T11:44:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/12/10/pre-match-briefing--chelsea-vs-leeds-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Shed",
+          "id": "editorial/news/2021/12/10/stadium_shed_turnstiles",
+          "gravity": "auto",
+          "aspectRatio": 1.4915254,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Leeds United",
+      "publishDate": "2021-12-10T11:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/pre-match-briefing--chelsea-vs-leeds-united.html",
+      "readTimeInMins": 64,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-10T11:44:00.000Z",
+      "description": "A run of three straight Premier League games begins with a traditional 3pm Saturday kick-off. Club historian Rick Glanvill and club statistician Paul Dutton are ready for the Blues back at the Bridge after three away outings…",
+      "matchId": 2210425
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211210blues-bulletin--chelsea-vs-leeds",
       "type": "NewsCard",
       "timestamp": "2021-12-10T04:00:00.000Z",
@@ -60,54 +114,6 @@
       "date": "2021-12-10T04:00:00.000Z",
       "description": "Chelsea host Leeds United at Stamford Bridge on Saturday as we look to get back to winning ways in the Premier League. Here are all the pre-match facts and stats you need to know ahead of kick-off.",
       "matchId": 2210425
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211210champions-league--when-is-the-la",
-      "type": "NewsCard",
-      "timestamp": "2021-12-10T10:40:00.000Z",
-      "orderDate": "2021-12-10T03:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p",
-        "type": "NewsCard",
-        "title": "Champions League: When is the last 16 draw and who can Chelsea play?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-10T10:40:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "UCL",
-          "id": "editorial/news/2021/08/26/Chelsea-ball-UEFA-Champions-League-202122-Group-Stage-Draw",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Champions League: When is the last 16 draw and who can Chelsea play?",
-      "publishDate": "2021-12-10T10:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2021-12-10T10:40:00.000Z",
-      "description": "Chelsea and the other 15 teams in the first knockout round of this season's Champions League have all now been confirmed. Here is all the information you need on when the draw for the last-16 is taking place and who the Blues could face in our next European match."
     },
     {
       "contentType": "Competitions",
@@ -370,6 +376,54 @@
       "description": "Chelsea fans have voted N’Golo Kante’s sublime solo goal at Leicester City as our Goal of the Month for November."
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211210champions-league--when-is-the-la",
+      "type": "NewsCard",
+      "timestamp": "2021-12-10T10:40:00.000Z",
+      "orderDate": "2021-12-09T15:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p",
+        "type": "NewsCard",
+        "title": "Champions League: When is the last 16 draw and who can Chelsea play?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-10T10:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "UCL",
+          "id": "editorial/news/2021/08/26/Chelsea-ball-UEFA-Champions-League-202122-Group-Stage-Draw",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Champions League: When is the last 16 draw and who can Chelsea play?",
+      "publishDate": "2021-12-10T10:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-12-10T10:40:00.000Z",
+      "description": "Chelsea and the other 15 teams in the first knockout round of this season's Champions League have all now been confirmed. Here is all the information you need on when the draw for the last-16 is taking place and who the Blues could face in our next European match."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211209werner--i-am-happy-personally-bu",
       "type": "NewsCard",
@@ -470,59 +524,6 @@
       ],
       "date": "2021-12-09T14:44:00.000Z",
       "description": "With Timo Werner setting a new club record with Chelsea’s quickest-ever Champions League goal in our 3-3 draw with Zenit St Petersburg on Wednesday, we take a look at the other occasions when the Blues took less than five minutes to get on the scoresheet in the competition."
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20211209updated-supporter-information-fo",
-      "type": "NewsCard",
-      "timestamp": "2021-12-09T16:54:00.000Z",
-      "orderDate": "2021-12-09T12:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/09/updated-supporter-information-for-attending-home-matches",
-        "type": "NewsCard",
-        "title": "Updated supporter information for attending home matches",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/updated-supporter-information-for-attending-home-matches.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-09T16:54:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/09/updated-supporter-information-for-attending-home-matches",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Covid-19 stewards",
-          "id": "editorial/news/2021/10/19/covid-19-checks-stamford-bridge-2-",
-          "gravity": "auto",
-          "aspectRatio": 1.4942966,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Updated supporter information for attending home matches",
-      "publishDate": "2021-12-09T16:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/09/updated-supporter-information-for-attending-home-matches.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-12-09T16:54:00.000Z",
-      "description": "Supporters attending this weekend’s matches at Stamford Bridge and Kingsmeadow should read the following information following the Government’s announcement yesterday regarding new Covid rules."
     }
   ]
 }
