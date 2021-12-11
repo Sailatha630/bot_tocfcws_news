@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211211tuchel-reacts-to-leeds-win",
+      "type": "NewsCard",
+      "timestamp": "2021-12-11T17:45:00.000Z",
+      "orderDate": "2021-12-11T17:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/11/tuchel-reacts-to-leeds-win",
+        "type": "NewsCard",
+        "title": "Tuchel on his pleasure at comeback in desperately needed win, Jorginho’s sacrifice and Rudiger’s passion",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/tuchel-reacts-to-leeds-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-11T17:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/11/tuchel-reacts-to-leeds-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/match-reports/2021-22/leeds-home/Tuchel-Leeds-h-celebrations",
+          "gravity": "auto",
+          "aspectRatio": 1.6556292,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on his pleasure at comeback in desperately needed win, Jorginho’s sacrifice and Rudiger’s passion",
+      "publishDate": "2021-12-11T17:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/tuchel-reacts-to-leeds-win.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-11T17:45:00.000Z",
+      "description": "At the end of a feisty and eventful Premier League clash with Leeds United at Stamford Bridge in which the Blues left it very late to secure a winner, Thomas Tuchel praised his side’s resilience in coming from behind to secure a much-needed three points.",
+      "matchId": 2210425
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20211211match-report--chelsea-vs-leeds",
       "type": "NewsCard",
@@ -480,65 +539,6 @@
       ],
       "date": "2021-12-11T10:31:00.000Z",
       "description": "This season’s Chelsea Yearbook is out now – and here’s how fans can get their hands on the latest edition of a publication steeped in Blues history."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211210gallery--jorginho-and-loftus-che",
-      "type": "NewsCard",
-      "timestamp": "2021-12-10T17:00:00.000Z",
-      "orderDate": "2021-12-10T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/10/gallery--jorginho-and-loftus-cheek-train-ahead-of-leeds-visit",
-        "type": "NewsCard",
-        "title": "Gallery: Jorginho and Loftus-Cheek train ahead of Leeds visit",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/gallery--jorginho-and-loftus-cheek-train-ahead-of-leeds-visit.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-10T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/10/gallery--jorginho-and-loftus-cheek-train-ahead-of-leeds-visit",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Jorginho-DTW_9269",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Jorginho and Loftus-Cheek train ahead of Leeds visit",
-      "publishDate": "2021-12-10T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/gallery--jorginho-and-loftus-cheek-train-ahead-of-leeds-visit.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Ruben Loftus-Cheek",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ruben-loftus-cheek"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        }
-      ],
-      "date": "2021-12-10T17:00:00.000Z",
-      "description": "Chelsea players took to the Cobham training pitch this morning in their final session before they return to Stamford Bridge to host Leeds United in the Premier League.",
-      "matchId": 2210425
     }
   ]
 }
