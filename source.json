@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211211tuchel--no-reason-for-chelsea-to",
+      "type": "NewsCard",
+      "timestamp": "2021-12-11T11:42:00.000Z",
+      "orderDate": "2021-12-11T11:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/11/tuchel--no-reason-for-chelsea-to-have-december-dip",
+        "type": "NewsCard",
+        "title": "Tuchel: No reason for Chelsea to have December dip",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/tuchel--no-reason-for-chelsea-to-have-december-dip.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-11T11:42:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/11/tuchel--no-reason-for-chelsea-to-have-december-dip",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel at training",
+          "id": "editorial/news/2021/12/10/tuchel_training_leeds_h",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: No reason for Chelsea to have December dip",
+      "publishDate": "2021-12-11T11:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/tuchel--no-reason-for-chelsea-to-have-december-dip.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-11T11:42:00.000Z",
+      "description": "Thomas Tuchel has issued a rallying cry to his players as they aim to overcome the recent mini-blip with a win over Leeds today at Stamford Bridge, and it is one he has made behind dressing room doors as well as publicly.",
+      "matchId": 2210425
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211211alonso-on-importance-of-the-grou",
       "type": "NewsCard",
@@ -515,60 +564,6 @@
       "date": "2021-12-10T11:59:00.000Z",
       "description": "Our FA Cup campaign will begin next month with a live televised third round tie against Chesterfield at Stamford Bridge…",
       "matchId": 2260818
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211210pre-match-briefing--chelsea-vs-l",
-      "type": "NewsCard",
-      "timestamp": "2021-12-10T11:44:00.000Z",
-      "orderDate": "2021-12-10T11:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/10/pre-match-briefing--chelsea-vs-leeds-united",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Leeds United",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/pre-match-briefing--chelsea-vs-leeds-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-10T11:44:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/12/10/pre-match-briefing--chelsea-vs-leeds-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "The Shed",
-          "id": "editorial/news/2021/12/10/stadium_shed_turnstiles",
-          "gravity": "auto",
-          "aspectRatio": 1.4915254,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Leeds United",
-      "publishDate": "2021-12-10T11:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/pre-match-briefing--chelsea-vs-leeds-united.html",
-      "readTimeInMins": 65,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-10T11:44:00.000Z",
-      "description": "A run of three straight Premier League games begins with a traditional 3pm Saturday kick-off. Club historian Rick Glanvill and club statistician Paul Dutton are ready for the Blues back at the Bridge after three away outings…",
-      "matchId": 2210425
     }
   ]
 }
