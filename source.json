@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211210champions-league--when-is-the-la",
+      "type": "NewsCard",
+      "timestamp": "2021-12-12T21:40:00.000Z",
+      "orderDate": "2021-12-13T01:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p",
+        "type": "NewsCard",
+        "title": "Champions League: When is the last 16 draw and who can Chelsea play?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-12T21:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "UCL",
+          "id": "editorial/news/2021/08/26/Chelsea-ball-UEFA-Champions-League-202122-Group-Stage-Draw",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Champions League: When is the last 16 draw and who can Chelsea play?",
+      "publishDate": "2021-12-12T21:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/10/champions-league--when-is-the-last-16-draw-and-who-can-chelsea-p.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-12-12T21:40:00.000Z",
+      "description": "Chelsea and the other 15 teams in the first knockout round of this season's Champions League have all now been confirmed. Here is all the information you need on when the draw for the last-16 is taking place and who the Blues could face in our next European match."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20211212the-debrief--blues-break-leeds-s",
       "type": "NewsCard",
@@ -503,60 +551,6 @@
       ],
       "date": "2021-12-11T19:00:00.000Z",
       "description": "It was an exciting afternoon for those at Stamford Bridge as the Blues emerged with three goals and three points and now you can enjoy the key action above.",
-      "matchId": 2210425
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211211match-report--chelsea-vs-leeds",
-      "type": "NewsCard",
-      "timestamp": "2021-12-11T17:00:00.000Z",
-      "orderDate": "2021-12-11T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/11/match-report--chelsea-vs-leeds",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 3 Leeds 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/match-report--chelsea-vs-leeds.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-11T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/11/match-report--chelsea-vs-leeds",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/match-reports/2021-22/leeds-home/Jorginho-goal-celebration-Leeds-h-3",
-          "gravity": "auto",
-          "aspectRatio": 1.5733404,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 3 Leeds 2",
-      "publishDate": "2021-12-11T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/match-report--chelsea-vs-leeds.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-11T17:00:00.000Z",
-      "description": "It was a tale of three penalties and another Mason Mount goal in the latest contest between these two old rivals, with just as in the corresponding fixture at Stamford Bridge a year ago, Chelsea recovering from going behind to take the victory, only this time we also had to overcome a late Leeds leveller.",
       "matchId": 2210425
     }
   ]
