@@ -9,6 +9,55 @@
   "newsFeed": [
     {
       "contentType": "Interview",
+      "id": "_content_chelseafcennews20211212jorginho-on-that-winning-feeling",
+      "type": "NewsCard",
+      "timestamp": "2021-12-12T12:15:00.000Z",
+      "orderDate": "2021-12-12T12:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/12/jorginho-on-that-winning-feeling--leeds--man-marking-and-his-fit",
+        "type": "NewsCard",
+        "title": "Jorginho on that winning feeling, Leeds’ man-marking and his fitness ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/12/jorginho-on-that-winning-feeling--leeds--man-marking-and-his-fit.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-12T12:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/12/jorginho-on-that-winning-feeling--leeds--man-marking-and-his-fit",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jorginho celebrates his winner",
+          "id": "editorial/news/2021/12/12/jorginho-celebrations",
+          "gravity": "auto",
+          "aspectRatio": 1.4984672,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jorginho on that winning feeling, Leeds’ man-marking and his fitness ",
+      "publishDate": "2021-12-12T12:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/12/jorginho-on-that-winning-feeling--leeds--man-marking-and-his-fit.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-12T12:15:00.000Z",
+      "description": "Jorginho played through the pain barrier to net our dramatic injury-time winner against Leeds, his second successful spot-kick of the game, and the midfielder reflected afterwards on an action-packed afternoon at Stamford Bridge.",
+      "matchId": 2210425
+    },
+    {
+      "contentType": "Interview",
       "id": "_content_chelseafcennews20211212rudiger--it-s-crazy-what-i-do-",
       "type": "NewsCard",
       "timestamp": "2021-12-12T03:30:00.000Z",
@@ -502,55 +551,6 @@
       "date": "2021-12-11T11:42:00.000Z",
       "description": "Thomas Tuchel has issued a rallying cry to his players as they aim to overcome the recent mini-blip with a win over Leeds today at Stamford Bridge, and it is one he has made behind dressing room doors as well as publicly.",
       "matchId": 2210425
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211211women-s-report--reading-1-chelse",
-      "type": "NewsCard",
-      "timestamp": "2021-12-11T13:45:00.000Z",
-      "orderDate": "2021-12-11T10:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/11/women-s-report--reading-1-chelsea-0",
-        "type": "NewsCard",
-        "title": "Women’s report: Reading 1 Chelsea 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/women-s-report--reading-1-chelsea-0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-11T13:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/11/women-s-report--reading-1-chelsea-0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Cuthbert_battles_Reading",
-          "gravity": "auto",
-          "aspectRatio": 1.5076978,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s report: Reading 1 Chelsea 0",
-      "publishDate": "2021-12-11T13:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/women-s-report--reading-1-chelsea-0.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2021-12-11T13:45:00.000Z",
-      "description": "The Blues dropped crucial points in the FA WSL after a busy week as Emma Hayes’ side faced Reading at the Select Car Leasing Stadium.",
-      "matchId": 2236370
     }
   ]
 }
