@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211212the-debrief--blues-break-leeds-s",
+      "type": "NewsCard",
+      "timestamp": "2021-12-12T16:23:00.000Z",
+      "orderDate": "2021-12-12T16:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/12/the-debrief--blues-break-leeds-shackles-and-battle-to-the-bitter",
+        "type": "NewsCard",
+        "title": "The Debrief: Blues break Leeds shackles and battle to the bitter end",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/12/the-debrief--blues-break-leeds-shackles-and-battle-to-the-bitter.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-12T16:23:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/12/the-debrief--blues-break-leeds-shackles-and-battle-to-the-bitter",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "The Debrief",
+          "id": "editorial/news/2021/12/12/debrief-web-leeds-h",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Blues break Leeds shackles and battle to the bitter end",
+      "publishDate": "2021-12-12T16:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/12/the-debrief--blues-break-leeds-shackles-and-battle-to-the-bitter.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-12T16:23:00.000Z",
+      "description": "Games against Marcelo Bielsa’s Leeds United are always interesting tactical battles, and yesterday was no different. Here we look at the themes from our 3-2 win with the help of graphics and statistics…",
+      "matchId": 2210425
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211212jorginho-on-that-winning-feeling",
       "type": "NewsCard",
@@ -135,7 +189,7 @@
           "type": "ImageCloudinary",
           "alt": " ",
           "id": "editorial/match-reports/2021-22/leeds-home/leeds_home_rudiger",
-          "gravity": "face",
+          "gravity": "center",
           "aspectRatio": 1.5057119,
           "cropMode": "fill"
         }
@@ -503,60 +557,6 @@
       ],
       "date": "2021-12-11T17:00:00.000Z",
       "description": "It was a tale of three penalties and another Mason Mount goal in the latest contest between these two old rivals, with just as in the corresponding fixture at Stamford Bridge a year ago, Chelsea recovering from going behind to take the victory, only this time we also had to overcome a late Leeds leveller.",
-      "matchId": 2210425
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211211chelsea-line-up-vs-leeds",
-      "type": "NewsCard",
-      "timestamp": "2021-12-11T14:00:00.000Z",
-      "orderDate": "2021-12-11T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/11/chelsea-line-up-vs-leeds",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Leeds",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/chelsea-line-up-vs-leeds.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-11T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/11/chelsea-line-up-vs-leeds",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/match-reports/2021-22/leeds-home/Jorginho-shirt-Leeds-home",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Leeds",
-      "publishDate": "2021-12-11T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/11/chelsea-line-up-vs-leeds.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "premier league",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_premier-league"
-        }
-      ],
-      "date": "2021-12-11T14:00:00.000Z",
-      "description": "Thomas Tuchel makes seven changes from the side that started in Russia midweek, including a return for Edouard Mendy in goal.",
       "matchId": 2210425
     }
   ]
