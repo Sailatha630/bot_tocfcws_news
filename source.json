@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20211213chelsea-advent-calendar-quiz---d",
+      "type": "NewsCard",
+      "timestamp": "2021-12-13T09:21:00.000Z",
+      "orderDate": "2021-12-13T09:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/13/chelsea-advent-calendar-quiz---day-13",
+        "type": "NewsCard",
+        "title": "Chelsea Advent Calendar Quiz - Day 13",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/13/chelsea-advent-calendar-quiz---day-13.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-13T09:21:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/13/chelsea-advent-calendar-quiz---day-13",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ballack advent quiz",
+          "id": "editorial/news/2021/12/13/Web-Article-Hero-DEC-13",
+          "gravity": "north",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Advent Calendar Quiz - Day 13",
+      "publishDate": "2021-12-13T09:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/13/chelsea-advent-calendar-quiz---day-13.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Michael Ballack",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_michael-ballack"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-13T09:21:00.000Z",
+      "description": "We continue to count down to Christmas with our own take on a traditional advent calendar, as we bring you a new player-based quiz to enjoy every day. Today's focus is on a German who had a big impact in four trophy-laden years."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211213tuchel-analyses-mount-s-growing-",
       "type": "NewsCard",
@@ -480,55 +528,6 @@
       "date": "2021-12-12T09:49:00.000Z",
       "description": "The FA Youth Cup is upon us, and our young Blues will be looking to get off to a good start on Sunday afternoon against Leyton Orient.",
       "matchId": 2258980
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211212hayes--tough-schedule-told-but-w",
-      "type": "NewsCard",
-      "timestamp": "2021-12-12T09:31:00.000Z",
-      "orderDate": "2021-12-12T00:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/12/hayes--tough-schedule-told-but-we-weren-t-good-enough",
-        "type": "NewsCard",
-        "title": "Hayes: Tough schedule told but we weren’t good enough",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/12/hayes--tough-schedule-told-but-we-weren-t-good-enough.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-12T09:31:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/12/hayes--tough-schedule-told-but-we-weren-t-good-enough",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/erin_cutherbert_reading",
-          "gravity": "auto",
-          "aspectRatio": 1.5025866,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes: Tough schedule told but we weren’t good enough",
-      "publishDate": "2021-12-12T09:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/12/hayes--tough-schedule-told-but-we-weren-t-good-enough.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2021-12-12T09:31:00.000Z",
-      "description": "Chelsea manager Emma Hayes said an unforgiving schedule finally caught up with us as our 15-game unbeaten run came to an end with a below-par performance against Reading.",
-      "matchId": 2236370
     }
   ]
 }
