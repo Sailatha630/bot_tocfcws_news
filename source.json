@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211213chelsea-learn-champions-league-l",
+      "type": "NewsCard",
+      "timestamp": "2021-12-13T10:31:00.000Z",
+      "orderDate": "2021-12-13T10:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/13/chelsea-learn-champions-league-last-16-opponents",
+        "type": "NewsCard",
+        "title": "Chelsea learn Champions League last-16 opponents",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/13/chelsea-learn-champions-league-last-16-opponents.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-13T10:31:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/13/chelsea-learn-champions-league-last-16-opponents",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/11/22/champions-league-trophy-draw-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea learn Champions League last-16 opponents",
+      "publishDate": "2021-12-13T10:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/13/chelsea-learn-champions-league-last-16-opponents.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2021-12-13T10:31:00.000Z",
+      "description": "Chelsea have been paired with Lille in the last-16 of the Champions League, following Monday’s draw in Nyon, Switzerland."
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20211213chelsea-advent-calendar-quiz---d",
       "type": "NewsCard",
@@ -468,54 +511,6 @@
       "date": "2021-12-12T03:30:00.000Z",
       "description": "Toni Rudiger was the man in the right place at the right time on Saturday at Stamford Bridge when he won two penalties, helping to save crucial points from being lost.",
       "matchId": 2210425
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20211212chelsea-advent-calendar-quiz---d",
-      "type": "NewsCard",
-      "timestamp": "2021-12-12T09:30:00.000Z",
-      "orderDate": "2021-12-12T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/12/chelsea-advent-calendar-quiz---day-12",
-        "type": "NewsCard",
-        "title": "Chelsea Advent Calendar Quiz - Day 12",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/12/chelsea-advent-calendar-quiz---day-12.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-12T09:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/12/chelsea-advent-calendar-quiz---day-12",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/12/12/mikel-app-follow-advent",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Advent Calendar Quiz - Day 12",
-      "publishDate": "2021-12-12T09:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/12/chelsea-advent-calendar-quiz---day-12.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "John Mikel Obi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-mikel-obi"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-12T09:30:00.000Z",
-      "description": "We continue to count down to Christmas with our own take on a traditional advent calendar, as we bring you a new player-based quiz to enjoy every day. Today's focus is on a long-serving Blues legend."
     }
   ]
 }
