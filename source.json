@@ -8,6 +8,73 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnists",
+      "id": "_content_chelseafcennews20211214pat-nevin--why-i-don-t-want-pena",
+      "type": "NewsCard",
+      "timestamp": "2021-12-14T04:30:00.000Z",
+      "orderDate": "2021-12-14T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/14/pat-nevin--why-i-don-t-want-penalties-to-define-the-season",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Why I don’t want penalties to define the season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/14/pat-nevin--why-i-don-t-want-penalties-to-define-the-season.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-14T04:30:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2021/12/14/pat-nevin--why-i-don-t-want-penalties-to-define-the-season",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Penalty award against Leeds",
+          "id": "editorial/news/2021/12/13/penalty_award_leeds_united_home",
+          "gravity": "north_east",
+          "aspectRatio": 1.4356563,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Why I don’t want penalties to define the season",
+      "publishDate": "2021-12-14T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/14/pat-nevin--why-i-don-t-want-penalties-to-define-the-season.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2021-12-14T04:30:00.000Z",
+      "description": "The penalty drama played out in Chelsea’s favour at the weekend but despite that, Blues legend Pat Nevin has concerns about how the man with the whistle on the pitch and the VAR officials in front of their screens are interacting this season, as he explains in this week’s column…"
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211213dates-confirmed-for-lille-champi",
       "type": "NewsCard",
@@ -454,55 +521,6 @@
       ],
       "date": "2021-12-13T12:24:00.000Z",
       "description": "In our latest round-up of the action involving Chelsea loan players over the last week, Conor Gallagher and Michy Batshuayi stole the show with two goals apiece and there was plenty of late drama elsewhere too..."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211213fa-cup-ticket-news",
-      "type": "NewsCard",
-      "timestamp": "2021-12-13T13:46:00.000Z",
-      "orderDate": "2021-12-13T01:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/13/fa-cup-ticket-news",
-        "type": "NewsCard",
-        "title": "FA Cup ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/13/fa-cup-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-13T13:46:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/13/fa-cup-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "FA Cup",
-          "id": "editorial/news/2020/11/FA_CUP_trophy_stock_wembley_2020",
-          "gravity": "auto",
-          "aspectRatio": 1.4983714,
-          "cropMode": "fill"
-        }
-      },
-      "content": "FA Cup ticket news",
-      "publishDate": "2021-12-13T13:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/13/fa-cup-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-13T13:46:00.000Z",
-      "description": "The ticket selling information for our home Emirates FA Cup third-round tie against Chesterfield has been announced.",
-      "matchId": 2260818
     }
   ]
 }
