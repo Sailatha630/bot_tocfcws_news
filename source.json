@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20211214liverpool-returns-on-sale-tomorr",
+      "type": "NewsCard",
+      "timestamp": "2021-12-14T14:43:00.000Z",
+      "orderDate": "2021-12-14T07:43:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/14/liverpool-returns-on-sale-tomorrow",
+        "type": "NewsCard",
+        "title": "Liverpool returns on sale tomorrow",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/14/liverpool-returns-on-sale-tomorrow.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-14T14:43:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/14/liverpool-returns-on-sale-tomorrow",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/08/30/thiago_silva_liverpool_away",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Liverpool returns on sale tomorrow",
+      "publishDate": "2021-12-14T14:43:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/14/liverpool-returns-on-sale-tomorrow.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-12-14T14:43:00.000Z",
+      "description": "We have had some tickets returned for our home game against Liverpool on Sunday 2 January 2022."
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20211214pat-nevin--why-i-don-t-want-pena",
       "type": "NewsCard",
@@ -465,49 +513,6 @@
       ],
       "date": "2021-12-13T13:10:00.000Z",
       "description": "Chelsea have been paired with Lille in the last-16 of the Champions League, following Monday’s re-draw in Nyon, Switzerland."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211213chelsea-women-s-fa-cup-fourth-ro",
-      "type": "NewsCard",
-      "timestamp": "2021-12-13T20:00:00.000Z",
-      "orderDate": "2021-12-13T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/13/chelsea-women-s-fa-cup-fourth-round-draw-made",
-        "type": "NewsCard",
-        "title": "Chelsea Women to travel to Aston Villa in FA Cup fourth round",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/13/chelsea-women-s-fa-cup-fourth-round-draw-made.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-13T20:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/13/chelsea-women-s-fa-cup-fourth-round-draw-made",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Vitality_fa_cup_trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women to travel to Aston Villa in FA Cup fourth round",
-      "publishDate": "2021-12-13T20:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/13/chelsea-women-s-fa-cup-fourth-round-draw-made.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2021-12-13T20:00:00.000Z",
-      "description": "Chelsea FC Women will travel to Aston Villa in the fourth round of the 2021/22 Vitality Women’s FA Cup on Sunday 30 January."
     }
   ]
 }
