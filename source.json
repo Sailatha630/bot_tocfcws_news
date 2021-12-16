@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211216pre-match-briefing--chelsea-vs-e",
+      "type": "NewsCard",
+      "timestamp": "2021-12-16T07:29:00.000Z",
+      "orderDate": "2021-12-16T07:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/16/pre-match-briefing--chelsea-vs-everton",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/pre-match-briefing--chelsea-vs-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-16T07:29:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/12/16/pre-match-briefing--chelsea-vs-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Christmas tree at Stamford Bridge",
+          "id": "editorial/news/2021/12/15/west_stand_christmas_2021",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Everton",
+      "publishDate": "2021-12-16T07:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/pre-match-briefing--chelsea-vs-everton.html",
+      "readTimeInMins": 69,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-12-16T07:29:00.000Z",
+      "description": "The blue sides of London and Merseyside have been asked to wait but our midweek fixture is almost here, so a little later than usual club historian Rick Glanvill and club statistician Paul Dutton have their match preview…",
+      "matchId": 2210438
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211215blues-bulletin--chelsea-vs-evert",
       "type": "NewsCard",
       "timestamp": "2021-12-16T02:25:00.000Z",
@@ -454,55 +508,6 @@
       ],
       "date": "2021-12-15T07:00:00.000Z",
       "description": "The defender talks exclusively to us about taking on tweaks as a wing-back, refocusing on domestic matters and targeting plenty of points over Christmas…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211215wolfsburg-v-chelsea-women--women",
-      "type": "NewsCard",
-      "timestamp": "2021-12-15T02:21:00.000Z",
-      "orderDate": "2021-12-15T02:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/15/wolfsburg-v-chelsea-women--women-s-champions-league-preview--kic",
-        "type": "NewsCard",
-        "title": "Wolfsburg vs Chelsea Women preview: Kick-off time, how to watch the live stream and much more",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/wolfsburg-v-chelsea-women--women-s-champions-league-preview--kic.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-15T02:21:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/15/wolfsburg-v-chelsea-women--women-s-champions-league-preview--kic",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Pernille_Leupolz_Wolfsburg",
-          "gravity": "auto",
-          "aspectRatio": 1.5001669,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Wolfsburg vs Chelsea Women preview: Kick-off time, how to watch the live stream and much more",
-      "publishDate": "2021-12-15T02:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/wolfsburg-v-chelsea-women--women-s-champions-league-preview--kic.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-12-15T02:21:00.000Z",
-      "description": "Tomorrow we face Wolfsburg in our second encounter with the German side in the group stage. All the information you need can be found in our preview here…",
-      "matchId": 2245971
     }
   ]
 }
