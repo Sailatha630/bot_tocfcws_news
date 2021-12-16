@@ -8,6 +8,75 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211216tuchel-urges-patience-with-kante",
+      "type": "NewsCard",
+      "timestamp": "2021-12-16T09:08:00.000Z",
+      "orderDate": "2021-12-16T09:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/16/tuchel-urges-patience-with-kante-and-lukaku",
+        "type": "NewsCard",
+        "title": "Tuchel reveals Kante and Lukaku frustration",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/tuchel-urges-patience-with-kante-and-lukaku.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-16T09:08:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/16/tuchel-urges-patience-with-kante-and-lukaku",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lukaku",
+          "id": "editorial/news/2021/12/15/Lukaku_Kante_GettyImages-1235878474",
+          "gravity": "east",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reveals Kante and Lukaku frustration",
+      "publishDate": "2021-12-16T09:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/tuchel-urges-patience-with-kante-and-lukaku.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-12-16T09:08:00.000Z",
+      "description": "Thomas Tuchel has explained why N’Golo Kante and Romelu Lukaku may not be in his starting XI against Everton tonight, despite the frustrations felt by himself and the players at having to be patient on their return from injury.",
+      "matchId": 2210438
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211216pre-match-briefing--chelsea-vs-e",
       "type": "NewsCard",
@@ -464,60 +533,6 @@
       "date": "2021-12-15T13:07:00.000Z",
       "description": "The Blues have landed in Wolfsburg and completed final preparations at the AOK Stadium this evening ahead of our Champions League against Wolfsburg tomorrow.",
       "matchId": 2245971
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211215tuchel-on-chasing-city-and-keepi",
-      "type": "NewsCard",
-      "timestamp": "2021-12-15T12:08:00.000Z",
-      "orderDate": "2021-12-15T12:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/15/tuchel-on-chasing-city-and-keeping-out-the-goals",
-        "type": "NewsCard",
-        "title": "Tuchel on chasing City and keeping out the goals",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/tuchel-on-chasing-city-and-keeping-out-the-goals.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-15T12:08:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/15/tuchel-on-chasing-city-and-keeping-out-the-goals",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel at training",
-          "id": "chelsea-app/Tuchel-GettyImages-1337908602",
-          "gravity": "auto",
-          "aspectRatio": 1.502012,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on chasing City and keeping out the goals",
-      "publishDate": "2021-12-15T12:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/tuchel-on-chasing-city-and-keeping-out-the-goals.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-15T12:08:00.000Z",
-      "description": "Chelsea go into Thursday night’s game against Everton with a game in hand over leaders Manchester City but with a five-point deficit.",
-      "matchId": 2210438
     }
   ]
 }
