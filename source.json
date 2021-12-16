@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211216chelsea-line-up-vs-everton",
+      "type": "NewsCard",
+      "timestamp": "2021-12-16T18:45:00.000Z",
+      "orderDate": "2021-12-16T18:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/16/chelsea-line-up-vs-everton",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/chelsea-line-up-vs-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-16T18:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/16/chelsea-line-up-vs-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/everton-home/Mount-dressing-room-Everton-home",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Everton",
+      "publishDate": "2021-12-16T18:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/chelsea-line-up-vs-everton.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-12-16T18:45:00.000Z",
+      "description": "There are two changes for Chelsea from our weekend win against Leeds as we prepare to welcome Everton to Stamford Bridge…",
+      "matchId": 2210438
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211216tuchel-insists-he-will-not-chang",
       "type": "NewsCard",
@@ -455,60 +514,6 @@
       "tags": [],
       "date": "2021-12-16T02:32:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, an interview with a Blues loanee and a pundit bigs up our chances of the Champions League quater-finals.."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211215blues-bulletin--chelsea-vs-evert",
-      "type": "NewsCard",
-      "timestamp": "2021-12-16T02:25:00.000Z",
-      "orderDate": "2021-12-16T02:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/15/blues-bulletin--chelsea-vs-everton",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Everton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/blues-bulletin--chelsea-vs-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-16T02:25:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/15/blues-bulletin--chelsea-vs-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Werner",
-          "id": "editorial/news/2021/12/15/Werner_GettyImages-1306001115",
-          "gravity": "center",
-          "aspectRatio": 1.3848759,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Everton",
-      "publishDate": "2021-12-16T02:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/blues-bulletin--chelsea-vs-everton.html",
-      "readTimeInMins": 29,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2021-12-16T02:25:00.000Z",
-      "description": "We host Everton at Stamford Bridge on Thursday evening hoping to extend our unbeaten Premier League run against the Toffees. Here we bring you all the vital statistics ahead of kick-off.",
-      "matchId": 2210438
     }
   ]
 }
