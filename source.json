@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211216match-report--chelsea-vs-everton",
+      "type": "NewsCard",
+      "timestamp": "2021-12-16T21:42:00.000Z",
+      "orderDate": "2021-12-16T21:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/16/match-report--chelsea-vs-everton",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 1 Everton 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/match-report--chelsea-vs-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-16T21:42:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/16/match-report--chelsea-vs-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount vs Everton",
+          "id": "editorial/match-reports/2021-22/everton-home/Mount-Everton-h-1",
+          "gravity": "north",
+          "aspectRatio": 1.4997699,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 1 Everton 1",
+      "publishDate": "2021-12-16T21:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/match-report--chelsea-vs-everton.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-12-16T21:42:00.000Z",
+      "description": "Chelsea toiled for 70 minutes before Mason Mount fired in a breakthrough goal at Stamford Bridge, though the concession of an equaliser moments later saw us drop home league points for the third time in our last four matches.",
+      "matchId": 2210438
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211216tuchel-confirms-four-positive-ch",
       "type": "NewsCard",
@@ -508,44 +562,6 @@
       "date": "2021-12-16T07:29:00.000Z",
       "description": "The blue sides of London and Merseyside have been asked to wait but our midweek fixture is almost here, so a little later than usual club historian Rick Glanvill and club statistician Paul Dutton have their match preview…",
       "matchId": 2210438
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20211215no-happy-returns---chelsea-s-ex-",
-      "type": "NewsCard",
-      "timestamp": "2021-12-16T04:53:00.000Z",
-      "orderDate": "2021-12-16T04:53:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/15/no-happy-returns---chelsea-s-ex-managers-at-the-bridge",
-        "type": "NewsCard",
-        "title": "No happy returns – Chelsea’s ex-managers at the Bridge",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/no-happy-returns---chelsea-s-ex-managers-at-the-bridge.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-16T04:53:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/15/no-happy-returns---chelsea-s-ex-managers-at-the-bridge",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Rafa Benitez",
-          "id": "video/2019/01/12/full-time-scenes---willian-grabs-winner-YwbWsxaDE6S602ByHwgV0nxpHHull8Z5/thumbnail",
-          "gravity": "auto",
-          "aspectRatio": 1.4886438,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "No happy returns – Chelsea’s ex-managers at the Bridge",
-      "publishDate": "2021-12-16T04:53:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/no-happy-returns---chelsea-s-ex-managers-at-the-bridge.html",
-      "readTimeInMins": 9,
-      "tags": [],
-      "date": "2021-12-16T04:53:00.000Z",
-      "description": "Chelsea will be aiming to maintain our good record at Stamford Bridge against our former head coaches when Rafa Benitez brings Everton to west London this week."
     }
   ]
 }
