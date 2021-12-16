@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211215blues-bulletin--chelsea-vs-evert",
+      "type": "NewsCard",
+      "timestamp": "2021-12-16T02:25:00.000Z",
+      "orderDate": "2021-12-16T02:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/15/blues-bulletin--chelsea-vs-everton",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/blues-bulletin--chelsea-vs-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-16T02:25:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/15/blues-bulletin--chelsea-vs-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/news/2021/12/15/Werner_GettyImages-1306001115",
+          "gravity": "center",
+          "aspectRatio": 1.3848759,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Everton",
+      "publishDate": "2021-12-16T02:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/blues-bulletin--chelsea-vs-everton.html",
+      "readTimeInMins": 29,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2021-12-16T02:25:00.000Z",
+      "description": "We host Everton at Stamford Bridge on Thursday evening hoping to extend our ubeaten Premier League run against the Toffees. Here we bring you all the vital statistics ahead of kick-off.",
+      "matchId": 2210438
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211215tuchel-provides-ben-chilwell-inj",
       "type": "NewsCard",
@@ -449,43 +503,6 @@
       "date": "2021-12-15T02:21:00.000Z",
       "description": "Tomorrow we face Wolfsburg in our second encounter with the German side in the group stage. All the information you need can be found in our preview here…",
       "matchId": 2245971
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211215marina-granovskaia-collects-pres",
-      "type": "NewsCard",
-      "timestamp": "2021-12-15T01:20:00.000Z",
-      "orderDate": "2021-12-15T01:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/15/marina-granovskaia-collects-prestigious-award-and-dedicates-it-t",
-        "type": "NewsCard",
-        "title": "Marina Granovskaia collects prestigious award and dedicates it to whole club",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/marina-granovskaia-collects-prestigious-award-and-dedicates-it-t.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-15T01:20:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/15/marina-granovskaia-collects-prestigious-award-and-dedicates-it-t",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Marina Granovskaia with award",
-          "id": "editorial/news/2021/12/15/marina_granovskaia_golden_boy_award_crop",
-          "gravity": "auto",
-          "aspectRatio": 1.5841584,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Marina Granovskaia collects prestigious award and dedicates it to whole club",
-      "publishDate": "2021-12-15T01:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/15/marina-granovskaia-collects-prestigious-award-and-dedicates-it-t.html",
-      "readTimeInMins": 6,
-      "tags": [],
-      "date": "2021-12-15T01:20:00.000Z",
-      "description": "Chelsea director Marina Granovskaia this week accepted the award for the Best Club Director in European football in 2021 at a ceremony in Italy."
     }
   ]
 }
