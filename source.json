@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20211217tuchel-conference-ahead-of-wolve",
+      "type": "NewsCard",
+      "timestamp": "2021-12-17T13:32:00.000Z",
+      "orderDate": "2021-12-17T13:32:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/17/tuchel-conference-ahead-of-wolves-game",
+        "type": "NewsCard",
+        "title": "Tuchel gives latest news on Chelsea Covid numbers and injury doubts",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/17/tuchel-conference-ahead-of-wolves-game.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-17T13:32:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/17/tuchel-conference-ahead-of-wolves-game",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel media conference",
+          "id": "editorial/news/2021/12/17/tuchel_conference_december_2021",
+          "gravity": "auto",
+          "aspectRatio": 1.5001929,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel gives latest news on Chelsea Covid numbers and injury doubts",
+      "publishDate": "2021-12-17T13:32:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/17/tuchel-conference-ahead-of-wolves-game.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        }
+      ],
+      "date": "2021-12-17T13:32:00.000Z",
+      "description": "Ahead of yesterday’s game against Everton, Thomas Tuchel had to report that four of his players were fresh Covid cases, ruling three of them out of the match. Today as attention turns towards Sunday’s visit to Wolverhampton, he has better news.",
+      "matchId": 2210450
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20211217lukaku-provides-covid-19-update",
       "type": "NewsCard",
       "timestamp": "2021-12-17T12:00:00.000Z",
@@ -426,65 +485,6 @@
       ],
       "date": "2021-12-17T00:02:00.000Z",
       "description": "Chelsea Foundation presented students at Fulham Cross Academy on the BTEC level 3 sport programme awards for their hard work and dedication since September."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20211216tuchel-reacts-to-everton-draw",
-      "type": "NewsCard",
-      "timestamp": "2021-12-16T22:15:00.000Z",
-      "orderDate": "2021-12-16T22:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/16/tuchel-reacts-to-everton-draw",
-        "type": "NewsCard",
-        "title": "Tuchel on the importance of not jumping to conclusions from Everton draw and finding new solutions to absent players",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/tuchel-reacts-to-everton-draw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-16T22:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/16/tuchel-reacts-to-everton-draw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/match-reports/2021-22/everton-home/Tuchel-Everton-h-1",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on the importance of not jumping to conclusions from Everton draw and finding new solutions to absent players",
-      "publishDate": "2021-12-16T22:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/tuchel-reacts-to-everton-draw.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2021-12-16T22:15:00.000Z",
-      "description": "Following a frustrating evening at Stamford Bridge that ended with a 1-1 draw against Everton, Thomas Tuchel believes it is vital to look at the game on its own and not make assumptions about why we couldn't take all three points based on previous matches.",
-      "matchId": 2210438
     }
   ]
 }
