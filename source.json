@@ -229,6 +229,54 @@
       "matchId": 2210438
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20211217brighton-returns-on-sale",
+      "type": "NewsCard",
+      "timestamp": "2021-12-17T09:38:00.000Z",
+      "orderDate": "2021-12-16T21:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/17/brighton-returns-on-sale",
+        "type": "NewsCard",
+        "title": "Brighton returns on sale",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/17/brighton-returns-on-sale.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-17T09:38:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/17/brighton-returns-on-sale",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/match-reports/2021-22/everton-home/Stamford-Bridge-view-Christmas-Everton-home",
+          "gravity": "auto",
+          "aspectRatio": 1.5002823,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Brighton returns on sale",
+      "publishDate": "2021-12-17T09:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/17/brighton-returns-on-sale.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-12-17T09:38:00.000Z",
+      "description": "We have had some tickets returned for our game against Brighton on Wednesday 29 December."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211217watch-the-highlights-of-chelsea-",
       "type": "NewsCard",
@@ -517,55 +565,6 @@
       "date": "2021-12-16T16:13:00.000Z",
       "description": "Blues head coach Thomas Tuchel believes his team have been unlucky in recent weeks and has insisted he will not change the side's system for the match against Everton this evening.",
       "matchId": 2210438
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211216watch-chelsea-women-live-stream",
-      "type": "NewsCard",
-      "timestamp": "2021-12-16T14:31:00.000Z",
-      "orderDate": "2021-12-16T14:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/16/watch-chelsea-women-live-stream",
-        "type": "NewsCard",
-        "title": "Watch Chelsea Women live stream",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/watch-chelsea-women-live-stream.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-16T14:31:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/16/watch-chelsea-women-live-stream",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Women's Champions League trophy",
-          "id": "editorial/women's-team/Womens_Champions_League_stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5026296,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Watch Chelsea Women live stream",
-      "publishDate": "2021-12-16T14:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/16/watch-chelsea-women-live-stream.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-champions-league"
-        }
-      ],
-      "date": "2021-12-16T14:31:00.000Z",
-      "description": "Chelsea Women are in important Champions League action tonight and a live stream of the action can be viewed here for free below.",
-      "matchId": 2245971
     }
   ]
 }
