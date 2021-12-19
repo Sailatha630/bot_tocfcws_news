@@ -9,6 +9,50 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20211219tuchel-confirms-request-to-postp",
+      "type": "NewsCard",
+      "timestamp": "2021-12-19T13:26:00.000Z",
+      "orderDate": "2021-12-19T13:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/19/tuchel-confirms-request-to-postpone-today-s-game-was-rejected",
+        "type": "NewsCard",
+        "title": "Tuchel confirms request to postpone today’s game was rejected",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/tuchel-confirms-request-to-postpone-today-s-game-was-rejected.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-19T13:26:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/19/tuchel-confirms-request-to-postpone-today-s-game-was-rejected",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Tuchel-stock-GettyImages-1357112739",
+          "gravity": "auto",
+          "aspectRatio": 1.4992679,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel confirms request to postpone today’s game was rejected",
+      "publishDate": "2021-12-19T13:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/tuchel-confirms-request-to-postpone-today-s-game-was-rejected.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2021-12-19T13:26:00.000Z",
+      "description": "Thomas Tuchel has confirmed that a Chelsea request to postpone today’s game with Wolves was rejected by the Premier League.",
+      "matchId": 2210450
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20211219chelsea-s-confirmed-line-up-vs-w",
       "type": "NewsCard",
       "timestamp": "2021-12-19T12:17:00.000Z",
@@ -433,60 +477,6 @@
       ],
       "date": "2021-12-18T11:24:00.000Z",
       "description": "The last Premier League game before Christmas takes the Blues on our travels to the West Midlands. Club historian Rick Glanvill and club statistician Paul Dutton dodge the festive shopping duties to provide their preview…",
-      "matchId": 2210450
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211218blues-bulletin--wolves-vs-chelse",
-      "type": "NewsCard",
-      "timestamp": "2021-12-18T08:32:00.000Z",
-      "orderDate": "2021-12-18T08:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/18/blues-bulletin--wolves-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Wolves vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/18/blues-bulletin--wolves-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-18T08:32:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/18/blues-bulletin--wolves-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pulisic playing at Wolves",
-          "id": "editorial/news/2020/12/pulisic-wolves-away",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Wolves vs Chelsea",
-      "publishDate": "2021-12-18T08:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/18/blues-bulletin--wolves-vs-chelsea.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "Wolverhampton Wanderers",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-18T08:32:00.000Z",
-      "description": "It is our first Sunday game of December coming up and we continue our build-up with the crucial number-crunching...",
       "matchId": 2210450
     }
   ]
