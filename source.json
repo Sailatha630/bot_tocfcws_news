@@ -8,6 +8,43 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211221premier-league-statement",
+      "type": "NewsCard",
+      "timestamp": "2021-12-20T17:10:00.000Z",
+      "orderDate": "2021-12-20T17:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/21/premier-league-statement",
+        "type": "NewsCard",
+        "title": "Premier League statement on fixtures",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/21/premier-league-statement.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-20T17:10:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/21/premier-league-statement",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Premier League ball",
+          "id": "editorial/news/2021/12/20/premier_league_logo_winter_high_vis_ball",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Premier League statement on fixtures",
+      "publishDate": "2021-12-20T17:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/21/premier-league-statement.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-12-20T17:10:00.000Z",
+      "description": "The Premier League has released a statement regarding the current fixture schedule."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211220tuchel-opens-up-on-playing-durin",
       "type": "NewsCard",
@@ -469,71 +506,6 @@
       ],
       "date": "2021-12-19T16:00:00.000Z",
       "description": "A depleted Chelsea fought hard to earn a point at a foggy Molineux, securing a first clean sheet in seven games in the process.",
-      "matchId": 2210450
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211219watch-the-highlights-of-chelsea-",
-      "type": "NewsCard",
-      "timestamp": "2021-12-19T18:00:00.000Z",
-      "orderDate": "2021-12-19T15:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/19/watch-the-highlights-of-chelsea-s-draw-at-wolves",
-        "type": "NewsCard",
-        "title": "Watch the highlights of Chelsea's draw at Wolves",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/watch-the-highlights-of-chelsea-s-draw-at-wolves.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-19T18:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/19/watch-the-highlights-of-chelsea-s-draw-at-wolves",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Wolves 0-0 Chelsea (A) | Premier League Highlights ",
-          "videoId": "g624yU0i",
-          "bucket": "prod-cfc",
-          "description": "Highlights from our Premier League match against Wolves.",
-          "duration": 120000,
-          "date": "2021-12-19T16:00:05.055Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/g624yU0i/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/watch-the-highlights-of-chelsea-s-draw-at-wolves.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/12/19/watch-the-highlights-of-chelsea-s-draw-at-wolves?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2021/12/19/watch-the-highlights-of-chelsea-s-draw-at-wolves",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Highlights from our Premier League match against Wolves."
-      },
-      "content": "Watch the highlights of Chelsea's draw at Wolves",
-      "publishDate": "2021-12-19T18:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/watch-the-highlights-of-chelsea-s-draw-at-wolves.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_highlights"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-19T18:00:00.000Z",
-      "description": "Chelsea and Wolves played out a goalless draw at Molineux and you can now watch the best moments.",
       "matchId": 2210450
     }
   ]
