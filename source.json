@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211220the-debrief--a-clean-sheet-on-th",
+      "type": "NewsCard",
+      "timestamp": "2021-12-20T12:00:00.000Z",
+      "orderDate": "2021-12-20T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/20/the-debrief--a-clean-sheet-on-the-road-in-difficult-circumstances",
+        "type": "NewsCard",
+        "title": "The Debrief: A clean sheet on the road in difficult circumstances ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/20/the-debrief--a-clean-sheet-on-the-road-in-difficult-circumstances.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-20T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/20/the-debrief--a-clean-sheet-on-the-road-in-difficult-circumstances",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/debrief-wolves-away-chelsea-2020-the-debrief-16x9--19c546ff-a38e-4d19-8815-1f9d4ae433ba",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: A clean sheet on the road in difficult circumstances ",
+      "publishDate": "2021-12-20T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/20/the-debrief--a-clean-sheet-on-the-road-in-difficult-circumstances.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        },
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        }
+      ],
+      "date": "2021-12-20T12:00:00.000Z",
+      "description": "With a match featuring just one shot on target for both sides, perhaps a 0-0 stalemate did not come as a surprise, and it certainly felt it was heading that way from early proceedings at a misty Molineux on Sunday. Here we take a look at the key themes from yesterday’s draw…",
+      "matchId": 2210450
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211220rudiger---we-cannot-be-happy",
       "type": "NewsCard",
@@ -456,50 +515,6 @@
       "tags": [],
       "date": "2021-12-20T10:15:00.000Z",
       "description": "Information on deadline for booking during festive period..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211219tuchel-confirms-request-to-postp",
-      "type": "NewsCard",
-      "timestamp": "2021-12-19T13:26:00.000Z",
-      "orderDate": "2021-12-19T13:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/19/tuchel-confirms-request-to-postpone-today-s-game-was-rejected",
-        "type": "NewsCard",
-        "title": "Tuchel confirms request to postpone today’s game was rejected",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/tuchel-confirms-request-to-postpone-today-s-game-was-rejected.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-19T13:26:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/19/tuchel-confirms-request-to-postpone-today-s-game-was-rejected",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Tuchel-stock-GettyImages-1357112739",
-          "gravity": "auto",
-          "aspectRatio": 1.4992679,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel confirms request to postpone today’s game was rejected",
-      "publishDate": "2021-12-19T13:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/tuchel-confirms-request-to-postpone-today-s-game-was-rejected.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2021-12-19T13:26:00.000Z",
-      "description": "Thomas Tuchel has confirmed that a Chelsea request to postpone today’s game with Wolves was rejected by the Premier League.",
-      "matchId": 2210450
     }
   ]
 }
