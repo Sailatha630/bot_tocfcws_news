@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20211221chelsea-advent-calendar-quiz---d",
+      "type": "NewsCard",
+      "timestamp": "2021-12-21T03:59:00.000Z",
+      "orderDate": "2021-12-21T03:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/21/chelsea-advent-calendar-quiz---day-21",
+        "type": "NewsCard",
+        "title": "Chelsea Advent Calendar Quiz - Day 21",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/21/chelsea-advent-calendar-quiz---day-21.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-21T03:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/21/chelsea-advent-calendar-quiz---day-21",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/12/21/Web-Article-Hero-DEC-21",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Advent Calendar Quiz - Day 21",
+      "publishDate": "2021-12-21T03:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/21/chelsea-advent-calendar-quiz---day-21.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Salomon Kalou",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_salomon-kalou"
+        },
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Nemanja Matic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_nemanja-matic"
+        }
+      ],
+      "date": "2021-12-21T03:59:00.000Z",
+      "description": "We are counting down to Christmas with our own take on a traditional advent calendar, as we bring you a new player-based quiz to enjoy every day, continuing today with a couple of players who have worn, or wear, the number 21 shirt."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211221premier-league-statement",
       "type": "NewsCard",
@@ -447,60 +500,6 @@
       ],
       "date": "2021-12-20T14:14:00.000Z",
       "description": "Over 100 players aged between four and 12 will take part in the soccer schools over the next four weeks."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20211219tuchel-reacts-to-wolves-draw",
-      "type": "NewsCard",
-      "timestamp": "2021-12-19T17:14:00.000Z",
-      "orderDate": "2021-12-19T17:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/19/tuchel-reacts-to-wolves-draw",
-        "type": "NewsCard",
-        "title": "Tuchel takes a point in difficult circumstances ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/tuchel-reacts-to-wolves-draw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-19T17:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/19/tuchel-reacts-to-wolves-draw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/match-reports/2021-22/wolves-away/tuchel-wolves-away-fans",
-          "gravity": "auto",
-          "aspectRatio": 0.69845474,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel takes a point in difficult circumstances ",
-      "publishDate": "2021-12-19T17:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/19/tuchel-reacts-to-wolves-draw.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-19T17:14:00.000Z",
-      "description": "Thomas Tuchel was impressed with the performance of his players in the second half at Molineux today and did not bracket the points dropped in the same category as those lost in recent draws with Burnley, Manchester United and Everton because of the opposition's defensive quality and the issues affecting his squad.",
-      "matchId": 2210450
     }
   ]
 }
