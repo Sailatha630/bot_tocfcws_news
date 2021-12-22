@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211222tuchel-reacts-to-brentford-leagu",
+      "type": "NewsCard",
+      "timestamp": "2021-12-22T22:30:00.000Z",
+      "orderDate": "2021-12-22T22:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/22/tuchel-reacts-to-brentford-league-cup-win",
+        "type": "NewsCard",
+        "title": "Tuchel praises the involvement of youngsters, importance of subs strength and Chelsea’s ‘great mentality’ in cup victory",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/tuchel-reacts-to-brentford-league-cup-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-22T22:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/22/tuchel-reacts-to-brentford-league-cup-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/brentford-away-carabao-cup/Tuchel-claps-fans-Brentford-away",
+          "gravity": "auto",
+          "aspectRatio": 1.519833,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel praises the involvement of youngsters, importance of subs strength and Chelsea’s ‘great mentality’ in cup victory",
+      "publishDate": "2021-12-22T22:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/tuchel-reacts-to-brentford-league-cup-win.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        },
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        }
+      ],
+      "date": "2021-12-22T22:30:00.000Z",
+      "description": "Thomas Tuchel guided his side into a third semi-final under his management with a gritty 2-0 win over Brentford in the League Cup, setting up a two-legged tie against Tottenham in January.",
+      "matchId": 2258261
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211222chelsea-learn-carabao-cup-semi-f",
       "type": "NewsCard",
@@ -483,60 +541,6 @@
       ],
       "date": "2021-12-22T04:30:00.000Z",
       "description": "Thomas Tuchel has made it clear that with Covid limiting the number of players he has available from game to game, he is making selection calls that would normally be against his better judgement, but it is not a case of forcing a player on to the pitch – there is a dialogue.",
-      "matchId": 2258261
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211222blues-bulletin--brentford-vs-che",
-      "type": "NewsCard",
-      "timestamp": "2021-12-22T04:00:00.000Z",
-      "orderDate": "2021-12-22T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/22/blues-bulletin--brentford-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Brentford vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/blues-bulletin--brentford-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-22T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/22/blues-bulletin--brentford-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Werner",
-          "id": "editorial/news/2021/12/22/Werner_Brentford_GettyImages-1346921722",
-          "gravity": "center",
-          "aspectRatio": 1.4998436,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Brentford vs Chelsea",
-      "publishDate": "2021-12-22T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/blues-bulletin--brentford-vs-chelsea.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "Brentford",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brentford"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2021-12-22T04:00:00.000Z",
-      "description": "For the second time this season, we make the short trip across west London to face Brentford, this time in the Carabao Cup. Here's all the statistics you need to know before kick-off...",
       "matchId": 2258261
     }
   ]
