@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211222blues-bulletin--brentford-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2021-12-22T04:00:00.000Z",
+      "orderDate": "2021-12-22T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/22/blues-bulletin--brentford-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Brentford vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/blues-bulletin--brentford-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-22T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/22/blues-bulletin--brentford-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/news/2021/12/22/Werner_Brentford_GettyImages-1346921722",
+          "gravity": "center",
+          "aspectRatio": 1.4998436,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Brentford vs Chelsea",
+      "publishDate": "2021-12-22T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/blues-bulletin--brentford-vs-chelsea.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2021-12-22T04:00:00.000Z",
+      "description": "For the second time this season, we make the short trip across west London to face Brentford, this time in the Carabao Cup. Here's all the statistics you need to know before kick-off...",
+      "matchId": 2258261
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211221gallery-jorginho-kante-and-chalo",
       "type": "NewsCard",
       "timestamp": "2021-12-21T19:00:00.000Z",
@@ -508,60 +562,6 @@
       ],
       "date": "2021-12-21T11:00:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer links to French internationals, and an interview with an ex-player.."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211221man-city-away-ticket-news",
-      "type": "NewsCard",
-      "timestamp": "2021-12-21T15:58:00.000Z",
-      "orderDate": "2021-12-21T02:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/21/man-city-away-ticket-news",
-        "type": "NewsCard",
-        "title": "Man City away ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/21/man-city-away-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-21T15:58:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/21/man-city-away-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Etihad-general-GettyImages-1168601146",
-          "gravity": "auto",
-          "aspectRatio": 1.4997057,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Man City away ticket news",
-      "publishDate": "2021-12-21T15:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/21/man-city-away-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-12-21T15:58:00.000Z",
-      "description": "The selling arrangements for our Premier League match away against Manchester City on Saturday 15 January (kick-off 12.30pm) are as follows:",
-      "matchId": 2210485
     }
   ]
 }
