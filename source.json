@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211222report--brentford-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2021-12-22T21:45:00.000Z",
+      "orderDate": "2021-12-22T21:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/22/report--brentford-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Brentford 0 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/report--brentford-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-22T21:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/22/report--brentford-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Celebrations",
+          "id": "editorial/match-reports/2021-22/brentford-away-carabao-cup/brentford_cup_celebration",
+          "gravity": "faces",
+          "aspectRatio": 1.7309716,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Brentford 0 Chelsea 2",
+      "publishDate": "2021-12-22T21:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/report--brentford-vs-chelsea.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2021-12-22T21:45:00.000Z",
+      "description": "On a night when Chelsea’s Academy took the plaudits again with three debutants in the starting line-up, it was a more wizened graduate who ultimately unlocked the door and sent the Blues into the League Cup semi-finals after a hard-fought win across west London.",
+      "matchId": 2258261
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211222chelsea-line-up-vs-brentford",
       "type": "NewsCard",
@@ -489,59 +543,6 @@
       ],
       "date": "2021-12-22T10:48:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, an interview with an ex-Blues goalkeeper and a report around potential new Covid protocols..."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20211222chelsea-advent-calendar-quiz---d",
-      "type": "NewsCard",
-      "timestamp": "2021-12-22T06:29:00.000Z",
-      "orderDate": "2021-12-22T00:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/22/chelsea-advent-calendar-quiz---day-22",
-        "type": "NewsCard",
-        "title": "Chelsea Advent Calendar Quiz - Day 22",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/chelsea-advent-calendar-quiz---day-22.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-22T06:29:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/22/chelsea-advent-calendar-quiz---day-22",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Gudjohnsen",
-          "id": "editorial/news/2021/12/13/Advent_quiz_22_article",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Advent Calendar Quiz - Day 22",
-      "publishDate": "2021-12-22T06:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/chelsea-advent-calendar-quiz---day-22.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Eidur Gudjohnsen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_eidur-gudjohnsen"
-        },
-        {
-          "title": "Willian",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_willian"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-22T06:29:00.000Z",
-      "description": "We are counting down to Christmas with our own take on a traditional advent calendar, with a new quiz every day, as the focus falls on a pair of players who wore 22."
     }
   ]
 }
