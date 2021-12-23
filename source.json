@@ -104,6 +104,60 @@
       "matchId": 2210463
     },
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211223the-debrief--brentford-vs-chelse",
+      "type": "NewsCard",
+      "timestamp": "2021-12-23T15:26:00.000Z",
+      "orderDate": "2021-12-23T13:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/23/the-debrief--brentford-vs-chelsea",
+        "type": "NewsCard",
+        "title": "The Debrief: Keeping Bees at bay, calming Kova and the part youth played",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/the-debrief--brentford-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-23T15:26:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/23/the-debrief--brentford-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/news/2021/12/23/debrief_brentford_cup_1",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Keeping Bees at bay, calming Kova and the part youth played",
+      "publishDate": "2021-12-23T15:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/the-debrief--brentford-vs-chelsea.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2021-12-23T15:26:00.000Z",
+      "description": "Chelsea maintained our 100 per cent record of reaching cup competition semi-finals under Thomas Tuchel’s management with an away 2-0 London derby victory over Brentford last night, and here we look at factors in a deserved win with an unfamiliar side…",
+      "matchId": 2258261
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20211223chelsea-advent-calendar-quiz---d",
       "type": "NewsCard",
@@ -445,59 +499,6 @@
       "date": "2021-12-22T22:30:00.000Z",
       "description": "Thomas Tuchel guided Chelsea into a third semi-final under his management with a gritty 2-0 win over Brentford in the League Cup, setting up a two-legged tie against Tottenham in January.",
       "matchId": 2258261
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211222chelsea-learn-carabao-cup-semi-f",
-      "type": "NewsCard",
-      "timestamp": "2021-12-22T22:00:00.000Z",
-      "orderDate": "2021-12-22T22:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/22/chelsea-learn-carabao-cup-semi-final-opponents-",
-        "type": "NewsCard",
-        "title": "Chelsea learn Carabao Cup semi-final opponents ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/chelsea-learn-carabao-cup-semi-final-opponents-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-22T22:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/22/chelsea-learn-carabao-cup-semi-final-opponents-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/efl-cup-trophy-carabao-GettyImages-1184458601",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea learn Carabao Cup semi-final opponents ",
-      "publishDate": "2021-12-22T22:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/22/chelsea-learn-carabao-cup-semi-final-opponents-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Brentford",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brentford"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Carabao",
-          "namespace": "content-tag:",
-          "id": "content-tag_Partners_Carabao"
-        }
-      ],
-      "date": "2021-12-22T22:00:00.000Z",
-      "description": "Chelsea have been drawn to face Tottenham Hotspur in the semi-final of the Carabao Cup."
     }
   ]
 }
