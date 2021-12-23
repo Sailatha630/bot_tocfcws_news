@@ -308,50 +308,6 @@
       "description": "Today’s look at the Chelsea-related stories from the media includes a transfer link from La Liga, an interview with a current Blues midfielder and praise for Frenchman from a journalist…"
     },
     {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211223important-information-for-fans-a",
-      "type": "NewsCard",
-      "timestamp": "2021-12-23T13:17:00.000Z",
-      "orderDate": "2021-12-23T00:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/23/important-information-for-fans-attending-game-at-villa",
-        "type": "NewsCard",
-        "title": "Important information for fans attending game at Aston Villa",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/important-information-for-fans-attending-game-at-villa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-23T13:17:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/23/important-information-for-fans-attending-game-at-villa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Villa Park",
-          "id": "editorial/news/2020/03/villa-park-outside-view",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important information for fans attending game at Aston Villa",
-      "publishDate": "2021-12-23T13:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/important-information-for-fans-attending-game-at-villa.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        }
-      ],
-      "date": "2021-12-23T13:17:00.000Z",
-      "description": "Chelsea supporters aged 18 or over attending Boxing Day’s game at Aston Villa will need to complete a self-declaration form confirming their Covid status ahead of the match.",
-      "matchId": 2210451
-    },
-    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20211222tuchel-reacts-to-brentford-leagu",
       "type": "NewsCard",
@@ -515,6 +471,76 @@
       ],
       "date": "2021-12-22T21:45:00.000Z",
       "description": "On a night when Chelsea’s Academy took the plaudits again with three debutants in the starting line-up, it was a more wizened graduate who ultimately unlocked the door and sent the Blues into the League Cup semi-finals after a hard-fought win across west London.",
+      "matchId": 2258261
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211223watch-highlights-or-full-match-o",
+      "type": "NewsCard",
+      "timestamp": "2021-12-23T01:00:00.000Z",
+      "orderDate": "2021-12-22T18:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/23/watch-highlights-or-full-match-on-demand---chelsea-beating-brent",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea beating Brentford to make cup semi-final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/watch-highlights-or-full-match-on-demand---chelsea-beating-brent.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-23T01:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/23/watch-highlights-or-full-match-on-demand---chelsea-beating-brent",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Brentford 0-2 Chelsea (A) | Carabao Cup Highlights",
+          "videoId": "jSCXwhoM",
+          "bucket": "prod-cfc",
+          "description": "Highlights from our 0-2 win away at Brentford in the Carabao Cup",
+          "duration": 158000,
+          "date": "2021-12-22T23:17:42.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/jSCXwhoM/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/watch-highlights-or-full-match-on-demand---chelsea-beating-brent.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2021/12/23/watch-highlights-or-full-match-on-demand---chelsea-beating-brent?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2021/12/23/watch-highlights-or-full-match-on-demand---chelsea-beating-brent",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from our 0-2 win away at Brentford in the Carabao Cup"
+      },
+      "content": "Watch highlights of Chelsea beating Brentford to make cup semi-final",
+      "publishDate": "2021-12-23T01:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/watch-highlights-or-full-match-on-demand---chelsea-beating-brent.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2021-12-23T01:00:00.000Z",
+      "description": "The Blues are through to the last-four stage of another cup competition and you can catch up with how it was achieved here.",
       "matchId": 2258261
     }
   ]
