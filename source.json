@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211224tottenham-carabao-cup-dates-conf",
+      "type": "NewsCard",
+      "timestamp": "2021-12-24T12:00:00.000Z",
+      "orderDate": "2021-12-24T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/24/tottenham-carabao-cup-dates-confirmed-",
+        "type": "NewsCard",
+        "title": "Tottenham Carabao Cup dates confirmed ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/24/tottenham-carabao-cup-dates-confirmed-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-24T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/24/tottenham-carabao-cup-dates-confirmed-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Spurs away Kante",
+          "id": "editorial/match-reports/2021-22/tottenham-away/spurs_away_kante",
+          "gravity": "auto",
+          "aspectRatio": 1.5144459,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tottenham Carabao Cup dates confirmed ",
+      "publishDate": "2021-12-24T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/24/tottenham-carabao-cup-dates-confirmed-.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2021-12-24T12:00:00.000Z",
+      "description": "The dates for both legs of our Carabao Cup semi-final against Tottenham in January have been announced.",
+      "matchId": 2265547
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20211223petr-cech-column--academy-s-silv",
       "type": "NewsCard",
@@ -457,55 +506,6 @@
       "date": "2021-12-23T09:36:00.000Z",
       "description": "Marcos Alonso has been in winning cup quarter-final teams before and after taking part in another when he played the whole of Chelsea’s 2-0 victory over Brentford last night, he paid tribute to those for whom it was a new experience.",
       "matchId": 2258261
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211223tottenham-carabao-cup-home-game-",
-      "type": "NewsCard",
-      "timestamp": "2021-12-23T13:43:00.000Z",
-      "orderDate": "2021-12-23T01:43:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/23/tottenham-carabao-cup-home-game-ticket-news",
-        "type": "NewsCard",
-        "title": "Tottenham Carabao Cup home game ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/tottenham-carabao-cup-home-game-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-23T13:43:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/23/tottenham-carabao-cup-home-game-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Carabao Cup",
-          "id": "editorial/news/2019/9/carabao_cup_trophy",
-          "gravity": "auto",
-          "aspectRatio": 2.2443712,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tottenham Carabao Cup home game ticket news",
-      "publishDate": "2021-12-23T13:43:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/23/tottenham-carabao-cup-home-game-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2021-12-23T13:43:00.000Z",
-      "description": "Ticket selling for the home leg of our Carabao Cup semi-final has commenced with the full details below.",
-      "matchId": 2265547
     }
   ]
 }
