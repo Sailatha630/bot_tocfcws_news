@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211226thomas-tuchel-reaction-to-game-a",
+      "type": "NewsCard",
+      "timestamp": "2021-12-26T20:38:00.000Z",
+      "orderDate": "2021-12-26T20:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/26/thomas-tuchel-reaction-to-game-at-aston-villa",
+        "type": "NewsCard",
+        "title": "Tuchel on half-time chat with Lukaku and two new injured players ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/26/thomas-tuchel-reaction-to-game-at-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-26T20:38:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/26/thomas-tuchel-reaction-to-game-at-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel celebrates goal",
+          "id": "editorial/match-reports/2021-22/villa-away/villa_away_tuchel",
+          "gravity": "auto",
+          "aspectRatio": 1.5981308,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on half-time chat with Lukaku and two new injured players ",
+      "publishDate": "2021-12-26T20:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/26/thomas-tuchel-reaction-to-game-at-aston-villa.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-12-26T20:38:00.000Z",
+      "description": "Having watched his side overcome the obstacle of an own-goal opener at Aston Villa, Thomas Tuchel was able to reflect on plenty that went right after that, including his decision to bring Romelu Lukaku on at half-time.",
+      "matchId": 2210451
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20211226match-report--aston-villa-vs-che",
       "type": "NewsCard",
@@ -472,54 +526,6 @@
       ],
       "date": "2021-12-25T04:00:00.000Z",
       "description": "At the end of a rollercoaster year during which he has won two club trophies, reached two other finals and been named Chelsea Player of the Year, we sat down to reflect on 2021 and talk Christmas in 10 questions with Mason Mount..."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20211225chelsea-advent-calendar-quiz---d",
-      "type": "NewsCard",
-      "timestamp": "2021-12-25T01:00:00.000Z",
-      "orderDate": "2021-12-25T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/25/chelsea-advent-calendar-quiz---day-25",
-        "type": "NewsCard",
-        "title": "Chelsea Advent Calendar Quiz - Day 25",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/25/chelsea-advent-calendar-quiz---day-25.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-25T01:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/25/chelsea-advent-calendar-quiz---day-25",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/12/25/Web-Article-Hero-DEC-25",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Advent Calendar Quiz - Day 25",
-      "publishDate": "2021-12-25T01:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/25/chelsea-advent-calendar-quiz---day-25.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Gianfranco Zola",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_gianfranco-zola0"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-25T01:00:00.000Z",
-      "description": "We have been counting down to Christmas with our own take on a traditional advent calendar, bringing you a new player-based quiz to enjoy every day, and this continues on Christmas Day with a Blues icon who wore the number 25 shirt."
     }
   ]
 }
