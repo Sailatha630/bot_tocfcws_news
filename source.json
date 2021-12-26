@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20211226match-report--aston-villa-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2021-12-26T19:30:00.000Z",
+      "orderDate": "2021-12-26T19:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/26/match-report--aston-villa-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Aston Villa 1 Chelsea 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/26/match-report--aston-villa-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-26T19:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/26/match-report--aston-villa-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/villa-away/Lukaku_celeb_GettyImages-1361092145",
+          "gravity": "auto",
+          "aspectRatio": 1.5001966,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Aston Villa 1 Chelsea 3",
+      "publishDate": "2021-12-26T19:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/26/match-report--aston-villa-vs-chelsea.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Aston Villa",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_aston-villa"
+        }
+      ],
+      "date": "2021-12-26T19:30:00.000Z",
+      "description": "It was Christmas cheer for Chelsea in the Midlands as we came back from going a goal down to take three points and stay in touch with the league leaders, with substitute Romelu Lukaku coming on to score between two Jorginho penalties.",
+      "matchId": 2210451
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211226chelsea-line-up-vs-aston-villa",
       "type": "NewsCard",
@@ -466,43 +520,6 @@
       ],
       "date": "2021-12-25T01:00:00.000Z",
       "description": "We have been counting down to Christmas with our own take on a traditional advent calendar, bringing you a new player-based quiz to enjoy every day, and this continues on Christmas Day with a Blues icon who wore the number 25 shirt."
-    },
-    {
-      "contentType": "Events",
-      "id": "_content_chelseafcennews20211225season-s-greetings-",
-      "type": "NewsCard",
-      "timestamp": "2021-12-25T00:00:00.000Z",
-      "orderDate": "2021-12-25T00:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/25/season-s-greetings-",
-        "type": "NewsCard",
-        "title": "Season's greetings!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/25/season-s-greetings-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-25T00:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/25/season-s-greetings-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Christmas",
-          "id": "editorial/news/2021/12/26/christmas-header",
-          "gravity": "auto",
-          "aspectRatio": 1.7778667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Season's greetings!",
-      "publishDate": "2021-12-25T00:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/25/season-s-greetings-.html",
-      "readTimeInMins": 2,
-      "tags": [],
-      "date": "2021-12-25T00:00:00.000Z",
-      "description": "Everyone at Chelsea Football Club would like to wish a Merry Christmas and a Happy New Year to our fans and partners."
     }
   ]
 }
