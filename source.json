@@ -9,6 +9,60 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20211229pre-match-briefing--chelsea-vs-b",
+      "type": "NewsCard",
+      "timestamp": "2021-12-29T08:13:00.000Z",
+      "orderDate": "2021-12-29T08:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/29/pre-match-briefing--chelsea-vs-brighton",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Brighton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/pre-match-briefing--chelsea-vs-brighton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-29T08:13:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2021/12/29/pre-match-briefing--chelsea-vs-brighton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "West Stand at Christmas",
+          "id": "editorial/news/2021/12/28/west_stand_christmas_2021_b",
+          "gravity": "auto",
+          "aspectRatio": 1.5002823,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Brighton",
+      "publishDate": "2021-12-29T08:13:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/pre-match-briefing--chelsea-vs-brighton.html",
+      "readTimeInMins": 67,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Brighton and Hove Albion",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brighton-and-hove-albion"
+        }
+      ],
+      "date": "2021-12-29T08:13:00.000Z",
+      "description": "A run of four home games in a row starts with a midweek, midwinter fixture. Club historian Rick Glanvill and club statistician Paul Dutton provide the big preview…",
+      "matchId": 2210463
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20211228blues-bulletin--chelsea-vs-brigh",
       "type": "NewsCard",
       "timestamp": "2021-12-29T03:39:00.000Z",
@@ -517,65 +571,6 @@
       ],
       "date": "2021-12-28T09:41:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is TV post-match analysis, a look at the Guardian's list of the world's best and a new transfer link..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20211227lukaku--i-needed-that",
-      "type": "NewsCard",
-      "timestamp": "2021-12-27T15:03:00.000Z",
-      "orderDate": "2021-12-27T15:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/27/lukaku--i-needed-that",
-        "type": "NewsCard",
-        "title": "Lukaku: I needed that!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/27/lukaku--i-needed-that.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-27T15:03:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/27/lukaku--i-needed-that",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lukaku",
-          "id": "editorial/match-reports/2021-22/villa-away/Lukaku_celeb_GettyImages-1237427561",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lukaku: I needed that!",
-      "publishDate": "2021-12-27T15:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/27/lukaku--i-needed-that.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Aston Villa",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_aston-villa"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2021-12-27T15:03:00.000Z",
-      "description": "Romelu Lukaku feels his decisive impact from the bench against Aston Villa was exactly what he required as he returned to action following a frustrating time out with injury and Covid-19.",
-      "matchId": 2210451
     }
   ]
 }
