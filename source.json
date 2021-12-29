@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211229tuchel-s-praise-for-brighton-and",
+      "type": "NewsCard",
+      "timestamp": "2021-12-29T17:00:00.000Z",
+      "orderDate": "2021-12-29T17:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/29/tuchel-s-praise-for-brighton-and--top-coach--potter",
+        "type": "NewsCard",
+        "title": "Tuchel’s praise for Brighton and ‘top coach’ Potter",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tuchel-s-praise-for-brighton-and--top-coach--potter.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-29T17:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/29/tuchel-s-praise-for-brighton-and--top-coach--potter",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/12/17/Tuchel_GettyImages-1237245075",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel’s praise for Brighton and ‘top coach’ Potter",
+      "publishDate": "2021-12-29T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tuchel-s-praise-for-brighton-and--top-coach--potter.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-29T17:00:00.000Z",
+      "description": "Thomas Tuchel has spoken of his admiration for the work Graham Potter has done at Brighton, believing the Seagulls deserve plenty more points for their efforts.",
+      "matchId": 2210463
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211229jorginho-on-a-memorable-year-and",
       "type": "NewsCard",
@@ -477,54 +525,6 @@
       ],
       "date": "2021-12-28T19:37:00.000Z",
       "description": "The final training session before our match against Brighton took place under the lights at Cobham on Tuesday afternoon and there was good news for Thomas Tuchel as Kai Havertz returned to the grass after illness."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211228chilwell-injury-news",
-      "type": "NewsCard",
-      "timestamp": "2021-12-28T16:37:00.000Z",
-      "orderDate": "2021-12-28T16:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/28/chilwell-injury-news",
-        "type": "NewsCard",
-        "title": "Chilwell injury news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/28/chilwell-injury-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-28T16:37:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/28/chilwell-injury-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ben Chilwell",
-          "id": "editorial/news/2021/12/28/chilwell_sq",
-          "gravity": "face",
-          "aspectRatio": 0.99953294,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chilwell injury news",
-      "publishDate": "2021-12-28T16:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/28/chilwell-injury-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-28T16:37:00.000Z",
-      "description": "Chelsea Football Club has today released the following statement about Ben Chilwell…"
     }
   ]
 }
