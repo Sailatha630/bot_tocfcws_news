@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20211229tuchel-reacts-to-brighton-draw",
+      "type": "NewsCard",
+      "timestamp": "2021-12-29T22:30:00.000Z",
+      "orderDate": "2021-12-29T22:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/29/tuchel-reacts-to-brighton-draw",
+        "type": "NewsCard",
+        "title": "Tuchel explains inevitable struggle against Brighton, questions non-penalty decision and disallowed goal, and issues injury update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tuchel-reacts-to-brighton-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-29T22:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/29/tuchel-reacts-to-brighton-draw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/brighton-home/Tuchel-Brighton-h-3",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel explains inevitable struggle against Brighton, questions non-penalty decision and disallowed goal, and issues injury update",
+      "publishDate": "2021-12-29T22:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tuchel-reacts-to-brighton-draw.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Brighton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brighton"
+        }
+      ],
+      "date": "2021-12-29T22:30:00.000Z",
+      "description": "In his analysis of our 1-1 draw with Brighton and Hove Albion, Thomas Tuchel felt his side fought hard in difficult circumstances and were hard done by when two second-half decisions went against us.",
+      "matchId": 2210463
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20211229match-report--chelsea-vs-brighto",
       "type": "NewsCard",
@@ -468,59 +526,6 @@
       "date": "2021-12-29T03:39:00.000Z",
       "description": "The final game of 2021 is nearly upon us and for the build-up we have the best collection of pre-match facts and figures...",
       "matchId": 2210463
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211229media-watch--rodgers-pays-tribut",
-      "type": "NewsCard",
-      "timestamp": "2021-12-29T10:08:00.000Z",
-      "orderDate": "2021-12-29T01:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/29/media-watch--rodgers-pays-tribute-to-hayes-in-touch-of-class--ch",
-        "type": "NewsCard",
-        "title": "Media Watch: Rodgers pays tribute to Hayes in touch of class, Chelsea searching for a left-back and French Covid laws may impact Blues",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/media-watch--rodgers-pays-tribute-to-hayes-in-touch-of-class--ch.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-29T10:08:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/29/media-watch--rodgers-pays-tribute-to-hayes-in-touch-of-class--ch",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/chelsea-2021-media-watch--f2d0bb49-eed6-4b5e-bc30-00c4f84c6952",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Rodgers pays tribute to Hayes in touch of class, Chelsea searching for a left-back and French Covid laws may impact Blues",
-      "publishDate": "2021-12-29T10:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/media-watch--rodgers-pays-tribute-to-hayes-in-touch-of-class--ch.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-29T10:08:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there is strong praise for Chelsea Women boss, more transfer speculation, and new Covid laws impacting the Blues..."
     }
   ]
 }
