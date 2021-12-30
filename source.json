@@ -114,6 +114,54 @@
       "matchId": 2210463
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20211230tottenham-away-carabao-cup-ticke",
+      "type": "NewsCard",
+      "timestamp": "2021-12-30T10:39:00.000Z",
+      "orderDate": "2021-12-29T22:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/30/tottenham-away-carabao-cup-ticket-info",
+        "type": "NewsCard",
+        "title": "Tottenham away Carabao Cup ticket info",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/30/tottenham-away-carabao-cup-ticket-info.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-30T10:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/30/tottenham-away-carabao-cup-ticket-info",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tottenham Stadium",
+          "id": "editorial/match-reports/2021-22/tottenham-away/tottenham_stadium_tunnel",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tottenham away Carabao Cup ticket info",
+      "publishDate": "2021-12-30T10:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/30/tottenham-away-carabao-cup-ticket-info.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-12-30T10:39:00.000Z",
+      "description": "Ticket details for the away leg of our Carabao Cup semi-final against Tottenham have been confirmed."
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20211229match-report--chelsea-vs-brighto",
       "type": "NewsCard",
@@ -481,59 +529,6 @@
       ],
       "date": "2021-12-29T17:03:00.000Z",
       "description": "The latest ticket news for the first leg of our Carabao Cup semi-final against Tottenham..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211229john-terry-to-begin-academy-coac",
-      "type": "NewsCard",
-      "timestamp": "2021-12-29T10:15:00.000Z",
-      "orderDate": "2021-12-29T10:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/29/john-terry-to-begin-academy-coaching-consultancy-role",
-        "type": "NewsCard",
-        "title": "John Terry to begin Academy coaching consultancy role",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/john-terry-to-begin-academy-coaching-consultancy-role.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-29T10:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/29/john-terry-to-begin-academy-coaching-consultancy-role",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " John Terry",
-          "id": "editorial/news/2021/12/29/John_terry_academy_coach",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "John Terry to begin Academy coaching consultancy role",
-      "publishDate": "2021-12-29T10:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/john-terry-to-begin-academy-coaching-consultancy-role.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "John Terry",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-terry"
-        },
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2021-12-29T10:15:00.000Z",
-      "description": "John Terry is returning to Cobham to begin a coaching consultancy role at the Chelsea Academy."
     }
   ]
 }
