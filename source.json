@@ -308,6 +308,54 @@
       "matchId": 2210463
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20211229tottenham-carabao-cup-ticket-new",
+      "type": "NewsCard",
+      "timestamp": "2021-12-30T16:03:00.000Z",
+      "orderDate": "2021-12-30T05:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members",
+        "type": "NewsCard",
+        "title": "Updated Tottenham Carabao Cup home ticket news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-30T16:03:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ticket office",
+          "id": "editorial/news/2019/12/ticket-office-stamford-bridge-view",
+          "gravity": "auto",
+          "aspectRatio": 1.500122,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Updated Tottenham Carabao Cup home ticket news",
+      "publishDate": "2021-12-30T16:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2021-12-30T16:03:00.000Z",
+      "description": "The latest ticket news for the first leg of our Carabao Cup semi-final against Tottenham..."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211230media-watch--guardiola-rates-che",
       "type": "NewsCard",
@@ -449,60 +497,6 @@
       ],
       "date": "2021-12-30T10:39:00.000Z",
       "description": "Ticket details for the away leg of our Carabao Cup semi-final against Tottenham have been confirmed."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20211229match-report--chelsea-vs-brighto",
-      "type": "NewsCard",
-      "timestamp": "2021-12-29T21:34:00.000Z",
-      "orderDate": "2021-12-29T21:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/29/match-report--chelsea-vs-brighton",
-        "type": "NewsCard",
-        "title": "Match Report: Chelsea 1 Brighton 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/match-report--chelsea-vs-brighton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-29T21:34:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/29/match-report--chelsea-vs-brighton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Lukaku scoring",
-          "id": "editorial/match-reports/2021-22/brighton-home/lukaku-goal-brighton-header",
-          "gravity": "north_east",
-          "aspectRatio": 1.4866204,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Chelsea 1 Brighton 1",
-      "publishDate": "2021-12-29T21:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/match-report--chelsea-vs-brighton.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Brighton and Hove Albion",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brighton-and-hove-albion"
-        }
-      ],
-      "date": "2021-12-29T21:34:00.000Z",
-      "description": "A stoppage-time equaliser from Danny Welbeck denied Chelsea the three points after Romelu Lukaku had given us a first-half lead on a frustrating night at Stamford Bridge.",
-      "matchId": 2210463
     }
   ]
 }
