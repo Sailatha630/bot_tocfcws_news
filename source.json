@@ -8,6 +8,43 @@
   },
   "newsFeed": [
     {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20211230chelsea-fc-financial-results",
+      "type": "NewsCard",
+      "timestamp": "2021-12-30T13:15:00.000Z",
+      "orderDate": "2021-12-30T13:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/30/chelsea-fc-financial-results",
+        "type": "NewsCard",
+        "title": "Chelsea FC financial results",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/30/chelsea-fc-financial-results.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-30T13:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/30/chelsea-fc-financial-results",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Club statement",
+          "id": "site-assets/backgrounds/cfc-club-statement-APP",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea FC financial results",
+      "publishDate": "2021-12-30T13:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/30/chelsea-fc-financial-results.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2021-12-30T13:15:00.000Z",
+      "description": "Chelsea FC plc today announced our annual financial results for the year ended 30 June 2021."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20211230mount--it-feels-like-a-defeat",
       "type": "NewsCard",
@@ -482,54 +519,6 @@
       "date": "2021-12-29T17:00:00.000Z",
       "description": "Thomas Tuchel has spoken of his admiration for the work Graham Potter has done at Brighton, believing the Seagulls deserve plenty more points for their efforts.",
       "matchId": 2210463
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20211229jorginho-on-a-memorable-year-and",
-      "type": "NewsCard",
-      "timestamp": "2021-12-29T13:00:00.000Z",
-      "orderDate": "2021-12-29T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/29/jorginho-on-a-memorable-year-and-playing-the-underdog-role",
-        "type": "NewsCard",
-        "title": "Jorginho on a memorable year and playing the underdog role",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/jorginho-on-a-memorable-year-and-playing-the-underdog-role.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-29T13:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/29/jorginho-on-a-memorable-year-and-playing-the-underdog-role",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jorginho",
-          "id": "editorial/news/2021/12/29/jorginho-celebration-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5251799,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho on a memorable year and playing the underdog role",
-      "publishDate": "2021-12-29T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/jorginho-on-a-memorable-year-and-playing-the-underdog-role.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-29T13:00:00.000Z",
-      "description": "The end of the calendar year is naturally a time for reflection, and no Chelsea player can look back on 2021 with as much fondness as Jorginho."
     }
   ]
 }
