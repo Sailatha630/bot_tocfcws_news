@@ -56,6 +56,43 @@
       "matchId": 2210463
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20211230media-watch--guardiola-rates-che",
+      "type": "NewsCard",
+      "timestamp": "2021-12-30T11:59:00.000Z",
+      "orderDate": "2021-12-30T00:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/30/media-watch--guardiola-rates-chelsea-s-title-chances-and-blues-l",
+        "type": "NewsCard",
+        "title": "Media Watch: Guardiola rates Chelsea’s title chances and Blues linked with AC Milan left-back as Emerson recall denied",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/30/media-watch--guardiola-rates-chelsea-s-title-chances-and-blues-l.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-30T11:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2021/12/30/media-watch--guardiola-rates-chelsea-s-title-chances-and-blues-l",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Media Watch",
+          "id": "editorial/news/2021/12/30/mw-guardiola",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Guardiola rates Chelsea’s title chances and Blues linked with AC Milan left-back as Emerson recall denied",
+      "publishDate": "2021-12-30T11:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/30/media-watch--guardiola-rates-chelsea-s-title-chances-and-blues-l.html",
+      "readTimeInMins": 9,
+      "tags": [],
+      "date": "2021-12-30T11:59:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, Pep Guardiola explains why the Blues can still win the league and the hunt for a left-back continues apace…"
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20211229tuchel-reacts-to-brighton-draw",
       "type": "NewsCard",
@@ -481,54 +518,6 @@
       ],
       "date": "2021-12-29T12:00:00.000Z",
       "description": "Thomas Tuchel believes the Premier League needs to re-introduce the five-substitutions rule which was originally used at the beginning of the pandemic and currently in the Carabao Cup."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211229tottenham-carabao-cup-ticket-new",
-      "type": "NewsCard",
-      "timestamp": "2021-12-29T17:03:00.000Z",
-      "orderDate": "2021-12-29T11:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members",
-        "type": "NewsCard",
-        "title": "Tottenham Carabao Cup ticket news for members",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-29T17:03:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ticket office",
-          "id": "editorial/news/2019/12/ticket-office-stamford-bridge-view",
-          "gravity": "auto",
-          "aspectRatio": 1.500122,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tottenham Carabao Cup ticket news for members",
-      "publishDate": "2021-12-29T17:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-12-29T17:03:00.000Z",
-      "description": "The latest ticket news for the first leg of our Carabao Cup semi-final against Tottenham..."
     }
   ]
 }
