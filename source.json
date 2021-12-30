@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20211230azpilicueta-s-take-on-a-frustrat",
+      "type": "NewsCard",
+      "timestamp": "2021-12-30T06:00:00.000Z",
+      "orderDate": "2021-12-30T06:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2021/12/30/azpilicueta-s-take-on-a-frustrating-night-at-the-bridge",
+        "type": "NewsCard",
+        "title": "Azpilicueta's take on a frustrating night at the Bridge",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/30/azpilicueta-s-take-on-a-frustrating-night-at-the-bridge.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2021-12-30T06:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2021/12/30/azpilicueta-s-take-on-a-frustrating-night-at-the-bridge",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Azpi-GettyImages-1361793288",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Azpilicueta's take on a frustrating night at the Bridge",
+      "publishDate": "2021-12-30T06:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/30/azpilicueta-s-take-on-a-frustrating-night-at-the-bridge.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2021-12-30T06:00:00.000Z",
+      "description": "Chelsea captain Cesar Azpilicueta has admitted the side's frustration and disappointment at dropping two more points at home to Brighton.",
+      "matchId": 2210463
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20211229watch-highlights-of-chelsea-s-dr",
       "type": "NewsCard",
@@ -486,60 +534,6 @@
       ],
       "date": "2021-12-29T10:15:00.000Z",
       "description": "John Terry is returning to Cobham to begin a coaching consultancy role at the Chelsea Academy."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20211229pre-match-briefing--chelsea-vs-b",
-      "type": "NewsCard",
-      "timestamp": "2021-12-29T08:13:00.000Z",
-      "orderDate": "2021-12-29T08:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/29/pre-match-briefing--chelsea-vs-brighton",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Brighton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/pre-match-briefing--chelsea-vs-brighton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-29T08:13:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2021/12/29/pre-match-briefing--chelsea-vs-brighton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "West Stand at Christmas",
-          "id": "editorial/news/2021/12/28/west_stand_christmas_2021_b",
-          "gravity": "auto",
-          "aspectRatio": 1.5002823,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Brighton",
-      "publishDate": "2021-12-29T08:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/pre-match-briefing--chelsea-vs-brighton.html",
-      "readTimeInMins": 67,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Brighton and Hove Albion",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brighton-and-hove-albion"
-        }
-      ],
-      "date": "2021-12-29T08:13:00.000Z",
-      "description": "A run of four home games in a row starts with a midweek, midwinter fixture. Club historian Rick Glanvill and club statistician Paul Dutton provide the big preview…",
-      "matchId": 2210463
     }
   ]
 }
