@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 222,
+    "totalItems": 223,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 23,
@@ -272,6 +272,65 @@
       "description": "Gustavo Poyet, one of the best midfielder goalscorers in Chelsea history, returns to Stamford Bridge tomorrow as a special guest on the Matchday Live show, which can be viewed on The 5th Stand app and chelseafc.com."
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220122under-18s-report--arsenal-chelse",
+      "type": "NewsCard",
+      "timestamp": "2022-01-22T15:00:00.000Z",
+      "orderDate": "2022-01-22T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/22/under-18s-report--arsenal-chelsea-",
+        "type": "NewsCard",
+        "title": "Under-18s Report: Arsenal 4 Chelsea 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/under-18s-report--arsenal-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-22T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/22/under-18s-report--arsenal-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Luke Badley-Morgan with a header against Arsenal",
+          "id": "editorial/match-reports/2021-22/arsenal-away-u18s/Under18s-PL-Luke-Badley-Morgan-goes-close-with-header",
+          "gravity": "auto",
+          "aspectRatio": 1.0309278,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s Report: Arsenal 4 Chelsea 0",
+      "publishDate": "2022-01-22T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/under-18s-report--arsenal-chelsea-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "U18 - Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_u18-premier-league"
+        }
+      ],
+      "date": "2022-01-22T15:00:00.000Z",
+      "description": "Our Under-18s suffered a heavy loss at the hands of Arsenal on Saturday morning, a result that means we surrender top spot in the Under-18s Premier League."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220122brighton---hove-albion-women-v-c",
       "type": "NewsCard",
@@ -463,65 +522,6 @@
       ],
       "date": "2022-01-21T18:00:00.000Z",
       "description": "Chelsea players were back at Cobham this morning after a much needed two days rest after the draw with Brighton on Tuesday night.",
-      "matchId": 2210493
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220121tuchel-chelsea-injury-update-ahe",
-      "type": "NewsCard",
-      "timestamp": "2022-01-21T14:05:00.000Z",
-      "orderDate": "2022-01-21T14:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/21/tuchel-chelsea-injury-update-ahead-of-tottenham",
-        "type": "NewsCard",
-        "title": "Two Chelsea defenders return to training after injury",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/21/tuchel-chelsea-injury-update-ahead-of-tottenham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-21T14:05:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/21/tuchel-chelsea-injury-update-ahead-of-tottenham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Trevoh Chalobah",
-          "id": "editorial/news/2022/01/21/chalobah-training-cobham-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Two Chelsea defenders return to training after injury",
-      "publishDate": "2022-01-21T14:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/21/tuchel-chelsea-injury-update-ahead-of-tottenham.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Trevoh Chalobah",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_trevor-chalobah"
-        }
-      ],
-      "date": "2022-01-21T14:05:00.000Z",
-      "description": "Thomas Tuchel has been boosted by the news Trevoh Chalobah and Reece James are back out on the grass as they continue their recovery from injury, but the boss won’t have any fresh faces available to him for Sunday’s game against Tottenham.",
       "matchId": 2210493
     }
   ]
