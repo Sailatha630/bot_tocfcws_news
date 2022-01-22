@@ -1,99 +1,364 @@
 {
   "pagination": {
-    "totalItems": 1000,
+    "totalItems": 221,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 100,
+    "pageCount": 23,
     "startFrom": 0
   },
   "newsFeed": [
     {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211231emma-hayes-awarded-obe-in-the-qu",
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220122pre-match-briefing--chelsea-vs-t",
       "type": "NewsCard",
-      "timestamp": "2021-12-31T22:30:00.000Z",
-      "orderDate": "2021-12-31T22:30:00.000Z",
+      "timestamp": "2022-01-22T04:00:00.000Z",
+      "orderDate": "2022-01-22T04:00:00.000Z",
       "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/emma-hayes-awarded-obe-in-the-queen-s-new-year-s-honours",
+        "path": "/content/chelseafc/en/news/2022/01/22/pre-match-briefing--chelsea-vs-tottenham",
         "type": "NewsCard",
-        "title": "Emma Hayes awarded OBE in the Queen’s New Year’s Honours",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/emma-hayes-awarded-obe-in-the-queen-s-new-year-s-honours.html",
+        "title": "Pre-Match Briefing: Chelsea vs Tottenham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/pre-match-briefing--chelsea-vs-tottenham.html",
         "external": true,
         "target": "sameWindow",
         "categories": [],
-        "timestamp": "2021-12-31T22:30:00.000Z"
+        "timestamp": "2022-01-22T04:00:00.000Z"
       },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/emma-hayes-awarded-obe-in-the-queen-s-new-year-s-honours",
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/01/22/pre-match-briefing--chelsea-vs-tottenham",
       "media": {
         "type": "image-component",
         "image": {
           "type": "ImageCloudinary",
           "alt": " ",
-          "id": "editorial/women's-team/Emma_Hayes_FA_Cup",
+          "id": "editorial/news/2022/01/21/werner_tottenham_cup",
           "gravity": "auto",
-          "aspectRatio": 1.5597898,
+          "aspectRatio": 1.5,
           "cropMode": "fill"
         }
       },
-      "content": "Emma Hayes awarded OBE in the Queen’s New Year’s Honours",
-      "publishDate": "2021-12-31T22:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/emma-hayes-awarded-obe-in-the-queen-s-new-year-s-honours.html",
+      "content": "Pre-Match Briefing: Chelsea vs Tottenham",
+      "publishDate": "2022-01-22T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/pre-match-briefing--chelsea-vs-tottenham.html",
+      "readTimeInMins": 69,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-01-22T04:00:00.000Z",
+      "description": "A busy January of fixtures comes to an end a little early with this weekend’s game. Club historian Rick Glanvill and club statistician Paul Dutton take a look at a familiar London derby…",
+      "matchId": 2210493
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220122tuchel--the-need-for-our-break-a",
+      "type": "NewsCard",
+      "timestamp": "2022-01-22T04:00:00.000Z",
+      "orderDate": "2022-01-22T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/22/tuchel--the-need-for-our-break-and-the-vaccination-question-",
+        "type": "NewsCard",
+        "title": "Tuchel: The need for our break and the vaccination question ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/tuchel--the-need-for-our-break-and-the-vaccination-question-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-22T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/22/tuchel--the-need-for-our-break-and-the-vaccination-question-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/match-reports/2021-22/brighton-a/Tuchel_GettyImages-1365463876",
+          "gravity": "auto",
+          "aspectRatio": 1.4757726,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: The need for our break and the vaccination question ",
+      "publishDate": "2022-01-22T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/tuchel--the-need-for-our-break-and-the-vaccination-question-.html",
       "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-01-22T04:00:00.000Z",
+      "description": "Thomas Tuchel was able to give his players a rare two consecutive days off this week but he says that alone will not ensure a refreshed challenge in our next Premier League game this weekend.",
+      "matchId": 2210493
+    },
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220122poyet---at-this-moment--you-real",
+      "type": "NewsCard",
+      "timestamp": "2022-01-22T10:39:00.000Z",
+      "orderDate": "2022-01-22T02:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/22/poyet---at-this-moment--you-realise-how-happy-football-can-make-",
+        "type": "NewsCard",
+        "title": "Poyet: ‘At this moment, you realise how happy football can make the fans’",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/poyet---at-this-moment--you-realise-how-happy-football-can-make-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-22T10:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/22/poyet---at-this-moment--you-realise-how-happy-football-can-make-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Celebrations for Gustavo Poyet goal",
+          "id": "cfc/Asian_websites/chelsea-manu-1999-001",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Poyet: ‘At this moment, you realise how happy football can make the fans’",
+      "publishDate": "2022-01-22T10:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/poyet---at-this-moment--you-realise-how-happy-football-can-make-.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Gustavo Poyet",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_gustavo-poyet"
+        }
+      ],
+      "date": "2022-01-22T10:39:00.000Z",
+      "description": "Gustavo Poyet, one of the best midfielder goalscorers in Chelsea history, returns to Stamford Bridge tomorrow as a special guest on the Matchday Live show, which can be viewed on The 5th Stand app and chelseafc.com."
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220122brighton---hove-albion-women-v-c",
+      "type": "NewsCard",
+      "timestamp": "2022-01-22T04:00:00.000Z",
+      "orderDate": "2022-01-22T00:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/22/brighton---hove-albion-women-v-chelsea-women--kick-off-time--how",
+        "type": "NewsCard",
+        "title": "Brighton & Hove Albion Women vs Chelsea Women: Kick-off time, how to watch live and much more!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/brighton---hove-albion-women-v-chelsea-women--kick-off-time--how.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-22T04:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/22/brighton---hove-albion-women-v-chelsea-women--kick-off-time--how",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/England_celebration_Brighton",
+          "gravity": "north_west",
+          "aspectRatio": 1.5022534,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Brighton & Hove Albion Women vs Chelsea Women: Kick-off time, how to watch live and much more!",
+      "publishDate": "2022-01-22T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/brighton---hove-albion-women-v-chelsea-women--kick-off-time--how.html",
+      "readTimeInMins": 10,
       "tags": [
         {
           "title": "Women",
           "namespace": "content-tag:",
           "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
         }
       ],
-      "date": "2021-12-31T22:30:00.000Z",
-      "description": "Chelsea Women manager Emma Hayes has been awarded an OBE in the Queen’s New Year’s Honours."
+      "date": "2022-01-22T04:00:00.000Z",
+      "description": "Following our Continental Tyres League Cup victory on Wednesday, Chelsea FC Women are back in Barclays FA Women’s Super League action on Sunday when we travel to the People’s Pension Stadium to take on Brighton & Hove Albion.",
+      "matchId": 2236389
     },
     {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211231tuchel-on-possibility-of-emerson",
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220122teenage-kicks--louis-flower-and-",
       "type": "NewsCard",
-      "timestamp": "2021-12-31T22:30:00.000Z",
-      "orderDate": "2021-12-31T22:20:00.000Z",
+      "timestamp": "2022-01-22T06:57:00.000Z",
+      "orderDate": "2022-01-22T00:07:00.000Z",
       "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/tuchel-on-possibility-of-emerson-recall--centre-back-fitness-and",
+        "path": "/content/chelseafc/en/news/2022/01/22/teenage-kicks--louis-flower-and-richard-olise",
         "type": "NewsCard",
-        "title": "Tuchel on possibility of Emerson recall, centre-back fitness and Werner’s recovery",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/tuchel-on-possibility-of-emerson-recall--centre-back-fitness-and.html",
+        "title": "Teenage Kicks: Louis Flower and Richard Olise",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/teenage-kicks--louis-flower-and-richard-olise.html",
         "external": true,
         "target": "sameWindow",
         "categories": [],
-        "timestamp": "2021-12-31T22:30:00.000Z"
+        "timestamp": "2022-01-22T06:57:00.000Z"
       },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/tuchel-on-possibility-of-emerson-recall--centre-back-fitness-and",
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/22/teenage-kicks--louis-flower-and-richard-olise",
       "media": {
         "type": "image-component",
         "image": {
           "type": "ImageCloudinary",
-          "alt": " Tuchel and Emerson",
-          "id": "editorial/news/2021/12/31/Tuchel-Emerson",
-          "gravity": "auto",
-          "aspectRatio": 1.529052,
+          "alt": "Richard Olise and Louis Flower",
+          "id": "editorial/news/2022/01/22/Flower-Olise-U18s-stock",
+          "gravity": "north",
+          "aspectRatio": 1.50015,
           "cropMode": "fill"
         }
       },
-      "content": "Tuchel on possibility of Emerson recall, centre-back fitness and Werner’s recovery",
-      "publishDate": "2021-12-31T22:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/tuchel-on-possibility-of-emerson-recall--centre-back-fitness-and.html",
-      "readTimeInMins": 10,
+      "content": "Teenage Kicks: Louis Flower and Richard Olise",
+      "publishDate": "2022-01-22T06:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/teenage-kicks--louis-flower-and-richard-olise.html",
+      "readTimeInMins": 9,
       "tags": [
         {
-          "title": "Timo Werner",
+          "title": "Academy",
           "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
+          "id": "content-tag_team_academy"
         },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2022-01-22T06:57:00.000Z",
+      "description": "In the latest instalment of our player interview series where we take a deeper dive into finding out more about our young players in the Academy, we speak with Louis Flower and Richard Olise, who provide insight into who their idols were growing up, as well as what they watch in their spare time..."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220119join-mason-mount-live-from-cobha",
+      "type": "NewsCard",
+      "timestamp": "2022-01-22T11:26:00.000Z",
+      "orderDate": "2022-01-22T00:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/19/join-mason-mount-live-from-cobham-on-friday-",
+        "type": "NewsCard",
+        "title": "Join Mason Mount live from Cobham on Saturday!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/19/join-mason-mount-live-from-cobham-on-friday-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-22T11:26:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/19/join-mason-mount-live-from-cobham-on-friday-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/LIVE-FROM_Web_Hero_2870x1300",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Join Mason Mount live from Cobham on Saturday!",
+      "publishDate": "2022-01-22T11:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/19/join-mason-mount-live-from-cobham-on-friday-.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2022-01-22T11:26:00.000Z",
+      "description": "Here's your chance to exclusively join Mason Mount as he takes you behind the scenes at Chelsea’s Cobham training ground!"
+    },
+    {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20220113stadium-bans-will-be-issued-for-",
+      "type": "NewsCard",
+      "timestamp": "2022-01-22T08:41:00.000Z",
+      "orderDate": "2022-01-22T00:03:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/13/stadium-bans-will-be-issued-for-pitch-incursions--including-to-a",
+        "type": "NewsCard",
+        "title": "Tuchel appeals for fans to support from the stands and stay off the pitch",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/13/stadium-bans-will-be-issued-for-pitch-incursions--including-to-a.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-22T08:41:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/13/stadium-bans-will-be-issued-for-pitch-incursions--including-to-a",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/news/2022/01/22/tuchel_interview",
+          "gravity": "auto",
+          "aspectRatio": 1.773585,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel appeals for fans to support from the stands and stay off the pitch",
+      "publishDate": "2022-01-22T08:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/13/stadium-bans-will-be-issued-for-pitch-incursions--including-to-a.html",
+      "readTimeInMins": 6,
+      "tags": [],
+      "date": "2022-01-22T08:41:00.000Z",
+      "description": "Chelsea Football Club wishes to remind supporters that encroaching onto the pitch before, during or after matches is a criminal act and can result in serious punishment for the club, fans and, in the case of minors, their parents or guardians.",
+      "matchId": 2210493
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220121gallery--blues-prepare-for-totte",
+      "type": "NewsCard",
+      "timestamp": "2022-01-21T18:00:00.000Z",
+      "orderDate": "2022-01-21T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/21/gallery--blues-prepare-for-tottenham-",
+        "type": "NewsCard",
+        "title": "Gallery: Blues prepare for Tottenham ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/21/gallery--blues-prepare-for-tottenham-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-21T18:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/21/gallery--blues-prepare-for-tottenham-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Chalobah-training-DTW_1354",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Blues prepare for Tottenham ",
+      "publishDate": "2022-01-21T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/21/gallery--blues-prepare-for-tottenham-.html",
+      "readTimeInMins": 12,
+      "tags": [
         {
           "title": "Andreas Christensen",
           "namespace": "content-tag:",
@@ -105,69 +370,59 @@
           "id": "content-tag_person_manager_thomas-tuchel"
         },
         {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
           "title": "Men",
           "namespace": "content-tag:",
           "id": "content-tag_team_men"
         },
         {
-          "title": "Thiago Silva",
+          "title": "Trevoh Chalobah",
           "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
+          "id": "content-tag_person_player_trevor-chalobah"
         }
       ],
-      "date": "2021-12-31T22:30:00.000Z",
-      "description": "After confirming that Ben Chilwell would likely miss the remainder of the season following knee surgery earlier this week, Thomas Tuchel offered an insight into how the Blues were considering dealing with a wing-back shortage.",
-      "matchId": 2210473
+      "date": "2022-01-21T18:00:00.000Z",
+      "description": "Chelsea players were back at Cobham this morning after a much needed two days rest after the draw with Brighton on Tuesday night.",
+      "matchId": 2210493
     },
     {
       "contentType": "News",
-      "id": "_content_chelseafcennews20211231-why-should-we-stop-in-the-middl",
+      "id": "_content_chelseafcennews20220121tuchel-chelsea-injury-update-ahe",
       "type": "NewsCard",
-      "timestamp": "2021-12-31T13:45:00.000Z",
-      "orderDate": "2021-12-31T13:45:00.000Z",
+      "timestamp": "2022-01-21T14:05:00.000Z",
+      "orderDate": "2022-01-21T14:05:00.000Z",
       "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/-why-should-we-stop-in-the-middle-of-a-race----tuchel-on-recover",
+        "path": "/content/chelseafc/en/news/2022/01/21/tuchel-chelsea-injury-update-ahead-of-tottenham",
         "type": "NewsCard",
-        "title": "‘Why should we stop in the middle of a race?’ – Tuchel on recovering from disappointment and the impact of fans standing",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/-why-should-we-stop-in-the-middle-of-a-race----tuchel-on-recover.html",
+        "title": "Two Chelsea defenders return to training after injury",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/21/tuchel-chelsea-injury-update-ahead-of-tottenham.html",
         "external": true,
         "target": "sameWindow",
         "categories": [],
-        "timestamp": "2021-12-31T13:45:00.000Z"
+        "timestamp": "2022-01-21T14:05:00.000Z"
       },
       "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/-why-should-we-stop-in-the-middle-of-a-race----tuchel-on-recover",
+      "path": "/content/chelseafc/en/news/2022/01/21/tuchel-chelsea-injury-update-ahead-of-tottenham",
       "media": {
         "type": "image-component",
         "image": {
           "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2021/12/31/Tuchel-Liverpool-press-conference",
+          "alt": "Trevoh Chalobah",
+          "id": "editorial/news/2022/01/21/chalobah-training-cobham-stock",
           "gravity": "auto",
           "aspectRatio": 1.5,
           "cropMode": "fill"
         }
       },
-      "content": "‘Why should we stop in the middle of a race?’ – Tuchel on recovering from disappointment and the impact of fans standing",
-      "publishDate": "2021-12-31T13:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/-why-should-we-stop-in-the-middle-of-a-race----tuchel-on-recover.html",
-      "readTimeInMins": 14,
+      "content": "Two Chelsea defenders return to training after injury",
+      "publishDate": "2022-01-21T14:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/21/tuchel-chelsea-injury-update-ahead-of-tottenham.html",
+      "readTimeInMins": 6,
       "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
         {
           "title": "Thomas Tuchel",
           "namespace": "content-tag:",
@@ -177,374 +432,85 @@
           "title": "Men",
           "namespace": "content-tag:",
           "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-31T13:45:00.000Z",
-      "description": "Thomas Tuchel insists now is not the time to give up hope in the title race as Chelsea look to land a significant blow on one of our fellow challengers this weekend.",
-      "matchId": 2210473
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211231february-visit-of-leicester-move",
-      "type": "NewsCard",
-      "timestamp": "2021-12-31T15:30:00.000Z",
-      "orderDate": "2021-12-31T12:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/february-visit-of-leicester-moved-for-tv-broadcast",
-        "type": "NewsCard",
-        "title": "February visit of Leicester moved for TV broadcast",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/february-visit-of-leicester-moved-for-tv-broadcast.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-31T15:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/february-visit-of-leicester-moved-for-tv-broadcast",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/11/18/thiago-silva-leicester",
-          "gravity": "auto",
-          "aspectRatio": 1.3953034,
-          "cropMode": "fill"
-        }
-      },
-      "content": "February visit of Leicester moved for TV broadcast",
-      "publishDate": "2021-12-31T15:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/february-visit-of-leicester-moved-for-tv-broadcast.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        }
-      ],
-      "date": "2021-12-31T15:30:00.000Z",
-      "description": "Chelsea’s home date with Leicester City in February has been pushed back a day in order to be broadcast live by Sky Sports.",
-      "matchId": 2210534
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211231tuchel--lukaku-comments-are-surp",
-      "type": "NewsCard",
-      "timestamp": "2021-12-31T10:00:00.000Z",
-      "orderDate": "2021-12-31T10:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/tuchel--lukaku-comments-are-surprising-and-unhelpful-but-we-won-",
-        "type": "NewsCard",
-        "title": "Tuchel: Lukaku comments are surprising and unhelpful but we won’t overreact ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/tuchel--lukaku-comments-are-surprising-and-unhelpful-but-we-won-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-31T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/tuchel--lukaku-comments-are-surprising-and-unhelpful-but-we-won-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel and Lukaku",
-          "id": "editorial/news/2021/12/31/lukaku-tuchel-training",
-          "gravity": "auto",
-          "aspectRatio": 0.918135,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Lukaku comments are surprising and unhelpful but we won’t overreact ",
-      "publishDate": "2021-12-31T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/tuchel--lukaku-comments-are-surprising-and-unhelpful-but-we-won-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2021-12-31T10:00:00.000Z",
-      "description": "In today’s press conference with Thomas Tuchel ahead of the Liverpool game, most of the questions put to the boss were about Romelu Lukaku’s comments that came to light last night."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211231werner--thiago-silva-and-havertz",
-      "type": "NewsCard",
-      "timestamp": "2021-12-31T13:51:00.000Z",
-      "orderDate": "2021-12-31T09:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/werner--thiago-silva-and-havertz-all-train-ahead-of-liverpool",
-        "type": "NewsCard",
-        "title": "Werner, Thiago Silva and Havertz all train ahead of Liverpool",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/werner--thiago-silva-and-havertz-all-train-ahead-of-liverpool.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-31T13:51:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/werner--thiago-silva-and-havertz-all-train-ahead-of-liverpool",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Werner-DTW_4662",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Werner, Thiago Silva and Havertz all train ahead of Liverpool",
-      "publishDate": "2021-12-31T13:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/werner--thiago-silva-and-havertz-all-train-ahead-of-liverpool.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        }
-      ],
-      "date": "2021-12-31T13:51:00.000Z",
-      "description": "Thomas Tuchel was handed a major boost ahead of Sunday’s Premier League clash with Liverpool by welcoming Thiago Silva and Timo Werner back to full team training, while Kai Havertz was also involved fully as he steps up his recovery from illness.",
-      "matchId": 2210473
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211231flo-leaves-chelsea-as-cech--cudi",
-      "type": "NewsCard",
-      "timestamp": "2021-12-31T14:00:00.000Z",
-      "orderDate": "2021-12-31T09:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/flo-leaves-chelsea-as-cech--cudicini-and-bath-pay-tribute-",
-        "type": "NewsCard",
-        "title": "Flo leaves Chelsea as Cech, Cudicini and Bath pay tribute ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/flo-leaves-chelsea-as-cech--cudicini-and-bath-pay-tribute-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-31T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/flo-leaves-chelsea-as-cech--cudicini-and-bath-pay-tribute-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Tore Andre Flo",
-          "id": "editorial/news/2021/12/31/flo-farewell",
-          "gravity": "auto",
-          "aspectRatio": 0.6655102,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Flo leaves Chelsea as Cech, Cudicini and Bath pay tribute ",
-      "publishDate": "2021-12-31T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/flo-leaves-chelsea-as-cech--cudicini-and-bath-pay-tribute-.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Tore Andre Flo",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_tore-andre-flo"
-        }
-      ],
-      "date": "2021-12-31T14:00:00.000Z",
-      "description": "After more than a decade of service to Chelsea as a player, coach and club ambassador, Tore Andre Flo has left the club to take over at Sogndal in his native Norway."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20211231tuchel-updates-on-james-and-chil",
-      "type": "NewsCard",
-      "timestamp": "2021-12-31T09:21:00.000Z",
-      "orderDate": "2021-12-31T09:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/tuchel-updates-on-james-and-chilwell",
-        "type": "NewsCard",
-        "title": "Tuchel updates on James and Chilwell",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/tuchel-updates-on-james-and-chilwell.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-31T09:21:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/tuchel-updates-on-james-and-chilwell",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/brighton-home/James-injury-Brighton-h",
-          "gravity": "auto",
-          "aspectRatio": 1.594,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel updates on James and Chilwell",
-      "publishDate": "2021-12-31T09:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/tuchel-updates-on-james-and-chilwell.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
         },
         {
           "title": "Reece James",
           "namespace": "content-tag:",
           "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Trevoh Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
         }
       ],
-      "date": "2021-12-31T09:21:00.000Z",
-      "description": "Thomas Tuchel has confirmed that it is likely Ben Chilwell will miss the remainder of the season, while Reece James is a major doubt for Sunday’s clash with Liverpool.",
-      "matchId": 2210473
+      "date": "2022-01-21T14:05:00.000Z",
+      "description": "Thomas Tuchel has been boosted by the news Trevoh Chalobah and Reece James are back out on the grass as they continue their recovery from injury, but the boss won’t have any fresh faces available to him for Sunday’s game against Tottenham.",
+      "matchId": 2210493
     },
     {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20211229tottenham-carabao-cup-ticket-new",
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220121tuchel-on-getting-the-attitude-r",
       "type": "NewsCard",
-      "timestamp": "2021-12-30T16:03:00.000Z",
-      "orderDate": "2021-12-31T05:03:00.000Z",
+      "timestamp": "2022-01-21T13:59:00.000Z",
+      "orderDate": "2022-01-21T13:59:00.000Z",
       "link": {
-        "path": "/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members",
+        "path": "/content/chelseafc/en/news/2022/01/21/tuchel-on-getting-the-attitude-right-against-spurs-after-brighto",
         "type": "NewsCard",
-        "title": "Updated Tottenham Carabao Cup home ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members.html",
+        "title": "Tuchel on getting the attitude right against Spurs after Brighton dip",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/21/tuchel-on-getting-the-attitude-right-against-spurs-after-brighto.html",
         "external": true,
         "target": "sameWindow",
         "categories": [],
-        "timestamp": "2021-12-30T16:03:00.000Z"
+        "timestamp": "2022-01-21T13:59:00.000Z"
       },
       "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members",
+      "path": "/content/chelseafc/en/news/2022/01/21/tuchel-on-getting-the-attitude-right-against-spurs-after-brighto",
       "media": {
         "type": "image-component",
         "image": {
           "type": "ImageCloudinary",
-          "alt": "Ticket office",
-          "id": "editorial/news/2019/12/ticket-office-stamford-bridge-view",
-          "gravity": "auto",
-          "aspectRatio": 1.500122,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Updated Tottenham Carabao Cup home ticket news",
-      "publishDate": "2021-12-30T16:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/29/tottenham-carabao-cup-ticket-news-for-members.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2021-12-30T16:03:00.000Z",
-      "description": "Season ticket holders and members can buy extra tickets now..."
-    },
-    {
-      "contentType": "Columnists",
-      "id": "_content_chelseafcennews20211231december-from-the-stands--giles-",
-      "type": "NewsCard",
-      "timestamp": "2021-12-31T04:00:00.000Z",
-      "orderDate": "2021-12-31T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2021/12/31/december-from-the-stands--giles-smith-on-christmas-miracles-and-",
-        "type": "NewsCard",
-        "title": "December from the Stands: Giles Smith on Christmas miracles and Covid confusion",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/december-from-the-stands--giles-smith-on-christmas-miracles-and-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2021-12-31T04:00:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2021/12/31/december-from-the-stands--giles-smith-on-christmas-miracles-and-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Fans celebrating vs Leeds",
-          "id": "editorial/news/2021/12/31/fans-celebrating-leeds",
-          "gravity": "center",
-          "aspectRatio": 0.748,
-          "cropMode": "fill"
-        }
-      },
-      "content": "December from the Stands: Giles Smith on Christmas miracles and Covid confusion",
-      "publishDate": "2021-12-31T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2021/12/31/december-from-the-stands--giles-smith-on-christmas-miracles-and-.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Giles Smith",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_other-people_giles-smith"
-        },
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Giles",
-        "lastName": "Smith",
-        "description": "Giles Smith has been giving a supporter’s eye view on all matters Chelsea in a weekly column since 2006. A Matthew Harding Stand upper tier season ticket holders, he has been a supporter since 1970 and was briefly the proud sponsor of Gareth Hall's shorts. A former Sports Columnist of the Year, writes for the Times, and has appeared in many British publications and is the author of two books: 'Lost in Music', an autobiographical account of his failure to become a globe-girdling rock star, and 'Midnight In the Garden of Evel Kneivel', a book about sport on television. His column on chelseafc.com will be back for the new season. ",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/blogs-and-columns/giles_smith_profile_080",
+          "alt": "Tuchel",
+          "id": "editorial/news/2022/01/21/Tuchel_GettyImages-1237879654",
           "gravity": "face",
-          "aspectRatio": 1.1660777,
+          "aspectRatio": 1.5,
           "cropMode": "fill"
         }
       },
-      "date": "2021-12-31T04:00:00.000Z",
-      "description": "Chelsea season ticket holder and our supporter columnist Giles Smith reviews the final month of 2021, a fixture-filled and frankly exhausting December when Covid spread, if not much goodwill…"
+      "content": "Tuchel on getting the attitude right against Spurs after Brighton dip",
+      "publishDate": "2022-01-21T13:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/21/tuchel-on-getting-the-attitude-right-against-spurs-after-brighto.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Brighton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brighton"
+        }
+      ],
+      "date": "2022-01-21T13:59:00.000Z",
+      "description": "Thomas Tuchel has identified ensuring his players go into Sunday’s match against Tottenham Hotspur in the correct frame of mind as crucial to securing a third win over our London rivals this month.",
+      "matchId": 2210493
     }
   ]
 }
