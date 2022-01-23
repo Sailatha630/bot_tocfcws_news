@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 230,
+    "totalItems": 231,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 23,
+    "pageCount": 24,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220123match-report--chelsea-tottenham",
+      "type": "NewsCard",
+      "timestamp": "2022-01-23T18:08:00.000Z",
+      "orderDate": "2022-01-23T18:08:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/23/match-report--chelsea-tottenham",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 2 Tottenham 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/match-report--chelsea-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-23T18:08:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/23/match-report--chelsea-tottenham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Celebration",
+          "id": "editorial/match-reports/2021-22/tottenham-home/Celebration_GettyImages-1237935110",
+          "gravity": "south",
+          "aspectRatio": 1.4552501,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 2 Tottenham 0",
+      "publishDate": "2022-01-23T18:08:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/match-report--chelsea-tottenham.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-01-23T18:08:00.000Z",
+      "description": "Chelsea got back to winning ways in the Premier League in the best possible way, with a comfortable and deserved win over London rivals Tottenham Hotspur at Stamford Bridge.",
+      "matchId": 2210493
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220123chelsea-line-up-vs-tottenham",
@@ -506,60 +560,6 @@
       ],
       "date": "2022-01-22T13:00:00.000Z",
       "description": "Mason Mount provides Chelsea fans with a video tour of Cobham!"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220122pre-match-briefing--chelsea-vs-t",
-      "type": "NewsCard",
-      "timestamp": "2022-01-22T04:00:00.000Z",
-      "orderDate": "2022-01-22T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/22/pre-match-briefing--chelsea-vs-tottenham",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Tottenham",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/pre-match-briefing--chelsea-vs-tottenham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-22T04:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/01/22/pre-match-briefing--chelsea-vs-tottenham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/01/21/werner_tottenham_cup",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Tottenham",
-      "publishDate": "2022-01-22T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/pre-match-briefing--chelsea-vs-tottenham.html",
-      "readTimeInMins": 69,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-22T04:00:00.000Z",
-      "description": "A busy January of fixtures comes to an end a little early with this weekend’s game. Club historian Rick Glanvill and club statistician Paul Dutton take a look at a familiar London derby…",
-      "matchId": 2210493
     }
   ]
 }
