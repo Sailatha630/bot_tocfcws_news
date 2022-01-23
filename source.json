@@ -1,12 +1,87 @@
 {
   "pagination": {
-    "totalItems": 232,
+    "totalItems": 233,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 24,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220123watch-highlights-of-chelsea-s-wi",
+      "type": "NewsCard",
+      "timestamp": "2022-01-23T20:30:00.000Z",
+      "orderDate": "2022-01-23T20:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/23/watch-highlights-of-chelsea-s-win-against-tottenham",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea's win against Tottenham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/watch-highlights-of-chelsea-s-win-against-tottenham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-23T20:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/23/watch-highlights-of-chelsea-s-win-against-tottenham",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea 2-0 Tottenham (H) | Premier League Highlights",
+          "videoId": "6zyJW1hw",
+          "bucket": "prod-cfc",
+          "description": "Highlights from our 2-0 win over Tottenham at Stamford Bridge",
+          "duration": 121000,
+          "date": "2022-01-23T19:41:12.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/6zyJW1hw/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/watch-highlights-of-chelsea-s-win-against-tottenham.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/01/23/watch-highlights-of-chelsea-s-win-against-tottenham?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/01/23/watch-highlights-of-chelsea-s-win-against-tottenham",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from our 2-0 win over Tottenham at Stamford Bridge"
+      },
+      "content": "Watch highlights of Chelsea's win against Tottenham",
+      "publishDate": "2022-01-23T20:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/watch-highlights-of-chelsea-s-win-against-tottenham.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        }
+      ],
+      "date": "2022-01-23T20:30:00.000Z",
+      "description": "Our fourth victory of the season against Tottenham was one to savour and you can watch all the highlights now in the video above.",
+      "matchId": 2210493
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220123tuchel-reacts-to-tottenham-win",
@@ -499,60 +574,6 @@
       ],
       "date": "2022-01-22T18:05:00.000Z",
       "description": "As Chelsea prepare for the latest of 19 matches played since the November international break, Thomas Tuchel had admitted that the hectic schedule has taken its toll, as has the team suffering simultaneous injuries to individuals playing the same position.",
-      "matchId": 2210493
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20220122how-rudiger-and-thiago-silva-can",
-      "type": "NewsCard",
-      "timestamp": "2022-01-22T15:00:00.000Z",
-      "orderDate": "2022-01-22T15:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/22/how-rudiger-and-thiago-silva-can-join-an-elite-band-this-weekend",
-        "type": "NewsCard",
-        "title": "How Rudiger and Thiago Silva can join an elite band this weekend",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/how-rudiger-and-thiago-silva-can-join-an-elite-band-this-weekend.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-22T15:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/22/how-rudiger-and-thiago-silva-can-join-an-elite-band-this-weekend",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thiago Silva and Rudiger celebrate",
-          "id": "editorial/news/2022/01/22/rudiger-thiago-silva-tottenham-away",
-          "gravity": "north",
-          "aspectRatio": 0.79567486,
-          "cropMode": "fill"
-        }
-      },
-      "content": "How Rudiger and Thiago Silva can join an elite band this weekend",
-      "publishDate": "2022-01-22T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/how-rudiger-and-thiago-silva-can-join-an-elite-band-this-weekend.html",
-      "readTimeInMins": 21,
-      "tags": [
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2022-01-22T15:00:00.000Z",
-      "description": "After scoring in our 3-0 win at the Tottenham Hotspur Stadium in September, Thiago Silva and Toni Rudiger have the opportunity in Sunday’s return match to do something very few Blues defenders have achieved…",
       "matchId": 2210493
     }
   ]
