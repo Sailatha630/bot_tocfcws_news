@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 226,
+    "totalItems": 227,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 23,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220123tuchel--lukaku-and-kane-will-nev",
+      "type": "NewsCard",
+      "timestamp": "2022-01-23T09:18:00.000Z",
+      "orderDate": "2022-01-23T09:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/23/tuchel--lukaku-and-kane-will-never-lose-goalscoring-knack",
+        "type": "NewsCard",
+        "title": "Tuchel: Lukaku and Kane will never lose goalscoring knack",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/tuchel--lukaku-and-kane-will-never-lose-goalscoring-knack.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-23T09:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/23/tuchel--lukaku-and-kane-will-never-lose-goalscoring-knack",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Romelu Lukaku and Harry Kane",
+          "id": "editorial/news/2022/01/11/Lukaku_Tottenham_GettyImages-1237551946",
+          "gravity": "auto",
+          "aspectRatio": 1.4089118,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Lukaku and Kane will never lose goalscoring knack",
+      "publishDate": "2022-01-23T09:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/tuchel--lukaku-and-kane-will-never-lose-goalscoring-knack.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_romelu-lukaku"
+        }
+      ],
+      "date": "2022-01-23T09:18:00.000Z",
+      "description": "Natural goalscorers will always remain natural goalscorers insists Thomas Tuchel, with two of the most famous centre-forwards in world football set to go head to head at Stamford Bridge today.",
+      "matchId": 2210493
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220123mount--my-year-under-tuchel-and-",
@@ -490,50 +554,6 @@
       ],
       "date": "2022-01-22T15:00:00.000Z",
       "description": "Our Under-18s suffered a heavy loss at the hands of Arsenal on Saturday morning, a result that means we surrender top spot in the Under-18s Premier League."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220122brighton---hove-albion-women-v-c",
-      "type": "NewsCard",
-      "timestamp": "2022-01-22T04:00:00.000Z",
-      "orderDate": "2022-01-22T00:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/22/brighton---hove-albion-women-v-chelsea-women--kick-off-time--how",
-        "type": "NewsCard",
-        "title": "Brighton & Hove Albion Women vs Chelsea Women: Kick-off time, how to watch live and much more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/brighton---hove-albion-women-v-chelsea-women--kick-off-time--how.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-22T04:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/22/brighton---hove-albion-women-v-chelsea-women--kick-off-time--how",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/England_celebration_Brighton",
-          "gravity": "north_west",
-          "aspectRatio": 1.5022534,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Brighton & Hove Albion Women vs Chelsea Women: Kick-off time, how to watch live and much more!",
-      "publishDate": "2022-01-22T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/brighton---hove-albion-women-v-chelsea-women--kick-off-time--how.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-01-22T04:00:00.000Z",
-      "description": "Following our Continental Tyres League Cup victory on Wednesday, Chelsea FC Women are back in Barclays FA Women’s Super League action on Sunday when we travel to the People’s Pension Stadium to take on Brighton & Hove Albion.",
-      "matchId": 2236389
     }
   ]
 }
