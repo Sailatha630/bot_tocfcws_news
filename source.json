@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 244,
+    "totalItems": 245,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 25,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220124pl2-report--chelsea-manchester-c",
+      "type": "NewsCard",
+      "timestamp": "2022-01-24T22:00:00.000Z",
+      "orderDate": "2022-01-24T22:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/24/pl2-report--chelsea-manchester-city",
+        "type": "NewsCard",
+        "title": "PL2 Report: Chelsea 0 Manchester City 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/pl2-report--chelsea-manchester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-24T22:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/24/pl2-report--chelsea-manchester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lewis Hall in action against Mancherster City",
+          "id": "editorial/match-reports/2021-22/manchester-city-home-u23s/Hall-CFCDev-vs-Man-City-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5002143,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 Report: Chelsea 0 Manchester City 1",
+      "publishDate": "2022-01-24T22:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/pl2-report--chelsea-manchester-city.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        }
+      ],
+      "date": "2022-01-24T22:00:00.000Z",
+      "description": "Our development squad were very unlucky to lose 1-0 at the hands of the now top of PL2, Manchester City on Monday evening."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220124thiago-silva--an-enjoyable-match",
@@ -483,59 +542,6 @@
       "date": "2022-01-24T14:00:00.000Z",
       "description": "Chelsea Women will play Manchester United at home in the semi-final of the Continental Cup and details of the fixture have been announced...",
       "matchId": 2272029
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220124media-watch--borna-sosa-of-stutt",
-      "type": "NewsCard",
-      "timestamp": "2022-01-24T09:26:00.000Z",
-      "orderDate": "2022-01-24T01:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/24/media-watch--borna-sosa-of-stuttgart-a-target--ziyech-s-goal-ana",
-        "type": "NewsCard",
-        "title": "Media Watch: Borna Sosa of Stuttgart a target, Ziyech's goal analysed in detail and new Covid cancellation criteria revealed ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/media-watch--borna-sosa-of-stuttgart-a-target--ziyech-s-goal-ana.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-24T09:26:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/24/media-watch--borna-sosa-of-stuttgart-a-target--ziyech-s-goal-ana",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Borna-Sosa-chelsea-2020-play-predictor--a217e9e5-5694-4ed7-a690-97a6ba1c7457",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Borna Sosa of Stuttgart a target, Ziyech's goal analysed in detail and new Covid cancellation criteria revealed ",
-      "publishDate": "2022-01-24T09:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/media-watch--borna-sosa-of-stuttgart-a-target--ziyech-s-goal-ana.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2022-01-24T09:26:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link from Germany, a piece of analysis from TV and a report on Covid cancellation rules..."
     }
   ]
 }
