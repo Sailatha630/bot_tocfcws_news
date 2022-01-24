@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 240,
+    "totalItems": 241,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 24,
+    "pageCount": 25,
     "startFrom": 0
   },
   "newsFeed": [
@@ -129,6 +129,50 @@
       "date": "2022-01-24T12:43:00.000Z",
       "description": "It was a welcome return to winning ways in the Premier League on Sunday and the stats show how we opened up the space to beat Tottenham Hotspur yet again.",
       "matchId": 2210493
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220124millie-bright--we-ll-take-the-po",
+      "type": "NewsCard",
+      "timestamp": "2022-01-24T12:40:00.000Z",
+      "orderDate": "2022-01-24T12:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/24/millie-bright--we-ll-take-the-positives-and-move-forward",
+        "type": "NewsCard",
+        "title": "Millie Bright: We’ll take the positives and move forward",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/millie-bright--we-ll-take-the-positives-and-move-forward.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-24T12:40:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/24/millie-bright--we-ll-take-the-positives-and-move-forward",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Millie_Bright_pre_Brighton",
+          "gravity": "auto",
+          "aspectRatio": 1.4996898,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Millie Bright: We’ll take the positives and move forward",
+      "publishDate": "2022-01-24T12:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/millie-bright--we-ll-take-the-positives-and-move-forward.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-01-24T12:40:00.000Z",
+      "description": "Chelsea FC Women vice-captain Millie Bright says the Blues need to focus on executing our chances and finishing the game following yesterday’s goalless draw against Brighton & Hove Albion in the Barclays FA Women’s Super League.",
+      "matchId": 2236389
     },
     {
       "contentType": "Interview",
@@ -539,60 +583,6 @@
       ],
       "date": "2022-01-23T19:30:00.000Z",
       "description": "Thomas Tuchel rounded off his first year in charge of Chelsea with a most welcome victory against Tottenham, our fourth of the season, and then praised the effort of his players in a tough match.",
-      "matchId": 2210493
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220123match-report--chelsea-tottenham",
-      "type": "NewsCard",
-      "timestamp": "2022-01-23T18:08:00.000Z",
-      "orderDate": "2022-01-23T18:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/23/match-report--chelsea-tottenham",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 2 Tottenham 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/match-report--chelsea-tottenham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-23T18:08:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/23/match-report--chelsea-tottenham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Celebration",
-          "id": "editorial/match-reports/2021-22/tottenham-home/Celebration_GettyImages-1237935110",
-          "gravity": "south",
-          "aspectRatio": 1.4552501,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 2 Tottenham 0",
-      "publishDate": "2022-01-23T18:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/match-report--chelsea-tottenham.html",
-      "readTimeInMins": 20,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-23T18:08:00.000Z",
-      "description": "Chelsea got back to winning ways in the Premier League in the best possible way, with a comfortable and deserved win over London rivals Tottenham Hotspur at Stamford Bridge.",
       "matchId": 2210493
     }
   ]
