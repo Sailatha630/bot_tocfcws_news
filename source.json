@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 237,
+    "totalItems": 239,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 24,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220124thiago-silva--an-enjoyable-match",
+      "type": "NewsCard",
+      "timestamp": "2022-01-24T13:00:00.000Z",
+      "orderDate": "2022-01-24T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/24/thiago-silva--an-enjoyable-match-and-an-incredible-atmosphere",
+        "type": "NewsCard",
+        "title": "Thiago Silva: An enjoyable match and an incredible atmosphere",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/thiago-silva--an-enjoyable-match-and-an-incredible-atmosphere.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-24T13:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/24/thiago-silva--an-enjoyable-match-and-an-incredible-atmosphere",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva",
+          "id": "editorial/news/2022/01/24/thiago-silva-celebration-fans",
+          "gravity": "auto",
+          "aspectRatio": 1.5010309,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thiago Silva: An enjoyable match and an incredible atmosphere",
+      "publishDate": "2022-01-24T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/thiago-silva--an-enjoyable-match-and-an-incredible-atmosphere.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-01-24T13:00:00.000Z",
+      "description": "The Bridge was rocking on Sunday long before Thiago Silva headed in his second goal against Tottenham this season and our second of the game to effectively end a contest the Brazilian relished playing in.",
+      "matchId": 2210493
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220124hudson-odoi-on-remaining-patient",
@@ -59,6 +113,74 @@
       "date": "2022-01-24T07:00:00.000Z",
       "description": "Chelsea winger Callum Hudson-Odoi has put Chelsea’s big win over rivals Tottenham yesterday down to patience and being clinical in front of goal.",
       "matchId": 2210493
+    },
+    {
+      "contentType": "On Loan",
+      "id": "_content_chelseafcennews20220124chelsea-here-chelsea-there--bats",
+      "type": "NewsCard",
+      "timestamp": "2022-01-24T12:20:00.000Z",
+      "orderDate": "2022-01-24T09:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/24/chelsea-here-chelsea-there--batshuayi-scores-again-and-ampadu-as",
+        "type": "NewsCard",
+        "title": "Chelsea Here Chelsea There: Batshuayi scores again and Ampadu assists in Italy",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/chelsea-here-chelsea-there--batshuayi-scores-again-and-ampadu-as.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-24T12:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/24/chelsea-here-chelsea-there--batshuayi-scores-again-and-ampadu-as",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Batshuayi",
+          "id": "editorial/news/2021/10/18/Batshuayi_Besiktas_GettyImages-1235274412",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Here Chelsea There: Batshuayi scores again and Ampadu assists in Italy",
+      "publishDate": "2022-01-24T12:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/chelsea-here-chelsea-there--batshuayi-scores-again-and-ampadu-as.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Loan Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_loan-highlights"
+        },
+        {
+          "title": "Tiemoue Bakayoko",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_tiemoue-bakayoko"
+        },
+        {
+          "title": "Michy Batshuayi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_michy-batshuayi"
+        },
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        },
+        {
+          "title": "Ethan Ampadu",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ethan_ampadu"
+        },
+        {
+          "title": "Armando Broja",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_armando-broja"
+        }
+      ],
+      "date": "2022-01-24T12:20:00.000Z",
+      "description": "In the latest round-up from England and around Europe involving Chelsea players out on loan, there is another goal in Turkey and an assist in Serie A…"
     },
     {
       "contentType": "Match Preview",
@@ -457,109 +579,6 @@
       "date": "2022-01-23T15:09:00.000Z",
       "description": "Thomas Tuchel has made two changes to his side to face Tottenham Hotspur at Stamford Bridge today.",
       "matchId": 2210493
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220123tuchel--i-must-balance-my-emotio",
-      "type": "NewsCard",
-      "timestamp": "2022-01-23T12:00:00.000Z",
-      "orderDate": "2022-01-23T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/23/tuchel--i-must-balance-my-emotions-with-a-cool-head",
-        "type": "NewsCard",
-        "title": "Tuchel: I must balance my emotions with a cool head",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/tuchel--i-must-balance-my-emotions-with-a-cool-head.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-23T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/23/tuchel--i-must-balance-my-emotions-with-a-cool-head",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel at Tottenham away",
-          "id": "editorial/match-reports/2021-22/tottenham-away-league-cup/tuchel-spurs-away",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: I must balance my emotions with a cool head",
-      "publishDate": "2022-01-23T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/tuchel--i-must-balance-my-emotions-with-a-cool-head.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-23T12:00:00.000Z",
-      "description": "Ever since they began occupying opposing technical areas during the recent spate of games between Chelsea and Spurs, comparisons have been made between the energy and actions of Thomas Tuchel and our former boss Antonio Conte as they guide and urge on their respective teams.",
-      "matchId": 2210493
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220123women-s-match-report--brighton-0",
-      "type": "NewsCard",
-      "timestamp": "2022-01-23T14:17:00.000Z",
-      "orderDate": "2022-01-23T11:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/23/women-s-match-report--brighton-0-chelsea-0",
-        "type": "NewsCard",
-        "title": "Women’s match report: Brighton 0 Chelsea 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/women-s-match-report--brighton-0-chelsea-0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-23T14:17:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/23/women-s-match-report--brighton-0-chelsea-0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Pernille_Harder_Brighton",
-          "gravity": "auto",
-          "aspectRatio": 1.5005697,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women’s match report: Brighton 0 Chelsea 0",
-      "publishDate": "2022-01-23T14:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/women-s-match-report--brighton-0-chelsea-0.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-01-23T14:17:00.000Z",
-      "description": "Chelsea FC Women had to settle for a point on the road as Emma Hayes’ side were held to a goalless draw against Brighton & Hove Albion in the Barclays FA Women’s Super League.",
-      "matchId": 2236389
     }
   ]
 }
