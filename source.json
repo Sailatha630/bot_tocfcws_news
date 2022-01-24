@@ -1,12 +1,120 @@
 {
   "pagination": {
-    "totalItems": 233,
+    "totalItems": 235,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 24,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220124hudson-odoi-on-remaining-patient",
+      "type": "NewsCard",
+      "timestamp": "2022-01-24T07:00:00.000Z",
+      "orderDate": "2022-01-24T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/24/hudson-odoi-on-remaining-patient--ziyech-s-stunning-goal-and-the",
+        "type": "NewsCard",
+        "title": "Hudson-Odoi on remaining patient, Ziyech's stunning goal and the demands of our fixture schedule  ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/hudson-odoi-on-remaining-patient--ziyech-s-stunning-goal-and-the.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-24T07:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/24/hudson-odoi-on-remaining-patient--ziyech-s-stunning-goal-and-the",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Hudson-Odoi-GettyImages-1366460790",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hudson-Odoi on remaining patient, Ziyech's stunning goal and the demands of our fixture schedule  ",
+      "publishDate": "2022-01-24T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/hudson-odoi-on-remaining-patient--ziyech-s-stunning-goal-and-the.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        }
+      ],
+      "date": "2022-01-24T07:00:00.000Z",
+      "description": "Chelsea winger Callum Hudson-Odoi has put Chelsea’s big win over rivals Tottenham yesterday down to patience and being clinical in front of goal.",
+      "matchId": 2210493
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220124pl2-preview--joe-haigh-on-work-p",
+      "type": "NewsCard",
+      "timestamp": "2022-01-24T07:00:00.000Z",
+      "orderDate": "2022-01-24T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/24/pl2-preview--joe-haigh-on-work-put-in-by-himself-and-the-team-to",
+        "type": "NewsCard",
+        "title": "PL2 preview: Joe Haigh on work put in to improve; plus news of a defensive recruit",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/pl2-preview--joe-haigh-on-work-put-in-by-himself-and-the-team-to.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-24T07:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/24/pl2-preview--joe-haigh-on-work-put-in-by-himself-and-the-team-to",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Joe Haigh celebrating a goal against Crystal Palace",
+          "id": "editorial/match-reports/2021-22/crystal-palace-away-u23s/PL2-2122-Crystal-Palace-Away-Haigh-celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 preview: Joe Haigh on work put in to improve; plus news of a defensive recruit",
+      "publishDate": "2022-01-24T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/pl2-preview--joe-haigh-on-work-put-in-by-himself-and-the-team-to.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2022-01-24T07:00:00.000Z",
+      "description": "With a huge clash against Manchester City in Premier League 2 this evening, midfielder Joe Haigh spoke with us to highlight team cohesion being at its peak and how he and his team-mates trust that it will bring consistency in positive results...",
+      "matchId": 2237300
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220123watch-highlights-of-chelsea-s-wi",
@@ -467,114 +575,6 @@
       ],
       "date": "2022-01-23T03:08:00.000Z",
       "description": "In a few days’ time, Mason Mount will have been working under Thomas Tuchel’s command for one whole year. Ahead of that anniversary, the England international looks back on those 12 months."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220123kirby--hopefully-we-can-keep-bui",
-      "type": "NewsCard",
-      "timestamp": "2022-01-23T04:00:00.000Z",
-      "orderDate": "2022-01-23T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/23/kirby--hopefully-we-can-keep-building-on-the-win-that-we-got",
-        "type": "NewsCard",
-        "title": "Kirby: Hopefully we can keep building on the win that we got",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/kirby--hopefully-we-can-keep-building-on-the-win-that-we-got.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-23T04:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/23/kirby--hopefully-we-can-keep-building-on-the-win-that-we-got",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/fran_kirby_brighton",
-          "gravity": "auto",
-          "aspectRatio": 1.5001566,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kirby: Hopefully we can keep building on the win that we got",
-      "publishDate": "2022-01-23T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/23/kirby--hopefully-we-can-keep-building-on-the-win-that-we-got.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-01-23T04:00:00.000Z",
-      "description": "Fran Kirby says the team are excited for today’s Barclays FA Women’s Super League clash against Brighton & Hove Albion.",
-      "matchId": 2236389
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220122-it-was-a-bit-too-much----tuchel",
-      "type": "NewsCard",
-      "timestamp": "2022-01-22T18:05:00.000Z",
-      "orderDate": "2022-01-22T18:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/22/-it-was-a-bit-too-much----tuchel-on-chelsea-s-busy-schedule-and-",
-        "type": "NewsCard",
-        "title": "‘It was a bit too much’ – Tuchel on Chelsea’s busy schedule and dealing with coinciding absences ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/-it-was-a-bit-too-much----tuchel-on-chelsea-s-busy-schedule-and-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-22T18:05:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/22/-it-was-a-bit-too-much----tuchel-on-chelsea-s-busy-schedule-and-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2022/01/21/Tuchel-training-pre-Spurs",
-          "gravity": "north",
-          "aspectRatio": 1.1993538,
-          "cropMode": "fill"
-        }
-      },
-      "content": "‘It was a bit too much’ – Tuchel on Chelsea’s busy schedule and dealing with coinciding absences ",
-      "publishDate": "2022-01-22T18:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/22/-it-was-a-bit-too-much----tuchel-on-chelsea-s-busy-schedule-and-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-22T18:05:00.000Z",
-      "description": "As Chelsea prepare for the latest of 19 matches played since the November international break, Thomas Tuchel had admitted that the hectic schedule has taken its toll, as has the team suffering simultaneous injuries to individuals playing the same position.",
-      "matchId": 2210493
     }
   ]
 }
