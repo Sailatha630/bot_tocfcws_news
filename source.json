@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 249,
+    "totalItems": 250,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 25,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220125ziyech-rates-his-spurs-goal-out-",
+      "type": "NewsCard",
+      "timestamp": "2022-01-25T11:49:00.000Z",
+      "orderDate": "2022-01-25T11:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/25/ziyech-rates-his-spurs-goal-out-of-10",
+        "type": "NewsCard",
+        "title": "Ziyech rates his Spurs goal out of 10",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/ziyech-rates-his-spurs-goal-out-of-10.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-25T11:49:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/25/ziyech-rates-his-spurs-goal-out-of-10",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ziyech",
+          "id": "editorial/news/2022/01/24/Ziyech_GettyImages-1366452785",
+          "gravity": "face",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech rates his Spurs goal out of 10",
+      "publishDate": "2022-01-25T11:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/ziyech-rates-his-spurs-goal-out-of-10.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2022-01-25T11:49:00.000Z",
+      "description": "Hakim Ziyech was delighted with his brilliant goal against Tottenham and explained his different celebration from the previous match at Brighton showed what an improved performance we put in to beat Spurs.",
+      "matchId": 2210493
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220125pat-nevin--why-scoring-against-s",
@@ -500,50 +559,6 @@
       ],
       "date": "2022-01-24T17:00:00.000Z",
       "description": "Carly Telford’s stellar Chelsea career comes to an end following five hugely successful years with Emma Hayes’ squad in her second spell at the club."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220124millie-bright--we-ll-take-the-po",
-      "type": "NewsCard",
-      "timestamp": "2022-01-24T12:40:00.000Z",
-      "orderDate": "2022-01-24T12:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/24/millie-bright--we-ll-take-the-positives-and-move-forward",
-        "type": "NewsCard",
-        "title": "Millie Bright: We’ll take the positives and move forward",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/millie-bright--we-ll-take-the-positives-and-move-forward.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-24T12:40:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/24/millie-bright--we-ll-take-the-positives-and-move-forward",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Millie_Bright_pre_Brighton",
-          "gravity": "auto",
-          "aspectRatio": 1.4996898,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Millie Bright: We’ll take the positives and move forward",
-      "publishDate": "2022-01-24T12:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/millie-bright--we-ll-take-the-positives-and-move-forward.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-01-24T12:40:00.000Z",
-      "description": "Chelsea FC Women vice-captain Millie Bright says the Blues need to focus on executing our chances and finishing the game following yesterday’s goalless draw against Brighton & Hove Albion in the Barclays FA Women’s Super League.",
-      "matchId": 2236389
     }
   ]
 }
