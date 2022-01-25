@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 250,
+    "totalItems": 251,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 25,
+    "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
@@ -294,6 +294,65 @@
       "matchId": 2236372
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220125-we-came-back-with-a-better-mind",
+      "type": "NewsCard",
+      "timestamp": "2022-01-25T13:00:00.000Z",
+      "orderDate": "2022-01-25T00:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/25/-we-came-back-with-a-better-mindset-than-before----academy-young",
+        "type": "NewsCard",
+        "title": "‘We came back with a better mindset than before’ - Academy youngsters reflect on Christmas Truce Tournament experience",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/-we-came-back-with-a-better-mindset-than-before----academy-young.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-25T13:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/25/-we-came-back-with-a-better-mindset-than-before----academy-young",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea Academy U12s enjoy Christmas Truce Tournament experience",
+          "videoId": "8l0aoiEn",
+          "bucket": "prod-cfc",
+          "description": "Youngsters tell the story of their weekend learning about First World War sacrifices and the importance of friendship at annual Premier League event.",
+          "duration": 238000,
+          "date": "2022-01-25T12:07:51.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/8l0aoiEn/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/-we-came-back-with-a-better-mindset-than-before----academy-young.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/01/25/-we-came-back-with-a-better-mindset-than-before----academy-young?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/01/25/-we-came-back-with-a-better-mindset-than-before----academy-young",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Youngsters tell the story of their weekend learning about First World War sacrifices and the importance of friendship at annual Premier League event."
+      },
+      "content": "‘We came back with a better mindset than before’ - Academy youngsters reflect on Christmas Truce Tournament experience",
+      "publishDate": "2022-01-25T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/-we-came-back-with-a-better-mindset-than-before----academy-young.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2022-01-25T13:00:00.000Z",
+      "description": "Players from our Academy Under-12 age group tell a story of friendship, sacrifice and gratitude after a weekend commemorating the First World War Christmas truce of 1914..."
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220124pl2-report--chelsea-manchester-c",
       "type": "NewsCard",
@@ -516,49 +575,6 @@
       "date": "2022-01-24T12:43:00.000Z",
       "description": "It was a welcome return to winning ways in the Premier League on Sunday and the stats show how we opened up the space to beat Tottenham Hotspur yet again.",
       "matchId": 2210493
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20220124carly-telford-departs-from-chels",
-      "type": "NewsCard",
-      "timestamp": "2022-01-24T17:00:00.000Z",
-      "orderDate": "2022-01-24T14:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/24/carly-telford-departs-from-chelsea-women",
-        "type": "NewsCard",
-        "title": "Carly Telford departs from Chelsea Women",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/carly-telford-departs-from-chelsea-women.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-24T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/24/carly-telford-departs-from-chelsea-women",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/ChelseaWomen_Talking_Teammates_Telford",
-          "gravity": "auto",
-          "aspectRatio": 1.4526349,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Carly Telford departs from Chelsea Women",
-      "publishDate": "2022-01-24T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/carly-telford-departs-from-chelsea-women.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-01-24T17:00:00.000Z",
-      "description": "Carly Telford’s stellar Chelsea career comes to an end following five hugely successful years with Emma Hayes’ squad in her second spell at the club."
     }
   ]
 }
