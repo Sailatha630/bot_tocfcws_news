@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 253,
+    "totalItems": 254,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220125mendy-into-africa-cup-of-nations",
+      "type": "NewsCard",
+      "timestamp": "2022-01-25T18:14:00.000Z",
+      "orderDate": "2022-01-25T18:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/25/mendy-into-africa-cup-of-nations-quarters",
+        "type": "NewsCard",
+        "title": "Mendy into Africa Cup of Nations quarters",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/mendy-into-africa-cup-of-nations-quarters.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-25T18:14:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/25/mendy-into-africa-cup-of-nations-quarters",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mendy",
+          "id": "editorial/news/2022/01/18/mendy_senegal_malawi",
+          "gravity": "auto",
+          "aspectRatio": 1.4997795,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mendy into Africa Cup of Nations quarters",
+      "publishDate": "2022-01-25T18:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/mendy-into-africa-cup-of-nations-quarters.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2022-01-25T18:14:00.000Z",
+      "description": "Edouard Mendy and Senegal’s Africa Cup of Nations campaign will continue into the last eight following a 2-0 victory over nine-man Cape Verde, with the goalkeeper playing a key role in the game’s turning point with his attacking distribution."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220125ziyech-rates-his-spurs-goal-out-",
@@ -533,60 +581,6 @@
       ],
       "date": "2022-01-24T22:00:00.000Z",
       "description": "Our development squad could count themselves rather unlucky to lose 1-0 at the hands of Manchester City, who now top the Premier League 2 table."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220124thiago-silva--an-enjoyable-match",
-      "type": "NewsCard",
-      "timestamp": "2022-01-24T13:00:00.000Z",
-      "orderDate": "2022-01-24T16:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/24/thiago-silva--an-enjoyable-match-and-an-incredible-atmosphere",
-        "type": "NewsCard",
-        "title": "Thiago Silva: An enjoyable match and an incredible atmosphere",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/thiago-silva--an-enjoyable-match-and-an-incredible-atmosphere.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-24T13:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/24/thiago-silva--an-enjoyable-match-and-an-incredible-atmosphere",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thiago Silva",
-          "id": "editorial/news/2022/01/24/thiago-silva-celebration-fans",
-          "gravity": "auto",
-          "aspectRatio": 1.5010309,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Thiago Silva: An enjoyable match and an incredible atmosphere",
-      "publishDate": "2022-01-24T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/thiago-silva--an-enjoyable-match-and-an-incredible-atmosphere.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-24T13:00:00.000Z",
-      "description": "The Bridge was rocking on Sunday long before Thiago Silva headed in his second goal against Tottenham this season and our second of the game to effectively end a contest the Brazilian relished playing in.",
-      "matchId": 2210493
     }
   ]
 }
