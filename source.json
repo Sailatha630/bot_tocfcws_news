@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 254,
+    "totalItems": 255,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220126a-year-of-thomas-tuchel-at-chels",
+      "type": "NewsCard",
+      "timestamp": "2022-01-26T02:21:00.000Z",
+      "orderDate": "2022-01-26T02:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/26/a-year-of-thomas-tuchel-at-chelsea--the-stats",
+        "type": "NewsCard",
+        "title": "A year of Thomas Tuchel at Chelsea: the stats",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/26/a-year-of-thomas-tuchel-at-chelsea--the-stats.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-26T02:21:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/26/a-year-of-thomas-tuchel-at-chelsea--the-stats",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/news/2022/01/26/tuchel-stock-interview-2122",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "A year of Thomas Tuchel at Chelsea: the stats",
+      "publishDate": "2022-01-26T02:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/26/a-year-of-thomas-tuchel-at-chelsea--the-stats.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        }
+      ],
+      "date": "2022-01-26T02:21:00.000Z",
+      "description": "Today marks a year since Thomas Tuchel was appointed Chelsea head coach, and here we look at the key statistics that showcase just what a fantastic 12 months it’s been."
+    },
     {
       "contentType": "International",
       "id": "_content_chelseafcennews20220125mendy-into-africa-cup-of-nations",
@@ -522,65 +575,6 @@
       ],
       "date": "2022-01-25T13:00:00.000Z",
       "description": "Players from our Academy Under-12 age group tell a story of friendship, sacrifice and gratitude after a weekend commemorating the First World War Christmas truce of 1914..."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220124pl2-report--chelsea-manchester-c",
-      "type": "NewsCard",
-      "timestamp": "2022-01-24T22:00:00.000Z",
-      "orderDate": "2022-01-24T22:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/24/pl2-report--chelsea-manchester-city",
-        "type": "NewsCard",
-        "title": "PL2 Report: Chelsea 0 Manchester City 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/pl2-report--chelsea-manchester-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-24T22:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/24/pl2-report--chelsea-manchester-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lewis Hall in action against Mancherster City",
-          "id": "editorial/match-reports/2021-22/manchester-city-home-u23s/Hall-CFCDev-vs-Man-City-h",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 Report: Chelsea 0 Manchester City 1",
-      "publishDate": "2022-01-24T22:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/24/pl2-report--chelsea-manchester-city.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        }
-      ],
-      "date": "2022-01-24T22:00:00.000Z",
-      "description": "Our development squad could count themselves rather unlucky to lose 1-0 at the hands of Manchester City, who now top the Premier League 2 table."
     }
   ]
 }
