@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 259,
+    "totalItems": 260,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 26,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220126newcastle-game-moved-for-tv",
+      "type": "NewsCard",
+      "timestamp": "2022-01-26T15:47:00.000Z",
+      "orderDate": "2022-01-26T15:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/26/newcastle-game-moved-for-tv",
+        "type": "NewsCard",
+        "title": "Newcastle game moved for TV",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/26/newcastle-game-moved-for-tv.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-26T15:47:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/26/newcastle-game-moved-for-tv",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Newcastle",
+          "id": "editorial/news/2022/01/25/Hudson-Odoi_GettyImages-1350279792",
+          "gravity": "south",
+          "aspectRatio": 1.689096,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Newcastle game moved for TV",
+      "publishDate": "2022-01-26T15:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/26/newcastle-game-moved-for-tv.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2022-01-26T15:47:00.000Z",
+      "description": "Our home Premier League fixture against Newcastle United will now be played a day later after being selected for live television broadcast.",
+      "matchId": 2210554
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220126-being-part-of-a-song-is-crazy--",
@@ -492,73 +546,6 @@
       "date": "2022-01-25T16:47:00.000Z",
       "description": "Chelsea FC Women face West Ham in the Barclays FA Women’s Super League on Wednesday and boss Emma Hayes believes the Blues can keep improving.",
       "matchId": 2236372
-    },
-    {
-      "contentType": "Columnists",
-      "id": "_content_chelseafcennews20220125pat-nevin--why-scoring-against-s",
-      "type": "NewsCard",
-      "timestamp": "2022-01-25T02:24:00.000Z",
-      "orderDate": "2022-01-25T02:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/25/pat-nevin--why-scoring-against-spurs-is-hard-to-top",
-        "type": "NewsCard",
-        "title": "Pat Nevin: Why scoring against Spurs is hard to top",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/pat-nevin--why-scoring-against-spurs-is-hard-to-top.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-25T02:24:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2022/01/25/pat-nevin--why-scoring-against-spurs-is-hard-to-top",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hakim Ziyech vs Tottenham",
-          "id": "editorial/news/2022/01/24/ziyech_goal_tottenham_home",
-          "gravity": "auto",
-          "aspectRatio": 1.482719,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pat Nevin: Why scoring against Spurs is hard to top",
-      "publishDate": "2022-01-25T02:24:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/25/pat-nevin--why-scoring-against-spurs-is-hard-to-top.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        },
-        {
-          "title": "Pat Nevin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_pat-nevin"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Pat",
-        "lastName": "Nevin",
-        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pat Nevin",
-          "id": "editorial/blogs-and-columns/nevin_h_26S",
-          "gravity": "face",
-          "aspectRatio": 0.93399847,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2022-01-25T02:24:00.000Z",
-      "description": "In this week’s column, Chelsea legend Pat Nevin celebrates curled goals against Tottenham past and present and looks into a ‘phenomenal’ performance from one of the players and why he has made a step up…"
     }
   ]
 }
