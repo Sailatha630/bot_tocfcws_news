@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 266,
+    "totalItems": 267,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 27,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220127blues-due-nominated-for-goal-of-",
+      "type": "NewsCard",
+      "timestamp": "2022-01-27T13:00:00.000Z",
+      "orderDate": "2022-01-27T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/27/blues-due-nominated-for-goal-of-the-month",
+        "type": "NewsCard",
+        "title": "Blues duo nominated for Goal of the Month",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/27/blues-due-nominated-for-goal-of-the-month.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-27T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/27/blues-due-nominated-for-goal-of-the-month",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kovacic",
+          "id": "editorial/news/2021/01/02/Kovacic_GettyImages-1362389754",
+          "gravity": "south",
+          "aspectRatio": 1.488,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues duo nominated for Goal of the Month",
+      "publishDate": "2022-01-27T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/27/blues-due-nominated-for-goal-of-the-month.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Awards",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_awards"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2022-01-27T13:00:00.000Z",
+      "description": "Chelsea have not one but two strikes on the shortlist for January Premier League Goal of the Month, with Mateo Kovacic and Hakim Ziyech both in contention to receive the award."
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220127petr-cech-column--the-reasons-be",
@@ -516,49 +579,6 @@
       ],
       "date": "2022-01-26T02:21:00.000Z",
       "description": "Today marks a year since Thomas Tuchel was appointed Chelsea head coach, and here we look at the key statistics that showcase just what a fantastic 12 months it’s been."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220126media-watch--chelsea-linked-with",
-      "type": "NewsCard",
-      "timestamp": "2022-01-26T08:30:00.000Z",
-      "orderDate": "2022-01-26T01:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/26/media-watch--chelsea-linked-with-two-additions-and-ziyech-praise",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea linked with two additions and Ziyech praised by former Tottenham man",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/26/media-watch--chelsea-linked-with-two-additions-and-ziyech-praise.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-26T08:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/26/media-watch--chelsea-linked-with-two-additions-and-ziyech-praise",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Alvarez-MW--f2a909e6",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea linked with two additions and Ziyech praised by former Tottenham man",
-      "publishDate": "2022-01-26T08:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/26/media-watch--chelsea-linked-with-two-additions-and-ziyech-praise.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2022-01-26T08:30:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer links and high praise for one Blue from a former Dutch international…"
     }
   ]
 }
