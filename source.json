@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 272,
+    "totalItems": 273,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 28,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220128lewis-hall-on-his-chelsea-heroes",
+      "type": "NewsCard",
+      "timestamp": "2022-01-28T11:40:00.000Z",
+      "orderDate": "2022-01-28T11:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/28/lewis-hall-on-his-chelsea-heroes-and-which-team-mates-are-helpin",
+        "type": "NewsCard",
+        "title": "Lewis Hall on his Chelsea heroes and which team-mates are helping him in training",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/28/lewis-hall-on-his-chelsea-heroes-and-which-team-mates-are-helpin.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-28T11:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/28/lewis-hall-on-his-chelsea-heroes-and-which-team-mates-are-helpin",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lewis Hall",
+          "id": "editorial/news/2022/01/28/Lewis-Hall-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5009317,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lewis Hall on his Chelsea heroes and which team-mates are helping him in training",
+      "publishDate": "2022-01-28T11:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/28/lewis-hall-on-his-chelsea-heroes-and-which-team-mates-are-helpin.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "U18 - FA Youth Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
+        }
+      ],
+      "date": "2022-01-28T11:40:00.000Z",
+      "description": "Ahead of our FA Youth Cup fifth round tie at Liverpool this weekend, a game being streamed live on Chelsea platforms in the UK, we hear from Lewis Hall about his influences, inspirations and learning from the best..."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220128hudson-odoi-explains-playing-win",
@@ -504,54 +557,6 @@
       "date": "2022-01-27T09:31:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes spoke about substitute impact after the Blues put two past West Ham United in the Barclays FA Women’s Super League yesterday evening.",
       "matchId": 2236372
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220126quiz--how-well-do-you-remember-t",
-      "type": "NewsCard",
-      "timestamp": "2022-01-26T17:05:00.000Z",
-      "orderDate": "2022-01-26T17:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/26/quiz--how-well-do-you-remember-tuchel-s-first-year-",
-        "type": "NewsCard",
-        "title": "Quiz: How well do you remember Tuchel's first year?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/26/quiz--how-well-do-you-remember-tuchel-s-first-year-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-26T17:05:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/26/quiz--how-well-do-you-remember-tuchel-s-first-year-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2022/01/26/Tuchel_GettyImages-1359391721",
-          "gravity": "face",
-          "aspectRatio": 1.5002325,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: How well do you remember Tuchel's first year?",
-      "publishDate": "2022-01-26T17:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/26/quiz--how-well-do-you-remember-tuchel-s-first-year-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-26T17:05:00.000Z",
-      "description": "As we celebrate the anniversary of Thomas Tuchel's arrival as Chelsea head coach, take our quiz and find out how much you know about the German's first year at Stamford Bridge."
     }
   ]
 }
