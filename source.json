@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 273,
+    "totalItems": 274,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 28,
@@ -155,6 +155,53 @@
       ],
       "date": "2022-01-28T09:45:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, managerial vacancy news and also an update on a reported long-term Chelsea target's situation..."
+    },
+    {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20220128tariq-uwakwe-departs-for-crewe",
+      "type": "NewsCard",
+      "timestamp": "2022-01-28T16:00:00.000Z",
+      "orderDate": "2022-01-28T01:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/28/tariq-uwakwe-departs-for-crewe",
+        "type": "NewsCard",
+        "title": "Tariq Uwakwe departs for Crewe",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/28/tariq-uwakwe-departs-for-crewe.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-28T16:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/28/tariq-uwakwe-departs-for-crewe",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/01/28/Uwakwe-stock-2",
+          "gravity": "auto",
+          "aspectRatio": 1.5002143,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tariq Uwakwe departs for Crewe",
+      "publishDate": "2022-01-28T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/28/tariq-uwakwe-departs-for-crewe.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2022-01-28T16:00:00.000Z",
+      "description": "Tariq Uwakwe has today signed for Crewe Alexandra on a permanent deal."
     },
     {
       "contentType": "International",
@@ -503,60 +550,6 @@
       ],
       "date": "2022-01-27T09:42:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, an interview with a Chelsea icon and news regarding a former Blues striker's next club..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220127emma-hayes-pleased-to-get-back-t",
-      "type": "NewsCard",
-      "timestamp": "2022-01-27T09:31:00.000Z",
-      "orderDate": "2022-01-27T00:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/27/emma-hayes-pleased-to-get-back-to-winning-ways",
-        "type": "NewsCard",
-        "title": "Hayes pleased to get back to winning ways",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/27/emma-hayes-pleased-to-get-back-to-winning-ways.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-27T09:31:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/27/emma-hayes-pleased-to-get-back-to-winning-ways",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Emma_Hayes_West_Ham_presser",
-          "gravity": "auto",
-          "aspectRatio": 1.5020994,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes pleased to get back to winning ways",
-      "publishDate": "2022-01-27T09:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/27/emma-hayes-pleased-to-get-back-to-winning-ways.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2022-01-27T09:31:00.000Z",
-      "description": "Chelsea FC Women boss Emma Hayes spoke about substitute impact after the Blues put two past West Ham United in the Barclays FA Women’s Super League yesterday evening.",
-      "matchId": 2236372
     }
   ]
 }
