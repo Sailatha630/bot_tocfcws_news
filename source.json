@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 279,
+    "totalItems": 280,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 28,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220129malang-sarr-s-matchday-rituals",
+      "type": "NewsCard",
+      "timestamp": "2022-01-29T15:00:00.000Z",
+      "orderDate": "2022-01-29T15:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/29/malang-sarr-s-matchday-rituals",
+        "type": "NewsCard",
+        "title": "Malang Sarr’s matchday rituals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/29/malang-sarr-s-matchday-rituals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-29T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/29/malang-sarr-s-matchday-rituals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Malang Sarr",
+          "id": "editorial/news/2022/01/27/malang_sarr_warm-up",
+          "gravity": "auto",
+          "aspectRatio": 1.5780259,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Malang Sarr’s matchday rituals",
+      "publishDate": "2022-01-29T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/29/malang-sarr-s-matchday-rituals.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Malang Sarr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_malang-sarr"
+        }
+      ],
+      "date": "2022-01-29T15:00:00.000Z",
+      "description": "The hours leading up to kick-off are important for any player and from time to time, we check in with one of the Chelsea team to find out how he spends his preparation and any habits or routines he has."
+    },
     {
       "contentType": "History",
       "id": "_content_chelseafcennews20220129now-you-know--watch-and-find-out",
@@ -500,59 +548,6 @@
       ],
       "date": "2022-01-28T16:00:00.000Z",
       "description": "Tariq Uwakwe has today signed for Crewe Alexandra on a permanent deal."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220128internationals--pulisic-captains",
-      "type": "NewsCard",
-      "timestamp": "2022-01-28T10:00:00.000Z",
-      "orderDate": "2022-01-28T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/28/internationals--pulisic-captains-usa-to-victory",
-        "type": "NewsCard",
-        "title": "Internationals: Pulisic captains USA to victory",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/28/internationals--pulisic-captains-usa-to-victory.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-28T10:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/28/internationals--pulisic-captains-usa-to-victory",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Pulisic",
-          "id": "editorial/news/2022/01/28/Pulisic-USA-vs-El-Salvador-1",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Internationals: Pulisic captains USA to victory",
-      "publishDate": "2022-01-28T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/28/internationals--pulisic-captains-usa-to-victory.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2022-01-28T10:00:00.000Z",
-      "description": "One goal was enough for the USA to secure three important World Cup qualifying points as they moved closer to a place at Qatar 2022."
     }
   ]
 }
