@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 281,
+    "totalItems": 282,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 29,
@@ -162,6 +162,70 @@
       ],
       "date": "2022-01-29T12:00:00.000Z",
       "description": "In the first episode of a new Chelsea boxset series where fans can learn more about the club's history in an entertaining and fast-paced way, the story of our greatest goals is told."
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220129fa-youth-cup-report--liverpool-c",
+      "type": "NewsCard",
+      "timestamp": "2022-01-29T20:00:00.000Z",
+      "orderDate": "2022-01-29T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/29/fa-youth-cup-report--liverpool-chelsea",
+        "type": "NewsCard",
+        "title": "FA Youth Cup report: Liverpool 3 Chelsea 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/29/fa-youth-cup-report--liverpool-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-29T20:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/29/fa-youth-cup-report--liverpool-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Team celebrating the win ",
+          "id": "editorial/match-reports/2021-22/liverpool-under-18s-fa-youth-cup/Celebrations-CFCU18-vs-Liverpool",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "FA Youth Cup report: Liverpool 3 Chelsea 4",
+      "publishDate": "2022-01-29T20:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/29/fa-youth-cup-report--liverpool-chelsea.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "U18 - FA Youth Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        }
+      ],
+      "date": "2022-01-29T20:00:00.000Z",
+      "description": "Our young Blues were involved in a seven-goal thriller as we came back from 3-0 down to secure a 4-3 win away from home in the fifth round of the FA Youth Cup."
     },
     {
       "contentType": "Match Preview",
@@ -502,54 +566,6 @@
       ],
       "date": "2022-01-28T03:52:00.000Z",
       "description": "Callum Hudson-Odoi says he will always enjoy the creative freedom of playing in an attacking role, but knows his time playing as a wing-back under Thomas Tuchel has made him a better overall player."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220128media-watch--morata-linked-premi",
-      "type": "NewsCard",
-      "timestamp": "2022-01-28T09:45:00.000Z",
-      "orderDate": "2022-01-28T01:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/28/media-watch--morata-linked-premier-league-lampard-final-talks-kounde-sevilla-monitoring-situati",
-        "type": "NewsCard",
-        "title": "Media Watch: Morata linked to Premier League return, Lampard into final round of talks for Everton job and Blues still keen on Kounde",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/28/media-watch--morata-linked-premier-league-lampard-final-talks-kounde-sevilla-monitoring-situati.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-28T09:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/28/media-watch--morata-linked-premier-league-lampard-final-talks-kounde-sevilla-monitoring-situati",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Morata-MW-28-Jan",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Morata linked to Premier League return, Lampard into final round of talks for Everton job and Blues still keen on Kounde",
-      "publishDate": "2022-01-28T09:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/28/media-watch--morata-linked-premier-league-lampard-final-talks-kounde-sevilla-monitoring-situati.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Frank Lampard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-lampard"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2022-01-28T09:45:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, managerial vacancy news and also an update on a reported long-term Chelsea target's situation..."
     }
   ]
 }
