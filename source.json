@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 288,
+    "totalItems": 289,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 29,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220130tuchel-outlines-plans-for-the-cl",
+      "type": "NewsCard",
+      "timestamp": "2022-01-30T16:00:00.000Z",
+      "orderDate": "2022-01-30T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/30/tuchel-outlines-plans-for-the-club-world-cup",
+        "type": "NewsCard",
+        "title": "Tuchel outlines plans for the Club World Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/tuchel-outlines-plans-for-the-club-world-cup.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-30T16:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/30/tuchel-outlines-plans-for-the-club-world-cup",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "chelsea-app/Tuchel-stock-GettyImages-1364287055",
+          "gravity": "face",
+          "aspectRatio": 1.5594187,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel outlines plans for the Club World Cup",
+      "publishDate": "2022-01-30T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/tuchel-outlines-plans-for-the-club-world-cup.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-01-30T16:00:00.000Z",
+      "description": "Thomas Tuchel has said he will prepare his Chelsea side to give all it takes to win the Club World Cup, a trophy in which the Blues are yet to get our hands on."
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220130the-chelsea-shirt-shuffle-quiz--",
@@ -114,55 +167,6 @@
       "description": "There were two big wins in cup action for our Academy and Women's sides yesterday and you can watch the highlights of both games below now!"
     },
     {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220130hayes-praises--professional--blu",
-      "type": "NewsCard",
-      "timestamp": "2022-01-30T04:00:00.000Z",
-      "orderDate": "2022-01-30T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/30/hayes-praises--professional--blues-performance-after-fa-cup-win",
-        "type": "NewsCard",
-        "title": "Hayes praises ‘professional’ Blues performance after FA Cup win",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/hayes-praises--professional--blues-performance-after-fa-cup-win.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-30T04:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/30/hayes-praises--professional--blues-performance-after-fa-cup-win",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Hayes_post_Villa",
-          "gravity": "auto",
-          "aspectRatio": 1.5030621,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes praises ‘professional’ Blues performance after FA Cup win",
-      "publishDate": "2022-01-30T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/hayes-praises--professional--blues-performance-after-fa-cup-win.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2022-01-30T04:00:00.000Z",
-      "description": "Chelsea FC Women boss Emma Hayes offered her thoughts after yesterday’s Vitality Women’s FA Cup fourth-round win against Aston Villa.",
-      "matchId": 2262038
-    },
-    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220130everything-you-need-to-know-abou",
       "type": "NewsCard",
@@ -214,6 +218,55 @@
       ],
       "date": "2022-01-30T04:00:00.000Z",
       "description": "With the winter transfer window about to close and business set to cease for another five months, here we have all the information you require regarding the January 2022 transfer deadline…"
+    },
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220130hayes-praises--professional--blu",
+      "type": "NewsCard",
+      "timestamp": "2022-01-30T04:00:00.000Z",
+      "orderDate": "2022-01-30T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/30/hayes-praises--professional--blues-performance-after-fa-cup-win",
+        "type": "NewsCard",
+        "title": "Hayes praises ‘professional’ Blues performance after FA Cup win",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/hayes-praises--professional--blues-performance-after-fa-cup-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-30T04:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/30/hayes-praises--professional--blues-performance-after-fa-cup-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Hayes_post_Villa",
+          "gravity": "auto",
+          "aspectRatio": 1.5030621,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hayes praises ‘professional’ Blues performance after FA Cup win",
+      "publishDate": "2022-01-30T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/hayes-praises--professional--blues-performance-after-fa-cup-win.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2022-01-30T04:00:00.000Z",
+      "description": "Chelsea FC Women boss Emma Hayes offered her thoughts after yesterday’s Vitality Women’s FA Cup fourth-round win against Aston Villa.",
+      "matchId": 2262038
     },
     {
       "contentType": "Interview",
@@ -487,65 +540,6 @@
       "date": "2022-01-29T15:30:00.000Z",
       "description": "Chelsea FC Women are through to the fifth round of the Vitality Women’s FA Cup.",
       "matchId": 2262038
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20220129now-you-know--watch-and-find-out",
-      "type": "NewsCard",
-      "timestamp": "2022-01-29T12:00:00.000Z",
-      "orderDate": "2022-01-29T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/29/now-you-know--watch-and-find-out-more-about-chelsea-s-greatest-g",
-        "type": "NewsCard",
-        "title": "Now You Know: Watch and find out more about Chelsea's greatest goals",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/29/now-you-know--watch-and-find-out-more-about-chelsea-s-greatest-g.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-29T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/29/now-you-know--watch-and-find-out-more-about-chelsea-s-greatest-g",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Di Matteo vs 'Boro or Ramires vs Barca?  | Chelsea's Greatest Goals | Ep.1 | Now You Know",
-          "videoId": "SvV1C7Di",
-          "bucket": "prod-cfc",
-          "description": "Everyone remembers a great goal. We've picked some of the greatest we could find from the 8,000+ Chelsea goals scored since 1905. Which is your favourite?",
-          "duration": 324000,
-          "date": "2022-01-28T19:28:07.077Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/SvV1C7Di/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/29/now-you-know--watch-and-find-out-more-about-chelsea-s-greatest-g.page.v3.json",
-          "contentType": "History",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/01/29/now-you-know--watch-and-find-out-more-about-chelsea-s-greatest-g?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2022/01/29/now-you-know--watch-and-find-out-more-about-chelsea-s-greatest-g",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Everyone remembers a great goal. We've picked some of the greatest we could find from the 8,000+ Chelsea goals scored since 1905. Which is your favourite?"
-      },
-      "content": "Now You Know: Watch and find out more about Chelsea's greatest goals",
-      "publishDate": "2022-01-29T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/29/now-you-know--watch-and-find-out-more-about-chelsea-s-greatest-g.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-29T12:00:00.000Z",
-      "description": "In the first episode of a new Chelsea boxset series where fans can learn more about the club's history in an entertaining and fast-paced way, the story of our greatest goals is told."
     }
   ]
 }
