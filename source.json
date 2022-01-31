@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 300,
+    "totalItems": 301,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 30,
+    "pageCount": 31,
     "startFrom": 0
   },
   "newsFeed": [
@@ -169,6 +169,54 @@
       },
       "date": "2022-01-31T12:38:00.000Z",
       "description": "Chelsea season ticket holder and our supporter columnist Giles Smith reviews the first month of 2022, when there was a pleasingly repetitive pattern but draining demands on his team’s players especially…"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220131chelsea-women-s-fa-cup-fifth-rou",
+      "type": "NewsCard",
+      "timestamp": "2022-01-31T19:45:00.000Z",
+      "orderDate": "2022-01-31T12:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/31/chelsea-women-s-fa-cup-fifth-round-draw-made",
+        "type": "NewsCard",
+        "title": "Chelsea Women’s FA Cup fifth round draw made",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/chelsea-women-s-fa-cup-fifth-round-draw-made.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-31T19:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/01/31/chelsea-women-s-fa-cup-fifth-round-draw-made",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Vitality_fa_cup_trophy",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women’s FA Cup fifth round draw made",
+      "publishDate": "2022-01-31T19:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/chelsea-women-s-fa-cup-fifth-round-draw-made.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2022-01-31T19:45:00.000Z",
+      "description": "Chelsea FC Women will play Leicester City at home in the fifth round of the Vitality Women’s FA Cup."
     },
     {
       "contentType": "Chelsea Foundation",
@@ -457,64 +505,6 @@
       ],
       "date": "2022-01-31T10:33:00.000Z",
       "description": "Guro Reiten praised her team-mates following Saturday’s Vitality FA Cup fourth round victory against Aston Villa Women."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220131media-watch--chelsea-register-ra",
-      "type": "NewsCard",
-      "timestamp": "2022-01-31T09:41:00.000Z",
-      "orderDate": "2022-01-31T01:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/31/media-watch--chelsea-register-raphinha-interest--blues-opt-out-d",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea register Raphinha interest, Blues opt out deal for Dembele and asking price for Monaco's Tchouameni revealed ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/media-watch--chelsea-register-raphinha-interest--blues-opt-out-d.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-31T09:41:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/31/media-watch--chelsea-register-raphinha-interest--blues-opt-out-d",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Raphinha-MW-31-jan",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea register Raphinha interest, Blues opt out deal for Dembele and asking price for Monaco's Tchouameni revealed ",
-      "publishDate": "2022-01-31T09:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/media-watch--chelsea-register-raphinha-interest--blues-opt-out-d.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Barcelona",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_barcelona"
-        },
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        }
-      ],
-      "date": "2022-01-31T09:41:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, we begin this winter's transfer deadline day with three transfer stories including a link to a Premier League forward and a report on two French internationals.."
     }
   ]
 }
