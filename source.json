@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 298,
+    "totalItems": 299,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 30,
@@ -169,6 +169,54 @@
       },
       "date": "2022-01-31T12:38:00.000Z",
       "description": "Chelsea season ticket holder and our supporter columnist Giles Smith reviews the first month of 2022, when there was a pleasingly repetitive pattern but draining demands on his team’s players especially…"
+    },
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220131crystal-palace-away-ticket-updat",
+      "type": "NewsCard",
+      "timestamp": "2022-01-31T15:35:00.000Z",
+      "orderDate": "2022-01-31T08:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/31/crystal-palace-away-ticket-update",
+        "type": "NewsCard",
+        "title": "Crystal Palace away ticket update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/crystal-palace-away-ticket-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-31T15:35:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/31/crystal-palace-away-ticket-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Selhurst Park",
+          "id": "editorial/news/2018/12/selhurst_park_view",
+          "gravity": "auto",
+          "aspectRatio": 1.5003014,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Crystal Palace away ticket update",
+      "publishDate": "2022-01-31T15:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/crystal-palace-away-ticket-update.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-01-31T15:35:00.000Z",
+      "description": "An update for members wishing to attend our Premier League game at Selhurst Park..."
     },
     {
       "contentType": "Tickets",
@@ -468,59 +516,6 @@
       ],
       "date": "2022-01-30T21:11:00.000Z",
       "description": "A strong goalkeeping performance from Chelsea’s Edouard Mendy led the way as Senegal booked their place in the last-four of the African Cup of Nations by defeating Equatorial Guinea."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220130tuchel-outlines-plans-for-the-cl",
-      "type": "NewsCard",
-      "timestamp": "2022-01-30T16:00:00.000Z",
-      "orderDate": "2022-01-30T16:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/30/tuchel-outlines-plans-for-the-club-world-cup",
-        "type": "NewsCard",
-        "title": "Tuchel outlines plans for the Club World Cup",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/tuchel-outlines-plans-for-the-club-world-cup.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-30T16:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/30/tuchel-outlines-plans-for-the-club-world-cup",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "chelsea-app/Tuchel-stock-GettyImages-1364287055",
-          "gravity": "face",
-          "aspectRatio": 1.5594187,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel outlines plans for the Club World Cup",
-      "publishDate": "2022-01-30T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/tuchel-outlines-plans-for-the-club-world-cup.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-30T16:00:00.000Z",
-      "description": "Thomas Tuchel has said he will prepare his Chelsea side to give all it takes to win the Club World Cup, a trophy in which the Blues are yet to get our hands on."
     }
   ]
 }
