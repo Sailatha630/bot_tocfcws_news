@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 297,
+    "totalItems": 298,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 30,
@@ -169,6 +169,49 @@
       },
       "date": "2022-01-31T12:38:00.000Z",
       "description": "Chelsea season ticket holder and our supporter columnist Giles Smith reviews the first month of 2022, when there was a pleasingly repetitive pattern but draining demands on his team’s players especially…"
+    },
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220131important-club-world-cup-banner-",
+      "type": "NewsCard",
+      "timestamp": "2022-01-31T14:45:00.000Z",
+      "orderDate": "2022-01-31T05:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/01/31/important-club-world-cup-banner-and-ticket-update",
+        "type": "NewsCard",
+        "title": "Important Club World Cup flag and ticket update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/important-club-world-cup-banner-and-ticket-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-01-31T14:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/01/31/important-club-world-cup-banner-and-ticket-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chelsea flag",
+          "id": "editorial/news/2022/02/1/GettyImages-1356032023",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Important Club World Cup flag and ticket update",
+      "publishDate": "2022-01-31T14:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/important-club-world-cup-banner-and-ticket-update.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-01-31T14:45:00.000Z",
+      "description": "Supporters wishing to take a flag or banner to the Club World Cup in Abu Dhabi should note the following information with action required."
     },
     {
       "contentType": "Interview",
@@ -478,64 +521,6 @@
       ],
       "date": "2022-01-30T16:00:00.000Z",
       "description": "Thomas Tuchel has said he will prepare his Chelsea side to give all it takes to win the Club World Cup, a trophy in which the Blues are yet to get our hands on."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220130the-chelsea-shirt-shuffle-quiz--",
-      "type": "NewsCard",
-      "timestamp": "2022-01-30T12:00:00.000Z",
-      "orderDate": "2022-01-30T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/30/the-chelsea-shirt-shuffle-quiz--",
-        "type": "NewsCard",
-        "title": "The Chelsea shirt shuffle quiz! ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/the-chelsea-shirt-shuffle-quiz--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-30T12:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/30/the-chelsea-shirt-shuffle-quiz--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/leeds-home/Jorginho-shirt-Leeds-home",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Chelsea shirt shuffle quiz! ",
-      "publishDate": "2022-01-30T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/30/the-chelsea-shirt-shuffle-quiz--.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Diego Costa",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_diego-costa"
-        },
-        {
-          "title": "Eden Hazard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_eden-hazard"
-        },
-        {
-          "title": "Pedro",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_pedro"
-        },
-        {
-          "title": "Sam Kerr",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_sam-kerr"
-        }
-      ],
-      "date": "2022-01-30T12:00:00.000Z",
-      "description": "With the Premier League paused for the winter break this weekend, we’ve pulled together a quiz for you to try – which all Chelsea experts should score full marks on. No pressure, then!"
     }
   ]
 }
