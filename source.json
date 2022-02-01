@@ -1,12 +1,74 @@
 {
   "pagination": {
-    "totalItems": 301,
+    "totalItems": 302,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 31,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnists",
+      "id": "_content_chelseafcennews20220201pat-nevin--i-don-t-miss-stress-o",
+      "type": "NewsCard",
+      "timestamp": "2022-02-01T06:27:00.000Z",
+      "orderDate": "2022-02-01T06:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/01/pat-nevin--i-don-t-miss-stress-of-deals-but-i-m-desperate-for-se",
+        "type": "NewsCard",
+        "title": "Pat Nevin: I don’t miss stress of deals but I'm desperate for season restart",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/pat-nevin--i-don-t-miss-stress-of-deals-but-i-m-desperate-for-se.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-01T06:27:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2022/02/01/pat-nevin--i-don-t-miss-stress-of-deals-but-i-m-desperate-for-se",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Matthew Harding Stand",
+          "id": "editorial/news/2022/01/31/stadium_view_harding_stand_banner",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: I don’t miss stress of deals but I'm desperate for season restart",
+      "publishDate": "2022-02-01T06:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/pat-nevin--i-don-t-miss-stress-of-deals-but-i-m-desperate-for-se.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2022-02-01T06:27:00.000Z",
+      "description": "Deadline-day deals, a tournament a continent away, a refreshed Chelsea squad and a legend taking on a new challenge are the topics occupying the keyboard of Pat Nevin as he writes this week’s column…"
+    },
     {
       "contentType": "Chelsea Transfer News",
       "id": "_content_chelseafcennews20220131anjorin-heads-to-huddersfield-af",
@@ -462,49 +524,6 @@
       ],
       "date": "2022-01-31T11:57:00.000Z",
       "description": "The third and final episode of Now You Know, telling the story of Chelsea's past in an entertaining and fast-paced fashion, focuses on our greatest captains."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220131guro-reiten--it-was-a-great-perf",
-      "type": "NewsCard",
-      "timestamp": "2022-01-31T10:33:00.000Z",
-      "orderDate": "2022-01-31T02:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/31/guro-reiten--it-was-a-great-performance-",
-        "type": "NewsCard",
-        "title": "Guro Reiten: It was a great performance!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/guro-reiten--it-was-a-great-performance-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-31T10:33:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/31/guro-reiten--it-was-a-great-performance-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Guro_Reiten_Villa_goal",
-          "gravity": "auto",
-          "aspectRatio": 1.4996151,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Guro Reiten: It was a great performance!",
-      "publishDate": "2022-01-31T10:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/guro-reiten--it-was-a-great-performance-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-01-31T10:33:00.000Z",
-      "description": "Guro Reiten praised her team-mates following Saturday’s Vitality FA Cup fourth round victory against Aston Villa Women."
     }
   ]
 }
