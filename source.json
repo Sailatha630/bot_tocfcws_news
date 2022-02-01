@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 309,
+    "totalItems": 310,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 31,
@@ -111,6 +111,60 @@
       ],
       "date": "2022-02-01T12:05:00.000Z",
       "description": "Chelsea will soon be competing for silverware at the FIFA Club World Cup and here we bring you all the vital information on the tournament itself, our opponents, plus where and when we will be playing."
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220201hayes--this-group-of-players-wil",
+      "type": "NewsCard",
+      "timestamp": "2022-02-01T17:30:00.000Z",
+      "orderDate": "2022-02-01T11:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/01/hayes--this-group-of-players-will-give-everything-they-ve-got-to",
+        "type": "NewsCard",
+        "title": "Hayes: This group of players will give everything they’ve got tomorrow night",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/hayes--this-group-of-players-will-give-everything-they-ve-got-to.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-01T17:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/01/hayes--this-group-of-players-will-give-everything-they-ve-got-to",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Hayes_Presser_Man_Utd",
+          "gravity": "auto",
+          "aspectRatio": 1.502163,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hayes: This group of players will give everything they’ve got tomorrow night",
+      "publishDate": "2022-02-01T17:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/hayes--this-group-of-players-will-give-everything-they-ve-got-to.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2022-02-01T17:30:00.000Z",
+      "description": "Chelsea FC Women face Manchester United in the Continental Tyres League Cup semi-final tomorrow evening and boss Emma Hayes believes the Blues will be in for a tough encounter.",
+      "matchId": 2272029
     },
     {
       "contentType": "News",
@@ -447,54 +501,6 @@
       ],
       "date": "2022-01-31T14:00:00.000Z",
       "description": "Tino Anjorin has returned from his loan spell at Lokomotiv Moscow and will spend the rest of the season at Huddersfield Town in the Championship."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20220131edwards-joins-lampard-at-everton",
-      "type": "NewsCard",
-      "timestamp": "2022-01-31T13:00:00.000Z",
-      "orderDate": "2022-01-31T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/31/edwards-joins-lampard-at-everton",
-        "type": "NewsCard",
-        "title": "Edwards joins Lampard at Everton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/edwards-joins-lampard-at-everton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-31T13:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/31/edwards-joins-lampard-at-everton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Joe Edwards",
-          "id": "editorial/news/2022/01/31/joe_edwards_training",
-          "gravity": "auto",
-          "aspectRatio": 1.325,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Edwards joins Lampard at Everton",
-      "publishDate": "2022-01-31T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/edwards-joins-lampard-at-everton.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Joe Edwards",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_joe-edwards"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-31T13:00:00.000Z",
-      "description": "Chelsea assistant coach Joe Edwards has left the club to join Frank Lampard’s coaching staff at Everton, following our former player and head coach’s appointment at Goodison Park today."
     }
   ]
 }
