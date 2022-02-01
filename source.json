@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 306,
+    "totalItems": 307,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 31,
@@ -115,6 +115,60 @@
       },
       "date": "2022-02-01T06:27:00.000Z",
       "description": "Deadline-day deals, a tournament a continent away, a refreshed Chelsea squad and a legend taking on a new challenge are the topics occupying the keyboard of Pat Nevin as he writes this week’s column…"
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220201chelsea-women-v-manchester-unite",
+      "type": "NewsCard",
+      "timestamp": "2022-02-01T11:56:00.000Z",
+      "orderDate": "2022-02-01T02:56:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/01/chelsea-women-v-manchester-united-women--kick-off-time--how-to-w",
+        "type": "NewsCard",
+        "title": "Chelsea Women vs Manchester United Women: Kick-off time, how to watch live and more!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/chelsea-women-v-manchester-united-women--kick-off-time--how-to-w.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-01T11:56:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/01/chelsea-women-v-manchester-united-women--kick-off-time--how-to-w",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Cuthbert_celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.6183274,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women vs Manchester United Women: Kick-off time, how to watch live and more!",
+      "publishDate": "2022-02-01T11:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/chelsea-women-v-manchester-united-women--kick-off-time--how-to-w.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2022-02-01T11:56:00.000Z",
+      "description": "Chelsea FC Women take on Manchester United in the FA Continental Tyres League Cup semi-final at Kingsmeadow tomorrow; everything you need to know ahead of the game can be found here in our match preview…",
+      "matchId": 2272029
     },
     {
       "contentType": "News",
@@ -460,48 +514,6 @@
       ],
       "date": "2022-01-31T19:45:00.000Z",
       "description": "Chelsea FC Women will play Leicester City at home in the fifth round of the Vitality Women’s FA Cup."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220131chelsea-fc-foundation-deliver-in",
-      "type": "NewsCard",
-      "timestamp": "2022-01-31T16:58:00.000Z",
-      "orderDate": "2022-01-31T09:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/31/chelsea-fc-foundation-deliver-international-holocaust-memorial-d",
-        "type": "NewsCard",
-        "title": "Chelsea FC Foundation deliver International Holocaust Memorial Day workshop",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/chelsea-fc-foundation-deliver-international-holocaust-memorial-d.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-31T16:58:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/01/31/chelsea-fc-foundation-deliver-international-holocaust-memorial-d",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Holocaust_Memorial_Day_Chelsea_Foundation",
-          "gravity": "auto",
-          "aspectRatio": 1.3318584,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC Foundation deliver International Holocaust Memorial Day workshop",
-      "publishDate": "2022-01-31T16:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/chelsea-fc-foundation-deliver-international-holocaust-memorial-d.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-01-31T16:58:00.000Z",
-      "description": "Last Thursday 27 January, Chelsea Football Club paid tribute to the victims of the Holocaust to ensure their legacy is never forgotten."
     }
   ]
 }
