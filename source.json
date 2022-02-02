@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 310,
+    "totalItems": 311,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 31,
+    "pageCount": 32,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews2022020210-questions-with----saul",
+      "type": "NewsCard",
+      "timestamp": "2022-02-02T04:00:00.000Z",
+      "orderDate": "2022-02-02T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/02/10-questions-with----saul",
+        "type": "NewsCard",
+        "title": "10 Questions with... Saul",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/10-questions-with----saul.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-02T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/02/10-questions-with----saul",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Graphic",
+          "id": "editorial/news/2022/02/2/4280_10_Questions_Article_Body_Banner_Saul_2560x1440",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "10 Questions with... Saul",
+      "publishDate": "2022-02-02T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/10-questions-with----saul.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Saul Niguez",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_saul-niguez"
+        }
+      ],
+      "date": "2022-02-02T04:00:00.000Z",
+      "description": "The latest player to answer our 10 questions feature is Saul, the Spaniard on loan from Atletico Madrid, who opens up on the challenges of adapting to new surroundings, his footballing family and how he's using the Tube to explore London."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220201gallery--blues-are-back-to-work-",
@@ -453,54 +501,6 @@
       ],
       "date": "2022-02-01T16:02:00.000Z",
       "description": "Thierno Ballo has returned from his maiden loan spell in Austria with Rapid Vienna while Ethan Wady and Sami Tlemcani head out on loan."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20220131anjorin-heads-to-huddersfield-af",
-      "type": "NewsCard",
-      "timestamp": "2022-01-31T14:00:00.000Z",
-      "orderDate": "2022-01-31T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/01/31/anjorin-heads-to-huddersfield-after-russia-return",
-        "type": "NewsCard",
-        "title": "Anjorin heads to Huddersfield after Russia return",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/anjorin-heads-to-huddersfield-after-russia-return.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-01-31T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/01/31/anjorin-heads-to-huddersfield-after-russia-return",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/07/26/Anjorin_DAZ_2025",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Anjorin heads to Huddersfield after Russia return",
-      "publishDate": "2022-01-31T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/01/31/anjorin-heads-to-huddersfield-after-russia-return.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Tino Anjorin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tino-anjorin"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-01-31T14:00:00.000Z",
-      "description": "Tino Anjorin has returned from his loan spell at Lokomotiv Moscow and will spend the rest of the season at Huddersfield Town in the Championship."
     }
   ]
 }
