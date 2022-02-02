@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 315,
+    "totalItems": 316,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 32,
@@ -269,6 +269,48 @@
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, an interview and also a report on refereeing..."
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20220202foundation-host-festival-of-fun-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-02T12:40:00.000Z",
+      "orderDate": "2022-02-02T01:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/02/foundation-host-festival-of-fun-at-mixed-football-tournament-",
+        "type": "NewsCard",
+        "title": "Foundation host festival of fun at mixed football tournament!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/foundation-host-festival-of-fun-at-mixed-football-tournament-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-02T12:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/02/foundation-host-festival-of-fun-at-mixed-football-tournament-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Foundation_PL_tournament_winners",
+          "gravity": "auto",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Foundation host festival of fun at mixed football tournament!",
+      "publishDate": "2022-02-02T12:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/foundation-host-festival-of-fun-at-mixed-football-tournament-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2022-02-02T12:40:00.000Z",
+      "description": "Chelsea FC Foundation hosted the first heat of our London Premier League Primary Stars tournaments at Southfields Academy in Wandsworth last week."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220201gallery--blues-are-back-to-work-",
       "type": "NewsCard",
@@ -464,68 +506,6 @@
       "tags": [],
       "date": "2022-02-01T14:30:00.000Z",
       "description": "We have completed the signing of Mason Burstow from Charlton Athletic, with the teenage striker returning to the Valley on loan for the remainder of the 2021/22 season."
-    },
-    {
-      "contentType": "Columnists",
-      "id": "_content_chelseafcennews20220201pat-nevin--i-don-t-miss-stress-o",
-      "type": "NewsCard",
-      "timestamp": "2022-02-01T06:27:00.000Z",
-      "orderDate": "2022-02-01T06:27:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/01/pat-nevin--i-don-t-miss-stress-of-deals-but-i-m-desperate-for-se",
-        "type": "NewsCard",
-        "title": "Pat Nevin: I don’t miss stress of deals but I'm desperate for season restart",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/pat-nevin--i-don-t-miss-stress-of-deals-but-i-m-desperate-for-se.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-01T06:27:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2022/02/01/pat-nevin--i-don-t-miss-stress-of-deals-but-i-m-desperate-for-se",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Matthew Harding Stand",
-          "id": "editorial/news/2022/01/31/stadium_view_harding_stand_banner",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pat Nevin: I don’t miss stress of deals but I'm desperate for season restart",
-      "publishDate": "2022-02-01T06:27:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/pat-nevin--i-don-t-miss-stress-of-deals-but-i-m-desperate-for-se.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        },
-        {
-          "title": "Pat Nevin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_pat-nevin"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Pat",
-        "lastName": "Nevin",
-        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Pat Nevin",
-          "id": "editorial/blogs-and-columns/nevin_h_26S",
-          "gravity": "face",
-          "aspectRatio": 0.93399847,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2022-02-01T06:27:00.000Z",
-      "description": "Deadline-day deals, a tournament a continent away, a refreshed Chelsea squad and a legend taking on a new challenge are the topics occupying the keyboard of Pat Nevin as he writes this week’s column…"
     }
   ]
 }
