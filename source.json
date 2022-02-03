@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 324,
+    "totalItems": 325,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 33,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220203the-chelsea-winter-olympics-quiz",
+      "type": "NewsCard",
+      "timestamp": "2022-02-03T13:46:00.000Z",
+      "orderDate": "2022-02-03T13:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/03/the-chelsea-winter-olympics-quiz-",
+        "type": "NewsCard",
+        "title": "The Chelsea Winter Olympics quiz ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/the-chelsea-winter-olympics-quiz-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-03T13:46:00.000Z"
+      },
+      "template": "featured-article",
+      "path": "/content/chelseafc/en/news/2022/02/03/the-chelsea-winter-olympics-quiz-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Snowy Stamford Bridge",
+          "id": "editorial/news/2022/02/3/snowy-stamford-bridge-2021",
+          "gravity": "auto",
+          "aspectRatio": 1.5714285,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Chelsea Winter Olympics quiz ",
+      "publishDate": "2022-02-03T13:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/the-chelsea-winter-olympics-quiz-.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-03T13:46:00.000Z",
+      "description": "The 2022 Winter Olympic Games in Beijing starts on Friday and to mark the occasion we have a special quiz for you based around Chelsea’s exploits on the snow and the ice over the years."
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220203petr-cech-column--anniversary-of",
@@ -504,54 +547,6 @@
       ],
       "date": "2022-02-02T10:00:00.000Z",
       "description": "It’s time to vote for your favourite Chelsea goal in January from across our men’s, women’s and Academy teams…"
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews2022020210-questions-with----saul",
-      "type": "NewsCard",
-      "timestamp": "2022-02-02T04:00:00.000Z",
-      "orderDate": "2022-02-02T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/02/10-questions-with----saul",
-        "type": "NewsCard",
-        "title": "10 Questions with... Saul",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/10-questions-with----saul.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-02T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/02/10-questions-with----saul",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Graphic",
-          "id": "editorial/news/2022/02/2/4280_10_Questions_Article_Body_Banner_Saul_2560x1440",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "10 Questions with... Saul",
-      "publishDate": "2022-02-02T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/10-questions-with----saul.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Saul Niguez",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_saul-niguez"
-        }
-      ],
-      "date": "2022-02-02T04:00:00.000Z",
-      "description": "The latest player to answer our 10 questions feature is Saul, the Spaniard on loan from Atletico Madrid, who opens up on the challenges of adapting to new surroundings, his footballing family and how he's using the Tube to explore London."
     }
   ]
 }
