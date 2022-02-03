@@ -1,12 +1,84 @@
 {
   "pagination": {
-    "totalItems": 319,
+    "totalItems": 320,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 32,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnists",
+      "id": "_content_chelseafcennews20220203petr-cech-column--anniversary-of",
+      "type": "NewsCard",
+      "timestamp": "2022-02-03T04:00:00.000Z",
+      "orderDate": "2022-02-03T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/03/petr-cech-column--anniversary-of-clean-sheet-record-and-why-it-w",
+        "type": "NewsCard",
+        "title": "Petr Cech column: Anniversary of clean sheet record and why it was so crucial to our first league title in 50 years",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/petr-cech-column--anniversary-of-clean-sheet-record-and-why-it-w.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-03T04:00:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2022/02/03/petr-cech-column--anniversary-of-clean-sheet-record-and-why-it-w",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Cech",
+          "id": "editorial/news/2021/09/10/Petr_Cech_Column_Article_Hero",
+          "gravity": "center",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Petr Cech column: Anniversary of clean sheet record and why it was so crucial to our first league title in 50 years",
+      "publishDate": "2022-02-03T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/petr-cech-column--anniversary-of-clean-sheet-record-and-why-it-w.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Petr Cech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_petr-cech"
+        },
+        {
+          "title": "Joe Edwards",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_joe-edwards"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Petr",
+        "lastName": "Cech",
+        "description": " ",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Petr Cecg",
+          "id": "video/2021/03/23/-porto-are-always-a-tough-opponent--you-have-to-respect-them-----3Ytf4Dtj/210323_Cech_UCL_Thumb1",
+          "gravity": "face",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2022-02-03T04:00:00.000Z",
+      "description": "In his latest column, Petr Cech casts his mind back 17 years to recall how he set a new Premier League record by surpassing Peter Schmeichel's 694 minutes without conceding a goal, and the huge part our 25 clean sheets played in us winning that competition for the first time in 2004/05."
+    },
     {
       "contentType": "International",
       "id": "_content_chelseafcennews20220202mendy-and-senegal-into-afcon-fin",
@@ -459,64 +531,6 @@
       ],
       "date": "2022-02-02T12:40:00.000Z",
       "description": "Chelsea FC Foundation hosted the first heat of our London Premier League Primary Stars tournaments at Southfields Academy in Wandsworth last week."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220201gallery--blues-are-back-to-work-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-01T15:45:00.000Z",
-      "orderDate": "2022-02-01T15:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/01/gallery--blues-are-back-to-work-",
-        "type": "NewsCard",
-        "title": "Gallery: Blues get back to work ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/gallery--blues-are-back-to-work-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-01T15:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/01/gallery--blues-are-back-to-work-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Training-1-Feb-DTW_3382",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Blues get back to work ",
-      "publishDate": "2022-02-01T15:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/gallery--blues-are-back-to-work-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-02-01T15:45:00.000Z",
-      "description": "Chelsea players returned to Cobham today after being given a week off by head coach Thomas Tuchel."
     }
   ]
 }
