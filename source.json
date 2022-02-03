@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 328,
+    "totalItems": 329,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 33,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220203new-premier-league-squad-submitt",
+      "type": "NewsCard",
+      "timestamp": "2022-02-03T17:32:00.000Z",
+      "orderDate": "2022-02-03T17:32:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/03/new-premier-league-squad-submitted",
+        "type": "NewsCard",
+        "title": "New Premier League squad submitted",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/new-premier-league-squad-submitted.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-03T17:32:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/03/new-premier-league-squad-submitted",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kenedy training",
+          "id": "editorial/news/2022/02/3/kenedy_training",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "New Premier League squad submitted",
+      "publishDate": "2022-02-03T17:32:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/new-premier-league-squad-submitted.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-03T17:32:00.000Z",
+      "description": "Following the closing of the mid-season transfer window, the Premier League clubs have submitted their revised squad lists for the remainder of the campaign, with Chelsea’s showing one change from the first part of the season."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220203humbled-rudiger-on-working-for-c",
@@ -467,43 +515,6 @@
       ],
       "date": "2022-02-03T14:59:00.000Z",
       "description": "Information for supporters wishing to purchase tickets to the Continental Tyres League Cup final can be found below."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220202mendy-and-senegal-into-afcon-fin",
-      "type": "NewsCard",
-      "timestamp": "2022-02-02T21:21:00.000Z",
-      "orderDate": "2022-02-02T21:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/02/mendy-and-senegal-into-afcon-final",
-        "type": "NewsCard",
-        "title": "Mendy and Senegal into AFCON final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/mendy-and-senegal-into-afcon-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-02T21:21:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/02/mendy-and-senegal-into-afcon-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mendy",
-          "id": "editorial/news/2022/02/2/Mendy-Senegal-vs-Burkina-Faso-2",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mendy and Senegal into AFCON final",
-      "publishDate": "2022-02-02T21:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/mendy-and-senegal-into-afcon-final.html",
-      "readTimeInMins": 7,
-      "tags": [],
-      "date": "2022-02-02T21:21:00.000Z",
-      "description": "Edouard Mendy will contest the African Cup of Nations final after Senegal held off a late rally to defeat Burkina Faso in the last-four."
     }
   ]
 }
