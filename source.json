@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 329,
+    "totalItems": 330,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 33,
@@ -262,6 +262,49 @@
       "description": "We are giving our season ticket holders and club members the chance to enter a ballot to win tickets to enjoy an evening at the Imperial War Museum London which will include special guest speakers and a private tour of the Holocaust Galleries."
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220203chelsea-to-face-al-jazira-or-al-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-03T18:25:00.000Z",
+      "orderDate": "2022-02-03T10:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/03/chelsea-to-face-al-jazira-or-al-hilal-at-club-world-cup",
+        "type": "NewsCard",
+        "title": "Chelsea to face Al Jazira or Al Hilal at Club World Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/chelsea-to-face-al-jazira-or-al-hilal-at-club-world-cup.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-03T18:25:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/03/chelsea-to-face-al-jazira-or-al-hilal-at-club-world-cup",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/02/3/CWC_Al_Jazira_Pirae",
+          "gravity": "auto",
+          "aspectRatio": 1.4962406,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea to face Al Jazira or Al Hilal at Club World Cup",
+      "publishDate": "2022-02-03T18:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/chelsea-to-face-al-jazira-or-al-hilal-at-club-world-cup.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        }
+      ],
+      "date": "2022-02-03T18:25:00.000Z",
+      "description": "Chelsea are a little closer to learning our first opponents at the upcoming FIFA Club World Cup after local side Al Jazira triumphed in the opening game of the tournament in Abu Dhabi."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20220203internationals--pulisic-goal-edg",
       "type": "NewsCard",
@@ -468,53 +511,6 @@
       "date": "2022-02-03T09:48:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes praises ‘amazing’ team performance as the Blues beat Manchester United to progress to the Continental Tyres League Cup final.",
       "matchId": 2272029
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220203continental-cup-final-ticket-inf",
-      "type": "NewsCard",
-      "timestamp": "2022-02-03T14:59:00.000Z",
-      "orderDate": "2022-02-03T00:20:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/03/continental-cup-final-ticket-informatin",
-        "type": "NewsCard",
-        "title": "Continental Cup final ticket information",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/continental-cup-final-ticket-informatin.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-03T14:59:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/03/continental-cup-final-ticket-informatin",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Conti_Cup",
-          "gravity": "auto",
-          "aspectRatio": 1.5690608,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Continental Cup final ticket information",
-      "publishDate": "2022-02-03T14:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/continental-cup-final-ticket-informatin.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
-        }
-      ],
-      "date": "2022-02-03T14:59:00.000Z",
-      "description": "Information for supporters wishing to purchase tickets to the Continental Tyres League Cup final can be found below."
     }
   ]
 }
