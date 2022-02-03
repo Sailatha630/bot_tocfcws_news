@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 325,
+    "totalItems": 326,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 33,
@@ -331,6 +331,53 @@
       "matchId": 2272029
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220203continental-cup-final-ticket-inf",
+      "type": "NewsCard",
+      "timestamp": "2022-02-03T14:59:00.000Z",
+      "orderDate": "2022-02-03T00:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/03/continental-cup-final-ticket-informatin",
+        "type": "NewsCard",
+        "title": "Continental Cup final ticket information",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/continental-cup-final-ticket-informatin.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-03T14:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/03/continental-cup-final-ticket-informatin",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Conti_Cup",
+          "gravity": "auto",
+          "aspectRatio": 1.5690608,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Continental Cup final ticket information",
+      "publishDate": "2022-02-03T14:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/continental-cup-final-ticket-informatin.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2022-02-03T14:59:00.000Z",
+      "description": "Information for supporters wishing to purchase tickets to the Continental Tyres League Cup final can be found below."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20220202mendy-and-senegal-into-afcon-fin",
       "type": "NewsCard",
@@ -479,74 +526,6 @@
       ],
       "date": "2022-02-02T13:00:00.000Z",
       "description": "Joe Cole was the star guest on the third episode of The Clubhouse, in partnership with EA Sports, and in a broad and revealing interview the Chelsea legend reminisced about his time at Stamford Bridge, the transformation the club undertook and the day he played through the pain barrier to help us win the league."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220202vote-for-your-january-chelsea-go",
-      "type": "NewsCard",
-      "timestamp": "2022-02-02T10:00:00.000Z",
-      "orderDate": "2022-02-02T10:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/02/vote-for-your-january-chelsea-goal-of-the-month",
-        "type": "NewsCard",
-        "title": "Vote for your January Chelsea Goal of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/vote-for-your-january-chelsea-goal-of-the-month.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-02T10:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/02/vote-for-your-january-chelsea-goal-of-the-month",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ziyech",
-          "id": "editorial/news/2022/01/24/Ziyech_Hudson-Odoi_GettyImages-1366451100",
-          "gravity": "north_east",
-          "aspectRatio": 1.4629238,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Vote for your January Chelsea Goal of the Month",
-      "publishDate": "2022-02-02T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/02/vote-for-your-january-chelsea-goal-of-the-month.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Pernille Harder",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_pernille-harder"
-        },
-        {
-          "title": "Goal of the Month",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_goal-of-the-month"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2022-02-02T10:00:00.000Z",
-      "description": "It’s time to vote for your favourite Chelsea goal in January from across our men’s, women’s and Academy teams…"
     }
   ]
 }
