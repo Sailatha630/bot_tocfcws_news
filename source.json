@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 337,
+    "totalItems": 338,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220204kovacic-strike-named-premier-lea",
+      "type": "NewsCard",
+      "timestamp": "2022-02-04T13:00:00.000Z",
+      "orderDate": "2022-02-04T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/04/kovacic-strike-named-premier-league-goal-of-the-month",
+        "type": "NewsCard",
+        "title": "Kovacic strike named Premier League Goal of the Month",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/kovacic-strike-named-premier-league-goal-of-the-month.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-04T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/04/kovacic-strike-named-premier-league-goal-of-the-month",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kovacic",
+          "id": "chelsea-app/Kovacic-GOTM-DSC_4852",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kovacic strike named Premier League Goal of the Month",
+      "publishDate": "2022-02-04T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/kovacic-strike-named-premier-league-goal-of-the-month.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2022-02-04T13:00:00.000Z",
+      "description": "Mateo Kovacic’s stunning volley against Liverpool has been chosen by supporters and a judging panel as the Premier League’s best goal in January."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220204pre-match-briefing--chelsea-vs-p",
@@ -440,49 +493,6 @@
       ],
       "date": "2022-02-03T17:00:00.000Z",
       "description": "Antonio Rudiger discusses his recent trip to Sierra Leone and the work he is overseeing to make a real difference in the country…"
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220203the-chelsea-winter-olympics-quiz",
-      "type": "NewsCard",
-      "timestamp": "2022-02-03T13:46:00.000Z",
-      "orderDate": "2022-02-03T13:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/03/the-chelsea-winter-olympics-quiz-",
-        "type": "NewsCard",
-        "title": "The Chelsea Winter Olympics quiz ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/the-chelsea-winter-olympics-quiz-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-03T13:46:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2022/02/03/the-chelsea-winter-olympics-quiz-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Snowy Stamford Bridge",
-          "id": "editorial/news/2022/02/3/snowy-stamford-bridge-2021",
-          "gravity": "auto",
-          "aspectRatio": 1.5714285,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Chelsea Winter Olympics quiz ",
-      "publishDate": "2022-02-03T13:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/the-chelsea-winter-olympics-quiz-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-03T13:46:00.000Z",
-      "description": "The 2022 Winter Olympic Games in Beijing starts on Friday and to mark the occasion we have a special quiz for you based around Chelsea’s exploits on the snow and the ice over the years."
     }
   ]
 }
