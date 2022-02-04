@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 339,
+    "totalItems": 340,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
@@ -113,6 +113,59 @@
       ],
       "date": "2022-02-04T13:00:00.000Z",
       "description": "Mateo Kovacic’s stunning volley against Liverpool has been chosen by supporters and a judging panel as the Premier League’s best goal in January."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220204tuchel-on-kenedy-s-clean-slate-a",
+      "type": "NewsCard",
+      "timestamp": "2022-02-04T14:57:00.000Z",
+      "orderDate": "2022-02-04T12:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/04/tuchel-on-kenedy-s-clean-slate-and-where-he-can-fit-in-at-chelse",
+        "type": "NewsCard",
+        "title": "Tuchel on Kenedy’s clean slate and where he can fit in at Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/tuchel-on-kenedy-s-clean-slate-and-where-he-can-fit-in-at-chelse.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-04T14:57:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/04/tuchel-on-kenedy-s-clean-slate-and-where-he-can-fit-in-at-chelse",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kenedy",
+          "id": "editorial/news/2022/02/4/kenedy-training-fa-cup",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on Kenedy’s clean slate and where he can fit in at Chelsea",
+      "publishDate": "2022-02-04T14:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/tuchel-on-kenedy-s-clean-slate-and-where-he-can-fit-in-at-chelse.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Kenedy",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kenedy"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-04T14:57:00.000Z",
+      "description": "The big news from the Premier League squad list Chelsea submitted yesterday was the inclusion of Kenedy, who is back at the Bridge and hoping to make a lasting impression under Thomas Tuchel."
     },
     {
       "contentType": "Match Preview",
@@ -451,54 +504,6 @@
       "date": "2022-02-04T08:08:00.000Z",
       "description": "Chelsea Football Club wishes to remind supporters that encroaching onto the pitch before, during or after matches is a criminal act and can result in serious punishment for the club, fans and, in the case of minors, their parents or guardians.",
       "matchId": 2268104
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220203new-premier-league-squad-submitt",
-      "type": "NewsCard",
-      "timestamp": "2022-02-03T17:32:00.000Z",
-      "orderDate": "2022-02-03T17:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/03/new-premier-league-squad-submitted",
-        "type": "NewsCard",
-        "title": "New Premier League squad submitted",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/new-premier-league-squad-submitted.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-03T17:32:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/03/new-premier-league-squad-submitted",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kenedy training",
-          "id": "editorial/news/2022/02/3/kenedy_training",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "New Premier League squad submitted",
-      "publishDate": "2022-02-03T17:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/new-premier-league-squad-submitted.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-03T17:32:00.000Z",
-      "description": "Following the closing of the mid-season transfer window, the Premier League clubs have submitted their revised squad lists for the remainder of the campaign, with Chelsea’s showing one change from the first part of the season."
     }
   ]
 }
