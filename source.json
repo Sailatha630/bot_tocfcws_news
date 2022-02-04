@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 331,
+    "totalItems": 332,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 34,
@@ -9,10 +9,64 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220204pl2-preview--arsenal-vs-chelsea-",
+      "type": "NewsCard",
+      "timestamp": "2022-12-04T07:00:00.000Z",
+      "orderDate": "2022-12-04T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/04/pl2-preview--arsenal-vs-chelsea-",
+        "type": "NewsCard",
+        "title": "PL2 preview: Precious points on offer in London derby",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/pl2-preview--arsenal-vs-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-12-04T07:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/04/pl2-preview--arsenal-vs-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/09/23/PL2-warming-up-vs-Arsenal",
+          "gravity": "auto",
+          "aspectRatio": 1.5025729,
+          "cropMode": "fill"
+        }
+      },
+      "content": "PL2 preview: Precious points on offer in London derby",
+      "publishDate": "2022-12-04T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/pl2-preview--arsenal-vs-chelsea-.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        }
+      ],
+      "date": "2022-12-04T07:00:00.000Z",
+      "description": "Following back-to-back defeats in Premier League 2, our development squad will be looking to bounce back with all three precious points tonight against an Arsenal side who currently sit in fourth, live on Chelsea platforms...",
+      "matchId": 2237303
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220203blues-bulletin--chelsea-vs-plymo",
       "type": "NewsCard",
       "timestamp": "2022-02-04T02:27:00.000Z",
-      "orderDate": "2022-02-04T02:27:00.000Z",
+      "orderDate": "2022-02-04T06:27:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2022/02/03/blues-bulletin--chelsea-vs-plymouth",
         "type": "NewsCard",
@@ -453,54 +507,6 @@
       ],
       "date": "2022-02-03T13:00:00.000Z",
       "description": "Ashley Cole has left Chelsea and joined Frank Lampard’s backroom staff at Everton."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220203media-watch--chelsea-register-dy",
-      "type": "NewsCard",
-      "timestamp": "2022-02-03T08:59:00.000Z",
-      "orderDate": "2022-02-03T01:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/03/media-watch--chelsea-register-dybala-interest--blues-set-to-riva",
-        "type": "NewsCard",
-        "title": "Media Watch: Chelsea register Dybala interest, Blues set to rival Liverpool for Fulham attacker and Cannavaro reveals how close he was to Blues transfer ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/media-watch--chelsea-register-dybala-interest--blues-set-to-riva.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-03T08:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/03/media-watch--chelsea-register-dybala-interest--blues-set-to-riva",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Dybala-mw-3-feb-22",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Chelsea register Dybala interest, Blues set to rival Liverpool for Fulham attacker and Cannavaro reveals how close he was to Blues transfer ",
-      "publishDate": "2022-02-03T08:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/media-watch--chelsea-register-dybala-interest--blues-set-to-riva.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Juventus",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_juventus"
-        },
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        }
-      ],
-      "date": "2022-02-03T08:59:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer links and also an interview with a World Cup winner..."
     }
   ]
 }
