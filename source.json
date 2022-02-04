@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 340,
+    "totalItems": 341,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 34,
+    "pageCount": 35,
     "startFrom": 0
   },
   "newsFeed": [
@@ -415,6 +415,64 @@
       "description": "Chelsea FC has today launched a new lifestyle collection in partnership with Nike. Taking inspiration from London streetwear and our recent on-pitch success, a gold lion replaces the traditional badge for the first time to create a clean, contemporary look."
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220204continental-cup-final-ticket-upd",
+      "type": "NewsCard",
+      "timestamp": "2022-02-04T15:14:00.000Z",
+      "orderDate": "2022-02-04T03:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/04/continental-cup-final-ticket-update",
+        "type": "NewsCard",
+        "title": "Continental Cup final ticket update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/continental-cup-final-ticket-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-04T15:14:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/04/continental-cup-final-ticket-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Plough Lane",
+          "id": "editorial/news/2022/02/4/Plough-Lane-view-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5517242,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Continental Cup final ticket update",
+      "publishDate": "2022-02-04T15:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/continental-cup-final-ticket-update.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2022-02-04T15:14:00.000Z",
+      "description": "Chelsea take on Manchester City in the Continental Cup Tyres League Cup final next month and supporters can purchase their tickets from Monday..."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220204pl2-preview--arsenal-vs-chelsea-",
       "type": "NewsCard",
@@ -467,43 +525,6 @@
       "date": "2022-02-04T07:00:00.000Z",
       "description": "Following back-to-back defeats in Premier League 2, our development squad will be looking to bounce back with all three precious points tonight against an Arsenal side who currently sit in fourth, live on Chelsea platforms...",
       "matchId": 2237303
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220204important-info-for-fans-attendin",
-      "type": "NewsCard",
-      "timestamp": "2022-02-04T08:08:00.000Z",
-      "orderDate": "2022-02-04T00:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/04/important-info-for-fans-attending-plymouth-fa-cup-tie",
-        "type": "NewsCard",
-        "title": "Important info for fans attending Plymouth FA Cup tie",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/important-info-for-fans-attending-plymouth-fa-cup-tie.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-04T08:08:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/04/important-info-for-fans-attending-plymouth-fa-cup-tie",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/01/31/stadium_view_harding_stand_banner",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important info for fans attending Plymouth FA Cup tie",
-      "publishDate": "2022-02-04T08:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/important-info-for-fans-attending-plymouth-fa-cup-tie.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2022-02-04T08:08:00.000Z",
-      "description": "Chelsea Football Club wishes to remind supporters that encroaching onto the pitch before, during or after matches is a criminal act and can result in serious punishment for the club, fans and, in the case of minors, their parents or guardians.",
-      "matchId": 2268104
     }
   ]
 }
