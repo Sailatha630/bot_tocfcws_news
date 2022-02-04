@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 330,
+    "totalItems": 331,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 33,
+    "pageCount": 34,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220203blues-bulletin--chelsea-vs-plymo",
+      "type": "NewsCard",
+      "timestamp": "2022-02-04T02:27:00.000Z",
+      "orderDate": "2022-02-04T02:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/03/blues-bulletin--chelsea-vs-plymouth",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Plymouth",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/blues-bulletin--chelsea-vs-plymouth.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-04T02:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/03/blues-bulletin--chelsea-vs-plymouth",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge view",
+          "id": "editorial/news/2022/02/3/stamford-bridge-fa-cup-view",
+          "gravity": "auto",
+          "aspectRatio": 1.500134,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Plymouth",
+      "publishDate": "2022-02-04T02:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/blues-bulletin--chelsea-vs-plymouth.html",
+      "readTimeInMins": 26,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-04T02:27:00.000Z",
+      "description": "Chelsea's FA Cup campaign continues against League One opposition on Saturday, and our match preview of Plymouth's visit focuses on the noteworthy stats and facts...",
+      "matchId": 2268104
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220203new-premier-league-squad-submitt",
@@ -452,65 +501,6 @@
       ],
       "date": "2022-02-03T08:59:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer links and also an interview with a World Cup winner..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220203hayes--we-re-going-from-strength",
-      "type": "NewsCard",
-      "timestamp": "2022-02-03T09:48:00.000Z",
-      "orderDate": "2022-02-03T00:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/03/hayes--we-re-going-from-strength-to-strength",
-        "type": "NewsCard",
-        "title": "Hayes: We’re going from strength to strength",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/hayes--we-re-going-from-strength-to-strength.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-03T09:48:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/03/hayes--we-re-going-from-strength-to-strength",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Hayes_Man_Utd",
-          "gravity": "auto",
-          "aspectRatio": 1.5024687,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes: We’re going from strength to strength",
-      "publishDate": "2022-02-03T09:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/03/hayes--we-re-going-from-strength-to-strength.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        },
-        {
-          "title": "Women's League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
-        }
-      ],
-      "date": "2022-02-03T09:48:00.000Z",
-      "description": "Chelsea FC Women boss Emma Hayes praises ‘amazing’ team performance as the Blues beat Manchester United to progress to the Continental Tyres League Cup final.",
-      "matchId": 2272029
     }
   ]
 }
