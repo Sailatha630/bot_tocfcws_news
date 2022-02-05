@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 350,
+    "totalItems": 351,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 35,
+    "pageCount": 36,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220205match-report--chelsea-vs-plymout",
+      "type": "NewsCard",
+      "timestamp": "2022-02-05T15:07:00.000Z",
+      "orderDate": "2022-02-05T15:07:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/05/match-report--chelsea-vs-plymouth",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 2 Plymouth 1 (AET)",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/match-report--chelsea-vs-plymouth.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-05T15:07:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/05/match-report--chelsea-vs-plymouth",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kepa ",
+          "id": "editorial/match-reports/2021-22/plymouth-fa-cup/Kepa-celebration-Plymouth-home",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 2 Plymouth 1 (AET)",
+      "publishDate": "2022-02-05T15:07:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/match-report--chelsea-vs-plymouth.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-05T15:07:00.000Z",
+      "description": "Marcos Alonso netted an extra-time winner and Kepa saved an even later penalty as Chelsea fought back from conceding early on to advance to the FA Cup fifth round at the expense of a resilient Plymouth Argyle side.",
+      "matchId": 2268104
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220205chelsea-line-up-vs-plymouth",
@@ -481,70 +530,6 @@
       ],
       "date": "2022-02-04T14:57:00.000Z",
       "description": "The big news from the Premier League squad list Chelsea submitted yesterday was the inclusion of Kenedy, who is back at the Bridge and hoping to make a lasting impression under Thomas Tuchel."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220204pl2-report--arsenal-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2022-02-04T21:30:00.000Z",
-      "orderDate": "2022-02-04T13:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/04/pl2-report--arsenal-chelsea",
-        "type": "NewsCard",
-        "title": "PL2 Report: Arsenal 3 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/pl2-report--arsenal-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-04T21:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/04/pl2-report--arsenal-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Jayden Wareham in a challenge",
-          "id": "editorial/match-reports/2021-22/arsenal-away-u23s/arsenal-pl2-a-4-wareham",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 Report: Arsenal 3 Chelsea 1",
-      "publishDate": "2022-02-04T21:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/pl2-report--arsenal-chelsea.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2022-02-04T21:30:00.000Z",
-      "description": "Our development squad suffered another loss in the PL2 on Friday evening despite Jayden Wareham opening the scoring for our young Blues."
     }
   ]
 }
