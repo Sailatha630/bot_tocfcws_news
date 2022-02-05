@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 348,
+    "totalItems": 349,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 35,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220205chelsea-line-up-vs-plymouth",
+      "type": "NewsCard",
+      "timestamp": "2022-02-05T11:30:00.000Z",
+      "orderDate": "2022-02-05T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/05/chelsea-line-up-vs-plymouth",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Plymouth",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/chelsea-line-up-vs-plymouth.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-05T11:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/05/chelsea-line-up-vs-plymouth",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/plymouth-fa-cup/kovacic-shirt-plymouth",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Plymouth",
+      "publishDate": "2022-02-05T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/chelsea-line-up-vs-plymouth.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        }
+      ],
+      "date": "2022-02-05T11:30:00.000Z",
+      "description": "It is a strong Chelsea team for today’s FA Cup fourth round tie against Plymouth Argyle, with the returning Andreas Christensen the only change from our last game against Tottenham.",
+      "matchId": 2268104
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220205tuchel-tests-positive-for-covid-",
@@ -479,55 +533,6 @@
       ],
       "date": "2022-02-04T13:00:00.000Z",
       "description": "Mateo Kovacic’s stunning volley against Liverpool has been chosen by supporters and a judging panel as the Premier League’s best goal in January."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220204hayes--it-s-going-to-be-a-sell-o",
-      "type": "NewsCard",
-      "timestamp": "2022-02-04T17:29:00.000Z",
-      "orderDate": "2022-02-04T12:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/04/hayes--it-s-going-to-be-a-sell-out-sunday-and-it-s-going-to-be-l",
-        "type": "NewsCard",
-        "title": "Hayes: It’s going to be a sell-out Sunday and it’s going to be loud!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/hayes--it-s-going-to-be-a-sell-out-sunday-and-it-s-going-to-be-l.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-04T17:29:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/04/hayes--it-s-going-to-be-a-sell-out-sunday-and-it-s-going-to-be-l",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Emma_hayes_presser_new",
-          "gravity": "auto",
-          "aspectRatio": 1.5021849,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes: It’s going to be a sell-out Sunday and it’s going to be loud!",
-      "publishDate": "2022-02-04T17:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/hayes--it-s-going-to-be-a-sell-out-sunday-and-it-s-going-to-be-l.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2022-02-04T17:29:00.000Z",
-      "description": "Chelsea FC Women face Manchester City in the Barclays FA Women’s Super League on Sunday afternoon and Emma Hayes says her team are ready to go again after a top performance on Wednesday.",
-      "matchId": 2236398
     }
   ]
 }
