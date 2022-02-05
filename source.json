@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 351,
+    "totalItems": 352,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 36,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220205michels-reacts-to-plymouth-win",
+      "type": "NewsCard",
+      "timestamp": "2022-02-05T15:57:00.000Z",
+      "orderDate": "2022-02-05T15:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/05/michels-reacts-to-plymouth-win",
+        "type": "NewsCard",
+        "title": "Michels reveals extent of Tuchel input, praises Kepa’s penalty heroics and updates on injured trio",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/michels-reacts-to-plymouth-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-05T15:57:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/05/michels-reacts-to-plymouth-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Michels",
+          "id": "editorial/match-reports/2021-22/plymouth-fa-cup/Michels_GettyImages-1368787941",
+          "gravity": "auto",
+          "aspectRatio": 1.499823,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Michels reveals extent of Tuchel input, praises Kepa’s penalty heroics and updates on injured trio",
+      "publishDate": "2022-02-05T15:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/michels-reacts-to-plymouth-win.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arno Michels",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_arno-michels"
+        }
+      ],
+      "date": "2022-02-05T15:57:00.000Z",
+      "description": "Following two hours of thrilling FA Cup action at Stamford Bridge, Chelsea first-team coach Arno Michels reflected on our eventful 2-1 victory over Plymouth Argyle…",
+      "matchId": 2268104
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220205match-report--chelsea-vs-plymout",
@@ -477,59 +531,6 @@
       "date": "2022-02-04T14:00:00.000Z",
       "description": "Thomas Tuchel has three players still unavailable for selection with injury following the winter break, while Christian Pulisic has also been ruled out of our FA Cup tie against Plymouth Argyle.",
       "matchId": 2268104
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220204tuchel-on-kenedy-s-clean-slate-a",
-      "type": "NewsCard",
-      "timestamp": "2022-02-04T14:57:00.000Z",
-      "orderDate": "2022-02-04T13:27:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/04/tuchel-on-kenedy-s-clean-slate-and-where-he-can-fit-in-at-chelse",
-        "type": "NewsCard",
-        "title": "Tuchel on Kenedy’s clean slate and where he can fit in at Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/tuchel-on-kenedy-s-clean-slate-and-where-he-can-fit-in-at-chelse.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-04T14:57:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/04/tuchel-on-kenedy-s-clean-slate-and-where-he-can-fit-in-at-chelse",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kenedy",
-          "id": "editorial/news/2022/02/4/kenedy-training-fa-cup",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on Kenedy’s clean slate and where he can fit in at Chelsea",
-      "publishDate": "2022-02-04T14:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/tuchel-on-kenedy-s-clean-slate-and-where-he-can-fit-in-at-chelse.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Kenedy",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kenedy"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-04T14:57:00.000Z",
-      "description": "The big news from the Premier League squad list Chelsea submitted yesterday was the inclusion of Kenedy, who is back at the Bridge and hoping to make a lasting impression under Thomas Tuchel."
     }
   ]
 }
