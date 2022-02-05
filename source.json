@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 349,
+    "totalItems": 350,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 35,
@@ -109,6 +109,71 @@
       "date": "2022-02-05T11:05:00.000Z",
       "description": "Thomas Tuchel has tested positive for Covid-19...",
       "matchId": 2268104
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220205under-18s-report---chelsea-fulha",
+      "type": "NewsCard",
+      "timestamp": "2022-02-05T13:45:00.000Z",
+      "orderDate": "2022-02-05T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/05/under-18s-report---chelsea-fulham",
+        "type": "NewsCard",
+        "title": "Under-18s Report:  Chelsea 0 Fulham 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/under-18s-report---chelsea-fulham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-05T13:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/05/under-18s-report---chelsea-fulham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Leo Castledine vs Fulham ",
+          "id": "editorial/match-reports/2021-22/fulham-home-under-18s/Under-18s-vs-Fulham-Leo-Castledine",
+          "gravity": "auto",
+          "aspectRatio": 1.5156108,
+          "cropMode": "fill",
+          "isFullScale": true
+        },
+        "caption": "Leo Castledine vs Fulham "
+      },
+      "content": "Under-18s Report:  Chelsea 0 Fulham 2",
+      "publishDate": "2022-02-05T13:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/under-18s-report---chelsea-fulham.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "U18 - Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_u18-premier-league"
+        }
+      ],
+      "date": "2022-02-05T13:45:00.000Z",
+      "description": "Our Under-18s came up short in Saturday's early kick-off against our west London rivals Fulham, ultimately losing 2-0 at Cobham."
     },
     {
       "contentType": "News",
@@ -480,59 +545,6 @@
       ],
       "date": "2022-02-04T21:30:00.000Z",
       "description": "Our development squad suffered another loss in the PL2 on Friday evening despite Jayden Wareham opening the scoring for our young Blues."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220204kovacic-strike-named-premier-lea",
-      "type": "NewsCard",
-      "timestamp": "2022-02-04T13:00:00.000Z",
-      "orderDate": "2022-02-04T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/04/kovacic-strike-named-premier-league-goal-of-the-month",
-        "type": "NewsCard",
-        "title": "Kovacic strike named Premier League Goal of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/kovacic-strike-named-premier-league-goal-of-the-month.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-04T13:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/04/kovacic-strike-named-premier-league-goal-of-the-month",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kovacic",
-          "id": "chelsea-app/Kovacic-GOTM-DSC_4852",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kovacic strike named Premier League Goal of the Month",
-      "publishDate": "2022-02-04T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/kovacic-strike-named-premier-league-goal-of-the-month.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2022-02-04T13:00:00.000Z",
-      "description": "Mateo Kovacic’s stunning volley against Liverpool has been chosen by supporters and a judging panel as the Premier League’s best goal in January."
     }
   ]
 }
