@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 347,
+    "totalItems": 348,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 35,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220205tuchel-tests-positive-for-covid-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-05T11:05:00.000Z",
+      "orderDate": "2022-02-05T11:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/05/tuchel-tests-positive-for-covid-19",
+        "type": "NewsCard",
+        "title": "Tuchel tests positive for Covid-19",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/tuchel-tests-positive-for-covid-19.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-05T11:05:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/05/tuchel-tests-positive-for-covid-19",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Tuchel",
+          "id": "editorial/news/2022/01/26/Tuchel_GettyImages-1359391721",
+          "gravity": "auto",
+          "aspectRatio": 1.5002325,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel tests positive for Covid-19",
+      "publishDate": "2022-02-05T11:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/tuchel-tests-positive-for-covid-19.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-05T11:05:00.000Z",
+      "description": "Thomas Tuchel has tested positive for Covid-19...",
+      "matchId": 2268104
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220205tuchel-admits-chelsea-looked-at-",
@@ -479,55 +528,6 @@
       "date": "2022-02-04T17:29:00.000Z",
       "description": "Chelsea FC Women face Manchester City in the Barclays FA Women’s Super League on Sunday afternoon and Emma Hayes says her team are ready to go again after a top performance on Wednesday.",
       "matchId": 2236398
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220204pre-match-briefing--chelsea-vs-p",
-      "type": "NewsCard",
-      "timestamp": "2022-02-04T10:00:00.000Z",
-      "orderDate": "2022-02-04T10:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/04/pre-match-briefing--chelsea-vs-plymouth-argyle",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Plymouth Argyle",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/pre-match-briefing--chelsea-vs-plymouth-argyle.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-04T10:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/02/04/pre-match-briefing--chelsea-vs-plymouth-argyle",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge",
-          "id": "editorial/news/2022/02/4/stadium_inside_view_matthew_harding_stand",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Plymouth Argyle",
-      "publishDate": "2022-02-04T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/04/pre-match-briefing--chelsea-vs-plymouth-argyle.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-04T10:00:00.000Z",
-      "description": "A February in which the Blues compete in five different competitions begins with a home Emirates FA Cup tie. Club historian Rick Glanvill and club statistician Paul Dutton prepare to welcome the Pilgrims…",
-      "matchId": 2268104
     }
   ]
 }
