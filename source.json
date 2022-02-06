@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 358,
+    "totalItems": 359,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 36,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220206women-s-match-report--chelsea-vs",
+      "type": "NewsCard",
+      "timestamp": "2022-02-06T14:20:00.000Z",
+      "orderDate": "2022-02-06T14:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/06/women-s-match-report--chelsea-vs-manchester-city",
+        "type": "NewsCard",
+        "title": "Women's match report: Chelsea vs Manchester City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/women-s-match-report--chelsea-vs-manchester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-06T14:20:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/06/women-s-match-report--chelsea-vs-manchester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Reiten_celebrates_City",
+          "gravity": "auto",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women's match report: Chelsea vs Manchester City",
+      "publishDate": "2022-02-06T14:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/women-s-match-report--chelsea-vs-manchester-city.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2022-02-06T14:20:00.000Z",
+      "description": "Chelsea FC Women gained a vital three points in front of a sell-out Kingsmeadow crowd in the Barclays FA Women’s Super League title race after beating Manchester City 1-0 on Sunday afternoon.",
+      "matchId": 2236398
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220206chelsea-squad-for-club-world-cup",
@@ -484,60 +533,6 @@
       ],
       "date": "2022-02-05T15:07:00.000Z",
       "description": "Marcos Alonso netted an extra-time winner and Kepa saved an even later penalty as Chelsea fought back from conceding early on to advance to the FA Cup fifth round at the expense of a resilient Plymouth Argyle side.",
-      "matchId": 2268104
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220205chelsea-line-up-vs-plymouth",
-      "type": "NewsCard",
-      "timestamp": "2022-02-05T11:30:00.000Z",
-      "orderDate": "2022-02-05T11:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/05/chelsea-line-up-vs-plymouth",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Plymouth",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/chelsea-line-up-vs-plymouth.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-05T11:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/05/chelsea-line-up-vs-plymouth",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/match-reports/2021-22/plymouth-fa-cup/kovacic-shirt-plymouth",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Plymouth",
-      "publishDate": "2022-02-05T11:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/chelsea-line-up-vs-plymouth.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        }
-      ],
-      "date": "2022-02-05T11:30:00.000Z",
-      "description": "It is a strong Chelsea team for today’s FA Cup fourth round tie against Plymouth Argyle, with the returning Andreas Christensen the only change from our last game against Tottenham.",
       "matchId": 2268104
     }
   ]
