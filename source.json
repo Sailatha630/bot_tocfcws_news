@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 354,
+    "totalItems": 355,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 36,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220206chelsea-squad-for-club-world-cup",
+      "type": "NewsCard",
+      "timestamp": "2022-02-06T09:50:00.000Z",
+      "orderDate": "2022-02-06T09:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/06/chelsea-squad-for-club-world-cup",
+        "type": "NewsCard",
+        "title": "Chelsea squad for Club World Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/chelsea-squad-for-club-world-cup.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-06T09:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/06/chelsea-squad-for-club-world-cup",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Christian Pulisic and N'Golo Kante arriving",
+          "id": "editorial/news/2022/02/6/CWC_arrival_3",
+          "gravity": "faces",
+          "aspectRatio": 1.2756233,
+          "cropMode": "fill"
+        },
+        "caption": " "
+      },
+      "content": "Chelsea squad for Club World Cup",
+      "publishDate": "2022-02-06T09:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/chelsea-squad-for-club-world-cup.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-06T09:50:00.000Z",
+      "description": "Having left the UK in the very early hours of Sunday morning, the Chelsea travelling party for the FIFA Club World Cup has arrived in Abu Dhabi."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220206azpilicueta--kepa-is-a-great-exa",
@@ -493,54 +542,6 @@
       "date": "2022-02-05T04:00:00.000Z",
       "description": "Ahead of our FA Cup clash with Plymouth Argyle today, Toni Rudiger reflects on how the recent winter break has left the Chelsea players reinvigorated for upcoming challenges on all fronts…",
       "matchId": 2268104
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220205quiz--chelsea-fa-cup-debutants-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-05T04:00:00.000Z",
-      "orderDate": "2022-02-05T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/05/quiz--chelsea-fa-cup-debutants-",
-        "type": "NewsCard",
-        "title": "Quiz! Chelsea FA Cup debutants ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/quiz--chelsea-fa-cup-debutants-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-05T04:00:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2022/02/05/quiz--chelsea-fa-cup-debutants-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lewis Hall",
-          "id": "editorial/match-reports/2021-22/chesterfield-fa-cup/chesterfield_lewis_hall",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz! Chelsea FA Cup debutants ",
-      "publishDate": "2022-02-05T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/quiz--chelsea-fa-cup-debutants-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-05T04:00:00.000Z",
-      "description": "Both Marcus Bettinelli and Lewis Hall made their Chelsea debuts in the last round of the FA Cup, against Chesterfield, and they joined an extensive list of players to have begun their Blues career in the competition, which is the subject of today’s pre-match quiz."
     }
   ]
 }
