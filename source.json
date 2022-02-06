@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 355,
+    "totalItems": 356,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 36,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220206chelsea-learn-fa-cup-fifth-round",
+      "type": "NewsCard",
+      "timestamp": "2022-02-06T11:50:00.000Z",
+      "orderDate": "2022-02-06T11:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/06/chelsea-learn-fa-cup-fifth-round-opponents-",
+        "type": "NewsCard",
+        "title": "Chelsea learn FA Cup fifth round opponents ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/chelsea-learn-fa-cup-fifth-round-opponents-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-06T11:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/06/chelsea-learn-fa-cup-fifth-round-opponents-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/fa-cup-trophy-2018-GettyImages-960083972",
+          "gravity": "auto",
+          "aspectRatio": 1.4249017,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea learn FA Cup fifth round opponents ",
+      "publishDate": "2022-02-06T11:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/chelsea-learn-fa-cup-fifth-round-opponents-.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-06T11:50:00.000Z",
+      "description": "Chelsea will travel to Luton Town in the fifth round of this season’s Emirates FA Cup."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220206chelsea-squad-for-club-world-cup",
@@ -486,55 +534,6 @@
       ],
       "date": "2022-02-05T13:45:00.000Z",
       "description": "Our Under-18s came up short in Saturday's early kick-off against our west London rivals Fulham, ultimately losing 2-0 at Cobham."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220205tuchel-admits-chelsea-looked-at-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-05T04:00:00.000Z",
-      "orderDate": "2022-02-05T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/05/tuchel-admits-chelsea-looked-at-transfer-market-and-reveals-stre",
-        "type": "NewsCard",
-        "title": "Tuchel admits Chelsea looked at transfer market and reveals strength of team to take on Plymouth",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/tuchel-admits-chelsea-looked-at-transfer-market-and-reveals-stre.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-05T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/05/tuchel-admits-chelsea-looked-at-transfer-market-and-reveals-stre",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2022/02/4/tuchel_floodlights",
-          "gravity": "auto",
-          "aspectRatio": 1.5011933,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel admits Chelsea looked at transfer market and reveals strength of team to take on Plymouth",
-      "publishDate": "2022-02-05T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/tuchel-admits-chelsea-looked-at-transfer-market-and-reveals-stre.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-05T04:00:00.000Z",
-      "description": "Thomas Tuchel is experienced enough to know it is not wise to purchase a player in the mid-season transfer window unless every box is ticked by a potential target.",
-      "matchId": 2268104
     }
   ]
 }
