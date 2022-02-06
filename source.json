@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 357,
+    "totalItems": 358,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 36,
@@ -103,6 +103,60 @@
       ],
       "date": "2022-02-06T09:50:00.000Z",
       "description": "Having left the UK in the very early hours of Sunday morning, the Chelsea travelling party for the FIFA Club World Cup has arrived in Abu Dhabi."
+    },
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220206the-debrief--full-backs--attacki",
+      "type": "NewsCard",
+      "timestamp": "2022-02-06T13:00:00.000Z",
+      "orderDate": "2022-02-06T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/06/the-debrief--full-backs--attacking-instincts-prove-decisive-as-b",
+        "type": "NewsCard",
+        "title": "The Debrief: Full-backs’ attacking instincts prove decisive as Blues rack up record shot count",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/the-debrief--full-backs--attacking-instincts-prove-decisive-as-b.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-06T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/06/the-debrief--full-backs--attacking-instincts-prove-decisive-as-b",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " The Debrief",
+          "id": "editorial/news/2022/02/6/the-debrief-plymouth-16x9",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Full-backs’ attacking instincts prove decisive as Blues rack up record shot count",
+      "publishDate": "2022-02-06T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/the-debrief--full-backs--attacking-instincts-prove-decisive-as-b.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        }
+      ],
+      "date": "2022-02-06T13:00:00.000Z",
+      "description": "Chelsea squeezed past Plymouth in the FA Cup fourth round at Stamford Bridge on Saturday, and our statistical analysis underlines the impact our scorers had and puts the Blues’ shot count into historical context…",
+      "matchId": 2268104
     },
     {
       "contentType": "Interview",
@@ -484,55 +538,6 @@
       ],
       "date": "2022-02-05T11:30:00.000Z",
       "description": "It is a strong Chelsea team for today’s FA Cup fourth round tie against Plymouth Argyle, with the returning Andreas Christensen the only change from our last game against Tottenham.",
-      "matchId": 2268104
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220205tuchel-tests-positive-for-covid-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-05T11:05:00.000Z",
-      "orderDate": "2022-02-05T11:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/05/tuchel-tests-positive-for-covid-19",
-        "type": "NewsCard",
-        "title": "Tuchel tests positive for Covid-19",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/tuchel-tests-positive-for-covid-19.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-05T11:05:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/05/tuchel-tests-positive-for-covid-19",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Tuchel",
-          "id": "editorial/news/2022/01/26/Tuchel_GettyImages-1359391721",
-          "gravity": "auto",
-          "aspectRatio": 1.5002325,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel tests positive for Covid-19",
-      "publishDate": "2022-02-05T11:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/05/tuchel-tests-positive-for-covid-19.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-05T11:05:00.000Z",
-      "description": "Thomas Tuchel has tested positive for Covid-19...",
       "matchId": 2268104
     }
   ]
