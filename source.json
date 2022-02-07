@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 370,
+    "totalItems": 371,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 37,
+    "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220207mount-back-in-light-training-as-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-07T15:55:00.000Z",
+      "orderDate": "2022-02-07T15:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/07/mount-back-in-light-training-as-al-hilal-preparations-step-up",
+        "type": "NewsCard",
+        "title": "Mount back in light training as Al Hilal preparations step up",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/mount-back-in-light-training-as-al-hilal-preparations-step-up.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-07T15:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/07/mount-back-in-light-training-as-al-hilal-preparations-step-up",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mason Mount",
+          "id": "editorial/news/2022/02/7/mount-training-abu-dhabi",
+          "gravity": "center",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount back in light training as Al Hilal preparations step up",
+      "publishDate": "2022-02-07T15:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/mount-back-in-light-training-as-al-hilal-preparations-step-up.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2022-02-07T15:55:00.000Z",
+      "description": "Chelsea’s second training session in Abu Dhabi was boosted by the return of Mason Mount, who did some light training with the rest of the group before working individually as he builds up his fitness."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220207ziyech-s-strike-named-chelsea-s-",
@@ -492,56 +545,6 @@
       ],
       "date": "2022-02-06T22:00:00.000Z",
       "description": "Edouard Mendy produced the crucial save in the penalty shoot-out as Senegal won the Africa Cup of Nations for the first-ever time, meaning our goalkeeper is now a champion of Africa and Europe."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220206chelsea-s-club-world-cup-semi-fi",
-      "type": "NewsCard",
-      "timestamp": "2022-02-06T18:25:00.000Z",
-      "orderDate": "2022-02-06T18:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/06/chelsea-s-club-world-cup-semi-final-opponents-confirmed-",
-        "type": "NewsCard",
-        "title": "Chelsea’s Club World Cup semi-final opponents confirmed ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/chelsea-s-club-world-cup-semi-final-opponents-confirmed-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-06T18:25:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/06/chelsea-s-club-world-cup-semi-final-opponents-confirmed-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ighalo scores",
-          "id": "editorial/news/2022/02/6/ighalo-goal-al-hilal",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Chelsea’s Club World Cup semi-final opponents confirmed ",
-      "publishDate": "2022-02-06T18:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/chelsea-s-club-world-cup-semi-final-opponents-confirmed-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-06T18:25:00.000Z",
-      "description": "Chelsea will face Al Hilal in Wednesday’s Club World Cup semi-final after the Saudi Arabian side thrashed local Abu Dhabi outfit Al Jazira 6-1 today.",
-      "matchId": 2260350
     }
   ]
 }
