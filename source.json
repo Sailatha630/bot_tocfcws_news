@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 367,
+    "totalItems": 368,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 37,
@@ -284,6 +284,53 @@
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, video footage from AFCON and contract talks for a reported Chelsea target..."
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20220207chelsea-foundation-celebrate-chi",
+      "type": "NewsCard",
+      "timestamp": "2022-02-07T12:30:00.000Z",
+      "orderDate": "2022-02-06T22:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/07/chelsea-foundation-celebrate-children-s-mental-health-week",
+        "type": "NewsCard",
+        "title": "Chelsea Foundation celebrate Children’s Mental Health Week",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/chelsea-foundation-celebrate-children-s-mental-health-week.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-07T12:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/07/chelsea-foundation-celebrate-children-s-mental-health-week",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Foundation_Childrens_Mental_Health_week",
+          "gravity": "auto",
+          "aspectRatio": 1.7771953,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Foundation celebrate Children’s Mental Health Week",
+      "publishDate": "2022-02-07T12:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/chelsea-foundation-celebrate-children-s-mental-health-week.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2022-02-07T12:30:00.000Z",
+      "description": "Today (Monday 7 February) marks the beginning of Children’s Mental Health Week, and here on the official website we will focus on a different Chelsea Foundation programme each day..."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20220206internationals--mendy-the-shoot-",
       "type": "NewsCard",
@@ -477,55 +524,6 @@
       "date": "2022-02-06T14:20:00.000Z",
       "description": "Chelsea FC Women gained a vital three points in front of a sell-out Kingsmeadow crowd in the Barclays FA Women’s Super League title race after beating Manchester City on Sunday afternoon.",
       "matchId": 2236398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220206chelsea-squad-for-club-world-cup",
-      "type": "NewsCard",
-      "timestamp": "2022-02-06T09:50:00.000Z",
-      "orderDate": "2022-02-06T12:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/06/chelsea-squad-for-club-world-cup",
-        "type": "NewsCard",
-        "title": "Chelsea squad for Club World Cup",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/chelsea-squad-for-club-world-cup.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-06T09:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/06/chelsea-squad-for-club-world-cup",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Christian Pulisic and N'Golo Kante arriving",
-          "id": "editorial/news/2022/02/6/CWC_arrival_3",
-          "gravity": "faces",
-          "aspectRatio": 1.2756233,
-          "cropMode": "fill"
-        },
-        "caption": " "
-      },
-      "content": "Chelsea squad for Club World Cup",
-      "publishDate": "2022-02-06T09:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/chelsea-squad-for-club-world-cup.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-06T09:50:00.000Z",
-      "description": "Having left the UK in the very early hours of Sunday morning, the Chelsea travelling party for the FIFA Club World Cup has arrived in Abu Dhabi."
     }
   ]
 }
