@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 369,
+    "totalItems": 370,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 37,
@@ -356,6 +356,49 @@
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, video footage from AFCON and contract talks for a reported Chelsea target..."
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220207poppy-soper-to-join-chelsea-wome",
+      "type": "NewsCard",
+      "timestamp": "2022-02-07T12:32:00.000Z",
+      "orderDate": "2022-02-07T00:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/07/poppy-soper-to-join-chelsea-women-on-dual-agreement-with-plymout",
+        "type": "NewsCard",
+        "title": "Poppy Soper to join Chelsea Women on dual agreement with Plymouth Argyle",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/poppy-soper-to-join-chelsea-women-on-dual-agreement-with-plymout.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-07T12:32:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/07/poppy-soper-to-join-chelsea-women-on-dual-agreement-with-plymout",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Poppy_soper",
+          "gravity": "auto",
+          "aspectRatio": 1.5620828,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Poppy Soper to join Chelsea Women on dual agreement with Plymouth Argyle",
+      "publishDate": "2022-02-07T12:32:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/poppy-soper-to-join-chelsea-women-on-dual-agreement-with-plymout.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-02-07T12:32:00.000Z",
+      "description": "Chelsea Women have agreed a dual registration for 19-year-old goalkeeper Poppy Soper, with Plymouth Argyle."
+    },
+    {
       "contentType": "Chelsea Foundation",
       "id": "_content_chelseafcennews20220207chelsea-foundation-celebrate-chi",
       "type": "NewsCard",
@@ -499,54 +542,6 @@
       "date": "2022-02-06T18:25:00.000Z",
       "description": "Chelsea will face Al Hilal in Wednesday’s Club World Cup semi-final after the Saudi Arabian side thrashed local Abu Dhabi outfit Al Jazira 6-1 today.",
       "matchId": 2260350
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220206gallery--first-club-world-cup-tr",
-      "type": "NewsCard",
-      "timestamp": "2022-02-06T15:39:00.000Z",
-      "orderDate": "2022-02-06T15:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/06/gallery--first-club-world-cup-training-in-abu-dhabi",
-        "type": "NewsCard",
-        "title": "Gallery: First Club World Cup training in Abu Dhabi",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/gallery--first-club-world-cup-training-in-abu-dhabi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-06T15:39:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/06/gallery--first-club-world-cup-training-in-abu-dhabi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Abu Dhabi",
-          "id": "editorial/news/2022/02/6/Abu_Dhabi_training_DAZ_4318",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: First Club World Cup training in Abu Dhabi",
-      "publishDate": "2022-02-06T15:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/gallery--first-club-world-cup-training-in-abu-dhabi.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-06T15:39:00.000Z",
-      "description": "Twenty-four hours after the final whistle blew on our FA Cup win against Plymouth and 3,500 miles from Stamford Bridge, the Chelsea squad began preparations for our FIFA Club World Cup bid with the first training session in Abu Dhabi."
     }
   ]
 }
