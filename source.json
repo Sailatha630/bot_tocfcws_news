@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 364,
+    "totalItems": 365,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 37,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220207mendy-on-his-cup-of-nations-prid",
+      "type": "NewsCard",
+      "timestamp": "2022-02-07T09:49:00.000Z",
+      "orderDate": "2022-02-07T09:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/07/mendy-on-his-cup-of-nations-pride",
+        "type": "NewsCard",
+        "title": "Mendy on his Cup of Nations pride",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/mendy-on-his-cup-of-nations-pride.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-07T09:49:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/07/mendy-on-his-cup-of-nations-pride",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mendy",
+          "id": "editorial/news/2022/02/7/Mendy_AFCON_trophy_GettyImages-1238250010",
+          "gravity": "north",
+          "aspectRatio": 1.4993734,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mendy on his Cup of Nations pride",
+      "publishDate": "2022-02-07T09:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/mendy-on-his-cup-of-nations-pride.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2022-02-07T09:49:00.000Z",
+      "description": "Edouard Mendy was on the receiving end of plenty of praise following his penalty heroics in the Africa Cup of Nations final and discussed his pride at winning the trophy."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220207mount-assesses-possible-club-wor",
@@ -457,65 +510,6 @@
       ],
       "date": "2022-02-06T13:00:00.000Z",
       "description": "Chelsea squeezed past Plymouth in the FA Cup fourth round at Stamford Bridge on Saturday, and our statistical analysis underlines the impact our scorers had and puts the Blues’ shot count into historical context…",
-      "matchId": 2268104
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220206azpilicueta--kepa-is-a-great-exa",
-      "type": "NewsCard",
-      "timestamp": "2022-02-06T04:00:00.000Z",
-      "orderDate": "2022-02-06T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/06/azpilicueta--kepa-is-a-great-example-to-us-all",
-        "type": "NewsCard",
-        "title": "Azpilicueta: Kepa is a great example to us all",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/azpilicueta--kepa-is-a-great-example-to-us-all.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-06T04:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/06/azpilicueta--kepa-is-a-great-example-to-us-all",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Azpilicueta and Kepa",
-          "id": "editorial/match-reports/2021-22/plymouth-fa-cup/kepa-azpilicueta-plymouth",
-          "gravity": "auto",
-          "aspectRatio": 1.500309,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta: Kepa is a great example to us all",
-      "publishDate": "2022-02-06T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/06/azpilicueta--kepa-is-a-great-example-to-us-all.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Kepa Arrizabalaga ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kepa-arrizabalaga"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2022-02-06T04:00:00.000Z",
-      "description": "Cesar Azpilicueta hailed his good friend and compatriot Kepa Arrizabalaga after the keeper played a crucial role in our progression to the FA Cup fifth round.",
       "matchId": 2268104
     }
   ]
