@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 383,
+    "totalItems": 384,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 39,
@@ -177,6 +177,55 @@
       ],
       "date": "2022-02-08T14:45:00.000Z",
       "description": "First-team coach Zsolt Low was on media duties in Abu Dhabi ahead of our FIFA Club World Cup semi-final against Al Hilal, explaining how Thomas Tuchel is working remotely with the other coaches after testing positive for Covid and why Petr Cech has been such a big help during this period.",
+      "matchId": 2260350
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220208palmeiras-al-ahly-semi-final-rep",
+      "type": "NewsCard",
+      "timestamp": "2022-02-08T18:35:00.000Z",
+      "orderDate": "2022-02-08T13:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/08/palmeiras-al-ahly-semi-final-report",
+        "type": "NewsCard",
+        "title": "Palmeiras advance to Club World Cup final ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/palmeiras-al-ahly-semi-final-report.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-08T18:35:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/08/palmeiras-al-ahly-semi-final-report",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Palmeiras celebrate",
+          "id": "editorial/news/2022/02/8/freida-palmeiras-celebration-goal",
+          "gravity": "auto",
+          "aspectRatio": 1.4620347,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Palmeiras advance to Club World Cup final ",
+      "publishDate": "2022-02-08T18:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/palmeiras-al-ahly-semi-final-report.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-08T18:35:00.000Z",
+      "description": "Should Chelsea defeat Al Hilal tomorrow, we will play Palmeiras in the Club World Cup final after they got the better of Al Ahly in the first semi-final today (Tuesday).",
       "matchId": 2260350
     },
     {
@@ -512,54 +561,6 @@
       ],
       "date": "2022-02-08T04:17:00.000Z",
       "description": "With the Blues facing Asian champions Al Hilal on Wednesday for a spot in the FIFA Club World Cup final, here are some interesting facts about our opponents from Saudi Arabia."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220208media-watch--blues-have-madrid-d",
-      "type": "NewsCard",
-      "timestamp": "2022-02-08T08:39:00.000Z",
-      "orderDate": "2022-02-08T01:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/08/media-watch--blues-have-madrid-defender-in--future-plans---repor",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues have Madrid defender in 'future plans', reported Chelsea target chooses to sign for Dortmund and Mendy enjoys bus parade in Dakar",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/media-watch--blues-have-madrid-defender-in--future-plans---repor.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-08T08:39:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/08/media-watch--blues-have-madrid-defender-in--future-plans---repor",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Militao-mw-8-feb",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues have Madrid defender in 'future plans', reported Chelsea target chooses to sign for Dortmund and Mendy enjoys bus parade in Dakar",
-      "publishDate": "2022-02-08T08:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/media-watch--blues-have-madrid-defender-in--future-plans---repor.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2022-02-08T08:39:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, news of a reported target opting to sign elsewhere and video footage from Senegal's bus parade..."
     }
   ]
 }
