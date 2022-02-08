@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 381,
+    "totalItems": 382,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 39,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220208gallery--see-who-trained-and-whe",
+      "type": "NewsCard",
+      "timestamp": "2022-02-08T16:47:00.000Z",
+      "orderDate": "2022-02-08T16:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/08/gallery--see-who-trained-and-where-in-final-session-before-club-",
+        "type": "NewsCard",
+        "title": "Gallery: See who trained and where in final session before Club World Cup opener",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/gallery--see-who-trained-and-where-in-final-session-before-club-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-08T16:47:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/08/gallery--see-who-trained-and-where-in-final-session-before-club-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " N'Golo Kante shooting",
+          "id": "editorial/news/2022/02/8/CWC_stadium_training_13",
+          "gravity": "north_east",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: See who trained and where in final session before Club World Cup opener",
+      "publishDate": "2022-02-08T16:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/gallery--see-who-trained-and-where-in-final-session-before-club-.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-08T16:47:00.000Z",
+      "description": "It was a change of scenery on Tuesday for the first time for training in the UAE. On the eve of our first outing in the Club World Cup, the team took to the pitch where the match will be played.",
+      "matchId": 2260350
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220208zsolt-low-chelsea-press-conferen",
@@ -517,59 +566,6 @@
       "date": "2022-02-08T10:00:00.000Z",
       "description": "Aniek Nouwen says she was pleased with the defensive performance after Chelsea FC Women beat Manchester City 1-0 on Sunday.",
       "matchId": 2236398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220207mount-back-in-light-training-as-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-07T15:55:00.000Z",
-      "orderDate": "2022-02-07T15:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/07/mount-back-in-light-training-as-al-hilal-preparations-step-up",
-        "type": "NewsCard",
-        "title": "Mount back in light training as Al Hilal preparations step up",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/mount-back-in-light-training-as-al-hilal-preparations-step-up.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-07T15:55:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/07/mount-back-in-light-training-as-al-hilal-preparations-step-up",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mason Mount",
-          "id": "editorial/news/2022/02/7/mount-training-abu-dhabi",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount back in light training as Al Hilal preparations step up",
-      "publishDate": "2022-02-07T15:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/mount-back-in-light-training-as-al-hilal-preparations-step-up.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2022-02-07T15:55:00.000Z",
-      "description": "Chelsea’s second training session in Abu Dhabi was boosted by the return of Mason Mount, who did some light training with the rest of the group before working individually as he builds up his fitness."
     }
   ]
 }
