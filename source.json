@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 382,
+    "totalItems": 383,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 39,
@@ -283,6 +283,49 @@
     },
     {
       "contentType": "International",
+      "id": "_content_chelseafcennews20220208ziyech-calls-end-to-morocco-care",
+      "type": "NewsCard",
+      "timestamp": "2022-02-08T18:01:00.000Z",
+      "orderDate": "2022-02-08T11:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/08/ziyech-calls-end-to-morocco-career",
+        "type": "NewsCard",
+        "title": "Ziyech calls end to Morocco career",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/ziyech-calls-end-to-morocco-career.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-08T18:01:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/08/ziyech-calls-end-to-morocco-career",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/news/2022/02/8/ziyech_spurs",
+          "gravity": "face",
+          "aspectRatio": 1.4525288,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech calls end to Morocco career",
+      "publishDate": "2022-02-08T18:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/ziyech-calls-end-to-morocco-career.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2022-02-08T18:01:00.000Z",
+      "description": "Hakim Ziyech has indicated he has retired from international football."
+    },
+    {
+      "contentType": "International",
       "id": "_content_chelseafcennews20220208world-beaters--chelsea-s-interna",
       "type": "NewsCard",
       "timestamp": "2022-02-08T10:32:00.000Z",
@@ -517,55 +560,6 @@
       ],
       "date": "2022-02-08T08:39:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer link, news of a reported target opting to sign elsewhere and video footage from Senegal's bus parade..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220208nouwen--we-just-fought-for-every",
-      "type": "NewsCard",
-      "timestamp": "2022-02-08T10:00:00.000Z",
-      "orderDate": "2022-02-08T01:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/08/nouwen--we-just-fought-for-every-ball",
-        "type": "NewsCard",
-        "title": "Nouwen: We just fought for every ball",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/nouwen--we-just-fought-for-every-ball.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-08T10:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/08/nouwen--we-just-fought-for-every-ball",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Aniek_quote_Man_City",
-          "gravity": "auto",
-          "aspectRatio": 1.5026815,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Nouwen: We just fought for every ball",
-      "publishDate": "2022-02-08T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/nouwen--we-just-fought-for-every-ball.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-02-08T10:00:00.000Z",
-      "description": "Aniek Nouwen says she was pleased with the defensive performance after Chelsea FC Women beat Manchester City 1-0 on Sunday.",
-      "matchId": 2236398
     }
   ]
 }
