@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 377,
+    "totalItems": 378,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 38,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220208christensen--ten-years-a-blue-an",
+      "type": "NewsCard",
+      "timestamp": "2022-02-08T12:00:00.000Z",
+      "orderDate": "2022-02-08T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/08/christensen--ten-years-a-blue-and-targeting-gold-badge-on-shirt",
+        "type": "NewsCard",
+        "title": "Christensen: Ten years a Blue and targeting gold badge on shirt",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/christensen--ten-years-a-blue-and-targeting-gold-badge-on-shirt.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-08T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/08/christensen--ten-years-a-blue-and-targeting-gold-badge-on-shirt",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Andreas Christensen",
+          "id": "editorial/news/2022/02/8/christensen_chesterfield_fa_cup",
+          "gravity": "face",
+          "aspectRatio": 0.7810219,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Christensen: Ten years a Blue and targeting gold badge on shirt",
+      "publishDate": "2022-02-08T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/christensen--ten-years-a-blue-and-targeting-gold-badge-on-shirt.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-08T12:00:00.000Z",
+      "description": "Ten years on from agreeing to join Chelsea as a junior player and on the verge of making his 150th appearance for the club, we sat down with Andreas Christensen to reflect on the defender’s decade and the new challenge of trying to win the FIFA Club World Cup…"
+    },
     {
       "contentType": "International",
       "id": "_content_chelseafcennews20220208world-beaters--chelsea-s-interna",
@@ -525,59 +573,6 @@
       ],
       "date": "2022-02-07T09:49:00.000Z",
       "description": "Edouard Mendy was on the receiving end of plenty of praise following his penalty heroics in the Africa Cup of Nations final and discussed his pride at winning the trophy."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220207mount-assesses-possible-club-wor",
-      "type": "NewsCard",
-      "timestamp": "2022-02-07T05:38:00.000Z",
-      "orderDate": "2022-02-07T05:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/07/mount-assesses-possible-club-world-cup-opponents-and-targets-com",
-        "type": "NewsCard",
-        "title": "Mount assesses possible Club World Cup opponents and targets completing the set",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/mount-assesses-possible-club-world-cup-opponents-and-targets-com.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-07T05:38:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/07/mount-assesses-possible-club-world-cup-opponents-and-targets-com",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mount",
-          "id": "editorial/news/2022/02/6/Mount-Tottenham-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5475768,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount assesses possible Club World Cup opponents and targets completing the set",
-      "publishDate": "2022-02-07T05:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/07/mount-assesses-possible-club-world-cup-opponents-and-targets-com.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2022-02-07T05:38:00.000Z",
-      "description": "With Chelsea now in Abu Dhabi for the Club World Cup, Mason Mount assesses our possible opponents and opportunities in the UAE..."
     }
   ]
 }
