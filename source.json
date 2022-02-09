@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 393,
+    "totalItems": 394,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220209chelsea-line-up-vs-al-hilal",
+      "type": "NewsCard",
+      "timestamp": "2022-02-09T15:30:00.000Z",
+      "orderDate": "2022-02-09T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/09/chelsea-line-up-vs-al-hilal",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Al Hilal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/chelsea-line-up-vs-al-hilal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-09T15:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/09/chelsea-line-up-vs-al-hilal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Al Hilal",
+          "id": "editorial/news/2022/02/9/dressing_room_CWC_al-hilal",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Al Hilal",
+      "publishDate": "2022-02-09T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/chelsea-line-up-vs-al-hilal.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-09T15:30:00.000Z",
+      "description": "There are three changes to Chelsea’s line-up for our opening game of the FIFA Club World Cup in Abu Dhabi.",
+      "matchId": 2260350
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220209kovacic-eager-to-make-history-wi",
@@ -471,53 +520,6 @@
       "date": "2022-02-09T11:13:00.000Z",
       "description": "Chelsea FC Women are in Barclays FA Women’s Super League action this Friday as we take on Arsenal and everything you need to know ahead of the game can be found here in our preview…",
       "matchId": 2236403
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220201fifa-club-world-cup--who-will-ch",
-      "type": "NewsCard",
-      "timestamp": "2022-02-09T11:20:00.000Z",
-      "orderDate": "2022-02-09T00:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/01/fifa-club-world-cup--who-will-chelsea-play--where-is-it-and-when",
-        "type": "NewsCard",
-        "title": "FIFA Club World Cup: Who will Chelsea play, when are our fixtures and how to watch live?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/fifa-club-world-cup--who-will-chelsea-play--where-is-it-and-when.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-09T11:20:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/01/fifa-club-world-cup--who-will-chelsea-play--where-is-it-and-when",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/02/2/Club_World_Cup_trophy_GettyImages-1074585898",
-          "gravity": "auto",
-          "aspectRatio": 1.7774817,
-          "cropMode": "fill"
-        }
-      },
-      "content": "FIFA Club World Cup: Who will Chelsea play, when are our fixtures and how to watch live?",
-      "publishDate": "2022-02-09T11:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/01/fifa-club-world-cup--who-will-chelsea-play--where-is-it-and-when.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-09T11:20:00.000Z",
-      "description": "The FIFA Club World Cup is now under way and Chelsea's first match is fast approaching. Here we bring you all the vital information on the tournament itself, our opponents, plus where and when we will be playing."
     }
   ]
 }
