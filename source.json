@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 396,
+    "totalItems": 397,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220209low-rates-chelsea-performance-an",
+      "type": "NewsCard",
+      "timestamp": "2022-02-09T19:30:00.000Z",
+      "orderDate": "2022-02-09T19:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/09/low-rates-chelsea-performance-and-reveals-how-tuchel-stayed-in-t",
+        "type": "NewsCard",
+        "title": "Low rates Chelsea performance and reveals how Tuchel stayed in touch",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/low-rates-chelsea-performance-and-reveals-how-tuchel-stayed-in-t.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-09T19:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/09/low-rates-chelsea-performance-and-reveals-how-tuchel-stayed-in-t",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Zsolt Low",
+          "id": "editorial/match-reports/2021-22/al-hilal-cwc/zsolt-low-al-hilal",
+          "gravity": "auto",
+          "aspectRatio": 1.5001875,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Low rates Chelsea performance and reveals how Tuchel stayed in touch",
+      "publishDate": "2022-02-09T19:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/low-rates-chelsea-performance-and-reveals-how-tuchel-stayed-in-t.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Zsolt Low",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_zsolt-low"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "World Club Championship",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_world-club-championship"
+        }
+      ],
+      "date": "2022-02-09T19:30:00.000Z",
+      "description": "Zsolt Low assessed Chelsea’s performance against Al Hilal, revealed how Thomas Tuchel stayed in contact with the players and said when the boss could join up with the group after we won our Club World Cup semi-final in Abu Dhabi today.",
+      "matchId": 2260350
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220209match-report--chelsea-al-hilal",
@@ -480,55 +539,6 @@
       ],
       "date": "2022-02-09T08:11:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a fresh transfer link, news on a Premier League forward and an interview with a former African great about Edouard Mendy…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220209chelsea-first-premier-league-clu",
-      "type": "NewsCard",
-      "timestamp": "2022-02-09T07:48:00.000Z",
-      "orderDate": "2022-02-09T01:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/09/chelsea-first-premier-league-club-to-trial-new-limb-tracking-off",
-        "type": "NewsCard",
-        "title": "Chelsea first Premier League club to trial new limb-tracking offside technology",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/chelsea-first-premier-league-club-to-trial-new-limb-tracking-off.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-09T07:48:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/09/chelsea-first-premier-league-club-to-trial-new-limb-tracking-off",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " VAR Goal review",
-          "id": "editorial/news/2022/02/9/var-goal-review-offside-technology",
-          "gravity": "north",
-          "aspectRatio": 1.5001773,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea first Premier League club to trial new limb-tracking offside technology",
-      "publishDate": "2022-02-09T07:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/chelsea-first-premier-league-club-to-trial-new-limb-tracking-off.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-09T07:48:00.000Z",
-      "description": "At the 2012 Club World Cup, it was goal-line technology. A decade on, the Blues will be part of a new trial run by FIFA to help reduce human error and increase the speed of refereeing decisions.",
-      "matchId": 2260350
     }
   ]
 }
