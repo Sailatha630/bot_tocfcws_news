@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 386,
+    "totalItems": 387,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 39,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220209pre-match-briefing--chelsea-vs-a",
+      "type": "NewsCard",
+      "timestamp": "2022-02-09T06:26:00.000Z",
+      "orderDate": "2022-02-09T06:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/09/pre-match-briefing--chelsea-vs-al-hilal",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Al Hilal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/pre-match-briefing--chelsea-vs-al-hilal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-09T06:26:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/02/09/pre-match-briefing--chelsea-vs-al-hilal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Abu Dhabi skyline",
+          "id": "editorial/news/2022/02/9/abu_dhabi_skyline",
+          "gravity": "auto",
+          "aspectRatio": 1.7774618,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Al Hilal",
+      "publishDate": "2022-02-09T06:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/pre-match-briefing--chelsea-vs-al-hilal.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-09T06:26:00.000Z",
+      "description": "With the Blues two steps away from a new honour, club historian Rick Glanvill and club statistician Paul Dutton preview our semi-final challenge against the Asian champions…",
+      "matchId": 2260350
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220209blues-bulletin--chelsea-vs-al-hi",
@@ -481,74 +530,6 @@
       ],
       "date": "2022-02-08T18:01:00.000Z",
       "description": "Hakim Ziyech has indicated he has retired from international football."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220208world-beaters--chelsea-s-interna",
-      "type": "NewsCard",
-      "timestamp": "2022-02-08T10:32:00.000Z",
-      "orderDate": "2022-02-08T10:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/08/world-beaters--chelsea-s-international-champions",
-        "type": "NewsCard",
-        "title": "World-beaters: Chelsea’s international champions",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/world-beaters--chelsea-s-international-champions.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-08T10:32:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/08/world-beaters--chelsea-s-international-champions",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mendy with AFCON trophy",
-          "id": "editorial/news/2022/02/7/Mendy_AFCON_award_GettyImages-1238250100",
-          "gravity": "east",
-          "aspectRatio": 1.4997408,
-          "cropMode": "fill"
-        }
-      },
-      "content": "World-beaters: Chelsea’s international champions",
-      "publishDate": "2022-02-08T10:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/08/world-beaters--chelsea-s-international-champions.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "N'Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2022-02-08T10:32:00.000Z",
-      "description": "Edou Mendy's recent AFCON win has given us the opportunity to reminsce about some past continental conquerors..."
     }
   ]
 }
