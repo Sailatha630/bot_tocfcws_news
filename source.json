@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 399,
+    "totalItems": 400,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
@@ -119,6 +119,59 @@
       "date": "2022-02-10T04:39:00.000Z",
       "description": "Mateo Kovacic acknowledges Chelsea came through a difficult challenge in beating Al Hilal in the Club World Cup semi-final, but he never expected it to be easy anyway.",
       "matchId": 2260350
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220210media-watch--chelsea--consider--",
+      "type": "NewsCard",
+      "timestamp": "2022-02-10T10:45:00.000Z",
+      "orderDate": "2022-02-10T01:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/10/media-watch--chelsea--consider--cucurella--broja-s-celebration-c",
+        "type": "NewsCard",
+        "title": "Media Watch: Chelsea ‘consider’ Cucurella, Broja’s celebration catches the eye and JT responds to Rooney’s ‘studs’ admission ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/media-watch--chelsea--consider--cucurella--broja-s-celebration-c.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-10T10:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/10/media-watch--chelsea--consider--cucurella--broja-s-celebration-c",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/MW-Cucurella-434-9fee-7f2928aae370",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Chelsea ‘consider’ Cucurella, Broja’s celebration catches the eye and JT responds to Rooney’s ‘studs’ admission ",
+      "publishDate": "2022-02-10T10:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/media-watch--chelsea--consider--cucurella--broja-s-celebration-c.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "John Terry",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_john-terry"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Armando Broja",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_armando-broja"
+        }
+      ],
+      "date": "2022-02-10T10:45:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, there is a fresh transfer link, talk of a current Blues loanee's celebration and a tweet from a former player…"
     },
     {
       "contentType": "Analysis",
@@ -511,55 +564,6 @@
       ],
       "date": "2022-02-09T08:49:00.000Z",
       "description": "It is match day for Chelsea at the FIFA Club World Cup which would normally mean a quiet morning for the squad. However, on this occasion there were plenty of smiles all round when Edouard Mendy arrived from Senegal and injured Ben Chilwell also joined up with his team-mates having travelled from the UK."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220209pre-match-briefing--chelsea-vs-a",
-      "type": "NewsCard",
-      "timestamp": "2022-02-09T06:26:00.000Z",
-      "orderDate": "2022-02-09T06:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/09/pre-match-briefing--chelsea-vs-al-hilal",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Al Hilal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/pre-match-briefing--chelsea-vs-al-hilal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-09T06:26:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/02/09/pre-match-briefing--chelsea-vs-al-hilal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Abu Dhabi skyline",
-          "id": "editorial/news/2022/02/9/abu_dhabi_skyline",
-          "gravity": "auto",
-          "aspectRatio": 1.7774618,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Al Hilal",
-      "publishDate": "2022-02-09T06:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/pre-match-briefing--chelsea-vs-al-hilal.html",
-      "readTimeInMins": 25,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-09T06:26:00.000Z",
-      "description": "With the Blues two steps away from a new honour, club historian Rick Glanvill and club statistician Paul Dutton preview our semi-final challenge against the Asian champions…",
-      "matchId": 2260350
     }
   ]
 }
