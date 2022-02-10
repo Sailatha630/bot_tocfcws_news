@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 398,
+    "totalItems": 399,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 40,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220210kepa--we-knew-it-would-be-tough",
+      "type": "NewsCard",
+      "timestamp": "2022-02-10T10:42:00.000Z",
+      "orderDate": "2022-02-10T10:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/10/kepa--we-knew-it-would-be-tough",
+        "type": "NewsCard",
+        "title": "Kepa: We knew it would be tough",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/kepa--we-knew-it-would-be-tough.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-10T10:42:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/10/kepa--we-knew-it-would-be-tough",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kepa",
+          "id": "editorial/match-reports/2021-22/al-hilal-cwc/Kepa_GettyImages-1369594610",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kepa: We knew it would be tough",
+      "publishDate": "2022-02-10T10:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/kepa--we-knew-it-would-be-tough.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Kepa Arrizabalaga ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kepa-arrizabalaga"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        }
+      ],
+      "date": "2022-02-10T10:42:00.000Z",
+      "description": "Kepa Arrizabalaga was pleased to play his part in our FIFA Club World Cup semi-final win over Al Hilal and says the quality of our opposition in the United Arab Emirates came as no surprise for the Blues.",
+      "matchId": 2260350
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220210kovacic--we-will-ask-the-boys-fr",
@@ -500,55 +559,6 @@
       ],
       "date": "2022-02-09T06:26:00.000Z",
       "description": "With the Blues two steps away from a new honour, club historian Rick Glanvill and club statistician Paul Dutton preview our semi-final challenge against the Asian champions…",
-      "matchId": 2260350
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220209blues-bulletin--chelsea-vs-al-hi",
-      "type": "NewsCard",
-      "timestamp": "2022-02-09T04:00:00.000Z",
-      "orderDate": "2022-02-09T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/09/blues-bulletin--chelsea-vs-al-hilal",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Al Hilal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/blues-bulletin--chelsea-vs-al-hilal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-09T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/09/blues-bulletin--chelsea-vs-al-hilal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Team training",
-          "id": "editorial/news/2022/02/8/stadium-training-pre-Al-Hilal",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Al Hilal",
-      "publishDate": "2022-02-09T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/blues-bulletin--chelsea-vs-al-hilal.html",
-      "readTimeInMins": 25,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-09T04:00:00.000Z",
-      "description": "The first silverware of 2022 is up for grabs in Abu Dhabi this week and we have all the facts and figures you need to get ready for our Club World Cup semi-final...",
       "matchId": 2260350
     }
   ]
