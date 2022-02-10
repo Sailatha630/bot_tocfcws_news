@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 400,
+    "totalItems": 401,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 40,
+    "pageCount": 41,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220210the-debrief--duel-turnaround-exp",
+      "type": "NewsCard",
+      "timestamp": "2022-02-10T12:24:00.000Z",
+      "orderDate": "2022-02-10T12:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/10/the-debrief--duel-turnaround-explains-tale-of-two-halves-but-all",
+        "type": "NewsCard",
+        "title": "The Debrief: Duel turnaround explains tale of two halves but all-action duo send Blues into the final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/the-debrief--duel-turnaround-explains-tale-of-two-halves-but-all.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-10T12:24:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/10/the-debrief--duel-turnaround-explains-tale-of-two-halves-but-all",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Debrief graphic",
+          "id": "editorial/news/2022/02/10/debrief-vs-al-hilal-graphic",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Duel turnaround explains tale of two halves but all-action duo send Blues into the final",
+      "publishDate": "2022-02-10T12:24:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/the-debrief--duel-turnaround-explains-tale-of-two-halves-but-all.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Kepa Arrizabalaga ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kepa-arrizabalaga"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2022-02-10T12:24:00.000Z",
+      "description": "Chelsea took one step closer to being crowned kings of the world on Wednesday night in Abu Dhabi with a 1-0 victory over the Asian champions Al Hilal, and our statistical analysis of the contest takes a closer look at the key numbers and talking points…",
+      "matchId": 2260350
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220210kepa--we-knew-it-would-be-tough",
@@ -506,64 +570,6 @@
       "date": "2022-02-09T12:10:00.000Z",
       "description": "Chelsea captain Cesar Azpilicueta and first-team coach Zsolt Low have both warned against underestimating our FIFA Club World Cup semi-final opponents Al Hilal.",
       "matchId": 2260350
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220209gallery--mendy-and-chilly-join-u",
-      "type": "NewsCard",
-      "timestamp": "2022-02-09T08:49:00.000Z",
-      "orderDate": "2022-02-09T08:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/09/gallery--mendy-and-chilly-join-up-in-abu-dhabi",
-        "type": "NewsCard",
-        "title": "Gallery: Mendy and Chilly join up in Abu Dhabi",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/gallery--mendy-and-chilly-join-up-in-abu-dhabi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-09T08:49:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/09/gallery--mendy-and-chilly-join-up-in-abu-dhabi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Edouard Mendy arriving in Abu Dhabi",
-          "id": "editorial/news/2022/02/9/Mendy_Chilwell_arrival_1",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Mendy and Chilly join up in Abu Dhabi",
-      "publishDate": "2022-02-09T08:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/gallery--mendy-and-chilly-join-up-in-abu-dhabi.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2022-02-09T08:49:00.000Z",
-      "description": "It is match day for Chelsea at the FIFA Club World Cup which would normally mean a quiet morning for the squad. However, on this occasion there were plenty of smiles all round when Edouard Mendy arrived from Senegal and injured Ben Chilwell also joined up with his team-mates having travelled from the UK."
     }
   ]
 }
