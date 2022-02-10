@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 404,
+    "totalItems": 405,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 41,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220210gallery--mendy-returns-to-traini",
+      "type": "NewsCard",
+      "timestamp": "2022-02-10T17:36:00.000Z",
+      "orderDate": "2022-02-10T17:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/10/gallery--mendy-returns-to-training-in-abu-dhabi",
+        "type": "NewsCard",
+        "title": "Gallery: Mendy returns to training in Abu Dhabi",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/gallery--mendy-returns-to-training-in-abu-dhabi.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-10T17:36:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/10/gallery--mendy-returns-to-training-in-abu-dhabi",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mendy",
+          "id": "editorial/news/2022/02/10/Saul_Mendy_UAE_DAZ_6286",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Mendy returns to training in Abu Dhabi",
+      "publishDate": "2022-02-10T17:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/gallery--mendy-returns-to-training-in-abu-dhabi.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2022-02-10T17:36:00.000Z",
+      "description": "Edouard Mendy trained with his Chelsea team-mates in Abu Dhabi for the first time today after returning from his victory at the Africa Cup of Nations."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220210the-debrief--duel-turnaround-exp",
@@ -489,55 +547,6 @@
       ],
       "date": "2022-02-09T16:21:00.000Z",
       "description": "Chelsea are through to the final of the FIFA Club World Cup after Romelu Lukaku's goal gave us a 1-0 win over Al Hilal in Abu Dhabi.",
-      "matchId": 2260350
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220209chelsea-line-up-vs-al-hilal",
-      "type": "NewsCard",
-      "timestamp": "2022-02-09T15:30:00.000Z",
-      "orderDate": "2022-02-09T15:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/09/chelsea-line-up-vs-al-hilal",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Al Hilal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/chelsea-line-up-vs-al-hilal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-09T15:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/09/chelsea-line-up-vs-al-hilal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Al Hilal",
-          "id": "editorial/news/2022/02/9/dressing_room_CWC_al-hilal",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Al Hilal",
-      "publishDate": "2022-02-09T15:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/09/chelsea-line-up-vs-al-hilal.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-09T15:30:00.000Z",
-      "description": "There are three changes to Chelsea’s line-up for our opening game of the FIFA Club World Cup in Abu Dhabi.",
       "matchId": 2260350
     }
   ]
