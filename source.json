@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 410,
+    "totalItems": 411,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 41,
+    "pageCount": 42,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220211injury-and-tuchel-update-pre-clu",
+      "type": "NewsCard",
+      "timestamp": "2022-02-11T11:55:00.000Z",
+      "orderDate": "2022-02-11T11:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/11/injury-and-tuchel-update-pre-club-world-cup-final",
+        "type": "NewsCard",
+        "title": "Low on Tuchel latest and which goalkeeper Chelsea will pick ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/injury-and-tuchel-update-pre-club-world-cup-final.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-11T11:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/11/injury-and-tuchel-update-pre-club-world-cup-final",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kepa and Mendy",
+          "id": "editorial/news/2022/02/11/mendy-kepa-training",
+          "gravity": "auto",
+          "aspectRatio": 1.5591787,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Low on Tuchel latest and which goalkeeper Chelsea will pick ",
+      "publishDate": "2022-02-11T11:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/injury-and-tuchel-update-pre-club-world-cup-final.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Zsolt Low",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_zsolt-low"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-11T11:55:00.000Z",
+      "description": "Chelsea first team coach Zsolt Low has provided an update on Thomas Tuchel and discussed the tricky goalkeeping decision that will need to be made ahead of tomorrow’s Club World Cup final.",
+      "matchId": 2260352
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220211petr-cech-column--smooth-prepara",
@@ -519,50 +573,6 @@
       ],
       "date": "2022-02-10T15:53:00.000Z",
       "description": "Three’s 5G network is now live across Stamford Bridge and in doing so becomes the first Premier League stadium in the UK to switch on 5G across its entirety, paving the way for the ultimate connected fan experience."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220210fa-cup-tie-to-be-broadcast-live",
-      "type": "NewsCard",
-      "timestamp": "2022-02-10T17:00:00.000Z",
-      "orderDate": "2022-02-10T11:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/10/fa-cup-tie-to-be-broadcast-live",
-        "type": "NewsCard",
-        "title": "FA Cup tie to be broadcast live",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/fa-cup-tie-to-be-broadcast-live.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-10T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/10/fa-cup-tie-to-be-broadcast-live",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Kenilworth-Road-general-GettyImages-1366824736",
-          "gravity": "auto",
-          "aspectRatio": 1.4994111,
-          "cropMode": "fill"
-        }
-      },
-      "content": "FA Cup tie to be broadcast live",
-      "publishDate": "2022-02-10T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/fa-cup-tie-to-be-broadcast-live.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-02-10T17:00:00.000Z",
-      "description": "Chelsea’s trip to Luton in the FA Cup fifth round will be shown live on BBC One.",
-      "matchId": 2277258
     }
   ]
 }
