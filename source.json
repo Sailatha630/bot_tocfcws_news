@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 415,
+    "totalItems": 416,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 42,
@@ -59,6 +59,55 @@
       ],
       "date": "2022-02-11T16:05:00.000Z",
       "description": "Thomas Tuchel has landed in Abu Dhabi and joined his squad at the team hotel ahead of tomorrow’s FIFA Club World Cup final."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220211gallery--final-preparations-befo",
+      "type": "NewsCard",
+      "timestamp": "2022-02-11T19:00:00.000Z",
+      "orderDate": "2022-02-11T14:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/11/gallery--final-preparations-before-palmeiras",
+        "type": "NewsCard",
+        "title": "Gallery: Final preparations before Palmeiras",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/gallery--final-preparations-before-palmeiras.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-11T19:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/11/gallery--final-preparations-before-palmeiras",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Pulisic",
+          "id": "editorial/news/2022/02/11/pulisic-palmeiras-training",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Final preparations before Palmeiras",
+      "publishDate": "2022-02-11T19:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/gallery--final-preparations-before-palmeiras.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-11T19:00:00.000Z",
+      "description": "Chelsea trained for one final time ahead of tomorrow's Club World Cup showpiece against Palmeiras, and here we have the best images from the session which took place adjacent to the team hotel.",
+      "matchId": 2260352
     },
     {
       "contentType": "News",
@@ -497,56 +546,6 @@
       ],
       "date": "2022-02-11T08:56:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is an interview with a Real Madrid midfielder, a press conference report and some recognition for two Blues..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220211five-things-about-chelsea-s-club",
-      "type": "NewsCard",
-      "timestamp": "2022-02-11T04:07:00.000Z",
-      "orderDate": "2022-02-11T00:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/11/five-things-about-chelsea-s-club-world-cup-final-opponents-palme",
-        "type": "NewsCard",
-        "title": "Five things about Chelsea’s Club World Cup final opponents Palmeiras",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/five-things-about-chelsea-s-club-world-cup-final-opponents-palme.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-11T04:07:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/11/five-things-about-chelsea-s-club-world-cup-final-opponents-palme",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Palmeiras",
-          "id": "chelsea-app/Palmeiras-GettyImages-1358170383",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Five things about Chelsea’s Club World Cup final opponents Palmeiras",
-      "publishDate": "2022-02-11T04:07:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/five-things-about-chelsea-s-club-world-cup-final-opponents-palme.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-11T04:07:00.000Z",
-      "description": "As the Blues prepare to take on Libertadores champions Palmeiras in Abu Dhabi this Saturday in the FIFA Club World Cup final, here are some interesting facts about the Brazilian club.",
-      "matchId": 2260352
     }
   ]
 }
