@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 409,
+    "totalItems": 410,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 41,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220211kerr--whenever-we-step-on-the-fi",
+      "type": "NewsCard",
+      "timestamp": "2022-02-11T09:50:00.000Z",
+      "orderDate": "2022-02-11T09:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/11/kerr--whenever-we-step-on-the-field-we-want-to-win",
+        "type": "NewsCard",
+        "title": "Kerr: Whenever we step on the field we want to win",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/kerr--whenever-we-step-on-the-field-we-want-to-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-11T09:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/11/kerr--whenever-we-step-on-the-field-we-want-to-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Kerr_walking_out",
+          "gravity": "auto",
+          "aspectRatio": 1.5024252,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kerr: Whenever we step on the field we want to win",
+      "publishDate": "2022-02-11T09:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/kerr--whenever-we-step-on-the-field-we-want-to-win.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Sam Kerr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_sam-kerr"
+        }
+      ],
+      "date": "2022-02-11T09:50:00.000Z",
+      "description": "Chelsea FC Women host Arsenal this evening and Sam Kerr is eyeing up all three points against the league leaders.",
+      "matchId": 2236403
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220211petr-cech-column--smooth-prepara",
@@ -72,7 +126,8 @@
         }
       },
       "date": "2022-02-11T04:00:00.000Z",
-      "description": "Petr Cech is with the squad at the Club World Cup as they aim to go all the way. Here he gives a first-hand account of life within the camp and how it is operating with Thomas Tuchel involved but a considerable distance away…"
+      "description": "Petr Cech is with the squad at the Club World Cup as they aim to go all the way. Here he gives a first-hand account of life within the camp and how it is operating with Thomas Tuchel involved but a considerable distance away…",
+      "matchId": 2260352
     },
     {
       "contentType": "Interview",
@@ -508,65 +563,6 @@
       "date": "2022-02-10T17:00:00.000Z",
       "description": "Chelsea’s trip to Luton in the FA Cup fifth round will be shown live on BBC One.",
       "matchId": 2277258
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220210kepa--we-knew-it-would-be-tough",
-      "type": "NewsCard",
-      "timestamp": "2022-02-10T10:42:00.000Z",
-      "orderDate": "2022-02-10T10:42:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/10/kepa--we-knew-it-would-be-tough",
-        "type": "NewsCard",
-        "title": "Kepa: We knew it would be tough",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/kepa--we-knew-it-would-be-tough.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-10T10:42:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/10/kepa--we-knew-it-would-be-tough",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kepa",
-          "id": "editorial/match-reports/2021-22/al-hilal-cwc/Kepa_GettyImages-1369594610",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kepa: We knew it would be tough",
-      "publishDate": "2022-02-10T10:42:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/10/kepa--we-knew-it-would-be-tough.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Kepa Arrizabalaga ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kepa-arrizabalaga"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        }
-      ],
-      "date": "2022-02-10T10:42:00.000Z",
-      "description": "Kepa Arrizabalaga was pleased to play his part in our FIFA Club World Cup semi-final win over Al Hilal and says the quality of our opposition in the United Arab Emirates came as no surprise for the Blues.",
-      "matchId": 2260350
     }
   ]
 }
