@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 426,
+    "totalItems": 427,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
@@ -60,6 +60,69 @@
       "date": "2022-02-12T13:44:00.000Z",
       "description": "Jorginho says the opportunity to win a trophy provides its own motivation ahead of the FIFA Club World Cup final, but knows we cannot take anything for granted against Palmeiras.",
       "matchId": 2260352
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220212under-18s-premier-league-cup--ch",
+      "type": "NewsCard",
+      "timestamp": "2022-02-12T13:30:00.000Z",
+      "orderDate": "2022-02-12T13:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-manchester-united",
+        "type": "NewsCard",
+        "title": "U18 Premier League Cup report: Chelsea 3 Man United 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-manchester-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-12T13:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-manchester-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " U18s vs Man United",
+          "id": "editorial/news/2022/02/12/u18_cup_man_united_1",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "U18 Premier League Cup report: Chelsea 3 Man United 2",
+      "publishDate": "2022-02-12T13:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-manchester-united.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "U18 Premier League Cup ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_u18-premier-league-cup-"
+        },
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        }
+      ],
+      "date": "2022-02-12T13:30:00.000Z",
+      "description": "Our Under-18s pulled off yet another comeback this season as they fought back to beat Manchester United to make it through to the semi-finals of the Premier League Cup."
     },
     {
       "contentType": "Match Preview",
@@ -489,55 +552,6 @@
       "date": "2022-02-11T22:00:00.000Z",
       "description": "Chelsea's chance to complete the set and get our hands on the only piece of major silverware to have eluded us thus far comes in Abu Dhabi this weekend, and here we have all the facts and figures needed ahead of the FIFA Club World Cup final...",
       "matchId": 2260352
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220211women-s-match-report--chelsea-vs",
-      "type": "NewsCard",
-      "timestamp": "2022-02-11T21:55:00.000Z",
-      "orderDate": "2022-02-11T18:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/11/women-s-match-report--chelsea-vs-arsenal",
-        "type": "NewsCard",
-        "title": "Women's match report: Chelsea 0 Arsenal 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/women-s-match-report--chelsea-vs-arsenal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-11T21:55:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/11/women-s-match-report--chelsea-vs-arsenal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Carter_battling_Arsenal",
-          "gravity": "auto",
-          "aspectRatio": 1.4697819,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women's match report: Chelsea 0 Arsenal 0",
-      "publishDate": "2022-02-11T21:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/women-s-match-report--chelsea-vs-arsenal.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-02-11T21:55:00.000Z",
-      "description": "Chelsea FC Women’s unbeaten run in 2022 continued against Arsenal in a thrilling Barclays FA Women’s Super League clash at Kingsmeadow this evening.",
-      "matchId": 2236403
     }
   ]
 }
