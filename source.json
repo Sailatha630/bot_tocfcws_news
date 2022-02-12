@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 427,
+    "totalItems": 428,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220212chelsea-line-up-vs-palmeiras",
+      "type": "NewsCard",
+      "timestamp": "2022-02-12T15:30:00.000Z",
+      "orderDate": "2022-02-12T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/12/chelsea-line-up-vs-palmeiras",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Palmeiras",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/chelsea-line-up-vs-palmeiras.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-12T15:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/12/chelsea-line-up-vs-palmeiras",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  The dressing room",
+          "id": "editorial/match-reports/2021-22/palmeiras-cwc-final/palmeiras_dressing_room_2",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Palmeiras",
+      "publishDate": "2022-02-12T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/chelsea-line-up-vs-palmeiras.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-12T15:30:00.000Z",
+      "description": "Edouard Mendy returns in goal as Thomas Tuchel makes four changes from the side that won the semi-final.",
+      "matchId": 2260352
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220212jorginho-wants--amazing--winning",
@@ -504,54 +553,6 @@
       ],
       "date": "2022-02-12T13:00:00.000Z",
       "description": "Our Under-18s will be in action at Stamford Bridge later this month in the FA Youth Cup quarter-finals..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220212blues-bulletin--chelsea-vs-palme",
-      "type": "NewsCard",
-      "timestamp": "2022-02-11T22:00:00.000Z",
-      "orderDate": "2022-02-11T22:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/12/blues-bulletin--chelsea-vs-palmeiras",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Palmeiras",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/blues-bulletin--chelsea-vs-palmeiras.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-11T22:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/12/blues-bulletin--chelsea-vs-palmeiras",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/02/12/CWC-semi-vs-Al-Hilal",
-          "gravity": "auto",
-          "aspectRatio": 1.4998596,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Palmeiras",
-      "publishDate": "2022-02-11T22:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/blues-bulletin--chelsea-vs-palmeiras.html",
-      "readTimeInMins": 25,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-11T22:00:00.000Z",
-      "description": "Chelsea's chance to complete the set and get our hands on the only piece of major silverware to have eluded us thus far comes in Abu Dhabi this weekend, and here we have all the facts and figures needed ahead of the FIFA Club World Cup final...",
-      "matchId": 2260352
     }
   ]
 }
