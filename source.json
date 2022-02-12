@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 423,
+    "totalItems": 424,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220212-we-are-feeling-confident-and-we",
+      "type": "NewsCard",
+      "timestamp": "2022-02-12T11:24:00.000Z",
+      "orderDate": "2022-02-12T11:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/12/-we-are-feeling-confident-and-we-want-to-complete-chelsea-s-trop",
+        "type": "NewsCard",
+        "title": "‘We are feeling confident and we want to complete Chelsea’s trophy collection’",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/-we-are-feeling-confident-and-we-want-to-complete-chelsea-s-trop.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-12T11:24:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/12/-we-are-feeling-confident-and-we-want-to-complete-chelsea-s-trop",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Zsolt Low",
+          "id": "editorial/news/2022/02/11/zsolt-low-training-abu-dhabi-palmeiras",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "‘We are feeling confident and we want to complete Chelsea’s trophy collection’",
+      "publishDate": "2022-02-12T11:24:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/-we-are-feeling-confident-and-we-want-to-complete-chelsea-s-trop.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Zsolt Low",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_zsolt-low"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-12T11:24:00.000Z",
+      "description": "Chelsea today can add a new piece of silverware to our crowded trophy cabinet, and men’s first team coach Zsolt Low says the team are ready to write a new chapter in Blues history.",
+      "matchId": 2260352
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220212quiz--do-you-remember-the-venues",
@@ -479,60 +533,6 @@
       ],
       "date": "2022-02-11T19:00:00.000Z",
       "description": "Chelsea trained for one final time ahead of tomorrow's Club World Cup showpiece against Palmeiras, and here we have the best images from the session which took place adjacent to the team hotel.",
-      "matchId": 2260352
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220211injury-and-tuchel-update-pre-clu",
-      "type": "NewsCard",
-      "timestamp": "2022-02-11T11:55:00.000Z",
-      "orderDate": "2022-02-11T11:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/11/injury-and-tuchel-update-pre-club-world-cup-final",
-        "type": "NewsCard",
-        "title": "Low on Tuchel latest and which goalkeeper Chelsea will pick ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/injury-and-tuchel-update-pre-club-world-cup-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-11T11:55:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/11/injury-and-tuchel-update-pre-club-world-cup-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kepa and Mendy",
-          "id": "editorial/news/2022/02/11/mendy-kepa-training",
-          "gravity": "auto",
-          "aspectRatio": 1.5591787,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Low on Tuchel latest and which goalkeeper Chelsea will pick ",
-      "publishDate": "2022-02-11T11:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/injury-and-tuchel-update-pre-club-world-cup-final.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Zsolt Low",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_zsolt-low"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-11T11:55:00.000Z",
-      "description": "Chelsea men's first team coach Zsolt Low has provided an update on Thomas Tuchel and discussed the tricky goalkeeping decision that will need to be made ahead of tomorrow’s Club World Cup final.",
       "matchId": 2260352
     }
   ]
