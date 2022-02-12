@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 425,
+    "totalItems": 426,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220212jorginho-wants--amazing--winning",
+      "type": "NewsCard",
+      "timestamp": "2022-02-12T13:44:00.000Z",
+      "orderDate": "2022-02-12T13:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/12/jorginho-wants--amazing--winning-feeling",
+        "type": "NewsCard",
+        "title": "Jorginho wants ‘amazing’ winning feeling",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/jorginho-wants--amazing--winning-feeling.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-12T13:44:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/12/jorginho-wants--amazing--winning-feeling",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jorginho",
+          "id": "editorial/news/2022/02/11/Jorginho_CWC_Al_Hilal_GettyImages-1369578822",
+          "gravity": "south",
+          "aspectRatio": 1.4996343,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jorginho wants ‘amazing’ winning feeling",
+      "publishDate": "2022-02-12T13:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/jorginho-wants--amazing--winning-feeling.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-12T13:44:00.000Z",
+      "description": "Jorginho says the opportunity to win a trophy provides its own motivation ahead of the FIFA Club World Cup final, but knows we cannot take anything for granted against Palmeiras.",
+      "matchId": 2260352
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220212-we-are-feeling-confident-and-we",
@@ -484,59 +538,6 @@
       "date": "2022-02-11T21:55:00.000Z",
       "description": "Chelsea FC Women’s unbeaten run in 2022 continued against Arsenal in a thrilling Barclays FA Women’s Super League clash at Kingsmeadow this evening.",
       "matchId": 2236403
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220211tuchel-touches-down-in-abu-dhabi",
-      "type": "NewsCard",
-      "timestamp": "2022-02-11T16:05:00.000Z",
-      "orderDate": "2022-02-11T16:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/11/tuchel-touches-down-in-abu-dhabi",
-        "type": "NewsCard",
-        "title": "Tuchel touches down in Abu Dhabi",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/tuchel-touches-down-in-abu-dhabi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-11T16:05:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/11/tuchel-touches-down-in-abu-dhabi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Tuchel",
-          "id": "editorial/news/2022/02/11/Tuchel_CWC_arrival_DAZ_7016_crop",
-          "gravity": "face",
-          "aspectRatio": 1.4998076,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel touches down in Abu Dhabi",
-      "publishDate": "2022-02-11T16:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/tuchel-touches-down-in-abu-dhabi.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-11T16:05:00.000Z",
-      "description": "Thomas Tuchel has landed in Abu Dhabi and joined his squad at the team hotel ahead of tomorrow’s FIFA Club World Cup final."
     }
   ]
 }
