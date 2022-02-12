@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 420,
+    "totalItems": 421,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 42,
+    "pageCount": 43,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220212under-18s-premier-league-cup--ch",
+      "type": "NewsCard",
+      "timestamp": "2022-02-12T04:00:00.000Z",
+      "orderDate": "2022-02-12T12:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-vs-manchester-united",
+        "type": "NewsCard",
+        "title": "Under-18 Premier League Cup live stream preview: Semi-final in sight",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-vs-manchester-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-12T04:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-vs-manchester-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Charlie Webster celebrating against Derby PL Cup",
+          "id": "editorial/match-reports/2021-22/derby-county-under-18s-premier-league-cup/Under-18s-PL-Cup-Webster-celebration-after-penalty-vs-Derby",
+          "gravity": "auto",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18 Premier League Cup live stream preview: Semi-final in sight",
+      "publishDate": "2022-02-12T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-vs-manchester-united.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "U18 Premier League Cup ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_u18-premier-league-cup-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2022-02-12T04:00:00.000Z",
+      "description": "Our young Blues will take on Manchester United in the last eight of the Premier League Cup this morning in a game that will be live streamed across all our digital platforms, kick-off 11am."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220212club-world-cup-final-exclusive--",
@@ -464,74 +518,6 @@
       ],
       "date": "2022-02-11T16:05:00.000Z",
       "description": "Chelsea are currently preparing for the FIFA Club World Cup final on only our second-ever appearance in the competition, but do you remember these lesser-known or quirky facts from the last time we competed in this tournament?"
-    },
-    {
-      "contentType": "Columnists",
-      "id": "_content_chelseafcennews20220211petr-cech-column--smooth-prepara",
-      "type": "NewsCard",
-      "timestamp": "2022-02-11T04:00:00.000Z",
-      "orderDate": "2022-02-11T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/11/petr-cech-column--smooth-preparations--positive-energy-and-takin",
-        "type": "NewsCard",
-        "title": "Petr Cech column: Smooth preparations, positive energy and taking the final step",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/petr-cech-column--smooth-preparations--positive-energy-and-takin.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-11T04:00:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2022/02/11/petr-cech-column--smooth-preparations--positive-energy-and-takin",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Petr Cech",
-          "id": "editorial/news/2021/09/10/Petr_Cech_Column_Article_Hero",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Petr Cech column: Smooth preparations, positive energy and taking the final step",
-      "publishDate": "2022-02-11T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/11/petr-cech-column--smooth-preparations--positive-energy-and-takin.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        },
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Petr",
-        "lastName": "Cech",
-        "description": " ",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Petr Cecg",
-          "id": "video/2021/03/23/-porto-are-always-a-tough-opponent--you-have-to-respect-them-----3Ytf4Dtj/210323_Cech_UCL_Thumb1",
-          "gravity": "face",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2022-02-11T04:00:00.000Z",
-      "description": "Petr Cech is with the squad at the Club World Cup as they aim to go all the way. Here he gives a first-hand account of life within the camp and how it is operating with Thomas Tuchel involved but a considerable distance away…",
-      "matchId": 2260352
     }
   ]
 }
