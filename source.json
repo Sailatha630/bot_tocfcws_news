@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 429,
+    "totalItems": 430,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 43,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220212chelsea-keep-rewriting-the-histo",
+      "type": "NewsCard",
+      "timestamp": "2022-02-12T19:52:00.000Z",
+      "orderDate": "2022-02-12T19:22:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/12/chelsea-keep-rewriting-the-history-books--",
+        "type": "NewsCard",
+        "title": "Chelsea keep rewriting the history books! ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/chelsea-keep-rewriting-the-history-books--.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-12T19:52:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/12/chelsea-keep-rewriting-the-history-books--",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Havertz celebrates",
+          "id": "editorial/match-reports/2021-22/palmeiras-cwc-final/GettyImages-1238417112",
+          "gravity": "center",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea keep rewriting the history books! ",
+      "publishDate": "2022-02-12T19:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/chelsea-keep-rewriting-the-history-books--.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        }
+      ],
+      "date": "2022-02-12T19:52:00.000Z",
+      "description": "With victory over Palmeiras tonight, Chelsea have etched yet another memorable chapter in the club’s long and illustrious history. We have our hands on the solitary major trophy that has eluded us, the FIFA Club World Cup, a prize only on offer to those who have climbed Europe’s highest peak.",
+      "matchId": 2260352
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220212match-report--chelsea-vs-palmeir",
@@ -496,60 +555,6 @@
       "date": "2022-02-12T09:08:00.000Z",
       "description": "Emma Hayes says the league is still all to play for after Chelsea FC Women battled out a goalless draw against league-leaders Arsenal in an entertaining match at Kingsmeadow yesterday evening.",
       "matchId": 2236403
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220212under-18s-premier-league-cup--ch",
-      "type": "NewsCard",
-      "timestamp": "2022-02-12T04:00:00.000Z",
-      "orderDate": "2022-02-12T00:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-vs-manchester-united",
-        "type": "NewsCard",
-        "title": "Under-18 Premier League Cup live stream preview: Semi-final in sight",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-vs-manchester-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-12T04:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-vs-manchester-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Charlie Webster celebrating against Derby PL Cup",
-          "id": "editorial/match-reports/2021-22/derby-county-under-18s-premier-league-cup/Under-18s-PL-Cup-Webster-celebration-after-penalty-vs-Derby",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18 Premier League Cup live stream preview: Semi-final in sight",
-      "publishDate": "2022-02-12T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/under-18s-premier-league-cup--chelsea-vs-manchester-united.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "U18 Premier League Cup ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_u18-premier-league-cup-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2022-02-12T04:00:00.000Z",
-      "description": "Our young Blues will take on Manchester United in the last eight of the Premier League Cup this morning in a game that will be live streamed across all our digital platforms, kick-off 11am."
     }
   ]
 }
