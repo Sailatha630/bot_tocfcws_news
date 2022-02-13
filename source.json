@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 431,
+    "totalItems": 432,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220213azpi-reveals-how-he-helped-haver",
+      "type": "NewsCard",
+      "timestamp": "2022-02-13T06:36:00.000Z",
+      "orderDate": "2022-02-13T06:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/13/azpi-reveals-how-he-helped-havertz-and-expresses-pride-at-comple",
+        "type": "NewsCard",
+        "title": "Azpilicueta reveals how he helped Havertz and expresses pride at completing the set",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/azpi-reveals-how-he-helped-havertz-and-expresses-pride-at-comple.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-13T06:36:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/13/azpi-reveals-how-he-helped-havertz-and-expresses-pride-at-comple",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Cesar Azpilicueta",
+          "id": "editorial/news/2022/02/13/azpilicueta-cwc-trophy",
+          "gravity": "auto",
+          "aspectRatio": 1.5001776,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Azpilicueta reveals how he helped Havertz and expresses pride at completing the set",
+      "publishDate": "2022-02-13T06:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/azpi-reveals-how-he-helped-havertz-and-expresses-pride-at-comple.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-13T06:36:00.000Z",
+      "description": "Cesar Azpilicueta became the first Chelsea player in our history to win every major trophy as we edged past Palmeiras in the Club World Cup final yesterday, and our skipper spoke afterwards about the role he played in the decisive penalty that ensured we left Abu Dhabi with a new piece of silverware in tow.",
+      "matchId": 2260352
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220212tuchel-reaction-to-winning-the-c",
@@ -505,55 +559,6 @@
       ],
       "date": "2022-02-12T05:00:00.000Z",
       "description": "On the day Chelsea will try to add new silverware to our trophy cabinet, Thiago Silva tells us about his Club World Cup near-misses, how Palmeiras are perceived in Brazil, and why he is so determined to return to London with a smile on his face…",
-      "matchId": 2260352
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220212pre-match-briefing--chelsea-vs-p",
-      "type": "NewsCard",
-      "timestamp": "2022-02-12T04:27:00.000Z",
-      "orderDate": "2022-02-12T04:27:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/12/pre-match-briefing--chelsea-vs-palmeiras",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Palmeiras",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/pre-match-briefing--chelsea-vs-palmeiras.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-12T04:27:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/02/12/pre-match-briefing--chelsea-vs-palmeiras",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Club World Cup trophy",
-          "id": "editorial/news/2022/02/11/FIFA_Club_World_Cup_stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Palmeiras",
-      "publishDate": "2022-02-12T04:27:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/pre-match-briefing--chelsea-vs-palmeiras.html",
-      "readTimeInMins": 28,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-12T04:27:00.000Z",
-      "description": "It is a game which needs little introduction – as the Blues are playing for the right to call ourselves world champions. Club historian Rick Glanvill and club statistician Paul Dutton preview the big match in the Middle East…",
       "matchId": 2260352
     }
   ]
