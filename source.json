@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 436,
+    "totalItems": 437,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220213the-debrief--king-kai-reigns-aga",
+      "type": "NewsCard",
+      "timestamp": "2022-02-13T16:30:00.000Z",
+      "orderDate": "2022-02-13T16:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/13/the-debrief--king-kai-reigns-again-as-blues-wear-down-palmeiras-",
+        "type": "NewsCard",
+        "title": "The Debrief: King Kai reigns again as Blues wear down Palmeiras to win gold",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/the-debrief--king-kai-reigns-again-as-blues-wear-down-palmeiras-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-13T16:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/13/the-debrief--king-kai-reigns-again-as-blues-wear-down-palmeiras-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/02/13/debrief-vs-palmeiras-graphic",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: King Kai reigns again as Blues wear down Palmeiras to win gold",
+      "publishDate": "2022-02-13T16:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/the-debrief--king-kai-reigns-again-as-blues-wear-down-palmeiras-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        }
+      ],
+      "date": "2022-02-13T16:30:00.000Z",
+      "description": "Our statistical analysis of the FIFA Club World Cup final takes a closer look at the key numbers and talking points…",
+      "matchId": 2260352
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220213havertz---i-dreamed-of-this-as-a",
@@ -487,60 +550,6 @@
       ],
       "date": "2022-02-12T15:30:00.000Z",
       "description": "Edouard Mendy returns in goal as Thomas Tuchel makes four changes from the side that won the semi-final.",
-      "matchId": 2260352
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220212jorginho-wants--amazing--winning",
-      "type": "NewsCard",
-      "timestamp": "2022-02-12T13:44:00.000Z",
-      "orderDate": "2022-02-12T13:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/12/jorginho-wants--amazing--winning-feeling",
-        "type": "NewsCard",
-        "title": "Jorginho wants ‘amazing’ winning feeling",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/jorginho-wants--amazing--winning-feeling.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-12T13:44:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/12/jorginho-wants--amazing--winning-feeling",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jorginho",
-          "id": "editorial/news/2022/02/11/Jorginho_CWC_Al_Hilal_GettyImages-1369578822",
-          "gravity": "south",
-          "aspectRatio": 1.4996343,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho wants ‘amazing’ winning feeling",
-      "publishDate": "2022-02-12T13:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/jorginho-wants--amazing--winning-feeling.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-12T13:44:00.000Z",
-      "description": "Jorginho says the opportunity to win a trophy provides its own motivation ahead of the FIFA Club World Cup final, but knows we cannot take anything for granted against Palmeiras.",
       "matchId": 2260352
     }
   ]
