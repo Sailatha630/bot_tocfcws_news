@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 433,
+    "totalItems": 434,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220213tuchel-gives-mount-injury-update",
+      "type": "NewsCard",
+      "timestamp": "2022-02-13T10:45:00.000Z",
+      "orderDate": "2022-02-13T07:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/13/tuchel-gives-mount-injury-update",
+        "type": "NewsCard",
+        "title": "Tuchel gives Mount injury update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/tuchel-gives-mount-injury-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-13T10:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/13/tuchel-gives-mount-injury-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mason Mount",
+          "id": "editorial/match-reports/2021-22/palmeiras-cwc-final/mount-injury-palmeiras",
+          "gravity": "south",
+          "aspectRatio": 1.5002364,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel gives Mount injury update",
+      "publishDate": "2022-02-13T10:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/tuchel-gives-mount-injury-update.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2022-02-13T10:45:00.000Z",
+      "description": "Plenty went right against Palmeiras on Saturday in the Middle East, with Chelsea winning in extra-time and lifting the Club World Cup after the final whistle, but one unfortunate moment was the sight of Mason Mount leaving the pitch with only half-an-hour of the first half played.",
+      "matchId": 2260352
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220213azpi-reveals-how-he-helped-haver",
@@ -490,70 +544,6 @@
       ],
       "date": "2022-02-12T11:24:00.000Z",
       "description": "Chelsea today can add a new piece of silverware to our crowded trophy cabinet, and men’s first team coach Zsolt Low says the team are ready to write a new chapter in Blues history.",
-      "matchId": 2260352
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220212quiz--do-you-remember-the-venues",
-      "type": "NewsCard",
-      "timestamp": "2022-02-12T11:10:00.000Z",
-      "orderDate": "2022-02-12T10:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/12/quiz--do-you-remember-the-venues-for-chelsea-s-previous-internat",
-        "type": "NewsCard",
-        "title": "Quiz: Do you remember the venues for Chelsea's previous international finals?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/quiz--do-you-remember-the-venues-for-chelsea-s-previous-internat.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-12T11:10:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/12/quiz--do-you-remember-the-venues-for-chelsea-s-previous-internat",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mohammed Bin Zayed Stadium",
-          "id": "editorial/news/2022/02/12/Mohammed_Bin_Zayed_Stadium_general_GettyImages-1368409252",
-          "gravity": "auto",
-          "aspectRatio": 1.4998578,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Do you remember the venues for Chelsea's previous international finals?",
-      "publishDate": "2022-02-12T11:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/quiz--do-you-remember-the-venues-for-chelsea-s-previous-internat.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "European Super Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_european-super-cup"
-        },
-        {
-          "title": "Europa League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_europa-league"
-        },
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-02-12T11:10:00.000Z",
-      "description": "Chelsea take on Palmeiras in the FIFA Club World Cup final at the Mohammed Bin Zayed Stadium in Abu Dhabi today, but do you know the other stadiums that have hosted the Blues in international finals?",
       "matchId": 2260352
     }
   ]
