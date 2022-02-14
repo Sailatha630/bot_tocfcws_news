@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 439,
+    "totalItems": 440,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220214hudson-odoi-on-his-link-up-with-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-14T09:00:00.000Z",
+      "orderDate": "2022-02-14T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/14/hudson-odoi-on-his-link-up-with-lukaku-and-chelsea-s-crazy-succe",
+        "type": "NewsCard",
+        "title": "Hudson-Odoi on his link-up with Lukaku and Chelsea's 'crazy' success",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/14/hudson-odoi-on-his-link-up-with-lukaku-and-chelsea-s-crazy-succe.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-14T09:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/14/hudson-odoi-on-his-link-up-with-lukaku-and-chelsea-s-crazy-succe",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hudson-Odoi",
+          "id": "editorial/news/2022/02/13/Hudson-Odoi_GettyImages-1370181081",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hudson-Odoi on his link-up with Lukaku and Chelsea's 'crazy' success",
+      "publishDate": "2022-02-14T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/14/hudson-odoi-on-his-link-up-with-lukaku-and-chelsea-s-crazy-succe.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Callum Hudson-Odoi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_calum-hudson-odoi"
+        },
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2022-02-14T09:00:00.000Z",
+      "description": "Callum Hudson-Odoi says there is no way to describe the feeling of lifting the Club World Cup trophy and explains that his relationship with Romelu Lukaku meant he knew the Belgian would open the scoring as soon as he hit his cross.",
+      "matchId": 2260352
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220214tuchel--not-nice-to-watch-from-a",
@@ -499,55 +558,6 @@
       ],
       "date": "2022-02-12T19:52:00.000Z",
       "description": "With victory over Palmeiras tonight, Chelsea have etched yet another memorable chapter in the club’s long and illustrious history. We have our hands on the solitary major trophy that has eluded us, the FIFA Club World Cup, a prize only on offer to those who have climbed Europe’s highest peak.",
-      "matchId": 2260352
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220212match-report--chelsea-vs-palmeir",
-      "type": "NewsCard",
-      "timestamp": "2022-02-12T18:34:00.000Z",
-      "orderDate": "2022-02-12T18:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/12/match-report--chelsea-vs-palmeiras",
-        "type": "NewsCard",
-        "title": "Match report: Chelsea 2 Palmeiras 1 (AET)",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/match-report--chelsea-vs-palmeiras.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-12T18:34:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/12/match-report--chelsea-vs-palmeiras",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/match-reports/2021-22/palmeiras-cwc-final/palmeiras_trophy_lift",
-          "gravity": "auto",
-          "aspectRatio": 1.4992679,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Chelsea 2 Palmeiras 1 (AET)",
-      "publishDate": "2022-02-12T18:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/12/match-report--chelsea-vs-palmeiras.html",
-      "readTimeInMins": 22,
-      "tags": [
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-12T18:34:00.000Z",
-      "description": "We’ve won it all!!",
       "matchId": 2260352
     }
   ]
