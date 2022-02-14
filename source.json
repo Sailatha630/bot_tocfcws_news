@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 438,
+    "totalItems": 439,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 44,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220214tuchel--not-nice-to-watch-from-a",
+      "type": "NewsCard",
+      "timestamp": "2022-02-14T04:30:00.000Z",
+      "orderDate": "2022-02-14T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/14/tuchel--not-nice-to-watch-from-afar",
+        "type": "NewsCard",
+        "title": "Tuchel: Not nice to watch from afar",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/14/tuchel--not-nice-to-watch-from-afar.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-14T04:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/14/tuchel--not-nice-to-watch-from-afar",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel Club World Cup",
+          "id": "editorial/news/2022/02/14/tuchel_club_world_cup",
+          "gravity": "auto",
+          "aspectRatio": 1.500138,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Not nice to watch from afar",
+      "publishDate": "2022-02-14T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/14/tuchel--not-nice-to-watch-from-afar.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-14T04:30:00.000Z",
+      "description": "Amongst all the team effort and triumph in winning the semi-final and the final of the FIFA Cup World Cup last week, there was the personal story of Thomas Tuchel and his initial managing of the team from far and then his late journey to be with them, eventual able to guide and enjoy the victory over Palmeiras first hand.",
+      "matchId": 2260352
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220213the-debrief--king-kai-reigns-aga",
@@ -495,55 +549,6 @@
       "date": "2022-02-12T18:34:00.000Z",
       "description": "We’ve won it all!!",
       "matchId": 2260352
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220213carter-praises-blues--defensive-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-13T07:22:00.000Z",
-      "orderDate": "2022-02-12T16:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/13/carter-praises-blues--defensive-performance",
-        "type": "NewsCard",
-        "title": "Carter praises Blues' defensive performance",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/carter-praises-blues--defensive-performance.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-13T07:22:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/13/carter-praises-blues--defensive-performance",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Jess_Carter_Arsenal_action_shot",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Carter praises Blues' defensive performance",
-      "publishDate": "2022-02-13T07:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/carter-praises-blues--defensive-performance.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Jess Carter",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_jess-carter"
-        }
-      ],
-      "date": "2022-02-13T07:22:00.000Z",
-      "description": "Jess Carter said Chelsea FC Women’s defensive mentality was key after the Blues drew with Arsenal at Kingsmeadow on Friday evening.",
-      "matchId": 2236403
     }
   ]
 }
