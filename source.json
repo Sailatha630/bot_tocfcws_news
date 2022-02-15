@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 452,
+    "totalItems": 453,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 46,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220215gallery--the-world-champions-get",
+      "type": "NewsCard",
+      "timestamp": "2022-02-15T19:00:00.000Z",
+      "orderDate": "2022-02-15T19:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/15/gallery--the-world-champions-get-back-to-work",
+        "type": "NewsCard",
+        "title": "Gallery: The World Champions get back to work",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/15/gallery--the-world-champions-get-back-to-work.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-15T19:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/15/gallery--the-world-champions-get-back-to-work",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/CL2_7217_c757a438-f0ea-4025-8f28-e222f73dacc4",
+          "gravity": "auto",
+          "aspectRatio": 1.3105938,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: The World Champions get back to work",
+      "publishDate": "2022-02-15T19:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/15/gallery--the-world-champions-get-back-to-work.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2022-02-15T19:00:00.000Z",
+      "description": "Chelsea's players arrived back at Cobham for a full training session this afternoon after our Club World Cup triumph in Abu Dhabi."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220215kante-expresses-pride-of-contrib",
@@ -497,65 +550,6 @@
       ],
       "date": "2022-02-14T17:00:00.000Z",
       "description": "Chelsea are on top of the world – and the club provided the opportunity for a selection of Supporters’ Club members to have a similar treat in the UAE on the eve of our victory over Palmeiras.",
-      "matchId": 2260352
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220214hudson-odoi-on-his-link-up-with-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-14T09:00:00.000Z",
-      "orderDate": "2022-02-14T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/14/hudson-odoi-on-his-link-up-with-lukaku-and-chelsea-s-crazy-succe",
-        "type": "NewsCard",
-        "title": "Hudson-Odoi on his link-up with Lukaku and Chelsea's 'crazy' success",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/14/hudson-odoi-on-his-link-up-with-lukaku-and-chelsea-s-crazy-succe.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-14T09:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/14/hudson-odoi-on-his-link-up-with-lukaku-and-chelsea-s-crazy-succe",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hudson-Odoi",
-          "id": "editorial/news/2022/02/13/Hudson-Odoi_GettyImages-1370181081",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hudson-Odoi on his link-up with Lukaku and Chelsea's 'crazy' success",
-      "publishDate": "2022-02-14T09:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/14/hudson-odoi-on-his-link-up-with-lukaku-and-chelsea-s-crazy-succe.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2022-02-14T09:00:00.000Z",
-      "description": "Callum Hudson-Odoi says there is no way to describe the feeling of lifting the Club World Cup trophy and explains that his relationship with Romelu Lukaku meant he knew the Belgian would open the scoring as soon as he hit his cross.",
       "matchId": 2260352
     }
   ]
