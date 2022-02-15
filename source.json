@@ -1,12 +1,54 @@
 {
   "pagination": {
-    "totalItems": 446,
+    "totalItems": 447,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 45,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220215sarr-on-the--amazing-feeling--of",
+      "type": "NewsCard",
+      "timestamp": "2022-02-15T04:00:00.000Z",
+      "orderDate": "2022-02-15T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/15/sarr-on-the--amazing-feeling--of-winning-the-club-world-cup",
+        "type": "NewsCard",
+        "title": "Sarr on the ‘amazing feeling’ of winning the Club World Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/15/sarr-on-the--amazing-feeling--of-winning-the-club-world-cup.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-15T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/15/sarr-on-the--amazing-feeling--of-winning-the-club-world-cup",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Sarr-mendy-DTW_7918-555606",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Sarr on the ‘amazing feeling’ of winning the Club World Cup",
+      "publishDate": "2022-02-15T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/15/sarr-on-the--amazing-feeling--of-winning-the-club-world-cup.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Malang Sarr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_malang-sarr"
+        }
+      ],
+      "date": "2022-02-15T04:00:00.000Z",
+      "description": "Defender Malang Sarr has spoken of his immense pride of being named a World Champion while also praising the attitude of his team-mates in the victory over Palmeiras."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220214how-azpi-won-the-lot-",
@@ -489,53 +531,6 @@
       "date": "2022-02-13T16:30:00.000Z",
       "description": "Our statistical analysis of the FIFA Club World Cup final takes a closer look at the key numbers and talking points…",
       "matchId": 2260352
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220213havertz---i-dreamed-of-this-as-a",
-      "type": "NewsCard",
-      "timestamp": "2022-02-13T14:00:00.000Z",
-      "orderDate": "2022-02-13T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/13/havertz---i-dreamed-of-this-as-a-kid--",
-        "type": "NewsCard",
-        "title": "Havertz: ‘I dreamed of this as a kid!’",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/havertz---i-dreamed-of-this-as-a-kid--.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-13T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/13/havertz---i-dreamed-of-this-as-a-kid--",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Havertz-Lukaku-CWC-trophy-GettyImages-1370192222",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz: ‘I dreamed of this as a kid!’",
-      "publishDate": "2022-02-13T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/13/havertz---i-dreamed-of-this-as-a-kid--.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Club World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_club-world-cup"
-        }
-      ],
-      "date": "2022-02-13T14:00:00.000Z",
-      "description": "Chelsea match-winner Kai Havertz has spoken of the ‘incredible feeling’ of being crowned champions of the world, while also admitting he was nervous before he slotted away the winning penalty."
     }
   ]
 }
