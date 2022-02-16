@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 455,
+    "totalItems": 456,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 46,
@@ -111,6 +111,48 @@
       ],
       "date": "2022-02-16T10:00:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a Twitter Q&A, a manager's press conference and a report on one player's international allegiance..."
+    },
+    {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20220216stamford-bridge-hosts-amos-sport",
+      "type": "NewsCard",
+      "timestamp": "2022-02-16T11:35:00.000Z",
+      "orderDate": "2022-02-16T00:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/16/stamford-bridge-hosts-amos-sports-business-challenge-finale-",
+        "type": "NewsCard",
+        "title": "Stamford Bridge hosts AMOS Sports Business challenge finale",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/16/stamford-bridge-hosts-amos-sports-business-challenge-finale-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-16T11:35:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/16/stamford-bridge-hosts-amos-sports-business-challenge-finale-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/AMOS_business_article",
+          "gravity": "auto",
+          "aspectRatio": 1.3333334,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Stamford Bridge hosts AMOS Sports Business challenge finale",
+      "publishDate": "2022-02-16T11:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/16/stamford-bridge-hosts-amos-sports-business-challenge-finale-.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2022-02-16T11:35:00.000Z",
+      "description": "Chelsea FC Foundation recently set three challenges to students at the Business school, with the final stage taking part at the Canoville Suite."
     },
     {
       "contentType": "News",
@@ -487,53 +529,6 @@
       ],
       "date": "2022-02-15T16:09:00.000Z",
       "description": "Our Under-18s will be hosting Blackpool in the quarter-finals of this season's FA Youth Cup with the tie to be staged at Stamford Bridge on Thursday 24 February, kick-off 7pm. Tickets are now on sale."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220214how-azpi-won-the-lot-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-14T12:30:00.000Z",
-      "orderDate": "2022-02-14T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/14/how-azpi-won-the-lot-",
-        "type": "NewsCard",
-        "title": "Senor Silverware - How Azpi won the lot!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/14/how-azpi-won-the-lot-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-14T12:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/14/how-azpi-won-the-lot-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/02/14/Azpilicueta-Club-World-Cup_trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.5006702,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Senor Silverware - How Azpi won the lot!",
-      "publishDate": "2022-02-14T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/14/how-azpi-won-the-lot-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-14T12:30:00.000Z",
-      "description": "Cesar Azpilicueta made club history on Saturday when he became the first Chelsea player to compete a full collection of major honours following our victory in the FIFA Club World Cup final."
     }
   ]
 }
