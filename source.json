@@ -1,12 +1,59 @@
 {
   "pagination": {
-    "totalItems": 464,
+    "totalItems": 465,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 47,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220217havertz-responds-to--king-kai--n",
+      "type": "NewsCard",
+      "timestamp": "2022-02-17T15:57:00.000Z",
+      "orderDate": "2022-02-17T15:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/17/havertz-responds-to--king-kai--nickname-while-praising-influenti",
+        "type": "NewsCard",
+        "title": "Havertz responds to ‘King Kai’ nickname while praising influential skipper Azpilicueta ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/havertz-responds-to--king-kai--nickname-while-praising-influenti.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-17T15:57:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/17/havertz-responds-to--king-kai--nickname-while-praising-influenti",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Havertz-penalty-cwc-GettyImages-1238417453",
+          "gravity": "auto",
+          "aspectRatio": 1.4992679,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz responds to ‘King Kai’ nickname while praising influential skipper Azpilicueta ",
+      "publishDate": "2022-02-17T15:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/havertz-responds-to--king-kai--nickname-while-praising-influenti.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2022-02-17T15:57:00.000Z",
+      "description": "Kai Havertz has hailed the influence that captain Cesar Azpilicueta has had on his early Chelsea career while also praising his tactics leading up to his Club World Cup final penalty."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220217preparations-step-up-for-crystal",
@@ -487,54 +534,6 @@
       ],
       "date": "2022-02-16T07:14:00.000Z",
       "description": "It was four years ago today that Olivier Giroud hit the back of the net in a Chelsea shirt for the first time, but where does he rank alongside these fellow January signings for the Blues by how long it took him to open his account for the club?"
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220216burnley-away-ticket-news",
-      "type": "NewsCard",
-      "timestamp": "2022-02-16T13:01:00.000Z",
-      "orderDate": "2022-02-16T03:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/16/burnley-away-ticket-news",
-        "type": "NewsCard",
-        "title": "Burnley away ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/16/burnley-away-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-16T13:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/16/burnley-away-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Turf Moor",
-          "id": "chelsea-app/Turf-Moor-General-view-GettyImages-888786500",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Burnley away ticket news",
-      "publishDate": "2022-02-16T13:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/16/burnley-away-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-02-16T13:01:00.000Z",
-      "description": "Ticket details for our trip to Turf Moor next month have been confirmed..."
     }
   ]
 }
