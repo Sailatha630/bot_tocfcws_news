@@ -198,6 +198,54 @@
       "matchId": 2260352
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220217extra-carabao-cup-tickets-availa",
+      "type": "NewsCard",
+      "timestamp": "2022-02-17T15:26:00.000Z",
+      "orderDate": "2022-02-17T03:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available",
+        "type": "NewsCard",
+        "title": "Tickets Together: Luton, Lille and Carabao Cup final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-17T15:26:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Carabao Cup",
+          "id": "editorial/news/2019/9/carabao_cup_trophy",
+          "gravity": "auto",
+          "aspectRatio": 2.2443712,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tickets Together: Luton, Lille and Carabao Cup final",
+      "publishDate": "2022-02-17T15:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-02-17T15:26:00.000Z",
+      "description": "We have received some more tickets for Tuesday's game against Lille and the Carabao Cup final, while details for our FA Cup tie at Luton have been confirmed..."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220217media-watch--blues-linked-to-lig",
       "type": "NewsCard",
@@ -292,54 +340,6 @@
       ],
       "date": "2022-02-17T15:00:00.000Z",
       "description": "Our Under-18s will be hosting Blackpool in the quarter-finals of this season's FA Youth Cup with the tie to be staged at Stamford Bridge on Thursday 24 February. Kick-off is now at 6pm and tickets are on sale."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220217extra-carabao-cup-tickets-availa",
-      "type": "NewsCard",
-      "timestamp": "2022-02-17T11:26:00.000Z",
-      "orderDate": "2022-02-17T00:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available",
-        "type": "NewsCard",
-        "title": "Extra Carabao Cup final and Lille home tickets available",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-17T11:26:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Carabao Cup",
-          "id": "editorial/news/2019/9/carabao_cup_trophy",
-          "gravity": "auto",
-          "aspectRatio": 2.2443712,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Extra Carabao Cup final and Lille home tickets available",
-      "publishDate": "2022-02-17T11:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-02-17T11:26:00.000Z",
-      "description": "We have received some more tickets for Tuesday's game against Lille and the Carabao Cup final."
     },
     {
       "contentType": "History",
