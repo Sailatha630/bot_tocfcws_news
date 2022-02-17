@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 465,
+    "totalItems": 466,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 47,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220217blues-bulletin--crystal-palace-v",
+      "type": "NewsCard",
+      "timestamp": "2022-02-17T17:00:00.000Z",
+      "orderDate": "2022-02-17T17:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/17/blues-bulletin--crystal-palace-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Crystal Palace vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/blues-bulletin--crystal-palace-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-17T17:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/17/blues-bulletin--crystal-palace-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Christian Pulisic scoring against Crystal Palace",
+          "id": "editorial/news/2021/04/11/Pulisic_GettyImages-1232226575",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Crystal Palace vs Chelsea",
+      "publishDate": "2022-02-17T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/blues-bulletin--crystal-palace-vs-chelsea.html",
+      "readTimeInMins": 27,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-17T17:00:00.000Z",
+      "description": "In a February filled with cup games so far, it is back to league action this weekend and we preview the game here with stats and facts, including news of some records that could be set...",
+      "matchId": 2210524
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220217havertz-responds-to--king-kai--n",
@@ -487,53 +541,6 @@
       ],
       "date": "2022-02-17T09:04:00.000Z",
       "description": "Chelsea FC Women goalkeeper Zecira Musovic met with participants on Chelsea FC Foundation’s Kicks programme via Zoom last week."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220216quiz--can-you-order-giroud-and-t",
-      "type": "NewsCard",
-      "timestamp": "2022-02-16T07:14:00.000Z",
-      "orderDate": "2022-02-16T07:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/16/quiz--can-you-order-giroud-and-these-other-january-signings-by-h0",
-        "type": "NewsCard",
-        "title": "Quiz: Can you order Giroud and these other January signings by how long it took them to score?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/16/quiz--can-you-order-giroud-and-these-other-january-signings-by-h0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-16T07:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/16/quiz--can-you-order-giroud-and-these-other-january-signings-by-h0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/02/15/Giroud_Hull_GettyImages-919102850",
-          "gravity": "auto",
-          "aspectRatio": 1.4077702,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Can you order Giroud and these other January signings by how long it took them to score?",
-      "publishDate": "2022-02-16T07:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/16/quiz--can-you-order-giroud-and-these-other-january-signings-by-h0.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-16T07:14:00.000Z",
-      "description": "It was four years ago today that Olivier Giroud hit the back of the net in a Chelsea shirt for the first time, but where does he rank alongside these fellow January signings for the Blues by how long it took him to open his account for the club?"
     }
   ]
 }
