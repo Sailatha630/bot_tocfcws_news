@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 469,
+    "totalItems": 470,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 47,
@@ -177,6 +177,48 @@
       ],
       "date": "2022-02-18T05:00:00.000Z",
       "description": "Our development squad host Tottenham Hotspur this evening at Kingsmeadow in an important clash where a win can take us out of the bottom two. You can watch live across all our digital platforms, kick-off 7pm."
+    },
+    {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20220218chelsea-museum--stadium-megastor",
+      "type": "NewsCard",
+      "timestamp": "2022-02-18T10:31:00.000Z",
+      "orderDate": "2022-02-18T00:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/18/chelsea-museum--stadium-megastore-and-tours-closed-due-to-advers",
+        "type": "NewsCard",
+        "title": "Chelsea Museum, Stadium Megastore and tours closed due to extreme weather conditions",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/chelsea-museum--stadium-megastore-and-tours-closed-due-to-advers.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-18T10:31:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/18/chelsea-museum--stadium-megastore-and-tours-closed-due-to-advers",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "club-chelsea/matchday-(mbm)-packages/museum-package/MBM_MuseumPackage_Stadium_View",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Museum, Stadium Megastore and tours closed due to extreme weather conditions",
+      "publishDate": "2022-02-18T10:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/chelsea-museum--stadium-megastore-and-tours-closed-due-to-advers.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Stamford Bridge",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_stamford-bridge"
+        }
+      ],
+      "date": "2022-02-18T10:31:00.000Z",
+      "description": "Following the Met Office announcing a red weather warning in London today (Friday), a number of our stadium facilities will be closed."
     },
     {
       "contentType": "Match Preview",
@@ -516,59 +558,6 @@
       ],
       "date": "2022-02-17T15:26:00.000Z",
       "description": "We have received some more tickets for Tuesday's game against Lille and the Carabao Cup final, while details for our FA Cup tie at Luton have been confirmed..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220217media-watch--blues-linked-to-lig",
-      "type": "NewsCard",
-      "timestamp": "2022-02-17T09:25:00.000Z",
-      "orderDate": "2022-02-17T02:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/17/media-watch--blues-linked-to-ligue-1-striker--premier-league-duo",
-        "type": "NewsCard",
-        "title": "Media Watch: Blues linked to Ligue 1 striker, Premier League duo to rival Chelsea for left back and several Blues outline their idols growing up",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/media-watch--blues-linked-to-ligue-1-striker--premier-league-duo.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-17T09:25:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/17/media-watch--blues-linked-to-ligue-1-striker--premier-league-duo",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Ekitike-Reims-mw-17-feb",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Blues linked to Ligue 1 striker, Premier League duo to rival Chelsea for left back and several Blues outline their idols growing up",
-      "publishDate": "2022-02-17T09:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/media-watch--blues-linked-to-ligue-1-striker--premier-league-duo.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Conor Gallagher",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_conor-gallagher"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2022-02-17T09:25:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer links and also a video which includes several Blues players..."
     }
   ]
 }
