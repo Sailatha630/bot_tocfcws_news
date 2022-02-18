@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 466,
+    "totalItems": 467,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 47,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220218pre-match-briefing--crystal-pala",
+      "type": "NewsCard",
+      "timestamp": "2022-02-18T04:30:00.000Z",
+      "orderDate": "2022-02-18T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/18/pre-match-briefing--crystal-palace-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Crystal Palace vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/pre-match-briefing--crystal-palace-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-18T04:30:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/02/18/pre-match-briefing--crystal-palace-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Selhurst Park",
+          "id": "editorial/news/2022/02/18/selhurst_park_aerial_view",
+          "gravity": "auto",
+          "aspectRatio": 1.4853114,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Crystal Palace vs Chelsea",
+      "publishDate": "2022-02-18T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/pre-match-briefing--crystal-palace-vs-chelsea.html",
+      "readTimeInMins": 69,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-18T04:30:00.000Z",
+      "description": "After our trip to the Middle East, a run of three games in a row in London begins with the resumption of the league campaign. Club historian Rick Glanvill and club statistician Paul Dutton investigate…",
+      "matchId": 2210524
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220217blues-bulletin--crystal-palace-v",
@@ -499,48 +553,6 @@
       ],
       "date": "2022-02-16T12:28:00.000Z",
       "description": "This week marks 50 years since the release of much-loved Chelsea anthem Blue is the Colour, a track that reached the top five in the UK charts and has remained a terrace favourite at Stamford Bridge for half a century…"
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220217zecira-musovic-shares-with-found",
-      "type": "NewsCard",
-      "timestamp": "2022-02-17T09:04:00.000Z",
-      "orderDate": "2022-02-16T11:04:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/17/zecira-musovic-shares-with-foundation-participants-how-she-keeps",
-        "type": "NewsCard",
-        "title": "Zecira Musovic shares with Foundation participants how she keeps a healthy mind for Children’s Mental Health Week",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/zecira-musovic-shares-with-foundation-participants-how-she-keeps.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-17T09:04:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/17/zecira-musovic-shares-with-foundation-participants-how-she-keeps",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Zecira_Foundation_Zoom_meeting",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Zecira Musovic shares with Foundation participants how she keeps a healthy mind for Children’s Mental Health Week",
-      "publishDate": "2022-02-17T09:04:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/zecira-musovic-shares-with-foundation-participants-how-she-keeps.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-02-17T09:04:00.000Z",
-      "description": "Chelsea FC Women goalkeeper Zecira Musovic met with participants on Chelsea FC Foundation’s Kicks programme via Zoom last week."
     }
   ]
 }
