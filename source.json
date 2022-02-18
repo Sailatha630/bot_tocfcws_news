@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 470,
+    "totalItems": 471,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 47,
+    "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
@@ -177,6 +177,53 @@
       ],
       "date": "2022-02-18T05:00:00.000Z",
       "description": "Our development squad host Tottenham Hotspur this evening at Kingsmeadow in an important clash where a win can take us out of the bottom two. You can watch live across all our digital platforms, kick-off 7pm."
+    },
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220218chelsea-women-international-roun",
+      "type": "NewsCard",
+      "timestamp": "2022-02-18T12:30:00.000Z",
+      "orderDate": "2022-02-18T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/18/chelsea-women-international-round-up",
+        "type": "NewsCard",
+        "title": "Chelsea Women international round-up: Bright scores as Blues face off",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/chelsea-women-international-round-up.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-18T12:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/18/chelsea-women-international-round-up",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Millie_Bright_England_goal",
+          "gravity": "auto",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women international round-up: Bright scores as Blues face off",
+      "publishDate": "2022-02-18T12:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/chelsea-women-international-round-up.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2022-02-18T12:30:00.000Z",
+      "description": "This week has seen a host of international matches with Chelsea FC Women players involved in four different friendly competitions."
     },
     {
       "contentType": "Stamford Bridge",
@@ -510,54 +557,6 @@
       "date": "2022-02-17T04:00:00.000Z",
       "description": "Petr Cech picks up from his column last week to conclude the tale of our Club World Cup story from his perspective, with a big return, big decisions, and a big slice of history on his mind…",
       "matchId": 2260352
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220217extra-carabao-cup-tickets-availa",
-      "type": "NewsCard",
-      "timestamp": "2022-02-17T15:26:00.000Z",
-      "orderDate": "2022-02-17T03:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available",
-        "type": "NewsCard",
-        "title": "Tickets Together: Luton, Lille and Carabao Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-17T15:26:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Carabao Cup",
-          "id": "editorial/news/2019/9/carabao_cup_trophy",
-          "gravity": "auto",
-          "aspectRatio": 2.2443712,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tickets Together: Luton, Lille and Carabao Cup final",
-      "publishDate": "2022-02-17T15:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/extra-carabao-cup-tickets-available.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-02-17T15:26:00.000Z",
-      "description": "We have received some more tickets for Tuesday's game against Lille and the Carabao Cup final, while details for our FA Cup tie at Luton have been confirmed..."
     }
   ]
 }
