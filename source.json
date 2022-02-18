@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 475,
+    "totalItems": 476,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220218tuchel-rules-duo-as-doubts-for-c",
+      "type": "NewsCard",
+      "timestamp": "2022-02-18T22:30:00.000Z",
+      "orderDate": "2022-02-18T22:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/18/tuchel-rules-duo-as-doubts-for-crystal-palace-",
+        "type": "NewsCard",
+        "title": "Tuchel rules duo as doubts for Crystal Palace ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/tuchel-rules-duo-as-doubts-for-crystal-palace-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-18T22:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/18/tuchel-rules-duo-as-doubts-for-crystal-palace-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/10/18/Azpilicueta_Tuchel_DTW_2542",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel rules duo as doubts for Crystal Palace ",
+      "publishDate": "2022-02-18T22:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/tuchel-rules-duo-as-doubts-for-crystal-palace-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        }
+      ],
+      "date": "2022-02-18T22:30:00.000Z",
+      "description": "Head coach Thomas Tuchel has provided an update on the fitness of his squad ahead of tomorrow’s all-London clash with Crystal Palace.",
+      "matchId": 2210524
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220218tuchel-s-premier-league-press-co",
@@ -503,53 +567,6 @@
       "date": "2022-02-17T17:00:00.000Z",
       "description": "In a February filled with cup games so far, it is back to league action this weekend and we preview the game here with stats and facts, including news of some records that could be set...",
       "matchId": 2210524
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220217havertz-responds-to--king-kai--n",
-      "type": "NewsCard",
-      "timestamp": "2022-02-17T15:57:00.000Z",
-      "orderDate": "2022-02-17T15:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/17/havertz-responds-to--king-kai--nickname-while-praising-influenti",
-        "type": "NewsCard",
-        "title": "Havertz responds to ‘King Kai’ nickname while praising influential skipper Azpilicueta ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/havertz-responds-to--king-kai--nickname-while-praising-influenti.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-17T15:57:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/17/havertz-responds-to--king-kai--nickname-while-praising-influenti",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Havertz-penalty-cwc-GettyImages-1238417453",
-          "gravity": "auto",
-          "aspectRatio": 1.4992679,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz responds to ‘King Kai’ nickname while praising influential skipper Azpilicueta ",
-      "publishDate": "2022-02-17T15:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/havertz-responds-to--king-kai--nickname-while-praising-influenti.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2022-02-17T15:57:00.000Z",
-      "description": "Kai Havertz has hailed the influence that captain Cesar Azpilicueta has had on his early Chelsea career while also praising his tactics leading up to his Club World Cup final penalty."
     }
   ]
 }
