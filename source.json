@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 478,
+    "totalItems": 479,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220219tuchel--pressure-brings-out-the-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-19T12:51:00.000Z",
+      "orderDate": "2022-02-19T12:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/19/tuchel--pressure-brings-out-the-best-in-us",
+        "type": "NewsCard",
+        "title": "Tuchel: Pressure brings out the best in us",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/tuchel--pressure-brings-out-the-best-in-us.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-19T12:51:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/19/tuchel--pressure-brings-out-the-best-in-us",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2022/02/18/Tuchel_GettyImages-1370155532",
+          "gravity": "face",
+          "aspectRatio": 1.5007504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Pressure brings out the best in us",
+      "publishDate": "2022-02-19T12:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/tuchel--pressure-brings-out-the-best-in-us.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Club World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_club-world-cup"
+        }
+      ],
+      "date": "2022-02-19T12:51:00.000Z",
+      "description": "Thomas Tuchel gives his view on what our FIFA Club World Cup victory says about our chances of glory in the Premier League and explains the different tactical merits of playing with a back three or a back four.",
+      "matchId": 2210524
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220219jorginho-focused-on-not-getting-",
@@ -536,53 +600,6 @@
       ],
       "date": "2022-02-18T09:30:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer story, a report of a contract stand-off and news of an injury for Chelsea's soon to be cup final opponents.."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220218chelsea-women-international-roun",
-      "type": "NewsCard",
-      "timestamp": "2022-02-18T12:30:00.000Z",
-      "orderDate": "2022-02-18T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/18/chelsea-women-international-round-up",
-        "type": "NewsCard",
-        "title": "Chelsea Women international round-up: Bright scores as Blues face off",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/chelsea-women-international-round-up.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-18T12:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/18/chelsea-women-international-round-up",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Millie_Bright_England_goal",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women international round-up: Bright scores as Blues face off",
-      "publishDate": "2022-02-18T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/chelsea-women-international-round-up.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2022-02-18T12:30:00.000Z",
-      "description": "This week has seen a host of international matches with Chelsea FC Women players involved in four different friendly competitions."
     }
   ]
 }
