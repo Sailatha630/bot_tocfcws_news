@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 480,
+    "totalItems": 481,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 48,
+    "pageCount": 49,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220219match-report--crystal-palace-che",
+      "type": "NewsCard",
+      "timestamp": "2022-02-19T16:36:00.000Z",
+      "orderDate": "2022-02-19T16:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/19/match-report--crystal-palace-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Crystal Palace 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/match-report--crystal-palace-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-19T16:36:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/19/match-report--crystal-palace-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ziyech",
+          "id": "editorial/match-reports/2021-22/crystal-palace-away/Ziyech_Pulisic_GettyImages-1371546914",
+          "gravity": "auto",
+          "aspectRatio": 1.5003762,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Crystal Palace 0 Chelsea 1",
+      "publishDate": "2022-02-19T16:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/match-report--crystal-palace-chelsea.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-19T16:36:00.000Z",
+      "description": "Chelsea were made to work hard and left it late, but returned to Premier League action with a win by beating Crystal Palace in our first match as world champions.",
+      "matchId": 2210524
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220219chelsea-line-up-vs-crystal-palac",
@@ -547,60 +601,6 @@
       ],
       "date": "2022-02-18T17:20:00.000Z",
       "description": "Both tonight's Premier League 2 home fixture against Tottenham and tomorrow's Under-18 Premier League game at Reading have been postponed..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220218pre-match-briefing--crystal-pala",
-      "type": "NewsCard",
-      "timestamp": "2022-02-18T04:30:00.000Z",
-      "orderDate": "2022-02-18T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/18/pre-match-briefing--crystal-palace-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Crystal Palace vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/pre-match-briefing--crystal-palace-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-18T04:30:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/02/18/pre-match-briefing--crystal-palace-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Selhurst Park",
-          "id": "editorial/news/2022/02/18/selhurst_park_aerial_view",
-          "gravity": "auto",
-          "aspectRatio": 1.4853114,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Crystal Palace vs Chelsea",
-      "publishDate": "2022-02-18T04:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/pre-match-briefing--crystal-palace-vs-chelsea.html",
-      "readTimeInMins": 69,
-      "tags": [
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-18T04:30:00.000Z",
-      "description": "After our trip to the Middle East, a run of three games in a row in London begins with the resumption of the league campaign. Club historian Rick Glanvill and club statistician Paul Dutton investigate…",
-      "matchId": 2210524
     }
   ]
 }
