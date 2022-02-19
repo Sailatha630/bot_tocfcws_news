@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 477,
+    "totalItems": 478,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220219jorginho-focused-on-not-getting-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-19T10:48:00.000Z",
+      "orderDate": "2022-02-19T10:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/19/jorginho-focused-on-not-getting-carried-away-and-fighting-to-fin",
+        "type": "NewsCard",
+        "title": "Jorginho focused on not getting carried away and fighting to find a way to win  ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/jorginho-focused-on-not-getting-carried-away-and-fighting-to-fin.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-19T10:48:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/19/jorginho-focused-on-not-getting-carried-away-and-fighting-to-fin",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jorginho",
+          "id": "editorial/news/2022/02/18/jorginho-away-shirt-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5001726,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jorginho focused on not getting carried away and fighting to find a way to win  ",
+      "publishDate": "2022-02-19T10:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/jorginho-focused-on-not-getting-carried-away-and-fighting-to-fin.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-19T10:48:00.000Z",
+      "description": "A week ago, Chelsea became World Champions, but Jorginho is not here to rest on his laurels and bask in the glory of our groundbreaking triumph. Not when there is still so much left to play for this season.",
+      "matchId": 2210524
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220219tuchel-updates-on-azpilicueta-co",
@@ -529,48 +583,6 @@
       ],
       "date": "2022-02-18T12:30:00.000Z",
       "description": "This week has seen a host of international matches with Chelsea FC Women players involved in four different friendly competitions."
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20220218chelsea-museum--stadium-megastor",
-      "type": "NewsCard",
-      "timestamp": "2022-02-18T10:31:00.000Z",
-      "orderDate": "2022-02-18T00:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/18/chelsea-museum--stadium-megastore-and-tours-closed-due-to-advers",
-        "type": "NewsCard",
-        "title": "Chelsea Museum, Stadium Megastore and tours closed due to extreme weather conditions",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/chelsea-museum--stadium-megastore-and-tours-closed-due-to-advers.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-18T10:31:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/18/chelsea-museum--stadium-megastore-and-tours-closed-due-to-advers",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "club-chelsea/matchday-(mbm)-packages/museum-package/MBM_MuseumPackage_Stadium_View",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Museum, Stadium Megastore and tours closed due to extreme weather conditions",
-      "publishDate": "2022-02-18T10:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/chelsea-museum--stadium-megastore-and-tours-closed-due-to-advers.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        }
-      ],
-      "date": "2022-02-18T10:31:00.000Z",
-      "description": "Following the Met Office announcing a red weather warning in London today (Friday), a number of our stadium facilities will be closed."
     }
   ]
 }
