@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 479,
+    "totalItems": 480,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220219chelsea-line-up-vs-crystal-palac",
+      "type": "NewsCard",
+      "timestamp": "2022-02-19T13:46:00.000Z",
+      "orderDate": "2022-02-19T13:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/19/chelsea-line-up-vs-crystal-palace",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Crystal Palace",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/chelsea-line-up-vs-crystal-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-19T13:46:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/19/chelsea-line-up-vs-crystal-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Changing room",
+          "id": "editorial/match-reports/2021-22/crystal-palace-away/palace_away_shirt",
+          "gravity": "center",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Crystal Palace",
+      "publishDate": "2022-02-19T13:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/chelsea-line-up-vs-crystal-palace.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-19T13:46:00.000Z",
+      "description": "Thomas Tuchel has made four changes to the team which won the FIFA Club World Cup final last week as we return to Premier League action at Crystal Palace today, with Mason Mount and Cesar Azpilicueta both missing out due to injuries picked up in Abu Dhabi.",
+      "matchId": 2210524
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220219tuchel--pressure-brings-out-the-",
@@ -547,59 +601,6 @@
       "date": "2022-02-18T04:30:00.000Z",
       "description": "After our trip to the Middle East, a run of three games in a row in London begins with the resumption of the league campaign. Club historian Rick Glanvill and club statistician Paul Dutton investigate…",
       "matchId": 2210524
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220218media-watch--antony-emerges-as-s",
-      "type": "NewsCard",
-      "timestamp": "2022-02-18T09:30:00.000Z",
-      "orderDate": "2022-02-18T01:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/18/media-watch--antony-emerges-as-summer-target--raphinha-hesitates",
-        "type": "NewsCard",
-        "title": "Media Watch: Antony emerges as summer target, Raphinha hesitates over new Leeds contract amid Blues interest and Liverpool's Jota facing fitness battle for Carabao Cup final ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/media-watch--antony-emerges-as-summer-target--raphinha-hesitates.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-18T09:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/18/media-watch--antony-emerges-as-summer-target--raphinha-hesitates",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Antony-mw-18-feb",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Antony emerges as summer target, Raphinha hesitates over new Leeds contract amid Blues interest and Liverpool's Jota facing fitness battle for Carabao Cup final ",
-      "publishDate": "2022-02-18T09:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/media-watch--antony-emerges-as-summer-target--raphinha-hesitates.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-18T09:30:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer story, a report of a contract stand-off and news of an injury for Chelsea's soon to be cup final opponents.."
     }
   ]
 }
