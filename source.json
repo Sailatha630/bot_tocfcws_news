@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 476,
+    "totalItems": 477,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 48,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220219tuchel-updates-on-azpilicueta-co",
+      "type": "NewsCard",
+      "timestamp": "2022-02-19T04:30:00.000Z",
+      "orderDate": "2022-02-19T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/19/tuchel-updates-on-azpilicueta-contract-talks-while-also-heaping-",
+        "type": "NewsCard",
+        "title": "Tuchel updates on Azpilicueta contract talks while also heaping praise on Conor Gallagher ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/tuchel-updates-on-azpilicueta-contract-talks-while-also-heaping-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-19T04:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/19/tuchel-updates-on-azpilicueta-contract-talks-while-also-heaping-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/palmeiras-cwc-final/GettyImages-1370175324",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel updates on Azpilicueta contract talks while also heaping praise on Conor Gallagher ",
+      "publishDate": "2022-02-19T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/19/tuchel-updates-on-azpilicueta-contract-talks-while-also-heaping-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        }
+      ],
+      "date": "2022-02-19T04:30:00.000Z",
+      "description": "Thomas Tuchel does not believe Cesar Azpilicueta is affected by discussions off the pitch regarding his Chelsea future and thinks he has dealt with the outside noise ‘very professionally’.",
+      "matchId": 2210524
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220218tuchel-rules-duo-as-doubts-for-c",
@@ -513,60 +571,6 @@
       ],
       "date": "2022-02-18T10:31:00.000Z",
       "description": "Following the Met Office announcing a red weather warning in London today (Friday), a number of our stadium facilities will be closed."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220217blues-bulletin--crystal-palace-v",
-      "type": "NewsCard",
-      "timestamp": "2022-02-17T17:00:00.000Z",
-      "orderDate": "2022-02-17T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/17/blues-bulletin--crystal-palace-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Crystal Palace vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/blues-bulletin--crystal-palace-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-17T17:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/17/blues-bulletin--crystal-palace-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Christian Pulisic scoring against Crystal Palace",
-          "id": "editorial/news/2021/04/11/Pulisic_GettyImages-1232226575",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Crystal Palace vs Chelsea",
-      "publishDate": "2022-02-17T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/17/blues-bulletin--crystal-palace-vs-chelsea.html",
-      "readTimeInMins": 27,
-      "tags": [
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-17T17:00:00.000Z",
-      "description": "In a February filled with cup games so far, it is back to league action this weekend and we preview the game here with stats and facts, including news of some records that could be set...",
-      "matchId": 2210524
     }
   ]
 }
