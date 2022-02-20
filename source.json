@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 483,
+    "totalItems": 484,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 49,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220220ziyech--this-is-my-best-spell-in",
+      "type": "NewsCard",
+      "timestamp": "2022-02-20T04:02:00.000Z",
+      "orderDate": "2022-02-20T04:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/20/ziyech--this-is-my-best-spell-in-a-chelsea-shirt-",
+        "type": "NewsCard",
+        "title": "Ziyech: This is my best spell in a Chelsea shirt ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/20/ziyech--this-is-my-best-spell-in-a-chelsea-shirt-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-20T04:02:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/20/ziyech--this-is-my-best-spell-in-a-chelsea-shirt-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Ziyech-palace-GettyImages-1371552325",
+          "gravity": "auto",
+          "aspectRatio": 1.5007504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech: This is my best spell in a Chelsea shirt ",
+      "publishDate": "2022-02-20T04:02:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/20/ziyech--this-is-my-best-spell-in-a-chelsea-shirt-.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-20T04:02:00.000Z",
+      "description": "Match-winner Hakim Ziyech discusses his latest successful outing and the difficulties that were overcome...",
+      "matchId": 2210524
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220219tuchel-pleased-with-result-and-c",
@@ -561,64 +614,6 @@
       "date": "2022-02-18T13:43:00.000Z",
       "description": "Thomas Tuchel has revealed that Mason Mount is pushing for a return to fitness for the Carabao Cup final next weekend, while Reece James continues to make steady progress in his comeback from a longer-term muscle injury.",
       "matchId": 2210524
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220218tuchel--why-azpilicueta-embodies",
-      "type": "NewsCard",
-      "timestamp": "2022-02-18T14:49:00.000Z",
-      "orderDate": "2022-02-18T13:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/18/tuchel--why-azpilicueta-embodies-chelsea-and-kepa-s-capacity-to-",
-        "type": "NewsCard",
-        "title": "Tuchel: Why Azpilicueta embodies Chelsea and Kepa’s capacity to cope is not normal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/tuchel--why-azpilicueta-embodies-chelsea-and-kepa-s-capacity-to-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-18T14:49:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/18/tuchel--why-azpilicueta-embodies-chelsea-and-kepa-s-capacity-to-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Azpilicueta and Kepa",
-          "id": "editorial/news/2022/02/18/kepa-azpilicueta-cwc",
-          "gravity": "north",
-          "aspectRatio": 1.3716356,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Why Azpilicueta embodies Chelsea and Kepa’s capacity to cope is not normal",
-      "publishDate": "2022-02-18T14:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/18/tuchel--why-azpilicueta-embodies-chelsea-and-kepa-s-capacity-to-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Kepa Arrizabalaga ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kepa-arrizabalaga"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2022-02-18T14:49:00.000Z",
-      "description": "Thomas Tuchel has been speaking about the importance of two of his Spanish stars who played a critical role in our Club World Cup triumph in Abu Dhabi."
     }
   ]
 }
