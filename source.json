@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 500,
+    "totalItems": 501,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 50,
+    "pageCount": 51,
     "startFrom": 0
   },
   "newsFeed": [
@@ -226,6 +226,55 @@
       ],
       "date": "2022-02-21T17:22:00.000Z",
       "description": "For the first time since he became Chelsea manager a little over a year ago, Thomas Tuchel is pitting his wits against a club he came up against in the domestic leagues in which he worked prior to moving to the Premier League.",
+      "matchId": 2261857
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220221take-on-frank-leboeuf-at-play-pr",
+      "type": "NewsCard",
+      "timestamp": "2022-02-21T23:18:00.000Z",
+      "orderDate": "2022-02-21T11:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/21/take-on-frank-leboeuf-at-play-predictor-",
+        "type": "NewsCard",
+        "title": "Take on Frank Leboeuf at Play Predictor!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/take-on-frank-leboeuf-at-play-predictor-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-21T23:18:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/21/take-on-frank-leboeuf-at-play-predictor-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Frank Leboeuf",
+          "id": "editorial/news/2022/02/21/leboeuf_2013",
+          "gravity": "face",
+          "aspectRatio": 0.6984863,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Take on Frank Leboeuf at Play Predictor!",
+      "publishDate": "2022-02-21T23:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/take-on-frank-leboeuf-at-play-predictor-.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Frank Leboeuf",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_frank-leboeuf"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2022-02-21T23:18:00.000Z",
+      "description": "Today’s Play Predictor guest, former Chelsea defender Frank Leboeuf, has backed the Blues to begin the knockout stages of the Champions League with victory against reigning Ligue 1 champions Lille.",
       "matchId": 2261857
     },
     {
@@ -522,59 +571,6 @@
       ],
       "date": "2022-02-21T12:03:00.000Z",
       "description": "In our weekly round-up of the action involving Chelsea players on loan, there were mixed fortunes in the Premier League but some important results in relegation battles lower down the English leagues and abroad..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220221hayes-nominated-for-manager-of-t",
-      "type": "NewsCard",
-      "timestamp": "2022-02-21T12:00:00.000Z",
-      "orderDate": "2022-02-21T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/21/hayes-nominated-for-manager-of-the-month-while-berger-and-carter",
-        "type": "NewsCard",
-        "title": "Hayes nominated for Manager of the Month while two Blues up for Player of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/hayes-nominated-for-manager-of-the-month-while-berger-and-carter.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-21T12:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/21/hayes-nominated-for-manager-of-the-month-while-berger-and-carter",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Hayes-MOTM-nomination",
-          "gravity": "auto",
-          "aspectRatio": 1.5007504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes nominated for Manager of the Month while two Blues up for Player of the Month",
-      "publishDate": "2022-02-21T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/hayes-nominated-for-manager-of-the-month-while-berger-and-carter.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Ann-Katrin Berger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_ann-katrin-berger"
-        },
-        {
-          "title": "Jess Carter",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_jess-carter"
-        }
-      ],
-      "date": "2022-02-21T12:00:00.000Z",
-      "description": "Chelsea FC Women boss Emma Hayes has been nominated for February’s Barclays FA Women’s Super League Manager of the Month award with Ann-Katrin Berger and Jess Carter up for Player of the Month."
     }
   ]
 }
