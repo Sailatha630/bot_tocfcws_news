@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 494,
+    "totalItems": 496,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 50,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220221tuchel-champions-league-press-co",
+      "type": "NewsCard",
+      "timestamp": "2022-02-21T14:35:00.000Z",
+      "orderDate": "2022-02-21T14:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/21/tuchel-champions-league-press-conference-and-team-news-ahead-of-",
+        "type": "NewsCard",
+        "title": "Tuchel updates on fitness of Azpilicueta and Hudson-Odoi, rates Mount’s chances of involvement and discusses Lukaku’s difficulties",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/tuchel-champions-league-press-conference-and-team-news-ahead-of-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-21T14:35:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/21/tuchel-champions-league-press-conference-and-team-news-ahead-of-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hudson-Odoi and Tuchel",
+          "id": "editorial/news/2021/08/27/Hudson-Odoi_Tuchel_DTW_2887",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel updates on fitness of Azpilicueta and Hudson-Odoi, rates Mount’s chances of involvement and discusses Lukaku’s difficulties",
+      "publishDate": "2022-02-21T14:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/tuchel-champions-league-press-conference-and-team-news-ahead-of-.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-02-21T14:35:00.000Z",
+      "description": "Thomas Tuchel provided an update on the fitness of three players who missed our weekend win at Crystal Palace, rating two as having a chance of involvement in the Champions League this week.",
+      "matchId": 2261857
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220220tuchel-on-hudson-odoi-injury-and",
@@ -372,6 +426,44 @@
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer story, a TV pundit analyses Ziyech and an Instagram Q&A from our former captain..."
     },
     {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20220221fulham-road-supporter-protection",
+      "type": "NewsCard",
+      "timestamp": "2022-02-21T13:37:00.000Z",
+      "orderDate": "2022-02-21T01:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/21/fulham-road-supporter-protection-measures",
+        "type": "NewsCard",
+        "title": "Fulham Road supporter protection measures",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/fulham-road-supporter-protection-measures.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-21T13:37:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/21/fulham-road-supporter-protection-measures",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Barriers in Fulham Road",
+          "id": "editorial/news/2022/02/21/Fulham_road_vehicle_mitigation_measures_1",
+          "gravity": "auto",
+          "aspectRatio": 1.3333334,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Fulham Road supporter protection measures",
+      "publishDate": "2022-02-21T13:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/fulham-road-supporter-protection-measures.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2022-02-21T13:37:00.000Z",
+      "description": "Supporters attending our Champions League home match against Lille on Tuesday may notice enhanced safety protection in Fulham Road when walking to the stadium.",
+      "matchId": 2261857
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220221win-behind-the-scenes-experience",
       "type": "NewsCard",
@@ -460,124 +552,6 @@
       ],
       "date": "2022-02-20T15:00:00.000Z",
       "description": "We cast a statistical eye over yesterday’s victory against Crystal Palace with the help of graphics and match data…",
-      "matchId": 2210524
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220220christensen-on-dealing-with-diff",
-      "type": "NewsCard",
-      "timestamp": "2022-02-20T13:00:00.000Z",
-      "orderDate": "2022-02-20T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/20/christensen-on-dealing-with-difficult-circumstances-and-ziyech-s",
-        "type": "NewsCard",
-        "title": "Christensen on dealing with difficult circumstances and Ziyech’s importance to Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/20/christensen-on-dealing-with-difficult-circumstances-and-ziyech-s.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-20T13:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/20/christensen-on-dealing-with-difficult-circumstances-and-ziyech-s",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Andreas Christensen",
-          "id": "editorial/news/2022/02/20/andreas-christensen-palace-away",
-          "gravity": "north",
-          "aspectRatio": 0.7811777,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Christensen on dealing with difficult circumstances and Ziyech’s importance to Chelsea",
-      "publishDate": "2022-02-20T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/20/christensen-on-dealing-with-difficult-circumstances-and-ziyech-s.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2022-02-20T13:00:00.000Z",
-      "description": "Andreas Christensen acknowledged the Blues are having to work hard for our wins at the moment following yesterday’s late success at Selhurst Park, but the defender believes that is proof of the team’s determination to keep fighting on so many different fronts.",
-      "matchId": 2210524
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220220tuchel-on-palace-boost-and-injur",
-      "type": "NewsCard",
-      "timestamp": "2022-02-20T11:00:00.000Z",
-      "orderDate": "2022-02-20T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/20/tuchel-on-palace-boost-and-injury-hopes-for-lille",
-        "type": "NewsCard",
-        "title": "Tuchel on Palace boost and injury hopes for Lille",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/20/tuchel-on-palace-boost-and-injury-hopes-for-lille.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-20T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/20/tuchel-on-palace-boost-and-injury-hopes-for-lille",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/news/2022/02/19/palace_away_tuchel_2",
-          "gravity": "face",
-          "aspectRatio": 0.71428573,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on Palace boost and injury hopes for Lille",
-      "publishDate": "2022-02-20T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/20/tuchel-on-palace-boost-and-injury-hopes-for-lille.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        }
-      ],
-      "date": "2022-02-20T11:00:00.000Z",
-      "description": "Chelsea’s very varied start to 2022 in terms of competitions played shows little sign of letting up, but we now have a Premier League win against Crystal Palace added to our Club World Cup success.",
       "matchId": 2210524
     }
   ]
