@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 496,
+    "totalItems": 497,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 50,
@@ -60,6 +60,48 @@
       "date": "2022-02-21T14:35:00.000Z",
       "description": "Thomas Tuchel provided an update on the fitness of three players who missed our weekend win at Crystal Palace, rating two as having a chance of involvement in the Champions League this week.",
       "matchId": 2261857
+    },
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220221chelsea-women-international-roun",
+      "type": "NewsCard",
+      "timestamp": "2022-02-21T15:34:00.000Z",
+      "orderDate": "2022-02-21T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/21/chelsea-women-international-round-up--part-two",
+        "type": "NewsCard",
+        "title": "Chelsea Women international round-up: Part two",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/chelsea-women-international-round-up--part-two.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-21T15:34:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/21/chelsea-women-international-round-up--part-two",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Guro-Norway-Feb-22",
+          "gravity": "auto",
+          "aspectRatio": 1.4998463,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women international round-up: Part two",
+      "publishDate": "2022-02-21T15:34:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/chelsea-women-international-round-up--part-two.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-02-21T15:34:00.000Z",
+      "description": "It was another busy weekend for our Chelsea FC Women international contingent with several Blues players involved in the action."
     },
     {
       "contentType": "Interview",
@@ -499,60 +541,6 @@
       "tags": [],
       "date": "2022-02-21T09:44:00.000Z",
       "description": "Chelsea’s official global chocolate partner Cadbury is offering Blues fans the chance to win a day behind the scenes at Cobham or Stamford Bridge."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220220the-debrief--ziyech-crowns-brigh",
-      "type": "NewsCard",
-      "timestamp": "2022-02-20T15:00:00.000Z",
-      "orderDate": "2022-02-20T15:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/20/the-debrief--ziyech-crowns-bright-display-with-another-goal-in-g",
-        "type": "NewsCard",
-        "title": "The Debrief: Ziyech crowns bright display with another goal in game of few chances ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/20/the-debrief--ziyech-crowns-bright-display-with-another-goal-in-g.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-20T15:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/20/the-debrief--ziyech-crowns-bright-display-with-another-goal-in-g",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " The Debrief",
-          "id": "editorial/news/2022/02/20/palace-away-debrief-top",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Ziyech crowns bright display with another goal in game of few chances ",
-      "publishDate": "2022-02-20T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/20/the-debrief--ziyech-crowns-bright-display-with-another-goal-in-g.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2022-02-20T15:00:00.000Z",
-      "description": "We cast a statistical eye over yesterday’s victory against Crystal Palace with the help of graphics and match data…",
-      "matchId": 2210524
     }
   ]
 }
