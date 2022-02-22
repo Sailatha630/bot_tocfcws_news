@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 501,
+    "totalItems": 502,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 51,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220221blues-bulletin--chelsea-vs-lille",
+      "type": "NewsCard",
+      "timestamp": "2022-02-22T02:02:00.000Z",
+      "orderDate": "2022-02-22T02:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/21/blues-bulletin--chelsea-vs-lille",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Lille",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/blues-bulletin--chelsea-vs-lille.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-22T02:02:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/21/blues-bulletin--chelsea-vs-lille",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "N'Golo Kante vs Lille",
+          "id": "editorial/news/2022/02/21/kante_lille_2019",
+          "gravity": "auto",
+          "aspectRatio": 1.5448079,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Lille",
+      "publishDate": "2022-02-22T02:02:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/blues-bulletin--chelsea-vs-lille.html",
+      "readTimeInMins": 34,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-02-22T02:02:00.000Z",
+      "description": "The Champions League is back with the holders taking on last season's Ligue 1 winners. We have all the stats and facts needed ahead of the knockout stage kick-off...",
+      "matchId": 2261857
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220221gallery--mount-returns-to-traini",
@@ -483,94 +532,6 @@
       ],
       "date": "2022-02-21T11:05:00.000Z",
       "description": "It is a busy week ahead for Chelsea and here we look at what is going on over the next few days...."
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20220221chelsea-here-chelsea-there--broj",
-      "type": "NewsCard",
-      "timestamp": "2022-02-21T12:03:00.000Z",
-      "orderDate": "2022-02-21T02:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/21/chelsea-here-chelsea-there--broja-helps-southampton-to-victory-o",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Broja helps Southampton to victory over Lampard's Everton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/chelsea-here-chelsea-there--broja-helps-southampton-to-victory-o.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-21T12:03:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/21/chelsea-here-chelsea-there--broja-helps-southampton-to-victory-o",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Broja",
-          "id": "editorial/news/2022/02/21/Broja_Southampton_GettyImages-1371535537",
-          "gravity": "south",
-          "aspectRatio": 1.6943396,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Broja helps Southampton to victory over Lampard's Everton",
-      "publishDate": "2022-02-21T12:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/chelsea-here-chelsea-there--broja-helps-southampton-to-victory-o.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Michy Batshuayi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_michy-batshuayi"
-        },
-        {
-          "title": "Danny Drinkwater",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_danny-drinkwater"
-        },
-        {
-          "title": "Dujon Sterling",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_dujon-sterling"
-        },
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Ethan Ampadu",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ethan_ampadu"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Armando Broja",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_armando-broja"
-        },
-        {
-          "title": "Baba Rahman",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_baba-rahman"
-        },
-        {
-          "title": "Matt Miazga",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_matt-miagza"
-        },
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
-        }
-      ],
-      "date": "2022-02-21T12:03:00.000Z",
-      "description": "In our weekly round-up of the action involving Chelsea players on loan, there were mixed fortunes in the Premier League but some important results in relegation battles lower down the English leagues and abroad..."
     }
   ]
 }
