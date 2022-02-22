@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 509,
+    "totalItems": 510,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 51,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220222tuchel--removal-of-away-goals-ru",
+      "type": "NewsCard",
+      "timestamp": "2022-02-22T16:33:00.000Z",
+      "orderDate": "2022-02-22T16:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/22/tuchel--removal-of-away-goals-rule-won-t-change-our-approach-",
+        "type": "NewsCard",
+        "title": "Tuchel: Removal of away goals rule won’t change our approach ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/tuchel--removal-of-away-goals-rule-won-t-change-our-approach-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-22T16:33:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/22/tuchel--removal-of-away-goals-rule-won-t-change-our-approach-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Tuchel-palace-GettyImages-1238621631",
+          "gravity": "auto",
+          "aspectRatio": 1.5002474,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Removal of away goals rule won’t change our approach ",
+      "publishDate": "2022-02-22T16:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/tuchel--removal-of-away-goals-rule-won-t-change-our-approach-.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-02-22T16:33:00.000Z",
+      "description": "Thomas Tuchel ha confirmed he is in favour of the away goals rule being removed from the Champions League and believes it may give his side the chance to be more offensive.",
+      "matchId": 2261857
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220222kovacic-on-his-decade-of-champio",
@@ -509,60 +562,6 @@
       ],
       "date": "2022-02-21T17:15:00.000Z",
       "description": "Mason Mount was back in team training this afternoon as the Blues concluded preparations ahead of our return to Champions League knockout action against Lille...",
-      "matchId": 2261857
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220221tuchel-champions-league-press-co",
-      "type": "NewsCard",
-      "timestamp": "2022-02-21T14:35:00.000Z",
-      "orderDate": "2022-02-21T14:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/21/tuchel-champions-league-press-conference-and-team-news-ahead-of-",
-        "type": "NewsCard",
-        "title": "Tuchel updates on fitness of Azpilicueta and Hudson-Odoi, rates Mount’s chances of involvement and discusses Lukaku’s difficulties",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/tuchel-champions-league-press-conference-and-team-news-ahead-of-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-21T14:35:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/21/tuchel-champions-league-press-conference-and-team-news-ahead-of-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2022/02/21/Tuchel-press-conference-Lille-home",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel updates on fitness of Azpilicueta and Hudson-Odoi, rates Mount’s chances of involvement and discusses Lukaku’s difficulties",
-      "publishDate": "2022-02-21T14:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/tuchel-champions-league-press-conference-and-team-news-ahead-of-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-02-21T14:35:00.000Z",
-      "description": "Thomas Tuchel provided an update on the fitness of three players who missed our weekend win at Crystal Palace, rating two as having a chance of involvement in the Champions League this week.",
       "matchId": 2261857
     }
   ]
