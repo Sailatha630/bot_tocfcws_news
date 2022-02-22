@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 505,
+    "totalItems": 506,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 51,
@@ -245,6 +245,55 @@
       "date": "2022-02-22T02:02:00.000Z",
       "description": "The Champions League is back with the holders taking on last season's Ligue 1 winners. We have all the stats and facts needed ahead of the knockout stage kick-off...",
       "matchId": 2261857
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220222wembley-no-street-drinking-zone-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-22T12:00:00.000Z",
+      "orderDate": "2022-02-22T01:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/22/wembley-no-street-drinking-zone-details-and-chelsea-pubs-confirm",
+        "type": "NewsCard",
+        "title": "Wembley no street-drinking zone details and Chelsea pubs confirmed",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/wembley-no-street-drinking-zone-details-and-chelsea-pubs-confirm.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-22T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/22/wembley-no-street-drinking-zone-details-and-chelsea-pubs-confirm",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Wembley Way",
+          "id": "editorial/news/2022/02/22/wembley-way-outside-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5002987,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Wembley no street-drinking zone details and Chelsea pubs confirmed",
+      "publishDate": "2022-02-22T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/wembley-no-street-drinking-zone-details-and-chelsea-pubs-confirm.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-22T12:00:00.000Z",
+      "description": "Olympic Way and the surrounding areas in Wembley have been designated as no-street drinking zones for Sunday's Carabao Cup final, while the list of approved Chelsea pubs has also been confirmed.",
+      "matchId": 2271539
     },
     {
       "contentType": "News",
@@ -515,48 +564,6 @@
       "date": "2022-02-21T23:18:00.000Z",
       "description": "Today’s Play Predictor guest, former Chelsea defender Frank Leboeuf, has backed the Blues to begin the knockout stages of the Champions League with victory against reigning Ligue 1 champions Lille.",
       "matchId": 2261857
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220221chelsea-women-international-roun",
-      "type": "NewsCard",
-      "timestamp": "2022-02-21T15:34:00.000Z",
-      "orderDate": "2022-02-21T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/21/chelsea-women-international-round-up--part-two",
-        "type": "NewsCard",
-        "title": "Chelsea Women international round-up: Part two",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/chelsea-women-international-round-up--part-two.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-21T15:34:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/21/chelsea-women-international-round-up--part-two",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Guro-Norway-Feb-22",
-          "gravity": "auto",
-          "aspectRatio": 1.4998463,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women international round-up: Part two",
-      "publishDate": "2022-02-21T15:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/chelsea-women-international-round-up--part-two.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-02-21T15:34:00.000Z",
-      "description": "It was another busy weekend for our Chelsea FC Women international contingent with several Blues players involved in the action."
     }
   ]
 }
