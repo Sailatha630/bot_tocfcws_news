@@ -1,12 +1,81 @@
 {
   "pagination": {
-    "totalItems": 512,
+    "totalItems": 513,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 52,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220222tuchel-reaction-to-home-win-agai",
+      "type": "NewsCard",
+      "timestamp": "2022-02-22T22:58:00.000Z",
+      "orderDate": "2022-02-22T22:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/22/tuchel-reaction-to-home-win-against-lille",
+        "type": "NewsCard",
+        "title": "Tuchel praises Kante and Havertz after Lille win and updates on Lukaku and injured pair",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/tuchel-reaction-to-home-win-against-lille.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-22T22:58:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/22/tuchel-reaction-to-home-win-against-lille",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/news/2022/02/22/tuchel_lille_home",
+          "gravity": "auto",
+          "aspectRatio": 1.5001551,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel praises Kante and Havertz after Lille win and updates on Lukaku and injured pair",
+      "publishDate": "2022-02-22T22:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/tuchel-reaction-to-home-win-against-lille.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2022-02-22T22:58:00.000Z",
+      "description": "After watching his side make a solid start in our Champions League round of 16 tie against French champions Lille, with Kai Havertz and Christian Pulisic goals giving us a two-goal advantage to take to France on 16 March, it was not with the goalscorers that Thomas Tuchel began his post-match talk.",
+      "matchId": 2261857
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220222match-report--chelsea-vs-lille-",
@@ -514,55 +583,6 @@
       ],
       "date": "2022-02-22T09:37:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a transfer story, an interview with an icon and a report of a hairstyle change for a former Blue..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220221blues-bulletin--chelsea-vs-lille",
-      "type": "NewsCard",
-      "timestamp": "2022-02-22T02:02:00.000Z",
-      "orderDate": "2022-02-22T02:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/21/blues-bulletin--chelsea-vs-lille",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Lille",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/blues-bulletin--chelsea-vs-lille.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-22T02:02:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/21/blues-bulletin--chelsea-vs-lille",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "N'Golo Kante vs Lille",
-          "id": "editorial/news/2022/02/21/kante_lille_2019",
-          "gravity": "auto",
-          "aspectRatio": 1.5448079,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Lille",
-      "publishDate": "2022-02-22T02:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/blues-bulletin--chelsea-vs-lille.html",
-      "readTimeInMins": 34,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-02-22T02:02:00.000Z",
-      "description": "The Champions League is back with the holders taking on last season's Ligue 1 winners. We have all the stats and facts needed ahead of the knockout stage kick-off...",
-      "matchId": 2261857
     }
   ]
 }
