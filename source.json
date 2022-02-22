@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 502,
+    "totalItems": 503,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 51,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220222pre-match-briefing--chelsea-vs-l",
+      "type": "NewsCard",
+      "timestamp": "2022-02-22T07:35:00.000Z",
+      "orderDate": "2022-02-22T07:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/22/pre-match-briefing--chelsea-vs-lille",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Lille",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/pre-match-briefing--chelsea-vs-lille.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-22T07:35:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/02/22/pre-match-briefing--chelsea-vs-lille",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Champions League trophy",
+          "id": "editorial/news/2022/02/21/champions_league_trophy_stock_stamford_bridge",
+          "gravity": "north",
+          "aspectRatio": 1.3708792,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Lille",
+      "publishDate": "2022-02-22T07:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/pre-match-briefing--chelsea-vs-lille.html",
+      "readTimeInMins": 27,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-02-22T07:35:00.000Z",
+      "description": "The Blues host a side who have made a relatively short journey from northern France to west London. Club historian Rick Glanvill and club statistician Paul Dutton are ready for more knockout football…",
+      "matchId": 2261857
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220221blues-bulletin--chelsea-vs-lille",
@@ -464,74 +513,6 @@
       "tags": [],
       "date": "2022-02-21T10:12:00.000Z",
       "description": "Hakim Ziyech’s late winner at Selhurst Park on Saturday extended one of our longest winning streaks against a Premier League opponent as we secured our ninth consecutive win against Crystal Palace."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220221chelsea-s-week-ahead-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-21T11:05:00.000Z",
-      "orderDate": "2022-02-21T02:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/21/chelsea-s-week-ahead-",
-        "type": "NewsCard",
-        "title": "Chelsea’s week ahead ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/chelsea-s-week-ahead-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-21T11:05:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/21/chelsea-s-week-ahead-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Stamford-bridge-stock-GettyImages-1362950728",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea’s week ahead ",
-      "publishDate": "2022-02-21T11:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/21/chelsea-s-week-ahead-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        },
-        {
-          "title": "U18 - FA Youth Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-02-21T11:05:00.000Z",
-      "description": "It is a busy week ahead for Chelsea and here we look at what is going on over the next few days...."
     }
   ]
 }
