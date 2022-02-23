@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 516,
+    "totalItems": 517,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 52,
@@ -108,6 +108,49 @@
       ],
       "date": "2022-02-23T08:39:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is a fresh transfer link, reaction from a former player and speculation on a permanent addition to our match shirts..."
+    },
+    {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20220223supporters-invited-to-attend-pet",
+      "type": "NewsCard",
+      "timestamp": "2022-02-23T09:41:00.000Z",
+      "orderDate": "2022-02-23T00:41:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/23/supporters-invited-to-attend-peter-bonetti-memorial-service",
+        "type": "NewsCard",
+        "title": "Supporters invited to attend Peter Bonetti memorial service",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/supporters-invited-to-attend-peter-bonetti-memorial-service.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-23T09:41:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/23/supporters-invited-to-attend-peter-bonetti-memorial-service",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Peter Bonetti",
+          "id": "editorial/news/2020/04/Bonetti_1970",
+          "gravity": "auto",
+          "aspectRatio": 1.146384,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Supporters invited to attend Peter Bonetti memorial service",
+      "publishDate": "2022-02-23T09:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/supporters-invited-to-attend-peter-bonetti-memorial-service.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Peter Bonetti",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_peter-bonetti"
+        }
+      ],
+      "date": "2022-02-23T09:41:00.000Z",
+      "description": "Chelsea Football Club announces that a memorial service to honour and celebrate the life and career of the great Peter Bonetti will take place next month at Stamford Bridge."
     },
     {
       "contentType": "Interview",
@@ -511,55 +554,6 @@
       "date": "2022-02-22T12:24:00.000Z",
       "description": "As Lille striker Timothy Weah prepares to visit his dad’s old stomping ground tonight on his 22nd birthday, we remind you of the brief time one of Africa’s greatest players spent at Stamford Bridge – although he wasn’t the only member of that side whose son has had a crack at professional football…",
       "matchId": 2261857
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220222matchday-live-guest-leboeuf-look",
-      "type": "NewsCard",
-      "timestamp": "2022-02-22T15:15:00.000Z",
-      "orderDate": "2022-02-22T11:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/22/matchday-live-guest-leboeuf-looks-ahead-to-lille--talks-kante-an",
-        "type": "NewsCard",
-        "title": "Matchday Live guest Leboeuf looks ahead to Lille, talks Kante and Thiago, and recalls his Champions League campaign",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/matchday-live-guest-leboeuf-looks-ahead-to-lille--talks-kante-an.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-22T15:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/22/matchday-live-guest-leboeuf-looks-ahead-to-lille--talks-kante-an",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Frank Leboeuf",
-          "id": "editorial/news/2022/02/22/leboeuf_museum",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Matchday Live guest Leboeuf looks ahead to Lille, talks Kante and Thiago, and recalls his Champions League campaign",
-      "publishDate": "2022-02-22T15:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/matchday-live-guest-leboeuf-looks-ahead-to-lille--talks-kante-an.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Frank Leboeuf",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_frank-leboeuf"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-02-22T15:15:00.000Z",
-      "description": "Tune in today to our Matchday Live show on chelseafc.com and The 5th Stand app for the special chance to hear the thoughts of a Frenchman with Chelsea very much in his heart."
     }
   ]
 }
