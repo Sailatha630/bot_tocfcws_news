@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 514,
+    "totalItems": 515,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 52,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220223havertz-happy-to-help-in-hard-eu",
+      "type": "NewsCard",
+      "timestamp": "2022-02-23T07:45:00.000Z",
+      "orderDate": "2022-02-23T07:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/23/havertz-happy-to-help-in-hard-european-fixture",
+        "type": "NewsCard",
+        "title": "Havertz happy to help in hard European fixture",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/havertz-happy-to-help-in-hard-european-fixture.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-23T07:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/23/havertz-happy-to-help-in-hard-european-fixture",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kai Havertz",
+          "id": "editorial/match-reports/2021-22/lille-home/havertz-lille-goal-2",
+          "gravity": "south",
+          "aspectRatio": 1.5442575,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz happy to help in hard European fixture",
+      "publishDate": "2022-02-23T07:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/havertz-happy-to-help-in-hard-european-fixture.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-02-23T07:45:00.000Z",
+      "description": "Kai Havertz was pleased to make another big contribution on the continental stage and now the German is looking forward to trying to help the Blues lift more silverware on Sunday.",
+      "matchId": 2261857
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220222tuchel-reaction-to-home-win-agai",
@@ -545,55 +599,6 @@
       },
       "date": "2022-02-22T10:11:00.000Z",
       "description": "In this week’s column, Blues legend Pat Nevin celebrates Chelsea’s knack of scoring late goals, assesses the removal of the away-goals rule and looks as far ahead as this weekend’s cup final…",
-      "matchId": 2261857
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220222pre-match-briefing--chelsea-vs-l",
-      "type": "NewsCard",
-      "timestamp": "2022-02-22T07:35:00.000Z",
-      "orderDate": "2022-02-22T07:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/22/pre-match-briefing--chelsea-vs-lille",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Lille",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/pre-match-briefing--chelsea-vs-lille.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-22T07:35:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/02/22/pre-match-briefing--chelsea-vs-lille",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Champions League trophy",
-          "id": "editorial/news/2022/02/21/champions_league_trophy_stock_stamford_bridge",
-          "gravity": "north",
-          "aspectRatio": 1.3708792,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Lille",
-      "publishDate": "2022-02-22T07:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/pre-match-briefing--chelsea-vs-lille.html",
-      "readTimeInMins": 27,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-02-22T07:35:00.000Z",
-      "description": "The Blues host a side who have made a relatively short journey from northern France to west London. Club historian Rick Glanvill and club statistician Paul Dutton are ready for more knockout football…",
       "matchId": 2261857
     }
   ]
