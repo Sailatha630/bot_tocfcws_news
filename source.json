@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 531,
+    "totalItems": 532,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 54,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220224fa-youth-cup-report--chelsea-bla",
+      "type": "NewsCard",
+      "timestamp": "2022-02-24T20:38:00.000Z",
+      "orderDate": "2022-02-24T20:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/24/fa-youth-cup-report--chelsea-blackpool",
+        "type": "NewsCard",
+        "title": "FA Youth Cup report: Chelsea 3 Blackpool 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/fa-youth-cup-report--chelsea-blackpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-24T20:38:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/24/fa-youth-cup-report--chelsea-blackpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Celebvrations as we are through to the final",
+          "id": "editorial/match-reports/2021-22/blackpool-under-18s-fa-youth-cup/CFCU18-celebrations-vs-Blackpool",
+          "gravity": "auto",
+          "aspectRatio": 1.4888164,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "FA Youth Cup report: Chelsea 3 Blackpool 2",
+      "publishDate": "2022-02-24T20:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/fa-youth-cup-report--chelsea-blackpool.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "U18 - FA Youth Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        }
+      ],
+      "date": "2022-02-24T20:38:00.000Z",
+      "description": "Ed Brand’s boys have made it through to the semi-finals of the FA Youth Cup with a hard-fought 3-2 victory over a spirited Blackpool side. Harvey Vale scored the pick of the bunch with a delightful left-footed shot which found the top corner of the net."
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220224petr-cech-column--why-the-three-",
@@ -511,54 +575,6 @@
       "date": "2022-02-23T12:53:00.000Z",
       "description": "Christian Pulisic has reiterated that it is only ‘half-time’ in our Champions League knockout tie with Lille, despite the Blues claiming a strong 2-0 first-leg victory.",
       "matchId": 2261857
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220223two-april-matches-unmoved",
-      "type": "NewsCard",
-      "timestamp": "2022-02-23T15:29:00.000Z",
-      "orderDate": "2022-02-23T11:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/23/two-april-matches-unmoved",
-        "type": "NewsCard",
-        "title": "Two April matches unmoved",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/two-april-matches-unmoved.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-23T15:29:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/23/two-april-matches-unmoved",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
-          "gravity": "auto",
-          "aspectRatio": 1.4790996,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Two April matches unmoved",
-      "publishDate": "2022-02-23T15:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/two-april-matches-unmoved.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-23T15:29:00.000Z",
-      "description": "The Premier League has announced the UK live broadcast selections for the first two match rounds in the competition in April. With Chelsea not named among the fixtures selected, it means our matches scheduled for the first two weekends of that month remain as 3pm Saturday kick-offs."
     }
   ]
 }
