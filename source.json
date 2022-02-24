@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 524,
+    "totalItems": 525,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 53,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20220224every-chelsea-appearance-in-the-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-24T02:16:00.000Z",
+      "orderDate": "2022-02-24T02:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/24/every-chelsea-appearance-in-the-league-cup-final",
+        "type": "NewsCard",
+        "title": "Every Chelsea appearance in the League Cup final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/every-chelsea-appearance-in-the-league-cup-final.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-24T02:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/24/every-chelsea-appearance-in-the-league-cup-final",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Carabao Cup trophy 2015",
+          "id": "asia/editorial/articles/league-cup-2015-GettyImages-464932178",
+          "gravity": "auto",
+          "aspectRatio": 1.5969582,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Every Chelsea appearance in the League Cup final",
+      "publishDate": "2022-02-24T02:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/every-chelsea-appearance-in-the-league-cup-final.html",
+      "readTimeInMins": 39,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-24T02:16:00.000Z",
+      "description": "On Sunday Chelsea will compete in our ninth League Cup final and attempt to lift the trophy for the sixth time when we face Liverpool at Wembley Stadium.",
+      "matchId": 2271539
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220223the-debrief--kante-s-shift-reinf",
@@ -469,48 +518,6 @@
       "tags": [],
       "date": "2022-02-23T12:42:00.000Z",
       "description": "Having held their fundraising Big Sleep Out virtually during the height of the pandemic, the Chelsea Supporters Trust is able to stage it at Stamford Bridge again with Blues fans invited to take part next month."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220223foundation-celebrates-kicks-prog",
-      "type": "NewsCard",
-      "timestamp": "2022-02-23T12:34:00.000Z",
-      "orderDate": "2022-02-22T23:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/23/foundation-celebrates-kicks-programme-throughout-half-term",
-        "type": "NewsCard",
-        "title": "Foundation celebrates Kicks programme throughout half-term",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/foundation-celebrates-kicks-programme-throughout-half-term.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-23T12:34:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/23/foundation-celebrates-kicks-programme-throughout-half-term",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Foundation-Kicks-half-term-february",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Foundation celebrates Kicks programme throughout half-term",
-      "publishDate": "2022-02-23T12:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/foundation-celebrates-kicks-programme-throughout-half-term.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-02-23T12:34:00.000Z",
-      "description": "Chelsea FC Foundation invited participants from its Premier League Kicks programme to Stamford Bridge for a workshop in the February half-term."
     }
   ]
 }
