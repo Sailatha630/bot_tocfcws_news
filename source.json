@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 530,
+    "totalItems": 531,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 53,
+    "pageCount": 54,
     "startFrom": 0
   },
   "newsFeed": [
@@ -73,6 +73,54 @@
       },
       "date": "2022-02-24T12:45:00.000Z",
       "description": "Petr Cech won the League Cup in 2005, 2007 and 2015, and in his column this week ahead of Chelsea’s next attempt to lift the trophy, he recalls those finals and why they each left such a mark on him…"
+    },
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220224members-ticket-news-for-luton",
+      "type": "NewsCard",
+      "timestamp": "2022-02-24T17:11:00.000Z",
+      "orderDate": "2022-02-24T11:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/24/members-ticket-news-for-luton",
+        "type": "NewsCard",
+        "title": "Members ticket news for Luton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/members-ticket-news-for-luton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-24T17:11:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/24/members-ticket-news-for-luton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kenilworth Road",
+          "id": "chelsea-app/Kenilworth-Road-general-GettyImages-1366824736",
+          "gravity": "auto",
+          "aspectRatio": 1.4994111,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Members ticket news for Luton",
+      "publishDate": "2022-02-24T17:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/members-ticket-news-for-luton.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-02-24T17:11:00.000Z",
+      "description": "The latest ticket news for our trip to Kenilworth Road next week..."
     },
     {
       "contentType": "History",
@@ -511,54 +559,6 @@
       ],
       "date": "2022-02-23T15:29:00.000Z",
       "description": "The Premier League has announced the UK live broadcast selections for the first two match rounds in the competition in April. With Chelsea not named among the fixtures selected, it means our matches scheduled for the first two weekends of that month remain as 3pm Saturday kick-offs."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220223ticket-latest--luton-fa-cup-and-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-23T17:24:00.000Z",
-      "orderDate": "2022-02-23T10:24:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/23/ticket-latest--luton-fa-cup-and-wsl-vs-tottenham",
-        "type": "NewsCard",
-        "title": "Ticket latest: Luton FA Cup and WSL vs Tottenham",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/ticket-latest--luton-fa-cup-and-wsl-vs-tottenham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-23T17:24:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/23/ticket-latest--luton-fa-cup-and-wsl-vs-tottenham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "FA Cup trophy",
-          "id": "editorial/news/2020/1/FA_Cup_trophy_stock",
-          "gravity": "auto",
-          "aspectRatio": 1.500149,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ticket latest: Luton FA Cup and WSL vs Tottenham",
-      "publishDate": "2022-02-23T17:24:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/ticket-latest--luton-fa-cup-and-wsl-vs-tottenham.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-02-23T17:24:00.000Z",
-      "description": "Updated ticket purchasing information for members for next week's FA Cup tie away at Luton Town has been announced, plus ticket news for the rearranged Women's Super League match at home to Tottenham Hotspur."
     }
   ]
 }
