@@ -1,12 +1,81 @@
 {
   "pagination": {
-    "totalItems": 532,
+    "totalItems": 533,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 54,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220225blues-bulletin--chelsea-vs-liver",
+      "type": "NewsCard",
+      "timestamp": "2022-02-25T03:00:00.000Z",
+      "orderDate": "2022-02-25T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/25/blues-bulletin--chelsea-vs-liverpool",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Liverpool",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/blues-bulletin--chelsea-vs-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-25T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/25/blues-bulletin--chelsea-vs-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kante",
+          "id": "editorial/news/2022/02/24/Kante_Liverpool_GettyImages-1362394031",
+          "gravity": "south",
+          "aspectRatio": 1.5366108,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Liverpool",
+      "publishDate": "2022-02-25T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/blues-bulletin--chelsea-vs-liverpool.html",
+      "readTimeInMins": 33,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2022-02-25T03:00:00.000Z",
+      "description": "As Chelsea prepare to compete in our second cup final of the month, in pursuit of our third trophy of the season already, we bring you all the key facts and stats ahead of Sunday's Carabao Cup tie against Liverpool at Wembley...",
+      "matchId": 2271539
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220224fa-youth-cup-report--chelsea-bla",
@@ -506,74 +575,6 @@
       ],
       "date": "2022-02-23T14:00:00.000Z",
       "description": "Chelsea established a commanding lead at the midway stage of our Champions League knockout tie with Lille and our closer look at the key numbers and talking points focuses on how defensive strength has buttressed our Stamford Bridge fortress against European rivals…",
-      "matchId": 2261857
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220223pulisic-insists-the-job-isn-t-do",
-      "type": "NewsCard",
-      "timestamp": "2022-02-23T12:53:00.000Z",
-      "orderDate": "2022-02-23T12:53:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/23/pulisic-insists-the-job-isn-t-done-yet-and-praises--amazing--kan",
-        "type": "NewsCard",
-        "title": "Pulisic insists the job isn’t done yet and praises ‘amazing’ Kante",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/pulisic-insists-the-job-isn-t-done-yet-and-praises--amazing--kan.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-23T12:53:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/23/pulisic-insists-the-job-isn-t-done-yet-and-praises--amazing--kan",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Pulisic-GettyImages-1372208466",
-          "gravity": "auto",
-          "aspectRatio": 1.4996673,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pulisic insists the job isn’t done yet and praises ‘amazing’ Kante",
-      "publishDate": "2022-02-23T12:53:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/pulisic-insists-the-job-isn-t-done-yet-and-praises--amazing--kan.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "N'Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-02-23T12:53:00.000Z",
-      "description": "Christian Pulisic has reiterated that it is only ‘half-time’ in our Champions League knockout tie with Lille, despite the Blues claiming a strong 2-0 first-leg victory.",
       "matchId": 2261857
     }
   ]
