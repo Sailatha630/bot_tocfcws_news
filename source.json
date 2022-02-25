@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 534,
+    "totalItems": 535,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 54,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220225pre-match-briefing--chelsea-vs-l",
+      "type": "NewsCard",
+      "timestamp": "2022-02-25T10:49:00.000Z",
+      "orderDate": "2022-02-25T10:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/25/pre-match-briefing--chelsea-vs-liverpool",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Liverpool",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/pre-match-briefing--chelsea-vs-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-25T10:49:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/02/25/pre-match-briefing--chelsea-vs-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Wembley inside view",
+          "id": "editorial/news/2022/02/25/wembley_view_panoramic_b",
+          "gravity": "east",
+          "aspectRatio": 2.1027105,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Liverpool",
+      "publishDate": "2022-02-25T10:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/pre-match-briefing--chelsea-vs-liverpool.html",
+      "readTimeInMins": 28,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-25T10:49:00.000Z",
+      "description": "Wembley awaits, with two of the top three in the Premier League set to go head to head for the first major domestic trophy of the season. Club historian Rick Glanvill and club statistician Paul Dutton set the scene....",
+      "matchId": 2271539
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220225blues-bulletin--chelsea-vs-liver",
@@ -496,70 +550,6 @@
       ],
       "date": "2022-02-24T10:20:00.000Z",
       "description": "The final set of friendly international fixtures took place this week and here we take a look at how our Blues got on before returning to Cobham…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220224fa-youth-cup-preview--young-blue",
-      "type": "NewsCard",
-      "timestamp": "2022-02-24T01:00:00.000Z",
-      "orderDate": "2022-02-24T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/24/fa-youth-cup-preview--young-blues-welcome-the-tangerines-at-the-",
-        "type": "NewsCard",
-        "title": "FA Youth Cup preview: Young Blues welcome the Tangerines at the Bridge",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/fa-youth-cup-preview--young-blues-welcome-the-tangerines-at-the-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-24T01:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/24/fa-youth-cup-preview--young-blues-welcome-the-tangerines-at-the-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge View",
-          "id": "editorial/news/2022/02/22/stamford-bridge-view-champions-league-insdie",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "FA Youth Cup preview: Young Blues welcome the Tangerines at the Bridge",
-      "publishDate": "2022-02-24T01:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/fa-youth-cup-preview--young-blues-welcome-the-tangerines-at-the-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        },
-        {
-          "title": "U18 - FA Youth Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        }
-      ],
-      "date": "2022-02-24T01:00:00.000Z",
-      "description": "Our young Blues will be looking to take a step closer to lifting the crown as Blackpool are welcomed to Stamford Bridge in the quarter finals of the FA Youth Cup. The game will be live streamed across all our digital platforms (UK only) with kick-off scheduled for 6PM."
     }
   ]
 }
