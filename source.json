@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 537,
+    "totalItems": 538,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 54,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220225chelsea-injury-news-carabao-cup-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-25T14:30:00.000Z",
+      "orderDate": "2022-02-25T14:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/25/chelsea-injury-news-carabao-cup-final",
+        "type": "NewsCard",
+        "title": "Tuchel on 'brilliant' injury news, whether Reece James can start and who will play in goal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/chelsea-injury-news-carabao-cup-final.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-25T14:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/25/chelsea-injury-news-carabao-cup-final",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James",
+          "id": "editorial/news/2021/12/28/tuchel-reece-james-training-11",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on 'brilliant' injury news, whether Reece James can start and who will play in goal",
+      "publishDate": "2022-02-25T14:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/chelsea-injury-news-carabao-cup-final.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Kepa Arrizabalaga ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kepa-arrizabalaga"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-25T14:30:00.000Z",
+      "description": "Thomas Tuchel was able to deliver a positive update on the injury front at his media conference ahead of Sunday’s Carabao Cup final, confirming everyone bar Ben Chilwell had taken part in training today.",
+      "matchId": 2271539
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220224the-road-to-the-carabao-cup-fina",
@@ -487,54 +551,6 @@
       },
       "date": "2022-02-24T12:45:00.000Z",
       "description": "Petr Cech won the League Cup in 2005, 2007 and 2015, and in his column this week ahead of Chelsea’s next attempt to lift the trophy, he recalls those finals and why they each left such a mark on him…"
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220224members-ticket-news-for-luton",
-      "type": "NewsCard",
-      "timestamp": "2022-02-24T17:11:00.000Z",
-      "orderDate": "2022-02-24T11:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/24/members-ticket-news-for-luton",
-        "type": "NewsCard",
-        "title": "Members ticket news for Luton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/members-ticket-news-for-luton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-24T17:11:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/24/members-ticket-news-for-luton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kenilworth Road",
-          "id": "chelsea-app/Kenilworth-Road-general-GettyImages-1366824736",
-          "gravity": "auto",
-          "aspectRatio": 1.4994111,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Members ticket news for Luton",
-      "publishDate": "2022-02-24T17:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/members-ticket-news-for-luton.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-02-24T17:11:00.000Z",
-      "description": "The latest ticket news for our trip to Kenilworth Road next week..."
     }
   ]
 }
