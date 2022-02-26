@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 553,
+    "totalItems": 554,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 56,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20220226statement-from-club-owner-roman-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-26T18:45:00.000Z",
+      "orderDate": "2022-02-26T18:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/26/statement-from-club-owner-roman-abramovich",
+        "type": "NewsCard",
+        "title": "Statement from Club Owner Roman Abramovich",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/statement-from-club-owner-roman-abramovich.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-26T18:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/26/statement-from-club-owner-roman-abramovich",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "site-assets/backgrounds/cfc-club-statement-WEB",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Statement from Club Owner Roman Abramovich",
+      "publishDate": "2022-02-26T18:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/statement-from-club-owner-roman-abramovich.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2022-02-26T18:45:00.000Z",
+      "description": "The following statement has been published..."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220225tuchel--this-final-means-so-much",
@@ -515,48 +552,6 @@
       "date": "2022-02-26T06:00:00.000Z",
       "description": "Chelsea FC Women are in Vitality Women’s FA Cup fifth-round action against Leicester City this afternoon and Drew Spence believes the Blues need to carry our momentum into the business end of the season.",
       "matchId": 2274970
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220225chelsea-foundation-community-day",
-      "type": "NewsCard",
-      "timestamp": "2022-02-26T13:18:00.000Z",
-      "orderDate": "2022-02-25T16:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/25/chelsea-foundation-community-day--amazing---says-supporter",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation Community Day ‘amazing’, says supporter",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/chelsea-foundation-community-day--amazing---says-supporter.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-26T13:18:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/25/chelsea-foundation-community-day--amazing---says-supporter",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Foundation-Community-Day-Feb",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation Community Day ‘amazing’, says supporter",
-      "publishDate": "2022-02-26T13:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/chelsea-foundation-community-day--amazing---says-supporter.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-02-26T13:18:00.000Z",
-      "description": "It was all smiles at Cobham this week as the Chelsea FC Foundation Community Day returned."
     }
   ]
 }
