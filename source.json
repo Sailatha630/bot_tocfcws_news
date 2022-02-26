@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 550,
+    "totalItems": 551,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 55,
+    "pageCount": 56,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220226women-s-match-report--chelsea-vs",
+      "type": "NewsCard",
+      "timestamp": "2022-02-26T15:15:00.000Z",
+      "orderDate": "2022-02-26T15:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/26/women-s-match-report--chelsea-vs-leicester-city",
+        "type": "NewsCard",
+        "title": "Women's match report: Chelsea vs Leicester City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/women-s-match-report--chelsea-vs-leicester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-26T15:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/26/women-s-match-report--chelsea-vs-leicester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Harder-cele-LCFC",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women's match report: Chelsea vs Leicester City",
+      "publishDate": "2022-02-26T15:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/women-s-match-report--chelsea-vs-leicester-city.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2022-02-26T15:15:00.000Z",
+      "description": "Chelsea FC Women are through to the quarter-final of the Vitality Women’s FA Cup after beating Leicester City at Kingsmeadow this afternoon.",
+      "matchId": 2274970
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220226jorginho-exclusive-cup-final-int",
@@ -531,59 +580,6 @@
       "date": "2022-02-25T15:02:00.000Z",
       "description": "Thomas Tuchel believes the work he has been doing with his players on a daily basis will be more important than any last-minute team talk when we face Liverpool in Sunday’s Carabao Cup final, but is confident his team has what it takes to beat Jurgen Klopp’s in-form side.",
       "matchId": 2271539
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220225james-kovacic-ziyech-train-ahead",
-      "type": "NewsCard",
-      "timestamp": "2022-02-25T15:15:00.000Z",
-      "orderDate": "2022-02-25T13:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/25/james-kovacic-ziyech-train-ahead-carabao-cup",
-        "type": "NewsCard",
-        "title": "James, Kovacic and Ziyech train ahead of Carabao Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/james-kovacic-ziyech-train-ahead-carabao-cup.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-25T15:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/25/james-kovacic-ziyech-train-ahead-carabao-cup",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/James-DAZ_0251",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "James, Kovacic and Ziyech train ahead of Carabao Cup final",
-      "publishDate": "2022-02-25T15:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/james-kovacic-ziyech-train-ahead-carabao-cup.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-25T15:15:00.000Z",
-      "description": "There was a welcome sight at Cobham today as Thomas Tuchel once again involved Reece James in team training, with just one long-term absentee missing from the session."
     }
   ]
 }
