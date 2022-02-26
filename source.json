@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 543,
+    "totalItems": 544,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 55,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220226tuchel--we-re-more-than-a-cup-te",
+      "type": "NewsCard",
+      "timestamp": "2022-02-26T06:06:00.000Z",
+      "orderDate": "2022-02-26T06:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/26/tuchel--we-re-more-than-a-cup-team",
+        "type": "NewsCard",
+        "title": "Tuchel: We’re more than a cup team but I don't mind that tag",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/tuchel--we-re-more-than-a-cup-team.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-26T06:06:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/26/tuchel--we-re-more-than-a-cup-team",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/palmeiras-cwc-final/palmeiras_tuchel",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: We’re more than a cup team but I don't mind that tag",
+      "publishDate": "2022-02-26T06:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/tuchel--we-re-more-than-a-cup-team.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-26T06:06:00.000Z",
+      "description": "As he prepares to lead the Blues into a fifth final in just over a year in charge, Thomas Tuchel has claimed that his Chelsea side are more than just cup specialists, although he claimed being viewed as knockout kings was hardly something to worry about...",
+      "matchId": 2271539
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220225chelsea-injury-news-carabao-cup-",
@@ -499,54 +557,6 @@
       "date": "2022-02-25T03:00:00.000Z",
       "description": "As Chelsea prepare to compete in our second cup final of the month, in pursuit of our third trophy of the season already, we bring you all the key facts and stats ahead of Sunday's Carabao Cup tie against Liverpool at Wembley...",
       "matchId": 2271539
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220225lille-away-ticket-news",
-      "type": "NewsCard",
-      "timestamp": "2022-02-25T14:49:00.000Z",
-      "orderDate": "2022-02-25T02:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/25/lille-away-ticket-news",
-        "type": "NewsCard",
-        "title": "Lille away ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/lille-away-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-25T14:49:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/25/lille-away-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lille stadium",
-          "id": "chelsea-app/Lille-stadium-GettyImages-1178593276",
-          "gravity": "auto",
-          "aspectRatio": 1.4997045,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lille away ticket news",
-      "publishDate": "2022-02-25T14:49:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/lille-away-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-02-25T14:49:00.000Z",
-      "description": "Ticket details for our trip to France next month have been confirmed..."
     }
   ]
 }
