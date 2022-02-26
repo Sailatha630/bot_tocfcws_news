@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 551,
+    "totalItems": 552,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 56,
@@ -459,6 +459,48 @@
       "matchId": 2274970
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20220225chelsea-foundation-community-day",
+      "type": "NewsCard",
+      "timestamp": "2022-02-26T13:18:00.000Z",
+      "orderDate": "2022-02-25T16:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/25/chelsea-foundation-community-day--amazing---says-supporter",
+        "type": "NewsCard",
+        "title": "Chelsea Foundation Community Day ‘amazing’, says supporter",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/chelsea-foundation-community-day--amazing---says-supporter.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-26T13:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/25/chelsea-foundation-community-day--amazing---says-supporter",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Foundation-Community-Day-Feb",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Foundation Community Day ‘amazing’, says supporter",
+      "publishDate": "2022-02-26T13:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/chelsea-foundation-community-day--amazing---says-supporter.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2022-02-26T13:18:00.000Z",
+      "description": "It was all smiles at Cobham this week as the Chelsea FC Foundation Community Day returned."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220225chelsea-injury-news-carabao-cup-",
       "type": "NewsCard",
@@ -520,65 +562,6 @@
       ],
       "date": "2022-02-25T14:30:00.000Z",
       "description": "Thomas Tuchel was able to deliver a positive update on the injury front at his media conference ahead of Sunday’s Carabao Cup final, confirming everyone bar Ben Chilwell had taken part in training today.",
-      "matchId": 2271539
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220225tuchel-on-how-he-will-prepare-hi",
-      "type": "NewsCard",
-      "timestamp": "2022-02-25T15:02:00.000Z",
-      "orderDate": "2022-02-25T14:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/25/tuchel-on-how-he-will-prepare-his-team-for-sunday-s-final",
-        "type": "NewsCard",
-        "title": "Tuchel on how he will prepare his team for Sunday’s final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/tuchel-on-how-he-will-prepare-his-team-for-sunday-s-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-25T15:02:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/25/tuchel-on-how-he-will-prepare-his-team-for-sunday-s-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2022/02/25/Tuchel_GettyImages-1238751253",
-          "gravity": "face",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on how he will prepare his team for Sunday’s final",
-      "publishDate": "2022-02-25T15:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/tuchel-on-how-he-will-prepare-his-team-for-sunday-s-final.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-25T15:02:00.000Z",
-      "description": "Thomas Tuchel believes the work he has been doing with his players on a daily basis will be more important than any last-minute team talk when we face Liverpool in Sunday’s Carabao Cup final, but is confident his team has what it takes to beat Jurgen Klopp’s in-form side.",
       "matchId": 2271539
     }
   ]
