@@ -448,7 +448,7 @@
       "link": {
         "path": "/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa",
         "type": "NewsCard",
-        "title": "Under-18s Report: Chelsea 3 Aston Villa 1",
+        "title": "Under-18s report and video highlights: Chelsea 3 Aston Villa 1",
         "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa.html",
         "external": true,
         "target": "sameWindow",
@@ -458,21 +458,36 @@
       "template": "standard-article",
       "path": "/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa",
       "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Team celebrating ",
-          "id": "editorial/match-reports/2021-22/under-18s-premier-league-aston-villa/U18-vs-Aston-Villa-Team-celebrating",
-          "gravity": "auto",
-          "aspectRatio": 1.504,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea 3-1 Aston Vila U18s Premier League",
+          "videoId": "5expYIVp",
+          "bucket": "prod-cfc",
+          "description": "Highlights from ourU18s Premier League match against Aston Vila.",
+          "duration": 191000,
+          "date": "2022-02-26T20:14:21.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/5expYIVp/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa.page.v3.json",
+          "contentType": "Match Report",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/02/26/under-18s-report--chelsea-aston-villa?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from ourU18s Premier League match against Aston Vila."
       },
-      "content": "Under-18s Report: Chelsea 3 Aston Villa 1",
+      "content": "Under-18s report and video highlights: Chelsea 3 Aston Villa 1",
       "publishDate": "2022-02-26T14:00:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa.html",
-      "readTimeInMins": 10,
+      "readTimeInMins": 11,
       "tags": [
         {
           "title": "Academy News ",
