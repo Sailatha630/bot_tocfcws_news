@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 549,
+    "totalItems": 550,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 55,
@@ -296,6 +296,71 @@
       "matchId": 2271539
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220226under-18s-report--chelsea-aston-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-26T14:00:00.000Z",
+      "orderDate": "2022-02-26T02:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa",
+        "type": "NewsCard",
+        "title": "Under-18s Report: Chelsea 3 Aston Villa 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-26T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Team celebrating ",
+          "id": "editorial/match-reports/2021-22/under-18s-premier-league-aston-villa/U18-vs-Aston-Villa-Team-celebrating",
+          "gravity": "auto",
+          "aspectRatio": 1.504,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s Report: Chelsea 3 Aston Villa 1",
+      "publishDate": "2022-02-26T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "U18 - Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_u18-premier-league"
+        }
+      ],
+      "date": "2022-02-26T14:00:00.000Z",
+      "description": "Our Under-18s ran out comfortable winners with early strikes from the returning Jimi Taurainen and from Ronnie Stutter, as well as own-goal from the Villa keeper.",
+      "matchId": 2238410
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220226spence--it-s-really-important-no",
       "type": "NewsCard",
@@ -519,50 +584,6 @@
       ],
       "date": "2022-02-25T15:15:00.000Z",
       "description": "There was a welcome sight at Cobham today as Thomas Tuchel once again involved Reece James in team training, with just one long-term absentee missing from the session."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220224the-road-to-the-carabao-cup-fina",
-      "type": "NewsCard",
-      "timestamp": "2022-02-25T12:32:00.000Z",
-      "orderDate": "2022-02-25T12:32:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/24/the-road-to-the-carabao-cup-final",
-        "type": "NewsCard",
-        "title": "The road to the Carabao Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/the-road-to-the-carabao-cup-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-25T12:32:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/24/the-road-to-the-carabao-cup-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/01/21/Rudiger_Tottenham_GettyImages-1364924509",
-          "gravity": "south",
-          "aspectRatio": 1.5020022,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "The road to the Carabao Cup final",
-      "publishDate": "2022-02-25T12:32:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/24/the-road-to-the-carabao-cup-final.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-25T12:32:00.000Z",
-      "description": "While Chelsea have not had to travel outside London in this season’s Carabao Cup, our route to Wembley has been far from straightforward with matches against Premier League opponents in every round."
     }
   ]
 }
