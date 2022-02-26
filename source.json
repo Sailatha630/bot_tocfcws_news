@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 545,
+    "totalItems": 546,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 55,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220226havertz-on-his-positional-prefer",
+      "type": "NewsCard",
+      "timestamp": "2022-02-26T09:15:00.000Z",
+      "orderDate": "2022-02-26T09:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/26/havertz-on-his-positional-preferences--pre-match-nerves-and-pric",
+        "type": "NewsCard",
+        "title": "Havertz on his positional preferences, pre-match nerves and price-tag pressure",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/havertz-on-his-positional-preferences--pre-match-nerves-and-pric.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-26T09:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/26/havertz-on-his-positional-preferences--pre-match-nerves-and-pric",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kai Havertz",
+          "id": "editorial/news/2022/02/25/havertz-stock-2122-badge",
+          "gravity": "auto",
+          "aspectRatio": 1.5085768,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz on his positional preferences, pre-match nerves and price-tag pressure",
+      "publishDate": "2022-02-26T09:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/havertz-on-his-positional-preferences--pre-match-nerves-and-pric.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-26T09:15:00.000Z",
+      "description": "On the eve of the Carabao Cup final, Kai Havertz speaks about his versatility, how to have the right mentality in big games, and why small moments can change everything…",
+      "matchId": 2271539
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220226tuchel--we-re-more-than-a-cup-te",
@@ -494,49 +548,6 @@
       ],
       "date": "2022-02-25T15:00:00.000Z",
       "description": "After booking our place in the FA Youth Cup last four, Under-18s boss Ed Brand and goalscorer Harvey Vale reflected on where things can improve in the semi-finals..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220225join-joe-cole-and-glen-johnson-o",
-      "type": "NewsCard",
-      "timestamp": "2022-02-25T12:10:00.000Z",
-      "orderDate": "2022-02-25T03:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/25/join-joe-cole-and-glen-johnson-on-matchday-live-",
-        "type": "NewsCard",
-        "title": "Join Joe Cole and Glen Johnson on Matchday Live!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/join-joe-cole-and-glen-johnson-on-matchday-live-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-25T12:10:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/25/join-joe-cole-and-glen-johnson-on-matchday-live-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Joe-Cole-stock-app-face",
-          "gravity": "auto",
-          "aspectRatio": 1.4466546,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Join Joe Cole and Glen Johnson on Matchday Live!",
-      "publishDate": "2022-02-25T12:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/join-joe-cole-and-glen-johnson-on-matchday-live-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Joe Cole",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_joe-cole"
-        }
-      ],
-      "date": "2022-02-25T12:10:00.000Z",
-      "description": "Joe Cole and Glen Johnson are two of a very select group of players to have played for both Chelsea and Liverpool during their careers and on Sunday, they’ll be talking about their time at both clubs and so much more during their appearance on Matchday Live ahead of the Carabao Cup final against Liverpool.",
-      "matchId": 2271539
     }
   ]
 }
