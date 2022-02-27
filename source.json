@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 563,
+    "totalItems": 564,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 57,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220227carabao-cup-final-report--chelse",
+      "type": "NewsCard",
+      "timestamp": "2022-02-27T17:51:00.000Z",
+      "orderDate": "2022-02-27T17:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/27/carabao-cup-final-report--chelsea-liverpool",
+        "type": "NewsCard",
+        "title": "Carabao Cup final report: Chelsea 0 Liverpool 0 (Liverpool win 11-10 on pens)",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/carabao-cup-final-report--chelsea-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-27T17:51:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/27/carabao-cup-final-report--chelsea-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Havertz",
+          "id": "editorial/match-reports/2021-22/liverpool-cc-final/Havertz_GettyImages-1373152304",
+          "gravity": "auto",
+          "aspectRatio": 1.5576923,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Carabao Cup final report: Chelsea 0 Liverpool 0 (Liverpool win 11-10 on pens)",
+      "publishDate": "2022-02-27T17:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/carabao-cup-final-report--chelsea-liverpool.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-27T17:51:00.000Z",
+      "description": "Chelsea were defeated in the cruelest of circumstances in the Carabao Cup final, in a penalty shoot-out that went all the way to the goalkeepers, having had three goals ruled out for offside during the match.",
+      "matchId": 2271539
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220227chelsea-s-carabao-cup-final-star",
@@ -447,55 +501,6 @@
       "date": "2022-02-27T08:00:00.000Z",
       "description": "Chelsea FC Women manager Emma Hayes says her side’s second-half performance was ‘ruthless’ as the Blues put seven past Leicester City yesterday afternoon.",
       "matchId": 2274970
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220222wembley-no-street-drinking-zone-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-25T12:51:00.000Z",
-      "orderDate": "2022-02-26T22:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/22/wembley-no-street-drinking-zone-details-and-chelsea-pubs-confirm",
-        "type": "NewsCard",
-        "title": "Wembley no street-drinking zone details; Chelsea pubs and fanzone confirmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/wembley-no-street-drinking-zone-details-and-chelsea-pubs-confirm.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-25T12:51:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/22/wembley-no-street-drinking-zone-details-and-chelsea-pubs-confirm",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Wembley Way",
-          "id": "editorial/news/2022/02/22/wembley-way-outside-view",
-          "gravity": "auto",
-          "aspectRatio": 1.5002987,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Wembley no street-drinking zone details; Chelsea pubs and fanzone confirmed",
-      "publishDate": "2022-02-25T12:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/22/wembley-no-street-drinking-zone-details-and-chelsea-pubs-confirm.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-25T12:51:00.000Z",
-      "description": "Olympic Way and the surrounding areas in Wembley have been designated as no-street drinking zones for Sunday's Carabao Cup final, while the list of approved Chelsea pubs has also been confirmed.",
-      "matchId": 2271539
     }
   ]
 }
