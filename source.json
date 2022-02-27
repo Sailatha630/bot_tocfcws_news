@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 560,
+    "totalItems": 561,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 56,
+    "pageCount": 57,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220227pulisic-hungry-for-more-silverwa",
+      "type": "NewsCard",
+      "timestamp": "2022-02-27T11:00:00.000Z",
+      "orderDate": "2022-02-27T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/27/pulisic-hungry-for-more-silverware",
+        "type": "NewsCard",
+        "title": "Pulisic hungry for more silverware",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/pulisic-hungry-for-more-silverware.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-27T11:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/27/pulisic-hungry-for-more-silverware",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/01/11/Pulisic_DTW_6994-480979_5dbf1885-8c99-45df-82e6-9c8b13345d07",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic hungry for more silverware",
+      "publishDate": "2022-02-27T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/pulisic-hungry-for-more-silverware.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-27T11:00:00.000Z",
+      "description": "Christian Pulisic is hoping to add another trophy to his collection this weekend, with the American eying up Carabao Cup success against Liverpool.",
+      "matchId": 2271539
+    },
     {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20220227club-statement-on-the-conflict-i",
@@ -466,48 +514,6 @@
       "date": "2022-02-26T12:41:00.000Z",
       "description": "As we continue our build-up to tomorrow’s Carabao Cup final at Wembley against Liverpool, Jorginho talks about his return to a stadium at which he has experienced so much and Chelsea’s secret to success on the biggest of stages…",
       "matchId": 2271539
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220227chelsea-foundation-s-ncs-program",
-      "type": "NewsCard",
-      "timestamp": "2022-02-27T03:26:00.000Z",
-      "orderDate": "2022-02-26T14:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/27/chelsea-foundation-s-ncs-programme-recognised-at-carabao-cup-fin",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation’s NCS programme recognised at Carabao Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/chelsea-foundation-s-ncs-programme-recognised-at-carabao-cup-fin.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-27T03:26:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/27/chelsea-foundation-s-ncs-programme-recognised-at-carabao-cup-fin",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Foundation-NCS-programme_(1)",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation’s NCS programme recognised at Carabao Cup final",
-      "publishDate": "2022-02-27T03:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/chelsea-foundation-s-ncs-programme-recognised-at-carabao-cup-fin.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-02-27T03:26:00.000Z",
-      "description": "As Chelsea FC take to the Wembley turf in the Carabao Cup final against Liverpool this afternoon, both clubs and their foundations have been recognised for their work on the NCS programme."
     }
   ]
 }
