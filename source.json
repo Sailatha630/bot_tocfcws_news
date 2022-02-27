@@ -1,12 +1,56 @@
 {
   "pagination": {
-    "totalItems": 562,
+    "totalItems": 563,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 57,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220227chelsea-s-carabao-cup-final-star",
+      "type": "NewsCard",
+      "timestamp": "2022-02-27T15:18:00.000Z",
+      "orderDate": "2022-02-27T15:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/27/chelsea-s-carabao-cup-final-starting-line-up",
+        "type": "NewsCard",
+        "title": "Chelsea's Carabao Cup final starting line-up",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/chelsea-s-carabao-cup-final-starting-line-up.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-27T15:18:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/27/chelsea-s-carabao-cup-final-starting-line-up",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Changing room",
+          "id": "editorial/match-reports/2021-22/liverpool-cc-final/Wembely_Changing_room",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea's Carabao Cup final starting line-up",
+      "publishDate": "2022-02-27T15:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/chelsea-s-carabao-cup-final-starting-line-up.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2022-02-27T15:18:00.000Z",
+      "description": "Thomas Tuchel has made two changes to his starting line-up to face Liverpool in today's Carabao Cup final, including the return of Mason Mount.",
+      "matchId": 2271539
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220227tuchel-on-lukaku--spotlight-alwa",
@@ -451,64 +495,6 @@
       ],
       "date": "2022-02-25T12:51:00.000Z",
       "description": "Olympic Way and the surrounding areas in Wembley have been designated as no-street drinking zones for Sunday's Carabao Cup final, while the list of approved Chelsea pubs has also been confirmed.",
-      "matchId": 2271539
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220225tuchel--this-final-means-so-much",
-      "type": "NewsCard",
-      "timestamp": "2022-02-26T17:40:00.000Z",
-      "orderDate": "2022-02-26T17:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/25/tuchel--this-final-means-so-much-to-me",
-        "type": "NewsCard",
-        "title": "Tuchel: This final means so much to me",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/tuchel--this-final-means-so-much-to-me.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-26T17:40:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/25/tuchel--this-final-means-so-much-to-me",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/05/15/Azpilicueta_Tuchel_GettyImages-1318175744",
-          "gravity": "auto",
-          "aspectRatio": 1.498858,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: This final means so much to me",
-      "publishDate": "2022-02-26T17:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/25/tuchel--this-final-means-so-much-to-me.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "N'Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2022-02-26T17:40:00.000Z",
-      "description": "Thomas Tuchel has expressed his delight at N’Golo Kante returning to some of his best form for Chelsea, while also relishing the prospect of facing compatriot Jurgen Klopp in an English domestic cup final.",
       "matchId": 2271539
     }
   ]
