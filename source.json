@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 555,
+    "totalItems": 557,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 56,
@@ -8,11 +8,70 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220227tuchel--our-teeth-are-into-task-",
+      "type": "NewsCard",
+      "timestamp": "2022-02-27T03:30:00.000Z",
+      "orderDate": "2022-02-27T03:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/27/tuchel--our-teeth-are-into-task-of-beating-liverpool",
+        "type": "NewsCard",
+        "title": "Tuchel: Our teeth are into task of beating Liverpool",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/tuchel--our-teeth-are-into-task-of-beating-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-27T03:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/27/tuchel--our-teeth-are-into-task-of-beating-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel and Jurgen Klopp",
+          "id": "editorial/news/2022/02/26/tuchel_klopp",
+          "gravity": "west",
+          "aspectRatio": 1.428629,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Our teeth are into task of beating Liverpool",
+      "publishDate": "2022-02-27T03:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/tuchel--our-teeth-are-into-task-of-beating-liverpool.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-27T03:30:00.000Z",
+      "description": "Thomas Tuchel looks back on lessons of last Wembley appearance, and what a recent tennis classic teaches about finals…",
+      "matchId": 2271539
+    },
+    {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20220226statement-from-club-owner-roman-",
       "type": "NewsCard",
       "timestamp": "2022-02-26T18:45:00.000Z",
-      "orderDate": "2022-02-26T18:45:00.000Z",
+      "orderDate": "2022-02-27T02:45:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2022/02/26/statement-from-club-owner-roman-abramovich",
         "type": "NewsCard",
@@ -43,6 +102,66 @@
       "tags": [],
       "date": "2022-02-26T18:45:00.000Z",
       "description": "The following statement has been published..."
+    },
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220227christensen--this-is-how-we-defe",
+      "type": "NewsCard",
+      "timestamp": "2022-02-27T03:37:00.000Z",
+      "orderDate": "2022-02-27T01:34:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/27/christensen--this-is-how-we-defend-against-liverpool",
+        "type": "NewsCard",
+        "title": "Christensen: This is how we defend against Liverpool",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/christensen--this-is-how-we-defend-against-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-27T03:37:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/27/christensen--this-is-how-we-defend-against-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Andreas Christensen against Liverpool",
+          "id": "editorial/news/2021/03/04/Christensen-Mane-Liverpool-home",
+          "gravity": "auto",
+          "aspectRatio": 1.2805698,
+          "cropMode": "fill"
+        },
+        "caption": " "
+      },
+      "content": "Christensen: This is how we defend against Liverpool",
+      "publishDate": "2022-02-27T03:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/christensen--this-is-how-we-defend-against-liverpool.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-27T03:37:00.000Z",
+      "description": "Supporting each other will be key to Chelsea repelling the Liverpool attack today at Wembley reckons Andreas Christensen, as he targets another trophy to add to his medal collection which has swelled considerably in recent months.",
+      "matchId": 2271539
     },
     {
       "contentType": "News",
@@ -421,145 +540,6 @@
       "date": "2022-02-26T06:06:00.000Z",
       "description": "As he prepares to lead the Blues into a fifth final in just over a year in charge, Thomas Tuchel has claimed that his Chelsea side are more than just cup specialists, although he claimed being viewed as knockout kings was hardly something to worry about...",
       "matchId": 2271539
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220226cole-and-johnson-to-share-cup-fi",
-      "type": "NewsCard",
-      "timestamp": "2022-02-26T02:34:00.000Z",
-      "orderDate": "2022-02-26T02:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/26/cole-and-johnson-to-share-cup-final-insight",
-        "type": "NewsCard",
-        "title": "Cole and Johnson to share cup final insight",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/cole-and-johnson-to-share-cup-final-insight.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-26T02:34:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/26/cole-and-johnson-to-share-cup-final-insight",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Cole",
-          "id": "editorial/news/2022/02/25/J_Cole_Johnson_GettyImages-2462057",
-          "gravity": "north",
-          "aspectRatio": 1.4069507,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Cole and Johnson to share cup final insight",
-      "publishDate": "2022-02-26T02:34:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/cole-and-johnson-to-share-cup-final-insight.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        },
-        {
-          "title": "Joe Cole",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_joe-cole"
-        }
-      ],
-      "date": "2022-02-26T02:34:00.000Z",
-      "description": "Joe Cole and Glen Johnson both have plenty of experience of what it takes to win a League Cup final, which they will be sharing as two of the guests on Matchday Live when Chelsea take on Liverpool in this season’s Carabao Cup decider on Sunday.",
-      "matchId": 2271539
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220226under-18s-report--chelsea-aston-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-26T14:00:00.000Z",
-      "orderDate": "2022-02-26T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa",
-        "type": "NewsCard",
-        "title": "Under-18s report and video highlights: Chelsea 3 Aston Villa 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-26T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea 3-1 Aston Vila U18s Premier League",
-          "videoId": "5expYIVp",
-          "bucket": "prod-cfc",
-          "description": "Highlights from ourU18s Premier League match against Aston Vila.",
-          "duration": 191000,
-          "date": "2022-02-26T20:14:21.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/5expYIVp/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa.page.v3.json",
-          "contentType": "Match Report",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/02/26/under-18s-report--chelsea-aston-villa?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Highlights from ourU18s Premier League match against Aston Vila."
-      },
-      "content": "Under-18s report and video highlights: Chelsea 3 Aston Villa 1",
-      "publishDate": "2022-02-26T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/under-18s-report--chelsea-aston-villa.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "U18 - Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_u18-premier-league"
-        }
-      ],
-      "date": "2022-02-26T14:00:00.000Z",
-      "description": "Our Under-18s ran out comfortable winners with early strikes from the returning Jimi Taurainen and from Ronnie Stutter, as well as own-goal from the Villa keeper.",
-      "matchId": 2238410
     }
   ]
 }
