@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 561,
+    "totalItems": 562,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 57,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220227tuchel-on-lukaku--spotlight-alwa",
+      "type": "NewsCard",
+      "timestamp": "2022-02-27T14:15:00.000Z",
+      "orderDate": "2022-02-27T14:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/27/tuchel-on-lukaku--spotlight-always-on-strikers-",
+        "type": "NewsCard",
+        "title": "Tuchel on Lukaku: Spotlight always on strikers ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/tuchel-on-lukaku--spotlight-always-on-strikers-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-27T14:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/27/tuchel-on-lukaku--spotlight-always-on-strikers-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel and Romelu Lukaku",
+          "id": "chelsea-app/Lukaku-GettyImages-1237427372",
+          "gravity": "auto",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on Lukaku: Spotlight always on strikers ",
+      "publishDate": "2022-02-27T14:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/tuchel-on-lukaku--spotlight-always-on-strikers-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_romelu-lukaku"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-02-27T14:15:00.000Z",
+      "description": "While it remains to be seen if Romelu Lukaku will be restored to the Chelsea attack for today’s Carabao Cup final, Thomas Tuchel has been asked if he, as a coach, takes it personally that the striker has not operated at the top of his form recently.",
+      "matchId": 2271539
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220227pulisic-hungry-for-more-silverwa",
@@ -455,64 +509,6 @@
       ],
       "date": "2022-02-26T17:40:00.000Z",
       "description": "Thomas Tuchel has expressed his delight at N’Golo Kante returning to some of his best form for Chelsea, while also relishing the prospect of facing compatriot Jurgen Klopp in an English domestic cup final.",
-      "matchId": 2271539
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220226jorginho-exclusive-cup-final-int",
-      "type": "NewsCard",
-      "timestamp": "2022-02-26T12:41:00.000Z",
-      "orderDate": "2022-02-26T15:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/26/jorginho-exclusive-cup-final-interview--returning-to-wembley--ap",
-        "type": "NewsCard",
-        "title": "Jorginho exclusive Cup final interview: Returning to Wembley, appreciating a full crowd and Chelsea’s addictive hunger for success",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/jorginho-exclusive-cup-final-interview--returning-to-wembley--ap.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-26T12:41:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/26/jorginho-exclusive-cup-final-interview--returning-to-wembley--ap",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/02/26/Jorginho-stock-Crystal-Palace-2",
-          "gravity": "auto",
-          "aspectRatio": 1.4830221,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jorginho exclusive Cup final interview: Returning to Wembley, appreciating a full crowd and Chelsea’s addictive hunger for success",
-      "publishDate": "2022-02-26T12:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/26/jorginho-exclusive-cup-final-interview--returning-to-wembley--ap.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        }
-      ],
-      "date": "2022-02-26T12:41:00.000Z",
-      "description": "As we continue our build-up to tomorrow’s Carabao Cup final at Wembley against Liverpool, Jorginho talks about his return to a stadium at which he has experienced so much and Chelsea’s secret to success on the biggest of stages…",
       "matchId": 2271539
     }
   ]
