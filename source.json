@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 570,
+    "totalItems": 572,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 57,
+    "pageCount": 58,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220228tuchel-proud-of-the-returning-ja",
+      "type": "NewsCard",
+      "timestamp": "2022-02-28T12:33:00.000Z",
+      "orderDate": "2022-02-28T12:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/28/tuchel-proud-of-the-returning-james-and-chalobah-",
+        "type": "NewsCard",
+        "title": "Tuchel proud of the returning James and Chalobah ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/tuchel-proud-of-the-returning-james-and-chalobah-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-28T12:33:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/28/tuchel-proud-of-the-returning-james-and-chalobah-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Reece-James-GettyImages-1373155242",
+          "gravity": "auto",
+          "aspectRatio": 1.5019219,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel proud of the returning James and Chalobah ",
+      "publishDate": "2022-02-28T12:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/tuchel-proud-of-the-returning-james-and-chalobah-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        },
+        {
+          "title": "Trevoh Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
+        }
+      ],
+      "date": "2022-02-28T12:33:00.000Z",
+      "description": "Chelsea boss Thomas Tuchel believes the return of Reece James can be a huge confidence boost for the whole of his squad.",
+      "matchId": 2271539
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220228rudiger-rues-chelsea-s-missed-ch",
@@ -165,6 +228,60 @@
       "date": "2022-02-28T11:50:00.000Z",
       "description": "Chelsea’s trip to Norwich City in March will be brought forward should the Blues defeat Luton in the FA Cup this week, or Norwich beat Liverpool in their fifth-round tie.",
       "matchId": 2210567
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220228lauren-james--we-got-the-win-and",
+      "type": "NewsCard",
+      "timestamp": "2022-02-28T10:46:00.000Z",
+      "orderDate": "2022-02-28T00:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/28/lauren-james--we-got-the-win-and-that-s-the-main-thing",
+        "type": "NewsCard",
+        "title": "Lauren James: We got the win and that’s the main thing",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/lauren-james--we-got-the-win-and-that-s-the-main-thing.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-28T10:46:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/28/lauren-james--we-got-the-win-and-that-s-the-main-thing",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lauren James",
+          "id": "editorial/women's-team/Lauren-James-first-start-action-shot",
+          "gravity": "north_east",
+          "aspectRatio": 1.5026475,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lauren James: We got the win and that’s the main thing",
+      "publishDate": "2022-02-28T10:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/lauren-james--we-got-the-win-and-that-s-the-main-thing.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        },
+        {
+          "title": "Lauren James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_lauren-james"
+        }
+      ],
+      "date": "2022-02-28T10:46:00.000Z",
+      "description": "Chelsea FC Women forward Lauren James reflects on Saturday’s Vitality Women’s FA Cup fifth-round win against Leicester City.",
+      "matchId": 2274970
     },
     {
       "contentType": "Match Preview",
@@ -436,108 +553,6 @@
       ],
       "date": "2022-02-27T15:18:00.000Z",
       "description": "Thomas Tuchel has made two changes to his starting line-up to face Liverpool in today's Carabao Cup final, including the return of Mason Mount.",
-      "matchId": 2271539
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220227tuchel-on-lukaku--spotlight-alwa",
-      "type": "NewsCard",
-      "timestamp": "2022-02-27T14:15:00.000Z",
-      "orderDate": "2022-02-27T14:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/27/tuchel-on-lukaku--spotlight-always-on-strikers-",
-        "type": "NewsCard",
-        "title": "Tuchel on Lukaku: Spotlight always on strikers ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/tuchel-on-lukaku--spotlight-always-on-strikers-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-27T14:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/27/tuchel-on-lukaku--spotlight-always-on-strikers-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel and Romelu Lukaku",
-          "id": "chelsea-app/Lukaku-GettyImages-1237427372",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on Lukaku: Spotlight always on strikers ",
-      "publishDate": "2022-02-27T14:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/tuchel-on-lukaku--spotlight-always-on-strikers-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_romelu-lukaku"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-02-27T14:15:00.000Z",
-      "description": "While it remains to be seen if Romelu Lukaku will be restored to the Chelsea attack for today’s Carabao Cup final, Thomas Tuchel has been asked if he, as a coach, takes it personally that the striker has not operated at the top of his form recently.",
-      "matchId": 2271539
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220227pulisic-hungry-for-more-silverwa",
-      "type": "NewsCard",
-      "timestamp": "2022-02-27T11:00:00.000Z",
-      "orderDate": "2022-02-27T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/27/pulisic-hungry-for-more-silverware",
-        "type": "NewsCard",
-        "title": "Pulisic hungry for more silverware",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/pulisic-hungry-for-more-silverware.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-27T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/27/pulisic-hungry-for-more-silverware",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/01/11/Pulisic_DTW_6994-480979_5dbf1885-8c99-45df-82e6-9c8b13345d07",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pulisic hungry for more silverware",
-      "publishDate": "2022-02-27T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/pulisic-hungry-for-more-silverware.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-27T11:00:00.000Z",
-      "description": "Christian Pulisic is hoping to add another trophy to his collection this weekend, with the American eying up Carabao Cup success against Liverpool.",
       "matchId": 2271539
     }
   ]
