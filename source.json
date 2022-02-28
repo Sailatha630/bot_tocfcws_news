@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 569,
+    "totalItems": 570,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 57,
@@ -59,7 +59,7 @@
       "id": "_content_chelseafcennews20220228media-watch--mendy-s-double-save",
       "type": "NewsCard",
       "timestamp": "2022-02-28T09:34:00.000Z",
-      "orderDate": "2022-02-28T00:34:00.000Z",
+      "orderDate": "2022-02-28T02:34:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2022/02/28/media-watch--mendy-s-double-save-analysed--colwill-tipped-for-br",
         "type": "NewsCard",
@@ -106,6 +106,65 @@
       ],
       "date": "2022-02-28T09:34:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there are TV punditry quotes, an interview with a Huddersfield Town player and an interview with Didi Hamann..."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220228norwich-game-to-be-moved-dependi",
+      "type": "NewsCard",
+      "timestamp": "2022-02-28T11:50:00.000Z",
+      "orderDate": "2022-02-28T01:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/28/norwich-game-to-be-moved-depending-on-progress-in-fa-cup",
+        "type": "NewsCard",
+        "title": "Norwich game to be moved depending on progress FA Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/norwich-game-to-be-moved-depending-on-progress-in-fa-cup.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-28T11:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/02/28/norwich-game-to-be-moved-depending-on-progress-in-fa-cup",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Carrow-road-general-view-GettyImages-501053538",
+          "gravity": "auto",
+          "aspectRatio": 1.1706568,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Norwich game to be moved depending on progress FA Cup",
+      "publishDate": "2022-02-28T11:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/norwich-game-to-be-moved-depending-on-progress-in-fa-cup.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Norwich City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_norwich-city"
+        }
+      ],
+      "date": "2022-02-28T11:50:00.000Z",
+      "description": "Chelsea’s trip to Norwich City in March will be brought forward should the Blues defeat Luton in the FA Cup this week, or Norwich beat Liverpool in their fifth-round tie.",
+      "matchId": 2210567
     },
     {
       "contentType": "Match Preview",
@@ -480,43 +539,6 @@
       "date": "2022-02-27T11:00:00.000Z",
       "description": "Christian Pulisic is hoping to add another trophy to his collection this weekend, with the American eying up Carabao Cup success against Liverpool.",
       "matchId": 2271539
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20220227club-statement-on-the-conflict-i",
-      "type": "NewsCard",
-      "timestamp": "2022-02-27T09:30:00.000Z",
-      "orderDate": "2022-02-27T09:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/27/club-statement-on-the-conflict-in-ukraine",
-        "type": "NewsCard",
-        "title": "Club statement on the conflict in Ukraine",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/club-statement-on-the-conflict-in-ukraine.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-27T09:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/27/club-statement-on-the-conflict-in-ukraine",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "site-assets/backgrounds/cfc-club-statement-APP",
-          "gravity": "center",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Club statement on the conflict in Ukraine",
-      "publishDate": "2022-02-27T09:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/club-statement-on-the-conflict-in-ukraine.html",
-      "readTimeInMins": 3,
-      "tags": [],
-      "date": "2022-02-27T09:30:00.000Z",
-      "description": "The following statement has just been published..."
     }
   ]
 }
