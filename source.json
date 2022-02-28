@@ -1,12 +1,119 @@
 {
   "pagination": {
-    "totalItems": 565,
+    "totalItems": 567,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 57,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220228rudiger-rues-chelsea-s-missed-ch",
+      "type": "NewsCard",
+      "timestamp": "2022-02-28T04:00:00.000Z",
+      "orderDate": "2022-02-28T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/28/rudiger-rues-chelsea-s-missed-chances-",
+        "type": "NewsCard",
+        "title": "Rudiger rues Chelsea's missed chances ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/rudiger-rues-chelsea-s-missed-chances-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-28T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/28/rudiger-rues-chelsea-s-missed-chances-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Rudiger-GettyImages-1373145642",
+          "gravity": "auto",
+          "aspectRatio": 1.4995767,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger rues Chelsea's missed chances ",
+      "publishDate": "2022-02-28T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/rudiger-rues-chelsea-s-missed-chances-.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2022-02-28T04:00:00.000Z",
+      "description": "Blues defender Antonio Rudiger felt that 'missed chances' in the Carabao Cup final was the only downside to an otherwise good Chelsea performance at Wembley."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220228watch-the-highlights-of-the-cara",
+      "type": "NewsCard",
+      "timestamp": "2022-02-27T22:38:00.000Z",
+      "orderDate": "2022-02-27T22:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final",
+        "type": "NewsCard",
+        "title": "Watch the highlights of the Carabao Cup final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-27T22:38:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea (10) 0-0 (11) Liverpool | Carabao Cup Highlights",
+          "videoId": "zYt8WuOK",
+          "bucket": "prod-cfc",
+          "description": "Watch the highlights as Chelsea took on Liverpool at Wembley in the Carabao Cup final. ",
+          "duration": 361000,
+          "date": "2022-02-27T21:45:59.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/zYt8WuOK/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Watch the highlights as Chelsea took on Liverpool at Wembley in the Carabao Cup final. "
+      },
+      "content": "Watch the highlights of the Carabao Cup final",
+      "publishDate": "2022-02-27T22:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "date": "2022-02-27T22:38:00.000Z",
+      "description": "The highlights of a thrilling, albeit disappointing, Carabao Cup final are now available to watch on Chelsea platforms.",
+      "matchId": 2271539
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220227tuchel-reacts-to-carabao-cup-fin",
@@ -398,114 +505,6 @@
       "tags": [],
       "date": "2022-02-26T18:45:00.000Z",
       "description": "The following statement has been published..."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220227quiz--guess-the-player-from-the-",
-      "type": "NewsCard",
-      "timestamp": "2022-02-27T03:45:00.000Z",
-      "orderDate": "2022-02-27T02:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/27/quiz--guess-the-player-from-the-2004-05-league-cup-final",
-        "type": "NewsCard",
-        "title": "Quiz: Guess the player from the 2004/05 League Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/quiz--guess-the-player-from-the-2004-05-league-cup-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-27T03:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/27/quiz--guess-the-player-from-the-2004-05-league-cup-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "video/2019/02/Kezman_League_Cup_TN",
-          "gravity": "auto",
-          "aspectRatio": 1.497903,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Guess the player from the 2004/05 League Cup final",
-      "publishDate": "2022-02-27T03:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/quiz--guess-the-player-from-the-2004-05-league-cup-final.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-27T03:45:00.000Z",
-      "description": "With the Blues bidding for League Cup glory this weekend, our build-up continues with a tricky quiz based on our 2005 triumph and the players involved that day in Cardiff...",
-      "matchId": 2271539
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220227christensen--this-is-how-we-defe",
-      "type": "NewsCard",
-      "timestamp": "2022-02-27T03:37:00.000Z",
-      "orderDate": "2022-02-27T01:34:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/27/christensen--this-is-how-we-defend-against-liverpool",
-        "type": "NewsCard",
-        "title": "Christensen: This is how we defend against Liverpool",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/christensen--this-is-how-we-defend-against-liverpool.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-27T03:37:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/27/christensen--this-is-how-we-defend-against-liverpool",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Andreas Christensen against Liverpool",
-          "id": "editorial/news/2021/03/04/Christensen-Mane-Liverpool-home",
-          "gravity": "auto",
-          "aspectRatio": 1.2805698,
-          "cropMode": "fill"
-        },
-        "caption": " "
-      },
-      "content": "Christensen: This is how we defend against Liverpool",
-      "publishDate": "2022-02-27T03:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/christensen--this-is-how-we-defend-against-liverpool.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-27T03:37:00.000Z",
-      "description": "Supporting each other will be key to Chelsea repelling the Liverpool attack today at Wembley reckons Andreas Christensen, as he targets another trophy to add to his medal collection which has swelled considerably in recent months.",
-      "matchId": 2271539
     }
   ]
 }
