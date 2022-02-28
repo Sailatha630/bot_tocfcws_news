@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 574,
+    "totalItems": 575,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 58,
@@ -420,6 +420,54 @@
       "matchId": 2274970
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220228lille-away-ticket-news-update",
+      "type": "NewsCard",
+      "timestamp": "2022-02-28T16:11:00.000Z",
+      "orderDate": "2022-02-28T00:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/02/28/lille-away-ticket-news-update",
+        "type": "NewsCard",
+        "title": "Important Lille away ticket news update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/lille-away-ticket-news-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-02-28T16:11:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/02/28/lille-away-ticket-news-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Lille stadium",
+          "id": "chelsea-app/Lille-stadium-GettyImages-1178593276",
+          "gravity": "auto",
+          "aspectRatio": 1.4997045,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Important Lille away ticket news update",
+      "publishDate": "2022-02-28T16:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/lille-away-ticket-news-update.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-02-28T16:11:00.000Z",
+      "description": "We have received a further update from Lille regarding entry to their stadium..."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220228pl2-preview--our-development-squ",
       "type": "NewsCard",
@@ -532,65 +580,6 @@
       ],
       "date": "2022-02-27T22:38:00.000Z",
       "description": "The highlights of a thrilling, albeit disappointing, Carabao Cup final are now available to watch on Chelsea platforms.",
-      "matchId": 2271539
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220227tuchel-reacts-to-carabao-cup-fin",
-      "type": "NewsCard",
-      "timestamp": "2022-02-27T20:23:00.000Z",
-      "orderDate": "2022-02-27T20:23:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/27/tuchel-reacts-to-carabao-cup-final-loss",
-        "type": "NewsCard",
-        "title": "Tuchel proud of performance in 'brilliant' final that could have gone either way",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/tuchel-reacts-to-carabao-cup-final-loss.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-27T20:23:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/27/tuchel-reacts-to-carabao-cup-final-loss",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/match-reports/2021-22/liverpool-cc-final/Tuchel_GettyImages-1238809315",
-          "gravity": "auto",
-          "aspectRatio": 1.5337423,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel proud of performance in 'brilliant' final that could have gone either way",
-      "publishDate": "2022-02-27T20:23:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/27/tuchel-reacts-to-carabao-cup-final-loss.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-27T20:23:00.000Z",
-      "description": "Chelsea were defeated on penalties in the Carabao Cup final against Liverpool, but Thomas Tuchel was proud of the performance his side put in and felt we can consider ourselves a little unlucky not to have lifted the trophy at the end of the game.",
       "matchId": 2271539
     }
   ]
