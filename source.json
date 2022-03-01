@@ -1,12 +1,122 @@
 {
   "pagination": {
-    "totalItems": 575,
+    "totalItems": 577,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 58,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnists",
+      "id": "_content_chelseafcennews20220301pat-nevin--why-i-looked-almost-h",
+      "type": "NewsCard",
+      "timestamp": "2022-03-01T04:30:00.000Z",
+      "orderDate": "2022-03-01T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/01/pat-nevin--why-i-looked-almost-happy-after-cup-final",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Why I looked almost happy after cup final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/pat-nevin--why-i-looked-almost-happy-after-cup-final.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-01T04:30:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2022/03/01/pat-nevin--why-i-looked-almost-happy-after-cup-final",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Carabao Cup final",
+          "id": "editorial/news/2022/02/28/carabao_cup_final",
+          "gravity": "south",
+          "aspectRatio": 1.4998125,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Why I looked almost happy after cup final",
+      "publishDate": "2022-03-01T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/pat-nevin--why-i-looked-almost-happy-after-cup-final.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        },
+        {
+          "title": "League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_league-cup"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2022-03-01T04:30:00.000Z",
+      "description": "No goals and then 21 penalties converted during what Blues legend Pat Nevin describes as ‘something special’ on Sunday afternoon. Despite the Chelsea disappointment of eventual defeat, he has more than enough to write about in this week’s column…"
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20220301the-peter-osgood-statue-story",
+      "type": "NewsCard",
+      "timestamp": "2022-03-01T03:00:00.000Z",
+      "orderDate": "2022-03-01T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/01/the-peter-osgood-statue-story",
+        "type": "NewsCard",
+        "title": "The Peter Osgood statue story",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/the-peter-osgood-statue-story.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-01T03:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/01/the-peter-osgood-statue-story",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Peter Osgood statue",
+          "id": "chelsea-app/Osgood_statue",
+          "gravity": "auto",
+          "aspectRatio": 1.5178148,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Peter Osgood statue story",
+      "publishDate": "2022-03-01T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/the-peter-osgood-statue-story.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Peter Osgood",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_peter-osgood"
+        }
+      ],
+      "date": "2022-03-01T03:00:00.000Z",
+      "description": "On the anniversary of the passing of the great Peter Osgood back in 2006, we tell the tale of a lasting monument to our thrilling forward which is an everyday part of Stamford Bridge life."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220228the-debrief--havertz-the-creativ",
@@ -456,120 +566,6 @@
       "date": "2022-02-28T11:50:00.000Z",
       "description": "Chelsea’s trip to Norwich City in March will be brought forward should the Blues defeat Luton in the FA Cup this week, or Norwich beat Liverpool in their fifth-round tie.",
       "matchId": 2210567
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220228lauren-james--we-got-the-win-and",
-      "type": "NewsCard",
-      "timestamp": "2022-02-28T10:46:00.000Z",
-      "orderDate": "2022-02-28T00:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/28/lauren-james--we-got-the-win-and-that-s-the-main-thing",
-        "type": "NewsCard",
-        "title": "Lauren James: We got the win and that’s the main thing",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/lauren-james--we-got-the-win-and-that-s-the-main-thing.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-28T10:46:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/02/28/lauren-james--we-got-the-win-and-that-s-the-main-thing",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Lauren James",
-          "id": "editorial/women's-team/Lauren-James-first-start-action-shot",
-          "gravity": "north_east",
-          "aspectRatio": 1.5026475,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lauren James: We got the win and that’s the main thing",
-      "publishDate": "2022-02-28T10:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/lauren-james--we-got-the-win-and-that-s-the-main-thing.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        },
-        {
-          "title": "Lauren James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_lauren-james"
-        }
-      ],
-      "date": "2022-02-28T10:46:00.000Z",
-      "description": "Chelsea FC Women forward Lauren James reflects on Saturday’s Vitality Women’s FA Cup fifth-round win against Leicester City.",
-      "matchId": 2274970
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220228watch-the-highlights-of-the-cara",
-      "type": "NewsCard",
-      "timestamp": "2022-02-27T22:38:00.000Z",
-      "orderDate": "2022-02-27T22:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final",
-        "type": "NewsCard",
-        "title": "Watch the highlights of the Carabao Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-27T22:38:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea (10) 0-0 (11) Liverpool | Carabao Cup Highlights",
-          "videoId": "zYt8WuOK",
-          "bucket": "prod-cfc",
-          "description": "Watch the highlights as Chelsea took on Liverpool at Wembley in the Carabao Cup final. ",
-          "duration": 361000,
-          "date": "2022-02-27T21:45:59.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/zYt8WuOK/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Watch the highlights as Chelsea took on Liverpool at Wembley in the Carabao Cup final. "
-      },
-      "content": "Watch the highlights of the Carabao Cup final",
-      "publishDate": "2022-02-27T22:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/watch-the-highlights-of-the-carabao-cup-final.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_league-cup"
-        }
-      ],
-      "date": "2022-02-27T22:38:00.000Z",
-      "description": "The highlights of a thrilling, albeit disappointing, Carabao Cup final are now available to watch on Chelsea platforms.",
-      "matchId": 2271539
     }
   ]
 }
