@@ -1,12 +1,80 @@
 {
   "pagination": {
-    "totalItems": 580,
+    "totalItems": 581,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 58,
+    "pageCount": 59,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220301tuchel-fa-cup-press-conference-a",
+      "type": "NewsCard",
+      "timestamp": "2022-03-01T14:15:00.000Z",
+      "orderDate": "2022-03-01T14:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/01/tuchel-fa-cup-press-conference-ahead-of-luton-town",
+        "type": "NewsCard",
+        "title": "Tuchel reveals ‘long list’ of injuries ahead of Luton, rules winger out and updates on Mount’s mentality after misses",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/tuchel-fa-cup-press-conference-ahead-of-luton-town.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-01T14:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/01/tuchel-fa-cup-press-conference-ahead-of-luton-town",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/01/07/tuchel-fa-cup-press-conference-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reveals ‘long list’ of injuries ahead of Luton, rules winger out and updates on Mount’s mentality after misses",
+      "publishDate": "2022-03-01T14:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/tuchel-fa-cup-press-conference-ahead-of-luton-town.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2022-03-01T14:15:00.000Z",
+      "description": "Thomas Tuchel has revealed he has a number of players with fitness doubts ahead of tomorrow’s FA Cup tie at Luton Town, with Hakim Ziyech already ruled out.",
+      "matchId": 2277258
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220301pat-nevin--why-i-looked-almost-h",
@@ -473,78 +541,6 @@
       ],
       "date": "2022-02-28T16:11:00.000Z",
       "description": "Lille have provided a second update today (28 February) relating to the second leg of our Champions League tie on 16 March."
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20220228chelsea-here-chelsea-there--brac",
-      "type": "NewsCard",
-      "timestamp": "2022-02-28T13:14:00.000Z",
-      "orderDate": "2022-02-28T09:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/28/chelsea-here-chelsea-there--brace-for-batshuayi--birthday-boost-",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Brace for Batshuayi, birthday boost for Colwill, Gallagher and Maatsen also net",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/chelsea-here-chelsea-there--brace-for-batshuayi--birthday-boost-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-02-28T13:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/28/chelsea-here-chelsea-there--brace-for-batshuayi--birthday-boost-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/01/10/Batshuayi_Besiktas_GettyImages-1357752916",
-          "gravity": "auto",
-          "aspectRatio": 1.5256025,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Brace for Batshuayi, birthday boost for Colwill, Gallagher and Maatsen also net",
-      "publishDate": "2022-02-28T13:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/28/chelsea-here-chelsea-there--brace-for-batshuayi--birthday-boost-.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Michy Batshuayi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_michy-batshuayi"
-        },
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Conor Gallagher",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_conor-gallagher"
-        },
-        {
-          "title": "Armando Broja",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_armando-broja"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Ethan Ampadu",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ethan_ampadu"
-        },
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
-        }
-      ],
-      "date": "2022-02-28T13:14:00.000Z",
-      "description": "In our weekly round-up of the action involving Chelsea players out on loan, a quartet were on the scoresheet at home and abroad, with one in particular enjoying a birthday to remember…"
     }
   ]
 }
