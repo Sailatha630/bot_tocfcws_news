@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 597,
+    "totalItems": 598,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 60,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220302tuchel-reflects-on-winning-deser",
+      "type": "NewsCard",
+      "timestamp": "2022-03-02T22:14:00.000Z",
+      "orderDate": "2022-03-02T22:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/02/tuchel-reflects-on-winning-deservedly--big-news-and-staying-focu",
+        "type": "NewsCard",
+        "title": "Tuchel reflects on winning deservedly, big news and staying focused  ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/tuchel-reflects-on-winning-deservedly--big-news-and-staying-focu.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-02T22:14:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/02/tuchel-reflects-on-winning-deservedly--big-news-and-staying-focu",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "chelsea-app/Tuchel-GettyImages-1376636563",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reflects on winning deservedly, big news and staying focused  ",
+      "publishDate": "2022-03-02T22:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/tuchel-reflects-on-winning-deservedly--big-news-and-staying-focu.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-02T22:14:00.000Z",
+      "description": "It was a difficult cup-tie played in difficult or potentially distracting circumstances, so the fact his team emerged 3-2 winners at Luton was plenty for Thomas Tuchel to be pleased about speaking after the game.",
+      "matchId": 2277258
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220302match-report--luton-town-chelsea",
@@ -494,69 +548,6 @@
       "date": "2022-03-02T04:00:00.000Z",
       "description": "The knockout action keeps coming as we continue our FA Cup campaign by facing Championship side Luton Town in the competition for the second season in a row. We preview our first visit to Kenilworth Road in over 20 years with all the key stats and facts ahead of kick-off...",
       "matchId": 2277258
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220302media-watch--ziyech-tops-power-r",
-      "type": "NewsCard",
-      "timestamp": "2022-03-02T09:31:00.000Z",
-      "orderDate": "2022-03-02T01:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/02/media-watch--ziyech-tops-power-rankings--luton-s-kal-naismith-re",
-        "type": "NewsCard",
-        "title": "Media Watch: Ziyech tops power rankings, Luton's Kal Naismith reveals Chelsea connection and Joe Cole  praises Rudiger",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/media-watch--ziyech-tops-power-rankings--luton-s-kal-naismith-re.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-02T09:31:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/02/media-watch--ziyech-tops-power-rankings--luton-s-kal-naismith-re",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/chelsea-ziyech-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Ziyech tops power rankings, Luton's Kal Naismith reveals Chelsea connection and Joe Cole  praises Rudiger",
-      "publishDate": "2022-03-02T09:31:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/media-watch--ziyech-tops-power-rankings--luton-s-kal-naismith-re.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Luton Town",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_luton-town"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Joe Cole",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_joe-cole"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2022-03-02T09:31:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there is an interview with one of tonight's opponents, praise for one Chelsea defender and stats outline one forward's excellent performances..."
     }
   ]
 }
