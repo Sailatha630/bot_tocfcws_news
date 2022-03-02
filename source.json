@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 590,
+    "totalItems": 591,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 59,
+    "pageCount": 60,
     "startFrom": 0
   },
   "newsFeed": [
@@ -230,6 +230,54 @@
       ],
       "date": "2022-03-02T09:31:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is an interview with one of tonight's opponents, praise for one Chelsea defender and stats outline one forward's excellent performances..."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220302can-you-outscore-kerry-dixon-at-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-02T11:13:00.000Z",
+      "orderDate": "2022-03-02T01:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/02/can-you-outscore-kerry-dixon-at-play-predictor-",
+        "type": "NewsCard",
+        "title": "Can you outscore Kerry Dixon at Play Predictor?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/can-you-outscore-kerry-dixon-at-play-predictor-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-02T11:13:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/02/can-you-outscore-kerry-dixon-at-play-predictor-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "theshed/shot-of-the-day/GettyImages-611544756",
+          "gravity": "auto",
+          "aspectRatio": 1.5479366,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Can you outscore Kerry Dixon at Play Predictor?",
+      "publishDate": "2022-03-02T11:13:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/can-you-outscore-kerry-dixon-at-play-predictor-.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Kerry Dixon",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_kerry-dixon"
+        },
+        {
+          "title": "Play Predictor",
+          "namespace": "content-tag:",
+          "id": "content-tag_features_play-predictor"
+        }
+      ],
+      "date": "2022-03-02T11:13:00.000Z",
+      "description": "It’s not often you get to challenge a true Chelsea legend, but you’ll have the chance to do exactly that ahead of tonight’s FA Cup clash with Luton.",
+      "matchId": 2277258
     },
     {
       "contentType": "Interview",
@@ -527,54 +575,6 @@
       "date": "2022-03-01T16:00:00.000Z",
       "description": "Thomas Tuchel is only looking forwards after Sunday’s cruel Carabao Cup final defeat and believes the strong performance from his side will ensure the players don’t dwell on the disappointment for too long.",
       "matchId": 2277258
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220301important-info-for-fans-attendin",
-      "type": "NewsCard",
-      "timestamp": "2022-03-01T15:52:00.000Z",
-      "orderDate": "2022-03-01T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/01/important-info-for-fans-attending-lille-away-game",
-        "type": "NewsCard",
-        "title": "Important info for fans attending Lille away game",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/important-info-for-fans-attending-lille-away-game.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-01T15:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/01/important-info-for-fans-attending-lille-away-game",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2019/10/lille_stadium_view",
-          "gravity": "auto",
-          "aspectRatio": 1.502439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important info for fans attending Lille away game",
-      "publishDate": "2022-03-01T15:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/important-info-for-fans-attending-lille-away-game.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-01T15:52:00.000Z",
-      "description": "We have received a further update from Lille today (1 March) regarding the stadium entry protocols for our Champions League game later this month...",
-      "matchId": 2261865
     }
   ]
 }
