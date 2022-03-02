@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 591,
+    "totalItems": 592,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 60,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220302quiz--do-you-remember-our-previo",
+      "type": "NewsCard",
+      "timestamp": "2022-03-02T11:50:00.000Z",
+      "orderDate": "2022-03-02T11:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/02/quiz--do-you-remember-our-previous-fa-cup-fifth-round-ties-again",
+        "type": "NewsCard",
+        "title": "Quiz: Do you remember our previous FA Cup fifth-round ties against Championship clubs?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/quiz--do-you-remember-our-previous-fa-cup-fifth-round-ties-again.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-02T11:50:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/02/quiz--do-you-remember-our-previous-fa-cup-fifth-round-ties-again",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pulisic",
+          "id": "editorial/news/2022/02/28/Barnsley_FAC_GettyImages-1301643080",
+          "gravity": "south",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Do you remember our previous FA Cup fifth-round ties against Championship clubs?",
+      "publishDate": "2022-03-02T11:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/quiz--do-you-remember-our-previous-fa-cup-fifth-round-ties-again.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-02T11:50:00.000Z",
+      "description": "Chelsea are back in FA Cup action tonight when we travel to Championship side Luton Town in the fifth round, but how much do you know about our other recent matches against second-tier opponents at this stage of the competition?",
+      "matchId": 2277258
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220302pre-match-briefing--luton-vs-che",
@@ -39,7 +88,7 @@
       "content": "Pre-Match Briefing: Luton vs Chelsea",
       "publishDate": "2022-03-02T08:00:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/pre-match-briefing--luton-vs-chelsea.html",
-      "readTimeInMins": 25,
+      "readTimeInMins": 26,
       "tags": [
         {
           "title": "FA Cup",
@@ -516,64 +565,6 @@
       ],
       "date": "2022-03-01T15:54:00.000Z",
       "description": "Chelsea players returned to Cobham today for the first time since our narrow Carabao Cup final defeat ahead of FA Cup action tomorrow.",
-      "matchId": 2277258
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220301tuchel--lifting-the-team-s-spiri",
-      "type": "NewsCard",
-      "timestamp": "2022-03-01T16:00:00.000Z",
-      "orderDate": "2022-03-01T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/01/tuchel--lifting-the-team-s-spirits-won-t-be-hard-",
-        "type": "NewsCard",
-        "title": "Tuchel: Lifting the team’s spirits won't be hard ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/tuchel--lifting-the-team-s-spirits-won-t-be-hard-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-01T16:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/01/tuchel--lifting-the-team-s-spirits-won-t-be-hard-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Tuchel-Wembley-GettyImages-1373142119",
-          "gravity": "auto",
-          "aspectRatio": 1.5007504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Lifting the team’s spirits won't be hard ",
-      "publishDate": "2022-03-01T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/tuchel--lifting-the-team-s-spirits-won-t-be-hard-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Luton Town",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_luton-town"
-        },
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-01T16:00:00.000Z",
-      "description": "Thomas Tuchel is only looking forwards after Sunday’s cruel Carabao Cup final defeat and believes the strong performance from his side will ensure the players don’t dwell on the disappointment for too long.",
       "matchId": 2277258
     }
   ]
