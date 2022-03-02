@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 596,
+    "totalItems": 597,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 60,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220302match-report--luton-town-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2022-03-02T19:45:00.000Z",
+      "orderDate": "2022-03-02T19:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/02/match-report--luton-town-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Luton Town 2 Chelsea 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/match-report--luton-town-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-02T19:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/02/match-report--luton-town-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Lukaku",
+          "id": "editorial/match-reports/2021-22/luton-a-fa-cup/Lukaku_celeb_GettyImages-1376625746",
+          "gravity": "auto",
+          "aspectRatio": 1.5876418,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Luton Town 2 Chelsea 3",
+      "publishDate": "2022-03-02T19:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/match-report--luton-town-chelsea.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Luton Town",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_luton-town"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-02T19:45:00.000Z",
+      "description": "Chelsea twice had to come from behind in a classic FA Cup tie but booked our place in the quarter-finals with two goals in the space of 10 second-half minutes.",
+      "matchId": 2277258
+    },
     {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20220302statement-from-roman-abramovich",
@@ -503,54 +557,6 @@
       ],
       "date": "2022-03-02T09:31:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there is an interview with one of tonight's opponents, praise for one Chelsea defender and stats outline one forward's excellent performances..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220302can-you-outscore-kerry-dixon-at-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-02T11:13:00.000Z",
-      "orderDate": "2022-03-02T01:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/02/can-you-outscore-kerry-dixon-at-play-predictor-",
-        "type": "NewsCard",
-        "title": "Can you outscore Kerry Dixon at Play Predictor?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/can-you-outscore-kerry-dixon-at-play-predictor-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-02T11:13:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/02/can-you-outscore-kerry-dixon-at-play-predictor-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "theshed/shot-of-the-day/GettyImages-611544756",
-          "gravity": "auto",
-          "aspectRatio": 1.5479366,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Can you outscore Kerry Dixon at Play Predictor?",
-      "publishDate": "2022-03-02T11:13:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/can-you-outscore-kerry-dixon-at-play-predictor-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Kerry Dixon",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_kerry-dixon"
-        },
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2022-03-02T11:13:00.000Z",
-      "description": "It’s not often you get to challenge a true Chelsea legend, but you’ll have the chance to do exactly that ahead of tonight’s FA Cup clash with Luton.",
-      "matchId": 2277258
     }
   ]
 }
