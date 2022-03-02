@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 586,
+    "totalItems": 587,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 59,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220302blues-bulletin--luton-town-vs-ch",
+      "type": "NewsCard",
+      "timestamp": "2022-03-02T04:00:00.000Z",
+      "orderDate": "2022-03-02T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/02/blues-bulletin--luton-town-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Luton Town vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/blues-bulletin--luton-town-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-02T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/02/blues-bulletin--luton-town-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/news/2022/03/01/Werner_Luton_GettyImages-1298105292",
+          "gravity": "center",
+          "aspectRatio": 1.5148692,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Luton Town vs Chelsea",
+      "publishDate": "2022-03-02T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/blues-bulletin--luton-town-vs-chelsea.html",
+      "readTimeInMins": 33,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Luton Town",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_luton-town"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-02T04:00:00.000Z",
+      "description": "The knockout action keeps coming as we continue our FA Cup campaign by facing Championship side Luton Town in the competition for the second season in a row. We preview our first visit to Kenilworth Road in over 20 years with all the key stats and facts ahead of kick-off...",
+      "matchId": 2277258
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220301tuchel--trevoh-was-having-surger",
@@ -498,59 +552,6 @@
       "tags": [],
       "date": "2022-03-01T09:50:00.000Z",
       "description": "Chelsea FC Women will play Birmingham City at home in the quarter-finals of the 2021/22 Vitality Women's FA Cup."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220301media-watch--chelsea-still-negot",
-      "type": "NewsCard",
-      "timestamp": "2022-03-01T09:12:00.000Z",
-      "orderDate": "2022-03-01T01:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/01/media-watch--chelsea-still-negotiating-kound-deal--championship-",
-        "type": "NewsCard",
-        "title": "Media Watch: Trio of clubs interested in Kounde, Championship goalkeeper linked and Merson reveals pleasure at watching 'Rolls Royce' player",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/media-watch--chelsea-still-negotiating-kound-deal--championship-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-01T09:12:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/01/media-watch--chelsea-still-negotiating-kound-deal--championship-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/07/16/media_watch_Jules_Kounde",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Trio of clubs interested in Kounde, Championship goalkeeper linked and Merson reveals pleasure at watching 'Rolls Royce' player",
-      "publishDate": "2022-03-01T09:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/01/media-watch--chelsea-still-negotiating-kound-deal--championship-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "West Brom",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-brom"
-        }
-      ],
-      "date": "2022-03-01T09:12:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer links and one interview with a pundit..."
     }
   ]
 }
