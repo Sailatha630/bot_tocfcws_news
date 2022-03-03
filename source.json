@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 604,
+    "totalItems": 606,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 61,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220303the-debrief--patient-blues-march",
+      "type": "NewsCard",
+      "timestamp": "2022-03-03T12:17:00.000Z",
+      "orderDate": "2022-03-03T12:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/03/the-debrief--patient-blues-march-on-as-saul-and-werner-shine",
+        "type": "NewsCard",
+        "title": "The Debrief: Patient Blues march on as Saul and Werner shine",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/the-debrief--patient-blues-march-on-as-saul-and-werner-shine.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-03T12:17:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/03/the-debrief--patient-blues-march-on-as-saul-and-werner-shine",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Debrief-Luton-1600-chelsea-",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Patient Blues march on as Saul and Werner shine",
+      "publishDate": "2022-03-03T12:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/the-debrief--patient-blues-march-on-as-saul-and-werner-shine.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Ruben Loftus-Cheek",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ruben-loftus-cheek"
+        },
+        {
+          "title": "Saul Niguez",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_saul-niguez"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2022-03-03T12:17:00.000Z",
+      "description": "The Blues navigated our way through a tricky FA Cup tie at Luton on Wednesday evening and here we take a closer look at the match statistics and talking points…",
+      "matchId": 2277258
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220303loftus-cheek-on-a--tough--win-an",
@@ -231,6 +295,53 @@
       "description": "Chelsea advanced into the FA Cup quarter-finals for the sixth time in the last seven seasons after last night’s 3-2 victory over Championship side Luton Town."
     },
     {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20220303chelsea-foundation-host-world-bo",
+      "type": "NewsCard",
+      "timestamp": "2022-03-03T09:14:00.000Z",
+      "orderDate": "2022-03-03T00:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/03/chelsea-foundation-host-world-book-day-event-for-local-school-ch",
+        "type": "NewsCard",
+        "title": "Chelsea Foundation host World Book Day event for local school children with Little Box of Books",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/chelsea-foundation-host-world-book-day-event-for-local-school-ch.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-03T09:14:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/03/chelsea-foundation-host-world-book-day-event-for-local-school-ch",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/World_book_day",
+          "gravity": "auto",
+          "aspectRatio": 1.502394,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Foundation host World Book Day event for local school children with Little Box of Books",
+      "publishDate": "2022-03-03T09:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/chelsea-foundation-host-world-book-day-event-for-local-school-ch.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        },
+        {
+          "title": "Sam Kerr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_sam-kerr"
+        }
+      ],
+      "date": "2022-03-03T09:14:00.000Z",
+      "description": "One hundred and thirty local school children celebrated World Book Day by creating their own unique story characters and enjoyed an exciting tour of Stamford Bridge."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220303watch-the-highlights-of-chelsea-",
       "type": "NewsCard",
@@ -439,108 +550,6 @@
       "tags": [],
       "date": "2022-03-02T18:06:00.000Z",
       "description": "I would like to address the speculation in media over the past few days in relation to my ownership of Chelsea FC. As I have stated before, I have always taken decisions with the Club’s best interest at heart. In the current situation, I have therefore taken the decision to sell the Club, as I believe this is in the best interest of the Club, the fans, the employees, as well as the Club’s sponsors and partners."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220302chelsea-line-up-vs-luton-town",
-      "type": "NewsCard",
-      "timestamp": "2022-03-02T17:54:00.000Z",
-      "orderDate": "2022-03-02T17:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/02/chelsea-line-up-vs-luton-town",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Luton Town",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/chelsea-line-up-vs-luton-town.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-02T17:54:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/02/chelsea-line-up-vs-luton-town",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Changing room",
-          "id": "editorial/match-reports/2021-22/luton-a-fa-cup/Changing_room_DTW_2582",
-          "gravity": "auto",
-          "aspectRatio": 1.5798149,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Luton Town",
-      "publishDate": "2022-03-02T17:54:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/chelsea-line-up-vs-luton-town.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Luton Town",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_luton-town"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-02T17:54:00.000Z",
-      "description": "Thomas Tuchel has made nine changes to his Chelsea side for tonight’s FA Cup fifth-round tie away at Luton Town, with only two players who started Sunday's Carabao Cup final retaining their places.",
-      "matchId": 2277258
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220302norwich-away-ticket-update",
-      "type": "NewsCard",
-      "timestamp": "2022-03-02T22:21:00.000Z",
-      "orderDate": "2022-03-02T17:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/02/norwich-away-ticket-update",
-        "type": "NewsCard",
-        "title": "Norwich away ticket update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/norwich-away-ticket-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-02T22:21:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/02/norwich-away-ticket-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Carrow Road",
-          "id": "editorial/blogs-and-columns/2019/9/Carrow-Road-Aerial-GettyImages-656678150",
-          "gravity": "auto",
-          "aspectRatio": 1.5027683,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Norwich away ticket update",
-      "publishDate": "2022-03-02T22:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/norwich-away-ticket-update.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Norwich City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_norwich-city"
-        }
-      ],
-      "date": "2022-03-02T22:21:00.000Z",
-      "description": "With our Premier League match at Norwich City now confirmed as taking place on Thursday 10 March at 7.30pm, the ticket selling details are as follows..."
     }
   ]
 }
