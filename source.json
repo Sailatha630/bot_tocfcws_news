@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 608,
+    "totalItems": 609,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 61,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220303fa-cup-quarter-final-draw",
+      "type": "NewsCard",
+      "timestamp": "2022-03-03T19:30:00.000Z",
+      "orderDate": "2022-03-03T19:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/03/fa-cup-quarter-final-draw",
+        "type": "NewsCard",
+        "title": "Blues handed away tie in FA Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/fa-cup-quarter-final-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-03T19:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/03/fa-cup-quarter-final-draw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " FA Cup trophy",
+          "id": "editorial/news/2020/1/FA_Cup_trophy_stock",
+          "gravity": "auto",
+          "aspectRatio": 1.500149,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues handed away tie in FA Cup",
+      "publishDate": "2022-03-03T19:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/fa-cup-quarter-final-draw.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-03T19:30:00.000Z",
+      "description": "Chelsea have been drawn to play away against Middlesbrough in the quarter-finals of this season’s Emirates FA Cup."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220303werner-happy-to-help-the-team-pr",
@@ -506,60 +554,6 @@
       ],
       "date": "2022-03-03T12:04:00.000Z",
       "description": "The Blues came out on top in a five-goal game at Luton on Wednesday night and our strikes plus the other key action can be enjoyed above now.",
-      "matchId": 2277258
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220302tuchel-reflects-on-winning-deser",
-      "type": "NewsCard",
-      "timestamp": "2022-03-02T22:14:00.000Z",
-      "orderDate": "2022-03-02T22:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/02/tuchel-reflects-on-winning-deservedly--big-news-and-staying-focu",
-        "type": "NewsCard",
-        "title": "Tuchel reflects on winning deservedly, big news and staying focused  ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/tuchel-reflects-on-winning-deservedly--big-news-and-staying-focu.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-02T22:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/02/tuchel-reflects-on-winning-deservedly--big-news-and-staying-focu",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "chelsea-app/Tuchel-GettyImages-1376636563",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reflects on winning deservedly, big news and staying focused  ",
-      "publishDate": "2022-03-02T22:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/02/tuchel-reflects-on-winning-deservedly--big-news-and-staying-focu.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-02T22:14:00.000Z",
-      "description": "It was a difficult cup-tie played in difficult or potentially distracting circumstances, so the fact his team emerged 3-2 winners at Luton was plenty for Thomas Tuchel to be pleased about speaking after the game.",
       "matchId": 2277258
     }
   ]
