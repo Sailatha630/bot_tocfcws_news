@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 617,
+    "totalItems": 618,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 62,
@@ -107,6 +107,60 @@
       ],
       "date": "2022-03-04T12:40:00.000Z",
       "description": "Thomas Tuchel has stated he loves everything about working at Chelsea and hopes a potential change of ownership will not affect his future as head coach.",
+      "matchId": 2210542
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220304blues-bulletin--burnley-vs-chels",
+      "type": "NewsCard",
+      "timestamp": "2022-03-04T16:03:00.000Z",
+      "orderDate": "2022-03-04T11:54:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/04/blues-bulletin--burnley-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Burnley vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/blues-bulletin--burnley-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-04T16:03:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/04/blues-bulletin--burnley-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kante vs Burnley",
+          "id": "editorial/news/2022/03/04/Kante-vs-Burnley",
+          "gravity": "auto",
+          "aspectRatio": 1.5002141,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Burnley vs Chelsea",
+      "publishDate": "2022-03-04T16:03:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/blues-bulletin--burnley-vs-chelsea.html",
+      "readTimeInMins": 28,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2022-03-04T16:03:00.000Z",
+      "description": "Our first Premier League outing in four games sees the Blues head to Burnley for a rare Saturday afternoon kick-off, and here we continue the build-up with all the key stats and facts ahead of kick-off...",
       "matchId": 2210542
     },
     {
@@ -450,59 +504,6 @@
       ],
       "date": "2022-03-03T21:29:00.000Z",
       "description": "Edouard Mendy and Sam Kerr have both been revealed as winners at the London Football Awards 2022. There is also an honour for on-loan Conor Gallagher and an outstanding achievement award for Emma Hayes."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220303werner-happy-to-help-the-team-pr",
-      "type": "NewsCard",
-      "timestamp": "2022-03-03T15:02:00.000Z",
-      "orderDate": "2022-03-03T15:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/03/werner-happy-to-help-the-team-progress",
-        "type": "NewsCard",
-        "title": "Werner happy to help the team progress",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/werner-happy-to-help-the-team-progress.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-03T15:02:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/03/werner-happy-to-help-the-team-progress",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Werner-Luton-GettyImages-1376625655",
-          "gravity": "auto",
-          "aspectRatio": 1.5004497,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Werner happy to help the team progress",
-      "publishDate": "2022-03-03T15:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/werner-happy-to-help-the-team-progress.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        },
-        {
-          "title": "Saul Niguez",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_saul-niguez"
-        }
-      ],
-      "date": "2022-03-03T15:02:00.000Z",
-      "description": "After netting a goal between two assists for his team-mates, Timo Werner was a very happy man when reflecting post-match on our FA Cup win over Luton.",
-      "matchId": 2277258
     }
   ]
 }
