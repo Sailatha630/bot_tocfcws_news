@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 612,
+    "totalItems": 613,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 62,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220304tuchel--chelsea-the-perfect-fit-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-04T12:40:00.000Z",
+      "orderDate": "2022-03-04T12:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/04/tuchel--chelsea-the-perfect-fit-for-me--players-remain-focused-d",
+        "type": "NewsCard",
+        "title": "Tuchel: Chelsea the perfect fit for me; players remain focused despite noise",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/tuchel--chelsea-the-perfect-fit-for-me--players-remain-focused-d.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-04T12:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/04/tuchel--chelsea-the-perfect-fit-for-me--players-remain-focused-d",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Tuchel-GettyImages-1376636563",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Chelsea the perfect fit for me; players remain focused despite noise",
+      "publishDate": "2022-03-04T12:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/tuchel--chelsea-the-perfect-fit-for-me--players-remain-focused-d.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-04T12:40:00.000Z",
+      "description": "Thomas Tuchel has stated he loves everything about working at Chelsea and hopes a potential change of ownership will not affect his future as head coach.",
+      "matchId": 2210542
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220304tuchel-s-premier-league-press-co",
@@ -516,55 +564,6 @@
       ],
       "date": "2022-03-03T11:59:00.000Z",
       "description": "Chelsea FC Women take on Manchester City in the Continental Tyres League Cup final on Saturday and everything you need to know ahead of the mouth-watering clash can be found here…",
-      "matchId": 2276713
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220303road-to-the-2022-conti-cup-final",
-      "type": "NewsCard",
-      "timestamp": "2022-03-03T13:45:00.000Z",
-      "orderDate": "2022-03-03T01:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/03/road-to-the-2022-conti-cup-final",
-        "type": "NewsCard",
-        "title": "Road to the 2022 Conti Cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/road-to-the-2022-conti-cup-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-03T13:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/03/road-to-the-2022-conti-cup-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Harder_Reiten_celeebrate_Man_Utd",
-          "gravity": "auto",
-          "aspectRatio": 1.5021996,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Road to the 2022 Conti Cup final",
-      "publishDate": "2022-03-03T13:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/road-to-the-2022-conti-cup-final.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
-        }
-      ],
-      "date": "2022-03-03T13:45:00.000Z",
-      "description": "All eyes are on Wimbledon's Cherry Red Records Stadium this weekend when Chelsea FC Women will face Manchester City in a sold-out Continental Tyres League Cup final on Saturday afternoon.",
       "matchId": 2276713
     }
   ]
