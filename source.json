@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 611,
+    "totalItems": 612,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 62,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220304tuchel-s-premier-league-press-co",
+      "type": "NewsCard",
+      "timestamp": "2022-03-04T11:33:00.000Z",
+      "orderDate": "2022-03-04T11:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/04/tuchel-s-premier-league-press-conference-ahead-of-burnley",
+        "type": "NewsCard",
+        "title": "Tuchel reports ‘no fresh injuries’ but admits defender is a doubt for Burnley",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/tuchel-s-premier-league-press-conference-ahead-of-burnley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-04T11:33:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/04/tuchel-s-premier-league-press-conference-ahead-of-burnley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Tuchel-DTW_1258",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reports ‘no fresh injuries’ but admits defender is a doubt for Burnley",
+      "publishDate": "2022-03-04T11:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/tuchel-s-premier-league-press-conference-ahead-of-burnley.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2022-03-04T11:33:00.000Z",
+      "description": "Cesar Azpilicueta remains a doubt for our Premier League trip to Burnley this weekend, although Thomas Tuchel has reported no fresh injury concerns following the midweek FA Cup win at Luton Town.",
+      "matchId": 2210542
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220304pre-match-briefing--burnley-vs-c",
@@ -507,54 +566,6 @@
       "date": "2022-03-03T13:45:00.000Z",
       "description": "All eyes are on Wimbledon's Cherry Red Records Stadium this weekend when Chelsea FC Women will face Manchester City in a sold-out Continental Tyres League Cup final on Saturday afternoon.",
       "matchId": 2276713
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220303all-you-need-to-know-ahead-of-th",
-      "type": "NewsCard",
-      "timestamp": "2022-03-03T07:00:00.000Z",
-      "orderDate": "2022-03-03T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/03/all-you-need-to-know-ahead-of-the-fa-cup-quarter-final-draw",
-        "type": "NewsCard",
-        "title": "All you need to know ahead of the FA Cup quarter-final draw",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/all-you-need-to-know-ahead-of-the-fa-cup-quarter-final-draw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-03T07:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/03/all-you-need-to-know-ahead-of-the-fa-cup-quarter-final-draw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/04/28/FA_CUP_trophy_stock_outside_wembley",
-          "gravity": "auto",
-          "aspectRatio": 1.502439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "All you need to know ahead of the FA Cup quarter-final draw",
-      "publishDate": "2022-03-03T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/03/all-you-need-to-know-ahead-of-the-fa-cup-quarter-final-draw.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-03T07:00:00.000Z",
-      "description": "Chelsea advanced into the FA Cup quarter-finals for the sixth time in the last seven seasons after last night’s 3-2 victory over Championship side Luton Town."
     }
   ]
 }
