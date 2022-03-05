@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 623,
+    "totalItems": 624,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220305thomas-tuchel-on-roman-abramovic",
+      "type": "NewsCard",
+      "timestamp": "2022-03-05T11:13:00.000Z",
+      "orderDate": "2022-03-05T11:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/05/thomas-tuchel-on-roman-abramovich-decision---i-could-feel-it-com",
+        "type": "NewsCard",
+        "title": "Thomas Tuchel on Roman Abramovich decision: ‘I could feel it coming’",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/thomas-tuchel-on-roman-abramovich-decision---i-could-feel-it-com.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-05T11:13:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/05/thomas-tuchel-on-roman-abramovich-decision---i-could-feel-it-com",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2022/03/01/Tuchel_GettyImages-1238852354",
+          "gravity": "auto",
+          "aspectRatio": 1.778098,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thomas Tuchel on Roman Abramovich decision: ‘I could feel it coming’",
+      "publishDate": "2022-03-05T11:13:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/thomas-tuchel-on-roman-abramovich-decision---i-could-feel-it-com.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2022-03-05T11:13:00.000Z",
+      "description": "Thomas Tuchel has revealed he had enough warning to prepare himself for the fact Roman Abramovich would take the decision to sell Chelsea, as well as explaining how the important preparations for our match against Burnley have helped him and his squad keep their minds on the football.",
+      "matchId": 2210542
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220305kante-on-controlling-the-things-",
@@ -489,60 +548,6 @@
       ],
       "date": "2022-03-04T18:30:00.000Z",
       "description": "To mark World Book Day, which took place earlier this week, Chelsea Academy youngster Tudor Mendel-Idowu shared some insight into his experiences of being an up-and-coming footballer as well as a King's Scholar at Eton College."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220304pre-match-briefing--burnley-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2022-03-04T04:00:00.000Z",
-      "orderDate": "2022-03-04T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/04/pre-match-briefing--burnley-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Burnley vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/pre-match-briefing--burnley-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-04T04:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/03/04/pre-match-briefing--burnley-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Burnley view",
-          "id": "editorial/news/2022/03/03/burnley_aerial_view",
-          "gravity": "auto",
-          "aspectRatio": 1.6733068,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Burnley vs Chelsea",
-      "publishDate": "2022-03-04T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/pre-match-briefing--burnley-vs-chelsea.html",
-      "readTimeInMins": 73,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2022-03-04T04:00:00.000Z",
-      "description": "After three cup competitions in a row, it is back to our domestic league campaign this weekend. Club historian Rick Glanvill and club statistician Paul Dutton helps us to look north…",
-      "matchId": 2210542
     }
   ]
 }
