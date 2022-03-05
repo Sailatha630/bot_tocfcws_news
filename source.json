@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 624,
+    "totalItems": 625,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220305chelsea-line-up-vs-burnley",
+      "type": "NewsCard",
+      "timestamp": "2022-03-05T14:00:00.000Z",
+      "orderDate": "2022-03-05T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/05/chelsea-line-up-vs-burnley",
+        "type": "NewsCard",
+        "title": "Chelsea line-up vs Burnley",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/chelsea-line-up-vs-burnley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-05T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/05/chelsea-line-up-vs-burnley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Turf Moor",
+          "id": "editorial/match-reports/2021-22/burnley-away/Burnley-away-dressing-room",
+          "gravity": "south",
+          "aspectRatio": 1.3106796,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line-up vs Burnley",
+      "publishDate": "2022-03-05T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/chelsea-line-up-vs-burnley.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2022-03-05T14:00:00.000Z",
+      "description": "There are seven changes for Chelsea from our midweek FA Cup win at Luton…",
+      "matchId": 2210542
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220305thomas-tuchel-on-roman-abramovic",
@@ -500,54 +559,6 @@
       "date": "2022-03-04T17:30:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes spoke to the media ahead of tomorrow’s Continental Tyres League Cup final against Manchester City tomorrow, reporting on how her players have been in training and giving the latest injury news...",
       "matchId": 2276713
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220304tudor-mendel-idowu--world-book-d",
-      "type": "NewsCard",
-      "timestamp": "2022-03-04T18:30:00.000Z",
-      "orderDate": "2022-03-04T10:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/04/tudor-mendel-idowu--world-book-day-and-how-he-balances-football-",
-        "type": "NewsCard",
-        "title": "Youngster Mendel-Idowu on how he balances football with studying at Eton College",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/tudor-mendel-idowu--world-book-day-and-how-he-balances-football-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-04T18:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/04/tudor-mendel-idowu--world-book-day-and-how-he-balances-football-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tudor Mendel-Idowu",
-          "id": "editorial/news/2022/03/04/tudor-mendel-idowu-stock",
-          "gravity": "north",
-          "aspectRatio": 1.2270495,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Youngster Mendel-Idowu on how he balances football with studying at Eton College",
-      "publishDate": "2022-03-04T18:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/tudor-mendel-idowu--world-book-day-and-how-he-balances-football-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2022-03-04T18:30:00.000Z",
-      "description": "To mark World Book Day, which took place earlier this week, Chelsea Academy youngster Tudor Mendel-Idowu shared some insight into his experiences of being an up-and-coming footballer as well as a King's Scholar at Eton College."
     }
   ]
 }
