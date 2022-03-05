@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 629,
+    "totalItems": 630,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220305continental-league-cup-final-rep",
+      "type": "NewsCard",
+      "timestamp": "2022-03-05T19:21:00.000Z",
+      "orderDate": "2022-03-05T19:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/05/continental-league-cup-final-report--chelsea-1-man-city-3",
+        "type": "NewsCard",
+        "title": "Continental League Cup final report: Chelsea 1 Man City 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/continental-league-cup-final-report--chelsea-1-man-city-3.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-05T19:21:00.000Z"
+      },
+      "template": "match-report",
+      "path": "/content/chelseafc/en/news/2022/03/05/continental-league-cup-final-report--chelsea-1-man-city-3",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Chelsea clear our lines",
+          "id": "editorial/match-reports/2021-22/continental-league-cup-final/Nouwen-GettyImages-1238954584",
+          "gravity": "auto",
+          "aspectRatio": 1.500528,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Continental League Cup final report: Chelsea 1 Man City 3",
+      "publishDate": "2022-03-05T19:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/continental-league-cup-final-report--chelsea-1-man-city-3.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2022-03-05T19:21:00.000Z",
+      "description": "The Blues were unable to complete a hat-trick of Continental League Cup wins, as a second-half fightback from Manchester City condemned us to defeat in the pouring rain at Plough Lane.",
+      "matchId": 2276713
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220305tuchel-reaction-to-beating-burnl",
@@ -39,7 +88,7 @@
       "content": "Tuchel reveals what was said at half-time, assesses performance of ‘decisive’ James and Thiago Silva’s touch of class",
       "publishDate": "2022-03-05T17:40:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/tuchel-reaction-to-beating-burnley.html",
-      "readTimeInMins": 7,
+      "readTimeInMins": 8,
       "tags": [
         {
           "title": "Premier League",
@@ -522,60 +571,6 @@
       "date": "2022-03-05T08:00:00.000Z",
       "description": "Millie Bright says the Blues are ready and raring to go ahead of facing Manchester City in the Continental Tyres League Cup final this evening.",
       "matchId": 2276713
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220304gallery--final-session-before-bu",
-      "type": "NewsCard",
-      "timestamp": "2022-03-04T15:00:00.000Z",
-      "orderDate": "2022-03-04T15:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/04/gallery--final-session-before-burnley-",
-        "type": "NewsCard",
-        "title": "Gallery: Final session before Burnley ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/gallery--final-session-before-burnley-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-04T15:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/04/gallery--final-session-before-burnley-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/James-DTW_3669",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Final session before Burnley ",
-      "publishDate": "2022-03-04T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/gallery--final-session-before-burnley-.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2022-03-04T15:00:00.000Z",
-      "description": "Chelsea players were on the training field this afternoon for the final time before they head to Lancashire to take on Burnley.",
-      "matchId": 2210542
     }
   ]
 }
