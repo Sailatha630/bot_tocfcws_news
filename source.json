@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 622,
+    "totalItems": 623,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220305kante-on-controlling-the-things-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-05T09:36:00.000Z",
+      "orderDate": "2022-03-05T09:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/05/kante-on-controlling-the-things-he-can-and-his-future",
+        "type": "NewsCard",
+        "title": "Kante on controlling the things he can and his future",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/kante-on-controlling-the-things-he-can-and-his-future.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-05T09:36:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/05/kante-on-controlling-the-things-he-can-and-his-future",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "N'Golo Kante",
+          "id": "editorial/news/2022/04/kante_january_2022",
+          "gravity": "north",
+          "aspectRatio": 1.4365768,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kante on controlling the things he can and his future",
+      "publishDate": "2022-03-05T09:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/kante-on-controlling-the-things-he-can-and-his-future.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2022-03-05T09:36:00.000Z",
+      "description": "As a natural introvert who manages to run out in front of ten of thousands of fans, plus millions watching on screen, and perform at a world-class level, N’Golo Kante is clearly well versed in blocking out distractions and concentrating on his football.",
+      "matchId": 2210542
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220305tuchel-on-loftus-cheek-s-best-po",
@@ -484,49 +543,6 @@
       "date": "2022-03-04T04:00:00.000Z",
       "description": "After three cup competitions in a row, it is back to our domestic league campaign this weekend. Club historian Rick Glanvill and club statistician Paul Dutton helps us to look north…",
       "matchId": 2210542
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220304paulo-ferreira-departs-coaching-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-04T13:18:00.000Z",
-      "orderDate": "2022-03-04T00:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/04/paulo-ferreira-departs-coaching-role",
-        "type": "NewsCard",
-        "title": "Paulo Ferreira departs coaching role",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/paulo-ferreira-departs-coaching-role.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-04T13:18:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/04/paulo-ferreira-departs-coaching-role",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Paulo Ferreira",
-          "id": "editorial/news/2022/04/paulo_ferreira",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Paulo Ferreira departs coaching role",
-      "publishDate": "2022-03-04T13:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/paulo-ferreira-departs-coaching-role.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Paulo Ferreira",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_paulo-ferreira"
-        }
-      ],
-      "date": "2022-03-04T13:18:00.000Z",
-      "description": "Paulo Ferreira’s 18-year association with Chelsea Football Club has come to an end as he leaves his role of loan player technical coach."
     }
   ]
 }
