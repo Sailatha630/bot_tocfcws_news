@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 620,
+    "totalItems": 621,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 62,
+    "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220305tuchel-on-loftus-cheek-s-best-po",
+      "type": "NewsCard",
+      "timestamp": "2022-03-05T01:27:00.000Z",
+      "orderDate": "2022-03-05T01:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/05/tuchel-on-loftus-cheek-s-best-position-and-why-he-remains-a-defe",
+        "type": "NewsCard",
+        "title": "Tuchel on Loftus-Cheek’s best position and why he remains a defensive option",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/tuchel-on-loftus-cheek-s-best-position-and-why-he-remains-a-defe.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-05T01:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/05/tuchel-on-loftus-cheek-s-best-position-and-why-he-remains-a-defe",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/03/04/Tuchel-Loftus-Cheek",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on Loftus-Cheek’s best position and why he remains a defensive option",
+      "publishDate": "2022-03-05T01:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/tuchel-on-loftus-cheek-s-best-position-and-why-he-remains-a-defe.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Ruben Loftus-Cheek",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ruben-loftus-cheek"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-05T01:27:00.000Z",
+      "description": "After utilising him in an unfamiliar defensive role in our last outing at Luton Town, Thomas Tuchel has been discussing Ruben Loftus-Cheek’s best position and how his impressive adaptability can be a valuable asset for the team.",
+      "matchId": 2210542
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220304gallery--final-session-before-bu",
@@ -457,49 +515,6 @@
       "tags": [],
       "date": "2022-03-04T14:54:00.000Z",
       "description": "Following the news that cricket legend and Chelsea fan Shane Warne has passed away at the age of just 52, as a tribute we recall the time he spoke to us about his love for the Blues."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220304lille-away-covid-pass-update",
-      "type": "NewsCard",
-      "timestamp": "2022-03-04T11:58:00.000Z",
-      "orderDate": "2022-03-04T00:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/04/lille-away-covid-pass-update",
-        "type": "NewsCard",
-        "title": "Lille away Covid pass update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/lille-away-covid-pass-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-04T11:58:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/04/lille-away-covid-pass-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Lille Stadium",
-          "id": "chelsea-app/Lille-stadium-GettyImages-1178593276",
-          "gravity": "auto",
-          "aspectRatio": 1.4997045,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lille away Covid pass update",
-      "publishDate": "2022-03-04T11:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/lille-away-covid-pass-update.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-04T11:58:00.000Z",
-      "description": "We have received a further update from Lille today (4 March) regarding the stadium entry protocols for our Champions League away game in France on 16 March."
     }
   ]
 }
