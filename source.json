@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 626,
+    "totalItems": 627,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220305match-report--burnley-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2022-03-05T17:00:00.000Z",
+      "orderDate": "2022-03-05T17:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/05/match-report--burnley-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Burnley 0 Chelsea 4",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/match-report--burnley-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-05T17:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/05/match-report--burnley-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/havertz-goal-GettyImages-1380475540",
+          "gravity": "auto",
+          "aspectRatio": 1.6398747,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Burnley 0 Chelsea 4",
+      "publishDate": "2022-03-05T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/match-report--burnley-vs-chelsea.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2022-03-05T17:00:00.000Z",
+      "description": "Chelsea made it three successive league wins for the first time since October, with a flurry of goals at the start of the second half making the difference against a Burnley side frustratingly stubborn up to that point.",
+      "matchId": 2210542
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220305chelsea-line-up-vs-burnley",
@@ -499,65 +553,6 @@
       ],
       "date": "2022-03-04T16:03:00.000Z",
       "description": "Our first Premier League outing in four games sees the Blues head to Burnley for a rare Saturday afternoon kick-off, and here we continue the build-up with all the key stats and facts ahead of kick-off...",
-      "matchId": 2210542
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220304tuchel-s-premier-league-press-co",
-      "type": "NewsCard",
-      "timestamp": "2022-03-04T11:33:00.000Z",
-      "orderDate": "2022-03-04T11:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/04/tuchel-s-premier-league-press-conference-ahead-of-burnley",
-        "type": "NewsCard",
-        "title": "Tuchel reports ‘no fresh injuries’ but admits defender is a doubt for Burnley",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/tuchel-s-premier-league-press-conference-ahead-of-burnley.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-04T11:33:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/04/tuchel-s-premier-league-press-conference-ahead-of-burnley",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Tuchel-DTW_1258",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reports ‘no fresh injuries’ but admits defender is a doubt for Burnley",
-      "publishDate": "2022-03-04T11:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/tuchel-s-premier-league-press-conference-ahead-of-burnley.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2022-03-04T11:33:00.000Z",
-      "description": "Cesar Azpilicueta remains a doubt for our Premier League trip to Burnley this weekend, although Thomas Tuchel has reported no fresh injury concerns following the midweek FA Cup win at Luton Town.",
       "matchId": 2210542
     }
   ]
