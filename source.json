@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 627,
+    "totalItems": 628,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 63,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220305tuchel-reaction-to-beating-burnl",
+      "type": "NewsCard",
+      "timestamp": "2022-03-05T17:40:00.000Z",
+      "orderDate": "2022-03-05T17:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/05/tuchel-reaction-to-beating-burnley",
+        "type": "NewsCard",
+        "title": "Tuchel reveals what was said at half-time, assesses performance of ‘decisive’ James and Thiago Silva’s touch of class",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/tuchel-reaction-to-beating-burnley.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-05T17:40:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/05/tuchel-reaction-to-beating-burnley",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Thomas Tuchel celebrating",
+          "id": "editorial/news/2022/05/burnley_away_tuchel",
+          "gravity": "auto",
+          "aspectRatio": 1.5874603,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reveals what was said at half-time, assesses performance of ‘decisive’ James and Thiago Silva’s touch of class",
+      "publishDate": "2022-03-05T17:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/tuchel-reaction-to-beating-burnley.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2022-03-05T17:40:00.000Z",
+      "description": "Thomas Tuchel insisted the half-time message at Turf Moor was to maintain calm and build confidence as we followed a deadlocked first half with four second-half goals to secure victory away at Burnley.",
+      "matchId": 2210542
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220305match-report--burnley-vs-chelsea",
@@ -499,60 +553,6 @@
       ],
       "date": "2022-03-04T12:40:00.000Z",
       "description": "Thomas Tuchel has stated he loves everything about working at Chelsea and hopes a potential change of ownership will not affect his future as head coach.",
-      "matchId": 2210542
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220304blues-bulletin--burnley-vs-chels",
-      "type": "NewsCard",
-      "timestamp": "2022-03-04T16:03:00.000Z",
-      "orderDate": "2022-03-04T11:54:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/04/blues-bulletin--burnley-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Burnley vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/blues-bulletin--burnley-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-04T16:03:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/04/blues-bulletin--burnley-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Kante vs Burnley",
-          "id": "editorial/news/2022/03/04/Kante-vs-Burnley",
-          "gravity": "auto",
-          "aspectRatio": 1.5002141,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Burnley vs Chelsea",
-      "publishDate": "2022-03-04T16:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/04/blues-bulletin--burnley-vs-chelsea.html",
-      "readTimeInMins": 28,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2022-03-04T16:03:00.000Z",
-      "description": "Our first Premier League outing in four games sees the Blues head to Burnley for a rare Saturday afternoon kick-off, and here we continue the build-up with all the key stats and facts ahead of kick-off...",
       "matchId": 2210542
     }
   ]
