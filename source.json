@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 630,
+    "totalItems": 631,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 63,
+    "pageCount": 64,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220306james-reports-on-fitness-and-whe",
+      "type": "NewsCard",
+      "timestamp": "2022-03-06T04:30:00.000Z",
+      "orderDate": "2022-03-06T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/06/james-reports-on-fitness-and-whether-chelsea-deserved-4-0",
+        "type": "NewsCard",
+        "title": "James reports on fitness and whether Chelsea deserved 4-0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/06/james-reports-on-fitness-and-whether-chelsea-deserved-4-0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-06T04:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/06/james-reports-on-fitness-and-whether-chelsea-deserved-4-0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Reece James",
+          "id": "editorial/news/2022/03/05/Reece-James-Burnley-away",
+          "gravity": "auto",
+          "aspectRatio": 1.5225357,
+          "cropMode": "fill"
+        }
+      },
+      "content": "James reports on fitness and whether Chelsea deserved 4-0",
+      "publishDate": "2022-03-06T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/06/james-reports-on-fitness-and-whether-chelsea-deserved-4-0.html",
+      "readTimeInMins": 49,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Burnley",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_burnley"
+        }
+      ],
+      "date": "2022-03-06T04:30:00.000Z",
+      "description": "Reece James made up for lost time by scoring on his first start in nearly 10 weeks yesterday, and it was a vital goal too as it came after a half when Burnley had proven to be testing opponents. However once the 22-year-old had found the net, the floodgates opened and we ran out 4-0 winners.",
+      "matchId": 2210542
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220305tuchel-reaction-to-beating-burnl",
@@ -527,55 +586,6 @@
       "date": "2022-03-05T01:27:00.000Z",
       "description": "After utilising him in an unfamiliar defensive role in our last outing at Luton Town, Thomas Tuchel has been discussing Ruben Loftus-Cheek’s best position and how his impressive adaptability can be a valuable asset for the team.",
       "matchId": 2210542
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220305bright-relishing-conti-cup-final",
-      "type": "NewsCard",
-      "timestamp": "2022-03-05T08:00:00.000Z",
-      "orderDate": "2022-03-05T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/05/bright-relishing-conti-cup-final-clash-against-manchester-city",
-        "type": "NewsCard",
-        "title": "Bright relishing Conti Cup final clash against Manchester City",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/bright-relishing-conti-cup-final-clash-against-manchester-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-05T08:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/05/bright-relishing-conti-cup-final-clash-against-manchester-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Bright-walk-out",
-          "gravity": "auto",
-          "aspectRatio": 1.50288,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Bright relishing Conti Cup final clash against Manchester City",
-      "publishDate": "2022-03-05T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/bright-relishing-conti-cup-final-clash-against-manchester-city.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
-        }
-      ],
-      "date": "2022-03-05T08:00:00.000Z",
-      "description": "Millie Bright says the Blues are ready and raring to go ahead of facing Manchester City in the Continental Tyres League Cup final this evening.",
-      "matchId": 2276713
     }
   ]
 }
