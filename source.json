@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 641,
+    "totalItems": 642,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 65,
@@ -332,6 +332,64 @@
       "matchId": 2276713
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220307travel-to-chelsea-women-away-gam",
+      "type": "NewsCard",
+      "timestamp": "2022-03-07T16:23:00.000Z",
+      "orderDate": "2022-03-07T00:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/07/travel-to-chelsea-women-away-games-for-just-p10",
+        "type": "NewsCard",
+        "title": "Travel to Chelsea Women away games for just £10",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/travel-to-chelsea-women-away-games-for-just-p10.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-07T16:23:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/07/travel-to-chelsea-women-away-games-for-just-p10",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/03/07/women_away_bethany_england",
+          "gravity": "auto",
+          "aspectRatio": 1.4108092,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Travel to Chelsea Women away games for just £10",
+      "publishDate": "2022-03-07T16:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/travel-to-chelsea-women-away-games-for-just-p10.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2022-03-07T16:23:00.000Z",
+      "description": "We are offering subsidised travel for supporters wishing to attend Chelsea Women’s next two away fixtures."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220306the-debrief--key-contest-on-the-",
       "type": "NewsCard",
@@ -505,65 +563,6 @@
       ],
       "date": "2022-03-06T18:18:00.000Z",
       "description": "You can't afford to miss this! We are sitting down with our very own American star, Christian Pulisic for the latest AMA on The 5th Stand app later this week."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220306james-reports-on-fitness-and-whe",
-      "type": "NewsCard",
-      "timestamp": "2022-03-06T04:30:00.000Z",
-      "orderDate": "2022-03-06T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/06/james-reports-on-fitness-and-whether-chelsea-deserved-4-0",
-        "type": "NewsCard",
-        "title": "James reports on fitness and whether Chelsea deserved 4-0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/06/james-reports-on-fitness-and-whether-chelsea-deserved-4-0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-06T04:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/06/james-reports-on-fitness-and-whether-chelsea-deserved-4-0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Reece James",
-          "id": "editorial/news/2022/03/05/Reece-James-Burnley-away",
-          "gravity": "auto",
-          "aspectRatio": 1.5225357,
-          "cropMode": "fill"
-        }
-      },
-      "content": "James reports on fitness and whether Chelsea deserved 4-0",
-      "publishDate": "2022-03-06T04:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/06/james-reports-on-fitness-and-whether-chelsea-deserved-4-0.html",
-      "readTimeInMins": 49,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2022-03-06T04:30:00.000Z",
-      "description": "Reece James made up for lost time by scoring on his first start in nearly 10 weeks yesterday, and it was a vital goal too as it came after a half when Burnley had proven to be testing opponents. However once the 22-year-old had found the net, the floodgates opened and we ran out 4-0 winners.",
-      "matchId": 2210542
     }
   ]
 }
