@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 636,
+    "totalItems": 637,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 64,
@@ -80,6 +80,55 @@
       "date": "2022-03-07T01:55:00.000Z",
       "description": "Thomas Tuchel has been discussing what Kai Havertz brings to the team as his excellent form continues, as well as explaining how he is continuing to show caution with Reece James’ return to action after two months out injured.",
       "matchId": 2210542
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220307bright-urges-blues-to-bounce-bac",
+      "type": "NewsCard",
+      "timestamp": "2022-03-07T09:30:00.000Z",
+      "orderDate": "2022-03-07T00:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/07/bright-urges-blues-to-bounce-back-from-conti-cup-defeat",
+        "type": "NewsCard",
+        "title": "Bright urges Blues to bounce back from Conti Cup defeat",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/bright-urges-blues-to-bounce-back-from-conti-cup-defeat.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-07T09:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/07/bright-urges-blues-to-bounce-back-from-conti-cup-defeat",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Bright-walkout-2022",
+          "gravity": "auto",
+          "aspectRatio": 1.5022279,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Bright urges Blues to bounce back from Conti Cup defeat",
+      "publishDate": "2022-03-07T09:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/bright-urges-blues-to-bounce-back-from-conti-cup-defeat.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's League Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
+        }
+      ],
+      "date": "2022-03-07T09:30:00.000Z",
+      "description": "Defender Millie Bright says Chelsea FC Women have no time to dwell following Saturday’s Continental Tyres League Cup defeat to Manchester City.",
+      "matchId": 2276713
     },
     {
       "contentType": "Analysis",
@@ -530,76 +579,6 @@
       "date": "2022-03-05T19:21:00.000Z",
       "description": "The Blues were unable to complete a hat-trick of Continental League Cup wins, as a second-half fightback from Manchester City condemned us to defeat in the pouring rain at Plough Lane.",
       "matchId": 2276713
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220305watch-highlights-of-chelsea-beat",
-      "type": "NewsCard",
-      "timestamp": "2022-03-05T17:57:00.000Z",
-      "orderDate": "2022-03-05T15:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/05/watch-highlights-of-chelsea-beating-burnley",
-        "type": "NewsCard",
-        "title": "Watch highlights of Chelsea beating Burnley",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/watch-highlights-of-chelsea-beating-burnley.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-05T17:57:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/05/watch-highlights-of-chelsea-beating-burnley",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Burnley 0-4 Chelsea (A) | Premier League Highlights",
-          "videoId": "kGwFkCwj",
-          "bucket": "prod-cfc",
-          "description": "Highlights from Chelsea's 4-0 away win against Burnley at Turf Moor in the Premier League.",
-          "duration": 112000,
-          "date": "2022-03-05T18:44:05.055Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/kGwFkCwj/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/watch-highlights-of-chelsea-beating-burnley.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/03/05/watch-highlights-of-chelsea-beating-burnley?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2022/03/05/watch-highlights-of-chelsea-beating-burnley",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Highlights from Chelsea's 4-0 away win against Burnley at Turf Moor in the Premier League."
-      },
-      "content": "Watch highlights of Chelsea beating Burnley",
-      "publishDate": "2022-03-05T17:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/watch-highlights-of-chelsea-beating-burnley.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2022-03-05T17:57:00.000Z",
-      "description": "The Blues won well on Saturday afternoon in Lancashire, recording our biggest away win of the season, and you can enjoy all four goals in the highlights above.",
-      "matchId": 2210542
     }
   ]
 }
