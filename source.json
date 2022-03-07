@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 637,
+    "totalItems": 638,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 64,
@@ -80,6 +80,59 @@
       "date": "2022-03-07T01:55:00.000Z",
       "description": "Thomas Tuchel has been discussing what Kai Havertz brings to the team as his excellent form continues, as well as explaining how he is continuing to show caution with Reece James’ return to action after two months out injured.",
       "matchId": 2210542
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220307media-watch--messi-could-have-si",
+      "type": "NewsCard",
+      "timestamp": "2022-03-07T10:14:00.000Z",
+      "orderDate": "2022-03-07T01:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/07/media-watch--messi-could-have-signed-for-chelsea--thiago-silva-s",
+        "type": "NewsCard",
+        "title": "Media Watch: Messi could have signed for Chelsea, Thiago Silva signing labelled 'genius' and Joe Cole offers verdict on Burnley win",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/media-watch--messi-could-have-signed-for-chelsea--thiago-silva-s.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-07T10:14:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/07/media-watch--messi-could-have-signed-for-chelsea--thiago-silva-s",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/messi-media-watch",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Messi could have signed for Chelsea, Thiago Silva signing labelled 'genius' and Joe Cole offers verdict on Burnley win",
+      "publishDate": "2022-03-07T10:14:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/media-watch--messi-could-have-signed-for-chelsea--thiago-silva-s.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Barcelona",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_barcelona"
+        },
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Joe Cole",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_joe-cole"
+        }
+      ],
+      "date": "2022-03-07T10:14:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, there is transfer news, huge praise for one Chelsea defender and a review of Chelsea's recent win at Turf Moor..."
     },
     {
       "contentType": "News",
@@ -525,60 +578,6 @@
       "date": "2022-03-05T17:00:00.000Z",
       "description": "Chelsea made it three successive league wins for the first time since October, with a flurry of goals at the start of the second half making the difference against a Burnley side frustratingly stubborn up to that point.",
       "matchId": 2210542
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220305continental-league-cup-final-rep",
-      "type": "NewsCard",
-      "timestamp": "2022-03-05T19:21:00.000Z",
-      "orderDate": "2022-03-05T16:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/05/continental-league-cup-final-report--chelsea-1-man-city-3",
-        "type": "NewsCard",
-        "title": "Continental League Cup final report: Chelsea 1 Man City 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/continental-league-cup-final-report--chelsea-1-man-city-3.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-05T19:21:00.000Z"
-      },
-      "template": "match-report",
-      "path": "/content/chelseafc/en/news/2022/03/05/continental-league-cup-final-report--chelsea-1-man-city-3",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea clear our lines",
-          "id": "editorial/match-reports/2021-22/continental-league-cup-final/Nouwen-GettyImages-1238954584",
-          "gravity": "auto",
-          "aspectRatio": 1.500528,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Continental League Cup final report: Chelsea 1 Man City 3",
-      "publishDate": "2022-03-05T19:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/continental-league-cup-final-report--chelsea-1-man-city-3.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Women's League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_womens-league-cup"
-        }
-      ],
-      "date": "2022-03-05T19:21:00.000Z",
-      "description": "The Blues were unable to complete a hat-trick of Continental League Cup wins, as a second-half fightback from Manchester City condemned us to defeat in the pouring rain at Plough Lane.",
-      "matchId": 2276713
     }
   ]
 }
