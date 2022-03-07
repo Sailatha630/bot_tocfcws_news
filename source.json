@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 638,
+    "totalItems": 639,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 64,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220307ziyech-wins-chelsea-goal-of-the-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-07T11:59:00.000Z",
+      "orderDate": "2022-03-07T11:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/07/ziyech-wins-chelsea-goal-of-the-month-again",
+        "type": "NewsCard",
+        "title": "Ziyech wins Chelsea Goal of the Month again",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/ziyech-wins-chelsea-goal-of-the-month-again.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-07T11:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/07/ziyech-wins-chelsea-goal-of-the-month-again",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ziyech",
+          "id": "video/2022/02/19/GettyImages-1238621042",
+          "gravity": "center",
+          "aspectRatio": 1.5005382,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech wins Chelsea Goal of the Month again",
+      "publishDate": "2022-03-07T11:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/ziyech-wins-chelsea-goal-of-the-month-again.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Goal of the Month",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-month"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2022-03-07T11:59:00.000Z",
+      "description": "Blues supporters have voted Hakim Ziyech's strike against Crystal Palace as the club’s best in February, meaning the winger receives a second consecutive Chelsea Goal of the Month award."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220307tuchel-on-havertz-hitting-form-a",
@@ -523,60 +576,6 @@
       ],
       "date": "2022-03-05T17:40:00.000Z",
       "description": "Thomas Tuchel insisted the half-time message at Turf Moor was to maintain calm and build confidence as we followed a deadlocked first half with four second-half goals to secure victory away at Burnley.",
-      "matchId": 2210542
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220305match-report--burnley-vs-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2022-03-05T17:00:00.000Z",
-      "orderDate": "2022-03-05T17:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/05/match-report--burnley-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match report: Burnley 0 Chelsea 4",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/match-report--burnley-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-05T17:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/05/match-report--burnley-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/havertz-goal-GettyImages-1380475540",
-          "gravity": "auto",
-          "aspectRatio": 1.6398747,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Burnley 0 Chelsea 4",
-      "publishDate": "2022-03-05T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/05/match-report--burnley-vs-chelsea.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Burnley",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_burnley"
-        }
-      ],
-      "date": "2022-03-05T17:00:00.000Z",
-      "description": "Chelsea made it three successive league wins for the first time since October, with a flurry of goals at the start of the second half making the difference against a Burnley side frustratingly stubborn up to that point.",
       "matchId": 2210542
     }
   ]
