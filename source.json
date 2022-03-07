@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 642,
+    "totalItems": 643,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 65,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220307date-set-for-middlesbrough-fa-cu",
+      "type": "NewsCard",
+      "timestamp": "2022-03-07T17:26:00.000Z",
+      "orderDate": "2022-03-07T17:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/07/date-set-for-middlesbrough-fa-cup-trip",
+        "type": "NewsCard",
+        "title": "Date set for Middlesbrough FA Cup trip",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/date-set-for-middlesbrough-fa-cup-trip.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-07T17:26:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/07/date-set-for-middlesbrough-fa-cup-trip",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/MFC-Riverside-Stadium-general-GettyImages-634705780",
+          "gravity": "auto",
+          "aspectRatio": 1.5414364,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Date set for Middlesbrough FA Cup trip",
+      "publishDate": "2022-03-07T17:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/date-set-for-middlesbrough-fa-cup-trip.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2022-03-07T17:26:00.000Z",
+      "description": "The date and kick-off time for our FA Cup quarter-final clash with Middlesbrough has been confirmed, along with broadcast details.",
+      "matchId": 2281143
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220307ziyech-wins-chelsea-goal-of-the-",
@@ -520,49 +569,6 @@
       "date": "2022-03-06T11:38:00.000Z",
       "description": "Kai Havertz was quick to dish out plenty of praise for Reece James following our 4-0 victory at Burnley, feeling the wing-back’s goal early in the second half was crucial to our win.",
       "matchId": 2210542
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220306ask-me-anything-with-pulisic--on",
-      "type": "NewsCard",
-      "timestamp": "2022-03-06T18:18:00.000Z",
-      "orderDate": "2022-03-06T11:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/06/ask-me-anything-with-pulisic--only-on-the-5th-stand-app-",
-        "type": "NewsCard",
-        "title": "Ask me anything with Pulisic- only on The 5th Stand app!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/06/ask-me-anything-with-pulisic--only-on-the-5th-stand-app-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-06T18:18:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/06/ask-me-anything-with-pulisic--only-on-the-5th-stand-app-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/05/AMA_pulisic",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ask me anything with Pulisic- only on The 5th Stand app!",
-      "publishDate": "2022-03-06T18:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/06/ask-me-anything-with-pulisic--only-on-the-5th-stand-app-.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        }
-      ],
-      "date": "2022-03-06T18:18:00.000Z",
-      "description": "You can't afford to miss this! We are sitting down with our very own American star, Christian Pulisic for the latest AMA on The 5th Stand app later this week."
     }
   ]
 }
