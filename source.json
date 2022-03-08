@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 650,
+    "totalItems": 651,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 65,
+    "pageCount": 66,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Club Partners",
+      "id": "_content_chelseafcennews20220308access-chelsea-expertise-with-pe",
+      "type": "NewsCard",
+      "timestamp": "2022-03-08T16:28:00.000Z",
+      "orderDate": "2022-03-08T14:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/08/access-chelsea-expertise-with-perfect-play",
+        "type": "NewsCard",
+        "title": "Access Chelsea expertise with Perfect Play",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/access-chelsea-expertise-with-perfect-play.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-08T16:28:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/08/access-chelsea-expertise-with-perfect-play",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Perfect Play",
+          "id": "editorial/news/2022/08/PerfectPlay_Website_HomeHero_2870x1300_BPOT2",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Access Chelsea expertise with Perfect Play",
+      "publishDate": "2022-03-08T16:28:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/access-chelsea-expertise-with-perfect-play.html",
+      "readTimeInMins": 5,
+      "tags": [],
+      "date": "2022-03-08T16:28:00.000Z",
+      "description": "Chelsea fans are today being offered exclusive coaching expertise and access to some of the world’s brightest football stars with the launch of Perfect Play."
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220308pat-nevin--custodians-of-a-club-",
@@ -487,64 +524,6 @@
       ],
       "date": "2022-03-07T11:59:00.000Z",
       "description": "Blues supporters have voted Hakim Ziyech's strike against Crystal Palace as the club’s best in February, meaning the winger receives a second consecutive Chelsea Goal of the Month award."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220307chelsea-here-chelsea-there--brya",
-      "type": "NewsCard",
-      "timestamp": "2022-03-07T13:10:00.000Z",
-      "orderDate": "2022-03-07T11:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/07/chelsea-here-chelsea-there--bryan-fiabema-joins-rosenborg-on-loa",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Bryan Fiabema joins Rosenborg on loan, Emerson assists in big Lyon win and Anjorin makes Huddersfield Town debut ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/chelsea-here-chelsea-there--bryan-fiabema-joins-rosenborg-on-loa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-07T13:10:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/07/chelsea-here-chelsea-there--bryan-fiabema-joins-rosenborg-on-loa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Gilmour-Brentford-GettyImages-1380405519",
-          "gravity": "auto",
-          "aspectRatio": 1.7780392,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Bryan Fiabema joins Rosenborg on loan, Emerson assists in big Lyon win and Anjorin makes Huddersfield Town debut ",
-      "publishDate": "2022-03-07T13:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/chelsea-here-chelsea-there--bryan-fiabema-joins-rosenborg-on-loa.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Conor Gallagher",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_conor-gallagher"
-        },
-        {
-          "title": "Ethan Ampadu",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ethan_ampadu"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
-        }
-      ],
-      "date": "2022-03-07T13:10:00.000Z",
-      "description": "In our weekly round-up of the action involving Chelsea players currently away from the club, there is news that one player is heading out on loan, a fine performance yet again from Conor Gallagher and a debut in the Championship for one loanee…"
     }
   ]
 }
