@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 651,
+    "totalItems": 652,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 66,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220308gallery--preparations-for-norwic",
+      "type": "NewsCard",
+      "timestamp": "2022-03-08T19:35:00.000Z",
+      "orderDate": "2022-03-08T19:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/08/gallery--preparations-for-norwich-as-chilwell-returns-to-the-pit",
+        "type": "NewsCard",
+        "title": "Gallery: Preparations for Norwich as Chilwell returns to the pitch",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/gallery--preparations-for-norwich-as-chilwell-returns-to-the-pit.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-08T19:35:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/08/gallery--preparations-for-norwich-as-chilwell-returns-to-the-pit",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/03/08/Pulisic_DAZ_1350",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Preparations for Norwich as Chilwell returns to the pitch",
+      "publishDate": "2022-03-08T19:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/gallery--preparations-for-norwich-as-chilwell-returns-to-the-pit.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Norwich City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_norwich-city"
+        }
+      ],
+      "date": "2022-03-08T19:35:00.000Z",
+      "description": "The Chelsea squad were back at Cobham continuing to get ready for Thursday evening's away trip to face Norwich City in the Premier League, while Ben Chilwell was out on the pitch for the first time since his knee injury.",
+      "matchId": 2210567
+    },
     {
       "contentType": "Club Partners",
       "id": "_content_chelseafcennews20220308access-chelsea-expertise-with-pe",
@@ -471,59 +530,6 @@
       "date": "2022-03-07T17:26:00.000Z",
       "description": "The date and kick-off time for our FA Cup quarter-final clash with Middlesbrough has been confirmed, along with broadcast details.",
       "matchId": 2281143
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220307ziyech-wins-chelsea-goal-of-the-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-07T11:59:00.000Z",
-      "orderDate": "2022-03-07T11:59:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/07/ziyech-wins-chelsea-goal-of-the-month-again",
-        "type": "NewsCard",
-        "title": "Ziyech wins Chelsea Goal of the Month again",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/ziyech-wins-chelsea-goal-of-the-month-again.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-07T11:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/07/ziyech-wins-chelsea-goal-of-the-month-again",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ziyech",
-          "id": "video/2022/02/19/GettyImages-1238621042",
-          "gravity": "center",
-          "aspectRatio": 1.5005382,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ziyech wins Chelsea Goal of the Month again",
-      "publishDate": "2022-03-07T11:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/ziyech-wins-chelsea-goal-of-the-month-again.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Goal of the Month",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_goal-of-the-month"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2022-03-07T11:59:00.000Z",
-      "description": "Blues supporters have voted Hakim Ziyech's strike against Crystal Palace as the club’s best in February, meaning the winger receives a second consecutive Chelsea Goal of the Month award."
     }
   ]
 }
