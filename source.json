@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 656,
+    "totalItems": 657,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 66,
@@ -214,6 +214,55 @@
       ],
       "date": "2022-03-09T08:52:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer stories and an interview with a Premier League goalkeeper..."
+    },
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220309women-s-fa-cup-ticket-latest",
+      "type": "NewsCard",
+      "timestamp": "2022-03-09T14:34:00.000Z",
+      "orderDate": "2022-03-09T00:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/09/women-s-fa-cup-ticket-latest",
+        "type": "NewsCard",
+        "title": "Women’s FA Cup ticket latest",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/women-s-fa-cup-ticket-latest.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-09T14:34:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/09/women-s-fa-cup-ticket-latest",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Kingsmeadow",
+          "id": "editorial/news/2021/11/21/kingsmeadow_day",
+          "gravity": "auto",
+          "aspectRatio": 1.5023696,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s FA Cup ticket latest",
+      "publishDate": "2022-03-09T14:34:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/women-s-fa-cup-ticket-latest.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2022-03-09T14:34:00.000Z",
+      "description": "Tickets are now on sale for Chelsea Women’s Vitality Women’s FA Cup quarter-final at home to Birmingham City Women.",
+      "matchId": 2281020
     },
     {
       "contentType": "News",
@@ -485,55 +534,6 @@
       "date": "2022-03-08T10:00:00.000Z",
       "description": "Chelsea FC Women are back in Barclays FA Women’s Super League action on Thursday evening and everything you need to know ahead of our clash with the Irons can be found here in our match preview…",
       "matchId": 2236412
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220308middlesbrough-fa-cup-ticket-news",
-      "type": "NewsCard",
-      "timestamp": "2022-03-08T16:48:00.000Z",
-      "orderDate": "2022-03-08T04:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/08/middlesbrough-fa-cup-ticket-news",
-        "type": "NewsCard",
-        "title": "Middlesbrough FA Cup ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/middlesbrough-fa-cup-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-08T16:48:00.000Z"
-      },
-      "template": "featured-article",
-      "path": "/content/chelseafc/en/news/2022/03/08/middlesbrough-fa-cup-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "cfc/news/latestnews/16/11/middlesbrough_night-465171544_hero",
-          "gravity": "auto",
-          "aspectRatio": 2.3980815,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Middlesbrough FA Cup ticket news",
-      "publishDate": "2022-03-08T16:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/middlesbrough-fa-cup-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-08T16:48:00.000Z",
-      "description": "Details have been announced for ticket sales for our Emirates FA Cup quarter-final tie away to Middlesbrough.",
-      "matchId": 2281143
     }
   ]
 }
