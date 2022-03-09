@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 655,
+    "totalItems": 656,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 66,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220309tuchel-confirms-james-injury-and",
+      "type": "NewsCard",
+      "timestamp": "2022-03-09T13:57:00.000Z",
+      "orderDate": "2022-03-09T13:57:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/09/tuchel-confirms-james-injury-and-updates-on-christensen-s-future",
+        "type": "NewsCard",
+        "title": "Tuchel confirms James injury and updates on Christensen’s future",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/tuchel-confirms-james-injury-and-updates-on-christensen-s-future.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-09T13:57:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/09/tuchel-confirms-james-injury-and-updates-on-christensen-s-future",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/02/25/Tuchel_GettyImages-1238751253",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel confirms James injury and updates on Christensen’s future",
+      "publishDate": "2022-03-09T13:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/tuchel-confirms-james-injury-and-updates-on-christensen-s-future.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Ben Chilwell",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ben-chilwell"
+        },
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        }
+      ],
+      "date": "2022-03-09T13:57:00.000Z",
+      "description": "Thomas Tuchel has stated that Reece James is a major doubt for Thursday evening’s Premier League clash with Norwich.",
+      "matchId": 2210567
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220309blues-bulletin--norwich-city-vs-",
@@ -476,55 +534,6 @@
       "date": "2022-03-08T16:48:00.000Z",
       "description": "Details have been announced for ticket sales for our Emirates FA Cup quarter-final tie away to Middlesbrough.",
       "matchId": 2281143
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20220308opening-the-floodgates---every-t",
-      "type": "NewsCard",
-      "timestamp": "2022-03-08T04:30:00.000Z",
-      "orderDate": "2022-03-08T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/08/opening-the-floodgates---every-time-chelsea-have-scored-four-aft",
-        "type": "NewsCard",
-        "title": "Opening the floodgates - Other times Chelsea have scored four after a first-half stalemate",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/opening-the-floodgates---every-time-chelsea-have-scored-four-aft.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-08T04:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/08/opening-the-floodgates---every-time-chelsea-have-scored-four-aft",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "James",
-          "id": "editorial/news/2022/03/07/James_GettyImages-1380473913",
-          "gravity": "face",
-          "aspectRatio": 1.5003159,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Opening the floodgates - Other times Chelsea have scored four after a first-half stalemate",
-      "publishDate": "2022-03-08T04:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/opening-the-floodgates---every-time-chelsea-have-scored-four-aft.html",
-      "readTimeInMins": 28,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-08T04:30:00.000Z",
-      "description": "Chelsea had to wait until the second half to open the scoring against Burnley before racing away for a 4-0 victory, but that situation is not as rare as you might think. Here are more Blues matches where the floodgates have opened after the break following a first-half stalemate.",
-      "matchId": 2210542
     }
   ]
 }
