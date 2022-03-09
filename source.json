@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 652,
+    "totalItems": 653,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 66,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220309blues-bulletin--norwich-city-vs-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-09T04:30:00.000Z",
+      "orderDate": "2022-03-09T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/09/blues-bulletin--norwich-city-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Norwich City vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/blues-bulletin--norwich-city-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-09T04:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/09/blues-bulletin--norwich-city-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "James",
+          "id": "editorial/news/2022/03/08/James_Norwich_GettyImages-1348218808",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Norwich City vs Chelsea",
+      "publishDate": "2022-03-09T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/blues-bulletin--norwich-city-vs-chelsea.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Norwich City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_norwich-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-09T04:30:00.000Z",
+      "description": "The second of our back-to-back Premier League away trips takes us to Carrow Road on Thursday evening and we bring you all the important statistics ahead of kick-off against Norwich City...",
+      "matchId": 2210567
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220308gallery--preparations-for-norwic",
@@ -481,55 +535,6 @@
       ],
       "date": "2022-03-07T18:21:00.000Z",
       "description": "Spanish duo Cesar Azpilicueta and Marcos Alonso returned to full training on Monday ahead of two Premier League matches this week."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220307date-set-for-middlesbrough-fa-cu",
-      "type": "NewsCard",
-      "timestamp": "2022-03-07T17:26:00.000Z",
-      "orderDate": "2022-03-07T17:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/07/date-set-for-middlesbrough-fa-cup-trip",
-        "type": "NewsCard",
-        "title": "Date set for Middlesbrough FA Cup trip",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/date-set-for-middlesbrough-fa-cup-trip.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-07T17:26:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/07/date-set-for-middlesbrough-fa-cup-trip",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/MFC-Riverside-Stadium-general-GettyImages-634705780",
-          "gravity": "auto",
-          "aspectRatio": 1.5414364,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Date set for Middlesbrough FA Cup trip",
-      "publishDate": "2022-03-07T17:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/07/date-set-for-middlesbrough-fa-cup-trip.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        }
-      ],
-      "date": "2022-03-07T17:26:00.000Z",
-      "description": "The date and kick-off time for our FA Cup quarter-final clash with Middlesbrough has been confirmed, along with broadcast details.",
-      "matchId": 2281143
     }
   ]
 }
