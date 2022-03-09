@@ -1,12 +1,74 @@
 {
   "pagination": {
-    "totalItems": 660,
+    "totalItems": 661,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 66,
+    "pageCount": 67,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnists",
+      "id": "_content_chelseafcennews20220309petr-cech-column--fast-ferreira-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-09T20:09:00.000Z",
+      "orderDate": "2022-03-09T14:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/09/petr-cech-column--fast-ferreira-and-taking-momentum-to-norwich",
+        "type": "NewsCard",
+        "title": "Petr Cech column: Fast Ferreira and taking momentum to Norwich",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/petr-cech-column--fast-ferreira-and-taking-momentum-to-norwich.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-09T20:09:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2022/03/09/petr-cech-column--fast-ferreira-and-taking-momentum-to-norwich",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Petr Cech",
+          "id": "editorial/news/2021/09/10/Petr_Cech_Column_Article_Hero",
+          "gravity": "center",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Petr Cech column: Fast Ferreira and taking momentum to Norwich",
+      "publishDate": "2022-03-09T20:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/petr-cech-column--fast-ferreira-and-taking-momentum-to-norwich.html",
+      "readTimeInMins": 53,
+      "tags": [
+        {
+          "title": "Paulo Ferreira",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_paulo-ferreira"
+        },
+        {
+          "title": "Petr Cech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_petr-cech"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Petr",
+        "lastName": "Cech",
+        "description": " ",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Petr Cecg",
+          "id": "video/2021/03/23/-porto-are-always-a-tough-opponent--you-have-to-respect-them-----3Ytf4Dtj/210323_Cech_UCL_Thumb1",
+          "gravity": "face",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2022-03-09T20:09:00.000Z",
+      "description": "This week, Petr Cech pays tribute to a departing long-time Chelsea colleague and looks at the upper reaches of the Premier League table…"
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220309tuchel-confirms-james-injury-and",
@@ -484,43 +546,6 @@
       "date": "2022-03-08T19:35:00.000Z",
       "description": "The Chelsea squad were back at Cobham continuing to get ready for Thursday evening's away trip to face Norwich City in the Premier League, while Ben Chilwell was out on the pitch for the first time since his knee injury.",
       "matchId": 2210567
-    },
-    {
-      "contentType": "Club Partners",
-      "id": "_content_chelseafcennews20220308access-chelsea-expertise-with-pe",
-      "type": "NewsCard",
-      "timestamp": "2022-03-08T16:28:00.000Z",
-      "orderDate": "2022-03-08T14:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/08/access-chelsea-expertise-with-perfect-play",
-        "type": "NewsCard",
-        "title": "Access Chelsea expertise with Perfect Play",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/access-chelsea-expertise-with-perfect-play.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-08T16:28:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/08/access-chelsea-expertise-with-perfect-play",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Perfect Play",
-          "id": "editorial/news/2022/08/PerfectPlay_Website_HomeHero_2870x1300_BPOT2",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Access Chelsea expertise with Perfect Play",
-      "publishDate": "2022-03-08T16:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/access-chelsea-expertise-with-perfect-play.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2022-03-08T16:28:00.000Z",
-      "description": "Chelsea fans are today being offered exclusive coaching expertise and access to some of the world’s brightest football stars with the launch of Perfect Play."
     }
   ]
 }
