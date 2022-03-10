@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 666,
+    "totalItems": 667,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 67,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220310-he-can-have-a-huge-influence-on",
+      "type": "NewsCard",
+      "timestamp": "2022-03-10T12:05:00.000Z",
+      "orderDate": "2022-03-10T12:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/10/-he-can-have-a-huge-influence-on-our-game----tuchel-on-pulisic-s",
+        "type": "NewsCard",
+        "title": "‘He can have a huge influence on our game’ – Tuchel on Pulisic’s potential and what more he needs to do",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/-he-can-have-a-huge-influence-on-our-game----tuchel-on-pulisic-s.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-10T12:05:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/10/-he-can-have-a-huge-influence-on-our-game----tuchel-on-pulisic-s",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/08/15/Pulisic_Tuchel_GettyImages-1334123495",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "‘He can have a huge influence on our game’ – Tuchel on Pulisic’s potential and what more he needs to do",
+      "publishDate": "2022-03-10T12:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/-he-can-have-a-huge-influence-on-our-game----tuchel-on-pulisic-s.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Norwich City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_norwich-city"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2022-03-10T12:05:00.000Z",
+      "description": "Thomas Tuchel believes Christian Pulisic’s hunger for goals and assists can help springboard Chelsea closer to the Premier League top two.",
+      "matchId": 2210567
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220310pre-match-briefing--norwich-vs-c",
@@ -502,60 +565,6 @@
       "date": "2022-03-09T17:30:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes spoke to the media at Cobham this afternoon as her team prepare to face West Ham United in the Barclays FA Women’s Super League tomorrow evening.",
       "matchId": 2236412
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220309blues-bulletin--norwich-city-vs-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-09T04:30:00.000Z",
-      "orderDate": "2022-03-09T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/09/blues-bulletin--norwich-city-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Norwich City vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/blues-bulletin--norwich-city-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-09T04:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/09/blues-bulletin--norwich-city-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "James",
-          "id": "editorial/news/2022/03/08/James_Norwich_GettyImages-1348218808",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Norwich City vs Chelsea",
-      "publishDate": "2022-03-09T04:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/blues-bulletin--norwich-city-vs-chelsea.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "Norwich City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_norwich-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-09T04:30:00.000Z",
-      "description": "The second of our back-to-back Premier League away trips takes us to Carrow Road on Thursday evening and we bring you all the important statistics ahead of kick-off against Norwich City...",
-      "matchId": 2210567
     }
   ]
 }
