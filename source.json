@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 669,
+    "totalItems": 670,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 67,
@@ -380,6 +380,53 @@
       "matchId": 2281143
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220310date-set-for-fa-youth-cup-semi-f",
+      "type": "NewsCard",
+      "timestamp": "2022-03-10T13:11:00.000Z",
+      "orderDate": "2022-03-10T01:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/10/date-set-for-fa-youth-cup-semi-final",
+        "type": "NewsCard",
+        "title": "Date set for FA Youth Cup semi-final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/date-set-for-fa-youth-cup-semi-final.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-10T13:11:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/10/date-set-for-fa-youth-cup-semi-final",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2020/02/city-ground-nottingham-forest-save",
+          "gravity": "auto",
+          "aspectRatio": 1.5821122,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Date set for FA Youth Cup semi-final",
+      "publishDate": "2022-03-10T13:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/date-set-for-fa-youth-cup-semi-final.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "U18 - FA Youth Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
+        }
+      ],
+      "date": "2022-03-10T13:11:00.000Z",
+      "description": "Chelsea Under-18s will travel to Nottingham for the FA Youth Cup semi-final next month, with the date set for Monday 4 April at 7pm."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220310niamh-charles--we-have-an-opport",
       "type": "NewsCard",
@@ -485,68 +532,6 @@
       "date": "2022-03-09T13:57:00.000Z",
       "description": "Thomas Tuchel has stated that Reece James is a major doubt for Thursday evening’s Premier League clash with Norwich.",
       "matchId": 2210567
-    },
-    {
-      "contentType": "Columnists",
-      "id": "_content_chelseafcennews20220309petr-cech-column--fast-ferreira-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-09T20:09:00.000Z",
-      "orderDate": "2022-03-09T14:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/09/petr-cech-column--fast-ferreira-and-taking-momentum-to-norwich",
-        "type": "NewsCard",
-        "title": "Petr Cech column: Fast Ferreira and taking momentum to Norwich",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/petr-cech-column--fast-ferreira-and-taking-momentum-to-norwich.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-09T20:09:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2022/03/09/petr-cech-column--fast-ferreira-and-taking-momentum-to-norwich",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Petr Cech",
-          "id": "editorial/news/2021/09/10/Petr_Cech_Column_Article_Hero",
-          "gravity": "center",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Petr Cech column: Fast Ferreira and taking momentum to Norwich",
-      "publishDate": "2022-03-09T20:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/petr-cech-column--fast-ferreira-and-taking-momentum-to-norwich.html",
-      "readTimeInMins": 54,
-      "tags": [
-        {
-          "title": "Paulo Ferreira",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_paulo-ferreira"
-        },
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Petr",
-        "lastName": "Cech",
-        "description": " ",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Petr Cecg",
-          "id": "video/2021/03/23/-porto-are-always-a-tough-opponent--you-have-to-respect-them-----3Ytf4Dtj/210323_Cech_UCL_Thumb1",
-          "gravity": "face",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2022-03-09T20:09:00.000Z",
-      "description": "This week, Petr Cech pays tribute to a departing long-time Chelsea colleague and looks at the upper reaches of the Premier League table…"
     }
   ]
 }
