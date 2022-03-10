@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 665,
+    "totalItems": 666,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 67,
@@ -113,6 +113,59 @@
       ],
       "date": "2022-03-10T07:00:00.000Z",
       "description": "Happy Birthday, Chelsea Football Club!"
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220310media-watch--gundogan-s-praise-f",
+      "type": "NewsCard",
+      "timestamp": "2022-03-10T09:44:00.000Z",
+      "orderDate": "2022-03-10T02:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/10/media-watch--gundogan-s-praise-for-havertz--dean-smith-reveals-w",
+        "type": "NewsCard",
+        "title": "Media Watch: Gundogan's praise for Havertz, Dean Smith reveals what Gilmour is like to coach and Warnock claims Sheffield United could have signed Drogba ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/media-watch--gundogan-s-praise-for-havertz--dean-smith-reveals-w.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-10T09:44:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/10/media-watch--gundogan-s-praise-for-havertz--dean-smith-reveals-w",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/gundogan-mw",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Media Watch: Gundogan's praise for Havertz, Dean Smith reveals what Gilmour is like to coach and Warnock claims Sheffield United could have signed Drogba ",
+      "publishDate": "2022-03-10T09:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/media-watch--gundogan-s-praise-for-havertz--dean-smith-reveals-w.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Didier Drogba",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_didier-drogba"
+        }
+      ],
+      "date": "2022-03-10T09:44:00.000Z",
+      "description": "In our look at the latest Chelsea-related news stories from the media, there is praise for a striker, a press conference from tonight's opposing manager and a story on a Chelsea icon..."
     },
     {
       "contentType": "Tickets",
@@ -503,54 +556,6 @@
       "date": "2022-03-09T04:30:00.000Z",
       "description": "The second of our back-to-back Premier League away trips takes us to Carrow Road on Thursday evening and we bring you all the important statistics ahead of kick-off against Norwich City...",
       "matchId": 2210567
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220309chelsea-fc-celebrates-internatio",
-      "type": "NewsCard",
-      "timestamp": "2022-03-09T12:02:00.000Z",
-      "orderDate": "2022-03-09T02:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/09/chelsea-fc-celebrates-international-women-s-day-",
-        "type": "NewsCard",
-        "title": "Chelsea FC celebrates International Women’s Day ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/chelsea-fc-celebrates-international-women-s-day-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-09T12:02:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/09/chelsea-fc-celebrates-international-women-s-day-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Pioneers-web-hero",
-          "gravity": "auto",
-          "aspectRatio": 1.8461539,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC celebrates International Women’s Day ",
-      "publishDate": "2022-03-09T12:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/chelsea-fc-celebrates-international-women-s-day-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-03-09T12:02:00.000Z",
-      "description": "The club is running a host of initiatives to celebrate this year’s International Women’s Day, including celebrating pioneers of the past and present."
     }
   ]
 }
