@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 661,
+    "totalItems": 662,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 67,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220310pre-match-briefing--norwich-vs-c",
+      "type": "NewsCard",
+      "timestamp": "2022-03-10T04:30:00.000Z",
+      "orderDate": "2022-03-10T04:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/10/pre-match-briefing--norwich-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Norwich vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/pre-match-briefing--norwich-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-10T04:30:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/03/10/pre-match-briefing--norwich-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Carrow Road",
+          "id": "editorial/news/2022/08/carrow_road_norwich_view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Norwich vs Chelsea",
+      "publishDate": "2022-03-10T04:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/pre-match-briefing--norwich-vs-chelsea.html",
+      "readTimeInMins": 68,
+      "tags": [
+        {
+          "title": "Norwich City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_norwich-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-10T04:30:00.000Z",
+      "description": "A moved fixture keeps the away games coming for the Blues. Club historian Rick Glanvill and club statistician Paul Dutton trail this Thursday outing…",
+      "matchId": 2210567
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220309tuchel-confirms-james-injury-and",
@@ -487,65 +541,6 @@
       "date": "2022-03-09T15:43:00.000Z",
       "description": "We can confirm it is not possible to run a charter train service from London to Middlesborough for our FA Cup quarter-final.",
       "matchId": 2281143
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220308gallery--preparations-for-norwic",
-      "type": "NewsCard",
-      "timestamp": "2022-03-08T19:35:00.000Z",
-      "orderDate": "2022-03-08T19:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/08/gallery--preparations-for-norwich-as-chilwell-returns-to-the-pit",
-        "type": "NewsCard",
-        "title": "Gallery: Preparations for Norwich as Chilwell returns to the pitch",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/gallery--preparations-for-norwich-as-chilwell-returns-to-the-pit.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-08T19:35:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/08/gallery--preparations-for-norwich-as-chilwell-returns-to-the-pit",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/03/08/Pulisic_DAZ_1350",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Preparations for Norwich as Chilwell returns to the pitch",
-      "publishDate": "2022-03-08T19:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/08/gallery--preparations-for-norwich-as-chilwell-returns-to-the-pit.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Norwich City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_norwich-city"
-        }
-      ],
-      "date": "2022-03-08T19:35:00.000Z",
-      "description": "The Chelsea squad were back at Cobham continuing to get ready for Thursday evening's away trip to face Norwich City in the Premier League, while Ben Chilwell was out on the pitch for the first time since his knee injury.",
-      "matchId": 2210567
     }
   ]
 }
