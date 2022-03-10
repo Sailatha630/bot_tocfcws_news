@@ -1,12 +1,50 @@
 {
   "pagination": {
-    "totalItems": 670,
+    "totalItems": 671,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 67,
+    "pageCount": 68,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220310chelsea-line-up-vs-norwich",
+      "type": "NewsCard",
+      "timestamp": "2022-03-10T18:30:00.000Z",
+      "orderDate": "2022-03-10T18:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/10/chelsea-line-up-vs-norwich",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Norwich",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/chelsea-line-up-vs-norwich.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-10T18:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/10/chelsea-line-up-vs-norwich",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Carrow Road dressing room",
+          "id": "editorial/news/2022/03/10/norwich_away_dressing_room",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Norwich",
+      "publishDate": "2022-03-10T18:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/chelsea-line-up-vs-norwich.html",
+      "readTimeInMins": 5,
+      "tags": [],
+      "date": "2022-03-10T18:30:00.000Z",
+      "description": "Thomas Tuchel makes four changes to the side that won at Burnley at the weekend.",
+      "matchId": 2210567
+    },
     {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20220310statement-from-chelsea-fc",
@@ -474,64 +512,6 @@
       "date": "2022-03-10T07:57:00.000Z",
       "description": "Chelsea FC Women’s Niamh Charles is excited to get back into Barclays FA Women’s Super League action as the Blues prepare to face West Ham United this evening.",
       "matchId": 2236412
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220309tuchel-confirms-james-injury-and",
-      "type": "NewsCard",
-      "timestamp": "2022-03-09T13:57:00.000Z",
-      "orderDate": "2022-03-09T17:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/09/tuchel-confirms-james-injury-and-updates-on-christensen-s-future",
-        "type": "NewsCard",
-        "title": "Tuchel confirms James injury and updates on Christensen’s future",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/tuchel-confirms-james-injury-and-updates-on-christensen-s-future.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-09T13:57:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/09/tuchel-confirms-james-injury-and-updates-on-christensen-s-future",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/02/25/Tuchel_GettyImages-1238751253",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel confirms James injury and updates on Christensen’s future",
-      "publishDate": "2022-03-09T13:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/tuchel-confirms-james-injury-and-updates-on-christensen-s-future.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        }
-      ],
-      "date": "2022-03-09T13:57:00.000Z",
-      "description": "Thomas Tuchel has stated that Reece James is a major doubt for Thursday evening’s Premier League clash with Norwich.",
-      "matchId": 2210567
     }
   ]
 }
