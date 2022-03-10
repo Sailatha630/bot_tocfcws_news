@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 664,
+    "totalItems": 665,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 67,
@@ -113,6 +113,55 @@
       ],
       "date": "2022-03-10T07:00:00.000Z",
       "description": "Happy Birthday, Chelsea Football Club!"
+    },
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220310middlesbrough-ticket-sales-lates",
+      "type": "NewsCard",
+      "timestamp": "2022-03-10T10:53:00.000Z",
+      "orderDate": "2022-03-10T01:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/10/middlesbrough-ticket-sales-latest",
+        "type": "NewsCard",
+        "title": "Middlesbrough ticket sales latest",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/middlesbrough-ticket-sales-latest.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-10T10:53:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/10/middlesbrough-ticket-sales-latest",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Middlesbrough",
+          "id": "cfc/news/latestnews/16/11/middlesbrough_view-504153078",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Middlesbrough ticket sales latest",
+      "publishDate": "2022-03-10T10:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/middlesbrough-ticket-sales-latest.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-10T10:53:00.000Z",
+      "description": "Tickets for the Middlesbrough away FA Cup match will not go on sale today as planned.",
+      "matchId": 2281143
     },
     {
       "contentType": "Match Preview",
@@ -502,54 +551,6 @@
       ],
       "date": "2022-03-09T12:02:00.000Z",
       "description": "The club is running a host of initiatives to celebrate this year’s International Women’s Day, including celebrating pioneers of the past and present."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220309media-watch--mahrez-linked-to-ch",
-      "type": "NewsCard",
-      "timestamp": "2022-03-09T08:52:00.000Z",
-      "orderDate": "2022-03-09T01:52:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/09/media-watch--mahrez-linked-to-chelsea--blues--enter-race--for-le",
-        "type": "NewsCard",
-        "title": "Media Watch: Mahrez linked to Chelsea, Blues 'enter race' for Leipzig's Nkunku and Premier League goalkeeper rules Mendy the best ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/media-watch--mahrez-linked-to-chelsea--blues--enter-race--for-le.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-09T08:52:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/09/media-watch--mahrez-linked-to-chelsea--blues--enter-race--for-le",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/mahrez-mw",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Mahrez linked to Chelsea, Blues 'enter race' for Leipzig's Nkunku and Premier League goalkeeper rules Mendy the best ",
-      "publishDate": "2022-03-09T08:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/09/media-watch--mahrez-linked-to-chelsea--blues--enter-race--for-le.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Manchester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-city"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2022-03-09T08:52:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer stories and an interview with a Premier League goalkeeper..."
     }
   ]
 }
