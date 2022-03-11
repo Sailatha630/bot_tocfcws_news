@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 676,
+    "totalItems": 677,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 68,
@@ -64,6 +64,70 @@
       "date": "2022-03-11T07:00:00.000Z",
       "description": "Mason Mount explained how he and his Chelsea team-mates focused solely on the task at hand, as the Blues defeated Norwich to secure a big Premier League victory.",
       "matchId": 2210567
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220311pl2-preview--jayden-wareham-on-p",
+      "type": "NewsCard",
+      "timestamp": "2022-03-11T07:00:00.000Z",
+      "orderDate": "2022-03-11T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/11/pl2-preview--jayden-wareham-on-positive-mindset-as-development-s",
+        "type": "NewsCard",
+        "title": "PL2 preview: Jayden Wareham on positive mindset as development squad face West Ham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/pl2-preview--jayden-wareham-on-positive-mindset-as-development-s.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-11T07:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/11/pl2-preview--jayden-wareham-on-positive-mindset-as-development-s",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Team celebrating",
+          "id": "editorial/match-reports/2021-22/leicester-home-pl2/PL2-2122-Jayden-Ben-and-Joe-v-Leicester",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 preview: Jayden Wareham on positive mindset as development squad face West Ham",
+      "publishDate": "2022-03-11T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/pl2-preview--jayden-wareham-on-positive-mindset-as-development-s.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        }
+      ],
+      "date": "2022-03-11T07:00:00.000Z",
+      "description": "Our development squad can finally return to action after a few postponements as we welcome West Ham to Kingsmeadow with the game scheduled for a 7pm kick-off today. It will be live streamed across all our digital platforms."
     },
     {
       "contentType": "News",
@@ -491,60 +555,6 @@
       ],
       "date": "2022-03-10T12:05:00.000Z",
       "description": "Thomas Tuchel believes Christian Pulisic’s hunger for goals and assists can help springboard Chelsea closer to the Premier League top two.",
-      "matchId": 2210567
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220310pre-match-briefing--norwich-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2022-03-10T04:30:00.000Z",
-      "orderDate": "2022-03-10T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/10/pre-match-briefing--norwich-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Norwich vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/pre-match-briefing--norwich-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-10T04:30:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/03/10/pre-match-briefing--norwich-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Carrow Road",
-          "id": "editorial/news/2022/08/carrow_road_norwich_view",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Norwich vs Chelsea",
-      "publishDate": "2022-03-10T04:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/pre-match-briefing--norwich-vs-chelsea.html",
-      "readTimeInMins": 68,
-      "tags": [
-        {
-          "title": "Norwich City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_norwich-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-10T04:30:00.000Z",
-      "description": "A moved fixture keeps the away games coming for the Blues. Club historian Rick Glanvill and club statistician Paul Dutton trail this Thursday outing…",
       "matchId": 2210567
     }
   ]
