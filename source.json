@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 675,
+    "totalItems": 676,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 68,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220311mount-on-hitting-the-goals-again",
+      "type": "NewsCard",
+      "timestamp": "2022-03-11T07:00:00.000Z",
+      "orderDate": "2022-03-11T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/11/mount-on-hitting-the-goals-again-and-chelsea-s--focus--at-norwic",
+        "type": "NewsCard",
+        "title": "Mount on hitting the goals again and Chelsea's 'focus' at Norwich",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/mount-on-hitting-the-goals-again-and-chelsea-s--focus--at-norwic.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-11T07:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/11/mount-on-hitting-the-goals-again-and-chelsea-s--focus--at-norwic",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Mount-stock-Norwich-GettyImages-1383977730",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount on hitting the goals again and Chelsea's 'focus' at Norwich",
+      "publishDate": "2022-03-11T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/mount-on-hitting-the-goals-again-and-chelsea-s--focus--at-norwic.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Trevoh Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
+        }
+      ],
+      "date": "2022-03-11T07:00:00.000Z",
+      "description": "Mason Mount explained how he and his Chelsea team-mates focused solely on the task at hand, as the Blues defeated Norwich to secure a big Premier League victory.",
+      "matchId": 2210567
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220310tuchel-on-norwich-win--how-love-",
@@ -488,59 +546,6 @@
       "date": "2022-03-10T04:30:00.000Z",
       "description": "A moved fixture keeps the away games coming for the Blues. Club historian Rick Glanvill and club statistician Paul Dutton trail this Thursday outing…",
       "matchId": 2210567
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20220310chelsea-founders--day--117-years",
-      "type": "NewsCard",
-      "timestamp": "2022-03-10T07:00:00.000Z",
-      "orderDate": "2022-03-10T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/10/chelsea-founders--day--117-years-on--we-really-have-won-it-all-",
-        "type": "NewsCard",
-        "title": "Chelsea Founders’ Day: 117 years on, we really have won it all!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/chelsea-founders--day--117-years-on--we-really-have-won-it-all-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-10T07:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/10/chelsea-founders--day--117-years-on--we-really-have-won-it-all-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "1955",
-          "id": "theshed/shot-of-the-day/GettyImages-79025630",
-          "gravity": "south",
-          "aspectRatio": 2.1978023,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Founders’ Day: 117 years on, we really have won it all!",
-      "publishDate": "2022-03-10T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/chelsea-founders--day--117-years-on--we-really-have-won-it-all-.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2022-03-10T07:00:00.000Z",
-      "description": "Happy Birthday, Chelsea Football Club!"
     }
   ]
 }
