@@ -1,12 +1,50 @@
 {
   "pagination": {
-    "totalItems": 677,
+    "totalItems": 678,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 68,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220311fast-starts---chelsea-s-quickest",
+      "type": "NewsCard",
+      "timestamp": "2022-03-11T11:43:00.000Z",
+      "orderDate": "2022-03-11T11:43:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/11/fast-starts---chelsea-s-quickest-goals-this-season",
+        "type": "NewsCard",
+        "title": "Fast starts – Chelsea’s quickest goals this season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/fast-starts---chelsea-s-quickest-goals-this-season.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-11T11:43:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/11/fast-starts---chelsea-s-quickest-goals-this-season",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chalobah",
+          "id": "editorial/news/2022/03/10/norwich_away_chalobah_goal",
+          "gravity": "center",
+          "aspectRatio": 1.5003136,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Fast starts – Chelsea’s quickest goals this season",
+      "publishDate": "2022-03-11T11:43:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/fast-starts---chelsea-s-quickest-goals-this-season.html",
+      "readTimeInMins": 13,
+      "tags": [],
+      "date": "2022-03-11T11:43:00.000Z",
+      "description": "With Trevoh Chalobah making a very early breakthrough in our 3-1 victory at Norwich on Thursday, we take a look at how it ranks on the list of Chelsea’s fastest goals so far in this campaign."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220311mount-on-hitting-the-goals-again",
@@ -492,69 +530,6 @@
       ],
       "date": "2022-03-10T14:30:00.000Z",
       "description": "Ahead of our Premier League trip to Norwich City this evening, Thiago Silva has been discussing factors behind his impressive longevity, as well as outlining the importance of ‘exceptional’ N’Golo Kante…",
-      "matchId": 2210567
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220310-he-can-have-a-huge-influence-on",
-      "type": "NewsCard",
-      "timestamp": "2022-03-10T12:05:00.000Z",
-      "orderDate": "2022-03-10T12:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/10/-he-can-have-a-huge-influence-on-our-game----tuchel-on-pulisic-s",
-        "type": "NewsCard",
-        "title": "‘He can have a huge influence on our game’ – Tuchel on Pulisic’s potential and what more he needs to do",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/-he-can-have-a-huge-influence-on-our-game----tuchel-on-pulisic-s.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-10T12:05:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/10/-he-can-have-a-huge-influence-on-our-game----tuchel-on-pulisic-s",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/08/15/Pulisic_Tuchel_GettyImages-1334123495",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "‘He can have a huge influence on our game’ – Tuchel on Pulisic’s potential and what more he needs to do",
-      "publishDate": "2022-03-10T12:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/10/-he-can-have-a-huge-influence-on-our-game----tuchel-on-pulisic-s.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Norwich City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_norwich-city"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        }
-      ],
-      "date": "2022-03-10T12:05:00.000Z",
-      "description": "Thomas Tuchel believes Christian Pulisic’s hunger for goals and assists can help springboard Chelsea closer to the Premier League top two.",
       "matchId": 2210567
     }
   ]
