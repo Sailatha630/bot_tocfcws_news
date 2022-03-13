@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 691,
+    "totalItems": 692,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 70,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220313report--chelsea-vs-newcastle",
+      "type": "NewsCard",
+      "timestamp": "2022-03-13T15:50:00.000Z",
+      "orderDate": "2022-03-13T15:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/13/report--chelsea-vs-newcastle",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 1 Newcastle 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/13/report--chelsea-vs-newcastle.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-13T15:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/13/report--chelsea-vs-newcastle",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Havertz-CL2_1316-613447",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 1 Newcastle 0",
+      "publishDate": "2022-03-13T15:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/13/report--chelsea-vs-newcastle.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2022-03-13T15:50:00.000Z",
+      "description": "Kai Havertz struck again to save the day late on for Chelsea, securing our fifth straight league victory with a masterful finish at the end of an even game at Stamford Bridge.",
+      "matchId": 2210554
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220313women-s-match-report--chelsea-vs",
@@ -503,65 +557,6 @@
       "date": "2022-03-12T00:30:00.000Z",
       "description": "Chelsea FC Women host Aston Villa in the Barclays FA Women’s Super League on Sunday afternoon and everything you need to know ahead of today’s fixture can be found here in our preview…",
       "matchId": 2236415
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220311tuchel--all-we-can-do-is-keep-wi",
-      "type": "NewsCard",
-      "timestamp": "2022-03-11T13:30:00.000Z",
-      "orderDate": "2022-03-11T13:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/11/tuchel--all-we-can-do-is-keep-winning",
-        "type": "NewsCard",
-        "title": "Tuchel: All we can do is keep winning",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/tuchel--all-we-can-do-is-keep-winning.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-11T13:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/11/tuchel--all-we-can-do-is-keep-winning",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2022/03/11/Tuchel_GettyImages-1383983489",
-          "gravity": "auto",
-          "aspectRatio": 1.5003653,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: All we can do is keep winning",
-      "publishDate": "2022-03-11T13:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/tuchel--all-we-can-do-is-keep-winning.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2022-03-11T13:30:00.000Z",
-      "description": "Thomas Tuchel says he and his players are doing their best to shut out the noise from outside the club during the current uncertainty and just focus on the things that are within their control, like picking up another three points against Newcastle United on Sunday.",
-      "matchId": 2210554
     }
   ]
 }
