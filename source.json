@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 692,
+    "totalItems": 693,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 70,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220313tuchel-reacts-to-newcastle-win",
+      "type": "NewsCard",
+      "timestamp": "2022-03-13T16:52:00.000Z",
+      "orderDate": "2022-03-13T16:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/13/tuchel-reacts-to-newcastle-win",
+        "type": "NewsCard",
+        "title": "Tuchel explains offensive changes that earned a tough win, hails Havertz’s ‘exceptional goal’ and reflects on keeping things as normal as possible",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/13/tuchel-reacts-to-newcastle-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-13T16:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/13/tuchel-reacts-to-newcastle-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Tuchel-DTW_6634-613448",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel explains offensive changes that earned a tough win, hails Havertz’s ‘exceptional goal’ and reflects on keeping things as normal as possible",
+      "publishDate": "2022-03-13T16:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/13/tuchel-reacts-to-newcastle-win.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-13T16:52:00.000Z",
+      "description": "It was an understandably delighted Thomas Tuchel that spoke after our 1-0 victory over Newcastle United, a game he described as tough and the outcome of which was decided by a moment of magic from Kai Havertz.",
+      "matchId": 2210554
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220313report--chelsea-vs-newcastle",
@@ -508,55 +556,6 @@
       "date": "2022-03-12T05:00:00.000Z",
       "description": "It is back to the Bridge on Sunday after four games elsewhere. Club historian Rick Glanvill and club statistician Paul Dutton have some talking points ahead of our meeting with the Toon…",
       "matchId": 2210554
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220311chelsea-women-vs-aston-villa-wom",
-      "type": "NewsCard",
-      "timestamp": "2022-03-12T00:30:00.000Z",
-      "orderDate": "2022-03-12T04:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/11/chelsea-women-vs-aston-villa-women-preview--kick-off-time--how-t",
-        "type": "NewsCard",
-        "title": "Chelsea Women vs Aston Villa Women preview: Kick-off time, how to follow and much more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/chelsea-women-vs-aston-villa-women-preview--kick-off-time--how-t.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-12T00:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/11/chelsea-women-vs-aston-villa-women-preview--kick-off-time--how-t",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Kerr-Harder-cele-LCFC",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women vs Aston Villa Women preview: Kick-off time, how to follow and much more!",
-      "publishDate": "2022-03-12T00:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/11/chelsea-women-vs-aston-villa-women-preview--kick-off-time--how-t.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-03-12T00:30:00.000Z",
-      "description": "Chelsea FC Women host Aston Villa in the Barclays FA Women’s Super League on Sunday afternoon and everything you need to know ahead of today’s fixture can be found here in our preview…",
-      "matchId": 2236415
     }
   ]
 }
