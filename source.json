@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 693,
+    "totalItems": 694,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 70,
@@ -53,6 +53,76 @@
       ],
       "date": "2022-03-13T16:52:00.000Z",
       "description": "It was an understandably delighted Thomas Tuchel that spoke after our 1-0 victory over Newcastle United, a game he described as tough and the outcome of which was decided by a moment of magic from Kai Havertz.",
+      "matchId": 2210554
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220313watch-highlights-of-chelsea-s-la",
+      "type": "NewsCard",
+      "timestamp": "2022-03-13T20:00:00.000Z",
+      "orderDate": "2022-03-13T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/13/watch-highlights-of-chelsea-s-late-win-against-newcastle",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea's late win against Newcastle",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/13/watch-highlights-of-chelsea-s-late-win-against-newcastle.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-13T20:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/13/watch-highlights-of-chelsea-s-late-win-against-newcastle",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea 1-0 Newcastle United (H) | Premier League Highlights",
+          "videoId": "KXY95tdH",
+          "bucket": "prod-cfc",
+          "description": "Highlights from Chelsea's 1-0 home win against Newcastle United at Stamford Bridge in the Premier League.",
+          "duration": 124000,
+          "date": "2022-03-13T17:37:24.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/KXY95tdH/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/13/watch-highlights-of-chelsea-s-late-win-against-newcastle.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/03/13/watch-highlights-of-chelsea-s-late-win-against-newcastle?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/03/13/watch-highlights-of-chelsea-s-late-win-against-newcastle",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from Chelsea's 1-0 home win against Newcastle United at Stamford Bridge in the Premier League."
+      },
+      "content": "Watch highlights of Chelsea's late win against Newcastle",
+      "publishDate": "2022-03-13T20:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/13/watch-highlights-of-chelsea-s-late-win-against-newcastle.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2022-03-13T20:00:00.000Z",
+      "description": "The Blues left it late to find a winner but Kai Havertz's excellent finish secured all three points at Stamford Bridge...",
       "matchId": 2210554
     },
     {
@@ -502,60 +572,6 @@
       "date": "2022-03-12T14:00:00.000Z",
       "description": "Our young Blues comfortably secured their spot in the final of the Under-18 Premier League Cup as we beat Stoke City 5-1 on Saturday afternoon.",
       "matchId": 2281136
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220312pre-match-briefing--chelsea-vs-n",
-      "type": "NewsCard",
-      "timestamp": "2022-03-12T05:00:00.000Z",
-      "orderDate": "2022-03-12T05:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/12/pre-match-briefing--chelsea-vs-newcastle",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Newcastle",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/12/pre-match-briefing--chelsea-vs-newcastle.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-12T05:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/03/12/pre-match-briefing--chelsea-vs-newcastle",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Havertz playing against Newcastle",
-          "id": "editorial/news/2022/01/25/Havertz_GettyImages-1350241388",
-          "gravity": "north_east",
-          "aspectRatio": 1.5002433,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Newcastle",
-      "publishDate": "2022-03-12T05:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/12/pre-match-briefing--chelsea-vs-newcastle.html",
-      "readTimeInMins": 69,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Newcastle United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_newcastle-united"
-        }
-      ],
-      "date": "2022-03-12T05:00:00.000Z",
-      "description": "It is back to the Bridge on Sunday after four games elsewhere. Club historian Rick Glanvill and club statistician Paul Dutton have some talking points ahead of our meeting with the Toon…",
-      "matchId": 2210554
     }
   ]
 }
