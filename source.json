@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 694,
+    "totalItems": 695,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 70,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220314jorginho--we-believed-until-the-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-14T04:00:00.000Z",
+      "orderDate": "2022-03-14T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/14/jorginho--we-believed-until-the-end",
+        "type": "NewsCard",
+        "title": "Jorginho: We believed until the end",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/14/jorginho--we-believed-until-the-end.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-14T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/14/jorginho--we-believed-until-the-end",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/newcastle-home/Jorginho-DTW_6232-613090",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Jorginho: We believed until the end",
+      "publishDate": "2022-03-14T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/14/jorginho--we-believed-until-the-end.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Newcastle United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_newcastle-united"
+        }
+      ],
+      "date": "2022-03-14T04:00:00.000Z",
+      "description": "Chelsea midfielder Jorginho believes we deserved to beat Newcastle yesterday due to our desire and willingness to fight until the end.",
+      "matchId": 2210554
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220313tuchel-reacts-to-newcastle-win",
@@ -507,71 +560,6 @@
       "date": "2022-03-12T11:20:00.000Z",
       "description": "After three consecutive Premier League victories on the road, we host Newcastle United in our first league game at Stamford Bridge since 23 January. Here are all the crucial facts and stats for Sunday's match...",
       "matchId": 2210554
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220312under-18s-premier-league-cup--st",
-      "type": "NewsCard",
-      "timestamp": "2022-03-12T14:00:00.000Z",
-      "orderDate": "2022-03-12T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/12/under-18s-premier-league-cup--stoke-city-1-chelsea-5",
-        "type": "NewsCard",
-        "title": "Under-18s report: Stoke City 1 Chelsea 5",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/12/under-18s-premier-league-cup--stoke-city-1-chelsea-5.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-12T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/12/under-18s-premier-league-cup--stoke-city-1-chelsea-5",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Team celebration into the final of PL Cup",
-          "id": "editorial/match-reports/2021-22/u18-pl-cup-stoke-city-away/U18-PL-Cup-fifth-goal-celebration",
-          "gravity": "auto",
-          "aspectRatio": 0.708,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Stoke City 1 Chelsea 5",
-      "publishDate": "2022-03-12T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/12/under-18s-premier-league-cup--stoke-city-1-chelsea-5.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "U18 Premier League Cup ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_u18-premier-league-cup-"
-        },
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        }
-      ],
-      "date": "2022-03-12T14:00:00.000Z",
-      "description": "Our young Blues comfortably secured their spot in the final of the Under-18 Premier League Cup as we beat Stoke City 5-1 on Saturday afternoon.",
-      "matchId": 2281136
     }
   ]
 }
