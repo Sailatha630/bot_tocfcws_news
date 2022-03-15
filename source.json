@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 710,
+    "totalItems": 711,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 71,
+    "pageCount": 72,
     "startFrom": 0
   },
   "newsFeed": [
@@ -54,6 +54,54 @@
       ],
       "date": "2022-03-15T18:30:00.000Z",
       "description": "A 22-man Chelsea squad have arrived in northern France ahead of our Champions League tie against Lille.",
+      "matchId": 2261865
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220315tuchel-on-a--different--challeng",
+      "type": "NewsCard",
+      "timestamp": "2022-03-15T15:58:00.000Z",
+      "orderDate": "2022-03-15T15:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/15/tuchel-on-a--different--challenge-at-lille-and-a-positive-dressi",
+        "type": "NewsCard",
+        "title": "Tuchel on a different challenge at Lille and a positive dressing room mood",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/tuchel-on-a--different--challenge-at-lille-and-a-positive-dressi.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-15T15:58:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/15/tuchel-on-a--different--challenge-at-lille-and-a-positive-dressi",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/03/15/Tuchel-training-pre-Lille",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on a different challenge at Lille and a positive dressing room mood",
+      "publishDate": "2022-03-15T15:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/tuchel-on-a--different--challenge-at-lille-and-a-positive-dressi.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-15T15:58:00.000Z",
+      "description": "Chelsea head into tomorrow night’s Champions League knockout clash with Lille in confident mood following two victories in the past few days, with Thomas Tuchel expressing his delight at how his players have approached each game.",
       "matchId": 2261865
     },
     {
@@ -474,48 +522,6 @@
       "date": "2022-03-15T07:25:00.000Z",
       "description": "Jonna Andersson on Chelsea’s Barclays FA Women’s Super League win against Aston Villa, the title race and more…",
       "matchId": 2236415
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220315chelsea-fc-foundation-host-inter",
-      "type": "NewsCard",
-      "timestamp": "2022-03-15T16:20:00.000Z",
-      "orderDate": "2022-03-15T00:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/15/chelsea-fc-foundation-host-international-women-s-day-event-at-st",
-        "type": "NewsCard",
-        "title": "Chelsea FC Foundation host International Women’s Day event at Stamford Bridge",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/chelsea-fc-foundation-host-international-women-s-day-event-at-st.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-15T16:20:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/15/chelsea-fc-foundation-host-international-women-s-day-event-at-st",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/IWD-event-Stamford-Bridge-2022",
-          "gravity": "auto",
-          "aspectRatio": 1.6721312,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC Foundation host International Women’s Day event at Stamford Bridge",
-      "publishDate": "2022-03-15T16:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/chelsea-fc-foundation-host-international-women-s-day-event-at-st.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-03-15T16:20:00.000Z",
-      "description": "Last week Chelsea FC Foundation put on a host of events and activities to celebrate International Women’s Day, which took place on Tuesday 8 March."
     }
   ]
 }
