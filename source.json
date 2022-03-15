@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 703,
+    "totalItems": 704,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 71,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220315middlesbrough-ticket-update",
+      "type": "NewsCard",
+      "timestamp": "2022-03-15T12:15:00.000Z",
+      "orderDate": "2022-03-15T12:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/15/middlesbrough-ticket-update",
+        "type": "NewsCard",
+        "title": "Middlesbrough ticket update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/middlesbrough-ticket-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-15T12:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/15/middlesbrough-ticket-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Riverside Stadium",
+          "id": "chelsea-app/MFC-Riverside-Stadium-general-GettyImages-634705780",
+          "gravity": "auto",
+          "aspectRatio": 1.5414364,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Middlesbrough ticket update",
+      "publishDate": "2022-03-15T12:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/middlesbrough-ticket-update.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-03-15T12:15:00.000Z",
+      "description": "We are disappointed to announce we will not be able to sell tickets for Saturday’s FA Cup tie at Middlesbrough."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220315tuchel-confirms-alonso-and-azpil",
@@ -458,79 +506,6 @@
       "date": "2022-03-14T09:00:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes spoke at full-time following our victory against Aston Villa in the Barclays FA Women’s Super League at Kingsmeadow yesterday afternoon…",
       "matchId": 2236415
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20220314chelsea-here-chelsea-there--doub",
-      "type": "NewsCard",
-      "timestamp": "2022-03-14T11:25:00.000Z",
-      "orderDate": "2022-03-14T00:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/14/chelsea-here-chelsea-there--double-injury-blow-for-broja-but-cru",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Double injury blow for Broja but crucial wins for Sterling, Maatsen and Clarke-Salter",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/14/chelsea-here-chelsea-there--double-injury-blow-for-broja-but-cru.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-14T11:25:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/14/chelsea-here-chelsea-there--double-injury-blow-for-broja-but-cru",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Broja",
-          "id": "editorial/news/2022/01/17/broja-southampton-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.3694888,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Double injury blow for Broja but crucial wins for Sterling, Maatsen and Clarke-Salter",
-      "publishDate": "2022-03-14T11:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/14/chelsea-here-chelsea-there--double-injury-blow-for-broja-but-cru.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Michy Batshuayi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_michy-batshuayi"
-        },
-        {
-          "title": "Tino Anjorin",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tino-anjorin"
-        },
-        {
-          "title": "Dujon Sterling",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_dujon-sterling"
-        },
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Armando Broja",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_armando-broja"
-        },
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
-        }
-      ],
-      "date": "2022-03-14T11:25:00.000Z",
-      "description": "In our latest round-up of the action involving the Chelsea players out on loan, it was a painful week in the Premier League, but several Blues were involved in big matches as the incredibly tight Championship promotion race heats up..."
     }
   ]
 }
