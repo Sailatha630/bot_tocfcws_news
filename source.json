@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 709,
+    "totalItems": 710,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 71,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220315blues-land-in-lille",
+      "type": "NewsCard",
+      "timestamp": "2022-03-15T18:30:00.000Z",
+      "orderDate": "2022-03-15T18:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/15/blues-land-in-lille",
+        "type": "NewsCard",
+        "title": "Blues land in Lille",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/blues-land-in-lille.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-15T18:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/15/blues-land-in-lille",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2019/9/lille_city_centre",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues land in Lille",
+      "publishDate": "2022-03-15T18:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/blues-land-in-lille.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-15T18:30:00.000Z",
+      "description": "A 22-man Chelsea squad have arrived in northern France ahead of our Champions League tie against Lille.",
+      "matchId": 2261865
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220315gallery--final-training-ahead-of",
@@ -467,54 +516,6 @@
       ],
       "date": "2022-03-15T16:20:00.000Z",
       "description": "Last week Chelsea FC Foundation put on a host of events and activities to celebrate International Women’s Day, which took place on Tuesday 8 March."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220314important-ticketing-update-for-u",
-      "type": "NewsCard",
-      "timestamp": "2022-03-14T15:29:00.000Z",
-      "orderDate": "2022-03-14T15:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/14/important-ticketing-update-for-upcoming-chelsea-matches",
-        "type": "NewsCard",
-        "title": "Important ticketing update for upcoming Chelsea matches",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/14/important-ticketing-update-for-upcoming-chelsea-matches.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-14T15:29:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/14/important-ticketing-update-for-upcoming-chelsea-matches",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ticket office",
-          "id": "editorial/news/2019/12/ticket-office-stamford-bridge-view",
-          "gravity": "auto",
-          "aspectRatio": 1.500122,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important ticketing update for upcoming Chelsea matches",
-      "publishDate": "2022-03-14T15:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/14/important-ticketing-update-for-upcoming-chelsea-matches.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-03-14T15:29:00.000Z",
-      "description": "With the Club still awaiting confirmation from the UK Government on whether we can sell tickets or not, including to this weekend’s FA Cup tie at Middlesbrough, we have the latest situation on sales for upcoming men’s, women’s, and Academy fixtures."
     }
   ]
 }
