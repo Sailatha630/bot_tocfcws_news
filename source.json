@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 716,
+    "totalItems": 717,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 72,
@@ -216,6 +216,64 @@
       ],
       "date": "2022-03-16T09:05:00.000Z",
       "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer stories and praise for Chelsea's man of the moment..."
+    },
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220316havertz-on-how-his-early-setback",
+      "type": "NewsCard",
+      "timestamp": "2022-03-16T01:00:00.000Z",
+      "orderDate": "2022-03-16T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/16/havertz-on-how-his-early-setbacks-helped-him-hit-top-form",
+        "type": "NewsCard",
+        "title": "Havertz explains how early set-backs helped him hit top form",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/havertz-on-how-his-early-setbacks-helped-him-hit-top-form.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-16T01:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/16/havertz-on-how-his-early-setbacks-helped-him-hit-top-form",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Havertz-CL2_1502-613464",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz explains how early set-backs helped him hit top form",
+      "publishDate": "2022-03-16T01:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/havertz-on-how-his-early-setbacks-helped-him-hit-top-form.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Lille",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_lille"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-16T01:00:00.000Z",
+      "description": "Kai Havertz is pleased with his excellent recent form for Chelsea, but feels it wouldn’t have been possible without learning from the difficult moments he has come through at the club and identified consistency as the next step in his progress.",
+      "matchId": 2261865
     },
     {
       "contentType": "Match Preview",
@@ -479,54 +537,6 @@
       ],
       "date": "2022-03-15T16:00:00.000Z",
       "description": "The Premier League has announced the remaining fixtures for live TV broadcast from those originally in April, with four Chelsea fixtures selected, although three of them are subject to change due to possible progress in other competitions."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220315havertz-happy-to-pay-for-away-tr",
-      "type": "NewsCard",
-      "timestamp": "2022-03-15T15:45:00.000Z",
-      "orderDate": "2022-03-15T12:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/15/havertz-happy-to-pay-for-away-travel-",
-        "type": "NewsCard",
-        "title": "Havertz happy to pay for away travel ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/havertz-happy-to-pay-for-away-travel-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-15T15:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/15/havertz-happy-to-pay-for-away-travel-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/havertz-presser-DTW_6828",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz happy to pay for away travel ",
-      "publishDate": "2022-03-15T15:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/havertz-happy-to-pay-for-away-travel-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-15T15:45:00.000Z",
-      "description": "Kai Havertz has stated he would take no issue with contributing to the cost of travel for Chelsea away matches, after sanctions applied to the club included limiting expenditure for away trips.",
-      "matchId": 2261865
     }
   ]
 }
