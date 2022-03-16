@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 724,
+    "totalItems": 725,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
@@ -55,6 +55,60 @@
       "date": "2022-03-16T21:05:00.000Z",
       "description": "Chelsea FC Women move within two points of league leaders Arsenal as the Blues cruised to a 3-0 victory away at Everton in the Barclays FA Women’s Super League this evening.",
       "matchId": 2236385
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220316match-report--lille-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2022-03-16T21:30:00.000Z",
+      "orderDate": "2022-03-16T20:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/16/match-report--lille-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Lille 1 Chelsea 2 (Chelsea win 4-1 on aggregate)",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/match-report--lille-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-16T21:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/16/match-report--lille-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Azpilicueta and Mount",
+          "id": "editorial/match-reports/2021-22/lille-ucl-away/Azpilicueta_Mount_Lille_A_2",
+          "gravity": "north",
+          "aspectRatio": 1.4993925,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Lille 1 Chelsea 2 (Chelsea win 4-1 on aggregate)",
+      "publishDate": "2022-03-16T21:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/match-report--lille-chelsea.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "Lille",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_lille"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-16T21:30:00.000Z",
+      "description": "Chelsea booked our place in the quarter-finals of the Champions League with a 2-1 away win over Lille in the second leg of our last-16 tie, completing a 4-1 victory on aggregate.",
+      "matchId": 2261865
     },
     {
       "contentType": "News",
@@ -480,59 +534,6 @@
       "date": "2022-03-16T13:47:00.000Z",
       "description": "Chelsea supporters who completed a ticket purchase from our visitors’ allocation for the Emirates FA Cup match at Middlesbrough are able to attend the game.",
       "matchId": 2281143
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220316media-watch--arsenal-show-intere",
-      "type": "NewsCard",
-      "timestamp": "2022-03-16T09:05:00.000Z",
-      "orderDate": "2022-03-16T01:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/16/media-watch--arsenal-show-interest-in-hazard--blues-on--stand-by",
-        "type": "NewsCard",
-        "title": "Media Watch: Arsenal show interest in Hazard, Blues on 'stand-by' for Leeds man and praise for Kai Havertz from pundit",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/media-watch--arsenal-show-interest-in-hazard--blues-on--stand-by.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-16T09:05:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/16/media-watch--arsenal-show-interest-in-hazard--blues-on--stand-by",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/media-watch/MW-Hazard-220721",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Media Watch: Arsenal show interest in Hazard, Blues on 'stand-by' for Leeds man and praise for Kai Havertz from pundit",
-      "publishDate": "2022-03-16T09:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/media-watch--arsenal-show-interest-in-hazard--blues-on--stand-by.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "Eden Hazard",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_eden-hazard"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2022-03-16T09:05:00.000Z",
-      "description": "In our look at the latest Chelsea-related news stories from the media, there are two transfer stories and praise for Chelsea's man of the moment..."
     }
   ]
 }
