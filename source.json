@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 711,
+    "totalItems": 712,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 72,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220316preview--lille-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2022-03-16T03:30:00.000Z",
+      "orderDate": "2022-03-16T03:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/16/preview--lille-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Preview: Lille vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/preview--lille-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-16T03:30:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/03/16/preview--lille-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/02/25/havertz-lille-control",
+          "gravity": "north",
+          "aspectRatio": 1.436915,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Preview: Lille vs Chelsea",
+      "publishDate": "2022-03-16T03:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/preview--lille-vs-chelsea.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-16T03:30:00.000Z",
+      "description": "The reigning European champions are in France, aiming to keep this season’s Champions League campaign on track when we play tonight’s round of 16 second leg match. Here we look at both teams and the current state of the competition overall…",
+      "matchId": 2261865
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220315blues-land-in-lille",
@@ -478,50 +527,6 @@
       "date": "2022-03-15T15:00:00.000Z",
       "description": "Chelsea FC Women are back on the road with a trip to Everton tomorrow evening in the Barclays FA Women’s Super League.",
       "matchId": 2236385
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220315andersson--we-really-want-to-win",
-      "type": "NewsCard",
-      "timestamp": "2022-03-15T07:25:00.000Z",
-      "orderDate": "2022-03-15T01:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/15/andersson--we-really-want-to-win-the-league",
-        "type": "NewsCard",
-        "title": "Andersson: We really want to win the league",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/andersson--we-really-want-to-win-the-league.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-15T07:25:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/15/andersson--we-really-want-to-win-the-league",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Jonna-Andersson-Villa-warm-up",
-          "gravity": "auto",
-          "aspectRatio": 1.4996377,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Andersson: We really want to win the league",
-      "publishDate": "2022-03-15T07:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/andersson--we-really-want-to-win-the-league.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-03-15T07:25:00.000Z",
-      "description": "Jonna Andersson on Chelsea’s Barclays FA Women’s Super League win against Aston Villa, the title race and more…",
-      "matchId": 2236415
     }
   ]
 }
