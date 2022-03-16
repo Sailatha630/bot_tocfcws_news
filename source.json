@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 722,
+    "totalItems": 723,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220316chelsea-line-up-vs-lille",
+      "type": "NewsCard",
+      "timestamp": "2022-03-16T18:46:00.000Z",
+      "orderDate": "2022-03-16T18:46:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/16/chelsea-line-up-vs-lille",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Lille",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/chelsea-line-up-vs-lille.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-16T18:46:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/16/chelsea-line-up-vs-lille",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Alonso shirt",
+          "id": "editorial/match-reports/2021-22/lille-ucl-away/dressing-room-lille-a-alonso-shirt",
+          "gravity": "auto",
+          "aspectRatio": 1.5538695,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Lille",
+      "publishDate": "2022-03-16T18:46:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/chelsea-line-up-vs-lille.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-16T18:46:00.000Z",
+      "description": "Thomas Tuchel has made five changes to his team to face Lille in tonight's conclusion to our Champions League last-16 tie, with two wing-backs returning.",
+      "matchId": 2261865
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220316quiz--can-you-name-all-chelsea-s",
@@ -478,55 +527,6 @@
       ],
       "date": "2022-03-16T14:43:00.000Z",
       "description": "This Friday's memorial service to honour and celebrate the life and career of the great Peter Bonetti will take place at Stamford Bridge, with supporters who had already booked seats able to attend."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220316erin-cuthbert-on-her-return-from",
-      "type": "NewsCard",
-      "timestamp": "2022-03-16T10:15:00.000Z",
-      "orderDate": "2022-03-16T00:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/16/erin-cuthbert-on-her-return-from-injury--sunday-s-dramatic-win-a",
-        "type": "NewsCard",
-        "title": "Erin Cuthbert on her return from injury, Sunday’s dramatic win and looking ahead to tonight’s match!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/erin-cuthbert-on-her-return-from-injury--sunday-s-dramatic-win-a.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-16T10:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/16/erin-cuthbert-on-her-return-from-injury--sunday-s-dramatic-win-a",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Cuthbert-walk-out",
-          "gravity": "auto",
-          "aspectRatio": 1.5024407,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Erin Cuthbert on her return from injury, Sunday’s dramatic win and looking ahead to tonight’s match!",
-      "publishDate": "2022-03-16T10:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/erin-cuthbert-on-her-return-from-injury--sunday-s-dramatic-win-a.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-03-16T10:15:00.000Z",
-      "description": "Chelsea FC Women midfielder Erin Cuthbert says the team are ‘raring to go’ following Sunday’s last-gasp victory against Aston Villa as we prepare to face Everton in the Barclays FA Women’s Super League this evening.",
-      "matchId": 2236385
     }
   ]
 }
