@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 721,
+    "totalItems": 722,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
@@ -271,6 +271,70 @@
       "matchId": 2261865
     },
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220316under-18s-report---reading-chels",
+      "type": "NewsCard",
+      "timestamp": "2022-03-16T15:00:00.000Z",
+      "orderDate": "2022-03-16T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/16/under-18s-report---reading-chelsea",
+        "type": "NewsCard",
+        "title": "Under-18s report: Reading 2 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/under-18s-report---reading-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-16T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/16/under-18s-report---reading-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tudor Mendel Idowu battling for the ball",
+          "id": "editorial/match-reports/2021-22/reading-away-under-18s/PL_18_Reading_Tudor_Mendel-Idowu",
+          "gravity": "auto",
+          "aspectRatio": 1.5002143,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: Reading 2 Chelsea 2",
+      "publishDate": "2022-03-16T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/under-18s-report---reading-chelsea.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "U18 Premier League Cup ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_u18-premier-league-cup-"
+        },
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        }
+      ],
+      "date": "2022-03-16T15:00:00.000Z",
+      "description": "Our young Blues had to share the spoils today in a 2-2 draw against Reading, with Zain Silcott-Duberry and Leo Castledine getting on the scoresheet and seemingly turning the game around after we were a goal down. A penalty conceded late on prevented us from securing all three points."
+    },
+    {
       "contentType": "Tickets",
       "id": "_content_chelseafcennews20220316update-for-ticket-purchasers-for",
       "type": "NewsCard",
@@ -463,48 +527,6 @@
       "date": "2022-03-16T10:15:00.000Z",
       "description": "Chelsea FC Women midfielder Erin Cuthbert says the team are ‘raring to go’ following Sunday’s last-gasp victory against Aston Villa as we prepare to face Everton in the Barclays FA Women’s Super League this evening.",
       "matchId": 2236385
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220316chelsea-foundation-s-global-inte",
-      "type": "NewsCard",
-      "timestamp": "2022-03-16T14:50:00.000Z",
-      "orderDate": "2022-03-16T00:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/16/chelsea-foundation-s-global-international-women-s-day-celebratio",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation’s global International Women’s Day celebrations",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/chelsea-foundation-s-global-international-women-s-day-celebratio.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-16T14:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/16/chelsea-foundation-s-global-international-women-s-day-celebratio",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Singapore-IWD-article",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation’s global International Women’s Day celebrations",
-      "publishDate": "2022-03-16T14:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/chelsea-foundation-s-global-international-women-s-day-celebratio.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-03-16T14:50:00.000Z",
-      "description": "Last week, Chelsea FC Foundation celebrated International Women’s Day across the globe. Coach Moo Sin Zhen Hayes from Singapore talks us through her experience of being a woman in football…"
     }
   ]
 }
