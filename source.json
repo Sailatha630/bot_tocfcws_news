@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 725,
+    "totalItems": 726,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220316tuchel-reacts-to-lille-win",
+      "type": "NewsCard",
+      "timestamp": "2022-03-16T23:05:00.000Z",
+      "orderDate": "2022-03-16T23:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/16/tuchel-reacts-to-lille-win",
+        "type": "NewsCard",
+        "title": "Tuchel proud to be back in the Champions League quarter-finals and praises 'legend' Azpilicueta",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/tuchel-reacts-to-lille-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-16T23:05:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/16/tuchel-reacts-to-lille-win",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "chelsea-app/Tuchel-Lille-DTW_7680-619796",
+          "gravity": "north",
+          "aspectRatio": 1.1299847,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel proud to be back in the Champions League quarter-finals and praises 'legend' Azpilicueta",
+      "publishDate": "2022-03-16T23:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/tuchel-reacts-to-lille-win.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Lille",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_lille"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-16T23:05:00.000Z",
+      "description": "Thomas Tuchel was pleased that his Chelsea side were able to reward the travelling Blues fans in Lille with a victory and highlighted Cesar Azpilicueta as an example of what it takes to keep performing at the highest level of the sport regardless of the situation around you.",
+      "matchId": 2261865
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220316women-s-match-report--everton-vs",
@@ -485,55 +549,6 @@
       ],
       "date": "2022-03-16T15:00:00.000Z",
       "description": "Our young Blues had to share the spoils today in a 2-2 draw against Reading, with Zain Silcott-Duberry and Leo Castledine getting on the scoresheet and seemingly turning the game around after we were a goal down. A penalty conceded late on prevented us from securing all three points."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220316update-for-ticket-purchasers-for",
-      "type": "NewsCard",
-      "timestamp": "2022-03-16T13:47:00.000Z",
-      "orderDate": "2022-03-16T02:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/16/update-for-ticket-purchasers-for-middlesbrough-game",
-        "type": "NewsCard",
-        "title": "Update for ticket purchasers for Middlesbrough game",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/update-for-ticket-purchasers-for-middlesbrough-game.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-16T13:47:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/16/update-for-ticket-purchasers-for-middlesbrough-game",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Riverside Stadium",
-          "id": "cfc/news/latestnews/16/11/riverside-stadium-header-GettyImages-589068118",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Update for ticket purchasers for Middlesbrough game",
-      "publishDate": "2022-03-16T13:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/update-for-ticket-purchasers-for-middlesbrough-game.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-16T13:47:00.000Z",
-      "description": "Chelsea supporters who completed a ticket purchase from our visitors’ allocation for the Emirates FA Cup match at Middlesbrough are able to attend the game.",
-      "matchId": 2281143
     }
   ]
 }
