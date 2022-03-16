@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 712,
+    "totalItems": 713,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 72,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220316tuchel--how-lille-will-play-and-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-16T07:40:00.000Z",
+      "orderDate": "2022-03-16T07:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/16/tuchel--how-lille-will-play-and-how-mendy-keeps-it-calm",
+        "type": "NewsCard",
+        "title": "Tuchel: How Lille will play and how Mendy keeps it calm",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/tuchel--how-lille-will-play-and-how-mendy-keeps-it-calm.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-16T07:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/16/tuchel--how-lille-will-play-and-how-mendy-keeps-it-calm",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel on the touchline",
+          "id": "chelsea-app/Tuchel-GettyImages-1372196962",
+          "gravity": "auto",
+          "aspectRatio": 1.4992504,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: How Lille will play and how Mendy keeps it calm",
+      "publishDate": "2022-03-16T07:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/tuchel--how-lille-will-play-and-how-mendy-keeps-it-calm.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2022-03-16T07:40:00.000Z",
+      "description": "Thomas Tuchel and Edouard Mendy are two of several of the Chelsea travelling party with previous experience of playing away at Lille, and ahead of today’s Champions League match there, our head coach has been talking about our opposition and about his first-choice goalkeeper.",
+      "matchId": 2261865
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220316preview--lille-vs-chelsea",
@@ -478,55 +537,6 @@
       "date": "2022-03-15T04:00:00.000Z",
       "description": "Before Chelsea face Lille in the conclusion of our 16th Champions League round of 16 tie, test your knowledge of our recent matches at this stage of the competition.",
       "matchId": 2261865
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220315everton-women-vs-chelsea-women-p",
-      "type": "NewsCard",
-      "timestamp": "2022-03-15T15:00:00.000Z",
-      "orderDate": "2022-03-15T03:16:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/15/everton-women-vs-chelsea-women-preview--kick-off-time--how-to-wa",
-        "type": "NewsCard",
-        "title": "Everton Women vs Chelsea Women preview: Kick-off time, how to watch live and much more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/everton-women-vs-chelsea-women-preview--kick-off-time--how-to-wa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-15T15:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/15/everton-women-vs-chelsea-women-preview--kick-off-time--how-to-wa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Charles-Kerr-celebration-West-Ham",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Everton Women vs Chelsea Women preview: Kick-off time, how to watch live and much more!",
-      "publishDate": "2022-03-15T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/15/everton-women-vs-chelsea-women-preview--kick-off-time--how-to-wa.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-03-15T15:00:00.000Z",
-      "description": "Chelsea FC Women are back on the road with a trip to Everton tomorrow evening in the Barclays FA Women’s Super League.",
-      "matchId": 2236385
     }
   ]
 }
