@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 727,
+    "totalItems": 728,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 73,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220317pulisic-on-his-calming-goal--cha",
+      "type": "NewsCard",
+      "timestamp": "2022-03-17T04:00:00.000Z",
+      "orderDate": "2022-03-17T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/17/pulisic-on-his-calming-goal--changes-that-helped-and-our-quarter",
+        "type": "NewsCard",
+        "title": "Pulisic on his calming goal, changes that helped and our quarter-final position",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/17/pulisic-on-his-calming-goal--changes-that-helped-and-our-quarter.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-17T04:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/17/pulisic-on-his-calming-goal--changes-that-helped-and-our-quarter",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/lille-ucl-away/Pulisic_celeb_Lille_A",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic on his calming goal, changes that helped and our quarter-final position",
+      "publishDate": "2022-03-17T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/17/pulisic-on-his-calming-goal--changes-that-helped-and-our-quarter.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-17T04:00:00.000Z",
+      "description": "Christian Pulisic’s strong form continued with another goal to help us through to the Champions League quarter-finals and afterwards the forward reflected on the importance of his strike in helping to settle the tie at a decisive time.",
+      "matchId": 2261865
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220316tuchel-reacts-to-lille-win",
@@ -505,55 +559,6 @@
       ],
       "date": "2022-03-16T07:40:00.000Z",
       "description": "Thomas Tuchel and Edouard Mendy are two of several of the Chelsea travelling party with previous experience of playing away at Lille, and ahead of today’s Champions League match there, our head coach has been talking about our opposition and about his first-choice goalkeeper.",
-      "matchId": 2261865
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220316preview--lille-vs-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2022-03-16T03:30:00.000Z",
-      "orderDate": "2022-03-16T03:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/16/preview--lille-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Preview: Lille vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/preview--lille-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-16T03:30:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/03/16/preview--lille-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/02/25/havertz-lille-control",
-          "gravity": "north",
-          "aspectRatio": 1.436915,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Preview: Lille vs Chelsea",
-      "publishDate": "2022-03-16T03:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/preview--lille-vs-chelsea.html",
-      "readTimeInMins": 17,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-16T03:30:00.000Z",
-      "description": "The reigning European champions are in France, aiming to keep this season’s Champions League campaign on track when we play tonight’s round of 16 second leg match. Here we look at both teams and the current state of the competition overall…",
       "matchId": 2261865
     }
   ]
