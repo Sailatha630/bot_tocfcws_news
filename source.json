@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 734,
+    "totalItems": 735,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 74,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnists",
+      "id": "_content_chelseafcennews20220317petr-cech-column--remembering-pe",
+      "type": "NewsCard",
+      "timestamp": "2022-03-17T17:00:00.000Z",
+      "orderDate": "2022-03-17T17:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/17/petr-cech-column--remembering-peter-bonetti---the-brilliant-huma",
+        "type": "NewsCard",
+        "title": "Petr Cech column: Remembering Peter Bonetti, ‘the brilliant human behind the brilliant goalkeeper’, ahead of his special day",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/17/petr-cech-column--remembering-peter-bonetti---the-brilliant-huma.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-17T17:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/17/petr-cech-column--remembering-peter-bonetti---the-brilliant-huma",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Cech column",
+          "id": "editorial/news/2021/09/10/Petr_Cech_Column_Article_Hero",
+          "gravity": "north",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Petr Cech column: Remembering Peter Bonetti, ‘the brilliant human behind the brilliant goalkeeper’, ahead of his special day",
+      "publishDate": "2022-03-17T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/17/petr-cech-column--remembering-peter-bonetti---the-brilliant-huma.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Petr Cech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_petr-cech"
+        },
+        {
+          "title": "Peter Bonetti",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_peter-bonetti"
+        }
+      ],
+      "date": "2022-03-17T17:00:00.000Z",
+      "description": "Petr Cech uses his latest weekly column to pay tribute to the late, great Peter Bonetti as Stamford Bridge prepares to say one final goodbye to our former goalkeeper at a memorial service on Friday."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220317alonso-pleased-with--professiona",
@@ -512,60 +560,6 @@
       ],
       "date": "2022-03-17T13:42:00.000Z",
       "description": "It was all smiles at the training ground when Chelsea FC Foundation hosted another Community Day at Cobham."
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220316match-report--lille-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2022-03-16T21:30:00.000Z",
-      "orderDate": "2022-03-16T21:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/16/match-report--lille-chelsea",
-        "type": "NewsCard",
-        "title": "Match report: Lille 1 Chelsea 2 (Chelsea win 4-1 on aggregate)",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/match-report--lille-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-16T21:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/16/match-report--lille-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Azpilicueta and Mount",
-          "id": "editorial/match-reports/2021-22/lille-ucl-away/Azpilicueta_Mount_Lille_A_2",
-          "gravity": "north",
-          "aspectRatio": 1.4993925,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Lille 1 Chelsea 2 (Chelsea win 4-1 on aggregate)",
-      "publishDate": "2022-03-16T21:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/match-report--lille-chelsea.html",
-      "readTimeInMins": 20,
-      "tags": [
-        {
-          "title": "Lille",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_lille"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-16T21:30:00.000Z",
-      "description": "Chelsea booked our place in the quarter-finals of the Champions League with a 2-1 away win over Lille in the second leg of our last-16 tie, completing a 4-1 victory on aggregate.",
-      "matchId": 2261865
     }
   ]
 }
