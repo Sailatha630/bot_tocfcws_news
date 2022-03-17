@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 730,
+    "totalItems": 731,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 73,
+    "pageCount": 74,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220317alonso-pleased-with--professiona",
+      "type": "NewsCard",
+      "timestamp": "2022-03-17T12:59:00.000Z",
+      "orderDate": "2022-03-17T12:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/17/alonso-pleased-with--professional--job-on-milestone-chelsea-appe",
+        "type": "NewsCard",
+        "title": "Alonso pleased with ‘professional’ job on milestone Chelsea appearance",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/17/alonso-pleased-with--professional--job-on-milestone-chelsea-appe.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-17T12:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/17/alonso-pleased-with--professional--job-on-milestone-chelsea-appe",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/lille-ucl-away/Alonso-Lille-away-2",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Alonso pleased with ‘professional’ job on milestone Chelsea appearance",
+      "publishDate": "2022-03-17T12:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/17/alonso-pleased-with--professional--job-on-milestone-chelsea-appe.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2022-03-17T12:59:00.000Z",
+      "description": "Marcos Alonso has praised the professionalism of his Chelsea team-mates for securing an impressive Champions League win at Lille in difficult circumstances.",
+      "matchId": 2261865
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220317pulisic-on-his-calming-goal--cha",
@@ -494,64 +548,6 @@
       ],
       "date": "2022-03-16T15:18:00.000Z",
       "description": "Chelsea are back in Champions League action tonight as we take on Lille in the second leg of this season's last 16, but can your remember the 12 other teams we have faced at this stage of the competition?",
-      "matchId": 2261865
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220316havertz-on-how-his-early-setback",
-      "type": "NewsCard",
-      "timestamp": "2022-03-16T13:00:00.000Z",
-      "orderDate": "2022-03-16T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/16/havertz-on-how-his-early-setbacks-helped-him-hit-top-form",
-        "type": "NewsCard",
-        "title": "Havertz explains how early set-backs helped him hit top form",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/havertz-on-how-his-early-setbacks-helped-him-hit-top-form.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-16T13:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/16/havertz-on-how-his-early-setbacks-helped-him-hit-top-form",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Havertz-CL2_1502-613464",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz explains how early set-backs helped him hit top form",
-      "publishDate": "2022-03-16T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/16/havertz-on-how-his-early-setbacks-helped-him-hit-top-form.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Lille",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_lille"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-16T13:00:00.000Z",
-      "description": "Kai Havertz is pleased with his excellent recent form for Chelsea, but feels it wouldn’t have been possible without learning from the difficult moments he has come through at the club and identified consistency as the next step in his progress.",
       "matchId": 2261865
     }
   ]
