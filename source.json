@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 743,
+    "totalItems": 744,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 75,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220318dates-and-switch-confirmed-for-r",
+      "type": "NewsCard",
+      "timestamp": "2022-03-18T13:35:00.000Z",
+      "orderDate": "2022-03-18T13:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/18/dates-and-switch-confirmed-for-real-madrid-tie",
+        "type": "NewsCard",
+        "title": "Dates confirmed for Real Madrid tie",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/dates-and-switch-confirmed-for-real-madrid-tie.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-18T13:35:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/18/dates-and-switch-confirmed-for-real-madrid-tie",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Quarter-final draw",
+          "id": "editorial/news/2022/03/18/champions_league_draw_bowl_quarter-finals",
+          "gravity": "auto",
+          "aspectRatio": 1.4998665,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Dates confirmed for Real Madrid tie",
+      "publishDate": "2022-03-18T13:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/dates-and-switch-confirmed-for-real-madrid-tie.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-03-18T13:35:00.000Z",
+      "description": "The dates of our Champions League quarter-final tie against Real Madrid have been announced."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220318tuchel-fa-cup-press-conference-a",
@@ -30,7 +78,7 @@
         "image": {
           "type": "ImageCloudinary",
           "alt": " ",
-          "id": "editorial/news/2022/01/07/tuchel-fa-cup-press-conference-stock",
+          "id": "editorial/news/2022/03/18/Tuchel-press-conf-pre-Middlesbrough",
           "gravity": "auto",
           "aspectRatio": 1.5,
           "cropMode": "fill"
@@ -459,48 +507,6 @@
       ],
       "date": "2022-03-17T09:26:00.000Z",
       "description": "Chelsea advanced into the Champions League quarter-finals for the second successive season last night by beating Lille 4-1 on aggregate. You can find out all you need to know ahead of the draw for the last-eight in our fact file below…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220318a-pioneering-relationship--how-o",
-      "type": "NewsCard",
-      "timestamp": "2022-03-18T10:00:00.000Z",
-      "orderDate": "2022-03-17T16:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/18/a-pioneering-relationship--how-orreco-and-chelsea-fc-women-work-",
-        "type": "NewsCard",
-        "title": "A pioneering relationship: How Orreco and Chelsea FC Women work together",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/a-pioneering-relationship--how-orreco-and-chelsea-fc-women-work-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-18T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/18/a-pioneering-relationship--how-orreco-and-chelsea-fc-women-work-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Cuthbert_Fleming_celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.499526,
-          "cropMode": "fill"
-        }
-      },
-      "content": "A pioneering relationship: How Orreco and Chelsea FC Women work together",
-      "publishDate": "2022-03-18T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/a-pioneering-relationship--how-orreco-and-chelsea-fc-women-work-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-03-18T10:00:00.000Z",
-      "description": "It was early in 2020 when Chelsea FC Women revealed the club were using Orreco’s FitrWoman app to monitor their players’ menstrual cycles to help enhance performance and reduce injuries."
     }
   ]
 }
