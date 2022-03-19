@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 753,
+    "totalItems": 754,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 76,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220319chelsea-line-up-vs-middlesbrough",
+      "type": "NewsCard",
+      "timestamp": "2022-03-19T16:15:00.000Z",
+      "orderDate": "2022-03-19T16:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/19/chelsea-line-up-vs-middlesbrough",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Middlesbrough",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/chelsea-line-up-vs-middlesbrough.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-19T16:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/19/chelsea-line-up-vs-middlesbrough",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Boro dressing room",
+          "id": "editorial/match-reports/2021-22/boro-fa-cup/boro-a-dressing-room",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Middlesbrough",
+      "publishDate": "2022-03-19T16:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/chelsea-line-up-vs-middlesbrough.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        }
+      ],
+      "date": "2022-03-19T16:15:00.000Z",
+      "description": "There are five changes to the Chelsea team for today’s FA Cup quarter-final at Middlesbrough.",
+      "matchId": 2281143
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220319tuchel-impressed-but-not-surpris",
@@ -453,59 +507,6 @@
       ],
       "date": "2022-03-18T13:35:00.000Z",
       "description": "The dates of our Champions League quarter-final tie against Real Madrid have been announced."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220318tuchel-reacts-to-champions-leagu",
-      "type": "NewsCard",
-      "timestamp": "2022-03-18T11:57:00.000Z",
-      "orderDate": "2022-03-18T11:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/18/tuchel-reacts-to-champions-league-quarter-final-tie-with-real-ma",
-        "type": "NewsCard",
-        "title": "Tuchel reacts to Champions League quarter-final tie with Real Madrid",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/tuchel-reacts-to-champions-league-quarter-final-tie-with-real-ma.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-18T11:57:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/18/tuchel-reacts-to-champions-league-quarter-final-tie-with-real-ma",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/05/05/tuchel-zidane-first-leg",
-          "gravity": "auto",
-          "aspectRatio": 1.3857543,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reacts to Champions League quarter-final tie with Real Madrid",
-      "publishDate": "2022-03-18T11:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/tuchel-reacts-to-champions-league-quarter-final-tie-with-real-ma.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-18T11:57:00.000Z",
-      "description": "Thomas Tuchel has expressed his excitement ahead of facing Real Madrid in the Champions League quarter-finals after this morning's draw."
     }
   ]
 }
