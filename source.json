@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 749,
+    "totalItems": 750,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 75,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220319blues-bulletin--middlesbrough-vs",
+      "type": "NewsCard",
+      "timestamp": "2022-03-19T11:00:00.000Z",
+      "orderDate": "2022-03-19T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/19/blues-bulletin--middlesbrough-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Middlesbrough vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/blues-bulletin--middlesbrough-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-19T11:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/19/blues-bulletin--middlesbrough-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Middlesbrough 97 Cup final",
+          "id": "editorial/news/2021/05/14/sinclair_fa_cup_1997",
+          "gravity": "auto",
+          "aspectRatio": 1.1521739,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Middlesbrough vs Chelsea",
+      "publishDate": "2022-03-19T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/blues-bulletin--middlesbrough-vs-chelsea.html",
+      "readTimeInMins": 31,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-19T11:00:00.000Z",
+      "description": "Chelsea and Middlesbrough have a rich FA Cup history and here we look at that as well as the other notable stats and facts ahead of today's quarter-final tie...",
+      "matchId": 2281143
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220319tuchel-discusses-his-future-and-",
@@ -452,60 +501,6 @@
       ],
       "date": "2022-03-18T12:51:00.000Z",
       "description": "Chelsea FC Women host Birmingham City in the quarter-final of the Vitality Women’s FA Cup on Sunday afternoon and everything you need to know ahead of that fixture can be found here in our preview…",
-      "matchId": 2281020
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220318emma-hayes--we-feel-strong-in-ou",
-      "type": "NewsCard",
-      "timestamp": "2022-03-18T17:30:00.000Z",
-      "orderDate": "2022-03-18T10:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/18/emma-hayes--we-feel-strong-in-ourselves",
-        "type": "NewsCard",
-        "title": "Emma Hayes: We feel strong in ourselves",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/emma-hayes--we-feel-strong-in-ourselves.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-18T17:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/18/emma-hayes--we-feel-strong-in-ourselves",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Hayes-LCFC-preview",
-          "gravity": "auto",
-          "aspectRatio": 1.5022436,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emma Hayes: We feel strong in ourselves",
-      "publishDate": "2022-03-18T17:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/emma-hayes--we-feel-strong-in-ourselves.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        }
-      ],
-      "date": "2022-03-18T17:30:00.000Z",
-      "description": "Chelsea FC Women boss Emma Hayes spoke to the media ahead of Sunday’s Vitality Women’s FA Cup quarter-final clash against Birmingham City.",
       "matchId": 2281020
     }
   ]
