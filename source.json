@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 748,
+    "totalItems": 749,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 75,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220319tuchel-discusses-his-future-and-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-19T07:36:00.000Z",
+      "orderDate": "2022-03-19T07:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/19/tuchel-discusses-his-future-and-hopes-for-working-with-new-owner",
+        "type": "NewsCard",
+        "title": "Tuchel discusses his future and hopes for working with new owners",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/tuchel-discusses-his-future-and-hopes-for-working-with-new-owner.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-19T07:36:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/19/tuchel-discusses-his-future-and-hopes-for-working-with-new-owner",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2022/03/18/Tuchel_DAZ_3736",
+          "gravity": "face",
+          "aspectRatio": 1.5004052,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel discusses his future and hopes for working with new owners",
+      "publishDate": "2022-03-19T07:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/tuchel-discusses-his-future-and-hopes-for-working-with-new-owner.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-19T07:36:00.000Z",
+      "description": "Thomas Tuchel remains in no doubt that Chelsea is the right club for him and is looking forward to the challenge of proving himself all over again to any potential new owners.",
+      "matchId": 2281143
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220319preview--middlesbrough-vs-chelse",
@@ -458,64 +507,6 @@
       "date": "2022-03-18T17:30:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes spoke to the media ahead of Sunday’s Vitality Women’s FA Cup quarter-final clash against Birmingham City.",
       "matchId": 2281020
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220318azpi-pleased-to-help-the-team-an",
-      "type": "NewsCard",
-      "timestamp": "2022-03-18T02:05:00.000Z",
-      "orderDate": "2022-03-18T02:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/18/azpi-pleased-to-help-the-team-and-demands-focus-for-the-next-cha",
-        "type": "NewsCard",
-        "title": "Azpilicueta pleased to help the team and demands focus for the next challenge",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/azpi-pleased-to-help-the-team-and-demands-focus-for-the-next-cha.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-18T02:05:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/18/azpi-pleased-to-help-the-team-and-demands-focus-for-the-next-cha",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2021-22/lille-ucl-away/Azpilicueta_celeb_Lille_A",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta pleased to help the team and demands focus for the next challenge",
-      "publishDate": "2022-03-18T02:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/azpi-pleased-to-help-the-team-and-demands-focus-for-the-next-cha.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2022-03-18T02:05:00.000Z",
-      "description": "Cesar Azpilicueta marked his return to the Chelsea starting line-up with the winning goal as we defeated Lille to reach the quarter-finals of the Champions League – even if the skipper admits there was an element of fortuity to his match-winning strike!",
-      "matchId": 2261865
     }
   ]
 }
