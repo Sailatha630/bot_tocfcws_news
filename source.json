@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 754,
+    "totalItems": 755,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 76,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220319match-report--middlesbrough-vs-c",
+      "type": "NewsCard",
+      "timestamp": "2022-03-19T19:11:00.000Z",
+      "orderDate": "2022-03-19T19:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/19/match-report--middlesbrough-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Middlesbrough 0 Chelsea 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/match-report--middlesbrough-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-19T19:11:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/19/match-report--middlesbrough-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " celebs",
+          "id": "editorial/match-reports/2021-22/boro-fa-cup/Goal-celebrations-Boro-away",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Middlesbrough 0 Chelsea 2",
+      "publishDate": "2022-03-19T19:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/match-report--middlesbrough-vs-chelsea.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-19T19:11:00.000Z",
+      "description": "Chelsea are into the FA Cup semi-final for the fifth time in the past six seasons courtesy of an excellent performance at Middlesbrough and fine first-half goals from Romelu Lukaku and Hakim Ziyech.",
+      "matchId": 2281143
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220319chelsea-line-up-vs-middlesbrough",
@@ -459,54 +508,6 @@
       ],
       "date": "2022-03-18T19:43:00.000Z",
       "description": "A memorial service was held on Friday with our legendary goalkeeper’s ashes interred…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220318dates-and-switch-confirmed-for-r",
-      "type": "NewsCard",
-      "timestamp": "2022-03-18T13:35:00.000Z",
-      "orderDate": "2022-03-18T13:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/18/dates-and-switch-confirmed-for-real-madrid-tie",
-        "type": "NewsCard",
-        "title": "Dates confirmed for Real Madrid tie",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/dates-and-switch-confirmed-for-real-madrid-tie.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-18T13:35:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/18/dates-and-switch-confirmed-for-real-madrid-tie",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Quarter-final draw",
-          "id": "editorial/news/2022/03/18/champions_league_draw_bowl_quarter-finals",
-          "gravity": "auto",
-          "aspectRatio": 1.4998665,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Dates confirmed for Real Madrid tie",
-      "publishDate": "2022-03-18T13:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/dates-and-switch-confirmed-for-real-madrid-tie.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-18T13:35:00.000Z",
-      "description": "The dates of our Champions League quarter-final tie against Real Madrid have been announced."
     }
   ]
 }
