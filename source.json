@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 747,
+    "totalItems": 748,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 75,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220319preview--middlesbrough-vs-chelse",
+      "type": "NewsCard",
+      "timestamp": "2022-03-19T03:49:00.000Z",
+      "orderDate": "2022-03-19T03:49:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/19/preview--middlesbrough-vs-chelsea-",
+        "type": "NewsCard",
+        "title": "Preview: Middlesbrough vs Chelsea ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/preview--middlesbrough-vs-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-19T03:49:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/03/19/preview--middlesbrough-vs-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Riverside Stadium",
+          "id": "editorial/news/2022/03/18/riverside_view_middlesbrough",
+          "gravity": "auto",
+          "aspectRatio": 2.5351505,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Preview: Middlesbrough vs Chelsea ",
+      "publishDate": "2022-03-19T03:49:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/preview--middlesbrough-vs-chelsea-.html",
+      "readTimeInMins": 20,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-19T03:49:00.000Z",
+      "description": "The FA Cup keeps the Blues and seven other teams busy this weekend and here we look at our sixth-round tie, both teams’ form and back at some past encounters, including a very famous one…",
+      "matchId": 2281143
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220318tuchel-fa-cup-press-conference-a",
@@ -467,53 +516,6 @@
       "date": "2022-03-18T02:05:00.000Z",
       "description": "Cesar Azpilicueta marked his return to the Chelsea starting line-up with the winning goal as we defeated Lille to reach the quarter-finals of the Champions League – even if the skipper admits there was an element of fortuity to his match-winning strike!",
       "matchId": 2261865
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220318quiz--can-you-name-chelsea-s-top",
-      "type": "NewsCard",
-      "timestamp": "2022-03-18T02:08:00.000Z",
-      "orderDate": "2022-03-18T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/18/quiz--can-you-name-chelsea-s-top-overseas-appearance-makers-",
-        "type": "NewsCard",
-        "title": "Quiz: Can you name Chelsea's top overseas appearance-makers?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/quiz--can-you-name-chelsea-s-top-overseas-appearance-makers-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-18T02:08:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/18/quiz--can-you-name-chelsea-s-top-overseas-appearance-makers-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Alonso-Premier-league-trophy-GettyImages-686391078",
-          "gravity": "auto",
-          "aspectRatio": 1.5586061,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Can you name Chelsea's top overseas appearance-makers?",
-      "publishDate": "2022-03-18T02:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/18/quiz--can-you-name-chelsea-s-top-overseas-appearance-makers-.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2022-03-18T02:08:00.000Z",
-      "description": "After Marcos Alonso joined Chelsea's 200 club in midweek with a milestone appearance in our Champions League win over Lille, we have a quiz to test your knowledge of our other top appearance-makers from overseas..."
     }
   ]
 }
