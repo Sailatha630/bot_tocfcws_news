@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 763,
+    "totalItems": 764,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 77,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220320women-s-match-report--chelsea-vs",
+      "type": "NewsCard",
+      "timestamp": "2022-03-20T15:55:00.000Z",
+      "orderDate": "2022-03-20T15:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/20/women-s-match-report--chelsea-vs-birmingham-city",
+        "type": "NewsCard",
+        "title": "Women's match report: Chelsea 5 Birmingham City 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/women-s-match-report--chelsea-vs-birmingham-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-20T15:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/20/women-s-match-report--chelsea-vs-birmingham-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Magda-celebration-vs-Birmingham-FA-Cup",
+          "gravity": "auto",
+          "aspectRatio": 1.5026959,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women's match report: Chelsea 5 Birmingham City 0",
+      "publishDate": "2022-03-20T15:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/women-s-match-report--chelsea-vs-birmingham-city.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Birmingham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_birmingham"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2022-03-20T15:55:00.000Z",
+      "description": "Chelsea FC Women are through to the semi-finals of the Vitality Women’s FA Cup after a convincing win at Kingsmeadow this afternoon…",
+      "matchId": 2281020
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220320the-debrief--a-tale-of-two-diffe",
@@ -490,60 +544,6 @@
       ],
       "date": "2022-03-19T19:11:00.000Z",
       "description": "Chelsea are into the FA Cup semi-final for the fifth time in the past six seasons courtesy of an excellent performance at Middlesbrough and fine first-half team goals finished by Romelu Lukaku and Hakim Ziyech.",
-      "matchId": 2281143
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220319chelsea-line-up-vs-middlesbrough",
-      "type": "NewsCard",
-      "timestamp": "2022-03-19T16:15:00.000Z",
-      "orderDate": "2022-03-19T16:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/19/chelsea-line-up-vs-middlesbrough",
-        "type": "NewsCard",
-        "title": "Chelsea line up vs Middlesbrough",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/chelsea-line-up-vs-middlesbrough.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-19T16:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/19/chelsea-line-up-vs-middlesbrough",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Boro dressing room",
-          "id": "editorial/match-reports/2021-22/boro-fa-cup/boro-a-dressing-room",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea line up vs Middlesbrough",
-      "publishDate": "2022-03-19T16:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/chelsea-line-up-vs-middlesbrough.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Team News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_team-news"
-        }
-      ],
-      "date": "2022-03-19T16:15:00.000Z",
-      "description": "There are five changes to the Chelsea team for today’s FA Cup quarter-final at Middlesbrough.",
       "matchId": 2281143
     }
   ]
