@@ -1,12 +1,77 @@
 {
   "pagination": {
-    "totalItems": 760,
+    "totalItems": 761,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 76,
+    "pageCount": 77,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220320watch-highlights-of-chelsea-s-fa",
+      "type": "NewsCard",
+      "timestamp": "2022-03-20T11:59:00.000Z",
+      "orderDate": "2022-03-20T11:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/20/watch-highlights-of-chelsea-s-fa-cup-win",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea's FA Cup win",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/watch-highlights-of-chelsea-s-fa-cup-win.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-20T11:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/20/watch-highlights-of-chelsea-s-fa-cup-win",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Extended: Middlesbrough 0-2 Chelsea (A) | FA Cup Highlights",
+          "videoId": "he1nRLzH",
+          "bucket": "prod-cfc",
+          "description": "Watch extended highlights as Chelsea took on Middlesbrough at The Riverside Stadium in the FA Cup.",
+          "duration": 443000,
+          "date": "2022-03-19T22:36:36.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/he1nRLzH/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/watch-highlights-of-chelsea-s-fa-cup-win.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/03/20/watch-highlights-of-chelsea-s-fa-cup-win?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/03/20/watch-highlights-of-chelsea-s-fa-cup-win",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Watch extended highlights as Chelsea took on Middlesbrough at The Riverside Stadium in the FA Cup."
+      },
+      "content": "Watch highlights of Chelsea's FA Cup win",
+      "publishDate": "2022-03-20T11:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/watch-highlights-of-chelsea-s-fa-cup-win.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-20T11:59:00.000Z",
+      "description": "Two first-half goals on Saturday were sufficient to progress to this year's semi-finals and you can enjoy those and more now.",
+      "matchId": 2281143
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220320mount-on-our-football-doing-the-",
@@ -457,55 +522,6 @@
       ],
       "date": "2022-03-19T13:11:00.000Z",
       "description": "Ahead of our latest meeting with Middlesbrough in the FA Cup, do you think you know who started a famous victory against them at Wembley quarter-of-a-century ago?",
-      "matchId": 2281143
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220319blues-bulletin--middlesbrough-vs",
-      "type": "NewsCard",
-      "timestamp": "2022-03-19T11:00:00.000Z",
-      "orderDate": "2022-03-19T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/19/blues-bulletin--middlesbrough-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Middlesbrough vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/blues-bulletin--middlesbrough-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-19T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/19/blues-bulletin--middlesbrough-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Middlesbrough 97 Cup final",
-          "id": "editorial/news/2021/05/14/sinclair_fa_cup_1997",
-          "gravity": "auto",
-          "aspectRatio": 1.1521739,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Middlesbrough vs Chelsea",
-      "publishDate": "2022-03-19T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/blues-bulletin--middlesbrough-vs-chelsea.html",
-      "readTimeInMins": 31,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-19T11:00:00.000Z",
-      "description": "Chelsea and Middlesbrough have a rich FA Cup history and here we look at that as well as the other notable stats and facts ahead of today's quarter-final tie...",
       "matchId": 2281143
     }
   ]
