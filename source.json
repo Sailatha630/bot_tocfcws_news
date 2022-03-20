@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 761,
+    "totalItems": 762,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 77,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220320the-debrief--a-tale-of-two-diffe",
+      "type": "NewsCard",
+      "timestamp": "2022-03-20T13:06:00.000Z",
+      "orderDate": "2022-03-20T13:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/20/the-debrief--a-tale-of-two-different-right-flanks--as-mount--luk",
+        "type": "NewsCard",
+        "title": "The Debrief: A tale of two different right flanks, as Mount, Lukaku and Azpi add to totals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/the-debrief--a-tale-of-two-different-right-flanks--as-mount--luk.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-20T13:06:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/20/the-debrief--a-tale-of-two-different-right-flanks--as-mount--luk",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/03/20/Debrief_middlesbrough_5",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: A tale of two different right flanks, as Mount, Lukaku and Azpi add to totals",
+      "publishDate": "2022-03-20T13:06:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/the-debrief--a-tale-of-two-different-right-flanks--as-mount--luk.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-20T13:06:00.000Z",
+      "description": "Following the Blues 2-0 win at Boro and two fine press-busting goals, we look at some of the data behind the FA Cup victory…",
+      "matchId": 2281143
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220320watch-highlights-of-chelsea-s-fa",
@@ -479,49 +528,6 @@
       ],
       "date": "2022-03-19T13:09:00.000Z",
       "description": "Thomas Tuchel says he never had any doubts about the mental strength his players would show during this testing period for the club, given the professional and focused mindset at the club and abundance of leaders within the squad.",
-      "matchId": 2281143
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220319quiz--can-you-remember-the-1997-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-19T13:11:00.000Z",
-      "orderDate": "2022-03-19T12:31:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/19/quiz--can-you-remember-the-1997-fa-cup-final-starting-11-",
-        "type": "NewsCard",
-        "title": "Quiz! Can you remember the 1997 FA Cup final starting 11?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/quiz--can-you-remember-the-1997-fa-cup-final-starting-11-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-19T13:11:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/19/quiz--can-you-remember-the-1997-fa-cup-final-starting-11-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/blogs-and-columns/2017-18/wembley_1997_fans-102887671",
-          "gravity": "auto",
-          "aspectRatio": 1.6556292,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz! Can you remember the 1997 FA Cup final starting 11?",
-      "publishDate": "2022-03-19T13:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/quiz--can-you-remember-the-1997-fa-cup-final-starting-11-.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-03-19T13:11:00.000Z",
-      "description": "Ahead of our latest meeting with Middlesbrough in the FA Cup, do you think you know who started a famous victory against them at Wembley quarter-of-a-century ago?",
       "matchId": 2281143
     }
   ]
