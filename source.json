@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 764,
+    "totalItems": 765,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 77,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220320fa-cup-semi-final-draw",
+      "type": "NewsCard",
+      "timestamp": "2022-03-20T17:30:00.000Z",
+      "orderDate": "2022-03-20T17:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/20/fa-cup-semi-final-draw",
+        "type": "NewsCard",
+        "title": "FA Cup semi-final draw news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/fa-cup-semi-final-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-20T17:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/20/fa-cup-semi-final-draw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " The FA Cup trophy",
+          "id": "editorial/news/2021/04/28/FA_CUP_trophy_stock_outside_wembley",
+          "gravity": "auto",
+          "aspectRatio": 1.502439,
+          "cropMode": "fill"
+        }
+      },
+      "content": "FA Cup semi-final draw news",
+      "publishDate": "2022-03-20T17:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/fa-cup-semi-final-draw.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-20T17:30:00.000Z",
+      "description": "Chelsea have been drawn to play Crystal Palace in the final-four stage of this season’s FA Cup."
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220320women-s-match-report--chelsea-vs",
@@ -495,55 +543,6 @@
       ],
       "date": "2022-03-19T19:53:00.000Z",
       "description": "After watching his side book their place in the FA Cup semi-finals with a sixth straight win in all competitions, Thomas Tuchel praised another focused performance from his players and a deserved win at Middlesbrough.",
-      "matchId": 2281143
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220319match-report--middlesbrough-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2022-03-19T19:11:00.000Z",
-      "orderDate": "2022-03-19T19:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/19/match-report--middlesbrough-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match Report: Middlesbrough 0 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/match-report--middlesbrough-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-19T19:11:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/19/match-report--middlesbrough-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " celebs",
-          "id": "editorial/match-reports/2021-22/boro-fa-cup/Goal-celebrations-Boro-away",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Middlesbrough 0 Chelsea 2",
-      "publishDate": "2022-03-19T19:11:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/match-report--middlesbrough-vs-chelsea.html",
-      "readTimeInMins": 21,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-19T19:11:00.000Z",
-      "description": "Chelsea are into the FA Cup semi-final for the fifth time in the past six seasons courtesy of an excellent performance at Middlesbrough and fine first-half team goals finished by Romelu Lukaku and Hakim Ziyech.",
       "matchId": 2281143
     }
   ]
