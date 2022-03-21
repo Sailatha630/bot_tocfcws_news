@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 770,
+    "totalItems": 771,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 77,
+    "pageCount": 78,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220321ziyech--a-perfect-goal",
+      "type": "NewsCard",
+      "timestamp": "2022-03-21T16:00:00.000Z",
+      "orderDate": "2022-03-21T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/21/ziyech--a-perfect-goal",
+        "type": "NewsCard",
+        "title": "Ziyech: A perfect goal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/ziyech--a-perfect-goal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-21T16:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/21/ziyech--a-perfect-goal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hakim Ziyech",
+          "id": "editorial/news/2022/03/21/ziyech_middlesbrough",
+          "gravity": "auto",
+          "aspectRatio": 1.6210938,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech: A perfect goal",
+      "publishDate": "2022-03-21T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/ziyech--a-perfect-goal.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2022-03-21T16:00:00.000Z",
+      "description": "The fact it was scored on his 29th birthday no doubt added some gloss to Hakim Ziyech’s FA Cup strike at Middlesbrough at the weekend, but it was the way the move unfolded that made the winger especially pleased as he looked back on an impressive goal.",
+      "matchId": 2281143
+    },
     {
       "contentType": "History",
       "id": "_content_chelseafcennews20220321many-happy-returns---the-blues--",
@@ -487,60 +541,6 @@
       ],
       "date": "2022-03-20T11:59:00.000Z",
       "description": "Two first-half goals on Saturday were sufficient to progress to this year's semi-finals and you can enjoy those and more now.",
-      "matchId": 2281143
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220320mount-on-our-football-doing-the-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-20T04:00:00.000Z",
-      "orderDate": "2022-03-20T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/20/mount-on-our-football-doing-the-talking-and-chelsea-s-hunger-for",
-        "type": "NewsCard",
-        "title": "Mount on our football doing the talking and Chelsea’s hunger for a domestic title ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/mount-on-our-football-doing-the-talking-and-chelsea-s-hunger-for.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-20T04:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/20/mount-on-our-football-doing-the-talking-and-chelsea-s-hunger-for",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mason Mount",
-          "id": "editorial/match-reports/2021-22/boro-fa-cup/mount-FT-boro-away",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount on our football doing the talking and Chelsea’s hunger for a domestic title ",
-      "publishDate": "2022-03-20T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/mount-on-our-football-doing-the-talking-and-chelsea-s-hunger-for.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2022-03-20T04:00:00.000Z",
-      "description": "Mason Mount, central to so much of our best work in Middlesbrough yesterday, is proud of the way the team are delivering on the pitch while ignoring the noise off it.",
       "matchId": 2281143
     }
   ]
