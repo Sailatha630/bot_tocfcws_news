@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 772,
+    "totalItems": 773,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 78,
@@ -133,7 +133,7 @@
           "type": "ImageCloudinary",
           "alt": " Ziyech and Mount",
           "id": "chelsea-app/Mount-Ziyech-Boro-DTW_8312-625832",
-          "gravity": "auto",
+          "gravity": "north",
           "aspectRatio": 1.5,
           "cropMode": "fill",
           "isFullScale": true
@@ -167,6 +167,55 @@
       ],
       "date": "2022-03-21T10:53:00.000Z",
       "description": "Hakim Ziyech added his name to the list of players who have scored for Chelsea on their birthdays when he found the net at Middlesbrough on Saturday."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220321bethany-england-reflects-on-a--g",
+      "type": "NewsCard",
+      "timestamp": "2022-03-21T16:25:00.000Z",
+      "orderDate": "2022-03-21T10:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/21/bethany-england-reflects-on-a--good-day-in-the-office--as-chelse",
+        "type": "NewsCard",
+        "title": "England reflects on a ‘good day in the office’ as Chelsea Women progress to FA Cup semi",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/bethany-england-reflects-on-a--good-day-in-the-office--as-chelse.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-21T16:25:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/21/bethany-england-reflects-on-a--good-day-in-the-office--as-chelse",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/England-celebration-Birmingham-FA-Cup",
+          "gravity": "auto",
+          "aspectRatio": 1.500138,
+          "cropMode": "fill"
+        }
+      },
+      "content": "England reflects on a ‘good day in the office’ as Chelsea Women progress to FA Cup semi",
+      "publishDate": "2022-03-21T16:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/bethany-england-reflects-on-a--good-day-in-the-office--as-chelse.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        }
+      ],
+      "date": "2022-03-21T16:25:00.000Z",
+      "description": "Bethany England scored a brace in our 5-0 thrashing of Birmingham City in the Vitality Women’s FA Cup on Sunday, and the striker has reflected on the dominant performance…",
+      "matchId": 2281020
     },
     {
       "contentType": "On Loan",
@@ -471,60 +520,6 @@
       "date": "2022-03-20T13:06:00.000Z",
       "description": "Following the Blues 2-0 win at Boro and two fine press-busting goals, we look at some of the data behind the FA Cup victory…",
       "matchId": 2281143
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220320women-s-match-report--chelsea-vs",
-      "type": "NewsCard",
-      "timestamp": "2022-03-20T15:55:00.000Z",
-      "orderDate": "2022-03-20T15:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/20/women-s-match-report--chelsea-vs-birmingham-city",
-        "type": "NewsCard",
-        "title": "Women's match report: Chelsea 5 Birmingham City 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/women-s-match-report--chelsea-vs-birmingham-city.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-20T15:55:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/20/women-s-match-report--chelsea-vs-birmingham-city",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Magda-celebration-vs-Birmingham-FA-Cup",
-          "gravity": "auto",
-          "aspectRatio": 1.5026959,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women's match report: Chelsea 5 Birmingham City 0",
-      "publishDate": "2022-03-20T15:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/women-s-match-report--chelsea-vs-birmingham-city.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Birmingham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_birmingham"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        }
-      ],
-      "date": "2022-03-20T15:55:00.000Z",
-      "description": "Chelsea FC Women are through to the semi-finals of the Vitality Women’s FA Cup after a convincing win at Kingsmeadow this afternoon…",
-      "matchId": 2281020
     }
   ]
 }
