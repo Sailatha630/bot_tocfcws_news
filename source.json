@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 769,
+    "totalItems": 770,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 77,
@@ -230,6 +230,48 @@
       "date": "2022-03-21T09:15:00.000Z",
       "description": "Chelsea booked our place in the semi-finals of the Vitality Women’s FA Cup yesterday and Emma Hayes praised the performance after an emphatic win against Birmingham City.",
       "matchId": 2281020
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220321chelsea-fc-foundation-take-part-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-21T14:09:00.000Z",
+      "orderDate": "2022-03-21T00:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/21/chelsea-fc-foundation-take-part-in-host-of-events-celebrating-wo",
+        "type": "NewsCard",
+        "title": "Chelsea FC Foundation takes part in host of events celebrating women in sport",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/chelsea-fc-foundation-take-part-in-host-of-events-celebrating-wo.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-21T14:09:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/21/chelsea-fc-foundation-take-part-in-host-of-events-celebrating-wo",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Foundation-Walking-Football-Kicks-IWD",
+          "gravity": "auto",
+          "aspectRatio": 1.5022194,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea FC Foundation takes part in host of events celebrating women in sport",
+      "publishDate": "2022-03-21T14:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/chelsea-fc-foundation-take-part-in-host-of-events-celebrating-wo.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2022-03-21T14:09:00.000Z",
+      "description": "Find out more about the Women in Football Panel, intergenerational walking football event and more as Chelsea FC Foundation celebrated International Women’s Day throughout the month of March…"
     },
     {
       "contentType": "News",
@@ -500,70 +542,6 @@
       "date": "2022-03-20T04:00:00.000Z",
       "description": "Mason Mount, central to so much of our best work in Middlesbrough yesterday, is proud of the way the team are delivering on the pitch while ignoring the noise off it.",
       "matchId": 2281143
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220320pl2-report--chelsea-leeds-united",
-      "type": "NewsCard",
-      "timestamp": "2022-03-20T15:00:00.000Z",
-      "orderDate": "2022-03-20T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/20/pl2-report--chelsea-leeds-united",
-        "type": "NewsCard",
-        "title": "PL2 report: Chelsea 1 Leeds United 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/pl2-report--chelsea-leeds-united.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-20T15:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/20/pl2-report--chelsea-leeds-united",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Thierno Ballo scored what turned out to be the winner in the early moments of the game",
-          "id": "editorial/match-reports/2021-22/leeds-home-pl2/PL2_Leeds_Home_Thierno_Ballo_knee_slides",
-          "gravity": "auto",
-          "aspectRatio": 1.2212994,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 report: Chelsea 1 Leeds United 0",
-      "publishDate": "2022-03-20T15:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/20/pl2-report--chelsea-leeds-united.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2022-03-20T15:00:00.000Z",
-      "description": "On a sunny day at Stamford Bridge, our development squad were able to secure three points against Leeds United as a Thierno Ballo strike early in the first half was enough to secure victory."
     }
   ]
 }
