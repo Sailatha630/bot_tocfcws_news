@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 765,
+    "totalItems": 766,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 77,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220321tuchel--we-re-getting-stronger-a",
+      "type": "NewsCard",
+      "timestamp": "2022-03-21T01:18:00.000Z",
+      "orderDate": "2022-03-21T01:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/21/tuchel--we-re-getting-stronger-and-my-wish-for-next-two-weeks-",
+        "type": "NewsCard",
+        "title": "Tuchel: We’re getting stronger and my wish for next two weeks ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/tuchel--we-re-getting-stronger-and-my-wish-for-next-two-weeks-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-21T01:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/21/tuchel--we-re-getting-stronger-and-my-wish-for-next-two-weeks-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel at Middlesbrough",
+          "id": "editorial/news/2022/03/20/tuchel_middlesbrough",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: We’re getting stronger and my wish for next two weeks ",
+      "publishDate": "2022-03-21T01:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/tuchel--we-re-getting-stronger-and-my-wish-for-next-two-weeks-.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-21T01:18:00.000Z",
+      "description": "With the weekend result at Middlesbrough extending the Chelsea winning run to six games and the Blues having only lost to Manchester City and Liverpool (the latter on penalties) in 2022, Thomas Tuchel has been contrasting the form of recent weeks with the period that proceeded the consistently good results."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220320fa-cup-semi-final-draw",
@@ -491,59 +539,6 @@
       ],
       "date": "2022-03-20T09:18:00.000Z",
       "description": "The Blues have booked another appearance at Wembley Stadium but who will we play?"
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220319tuchel-reacts-to-middlesbrough-w",
-      "type": "NewsCard",
-      "timestamp": "2022-03-19T19:53:00.000Z",
-      "orderDate": "2022-03-19T19:53:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/19/tuchel-reacts-to-middlesbrough-win",
-        "type": "NewsCard",
-        "title": "Tuchel ‘super happy’ with a focused performance and cup progress; provides update on James’ fitness, ownership latest plus absence of Kepa and Jorginho",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/tuchel-reacts-to-middlesbrough-win.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-19T19:53:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/19/tuchel-reacts-to-middlesbrough-win",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Tuchel-Boro-Stock-DAZ_5077-625728",
-          "gravity": "auto",
-          "aspectRatio": 1.0414497,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel ‘super happy’ with a focused performance and cup progress; provides update on James’ fitness, ownership latest plus absence of Kepa and Jorginho",
-      "publishDate": "2022-03-19T19:53:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/19/tuchel-reacts-to-middlesbrough-win.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-19T19:53:00.000Z",
-      "description": "After watching his side book their place in the FA Cup semi-finals with a sixth straight win in all competitions, Thomas Tuchel praised another focused performance from his players and a deserved win at Middlesbrough.",
-      "matchId": 2281143
     }
   ]
 }
