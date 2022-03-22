@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 777,
+    "totalItems": 778,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 78,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220322emma-hayes-on-clash-with-tottenh",
+      "type": "NewsCard",
+      "timestamp": "2022-03-22T17:30:00.000Z",
+      "orderDate": "2022-03-22T17:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/22/emma-hayes-on-clash-with-tottenham-hotspur--provides-fran-kirby-",
+        "type": "NewsCard",
+        "title": "Emma Hayes on clash with Tottenham Hotspur, Fran Kirby fitness update and state of title race",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/22/emma-hayes-on-clash-with-tottenham-hotspur--provides-fran-kirby-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-22T17:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/22/emma-hayes-on-clash-with-tottenham-hotspur--provides-fran-kirby-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Emma-Hayes-previews-Tottenham-Hotspur",
+          "gravity": "auto",
+          "aspectRatio": 1.5023072,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emma Hayes on clash with Tottenham Hotspur, Fran Kirby fitness update and state of title race",
+      "publishDate": "2022-03-22T17:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/22/emma-hayes-on-clash-with-tottenham-hotspur--provides-fran-kirby-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        },
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        }
+      ],
+      "date": "2022-03-22T17:30:00.000Z",
+      "description": "Chelsea FC Women boss Emma Hayes spoke this afternoon as the Blues prepare to host Tottenham Hotspur in the Barclays FA Women’s Super League at Kingsmeadow tomorrow evening, in a contest lined up to be a crucial one in this season's campaign...",
+      "matchId": 2236380
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220322tuchel-s-praise-for-mount-and-wh",
@@ -486,54 +545,6 @@
       ],
       "date": "2022-03-21T12:21:00.000Z",
       "description": "In our weekly round-up of the action involving Chelsea players on loan, Conor Gallagher continued to impress in two big matches, while two defenders returned to action following spells on the sidelines..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220321tuchel--we-re-getting-stronger-a",
-      "type": "NewsCard",
-      "timestamp": "2022-03-21T01:18:00.000Z",
-      "orderDate": "2022-03-21T01:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/21/tuchel--we-re-getting-stronger-and-my-wish-for-next-two-weeks-",
-        "type": "NewsCard",
-        "title": "Tuchel: We’re getting stronger and my wish for next two weeks ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/tuchel--we-re-getting-stronger-and-my-wish-for-next-two-weeks-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-21T01:18:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/21/tuchel--we-re-getting-stronger-and-my-wish-for-next-two-weeks-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel at Middlesbrough",
-          "id": "editorial/news/2022/03/20/tuchel_middlesbrough",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: We’re getting stronger and my wish for next two weeks ",
-      "publishDate": "2022-03-21T01:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/tuchel--we-re-getting-stronger-and-my-wish-for-next-two-weeks-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-21T01:18:00.000Z",
-      "description": "With the weekend result at Middlesbrough extending the Chelsea winning run to six games and the Blues having only lost to Manchester City and Liverpool (the latter on penalties) in 2022, Thomas Tuchel has been contrasting the form of recent weeks with the period that proceeded the consistently good results."
     }
   ]
 }
