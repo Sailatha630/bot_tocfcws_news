@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 780,
+    "totalItems": 781,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 78,
+    "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
@@ -103,6 +103,54 @@
       "date": "2022-03-23T07:00:00.000Z",
       "description": "Chelsea FC Women captain Magdalena Eriksson speaks on the importance of today’s fixture against Tottenham Hotspur, the title race and her comeback from injury…",
       "matchId": 2236380
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220323all-you-need-to-know-ahead-of-th",
+      "type": "NewsCard",
+      "timestamp": "2022-03-23T07:31:00.000Z",
+      "orderDate": "2022-03-22T22:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/23/all-you-need-to-know-ahead-of-the-epremier-league-finals",
+        "type": "NewsCard",
+        "title": "All you need to know ahead of the ePremier League finals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/all-you-need-to-know-ahead-of-the-epremier-league-finals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-23T07:31:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/23/all-you-need-to-know-ahead-of-the-epremier-league-finals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2019/4/ePL-trophies",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "All you need to know ahead of the ePremier League finals",
+      "publishDate": "2022-03-23T07:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/all-you-need-to-know-ahead-of-the-epremier-league-finals.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "EA Sports",
+          "namespace": "content-tag:",
+          "id": "content-tag_Partners_ea-sports"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        }
+      ],
+      "date": "2022-03-23T07:31:00.000Z",
+      "description": "The ePremier League Grand Finals take place this weekend with two players representing Chelsea. Here is all you need to know ahead of the finals…"
     },
     {
       "contentType": "Match Preview",
@@ -471,65 +519,6 @@
       "date": "2022-03-21T16:00:00.000Z",
       "description": "The fact it was scored on his 29th birthday no doubt added some gloss to Hakim Ziyech’s FA Cup strike at Middlesbrough at the weekend, but it was the way the move unfolded that made the winger especially pleased as he looked back on an impressive goal.",
       "matchId": 2281143
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20220321many-happy-returns---the-blues--",
-      "type": "NewsCard",
-      "timestamp": "2022-03-21T10:53:00.000Z",
-      "orderDate": "2022-03-21T10:53:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/21/many-happy-returns---the-blues--birthday-scorers",
-        "type": "NewsCard",
-        "title": "Many happy returns – the Blues’ birthday scorers",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/many-happy-returns---the-blues--birthday-scorers.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-21T10:53:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/21/many-happy-returns---the-blues--birthday-scorers",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ziyech and Mount",
-          "id": "chelsea-app/Mount-Ziyech-Boro-DTW_8312-625832",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Many happy returns – the Blues’ birthday scorers",
-      "publishDate": "2022-03-21T10:53:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/many-happy-returns---the-blues--birthday-scorers.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Tammy Abraham",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_tammy-abraham"
-        },
-        {
-          "title": "John Spencer",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-spencer"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Jimmy Floyd Hasselbaink",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_jimmy-floyd-hasselbaink"
-        }
-      ],
-      "date": "2022-03-21T10:53:00.000Z",
-      "description": "Hakim Ziyech added his name to the list of players who have scored for Chelsea on their birthdays when he found the net at Middlesbrough on Saturday."
     }
   ]
 }
