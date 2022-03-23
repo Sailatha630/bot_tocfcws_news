@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 783,
+    "totalItems": 784,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 79,
@@ -74,6 +74,60 @@
       ],
       "date": "2022-03-23T16:00:00.000Z",
       "description": "Six more players are set to be inducted into the Premier League Hall of Fame in 2022, with Chelsea legends Petr Cech, Ashley Cole, Didier Drogba and John Terry included on the shortlist for the public vote."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220323chelsea-fc-can-confirm-that-toni",
+      "type": "NewsCard",
+      "timestamp": "2022-03-23T16:30:00.000Z",
+      "orderDate": "2022-03-23T15:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/23/chelsea-fc-can-confirm-that-tonight-s-fixture-against-tottenham-",
+        "type": "NewsCard",
+        "title": "Chelsea Women's WSL clash with Spurs postponed",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/chelsea-fc-can-confirm-that-tonight-s-fixture-against-tottenham-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-23T16:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/23/chelsea-fc-can-confirm-that-tonight-s-fixture-against-tottenham-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/kingsmeadow",
+          "gravity": "auto",
+          "aspectRatio": 1.5023696,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women's WSL clash with Spurs postponed",
+      "publishDate": "2022-03-23T16:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/chelsea-fc-can-confirm-that-tonight-s-fixture-against-tottenham-.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Tottenham Hotspur",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
+        }
+      ],
+      "date": "2022-03-23T16:30:00.000Z",
+      "description": "Chelsea FC can confirm that tonight’s fixture against Tottenham Hotspur Women will be rescheduled.",
+      "matchId": 2236380
     },
     {
       "contentType": "Interview",
@@ -489,54 +543,6 @@
       "date": "2022-03-22T00:38:00.000Z",
       "description": "Chelsea FC Women are back in Barclays FA Women’s Super League action on Wednesday evening and everything you need to know ahead of our clash against Tottenham Hotspur can be found here in our preview…",
       "matchId": 2236380
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220321reece-james-withdraws-from-engla",
-      "type": "NewsCard",
-      "timestamp": "2022-03-21T16:53:00.000Z",
-      "orderDate": "2022-03-21T19:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/21/reece-james-withdraws-from-england-squad",
-        "type": "NewsCard",
-        "title": "Reece James withdraws from England squad",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/reece-james-withdraws-from-england-squad.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-21T16:53:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/21/reece-james-withdraws-from-england-squad",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/06/18/james_england_scotland",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Reece James withdraws from England squad",
-      "publishDate": "2022-03-21T16:53:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/reece-james-withdraws-from-england-squad.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2022-03-21T16:53:00.000Z",
-      "description": "Reece James has pulled out of the latest England squad for two upcoming internationals against Switzerland and Ivory Coast."
     }
   ]
 }
