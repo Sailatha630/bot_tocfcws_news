@@ -1,12 +1,64 @@
 {
   "pagination": {
-    "totalItems": 781,
+    "totalItems": 782,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220323tuchel-on-why-havertz-and-pulisi",
+      "type": "NewsCard",
+      "timestamp": "2022-03-23T12:18:00.000Z",
+      "orderDate": "2022-03-23T12:18:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/23/tuchel-on-why-havertz-and-pulisic-deserve-credit-for-their-recen",
+        "type": "NewsCard",
+        "title": "Tuchel on why Havertz and Pulisic deserve credit for their recent fine form",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/tuchel-on-why-havertz-and-pulisic-deserve-credit-for-their-recen.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-23T12:18:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/23/tuchel-on-why-havertz-and-pulisic-deserve-credit-for-their-recen",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/lille-home/pulisic-havertz-lille",
+          "gravity": "auto",
+          "aspectRatio": 1.5001533,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on why Havertz and Pulisic deserve credit for their recent fine form",
+      "publishDate": "2022-03-23T12:18:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/tuchel-on-why-havertz-and-pulisic-deserve-credit-for-their-recen.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2022-03-23T12:18:00.000Z",
+      "description": "Christian Pulisic is one of many players to have seen an upturn in his Chelsea form in recent weeks, with a goal in both legs of our Champions League knockout tie against Lille, and Thomas Tuchel believes the American is now starting to take more responsibility on the pitch."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220323thiago-silva-working-hard-to-mai",
@@ -465,60 +517,6 @@
       ],
       "date": "2022-03-21T18:35:00.000Z",
       "description": "Chelsea FC Women have been drawn to play Arsenal away in the final four of this year’s Vitality Women’s FA Cup."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220321ziyech--a-perfect-goal",
-      "type": "NewsCard",
-      "timestamp": "2022-03-21T16:00:00.000Z",
-      "orderDate": "2022-03-21T16:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/21/ziyech--a-perfect-goal",
-        "type": "NewsCard",
-        "title": "Ziyech: A perfect goal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/ziyech--a-perfect-goal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-21T16:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/21/ziyech--a-perfect-goal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hakim Ziyech",
-          "id": "editorial/news/2022/03/21/ziyech_middlesbrough",
-          "gravity": "auto",
-          "aspectRatio": 1.6210938,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ziyech: A perfect goal",
-      "publishDate": "2022-03-21T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/ziyech--a-perfect-goal.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2022-03-21T16:00:00.000Z",
-      "description": "The fact it was scored on his 29th birthday no doubt added some gloss to Hakim Ziyech’s FA Cup strike at Middlesbrough at the weekend, but it was the way the move unfolded that made the winger especially pleased as he looked back on an impressive goal.",
-      "matchId": 2281143
     }
   ]
 }
