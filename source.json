@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 778,
+    "totalItems": 779,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 78,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220323thiago-silva-working-hard-to-mai",
+      "type": "NewsCard",
+      "timestamp": "2022-03-23T04:00:00.000Z",
+      "orderDate": "2022-03-23T04:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/23/thiago-silva-working-hard-to-maintain-high-standards-and-keep-on",
+        "type": "NewsCard",
+        "title": "Thiago Silva working hard to maintain high standards and keep on playing",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/thiago-silva-working-hard-to-maintain-high-standards-and-keep-on.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-23T04:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/23/thiago-silva-working-hard-to-maintain-high-standards-and-keep-on",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thiago Silva",
+          "id": "editorial/news/2022/03/22/thiago-silva-boro-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.4571805,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thiago Silva working hard to maintain high standards and keep on playing",
+      "publishDate": "2022-03-23T04:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/thiago-silva-working-hard-to-maintain-high-standards-and-keep-on.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Thiago Silva",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_thiago-silva"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-23T04:00:00.000Z",
+      "description": "The defender discusses how he masters rest, recovery and match preparation to remain at his peak for both club and country..."
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220322emma-hayes-on-clash-with-tottenh",
@@ -482,69 +530,6 @@
       "date": "2022-03-21T16:25:00.000Z",
       "description": "Bethany England scored a brace in our 5-0 thrashing of Birmingham City in the Vitality Women’s FA Cup on Sunday, and the striker has reflected on the dominant performance…",
       "matchId": 2281020
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20220321chelsea-here-chelsea-there--gall",
-      "type": "NewsCard",
-      "timestamp": "2022-03-21T12:21:00.000Z",
-      "orderDate": "2022-03-21T01:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/21/chelsea-here-chelsea-there--gallagher-helps-palace-reach-fa-cup-",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Gallagher helps Palace reach FA Cup semis, Colwill and Lawrence return from injury",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/chelsea-here-chelsea-there--gallagher-helps-palace-reach-fa-cup-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-21T12:21:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/21/chelsea-here-chelsea-there--gallagher-helps-palace-reach-fa-cup-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Gallagher",
-          "id": "editorial/news/2022/02/28/Gallagher-goal-celebration-Crystal-Palace-vs-Watford",
-          "gravity": "face",
-          "aspectRatio": 1.5004184,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Gallagher helps Palace reach FA Cup semis, Colwill and Lawrence return from injury",
-      "publishDate": "2022-03-21T12:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/21/chelsea-here-chelsea-there--gallagher-helps-palace-reach-fa-cup-.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Michy Batshuayi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_michy-batshuayi"
-        },
-        {
-          "title": "Conor Gallagher",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_conor-gallagher"
-        },
-        {
-          "title": "Ethan Ampadu",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ethan_ampadu"
-        },
-        {
-          "title": "Armando Broja",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_armando-broja"
-        }
-      ],
-      "date": "2022-03-21T12:21:00.000Z",
-      "description": "In our weekly round-up of the action involving Chelsea players on loan, Conor Gallagher continued to impress in two big matches, while two defenders returned to action following spells on the sidelines..."
     }
   ]
 }
