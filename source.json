@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 789,
+    "totalItems": 790,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220324havertz-and-james-strikes-select",
+      "type": "NewsCard",
+      "timestamp": "2022-03-24T13:00:00.000Z",
+      "orderDate": "2022-03-24T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/24/havertz-and-james-strikes-selected-among-march-s-best",
+        "type": "NewsCard",
+        "title": "Havertz and James strikes selected among March’s best",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/havertz-and-james-strikes-selected-among-march-s-best.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-24T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/24/havertz-and-james-strikes-selected-among-march-s-best",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/norwich-home/norwich-h-celebration-james",
+          "gravity": "auto",
+          "aspectRatio": 1.385201,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Havertz and James strikes selected among March’s best",
+      "publishDate": "2022-03-24T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/havertz-and-james-strikes-selected-among-march-s-best.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-24T13:00:00.000Z",
+      "description": "Two Chelsea goals have been shortlisted among the best eight scored in the Premier League during the month of March."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220324blues-duo-shortlisted-for-player",
@@ -508,55 +561,6 @@
       ],
       "date": "2022-03-23T04:00:00.000Z",
       "description": "The defender discusses how he masters rest, recovery and match preparation to remain at his peak for both club and country..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220323magdalena-eriksson--every-game-i",
-      "type": "NewsCard",
-      "timestamp": "2022-03-23T07:00:00.000Z",
-      "orderDate": "2022-03-23T01:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/23/magdalena-eriksson--every-game-is-going-to-be-like-our-cup-final",
-        "type": "NewsCard",
-        "title": "Magdalena Eriksson: Every game is going to be like our cup final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/magdalena-eriksson--every-game-is-going-to-be-like-our-cup-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-23T07:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/23/magdalena-eriksson--every-game-is-going-to-be-like-our-cup-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Magda-tunnel-walkout",
-          "gravity": "auto",
-          "aspectRatio": 1.5024248,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Magdalena Eriksson: Every game is going to be like our cup final",
-      "publishDate": "2022-03-23T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/magdalena-eriksson--every-game-is-going-to-be-like-our-cup-final.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-03-23T07:00:00.000Z",
-      "description": "Chelsea FC Women captain Magdalena Eriksson speaks on the importance of today’s fixture against Tottenham Hotspur, the title race and her comeback from injury…",
-      "matchId": 2236380
     }
   ]
 }
