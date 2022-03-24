@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 790,
+    "totalItems": 791,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 79,
+    "pageCount": 80,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220324ziyech-pleased-to-put-frustratio",
+      "type": "NewsCard",
+      "timestamp": "2022-03-24T15:30:00.000Z",
+      "orderDate": "2022-03-24T15:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/24/ziyech-pleased-to-put-frustrations-behind-him",
+        "type": "NewsCard",
+        "title": "Ziyech pleased to put frustrations behind him",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/ziyech-pleased-to-put-frustrations-behind-him.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-24T15:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/24/ziyech-pleased-to-put-frustrations-behind-him",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ziyech",
+          "id": "editorial/match-reports/2021-22/watford-away/Ziyech-stock-Watford-away",
+          "gravity": "face",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech pleased to put frustrations behind him",
+      "publishDate": "2022-03-24T15:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/ziyech-pleased-to-put-frustrations-behind-him.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        }
+      ],
+      "date": "2022-03-24T15:30:00.000Z",
+      "description": "In an exclusive interview, Hakim Ziyech has discussed the frustrating injuries that have hampered him this season, but hopes he can put them behind him to continue his excellent recent form."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220324havertz-and-james-strikes-select",
@@ -513,54 +561,6 @@
       ],
       "date": "2022-03-23T12:00:00.000Z",
       "description": "After guiding his side to maximum points in March, Thomas Tuchel has once again been shortlisted for the Premier League’s monthly managerial award."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220323thiago-silva-working-hard-to-mai",
-      "type": "NewsCard",
-      "timestamp": "2022-03-23T04:00:00.000Z",
-      "orderDate": "2022-03-23T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/23/thiago-silva-working-hard-to-maintain-high-standards-and-keep-on",
-        "type": "NewsCard",
-        "title": "Thiago Silva working hard to maintain high standards and keep on playing",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/thiago-silva-working-hard-to-maintain-high-standards-and-keep-on.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-23T04:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/23/thiago-silva-working-hard-to-maintain-high-standards-and-keep-on",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thiago Silva",
-          "id": "editorial/news/2022/03/22/thiago-silva-boro-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.4571805,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Thiago Silva working hard to maintain high standards and keep on playing",
-      "publishDate": "2022-03-23T04:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/thiago-silva-working-hard-to-maintain-high-standards-and-keep-on.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Thiago Silva",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_thiago-silva"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-23T04:00:00.000Z",
-      "description": "The defender discusses how he masters rest, recovery and match preparation to remain at his peak for both club and country..."
     }
   ]
 }
