@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 787,
+    "totalItems": 788,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220324blues-duo-shortlisted-for-player",
+      "type": "NewsCard",
+      "timestamp": "2022-03-24T11:00:00.000Z",
+      "orderDate": "2022-03-24T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/24/blues-duo-shortlisted-for-player-of-the-month-award",
+        "type": "NewsCard",
+        "title": "Blues duo shortlisted for Player of the Month award",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/blues-duo-shortlisted-for-player-of-the-month-award.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-24T11:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/24/blues-duo-shortlisted-for-player-of-the-month-award",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/03/23/Havertz-Chalobah-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5008715,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues duo shortlisted for Player of the Month award",
+      "publishDate": "2022-03-24T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/blues-duo-shortlisted-for-player-of-the-month-award.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Trevoh Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
+        }
+      ],
+      "date": "2022-03-24T11:00:00.000Z",
+      "description": "Trevoh Chalobah and Kai Havertz have both been nominated for the EA Sports Premier League Player of the Month award for March."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220324update-on-ticket-sales-permitted",
@@ -504,65 +557,6 @@
       ],
       "date": "2022-03-23T07:31:00.000Z",
       "description": "The ePremier League Grand Finals take place this weekend with two players representing Chelsea. Here is all you need to know ahead of the finals…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220322emma-hayes-on-clash-with-tottenh",
-      "type": "NewsCard",
-      "timestamp": "2022-03-22T17:30:00.000Z",
-      "orderDate": "2022-03-22T17:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/22/emma-hayes-on-clash-with-tottenham-hotspur--provides-fran-kirby-",
-        "type": "NewsCard",
-        "title": "Emma Hayes on clash with Tottenham Hotspur, Fran Kirby fitness update and state of title race",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/22/emma-hayes-on-clash-with-tottenham-hotspur--provides-fran-kirby-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-22T17:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/22/emma-hayes-on-clash-with-tottenham-hotspur--provides-fran-kirby-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Emma-Hayes-previews-Tottenham-Hotspur",
-          "gravity": "auto",
-          "aspectRatio": 1.5023072,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emma Hayes on clash with Tottenham Hotspur, Fran Kirby fitness update and state of title race",
-      "publishDate": "2022-03-22T17:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/22/emma-hayes-on-clash-with-tottenham-hotspur--provides-fran-kirby-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        },
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-03-22T17:30:00.000Z",
-      "description": "Chelsea FC Women boss Emma Hayes spoke this afternoon as the Blues prepare to host Tottenham Hotspur in the Barclays FA Women’s Super League at Kingsmeadow tomorrow evening, in a contest lined up to be a crucial one in this season's campaign...",
-      "matchId": 2236380
     }
   ]
 }
