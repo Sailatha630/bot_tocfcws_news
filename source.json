@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 791,
+    "totalItems": 792,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 80,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220324internationals--italy-s-world-cu",
+      "type": "NewsCard",
+      "timestamp": "2022-03-24T22:25:00.000Z",
+      "orderDate": "2022-03-24T22:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/24/internationals--italy-s-world-cup-dream-ends-but-ampadu-goes-on-",
+        "type": "NewsCard",
+        "title": "Internationals: Italy’s World Cup dream ends but Ampadu goes on with Wales and Gilmour features in Scotland draw",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/internationals--italy-s-world-cup-dream-ends-but-ampadu-goes-on-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-24T22:25:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/24/internationals--italy-s-world-cup-dream-ends-but-ampadu-goes-on-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/05/30/Ampadu_Wales_GettyImages-1285840169",
+          "gravity": "auto",
+          "aspectRatio": 1.3557643,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Italy’s World Cup dream ends but Ampadu goes on with Wales and Gilmour features in Scotland draw",
+      "publishDate": "2022-03-24T22:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/internationals--italy-s-world-cup-dream-ends-but-ampadu-goes-on-.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        },
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Ethan Ampadu",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ethan_ampadu"
+        },
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Emerson Palmieri",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_emerson-palmieri"
+        }
+      ],
+      "date": "2022-03-24T22:25:00.000Z",
+      "description": "While Ethan Ampadu's Wales march on in World Cup qualifying, there was a shock defeat for European champions Italy as the first international action of 2022 got underway with plenty of drama..."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220324ziyech-pleased-to-put-frustratio",
@@ -513,54 +576,6 @@
       ],
       "date": "2022-03-23T12:18:00.000Z",
       "description": "Christian Pulisic is one of many players to have seen an upturn in his Chelsea form in recent weeks, with a goal in both legs of our Champions League knockout tie against Lille, and Thomas Tuchel believes the American is now starting to take more responsibility on the pitch."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220324tuchel-nominated-for-manager-of-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-23T12:00:00.000Z",
-      "orderDate": "2022-03-23T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/24/tuchel-nominated-for-manager-of-the-month-after-mastering-a-winn",
-        "type": "NewsCard",
-        "title": "Tuchel nominated for Manager of the Month after masterminding a winning March",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/tuchel-nominated-for-manager-of-the-month-after-mastering-a-winn.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-23T12:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/24/tuchel-nominated-for-manager-of-the-month-after-mastering-a-winn",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/05/burnley_away_tuchel",
-          "gravity": "auto",
-          "aspectRatio": 1.5874603,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel nominated for Manager of the Month after masterminding a winning March",
-      "publishDate": "2022-03-23T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/tuchel-nominated-for-manager-of-the-month-after-mastering-a-winn.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-23T12:00:00.000Z",
-      "description": "After guiding his side to maximum points in March, Thomas Tuchel has once again been shortlisted for the Premier League’s monthly managerial award."
     }
   ]
 }
