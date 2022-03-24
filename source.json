@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 786,
+    "totalItems": 787,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 79,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220324update-on-ticket-sales-permitted",
+      "type": "NewsCard",
+      "timestamp": "2022-03-24T10:09:00.000Z",
+      "orderDate": "2022-03-24T10:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/24/update-on-ticket-sales-permitted-for-chelsea-matches",
+        "type": "NewsCard",
+        "title": "Update on ticket sales permitted for Chelsea matches",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/update-on-ticket-sales-permitted-for-chelsea-matches.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-24T10:09:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/24/update-on-ticket-sales-permitted-for-chelsea-matches",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/02/4/stadium_inside_view_matthew_harding_stand",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Update on ticket sales permitted for Chelsea matches",
+      "publishDate": "2022-03-24T10:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/update-on-ticket-sales-permitted-for-chelsea-matches.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-03-24T10:09:00.000Z",
+      "description": "The following has just been announced..."
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220324petr-cech-column--the-added-pres",
@@ -515,58 +563,6 @@
       "date": "2022-03-22T17:30:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes spoke this afternoon as the Blues prepare to host Tottenham Hotspur in the Barclays FA Women’s Super League at Kingsmeadow tomorrow evening, in a contest lined up to be a crucial one in this season's campaign...",
       "matchId": 2236380
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220322tuchel-s-praise-for-mount-and-wh",
-      "type": "NewsCard",
-      "timestamp": "2022-03-22T12:42:00.000Z",
-      "orderDate": "2022-03-22T12:42:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/22/tuchel-s-praise-for-mount-and-why-he-has--full-support--from-the",
-        "type": "NewsCard",
-        "title": "Tuchel's praise for Mount and why he has full support from the boss",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/22/tuchel-s-praise-for-mount-and-why-he-has--full-support--from-the.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-22T12:42:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/22/tuchel-s-praise-for-mount-and-why-he-has--full-support--from-the",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Tuchel-mount-DTW_3652",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel's praise for Mount and why he has full support from the boss",
-      "publishDate": "2022-03-22T12:42:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/22/tuchel-s-praise-for-mount-and-why-he-has--full-support--from-the.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2022-03-22T12:42:00.000Z",
-      "description": "Thomas Tuchel says it is a pleasure to coach a player like Mason Mount due to his positive attitude both on and off the field."
     }
   ]
 }
