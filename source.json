@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 792,
+    "totalItems": 793,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 80,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20220325rule-changes--club-records-and-s",
+      "type": "NewsCard",
+      "timestamp": "2022-03-25T09:30:00.000Z",
+      "orderDate": "2022-03-25T09:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/25/rule-changes--club-records-and-seaside-scares--chelsea-s-history",
+        "type": "NewsCard",
+        "title": "Rule changes, club records and seaside scares: Chelsea’s history against non-league clubs  ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/rule-changes--club-records-and-seaside-scares--chelsea-s-history.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-25T09:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/25/rule-changes--club-records-and-seaside-scares--chelsea-s-history",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Theatre of Chips",
+          "id": "editorial/news/2022/01/07/scarborough_2004_1",
+          "gravity": "north",
+          "aspectRatio": 1.5678391,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rule changes, club records and seaside scares: Chelsea’s history against non-league clubs  ",
+      "publishDate": "2022-03-25T09:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/rule-changes--club-records-and-seaside-scares--chelsea-s-history.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-25T09:30:00.000Z",
+      "description": "To mark this year’s Non-League Day, which takes place in England tomorrow (Saturday), we tell the story of some of Chelsea’s past meetings with non-league clubs, going all the way back to our very first season in existence."
+    },
     {
       "contentType": "International",
       "id": "_content_chelseafcennews20220324internationals--italy-s-world-cu",
@@ -524,58 +572,6 @@
       "date": "2022-03-23T16:30:00.000Z",
       "description": "Chelsea FC can confirm that tonight’s fixture against Tottenham Hotspur Women will be rescheduled.",
       "matchId": 2236380
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220323tuchel-on-why-havertz-and-pulisi",
-      "type": "NewsCard",
-      "timestamp": "2022-03-23T12:18:00.000Z",
-      "orderDate": "2022-03-23T12:18:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/23/tuchel-on-why-havertz-and-pulisic-deserve-credit-for-their-recen",
-        "type": "NewsCard",
-        "title": "Tuchel on why Havertz and Pulisic deserve credit for their recent fine form",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/tuchel-on-why-havertz-and-pulisic-deserve-credit-for-their-recen.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-23T12:18:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/23/tuchel-on-why-havertz-and-pulisic-deserve-credit-for-their-recen",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2021-22/lille-home/pulisic-havertz-lille",
-          "gravity": "auto",
-          "aspectRatio": 1.5001533,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on why Havertz and Pulisic deserve credit for their recent fine form",
-      "publishDate": "2022-03-23T12:18:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/tuchel-on-why-havertz-and-pulisic-deserve-credit-for-their-recen.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        }
-      ],
-      "date": "2022-03-23T12:18:00.000Z",
-      "description": "Christian Pulisic is one of many players to have seen an upturn in his Chelsea form in recent weeks, with a goal in both legs of our Champions League knockout tie against Lille, and Thomas Tuchel believes the American is now starting to take more responsibility on the pitch."
     }
   ]
 }
