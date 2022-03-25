@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 797,
+    "totalItems": 798,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 80,
@@ -55,6 +55,55 @@
       "date": "2022-03-25T11:00:00.000Z",
       "description": "The date and kick-off time for our FA Cup semi-final clash with Crystal Palace has been confirmed, along with broadcast details, while a date for Chelsea Women's last-four tie with Arsenal has also been announced.",
       "matchId": 2282505
+    },
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220325emma-hayes-on-trip-to-leicester-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-25T16:00:00.000Z",
+      "orderDate": "2022-03-25T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/25/emma-hayes-on-trip-to-leicester-city--playing-at-the-king-power-",
+        "type": "NewsCard",
+        "title": "Emma Hayes on trip to Leicester City, playing at the King Power and update on team news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/emma-hayes-on-trip-to-leicester-city--playing-at-the-king-power-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-25T16:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/25/emma-hayes-on-trip-to-leicester-city--playing-at-the-king-power-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Hayes-previews-Leicester",
+          "gravity": "auto",
+          "aspectRatio": 1.5026586,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emma Hayes on trip to Leicester City, playing at the King Power and update on team news",
+      "publishDate": "2022-03-25T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/emma-hayes-on-trip-to-leicester-city--playing-at-the-king-power-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2022-03-25T16:00:00.000Z",
+      "description": "Chelsea FC Women boss Emma Hayes spoke this afternoon as the Blues prepare to face Leicester City in the Barclays FA Women’s Super League on Sunday.",
+      "matchId": 2236421
     },
     {
       "contentType": "News",
@@ -479,59 +528,6 @@
       ],
       "date": "2022-03-24T13:00:00.000Z",
       "description": "Two Chelsea goals have been shortlisted among the best eight scored in the Premier League during the month of March."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220324blues-duo-shortlisted-for-player",
-      "type": "NewsCard",
-      "timestamp": "2022-03-24T11:00:00.000Z",
-      "orderDate": "2022-03-24T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/24/blues-duo-shortlisted-for-player-of-the-month-award",
-        "type": "NewsCard",
-        "title": "Blues duo shortlisted for Player of the Month award",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/blues-duo-shortlisted-for-player-of-the-month-award.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-24T11:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/24/blues-duo-shortlisted-for-player-of-the-month-award",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/03/23/Havertz-Chalobah-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5008715,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues duo shortlisted for Player of the Month award",
-      "publishDate": "2022-03-24T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/blues-duo-shortlisted-for-player-of-the-month-award.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Trevoh Chalobah",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_trevor-chalobah"
-        }
-      ],
-      "date": "2022-03-24T11:00:00.000Z",
-      "description": "Trevoh Chalobah and Kai Havertz have both been nominated for the EA Sports Premier League Player of the Month award for March."
     }
   ]
 }
