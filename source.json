@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 798,
+    "totalItems": 799,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 80,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220325internationals--play-off-defeat-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-25T21:53:00.000Z",
+      "orderDate": "2022-03-25T21:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/25/internationals--play-off-defeat-leaves-mendy-and-senegal-with-wo",
+        "type": "NewsCard",
+        "title": "Internationals: Play-off defeat leaves Mendy and Senegal with work to do",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/internationals--play-off-defeat-leaves-mendy-and-senegal-with-wo.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-25T21:53:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/25/internationals--play-off-defeat-leaves-mendy-and-senegal-with-wo",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mendy",
+          "id": "editorial/news/2022/02/2/Mendy-Senegal-vs-Burkina-Faso",
+          "gravity": "north",
+          "aspectRatio": 1.4998298,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Play-off defeat leaves Mendy and Senegal with work to do",
+      "publishDate": "2022-03-25T21:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/internationals--play-off-defeat-leaves-mendy-and-senegal-with-wo.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        }
+      ],
+      "date": "2022-03-25T21:53:00.000Z",
+      "description": "Edouard Mendy and his Senegal team-mates know they must win at home on Tuesday to have any chance of qualifying for the World Cup after being beaten in the first leg of their play-off."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220324date-and-kick-off-time-confirmed",
@@ -475,59 +523,6 @@
       ],
       "date": "2022-03-24T15:30:00.000Z",
       "description": "In an exclusive interview, Hakim Ziyech has discussed the frustrating injuries that have hampered him this season, but hopes he can put them behind him to continue his excellent recent form."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220324havertz-and-james-strikes-select",
-      "type": "NewsCard",
-      "timestamp": "2022-03-24T13:00:00.000Z",
-      "orderDate": "2022-03-24T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/24/havertz-and-james-strikes-selected-among-march-s-best",
-        "type": "NewsCard",
-        "title": "Havertz and James strikes selected among March’s best",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/havertz-and-james-strikes-selected-among-march-s-best.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-24T13:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/24/havertz-and-james-strikes-selected-among-march-s-best",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/norwich-home/norwich-h-celebration-james",
-          "gravity": "auto",
-          "aspectRatio": 1.385201,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz and James strikes selected among March’s best",
-      "publishDate": "2022-03-24T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/24/havertz-and-james-strikes-selected-among-march-s-best.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-24T13:00:00.000Z",
-      "description": "Two Chelsea goals have been shortlisted among the best eight scored in the Premier League during the month of March."
     }
   ]
 }
