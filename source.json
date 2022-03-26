@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 801,
+    "totalItems": 802,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 81,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220326extra-time-with--timo-werner",
+      "type": "NewsCard",
+      "timestamp": "2022-03-26T11:00:00.000Z",
+      "orderDate": "2022-03-26T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/26/extra-time-with--timo-werner",
+        "type": "NewsCard",
+        "title": "Extra Time With… Timo Werner",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/26/extra-time-with--timo-werner.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-26T11:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/26/extra-time-with--timo-werner",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Extra Time with Timo Werner",
+          "id": "editorial/news/2022/03/22/ExtraTimeWith_Article_Werner_2870x1300",
+          "gravity": "auto",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Extra Time With… Timo Werner",
+      "publishDate": "2022-03-26T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/26/extra-time-with--timo-werner.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-26T11:00:00.000Z",
+      "description": "Timo Werner is the latest player to allow us a window into his leisure time away from football, as the striker tells us about his other sporting passions (including one he is rather good at), plus he lets us know where he likes to go for a spot of people-watching."
+    },
     {
       "contentType": "History",
       "id": "_content_chelseafcennews20220326never-mind-the-gap--five-players",
@@ -481,43 +529,6 @@
       ],
       "date": "2022-03-25T10:58:00.000Z",
       "description": "Derrick Abu has been a regular for Chelsea Under-18s this season as our youngsters push for silverware on two fronts but the teenager has also been perfecting his talents in the musical field with the release of a new rap single."
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20220223big-sleep-out-returns-to-stamfor",
-      "type": "NewsCard",
-      "timestamp": "2022-03-25T15:42:00.000Z",
-      "orderDate": "2022-03-25T03:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/02/23/big-sleep-out-returns-to-stamford-bridge",
-        "type": "NewsCard",
-        "title": "Big Sleep Out returns to Stamford Bridge",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/big-sleep-out-returns-to-stamford-bridge.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-25T15:42:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/02/23/big-sleep-out-returns-to-stamford-bridge",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Big Sleep Out",
-          "id": "editorial/news/2019/11/big-sleep-out-photo",
-          "gravity": "auto",
-          "aspectRatio": 2.4,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Big Sleep Out returns to Stamford Bridge",
-      "publishDate": "2022-03-25T15:42:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/02/23/big-sleep-out-returns-to-stamford-bridge.html",
-      "readTimeInMins": 4,
-      "tags": [],
-      "date": "2022-03-25T15:42:00.000Z",
-      "description": "Having held their fundraising Big Sleep Out virtually during the height of the pandemic, the Chelsea Supporters Trust is able to stage it at Stamford Bridge again with Blues fans invited to take part tomorrow (Saturday)."
     }
   ]
 }
