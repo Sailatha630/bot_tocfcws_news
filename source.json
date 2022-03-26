@@ -1,12 +1,85 @@
 {
   "pagination": {
-    "totalItems": 803,
+    "totalItems": 804,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 81,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220326internationals--havertz--werner-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-26T21:10:00.000Z",
+      "orderDate": "2022-03-26T21:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/26/internationals--havertz--werner-and-batshuayi-on-target--gallagh",
+        "type": "NewsCard",
+        "title": "Internationals: Havertz, Werner and Batshuayi on target, Gallagher assist on full debut",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/26/internationals--havertz--werner-and-batshuayi-on-target--gallagh.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-26T21:10:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/26/internationals--havertz--werner-and-batshuayi-on-target--gallagh",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Werner",
+          "id": "editorial/news/2021/11/17/Werner_Havertz_German_GettyImages-1339131221",
+          "gravity": "auto",
+          "aspectRatio": 1.500271,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Havertz, Werner and Batshuayi on target, Gallagher assist on full debut",
+      "publishDate": "2022-03-26T21:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/26/internationals--havertz--werner-and-batshuayi-on-target--gallagh.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Michy Batshuayi",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_michy-batshuayi"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        },
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2022-03-26T21:10:00.000Z",
+      "description": "Three Chelsea players all found the back of the net for their countries in tonight's international friendlies, while a young Blue continued to impress at this level on his first start for England..."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220326watch-the-best-of-havertz-in-202",
@@ -497,54 +570,6 @@
       ],
       "date": "2022-03-25T10:20:00.000Z",
       "description": "Christian Pulisic and the US took a big step towards qualification for the World Cup with a hard-earned goalless draw in the Azteca Stadium in Mexico, while Thiago Silva captained Brazil to another emphatic victory."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20220325rule-changes--club-records-and-s",
-      "type": "NewsCard",
-      "timestamp": "2022-03-25T09:30:00.000Z",
-      "orderDate": "2022-03-25T09:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/25/rule-changes--club-records-and-seaside-scares--chelsea-s-history",
-        "type": "NewsCard",
-        "title": "Rule changes, club records and seaside scares: Chelsea’s history against non-league clubs  ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/rule-changes--club-records-and-seaside-scares--chelsea-s-history.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-25T09:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/25/rule-changes--club-records-and-seaside-scares--chelsea-s-history",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Theatre of Chips",
-          "id": "editorial/news/2022/01/07/scarborough_2004_1",
-          "gravity": "north",
-          "aspectRatio": 1.5678391,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rule changes, club records and seaside scares: Chelsea’s history against non-league clubs  ",
-      "publishDate": "2022-03-25T09:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/rule-changes--club-records-and-seaside-scares--chelsea-s-history.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-25T09:30:00.000Z",
-      "description": "To mark this year’s Non-League Day, which takes place in England tomorrow (Saturday), we tell the story of some of Chelsea’s past meetings with non-league clubs, going all the way back to our very first season in existence."
     }
   ]
 }
