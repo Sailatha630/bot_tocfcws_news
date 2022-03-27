@@ -1,12 +1,59 @@
 {
   "pagination": {
-    "totalItems": 808,
+    "totalItems": 809,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 81,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220327chalobah-reveals-summer-chat-wit",
+      "type": "NewsCard",
+      "timestamp": "2022-03-27T17:52:00.000Z",
+      "orderDate": "2022-03-27T17:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/27/chalobah-reveals-summer-chat-with-tuchel-and-shares-desire-of-in",
+        "type": "NewsCard",
+        "title": "Chalobah reveals summer chat with Tuchel and shares desire of inspiring the next generation of Cobham talent ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/27/chalobah-reveals-summer-chat-with-tuchel-and-shares-desire-of-in.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-27T17:52:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/27/chalobah-reveals-summer-chat-with-tuchel-and-shares-desire-of-in",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/09/24/Kante_Tuchel_Chalobah_GettyImages-1235314257",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chalobah reveals summer chat with Tuchel and shares desire of inspiring the next generation of Cobham talent ",
+      "publishDate": "2022-03-27T17:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/27/chalobah-reveals-summer-chat-with-tuchel-and-shares-desire-of-in.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Trevoh Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
+        }
+      ],
+      "date": "2022-03-27T17:52:00.000Z",
+      "description": "Trevoh Chalobah believes that the trust and belief that head coach Thomas Tuchel has shown in Chelsea youngsters is a massive reason for his impressive debut season so far."
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220327women-s-match-report--leicester-",
@@ -490,54 +537,6 @@
       "date": "2022-03-26T09:19:00.000Z",
       "description": "Chelsea FC Women travel to the King Power Stadium on Sunday to take on Leicester City in the Barclays FA Women’s Super League. Everything you need to know ahead of our clash with the Foxes can be found here in our match preview…",
       "matchId": 2236421
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220325internationals--play-off-defeat-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-25T21:53:00.000Z",
-      "orderDate": "2022-03-25T21:53:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/25/internationals--play-off-defeat-leaves-mendy-and-senegal-with-wo",
-        "type": "NewsCard",
-        "title": "Internationals: Play-off defeat leaves Mendy and Senegal with work to do",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/internationals--play-off-defeat-leaves-mendy-and-senegal-with-wo.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-25T21:53:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/25/internationals--play-off-defeat-leaves-mendy-and-senegal-with-wo",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mendy",
-          "id": "editorial/news/2022/02/2/Mendy-Senegal-vs-Burkina-Faso",
-          "gravity": "north",
-          "aspectRatio": 1.4998298,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Internationals: Play-off defeat leaves Mendy and Senegal with work to do",
-      "publishDate": "2022-03-25T21:53:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/25/internationals--play-off-defeat-leaves-mendy-and-senegal-with-wo.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2022-03-25T21:53:00.000Z",
-      "description": "Edouard Mendy and his Senegal team-mates know they must win at home on Tuesday to have any chance of qualifying for the World Cup after being beaten in the first leg of their play-off."
     }
   ]
 }
