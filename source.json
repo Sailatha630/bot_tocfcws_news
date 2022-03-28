@@ -1,12 +1,59 @@
 {
   "pagination": {
-    "totalItems": 809,
+    "totalItems": 810,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 81,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews2022032810-questions-with----harvey-vale",
+      "type": "NewsCard",
+      "timestamp": "2022-03-28T02:00:00.000Z",
+      "orderDate": "2022-03-28T02:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/28/10-questions-with----harvey-vale",
+        "type": "NewsCard",
+        "title": "10 Questions with... Harvey Vale",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/28/10-questions-with----harvey-vale.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-28T02:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/28/10-questions-with----harvey-vale",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/03/23/10_Questions_Article_Body_Harvey_Vale_2560x1440",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "10 Questions with... Harvey Vale",
+      "publishDate": "2022-03-28T02:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/28/10-questions-with----harvey-vale.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2022-03-28T02:00:00.000Z",
+      "description": "In the latest instalment of our sit-down player interview series, we catch up with teenager Harvey Vale to reflect on a season in which he has debuted in the League Cup and FA Cup, learning from his idols and not looking out of place..."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220327chalobah-reveals-summer-chat-wit",
@@ -489,55 +536,6 @@
       ],
       "date": "2022-03-26T10:00:00.000Z",
       "description": "As we continue to mark this year's Non-League Day, which takes place in England today (Saturday), we recall five players who stepped up directly from non-league to play for Chelsea in years gone by."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220326leicester-city-women-v-chelsea-w",
-      "type": "NewsCard",
-      "timestamp": "2022-03-26T09:19:00.000Z",
-      "orderDate": "2022-03-26T03:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/26/leicester-city-women-v-chelsea-women--kick-off-time--how-to-watc",
-        "type": "NewsCard",
-        "title": "Leicester City Women v Chelsea Women: Kick-off time, how to watch live and more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/26/leicester-city-women-v-chelsea-women--kick-off-time--how-to-watc.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-26T09:19:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/26/leicester-city-women-v-chelsea-women--kick-off-time--how-to-watc",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Celebration-vs-Leicester",
-          "gravity": "auto",
-          "aspectRatio": 1.4992504,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Leicester City Women v Chelsea Women: Kick-off time, how to watch live and more!",
-      "publishDate": "2022-03-26T09:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/26/leicester-city-women-v-chelsea-women--kick-off-time--how-to-watc.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-03-26T09:19:00.000Z",
-      "description": "Chelsea FC Women travel to the King Power Stadium on Sunday to take on Leicester City in the Barclays FA Women’s Super League. Everything you need to know ahead of our clash with the Foxes can be found here in our match preview…",
-      "matchId": 2236421
     }
   ]
 }
