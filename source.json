@@ -1,12 +1,55 @@
 {
   "pagination": {
-    "totalItems": 810,
+    "totalItems": 811,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 81,
+    "pageCount": 82,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220328internationals--pulisic-nets-fir",
+      "type": "NewsCard",
+      "timestamp": "2022-03-28T07:44:00.000Z",
+      "orderDate": "2022-03-28T07:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/28/internationals--pulisic-nets-first-ever-usa-hat-trick-to-all-but",
+        "type": "NewsCard",
+        "title": "Internationals: Pulisic nets first-ever USA hat-trick to all but seal place at World Cup",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/28/internationals--pulisic-nets-first-ever-usa-hat-trick-to-all-but.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-28T07:44:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/28/internationals--pulisic-nets-first-ever-usa-hat-trick-to-all-but",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/02/3/Pulisic_USA_GettyImages-1238146051",
+          "gravity": "auto",
+          "aspectRatio": 1.5001887,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Pulisic nets first-ever USA hat-trick to all but seal place at World Cup",
+      "publishDate": "2022-03-28T07:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/28/internationals--pulisic-nets-first-ever-usa-hat-trick-to-all-but.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2022-03-28T07:44:00.000Z",
+      "description": "Christian Pulisic was the star of the show in Orlando as USA beat Panama 5-1 to put the Americans on the brink of qualifying for the 2022 Qatar World Cup."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews2022032810-questions-with----harvey-vale",
@@ -479,63 +522,6 @@
       ],
       "date": "2022-03-26T11:00:00.000Z",
       "description": "Timo Werner is the latest player to allow us a window into his leisure time away from football, as the striker tells us about his other sporting passions (including one he is rather good at), plus he lets us know where he likes to go for a spot of people-watching."
-    },
-    {
-      "contentType": "History",
-      "id": "_content_chelseafcennews20220326never-mind-the-gap--five-players",
-      "type": "NewsCard",
-      "timestamp": "2022-03-26T10:00:00.000Z",
-      "orderDate": "2022-03-26T06:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/26/never-mind-the-gap--five-players-who-made-the-jump-straight-from",
-        "type": "NewsCard",
-        "title": "Never mind the gap: Five players who made the jump straight from non-league to Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/26/never-mind-the-gap--five-players-who-made-the-jump-straight-from.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-26T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/26/never-mind-the-gap--five-players-who-made-the-jump-straight-from",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2020/10/canoville_1981",
-          "gravity": "auto",
-          "aspectRatio": 1.6,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Never mind the gap: Five players who made the jump straight from non-league to Chelsea",
-      "publishDate": "2022-03-26T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/26/never-mind-the-gap--five-players-who-made-the-jump-straight-from.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Marcus Bettinelli",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcus-bettinelli"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Paul Canoville",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_paul-canoville"
-        }
-      ],
-      "date": "2022-03-26T10:00:00.000Z",
-      "description": "As we continue to mark this year's Non-League Day, which takes place in England today (Saturday), we recall five players who stepped up directly from non-league to play for Chelsea in years gone by."
     }
   ]
 }
