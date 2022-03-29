@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 819,
+    "totalItems": 820,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 82,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220329internationals--mendy-penalty-he",
+      "type": "NewsCard",
+      "timestamp": "2022-03-29T19:59:00.000Z",
+      "orderDate": "2022-03-29T19:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/29/internationals--mendy-penalty-heroics-help-senegal-book-world-cu",
+        "type": "NewsCard",
+        "title": "Internationals: Mendy penalty heroics help Senegal book World Cup place",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/internationals--mendy-penalty-heroics-help-senegal-book-world-cu.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-29T19:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/29/internationals--mendy-penalty-heroics-help-senegal-book-world-cu",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/02/6/Mendy_AFCON_final_GettyImages-1238248994",
+          "gravity": "auto",
+          "aspectRatio": 1.4998481,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Internationals: Mendy penalty heroics help Senegal book World Cup place",
+      "publishDate": "2022-03-29T19:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/internationals--mendy-penalty-heroics-help-senegal-book-world-cu.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Armando Broja",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_armando-broja"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2022-03-29T19:59:00.000Z",
+      "description": "Edouard Mendy played a key role as Senegal beat Egypt on penalties to secure their place at the 2022 World Cup in Qatar."
+    },
     {
       "contentType": "Tickets",
       "id": "_content_chelseafcennews20220329latest-ticket-news-for-upcoming-",
@@ -451,60 +504,6 @@
       ],
       "date": "2022-03-28T07:44:00.000Z",
       "description": "Christian Pulisic was the star of the show in Orlando as USA beat Panama 5-1 to put the Americans on the brink of qualifying for the 2022 Qatar World Cup."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220328emma-hayes-praises--ruthless--pe",
-      "type": "NewsCard",
-      "timestamp": "2022-03-28T08:08:00.000Z",
-      "orderDate": "2022-03-27T23:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/28/emma-hayes-praises--ruthless--performance-as-blues-go-top-of-the",
-        "type": "NewsCard",
-        "title": "Emma Hayes praises ruthless performance as Blues go top of the league",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/28/emma-hayes-praises--ruthless--performance-as-blues-go-top-of-the.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-28T08:08:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/28/emma-hayes-praises--ruthless--performance-as-blues-go-top-of-the",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Emma-Hayes-Leicester-match-reaction",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emma Hayes praises ruthless performance as Blues go top of the league",
-      "publishDate": "2022-03-28T08:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/28/emma-hayes-praises--ruthless--performance-as-blues-go-top-of-the.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2022-03-28T08:08:00.000Z",
-      "description": "Chelsea FC Women boss Emma Hayes has hailed her side’s clinical outing as the Blues put nine past Leicester City yesterday afternoon to go top of the Barclays FA Women’s Super League.",
-      "matchId": 2236421
     }
   ]
 }
