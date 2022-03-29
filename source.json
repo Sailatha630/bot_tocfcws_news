@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 815,
+    "totalItems": 816,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 82,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220329n-golo-kante-birthday-quiz-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-29T11:41:00.000Z",
+      "orderDate": "2022-03-29T09:41:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/29/n-golo-kante-birthday-quiz-",
+        "type": "NewsCard",
+        "title": "N'Golo Kante birthday quiz!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/n-golo-kante-birthday-quiz-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-29T11:41:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/29/n-golo-kante-birthday-quiz-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "N'Golo Kante",
+          "id": "chelsea-app/Kante-GettyImages-1236678675",
+          "gravity": "auto",
+          "aspectRatio": 1.460387,
+          "cropMode": "fill"
+        }
+      },
+      "content": "N'Golo Kante birthday quiz!",
+      "publishDate": "2022-03-29T11:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/n-golo-kante-birthday-quiz-.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-29T11:41:00.000Z",
+      "description": "Happy birthday N'Golo! As Kante celebrates his 31st birthday today, we mark his special day by offering you this 10-question quiz to prove how much of an NG fan you are!"
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220329pat-nevin--who-i-believe-has-bee",
@@ -469,53 +517,6 @@
       ],
       "date": "2022-03-27T15:25:00.000Z",
       "description": "In the latest episode of the Like a Pro series, Antonio Rudiger provides insight into his recent highlights in a Chelsea shirt and talks us through the mentality behind some of his tussles on the pitch, including up against Luis Suarez in last season’s Champions League."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220327mount-offers-support-to-jorginho",
-      "type": "NewsCard",
-      "timestamp": "2022-03-27T10:44:00.000Z",
-      "orderDate": "2022-03-27T10:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/27/mount-offers-support-to-jorginho-following-world-cup-heartbreak-",
-        "type": "NewsCard",
-        "title": "Mount offers support to Jorginho following World Cup heartbreak ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/27/mount-offers-support-to-jorginho-following-world-cup-heartbreak-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-27T10:44:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/27/mount-offers-support-to-jorginho-following-world-cup-heartbreak-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/07/27/Mount_Jorginho_GettyImages-1328208937",
-          "gravity": "auto",
-          "aspectRatio": 1.5927051,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount offers support to Jorginho following World Cup heartbreak ",
-      "publishDate": "2022-03-27T10:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/27/mount-offers-support-to-jorginho-following-world-cup-heartbreak-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2022-03-27T10:44:00.000Z",
-      "description": "Mason Mount says he has spoken to Chelsea team-mate Jorginho to offer his support following Italy’s shock exit out of the 2022 World Cup qualifiers."
     }
   ]
 }
