@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 816,
+    "totalItems": 817,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 82,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220329latest-ticket-news-for-upcoming-",
+      "type": "NewsCard",
+      "timestamp": "2022-03-29T12:00:00.000Z",
+      "orderDate": "2022-03-29T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/29/latest-ticket-news-for-upcoming-chelsea-matches-0",
+        "type": "NewsCard",
+        "title": "Latest ticket news for upcoming Chelsea matches ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/latest-ticket-news-for-upcoming-chelsea-matches-0.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-29T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/29/latest-ticket-news-for-upcoming-chelsea-matches-0",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ticket office",
+          "id": "editorial/news/2019/12/ticket-office-stamford-bridge-view",
+          "gravity": "auto",
+          "aspectRatio": 1.500122,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Latest ticket news for upcoming Chelsea matches ",
+      "publishDate": "2022-03-29T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/latest-ticket-news-for-upcoming-chelsea-matches-0.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-03-29T12:00:00.000Z",
+      "description": "Following the news the Club has received an amendment to the UK Government general licence, we can now update supporters on the ticket sales process for the next few Chelsea games."
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220329n-golo-kante-birthday-quiz-",
@@ -464,59 +512,6 @@
       "date": "2022-03-27T15:55:00.000Z",
       "description": "Chelsea FC Women moved to the top of the Barclays FA Women’s Super League with an emphatic victory over Leicester City at the King Power Stadium this afternoon.",
       "matchId": 2236421
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220327rudiger-on-his--all-or-nothing--",
-      "type": "NewsCard",
-      "timestamp": "2022-03-27T15:25:00.000Z",
-      "orderDate": "2022-03-27T15:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/27/rudiger-on-his--all-or-nothing--tackles-and-besting-the--master-",
-        "type": "NewsCard",
-        "title": "Rudiger on his ‘all or nothing’ tackles and besting the ‘master of the dark side’ Suarez",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/27/rudiger-on-his--all-or-nothing--tackles-and-besting-the--master-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-27T15:25:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/27/rudiger-on-his--all-or-nothing--tackles-and-besting-the--master-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Rudiger",
-          "id": "editorial/news/2022/03/18/Rudiger-training-pre-Middlesbrough",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rudiger on his ‘all or nothing’ tackles and besting the ‘master of the dark side’ Suarez",
-      "publishDate": "2022-03-27T15:25:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/27/rudiger-on-his--all-or-nothing--tackles-and-besting-the--master-.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-03-27T15:25:00.000Z",
-      "description": "In the latest episode of the Like a Pro series, Antonio Rudiger provides insight into his recent highlights in a Chelsea shirt and talks us through the mentality behind some of his tussles on the pitch, including up against Luis Suarez in last season’s Champions League."
     }
   ]
 }
