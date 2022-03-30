@@ -1,12 +1,49 @@
 {
   "pagination": {
-    "totalItems": 823,
+    "totalItems": 825,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 83,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220330vote-for-your-chelsea-goal-of-th",
+      "type": "NewsCard",
+      "timestamp": "2022-03-30T13:00:00.000Z",
+      "orderDate": "2022-03-30T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/30/vote-for-your-chelsea-goal-of-the-month-for-march",
+        "type": "NewsCard",
+        "title": "Vote for your Chelsea Goal of the Month for March",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/vote-for-your-chelsea-goal-of-the-month-for-march.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-30T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/30/vote-for-your-chelsea-goal-of-the-month-for-march",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Havertz and Mount celebrate goal",
+          "id": "chelsea-app/Havertz-Mount-GettyImages-1383985997",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Vote for your Chelsea Goal of the Month for March",
+      "publishDate": "2022-03-30T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/vote-for-your-chelsea-goal-of-the-month-for-march.html",
+      "readTimeInMins": 14,
+      "tags": [],
+      "date": "2022-03-30T13:00:00.000Z",
+      "description": "There are 10 contenders for Chelsea's best goal in March with impressive strikes from our men's, women's and Academy teams. From last-minute winners to long-range screamers and solo goals, the vote in our latest Goal of the Month poll may be a close one..."
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220330local-knowledge---test-yourself-",
@@ -92,7 +129,7 @@
       "content": "March from the Stands: Giles Smith admits it was not on bingo card",
       "publishDate": "2022-03-30T11:50:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/march-from-the-stands--giles-smith-admits-it-was-not-on-bingo-ca.html",
-      "readTimeInMins": 9,
+      "readTimeInMins": 10,
       "tags": [
         {
           "title": "Giles Smith",
@@ -123,7 +160,50 @@
       "description": "Chelsea season ticket holder Giles Smith, our columnist from a supporters’ point of view, writes about the impossible to predict, the road trip the team has been on, and why they have made him so proud…"
     },
     {
-      "contentType": "News",
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20220330local-schools-win-chance-to-repr",
+      "type": "NewsCard",
+      "timestamp": "2022-03-30T13:17:00.000Z",
+      "orderDate": "2022-03-30T00:17:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/30/local-schools-win-chance-to-represent-chelsea-fc-at-vicarage-roa",
+        "type": "NewsCard",
+        "title": "Local schools win chance to represent Chelsea at Vicarage Road!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/local-schools-win-chance-to-represent-chelsea-fc-at-vicarage-roa.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-30T13:17:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/30/local-schools-win-chance-to-represent-chelsea-fc-at-vicarage-roa",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Foundation-PLPS-girls-winners",
+          "gravity": "faces",
+          "aspectRatio": 0.75,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Local schools win chance to represent Chelsea at Vicarage Road!",
+      "publishDate": "2022-03-30T13:17:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/local-schools-win-chance-to-represent-chelsea-fc-at-vicarage-roa.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2022-03-30T13:17:00.000Z",
+      "description": "Honeywell Junior School from Wandsworth and St John’s Walham Green from Fulham emerged victorious in Chelsea FC Foundation’s Under-11 mixed and girls Premier League Primary Stars football tournaments recently."
+    },
+    {
+      "contentType": "International",
       "id": "_content_chelseafcennews20220329internationals--mendy-penalty-he",
       "type": "NewsCard",
       "timestamp": "2022-03-29T19:59:00.000Z",
@@ -162,14 +242,14 @@
           "id": "content-tag_person_player_armando-broja"
         },
         {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        },
-        {
           "title": "Mateo Kovacic",
           "namespace": "content-tag:",
           "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Edouard Mendy ",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_edouard-mendy-"
         }
       ],
       "date": "2022-03-29T19:59:00.000Z",
@@ -473,97 +553,6 @@
       },
       "date": "2022-03-29T06:49:00.000Z",
       "description": "With Chelsea making daily news off the pitch, the international break in our games is drawing to an end so Pat Nevin looks ahead to this in his latest column, as well as back at an impressive run of results (including highlighting one individual) and at the situation surrounding the club…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220329jessie-fleming--it-was-a-great-t",
-      "type": "NewsCard",
-      "timestamp": "2022-03-29T06:30:00.000Z",
-      "orderDate": "2022-03-29T00:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/29/jessie-fleming--it-was-a-great-team-performance",
-        "type": "NewsCard",
-        "title": "Jessie Fleming: It was a great team performance",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/jessie-fleming--it-was-a-great-team-performance.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-29T06:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/29/jessie-fleming--it-was-a-great-team-performance",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Jessie-Fleming-goal-vs-Leicester",
-          "gravity": "north_west",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jessie Fleming: It was a great team performance",
-      "publishDate": "2022-03-29T06:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/jessie-fleming--it-was-a-great-team-performance.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-03-29T06:30:00.000Z",
-      "description": "Chelsea FC Women’s Jessie Fleming says the Blues aim to stay top of the league after beating Leicester City 9-0 at the King Power Stadium on Sunday afternoon.",
-      "matchId": 2236421
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220329chelsea-fc-foundation-celebrate-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-29T11:55:00.000Z",
-      "orderDate": "2022-03-28T23:55:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/29/chelsea-fc-foundation-celebrate-diversity-wins-as-project-conclu",
-        "type": "NewsCard",
-        "title": "Chelsea FC Foundation celebrates Diversity Wins as project concludes",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/chelsea-fc-foundation-celebrate-diversity-wins-as-project-conclu.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-29T11:55:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/29/chelsea-fc-foundation-celebrate-diversity-wins-as-project-conclu",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Foundation-Diversity-Wins-Roehampton",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC Foundation celebrates Diversity Wins as project concludes",
-      "publishDate": "2022-03-29T11:55:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/chelsea-fc-foundation-celebrate-diversity-wins-as-project-conclu.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-03-29T11:55:00.000Z",
-      "description": "Chelsea FC Foundation has been working with EFDN and EU Commission on the Diversity Wins project for three years, and here we reflect on the impact and success of the programme…"
     }
   ]
 }
