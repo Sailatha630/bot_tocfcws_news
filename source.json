@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 831,
+    "totalItems": 832,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 84,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220331gallery--players-return-to-cobha",
+      "type": "NewsCard",
+      "timestamp": "2022-03-31T14:00:00.000Z",
+      "orderDate": "2022-03-31T14:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/31/gallery--players-return-to-cobham",
+        "type": "NewsCard",
+        "title": "Gallery: Players return to Cobham",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/gallery--players-return-to-cobham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-31T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/31/gallery--players-return-to-cobham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Rudiger-Kante-Players-return-31-March-DAZ_5647",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Players return to Cobham",
+      "publishDate": "2022-03-31T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/gallery--players-return-to-cobham.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        }
+      ],
+      "date": "2022-03-31T14:00:00.000Z",
+      "description": "The majority of the Chelsea squad were in full training this morning as players returned from the final international break of the season.",
+      "matchId": 2210573
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220331blues-bulletin--chelsea-vs-brent",
@@ -470,49 +534,6 @@
       },
       "date": "2022-03-30T11:50:00.000Z",
       "description": "Chelsea season ticket holder Giles Smith, our columnist from a supporters’ point of view, writes about the impossible to predict, the road trip the team has been on, and why they have made him so proud…"
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220330local-schools-win-chance-to-repr",
-      "type": "NewsCard",
-      "timestamp": "2022-03-30T13:17:00.000Z",
-      "orderDate": "2022-03-30T00:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/30/local-schools-win-chance-to-represent-chelsea-fc-at-vicarage-roa",
-        "type": "NewsCard",
-        "title": "Local schools win chance to represent Chelsea at Vicarage Road!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/local-schools-win-chance-to-represent-chelsea-fc-at-vicarage-roa.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-30T13:17:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/30/local-schools-win-chance-to-represent-chelsea-fc-at-vicarage-roa",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Foundation-PLPS-girls-winners",
-          "gravity": "faces",
-          "aspectRatio": 0.75,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Local schools win chance to represent Chelsea at Vicarage Road!",
-      "publishDate": "2022-03-30T13:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/local-schools-win-chance-to-represent-chelsea-fc-at-vicarage-roa.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-03-30T13:17:00.000Z",
-      "description": "Honeywell Junior School from Wandsworth and St John’s Walham Green from Fulham emerged victorious in Chelsea FC Foundation’s Under-11 mixed and girls Premier League Primary Stars football tournaments recently."
     }
   ]
 }
