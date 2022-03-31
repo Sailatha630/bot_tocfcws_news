@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 832,
+    "totalItems": 834,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 84,
@@ -57,6 +57,11 @@
           "id": "content-tag_competition_first-team-competitions_premier-league"
         },
         {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
           "title": "Mason Mount",
           "namespace": "content-tag:",
           "id": "content-tag_person_player_mason-mount"
@@ -70,6 +75,54 @@
       "date": "2022-03-31T14:00:00.000Z",
       "description": "The majority of the Chelsea squad were in full training this morning as players returned from the final international break of the season.",
       "matchId": 2210573
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220331premier-league-confirm-subs-chan",
+      "type": "NewsCard",
+      "timestamp": "2022-03-31T13:54:00.000Z",
+      "orderDate": "2022-03-31T13:54:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/31/premier-league-confirm-subs-change-and-summer-transfer-window-da",
+        "type": "NewsCard",
+        "title": "Premier League confirm subs change and summer transfer window dates",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/premier-league-confirm-subs-change-and-summer-transfer-window-da.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-31T13:54:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/03/31/premier-league-confirm-subs-change-and-summer-transfer-window-da",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Premier League",
+          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
+          "gravity": "auto",
+          "aspectRatio": 1.4790996,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Premier League confirm subs change and summer transfer window dates",
+      "publishDate": "2022-03-31T13:54:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/premier-league-confirm-subs-change-and-summer-transfer-window-da.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-03-31T13:54:00.000Z",
+      "description": "The Premier League have confirmed clubs will be permitted to use five substitutes during games from next season."
     },
     {
       "contentType": "Match Preview",
@@ -124,6 +177,54 @@
       "date": "2022-03-31T11:45:00.000Z",
       "description": "The Blues and the Bees meet in the Premier League at Stamford Bridge for the first time on Saturday, and here we present all the pre-match facts and historical quirks you need to know ahead of the game...",
       "matchId": 2210573
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220331world-cup--which-chelsea-players",
+      "type": "NewsCard",
+      "timestamp": "2022-03-31T11:33:00.000Z",
+      "orderDate": "2022-03-31T11:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/31/world-cup--which-chelsea-players-have-qualified--who-can-still-j",
+        "type": "NewsCard",
+        "title": "World Cup: Which Chelsea players have qualified, who can still join them and when is the draw?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/world-cup--which-chelsea-players-have-qualified--who-can-still-j.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-31T11:33:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/31/world-cup--which-chelsea-players-have-qualified--who-can-still-j",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "World Cup",
+          "id": "editorial/news/2018/6/world_cup_trophy-944387888",
+          "gravity": "north",
+          "aspectRatio": 1.5548313,
+          "cropMode": "fill"
+        }
+      },
+      "content": "World Cup: Which Chelsea players have qualified, who can still join them and when is the draw?",
+      "publishDate": "2022-03-31T11:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/world-cup--which-chelsea-players-have-qualified--who-can-still-j.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "World Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_world-cup"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2022-03-31T11:33:00.000Z",
+      "description": "We now know the identity of 29 out of the 32 countries who will be competing at this year's World Cup. Here's everything you need to know about which Chelsea players could be in action at the tournament and when the group stage draw will be decided..."
     },
     {
       "contentType": "News",
@@ -419,121 +520,6 @@
       "tags": [],
       "date": "2022-03-30T13:00:00.000Z",
       "description": "There are 10 contenders for Chelsea's best goal in March with impressive strikes from our men's, women's and Academy teams. From last-minute winners to long-range screamers and solo goals, the vote in our latest Goal of the Month poll may be a close one..."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220330local-knowledge---test-yourself-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-30T09:26:00.000Z",
-      "orderDate": "2022-03-30T09:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/30/local-knowledge---test-yourself-with-our-west-london-derbies-qui",
-        "type": "NewsCard",
-        "title": "Local knowledge – test yourself with our west London derbies quiz",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/local-knowledge---test-yourself-with-our-west-london-derbies-qui.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-30T09:26:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/30/local-knowledge---test-yourself-with-our-west-london-derbies-qui",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "London by air",
-          "id": "cfc/news/latestnews/16/11/aerial_view_london-155313596",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Local knowledge – test yourself with our west London derbies quiz",
-      "publishDate": "2022-03-30T09:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/local-knowledge---test-yourself-with-our-west-london-derbies-qui.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Fulham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_fulham"
-        },
-        {
-          "title": "Brentford",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brentford"
-        },
-        {
-          "title": "Qpr",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_qpr"
-        }
-      ],
-      "date": "2022-03-30T09:26:00.000Z",
-      "description": "A home league game against Brentford is back on the agenda this weekend with the Bees the club from the west of the capital city currently with us in the top flight. To warm up for the occasion, we have 10 quiz questions below concerning Chelsea, Brentford, Fulham and Queens Park Rangers."
-    },
-    {
-      "contentType": "Columnists",
-      "id": "_content_chelseafcennews20220330march-from-the-stands--giles-smi",
-      "type": "NewsCard",
-      "timestamp": "2022-03-30T11:50:00.000Z",
-      "orderDate": "2022-03-30T07:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/30/march-from-the-stands--giles-smith-admits-it-was-not-on-bingo-ca",
-        "type": "NewsCard",
-        "title": "March from the Stands: Giles Smith admits it was not on bingo card",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/march-from-the-stands--giles-smith-admits-it-was-not-on-bingo-ca.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-30T11:50:00.000Z"
-      },
-      "template": "opinion-article",
-      "path": "/content/chelseafc/en/news/2022/03/30/march-from-the-stands--giles-smith-admits-it-was-not-on-bingo-ca",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Celebration at Middlesbrough",
-          "id": "editorial/news/2022/03/30/middlesbrough_celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.1590172,
-          "cropMode": "fill"
-        }
-      },
-      "content": "March from the Stands: Giles Smith admits it was not on bingo card",
-      "publishDate": "2022-03-30T11:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/march-from-the-stands--giles-smith-admits-it-was-not-on-bingo-ca.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Giles Smith",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_other-people_giles-smith"
-        },
-        {
-          "title": "Column",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_column"
-        }
-      ],
-      "author": {
-        "type": "profile",
-        "firstName": "Giles",
-        "lastName": "Smith",
-        "description": "Giles Smith has been giving a supporter’s eye view on all matters Chelsea in a weekly column since 2006. A Matthew Harding Stand upper tier season ticket holders, he has been a supporter since 1970 and was briefly the proud sponsor of Gareth Hall's shorts. A former Sports Columnist of the Year, writes for the Times, and has appeared in many British publications and is the author of two books: 'Lost in Music', an autobiographical account of his failure to become a globe-girdling rock star, and 'Midnight In the Garden of Evel Kneivel', a book about sport on television. His column on chelseafc.com will be back for the new season. ",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/blogs-and-columns/giles_smith_profile_080",
-          "gravity": "face",
-          "aspectRatio": 1.1660777,
-          "cropMode": "fill"
-        }
-      },
-      "date": "2022-03-30T11:50:00.000Z",
-      "description": "Chelsea season ticket holder Giles Smith, our columnist from a supporters’ point of view, writes about the impossible to predict, the road trip the team has been on, and why they have made him so proud…"
     }
   ]
 }
