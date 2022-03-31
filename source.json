@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 828,
+    "totalItems": 829,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 83,
@@ -73,6 +73,48 @@
       },
       "date": "2022-03-31T05:40:00.000Z",
       "description": "As the training ground fills up again with players with different international tales to tell, Petr Cech describes the mentality at the business end of the season, and looks forward to the hosting of Brentford and Real Madrid…"
+    },
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220331pulisic-reacts-to-world-cup-qual",
+      "type": "NewsCard",
+      "timestamp": "2022-03-31T08:27:00.000Z",
+      "orderDate": "2022-03-31T05:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/03/31/pulisic-reacts-to-world-cup-qualification-",
+        "type": "NewsCard",
+        "title": "Pulisic reacts to World Cup qualification ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/pulisic-reacts-to-world-cup-qualification-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-03-31T08:27:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/03/31/pulisic-reacts-to-world-cup-qualification-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/09/06/Pulisic-vs-Canada-2",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pulisic reacts to World Cup qualification ",
+      "publishDate": "2022-03-31T08:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/pulisic-reacts-to-world-cup-qualification-.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        }
+      ],
+      "date": "2022-03-31T08:27:00.000Z",
+      "description": "Christian Pulisic and his USA team-mates have qualified for Qatar 2022 and the Chelsea forward has spoken of his huge pride in doing so."
     },
     {
       "contentType": "Tickets",
@@ -500,54 +542,6 @@
       ],
       "date": "2022-03-29T22:02:00.000Z",
       "description": "Toni Rudiger made his 50th appearance for Germany in one of Tuesday night’s friendly internationals."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220329latest-ticket-news-for-upcoming-",
-      "type": "NewsCard",
-      "timestamp": "2022-03-29T12:00:00.000Z",
-      "orderDate": "2022-03-29T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/29/latest-ticket-news-for-upcoming-chelsea-matches-0",
-        "type": "NewsCard",
-        "title": "Latest ticket news for upcoming Chelsea matches ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/latest-ticket-news-for-upcoming-chelsea-matches-0.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-29T12:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/29/latest-ticket-news-for-upcoming-chelsea-matches-0",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ticket office",
-          "id": "editorial/news/2019/12/ticket-office-stamford-bridge-view",
-          "gravity": "auto",
-          "aspectRatio": 1.500122,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Latest ticket news for upcoming Chelsea matches ",
-      "publishDate": "2022-03-29T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/29/latest-ticket-news-for-upcoming-chelsea-matches-0.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-03-29T12:00:00.000Z",
-      "description": "Following the news the Club has received an amendment to the UK Government general licence, we can now update supporters on the ticket sales process for the next few Chelsea games."
     }
   ]
 }
