@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 841,
+    "totalItems": 842,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 85,
@@ -324,6 +324,42 @@
       "description": "Billy Gilmour has been named on the five-man shortlist for Scotland’s Men’s International Player of the Year award."
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220401information-for-supporters-on-cr",
+      "type": "NewsCard",
+      "timestamp": "2022-04-01T15:00:00.000Z",
+      "orderDate": "2022-04-01T00:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/01/information-for-supporters-on-crowd-related-medical-incidents-at",
+        "type": "NewsCard",
+        "title": "Information for supporters on crowd-related medical incidents at games",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/01/information-for-supporters-on-crowd-related-medical-incidents-at.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-01T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/01/information-for-supporters-on-crowd-related-medical-incidents-at",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/01/31/stadium_view_harding_stand_banner",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Information for supporters on crowd-related medical incidents at games",
+      "publishDate": "2022-04-01T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/01/information-for-supporters-on-crowd-related-medical-incidents-at.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2022-04-01T15:00:00.000Z",
+      "description": "The Premier League have issued new guidance about crowd medical emergencies in stadiums..."
+    },
+    {
       "contentType": "Tickets",
       "id": "_content_chelseafcennews20220401fa-youth-cup-semi-final-ticket-u",
       "type": "NewsCard",
@@ -487,60 +523,6 @@
       ],
       "date": "2022-03-31T13:54:00.000Z",
       "description": "The Premier League have confirmed clubs will be permitted to use five substitutes during games from next season."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220331blues-bulletin--chelsea-vs-brent",
-      "type": "NewsCard",
-      "timestamp": "2022-03-31T11:45:00.000Z",
-      "orderDate": "2022-03-31T11:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/31/blues-bulletin--chelsea-vs-brentford",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Brentford",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/blues-bulletin--chelsea-vs-brentford.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-31T11:45:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/31/blues-bulletin--chelsea-vs-brentford",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea vs Brentford",
-          "id": "editorial/news/2021/12/22/Werner_Brentford_GettyImages-1346921722",
-          "gravity": "auto",
-          "aspectRatio": 1.4998436,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Brentford",
-      "publishDate": "2022-03-31T11:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/blues-bulletin--chelsea-vs-brentford.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Brentford",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brentford"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-03-31T11:45:00.000Z",
-      "description": "The Blues and the Bees meet in the Premier League at Stamford Bridge for the first time on Saturday, and here we present all the pre-match facts and historical quirks you need to know ahead of the game...",
-      "matchId": 2210573
     }
   ]
 }
