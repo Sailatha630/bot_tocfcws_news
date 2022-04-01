@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 834,
+    "totalItems": 835,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 84,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220401pre-match-briefing--chelsea-vs-b",
+      "type": "NewsCard",
+      "timestamp": "2022-04-01T01:00:00.000Z",
+      "orderDate": "2022-04-01T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/01/pre-match-briefing--chelsea-vs-brentford",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Brentford",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/01/pre-match-briefing--chelsea-vs-brentford.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-01T01:00:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/04/01/pre-match-briefing--chelsea-vs-brentford",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge outside",
+          "id": "editorial/news/2021/11/26/stadium_fulham_road",
+          "gravity": "auto",
+          "aspectRatio": 1.5368388,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Brentford",
+      "publishDate": "2022-04-01T01:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/01/pre-match-briefing--chelsea-vs-brentford.html",
+      "readTimeInMins": 67,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-01T01:00:00.000Z",
+      "description": "April commences with a return to the Bridge after a three-week gap. Club historian Rick Glanvill and club statistician Paul Dutton are ready for a home league fixture that has been awaited a whole lot longer…",
+      "matchId": 2210573
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220331gallery--players-return-to-cobha",
@@ -483,43 +537,6 @@
       ],
       "date": "2022-03-31T07:25:00.000Z",
       "description": "The United States slipped to a 2-0 defeat in their final World Cup qualifier but there was little jeopardy involved during the game away against Costa Rica."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220330vote-for-your-chelsea-goal-of-th",
-      "type": "NewsCard",
-      "timestamp": "2022-03-30T13:00:00.000Z",
-      "orderDate": "2022-03-30T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/30/vote-for-your-chelsea-goal-of-the-month-for-march",
-        "type": "NewsCard",
-        "title": "Vote for your Chelsea Goal of the Month for March",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/vote-for-your-chelsea-goal-of-the-month-for-march.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-30T13:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/30/vote-for-your-chelsea-goal-of-the-month-for-march",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Havertz and Mount celebrate goal",
-          "id": "chelsea-app/Havertz-Mount-GettyImages-1383985997",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Vote for your Chelsea Goal of the Month for March",
-      "publishDate": "2022-03-30T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/30/vote-for-your-chelsea-goal-of-the-month-for-march.html",
-      "readTimeInMins": 14,
-      "tags": [],
-      "date": "2022-03-30T13:00:00.000Z",
-      "description": "There are 10 contenders for Chelsea's best goal in March with impressive strikes from our men's, women's and Academy teams. From last-minute winners to long-range screamers and solo goals, the vote in our latest Goal of the Month poll may be a close one..."
     }
   ]
 }
