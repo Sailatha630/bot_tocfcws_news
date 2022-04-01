@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 840,
+    "totalItems": 841,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 84,
+    "pageCount": 85,
     "startFrom": 0
   },
   "newsFeed": [
@@ -59,6 +59,59 @@
       ],
       "date": "2022-04-01T12:56:00.000Z",
       "description": "Thomas Tuchel has confirmed Callum Hudson-Odoi is out of Brentford’s visit to Stamford Bridge tomorrow but confirmed Reece James is available for selection again following four games out.",
+      "matchId": 2210573
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220401tuchel-press-conference-and-team",
+      "type": "NewsCard",
+      "timestamp": "2022-04-01T14:45:00.000Z",
+      "orderDate": "2022-04-01T12:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/01/tuchel-press-conference-and-team-news-ahead-of-brentford",
+        "type": "NewsCard",
+        "title": "Tuchel updates on summer plans for quartet",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/01/tuchel-press-conference-and-team-news-ahead-of-brentford.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-01T14:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/01/tuchel-press-conference-and-team-news-ahead-of-brentford",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/04/01/Tuchel-presser-pre-Brentford",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel updates on summer plans for quartet",
+      "publishDate": "2022-04-01T14:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/01/tuchel-press-conference-and-team-news-ahead-of-brentford.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-01T14:45:00.000Z",
+      "description": "Thomas Tuchel has acknowledged that Chelsea cannot start making plans for next season amid the ongoing uncertainty around the club’s ownership, though he has provided the latest update on the future of four players…",
       "matchId": 2210573
     },
     {
@@ -488,54 +541,6 @@
       "date": "2022-03-31T11:45:00.000Z",
       "description": "The Blues and the Bees meet in the Premier League at Stamford Bridge for the first time on Saturday, and here we present all the pre-match facts and historical quirks you need to know ahead of the game...",
       "matchId": 2210573
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220331world-cup--which-chelsea-players",
-      "type": "NewsCard",
-      "timestamp": "2022-03-31T11:33:00.000Z",
-      "orderDate": "2022-03-31T11:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/31/world-cup--which-chelsea-players-have-qualified--who-can-still-j",
-        "type": "NewsCard",
-        "title": "World Cup: Which Chelsea players have qualified, who can still join them and when is the draw?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/world-cup--which-chelsea-players-have-qualified--who-can-still-j.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-03-31T11:33:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/03/31/world-cup--which-chelsea-players-have-qualified--who-can-still-j",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "World Cup",
-          "id": "editorial/news/2018/6/world_cup_trophy-944387888",
-          "gravity": "north",
-          "aspectRatio": 1.5548313,
-          "cropMode": "fill"
-        }
-      },
-      "content": "World Cup: Which Chelsea players have qualified, who can still join them and when is the draw?",
-      "publishDate": "2022-03-31T11:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/31/world-cup--which-chelsea-players-have-qualified--who-can-still-j.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "World Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_world-cup"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2022-03-31T11:33:00.000Z",
-      "description": "We now know the identity of 29 out of the 32 countries who will be competing at this year's World Cup. Here's everything you need to know about which Chelsea players could be in action at the tournament and when the group stage draw will be decided..."
     }
   ]
 }
