@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 846,
+    "totalItems": 847,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 85,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220402tuchel-reveals-what-his-message-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-02T09:48:00.000Z",
+      "orderDate": "2022-04-02T09:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/02/tuchel-reveals-what-his-message-would-be-to-new-owners",
+        "type": "NewsCard",
+        "title": "Tuchel reveals what message he would give new owners",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/02/tuchel-reveals-what-his-message-would-be-to-new-owners.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-02T09:48:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/02/tuchel-reveals-what-his-message-would-be-to-new-owners",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2022/04/01/Tuchel_DTW_0739",
+          "gravity": "face",
+          "aspectRatio": 1.499422,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reveals what message he would give new owners",
+      "publishDate": "2022-04-02T09:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/02/tuchel-reveals-what-his-message-would-be-to-new-owners.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-02T09:48:00.000Z",
+      "description": "Thomas Tuchel does not believe Chelsea needs big alterations to the football structure when potential new owners arrive, but insists he remains open to the idea of change, as there is always room for improvement.",
+      "matchId": 2210573
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220402sarr-on-the-significance-of-his-",
@@ -500,54 +549,6 @@
       "date": "2022-04-01T13:49:00.000Z",
       "description": "Chelsea FC Women host Reading at Kingsmeadow in the Barclays FA Women’s Super League this Sunday and everything you need to know ahead of our clash with the Royals can be found here in our match preview…",
       "matchId": 2236426
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220401gilmour-nominated-for-scottish-i",
-      "type": "NewsCard",
-      "timestamp": "2022-04-01T09:44:00.000Z",
-      "orderDate": "2022-04-01T00:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/01/gilmour-nominated-for-scottish-international-award",
-        "type": "NewsCard",
-        "title": "Gilmour nominated for Scottish international award",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/01/gilmour-nominated-for-scottish-international-award.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-01T09:44:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/01/gilmour-nominated-for-scottish-international-award",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Gilmour",
-          "id": "editorial/news/2021/10/11/gilmour_scotland_israel",
-          "gravity": "face",
-          "aspectRatio": 1.4954545,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gilmour nominated for Scottish international award",
-      "publishDate": "2022-04-01T09:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/01/gilmour-nominated-for-scottish-international-award.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Awards",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_awards"
-        }
-      ],
-      "date": "2022-04-01T09:44:00.000Z",
-      "description": "Billy Gilmour has been named on the five-man shortlist for Scotland’s Men’s International Player of the Year award."
     }
   ]
 }
