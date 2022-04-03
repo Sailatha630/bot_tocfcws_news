@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 853,
+    "totalItems": 854,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 86,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220403rudiger-the-latest-of-chelsea-s-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-03T12:25:00.000Z",
+      "orderDate": "2022-04-03T12:25:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/03/rudiger-the-latest-of-chelsea-s-long-rangers",
+        "type": "NewsCard",
+        "title": "Rudiger the latest of Chelsea’s long-rangers",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/03/rudiger-the-latest-of-chelsea-s-long-rangers.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-03T12:25:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/03/rudiger-the-latest-of-chelsea-s-long-rangers",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Toni Rudiger scoring against Brentford",
+          "id": "editorial/match-reports/2021-22/brentford-home/Rudiger_goal_Brentford_H_DTW_1748-650824",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger the latest of Chelsea’s long-rangers",
+      "publishDate": "2022-04-03T12:25:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/03/rudiger-the-latest-of-chelsea-s-long-rangers.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Brentford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_brentford"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2022-04-03T12:25:00.000Z",
+      "description": "Antonio Rudiger’s opener against Brentford continued Chelsea’s excellent record with long-range efforts this season, netting our 12th goal of the campaign from outside the box.",
+      "matchId": 2210573
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220403azpilicueta--it-s-up-to-us-to-st",
@@ -507,60 +561,6 @@
       "date": "2022-04-02T01:03:00.000Z",
       "description": "Today the Blues take on the Bees for the third time this season with lessons learned from the previous encounters.",
       "matchId": 2210573
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220402thierno-ballo-speaks-on-his-retu",
-      "type": "NewsCard",
-      "timestamp": "2022-04-02T08:45:00.000Z",
-      "orderDate": "2022-04-02T00:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/02/thierno-ballo-speaks-on-his-return-to-young-blues-as-chelsea-tra",
-        "type": "NewsCard",
-        "title": "PL2 preview: Ballo on his returning impact and the need for togetherness",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/02/thierno-ballo-speaks-on-his-return-to-young-blues-as-chelsea-tra.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-02T08:45:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/02/thierno-ballo-speaks-on-his-return-to-young-blues-as-chelsea-tra",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Thierno Ballo knee slides",
-          "id": "editorial/match-reports/2021-22/leeds-home-pl2/PL2_Leeds_Home_Thierno_Ballo_knee_slides",
-          "gravity": "auto",
-          "aspectRatio": 1.2212994,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 preview: Ballo on his returning impact and the need for togetherness",
-      "publishDate": "2022-04-02T08:45:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/02/thierno-ballo-speaks-on-his-return-to-young-blues-as-chelsea-tra.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        }
-      ],
-      "date": "2022-04-02T08:45:00.000Z",
-      "description": "Our development squad face another tricky test in Premier League 2 as they travel away to Liverpool this afternoon, with kick-off scheduled for 12noon."
     }
   ]
 }
