@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 856,
+    "totalItems": 857,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 86,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220403women-s-match-report--chelsea-vs",
+      "type": "NewsCard",
+      "timestamp": "2022-04-03T19:40:00.000Z",
+      "orderDate": "2022-04-03T19:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/03/women-s-match-report--chelsea-vs-reading",
+        "type": "NewsCard",
+        "title": "Women’s match report: Chelsea 5 Reading 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/03/women-s-match-report--chelsea-vs-reading.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-03T19:40:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/03/women-s-match-report--chelsea-vs-reading",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Team-cele-second-goal-vs-Reading",
+          "gravity": "auto",
+          "aspectRatio": 1.5027933,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Women’s match report: Chelsea 5 Reading 0",
+      "publishDate": "2022-04-03T19:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/03/women-s-match-report--chelsea-vs-reading.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Reading",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_reading"
+        }
+      ],
+      "date": "2022-04-03T19:40:00.000Z",
+      "description": "Chelsea FC Women secured a vital three points in the title race as Emma Hayes’ side put five past Reading to remain top of the Barclays FA Women’s Super League this evening.",
+      "matchId": 2236426
+    },
     {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220403havertz-strike-voted-chelsea-goa",
@@ -172,74 +226,6 @@
       "date": "2022-04-03T12:25:00.000Z",
       "description": "Antonio Rudiger’s opener against Brentford continued Chelsea’s excellent record with long-range efforts this season, netting our 12th goal of the campaign from outside the box.",
       "matchId": 2210573
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220323vote-for-blues-to-join-premier-l",
-      "type": "NewsCard",
-      "timestamp": "2022-04-03T18:03:00.000Z",
-      "orderDate": "2022-04-03T09:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/03/23/vote-for-blues-to-join-premier-league-hall-of-fame",
-        "type": "NewsCard",
-        "title": "Last chance to vote for Blues to join Premier League Hall of Fame",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/vote-for-blues-to-join-premier-league-hall-of-fame.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-03T18:03:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/03/23/vote-for-blues-to-join-premier-league-hall-of-fame",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Terry, Cech, Drogba",
-          "id": "editorial/blogs-and-columns/2019/1/Cech_GettyImages-611548320",
-          "gravity": "auto",
-          "aspectRatio": 1.4799805,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Last chance to vote for Blues to join Premier League Hall of Fame",
-      "publishDate": "2022-04-03T18:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/03/23/vote-for-blues-to-join-premier-league-hall-of-fame.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Ashley Cole",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_ashley-cole"
-        },
-        {
-          "title": "John Terry",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_john-terry"
-        },
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Didier Drogba",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_didier-drogba"
-        }
-      ],
-      "date": "2022-04-03T18:03:00.000Z",
-      "description": "Six more players are set to be inducted into the Premier League Hall of Fame in 2022, with Chelsea legends Petr Cech, Ashley Cole, Didier Drogba and John Terry included on the shortlist for the public vote."
     },
     {
       "contentType": "Interview",
