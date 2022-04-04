@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 865,
+    "totalItems": 866,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 87,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220404premier-league-fixture-latest--m",
+      "type": "NewsCard",
+      "timestamp": "2022-04-04T17:00:00.000Z",
+      "orderDate": "2022-04-04T17:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/04/premier-league-fixture-latest--may-dates-for-rescheduled-games",
+        "type": "NewsCard",
+        "title": "Premier League fixture latest: May dates for rescheduled games",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/04/premier-league-fixture-latest--may-dates-for-rescheduled-games.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-04T17:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/04/premier-league-fixture-latest--may-dates-for-rescheduled-games",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Premier League ball",
+          "id": "editorial/news/2020/08/chelsea-premier-league-crest-logo-badge",
+          "gravity": "auto",
+          "aspectRatio": 1.4790996,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Premier League fixture latest: May dates for rescheduled games",
+      "publishDate": "2022-04-04T17:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/04/premier-league-fixture-latest--may-dates-for-rescheduled-games.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2022-04-04T17:00:00.000Z",
+      "description": "The Premier League has released fixture news for May, with dates assigned for our rearranged away match at Leeds United and home hosting of Leicester City, plus news about a kick-off change for when we play Manchester United away."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220404thiago-silva-on-the-pride-and-re",
@@ -480,59 +543,6 @@
       ],
       "date": "2022-04-04T06:00:00.000Z",
       "description": "Our young Blues have the opportunity to make a second cup final this season as they take on Nottingham Forest in the semi-final of the FA Youth Cup this evening. Kick-off is 7pm and the game will be held at the City Ground."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220403havertz-strike-voted-chelsea-goa",
-      "type": "NewsCard",
-      "timestamp": "2022-04-03T14:00:00.000Z",
-      "orderDate": "2022-04-03T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/03/havertz-strike-voted-chelsea-goal-of-the-month",
-        "type": "NewsCard",
-        "title": "Havertz strike voted Chelsea Goal of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/03/havertz-strike-voted-chelsea-goal-of-the-month.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-03T14:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/03/havertz-strike-voted-chelsea-goal-of-the-month",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Havertz",
-          "id": "editorial/news/2022/04/01/Havertz_Newcastle_celeb_CL1_2253-613439a",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Havertz strike voted Chelsea Goal of the Month",
-      "publishDate": "2022-04-03T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/03/havertz-strike-voted-chelsea-goal-of-the-month.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Goal of the Month",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_goal-of-the-month"
-        },
-        {
-          "title": "Kai Havertz",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kai-havertz"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-03T14:00:00.000Z",
-      "description": "Kai Havertz’s brilliant winner against Newcastle United has been overwhelmingly chosen by Chelsea supporters as the best of our goals in March."
     }
   ]
 }
