@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 860,
+    "totalItems": 861,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 86,
+    "pageCount": 87,
     "startFrom": 0
   },
   "newsFeed": [
@@ -69,6 +69,60 @@
       ],
       "date": "2022-04-04T03:00:00.000Z",
       "description": "As the dust settles on the weekend defeat against Brentford, our first in seven Premier League outings, there is a big Champions League encounter on the near horizon to help sharpen the focus, should any help be needed."
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220404hayes-on--outstanding--performan",
+      "type": "NewsCard",
+      "timestamp": "2022-04-04T09:44:00.000Z",
+      "orderDate": "2022-04-04T02:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/04/hayes-on--outstanding--performance-and-praises-team-mentality-as",
+        "type": "NewsCard",
+        "title": "Hayes praises team mentality as 'outstanding' Blues stay top of the league ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/04/hayes-on--outstanding--performance-and-praises-team-mentality-as.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-04T09:44:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/04/hayes-on--outstanding--performance-and-praises-team-mentality-as",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Emma-Hayes-Reading-huddle",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Hayes praises team mentality as 'outstanding' Blues stay top of the league ",
+      "publishDate": "2022-04-04T09:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/04/hayes-on--outstanding--performance-and-praises-team-mentality-as.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2022-04-04T09:44:00.000Z",
+      "description": "Chelsea FC Women manager Emma Hayes has hailed the Blues’ second-half performance after an emphatic 5-0 win against Reading in the Barclays FA Women’s Super League yesterday evening.",
+      "matchId": 2236426
     },
     {
       "contentType": "Tickets",
@@ -509,60 +563,6 @@
       "date": "2022-04-03T03:00:00.000Z",
       "description": "Aniek Nouwen has hailed the support of Chelsea FC Women fans as really important as the Blues prepare to welcome Reading to Kingsmeadow this evening.",
       "matchId": 2236426
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220402tuchel-on-what-went-wrong-agains",
-      "type": "NewsCard",
-      "timestamp": "2022-04-02T16:51:00.000Z",
-      "orderDate": "2022-04-02T16:51:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/02/tuchel-on-what-went-wrong-against-brentford-and-whether-the-inte",
-        "type": "NewsCard",
-        "title": "Tuchel on what went wrong against Brentford and whether the international break caused a hangover",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/02/tuchel-on-what-went-wrong-against-brentford-and-whether-the-inte.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-02T16:51:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/02/tuchel-on-what-went-wrong-against-brentford-and-whether-the-inte",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2022/04/03/tuchel_brentford_home",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on what went wrong against Brentford and whether the international break caused a hangover",
-      "publishDate": "2022-04-02T16:51:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/02/tuchel-on-what-went-wrong-against-brentford-and-whether-the-inte.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Brentford",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_brentford"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-02T16:51:00.000Z",
-      "description": "After watching his side fall to a heavy home defeat against Brentford, Thomas Tuchel admitted a damaging 10 minutes had cost the Blues but refused to concede that next week’s Champions League tie against Real Madrid had distracted his players…",
-      "matchId": 2210573
     }
   ]
 }
