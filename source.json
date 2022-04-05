@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 876,
+    "totalItems": 877,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 88,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220405chelsea-team-news-and-latest-ahe",
+      "type": "NewsCard",
+      "timestamp": "2022-04-05T15:57:00.000Z",
+      "orderDate": "2022-04-05T18:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid",
+        "type": "NewsCard",
+        "title": "Tuchel on setting new targets, dealing with the big occasion and what Chelsea must do first",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-05T15:57:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "chelsea-app/Tuchel-WhatsApp-Image",
+          "gravity": "auto",
+          "aspectRatio": 1.500938,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on setting new targets, dealing with the big occasion and what Chelsea must do first",
+      "publishDate": "2022-04-05T15:57:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-05T15:57:00.000Z",
+      "description": "Last season’s meeting with Real Madrid will have no bearing on our upcoming Champions League quarter-final tie, according to Thomas Tuchel, and the boss believes his team are primed to bounce back after the weekend loss to Brentford.",
+      "matchId": 2282394
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220405tuchel-hopes-to-welcome-ancelott",
@@ -73,65 +132,6 @@
     },
     {
       "contentType": "News",
-      "id": "_content_chelseafcennews20220405chelsea-team-news-and-latest-ahe",
-      "type": "NewsCard",
-      "timestamp": "2022-04-05T15:57:00.000Z",
-      "orderDate": "2022-04-05T15:57:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid",
-        "type": "NewsCard",
-        "title": "Tuchel on setting new targets, dealing with the big occasion and what Chelsea must do first",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-05T15:57:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "chelsea-app/Tuchel-WhatsApp-Image",
-          "gravity": "auto",
-          "aspectRatio": 1.500938,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on setting new targets, dealing with the big occasion and what Chelsea must do first",
-      "publishDate": "2022-04-05T15:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-05T15:57:00.000Z",
-      "description": "Last season’s meeting with Real Madrid will have no bearing on our upcoming Champions League quarter-final tie, according to Thomas Tuchel, and the boss believes his team are primed to bounce back after the weekend loss to Brentford.",
-      "matchId": 2282394
-    },
-    {
-      "contentType": "News",
       "id": "_content_chelseafcennews20220405pulisic-on-using-brentford-defea",
       "type": "NewsCard",
       "timestamp": "2022-04-05T16:35:00.000Z",
@@ -186,6 +186,65 @@
       ],
       "date": "2022-04-05T16:35:00.000Z",
       "description": "Christian Pulisic is sure there will be no hangover from our weekend defeat to Brentford when Chelsea take on Real Madrid in the Champions League tomorrow evening…",
+      "matchId": 2282394
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220405courtois-on-playing-in-front-of-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-05T17:53:00.000Z",
+      "orderDate": "2022-04-05T13:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/05/courtois-on-playing-in-front-of-chelsea-fans-and-lukaku-s-adapta",
+        "type": "NewsCard",
+        "title": "Courtois on playing in front of Chelsea fans and Lukaku’s adaptation",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/courtois-on-playing-in-front-of-chelsea-fans-and-lukaku-s-adapta.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-05T17:53:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/05/courtois-on-playing-in-front-of-chelsea-fans-and-lukaku-s-adapta",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thibaut Courtois",
+          "id": "editorial/news/2022/04/05/courtois_real_madrid_presser",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Courtois on playing in front of Chelsea fans and Lukaku’s adaptation",
+      "publishDate": "2022-04-05T17:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/courtois-on-playing-in-front-of-chelsea-fans-and-lukaku-s-adapta.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_romelu-lukaku"
+        },
+        {
+          "title": "Thibaut Courtois",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_thibaut-courtois"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-04-05T17:53:00.000Z",
+      "description": "Eden Hazard has not made the trip due to recent surgery and Carlo Ancelotti’s place in the dug-out tomorrow is uncertain due to Covid, but one of Real Madrid’s former Blues was at Stamford Bridge on the eve of our Champions League match, their current goalkeeper Thibaut Courtois who conducted media conference duties.",
       "matchId": 2282394
     },
     {
@@ -506,71 +565,6 @@
       "date": "2022-04-05T10:30:00.000Z",
       "description": "Chelsea FC Women forward Bethany England says the team are ready for the final stretch of the season as the Blues look to secure a third successive Barclays FA Women’s Super League title.",
       "matchId": 2236426
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220404fa-youth-cup-report--nottingham-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-04T21:00:00.000Z",
-      "orderDate": "2022-04-04T21:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/04/fa-youth-cup-report--nottingham-forest-3-chelsea-1",
-        "type": "NewsCard",
-        "title": "FA Youth Cup report: Nottingham Forest 3 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/04/fa-youth-cup-report--nottingham-forest-3-chelsea-1.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-04T21:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/04/fa-youth-cup-report--nottingham-forest-3-chelsea-1",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Jimi Battling for the ball",
-          "id": "editorial/match-reports/2021-22/nottingham-forest-semis-fa-youth-cup/FAYC_Forest_Jimi_battling",
-          "gravity": "auto",
-          "aspectRatio": 1.0087311,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "FA Youth Cup report: Nottingham Forest 3 Chelsea 1",
-      "publishDate": "2022-04-04T21:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/04/fa-youth-cup-report--nottingham-forest-3-chelsea-1.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        },
-        {
-          "title": "U18 - FA Youth Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_fa-youth-cup"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        }
-      ],
-      "date": "2022-04-04T21:00:00.000Z",
-      "description": "Our young Blues conceded three goals in the space of seven minutes late on as we lost to Nottingham Forest in the semi-final of the FA Youth Cup.",
-      "matchId": 2280658
     }
   ]
 }
