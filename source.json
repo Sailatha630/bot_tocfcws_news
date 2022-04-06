@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 881,
+    "totalItems": 882,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 89,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220406ziyech--games-you-dream-about-an",
+      "type": "NewsCard",
+      "timestamp": "2022-04-06T11:30:00.000Z",
+      "orderDate": "2022-04-06T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/06/ziyech--games-you-dream-about-and-shooting-when-you-think-best",
+        "type": "NewsCard",
+        "title": "Ziyech: Games you dream about and shooting when you think best",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/ziyech--games-you-dream-about-and-shooting-when-you-think-best.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-06T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/06/ziyech--games-you-dream-about-and-shooting-when-you-think-best",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Hakim Ziyech shooting",
+          "id": "editorial/match-reports/2020-21/atletico_home/Ziyech-shot-Atletico-h",
+          "gravity": "auto",
+          "aspectRatio": 1.4108844,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ziyech: Games you dream about and shooting when you think best",
+      "publishDate": "2022-04-06T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/ziyech--games-you-dream-about-and-shooting-when-you-think-best.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-04-06T11:30:00.000Z",
+      "description": "Hakim Ziyech is into his second consecutive Champions League quarter-final with Chelsea, having of course won the competition with us last season. To see the part ‘the Wizard’ has been playing in this run of European success, look no further than the five goals he has contributed to directly in his eight appearances.",
+      "matchId": 2282394
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220406tuchel-heaps-praise-on-kovacic-a",
@@ -521,54 +575,6 @@
       "date": "2022-04-05T13:30:00.000Z",
       "description": "Chelsea rounded off preparations for our Champions League quarter-final first leg against Real Madrid with one last training session at Cobham this morning...",
       "matchId": 2282394
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220405fa-cup-semi-final-ticket-latest",
-      "type": "NewsCard",
-      "timestamp": "2022-04-05T16:48:00.000Z",
-      "orderDate": "2022-04-05T12:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/05/fa-cup-semi-final-ticket-latest",
-        "type": "NewsCard",
-        "title": "FA Cup semi-final ticket latest",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/fa-cup-semi-final-ticket-latest.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-05T16:48:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/05/fa-cup-semi-final-ticket-latest",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Wembley",
-          "id": "editorial/news/2022/01/20/chelsea-wembley-outside-view",
-          "gravity": "auto",
-          "aspectRatio": 1.4997174,
-          "cropMode": "fill"
-        }
-      },
-      "content": "FA Cup semi-final ticket latest",
-      "publishDate": "2022-04-05T16:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/fa-cup-semi-final-ticket-latest.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-04-05T16:48:00.000Z",
-      "description": "The latest ticket news for members for our FA Cup semi-final against Crystal Palace later this month..."
     }
   ]
 }
