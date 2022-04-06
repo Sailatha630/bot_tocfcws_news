@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 879,
+    "totalItems": 880,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 88,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220406tuchel-heaps-praise-on-kovacic-a",
+      "type": "NewsCard",
+      "timestamp": "2022-04-06T09:00:00.000Z",
+      "orderDate": "2022-04-06T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/06/tuchel-heaps-praise-on-kovacic-and-shows-respect-to-real-madrid-",
+        "type": "NewsCard",
+        "title": "Tuchel heaps praise on Kovacic and shows respect to Real Madrid's Benzema ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/tuchel-heaps-praise-on-kovacic-and-shows-respect-to-real-madrid-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-06T09:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/06/tuchel-heaps-praise-on-kovacic-and-shows-respect-to-real-madrid-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/10/29/Kovacic_Tuchel_GettyImages-1349240838",
+          "gravity": "west",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel heaps praise on Kovacic and shows respect to Real Madrid's Benzema ",
+      "publishDate": "2022-04-06T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/tuchel-heaps-praise-on-kovacic-and-shows-respect-to-real-madrid-.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-06T09:00:00.000Z",
+      "description": "Thomas Tuchel has spoken highly of Blues midfielder Mateo Kovacic ahead of our quarter-final tie with the player's former club Real Madrid.",
+      "matchId": 2282394
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220406pre-match-briefing--chelsea-vs-r",
@@ -529,49 +588,6 @@
       "date": "2022-04-05T03:00:00.000Z",
       "description": "On the eve of a historic Champions League meeting at Stamford Bridge, Pat Nevin ponders what lies ahead in both the game and the European footballing landscape…",
       "matchId": 2282394
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220405jonna-andersson-to-depart-chelse",
-      "type": "NewsCard",
-      "timestamp": "2022-04-05T08:00:00.000Z",
-      "orderDate": "2022-04-05T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/05/jonna-andersson-to-depart-chelsea-at-end-of-season",
-        "type": "NewsCard",
-        "title": "Jonna Andersson to depart Chelsea at end of season",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/jonna-andersson-to-depart-chelsea-at-end-of-season.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-05T08:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/05/jonna-andersson-to-depart-chelsea-at-end-of-season",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Jonna-Cobham-pre-LCFC",
-          "gravity": "auto",
-          "aspectRatio": 1.5021081,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jonna Andersson to depart Chelsea at end of season",
-      "publishDate": "2022-04-05T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/jonna-andersson-to-depart-chelsea-at-end-of-season.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-04-05T08:00:00.000Z",
-      "description": "After four-and-a-half prosperous years at Chelsea, defender Jonna Andersson will head to Hammarby IF in her native Sweden this summer."
     }
   ]
 }
