@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 885,
+    "totalItems": 886,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 89,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220406match-report--chelsea-vs-real-ma",
+      "type": "NewsCard",
+      "timestamp": "2022-04-06T20:59:00.000Z",
+      "orderDate": "2022-04-06T20:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/06/match-report--chelsea-vs-real-madrid",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 1 Real Madrid 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/match-report--chelsea-vs-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-06T20:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/06/match-report--chelsea-vs-real-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Havertz",
+          "id": "editorial/match-reports/2021-22/real-madrid-home/havertz-militao-main",
+          "gravity": "auto",
+          "aspectRatio": 1.5002143,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 1 Real Madrid 3",
+      "publishDate": "2022-04-06T20:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/match-report--chelsea-vs-real-madrid.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-06T20:59:00.000Z",
+      "description": "Chelsea have it all to do in Spain next week as Real Madrid beat us for the first time in our history courtesy of Karim Benzema’s hat-trick.",
+      "matchId": 2282394
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220406chelsea-line-up-vs-real-madrid",
@@ -504,70 +558,6 @@
       ],
       "date": "2022-04-05T15:57:00.000Z",
       "description": "Last season’s meeting with Real Madrid will have no bearing on our upcoming Champions League quarter-final tie, according to Thomas Tuchel, and the boss believes his team are primed to bounce back after the weekend loss to Brentford.",
-      "matchId": 2282394
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220405tuchel-hopes-to-welcome-ancelott",
-      "type": "NewsCard",
-      "timestamp": "2022-04-05T16:43:00.000Z",
-      "orderDate": "2022-04-05T16:43:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/05/tuchel-hopes-to-welcome-ancelotti-back-to-the-bridge",
-        "type": "NewsCard",
-        "title": "Tuchel hopes to welcome Ancelotti back to the Bridge",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/tuchel-hopes-to-welcome-ancelotti-back-to-the-bridge.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-05T16:43:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/05/tuchel-hopes-to-welcome-ancelotti-back-to-the-bridge",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/blogs-and-columns/2017-18/Ancelotti_GettyImages-114192857",
-          "gravity": "auto",
-          "aspectRatio": 1.5045135,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel hopes to welcome Ancelotti back to the Bridge",
-      "publishDate": "2022-04-05T16:43:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/tuchel-hopes-to-welcome-ancelotti-back-to-the-bridge.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Carlo Ancelotti",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_carlo-ancelotti"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-05T16:43:00.000Z",
-      "description": "Thomas Tuchel is hoping that he will have Carlo Ancelotti next to him on the Stamford Bridge touchline for tomorrow’s Champions League tie against Real Madrid.",
       "matchId": 2282394
     }
   ]
