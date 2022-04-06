@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 884,
+    "totalItems": 885,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 89,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220406chelsea-line-up-vs-real-madrid",
+      "type": "NewsCard",
+      "timestamp": "2022-04-06T17:50:00.000Z",
+      "orderDate": "2022-04-06T17:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/06/chelsea-line-up-vs-real-madrid",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Real Madrid",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/chelsea-line-up-vs-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-06T17:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/06/chelsea-line-up-vs-real-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Reece James",
+          "id": "editorial/match-reports/2021-22/real-madrid-home/reece-james-real-madrid",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Real Madrid",
+      "publishDate": "2022-04-06T17:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/chelsea-line-up-vs-real-madrid.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-06T17:50:00.000Z",
+      "description": "Thomas Tuchel has made a quartet of changes to the Chelsea starting XI for tonight’s game against Real Madrid, with his selection suggesting we will revert to a system with wing-backs.",
+      "matchId": 2282394
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220406ziyech--games-you-dream-about-an",
@@ -514,64 +568,6 @@
       ],
       "date": "2022-04-05T16:43:00.000Z",
       "description": "Thomas Tuchel is hoping that he will have Carlo Ancelotti next to him on the Stamford Bridge touchline for tomorrow’s Champions League tie against Real Madrid.",
-      "matchId": 2282394
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220405pulisic-on-using-brentford-defea",
-      "type": "NewsCard",
-      "timestamp": "2022-04-05T16:35:00.000Z",
-      "orderDate": "2022-04-05T15:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/05/pulisic-on-using-brentford-defeat-as-fuel-and-drawing-confidence",
-        "type": "NewsCard",
-        "title": "Pulisic on using Brentford defeat as fuel and drawing confidence from last year’s semi-final success",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/pulisic-on-using-brentford-defeat-as-fuel-and-drawing-confidence.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-05T16:35:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/05/pulisic-on-using-brentford-defeat-as-fuel-and-drawing-confidence",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/04/05/Pulisic-press-conference-pre-Real-Madrid-h",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pulisic on using Brentford defeat as fuel and drawing confidence from last year’s semi-final success",
-      "publishDate": "2022-04-05T16:35:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/pulisic-on-using-brentford-defeat-as-fuel-and-drawing-confidence.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-05T16:35:00.000Z",
-      "description": "Christian Pulisic is sure there will be no hangover from our weekend defeat to Brentford when Chelsea take on Real Madrid in the Champions League tomorrow evening…",
       "matchId": 2282394
     }
   ]
