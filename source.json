@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 886,
+    "totalItems": 887,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 89,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220406tuchel-reacts-to-real-madrid-res",
+      "type": "NewsCard",
+      "timestamp": "2022-04-06T21:31:00.000Z",
+      "orderDate": "2022-04-06T21:31:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/06/tuchel-reacts-to-real-madrid-result",
+        "type": "NewsCard",
+        "title": "Tuchel reflects on a below-par performance, assesses life in the tie, explains his half-time changes and why the focus must be on Southampton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/tuchel-reacts-to-real-madrid-result.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-06T21:31:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/06/tuchel-reacts-to-real-madrid-result",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "chelsea-app/tuchel-real-DTW_3654-659304",
+          "gravity": "north_east",
+          "aspectRatio": 1.0254307,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reflects on a below-par performance, assesses life in the tie, explains his half-time changes and why the focus must be on Southampton",
+      "publishDate": "2022-04-06T21:31:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/tuchel-reacts-to-real-madrid-result.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-04-06T21:31:00.000Z",
+      "description": "After watching his side fall to a 3-1 defeat in the Champions League at the hands of Real Madrid, Thomas Tuchel reflected on a below-par performance from his side",
+      "matchId": 2282394
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220406match-report--chelsea-vs-real-ma",
@@ -499,65 +553,6 @@
       ],
       "date": "2022-04-06T14:30:00.000Z",
       "description": "Christian Pulisic has said he feels rested and ready to face Real Madrid tonight as he targets a strong finish to the club campaign...",
-      "matchId": 2282394
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220405chelsea-team-news-and-latest-ahe",
-      "type": "NewsCard",
-      "timestamp": "2022-04-05T15:57:00.000Z",
-      "orderDate": "2022-04-05T18:13:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid",
-        "type": "NewsCard",
-        "title": "Tuchel on setting new targets, dealing with the big occasion and what Chelsea must do first",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-05T15:57:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "chelsea-app/Tuchel-WhatsApp-Image",
-          "gravity": "auto",
-          "aspectRatio": 1.500938,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on setting new targets, dealing with the big occasion and what Chelsea must do first",
-      "publishDate": "2022-04-05T15:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/chelsea-team-news-and-latest-ahead-of-real-madrid.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-05T15:57:00.000Z",
-      "description": "Last season’s meeting with Real Madrid will have no bearing on our upcoming Champions League quarter-final tie, according to Thomas Tuchel, and the boss believes his team are primed to bounce back after the weekend loss to Brentford.",
       "matchId": 2282394
     }
   ]
