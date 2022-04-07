@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 888,
+    "totalItems": 889,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 89,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220407christensen--we-have-to-fix-it-q",
+      "type": "NewsCard",
+      "timestamp": "2022-04-07T03:00:00.000Z",
+      "orderDate": "2022-04-07T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/07/christensen--we-have-to-fix-it-quick-",
+        "type": "NewsCard",
+        "title": "Christensen: We have to fix it quick ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/07/christensen--we-have-to-fix-it-quick-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-07T03:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/07/christensen--we-have-to-fix-it-quick-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Andreas Christensen",
+          "id": "editorial/match-reports/2021-22/real-madrid-home/christensen-real-madrid-home",
+          "gravity": "north",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Christensen: We have to fix it quick ",
+      "publishDate": "2022-04-07T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/07/christensen--we-have-to-fix-it-quick-.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-04-07T03:00:00.000Z",
+      "description": "Andreas Christensen says the Blues must find a rapid remedy to our recent defensive issues if we are to advance to the Champions League semi-finals, a task the Dane acknowledges will be extremely difficult but not impossible after losing our first leg with Real Madrid 3-1.",
+      "matchId": 2282394
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220406tuchel-reacts-to-real-madrid-res",
@@ -511,60 +565,6 @@
       ],
       "date": "2022-04-06T09:04:00.000Z",
       "description": "Real Madrid manager Carlo Ancelotti has been given the all-clear to travel to London after testing negative for Covid-19 and will be in the dugout for tonight's Champions League quarter-final tie.",
-      "matchId": 2282394
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220405blues-bulletin--chelsea-vs-real-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-06T03:00:00.000Z",
-      "orderDate": "2022-04-06T01:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/05/blues-bulletin--chelsea-vs-real-madrid",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Real Madrid",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/blues-bulletin--chelsea-vs-real-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-06T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/05/blues-bulletin--chelsea-vs-real-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Havertz",
-          "id": "chelsea-app/Militao-GettyImages-1316506883",
-          "gravity": "north",
-          "aspectRatio": 1.5794156,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Real Madrid",
-      "publishDate": "2022-04-06T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/05/blues-bulletin--chelsea-vs-real-madrid.html",
-      "readTimeInMins": 36,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-06T03:00:00.000Z",
-      "description": "We are back in Champions League action as Real Madrid come to Stamford Bridge for the first leg of our quarter-final. Here are all the statistics you need ahead of facing the Spanish side in the competition for the second season in a row...",
       "matchId": 2282394
     }
   ]
