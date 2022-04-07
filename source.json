@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 890,
+    "totalItems": 891,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 89,
+    "pageCount": 90,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220407mount--we-have-a-mountain-to-cli",
+      "type": "NewsCard",
+      "timestamp": "2022-04-07T11:13:00.000Z",
+      "orderDate": "2022-04-07T11:13:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/07/mount--we-have-a-mountain-to-climb-but-we-are-chelsea",
+        "type": "NewsCard",
+        "title": "Mount: We have a mountain to climb but we are Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/07/mount--we-have-a-mountain-to-climb-but-we-are-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-07T11:13:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/07/mount--we-have-a-mountain-to-climb-but-we-are-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/real-madrid-home/Mount-Real-Madrid-home-1",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mount: We have a mountain to climb but we are Chelsea",
+      "publishDate": "2022-04-07T11:13:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/07/mount--we-have-a-mountain-to-climb-but-we-are-chelsea.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-07T11:13:00.000Z",
+      "description": "Mason Mount believes Chelsea can still turn our Champions League quarter-final tie with Real Madrid back in our favour next week, but admits the task at hand is a monumental one.",
+      "matchId": 2282394
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220407christensen--we-have-to-fix-it-q",
@@ -505,60 +559,6 @@
       ],
       "date": "2022-04-06T09:00:00.000Z",
       "description": "Thomas Tuchel has spoken highly of Blues midfielder Mateo Kovacic ahead of our quarter-final tie with the player's former club Real Madrid.",
-      "matchId": 2282394
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220406pre-match-briefing--chelsea-vs-r",
-      "type": "NewsCard",
-      "timestamp": "2022-04-06T03:00:00.000Z",
-      "orderDate": "2022-04-06T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/06/pre-match-briefing--chelsea-vs-real-madrid",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Real Madrid",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/pre-match-briefing--chelsea-vs-real-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-06T03:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/04/06/pre-match-briefing--chelsea-vs-real-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Stamford Bridge Champions League",
-          "id": "editorial/news/2022/04/05/big_screen_real_madrid_home",
-          "gravity": "north_west",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Real Madrid",
-      "publishDate": "2022-04-06T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/06/pre-match-briefing--chelsea-vs-real-madrid.html",
-      "readTimeInMins": 21,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-06T03:00:00.000Z",
-      "description": "So we meet again! The Champions League last-eight stage comes to Stamford Bridge tonight and club historian Rick Glanvill and club statistician Paul Dutton are ready for a rematch with Real…",
       "matchId": 2282394
     }
   ]
