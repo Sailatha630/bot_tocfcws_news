@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 898,
+    "totalItems": 899,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 90,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220408tuchel-on-believing-in-lukaku-an",
+      "type": "NewsCard",
+      "timestamp": "2022-04-08T21:30:00.000Z",
+      "orderDate": "2022-04-08T21:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/08/tuchel-on-believing-in-lukaku-and-an-update-on-kante-and-jorginh",
+        "type": "NewsCard",
+        "title": "Tuchel on believing in Lukaku and an update on Kante and Jorginho’s future",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/tuchel-on-believing-in-lukaku-and-an-update-on-kante-and-jorginh.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-08T21:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/08/tuchel-on-believing-in-lukaku-and-an-update-on-kante-and-jorginh",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/01/04/Tuchel_Lukaku_GettyImages-1235314414",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on believing in Lukaku and an update on Kante and Jorginho’s future",
+      "publishDate": "2022-04-08T21:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/tuchel-on-believing-in-lukaku-and-an-update-on-kante-and-jorginh.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "N'Golo Kante",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ngolokante"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Jorginho",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_Jorginho"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2022-04-08T21:30:00.000Z",
+      "description": "Thomas Tuchel has reiterated that fortunes can turn around in football in the blink of an eye and is backing Romelu Lukaku to find his early season form again.",
+      "matchId": 2210589
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220408tuchel-backs-kante-and-mendy--ex",
@@ -514,60 +577,6 @@
       ],
       "date": "2022-04-07T14:02:00.000Z",
       "description": "We have received a further allocation of tickets for our FA Cup semi-final against Crystal Palace."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220407christensen--we-have-to-fix-it-q",
-      "type": "NewsCard",
-      "timestamp": "2022-04-07T03:00:00.000Z",
-      "orderDate": "2022-04-07T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/07/christensen--we-have-to-fix-it-quick-",
-        "type": "NewsCard",
-        "title": "Christensen: We have to fix it quick ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/07/christensen--we-have-to-fix-it-quick-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-07T03:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/07/christensen--we-have-to-fix-it-quick-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Andreas Christensen",
-          "id": "editorial/match-reports/2021-22/real-madrid-home/christensen-real-madrid-home",
-          "gravity": "north",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Christensen: We have to fix it quick ",
-      "publishDate": "2022-04-07T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/07/christensen--we-have-to-fix-it-quick-.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Andreas Christensen",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_andreas-christensen"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-04-07T03:00:00.000Z",
-      "description": "Andreas Christensen says the Blues must find a rapid remedy to our recent defensive issues if we are to advance to the Champions League semi-finals, a task the Dane acknowledges will be extremely difficult but not impossible after losing our first leg with Real Madrid 3-1.",
-      "matchId": 2282394
     }
   ]
 }
