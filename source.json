@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 899,
+    "totalItems": 900,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 90,
@@ -197,6 +197,70 @@
       "date": "2022-04-08T12:15:00.000Z",
       "description": "Thomas Tuchel has said that Callum Hudson-Odoi is ‘weeks rather than days’ away from returning to action, while he also revealed that Romelu Lukaku and Hakim Ziyech are both injury doubts for tomorrow’s trip to Southampton.",
       "matchId": 2210589
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220408pl2-report--manchester-united-ch",
+      "type": "NewsCard",
+      "timestamp": "2022-04-08T22:00:00.000Z",
+      "orderDate": "2022-04-08T10:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/08/pl2-report--manchester-united-chelsea-",
+        "type": "NewsCard",
+        "title": "PL2 Report: Manchester United 1 Chelsea 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/pl2-report--manchester-united-chelsea-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-08T22:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/08/pl2-report--manchester-united-chelsea-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " 1-0 loss to Manchester United at Old Trafford",
+          "id": "editorial/match-reports/2021-22/manchester-united-away-pl2/PL2_Manchester_United_Away_Harvey_Vale_challenging_for_ball",
+          "gravity": "auto",
+          "aspectRatio": 1.1009752,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "PL2 Report: Manchester United 1 Chelsea 0",
+      "publishDate": "2022-04-08T22:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/pl2-report--manchester-united-chelsea-.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Development - PL2",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_academy-pl2"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        }
+      ],
+      "date": "2022-04-08T22:00:00.000Z",
+      "description": "Our development squad lost 1-0 to Manchester United at Old Trafford this evening, with an Alejandro Garnacho goal enough to condemn our young Blues to a damaging defeat."
     },
     {
       "contentType": "Match Preview",
@@ -529,54 +593,6 @@
       "date": "2022-04-07T10:49:00.000Z",
       "description": "The statistics back up Thomas Tuchel’s post-match assessment of our defeat to Real Madrid, showing that the damage was done in the first half before an attempted fight-back after the break, which could have produced more on a different night.",
       "matchId": 2282394
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220407extra-fa-cup-semi-final-tickets-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-07T14:02:00.000Z",
-      "orderDate": "2022-04-07T09:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/07/extra-fa-cup-semi-final-tickets-available-tomorrow-",
-        "type": "NewsCard",
-        "title": "Extra FA Cup semi-final tickets available tomorrow ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/07/extra-fa-cup-semi-final-tickets-available-tomorrow-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-07T14:02:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/07/extra-fa-cup-semi-final-tickets-available-tomorrow-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Wembley",
-          "id": "editorial/news/2021/05/14/Wembley_GettyImages-1312972543",
-          "gravity": "auto",
-          "aspectRatio": 1.7780331,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Extra FA Cup semi-final tickets available tomorrow ",
-      "publishDate": "2022-04-07T14:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/07/extra-fa-cup-semi-final-tickets-available-tomorrow-.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-04-07T14:02:00.000Z",
-      "description": "We have received a further allocation of tickets for our FA Cup semi-final against Crystal Palace."
     }
   ]
 }
