@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 904,
+    "totalItems": 905,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 91,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220409chelsea-line-up-vs-southampton",
+      "type": "NewsCard",
+      "timestamp": "2022-04-09T12:59:00.000Z",
+      "orderDate": "2022-04-09T12:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/09/chelsea-line-up-vs-southampton",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Southampton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/chelsea-line-up-vs-southampton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-09T12:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/09/chelsea-line-up-vs-southampton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/southampton-away/southampton_away_dressing_room",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Southampton",
+      "publishDate": "2022-04-09T12:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/chelsea-line-up-vs-southampton.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-09T12:59:00.000Z",
+      "description": "Thomas Tuchel makes four changes from the side that began the defeat against Real Madrid.",
+      "matchId": 2210589
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220409tuchel--i-couldn-t-sleep-without",
@@ -515,48 +569,6 @@
       "date": "2022-04-08T08:40:00.000Z",
       "description": "Chelsea are set for the South Coast this weekend trying to get back to winning ways. Club historian Rick Glanvill and club statistician Paul Dutton are ready for the Saints...",
       "matchId": 2210589
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220408all-smiles-at-chelsea-foundation",
-      "type": "NewsCard",
-      "timestamp": "2022-04-08T15:53:00.000Z",
-      "orderDate": "2022-04-08T07:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/08/all-smiles-at-chelsea-foundation-s-community-day",
-        "type": "NewsCard",
-        "title": "All smiles at Chelsea Foundation’s community day",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/all-smiles-at-chelsea-foundation-s-community-day.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-08T15:53:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/08/all-smiles-at-chelsea-foundation-s-community-day",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Vicky_open_training",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "All smiles at Chelsea Foundation’s community day",
-      "publishDate": "2022-04-08T15:53:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/all-smiles-at-chelsea-foundation-s-community-day.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-04-08T15:53:00.000Z",
-      "description": "Yesterday, the Foundation hosted its latest community day at Cobham training ground for a number of extra special guests."
     }
   ]
 }
