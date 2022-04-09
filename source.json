@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 903,
+    "totalItems": 904,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 91,
@@ -55,6 +55,60 @@
       "date": "2022-04-09T11:15:00.000Z",
       "description": "Thomas Tuchel admits he barely slept on Wednesday night following our defeat to Real Madrid but believes immediately analysing his Chelsea side’s performances is the best formula for long-term success.",
       "matchId": 2282394
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220409pre-match-quiz--bouncing-back-fr",
+      "type": "NewsCard",
+      "timestamp": "2022-04-09T10:00:00.000Z",
+      "orderDate": "2022-04-09T10:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/09/pre-match-quiz--bouncing-back-from-defeat",
+        "type": "NewsCard",
+        "title": "Pre-match quiz: Bouncing back from defeat",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/pre-match-quiz--bouncing-back-from-defeat.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-09T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/09/pre-match-quiz--bouncing-back-from-defeat",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Jorginho",
+          "id": "editorial/news/2022/04/07/Team-celebrations-saints-home",
+          "gravity": "auto",
+          "aspectRatio": 1.5355469,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match quiz: Bouncing back from defeat",
+      "publishDate": "2022-04-09T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/pre-match-quiz--bouncing-back-from-defeat.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-09T10:00:00.000Z",
+      "description": "Every previous time we have lost a Premier League home game under Thomas Tuchel we have bounced back by winning our next fixture in the competition, but how well do you remember those matches?",
+      "matchId": 2210589
     },
     {
       "contentType": "Interview",
@@ -503,60 +557,6 @@
       ],
       "date": "2022-04-08T15:53:00.000Z",
       "description": "Yesterday, the Foundation hosted its latest community day at Cobham training ground for a number of extra special guests."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220408blues-bulletin--southampton-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2022-04-08T03:00:00.000Z",
-      "orderDate": "2022-04-08T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/08/blues-bulletin--southampton-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Southampton vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/blues-bulletin--southampton-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-08T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/08/blues-bulletin--southampton-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Loftus-Cheek",
-          "id": "chelsea-app/Loftus-cheek-GettyImages-1344439319",
-          "gravity": "auto",
-          "aspectRatio": 1.6460177,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Southampton vs Chelsea",
-      "publishDate": "2022-04-08T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/blues-bulletin--southampton-vs-chelsea.html",
-      "readTimeInMins": 28,
-      "tags": [
-        {
-          "title": "Southampton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_southampton"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-08T03:00:00.000Z",
-      "description": "After the disappointment of Wednesday night attention turns quickly to Southampton at St Mary's, a happy hunting ground in recent years as the pre-match stats show...",
-      "matchId": 2210589
     }
   ]
 }
