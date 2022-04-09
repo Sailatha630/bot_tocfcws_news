@@ -1,12 +1,82 @@
 {
   "pagination": {
-    "totalItems": 907,
+    "totalItems": 908,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 91,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220409watch-the-highlights-and-all-six",
+      "type": "NewsCard",
+      "timestamp": "2022-04-09T18:00:00.000Z",
+      "orderDate": "2022-04-09T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/09/watch-the-highlights-and-all-six-goals-against-southampton",
+        "type": "NewsCard",
+        "title": "Watch the highlights and all six goals against Southampton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/watch-the-highlights-and-all-six-goals-against-southampton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-09T18:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/09/watch-the-highlights-and-all-six-goals-against-southampton",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Southampton 0-6 Chelsea (A) | Premier League Highlights ",
+          "videoId": "JqplySAf",
+          "bucket": "prod-cfc",
+          "description": "Highlights from our Premier League match against Southampton.",
+          "duration": 136000,
+          "date": "2022-04-09T16:02:53.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/JqplySAf/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/watch-the-highlights-and-all-six-goals-against-southampton.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/04/09/watch-the-highlights-and-all-six-goals-against-southampton?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/04/09/watch-the-highlights-and-all-six-goals-against-southampton",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from our Premier League match against Southampton."
+      },
+      "content": "Watch the highlights and all six goals against Southampton",
+      "publishDate": "2022-04-09T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/watch-the-highlights-and-all-six-goals-against-southampton.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-09T18:00:00.000Z",
+      "description": "Chelsea ran rampant on the South Coast as we got back to winning ways in style by thrashing Southampton 6-0 in the Premier League.",
+      "matchId": 2210589
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220409tuchel-reaction-to-beating-south",
@@ -504,65 +574,6 @@
       ],
       "date": "2022-04-08T14:10:00.000Z",
       "description": "Thomas Tuchel spoke in depth at his press conference today about the problems currently afflicting his Chelsea side and what needs to be done to resolve them, with the boss also lending his support to N’Golo Kante and Edouard Mendy following a tricky midweek outing against Real Madrid.",
-      "matchId": 2210589
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220408tuchel-rules-hudson-odoi-out-of-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-08T12:15:00.000Z",
-      "orderDate": "2022-04-08T12:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/08/tuchel-rules-hudson-odoi-out-of-southampton-trip-and-confirms-du",
-        "type": "NewsCard",
-        "title": "Tuchel rules Hudson-Odoi out of Southampton trip and confirms duo are doubts",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/tuchel-rules-hudson-odoi-out-of-southampton-trip-and-confirms-du.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-08T12:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/08/tuchel-rules-hudson-odoi-out-of-southampton-trip-and-confirms-du",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/tuchel-press-DAZ_6757",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel rules Hudson-Odoi out of Southampton trip and confirms duo are doubts",
-      "publishDate": "2022-04-08T12:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/08/tuchel-rules-hudson-odoi-out-of-southampton-trip-and-confirms-du.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2022-04-08T12:15:00.000Z",
-      "description": "Thomas Tuchel has said that Callum Hudson-Odoi is ‘weeks rather than days’ away from returning to action, while he also revealed that Romelu Lukaku and Hakim Ziyech are both injury doubts for tomorrow’s trip to Southampton.",
       "matchId": 2210589
     }
   ]
