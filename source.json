@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 910,
+    "totalItems": 911,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 91,
+    "pageCount": 92,
     "startFrom": 0
   },
   "newsFeed": [
@@ -118,6 +118,56 @@
       ],
       "date": "2022-04-10T07:00:00.000Z",
       "description": "Chelsea were superb at Southampton yesterday and at the heart of so much that was good about our game was Mason Mount, who relishes a trip to St Mary’s more than most.",
+      "matchId": 2210589
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20220410hitting-the-hosts-for-six",
+      "type": "NewsCard",
+      "timestamp": "2022-04-10T10:11:00.000Z",
+      "orderDate": "2022-04-10T05:11:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/10/hitting-the-hosts-for-six",
+        "type": "NewsCard",
+        "title": "Hitting the hosts for six",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/10/hitting-the-hosts-for-six.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-10T10:11:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/10/hitting-the-hosts-for-six",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Timo Werner",
+          "id": "editorial/match-reports/2021-22/southampton-away/werner-celeb-saints-a",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Hitting the hosts for six",
+      "publishDate": "2022-04-10T10:11:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/10/hitting-the-hosts-for-six.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-10T10:11:00.000Z",
+      "description": "Chelsea’s 6-0 win at Southampton on Saturday was one for the record books as we netted six away goals in a Premier League match for the fifth time and equalled our biggest winning margin for a top-flight game outside Stamford Bridge.",
       "matchId": 2210589
     },
     {
@@ -513,49 +563,6 @@
       "date": "2022-04-09T03:00:00.000Z",
       "description": "Malang Sarr insists the Blues remain confident ahead of our game at Southampton despite a couple of recent setbacks, and the defender has underlined the significance of today’s test on the South Coast in the battle for a top four spot.",
       "matchId": 2210589
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220409international-blues-round-up--pa",
-      "type": "NewsCard",
-      "timestamp": "2022-04-09T07:59:00.000Z",
-      "orderDate": "2022-04-08T23:35:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/09/international-blues-round-up--part-one",
-        "type": "NewsCard",
-        "title": "International Blues round-up: Part one",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/international-blues-round-up--part-one.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-09T07:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/09/international-blues-round-up--part-one",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Millie_bright_north_macedonia",
-          "gravity": "auto",
-          "aspectRatio": 1.4998453,
-          "cropMode": "fill"
-        }
-      },
-      "content": "International Blues round-up: Part one",
-      "publishDate": "2022-04-09T07:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/international-blues-round-up--part-one.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-04-09T07:59:00.000Z",
-      "description": "With our Blues heading off on international duty, we recap all the fixtures that have taken place so far, including a number of FIFA Women's World Cup qualifiers and friendlies."
     }
   ]
 }
