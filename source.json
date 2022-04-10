@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 911,
+    "totalItems": 912,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 92,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220410the-debrief--change-to-attacking",
+      "type": "NewsCard",
+      "timestamp": "2022-04-10T14:21:00.000Z",
+      "orderDate": "2022-04-10T14:21:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/10/the-debrief--change-to-attacking-shape-and-wing-back-roles-open-",
+        "type": "NewsCard",
+        "title": "The Debrief: Change to attacking shape and wing-back roles open up Southampton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/10/the-debrief--change-to-attacking-shape-and-wing-back-roles-open-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-10T14:21:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/10/the-debrief--change-to-attacking-shape-and-wing-back-roles-open-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/04/10/Debrief_Southampton_A_wide",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Change to attacking shape and wing-back roles open up Southampton",
+      "publishDate": "2022-04-10T14:21:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/10/the-debrief--change-to-attacking-shape-and-wing-back-roles-open-.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-10T14:21:00.000Z",
+      "description": "A performance of the highest quality saw us thrash Southampton 6-0 and the statistics back up Thomas Tuchel’s claim that a change to the way our front three lined up was key to the victory…",
+      "matchId": 2210589
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220410alonso-already-looking-ahead-aft",
@@ -508,60 +561,6 @@
       ],
       "date": "2022-04-09T10:00:00.000Z",
       "description": "Every previous time we have lost a Premier League home game under Thomas Tuchel we have bounced back by winning our next fixture in the competition, but how well do you remember those matches?",
-      "matchId": 2210589
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220409sarr-on-sticking-to-the-task-and",
-      "type": "NewsCard",
-      "timestamp": "2022-04-09T03:00:00.000Z",
-      "orderDate": "2022-04-09T01:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/09/sarr-on-sticking-to-the-task-and-the-inspirational-thiago-silva",
-        "type": "NewsCard",
-        "title": "Sarr on sticking to the task and the inspirational Thiago Silva",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/sarr-on-sticking-to-the-task-and-the-inspirational-thiago-silva.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-09T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/09/sarr-on-sticking-to-the-task-and-the-inspirational-thiago-silva",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Malang Sarr",
-          "id": "editorial/news/2022/04/08/malang-sarr-training-stock",
-          "gravity": "north",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Sarr on sticking to the task and the inspirational Thiago Silva",
-      "publishDate": "2022-04-09T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/sarr-on-sticking-to-the-task-and-the-inspirational-thiago-silva.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Malang Sarr",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_malang-sarr"
-        }
-      ],
-      "date": "2022-04-09T03:00:00.000Z",
-      "description": "Malang Sarr insists the Blues remain confident ahead of our game at Southampton despite a couple of recent setbacks, and the defender has underlined the significance of today’s test on the South Coast in the battle for a top four spot.",
       "matchId": 2210589
     }
   ]
