@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 912,
+    "totalItems": 913,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 92,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220411tuchel-on-werner-s--big-step--an",
+      "type": "NewsCard",
+      "timestamp": "2022-04-11T03:01:00.000Z",
+      "orderDate": "2022-04-11T03:01:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/11/tuchel-on-werner-s--big-step--and-more-work-to-do",
+        "type": "NewsCard",
+        "title": "Tuchel on Werner’s ‘big step’ and more work to do",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/tuchel-on-werner-s--big-step--and-more-work-to-do.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-11T03:01:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/11/tuchel-on-werner-s--big-step--and-more-work-to-do",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/10/15/tuchel_werner",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on Werner’s ‘big step’ and more work to do",
+      "publishDate": "2022-04-11T03:01:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/tuchel-on-werner-s--big-step--and-more-work-to-do.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        }
+      ],
+      "date": "2022-04-11T03:01:00.000Z",
+      "description": "Thomas Tuchel believes Timo Werner will have gained confidence from his performance against Southampton, but points out the striker is still learning when it comes to life at a big club like Chelsea and how he fits into our style of play in the Premier League.",
+      "matchId": 2210589
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220410the-debrief--change-to-attacking",
@@ -508,60 +572,6 @@
       "date": "2022-04-09T11:15:00.000Z",
       "description": "Thomas Tuchel admits he barely slept on Wednesday night following our defeat to Real Madrid but believes immediately analysing his Chelsea side’s performances is the best formula for long-term success.",
       "matchId": 2282394
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220409pre-match-quiz--bouncing-back-fr",
-      "type": "NewsCard",
-      "timestamp": "2022-04-09T10:00:00.000Z",
-      "orderDate": "2022-04-09T10:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/09/pre-match-quiz--bouncing-back-from-defeat",
-        "type": "NewsCard",
-        "title": "Pre-match quiz: Bouncing back from defeat",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/pre-match-quiz--bouncing-back-from-defeat.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-09T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/09/pre-match-quiz--bouncing-back-from-defeat",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Jorginho",
-          "id": "editorial/news/2022/04/07/Team-celebrations-saints-home",
-          "gravity": "auto",
-          "aspectRatio": 1.5355469,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-match quiz: Bouncing back from defeat",
-      "publishDate": "2022-04-09T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/09/pre-match-quiz--bouncing-back-from-defeat.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Southampton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_southampton"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-09T10:00:00.000Z",
-      "description": "Every previous time we have lost a Premier League home game under Thomas Tuchel we have bounced back by winning our next fixture in the competition, but how well do you remember those matches?",
-      "matchId": 2210589
     }
   ]
 }
