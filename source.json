@@ -1,12 +1,63 @@
 {
   "pagination": {
-    "totalItems": 922,
+    "totalItems": 923,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 93,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220411gallery--training-in-madrid-and-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-11T20:05:00.000Z",
+      "orderDate": "2022-04-11T20:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/11/gallery--training-in-madrid-and-bernabeu-visit",
+        "type": "NewsCard",
+        "title": "Gallery: Training in Madrid and Bernabeu visit",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/gallery--training-in-madrid-and-bernabeu-visit.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-11T20:05:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/11/gallery--training-in-madrid-and-bernabeu-visit",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Players listening to the boss",
+          "id": "editorial/news/2022/04/11/bernabeu-tuchel-talk",
+          "gravity": "center",
+          "aspectRatio": 1.5179789,
+          "cropMode": "fill",
+          "isFullScale": true
+        },
+        "caption": " Players listening to the boss"
+      },
+      "content": "Gallery: Training in Madrid and Bernabeu visit",
+      "publishDate": "2022-04-11T20:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/gallery--training-in-madrid-and-bernabeu-visit.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        }
+      ],
+      "date": "2022-04-11T20:05:00.000Z",
+      "description": "Preparations for our Champions League quarter-final second leg against Real Madrid stepped up this evening as the squad trained in the Spanish capital before visiting the Bernabeu, where Chelsea will play for the first time in our history on Tuesday.",
+      "matchId": 2282398
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220411chelsea-arrive-in-madrid-",
@@ -529,59 +580,6 @@
       "date": "2022-04-11T09:08:00.000Z",
       "description": "Chelsea supporters who have purchased tickets from the club for the Champions League game in Madrid should have received an email containing important information regarding entry to the stadium.",
       "matchId": 2282398
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220410the-debrief--change-to-attacking",
-      "type": "NewsCard",
-      "timestamp": "2022-04-10T14:21:00.000Z",
-      "orderDate": "2022-04-10T14:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/10/the-debrief--change-to-attacking-shape-and-wing-back-roles-open-",
-        "type": "NewsCard",
-        "title": "The Debrief: Change to attacking shape and wing-back roles open up Southampton",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/10/the-debrief--change-to-attacking-shape-and-wing-back-roles-open-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-10T14:21:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/10/the-debrief--change-to-attacking-shape-and-wing-back-roles-open-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/04/10/Debrief_Southampton_A_wide",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Change to attacking shape and wing-back roles open up Southampton",
-      "publishDate": "2022-04-10T14:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/10/the-debrief--change-to-attacking-shape-and-wing-back-roles-open-.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Southampton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_southampton"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-10T14:21:00.000Z",
-      "description": "A performance of the highest quality saw us thrash Southampton 6-0 and the statistics back up Thomas Tuchel’s claim that a change to the way our front three lined up was key to the victory…",
-      "matchId": 2210589
     }
   ]
 }
