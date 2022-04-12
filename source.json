@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 925,
+    "totalItems": 926,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 93,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220412tuchel-dreaming-of-doing-the-imp",
+      "type": "NewsCard",
+      "timestamp": "2022-04-12T08:19:00.000Z",
+      "orderDate": "2022-04-12T08:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/12/tuchel-dreaming-of-doing-the-impossible",
+        "type": "NewsCard",
+        "title": "Tuchel dreaming of doing the impossible",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/tuchel-dreaming-of-doing-the-impossible.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-12T08:19:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/12/tuchel-dreaming-of-doing-the-impossible",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2022/04/11/Tuchel_travel_Madrid_CFC_Chelsea_Tra_26463",
+          "gravity": "face",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel dreaming of doing the impossible",
+      "publishDate": "2022-04-12T08:19:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/tuchel-dreaming-of-doing-the-impossible.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-12T08:19:00.000Z",
+      "description": "Thomas Tuchel believes anything is possible in Madrid, even as he acknowledges we face one of the toughest challenges in football if we are to overturn our deficit in the Champions League quarter-finals tonight.",
+      "matchId": 2282398
+    },
     {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220412pat-nevin--what-i-expect-against",
@@ -536,53 +595,6 @@
       ],
       "date": "2022-04-11T14:26:00.000Z",
       "description": "In our weekly round-up of the action involving Chelsea players out on loan, there were some important results in Turkey and Italy, while a young Blue is making a good start to his first senior season in Norway..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220411getting-to-know-chelsea-women--p",
-      "type": "NewsCard",
-      "timestamp": "2022-04-11T14:41:00.000Z",
-      "orderDate": "2022-04-11T04:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/11/getting-to-know-chelsea-women--pernille-harder",
-        "type": "NewsCard",
-        "title": "Getting to Know Chelsea Women: Pernille Harder",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/getting-to-know-chelsea-women--pernille-harder.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-11T14:41:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/11/getting-to-know-chelsea-women--pernille-harder",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Women_Tottenham_match_preview",
-          "gravity": "auto",
-          "aspectRatio": 1.503006,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Getting to Know Chelsea Women: Pernille Harder",
-      "publishDate": "2022-04-11T14:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/getting-to-know-chelsea-women--pernille-harder.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Pernille Harder",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_women_pernille-harder"
-        }
-      ],
-      "date": "2022-04-11T14:41:00.000Z",
-      "description": "We feature Pernille Harder in our latest Getting to Know Chelsea Women feature. The Danish and Blues striker gives us an insight into her life away from football…"
     }
   ]
 }
