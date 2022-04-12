@@ -1,12 +1,87 @@
 {
   "pagination": {
-    "totalItems": 931,
+    "totalItems": 932,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 94,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220412watch-the-highlights-from-real-m",
+      "type": "NewsCard",
+      "timestamp": "2022-04-12T23:16:00.000Z",
+      "orderDate": "2022-04-12T23:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/12/watch-the-highlights-from-real-madrid",
+        "type": "NewsCard",
+        "title": "Watch the highlights from Real Madrid",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/watch-the-highlights-from-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-12T23:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/12/watch-the-highlights-from-real-madrid",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Real Madrid 2-3 Chelsea (A) | Champions League Highlights",
+          "videoId": "RpYrjDBd",
+          "bucket": "prod-cfc",
+          "description": "Highlights from our Champions League match against Real Madrid.",
+          "duration": 130000,
+          "date": "2022-04-12T21:37:23.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/RpYrjDBd/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/watch-the-highlights-from-real-madrid.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/04/12/watch-the-highlights-from-real-madrid?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/04/12/watch-the-highlights-from-real-madrid",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from our Champions League match against Real Madrid."
+      },
+      "content": "Watch the highlights from Real Madrid",
+      "publishDate": "2022-04-12T23:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/watch-the-highlights-from-real-madrid.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-12T23:16:00.000Z",
+      "description": "It was a brave performance of the highest quality from Chelsea as we won 3-2 on the night away at Real Madrid, with plenty to enjoy even if it wasn't enough to send us through to the semi-finals.",
+      "matchId": 2282398
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220412tuchel-reaction-to-game-away-to-",
@@ -506,55 +581,6 @@
       ],
       "date": "2022-04-11T20:05:00.000Z",
       "description": "Preparations for our Champions League quarter-final second leg against Real Madrid stepped up this evening as the squad trained in the Spanish capital before visiting the Bernabeu, where Chelsea will play for the first time in our history on Tuesday.",
-      "matchId": 2282398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220411chelsea-arrive-in-madrid-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-11T13:38:00.000Z",
-      "orderDate": "2022-04-11T13:38:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/11/chelsea-arrive-in-madrid-",
-        "type": "NewsCard",
-        "title": "Chelsea arrive in Madrid ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/chelsea-arrive-in-madrid-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-11T13:38:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/11/chelsea-arrive-in-madrid-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Azpi arriving in Madrid",
-          "id": "editorial/news/2022/04/11/azpi-arrival-madrid",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea arrive in Madrid ",
-      "publishDate": "2022-04-11T13:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/chelsea-arrive-in-madrid-.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-04-11T13:38:00.000Z",
-      "description": "A squad of 22 Chelsea players have landed in Spain ahead of our first game at the Bernabeu against Real Madrid tomorrow night.",
       "matchId": 2282398
     }
   ]
