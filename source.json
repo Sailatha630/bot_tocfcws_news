@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 928,
+    "totalItems": 929,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 93,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220412chelsea-line-up-vs-real-madrid",
+      "type": "NewsCard",
+      "timestamp": "2022-04-12T17:39:00.000Z",
+      "orderDate": "2022-04-12T17:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/12/chelsea-line-up-vs-real-madrid",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Real Madrid",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/chelsea-line-up-vs-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-12T17:39:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/12/chelsea-line-up-vs-real-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/real-madrid-away/Changing_room_Real_Madrid_A_DTW_5992",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Real Madrid",
+      "publishDate": "2022-04-12T17:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/chelsea-line-up-vs-real-madrid.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-12T17:39:00.000Z",
+      "description": "Thomas Tuchel makes a single change to his Chelsea side for tonight’s game against Real Madrid, bringing Reece James back into the starting XI at the expense of Andreas Christensen.",
+      "matchId": 2282398
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220412havertz-on-enjoying-the-big-mome",
@@ -516,65 +570,6 @@
       ],
       "date": "2022-04-11T10:57:00.000Z",
       "description": "Chelsea midfielder Mateo Kovacic admits the team meeting following the first leg defeat to Real Madrid helped give the group a much-needed lift ahead of last weekend’s win at Southampton.",
-      "matchId": 2282398
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220411tuchel-says-blues-must-learn-our",
-      "type": "NewsCard",
-      "timestamp": "2022-04-11T09:37:00.000Z",
-      "orderDate": "2022-04-11T08:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/11/tuchel-says-blues-must-learn-our-lesson-from-first-leg",
-        "type": "NewsCard",
-        "title": "Tuchel says Blues must learn our lesson from first leg",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/tuchel-says-blues-must-learn-our-lesson-from-first-leg.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-11T09:37:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/11/tuchel-says-blues-must-learn-our-lesson-from-first-leg",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2022/04/11/Tuchel_DAZ_7356",
-          "gravity": "face",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel says Blues must learn our lesson from first leg",
-      "publishDate": "2022-04-11T09:37:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/tuchel-says-blues-must-learn-our-lesson-from-first-leg.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-11T09:37:00.000Z",
-      "description": "Ahead of the second leg of our Champions League quarter-final tie against Real Madrid, Thomas Tuchel believes we need to implement the lessons we learned from the first-leg defeat to make sure we perform better this time around.",
       "matchId": 2282398
     }
   ]
