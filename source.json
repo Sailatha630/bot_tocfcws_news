@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 929,
+    "totalItems": 930,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 93,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220412match-report--real-madrid-vs-che",
+      "type": "NewsCard",
+      "timestamp": "2022-04-12T20:12:00.000Z",
+      "orderDate": "2022-04-12T20:12:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/12/match-report--real-madrid-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Real Madrid 2 Chelsea 3 (5-4 on agg)",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/match-report--real-madrid-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-12T20:12:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/12/match-report--real-madrid-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/real-madrid-away/Alonso_Real_Madrid_A_DTW_6337-670618",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Real Madrid 2 Chelsea 3 (5-4 on agg)",
+      "publishDate": "2022-04-12T20:12:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/match-report--real-madrid-vs-chelsea.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-12T20:12:00.000Z",
+      "description": "A classic night of Champions League knockout football did not in the end go the Blues’ way, but we gave Real Madrid a mighty scare.",
+      "matchId": 2282398
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220412chelsea-line-up-vs-real-madrid",
@@ -511,65 +565,6 @@
       ],
       "date": "2022-04-11T08:25:00.000Z",
       "description": "Thomas Tuchel has confirmed that Cesar Azpilicueta will be part of the Chelsea squad to face Real Madrid tomorrow evening but Romelu Lukaku will not travel.",
-      "matchId": 2282398
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220411kovacic-on-tuchel-s-team-meeting",
-      "type": "NewsCard",
-      "timestamp": "2022-04-11T10:57:00.000Z",
-      "orderDate": "2022-04-11T08:37:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/11/kovacic-on-tuchel-s-team-meeting-and-drawing-on-inspiration-from",
-        "type": "NewsCard",
-        "title": "Kovacic on Tuchel’s team meeting and drawing on inspiration from historic European comebacks ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/kovacic-on-tuchel-s-team-meeting-and-drawing-on-inspiration-from.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-11T10:57:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/11/kovacic-on-tuchel-s-team-meeting-and-drawing-on-inspiration-from",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Kova-presser-smile-DAZ_7366",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kovacic on Tuchel’s team meeting and drawing on inspiration from historic European comebacks ",
-      "publishDate": "2022-04-11T10:57:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/kovacic-on-tuchel-s-team-meeting-and-drawing-on-inspiration-from.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-11T10:57:00.000Z",
-      "description": "Chelsea midfielder Mateo Kovacic admits the team meeting following the first leg defeat to Real Madrid helped give the group a much-needed lift ahead of last weekend’s win at Southampton.",
       "matchId": 2282398
     }
   ]
