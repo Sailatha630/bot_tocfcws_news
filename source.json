@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 932,
+    "totalItems": 933,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 94,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220413werner-post-real-madrid",
+      "type": "NewsCard",
+      "timestamp": "2022-04-13T03:16:00.000Z",
+      "orderDate": "2022-04-13T03:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/13/werner-post-real-madrid",
+        "type": "NewsCard",
+        "title": "Werner: Very disappointed – I thought we were through",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/13/werner-post-real-madrid.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-13T03:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/13/werner-post-real-madrid",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Timo Werner against Real Madrid",
+          "id": "editorial/match-reports/2021-22/real-madrid-away/real_madrid_away_werner",
+          "gravity": "face",
+          "aspectRatio": 1.0434057,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Werner: Very disappointed – I thought we were through",
+      "publishDate": "2022-04-13T03:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/13/werner-post-real-madrid.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Champions League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_champions-league"
+        },
+        {
+          "title": "Real Madrid",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_real-madrid"
+        }
+      ],
+      "date": "2022-04-13T03:16:00.000Z",
+      "description": "In the wake of Chelsea’s highly dramatic Champions League exit on Tuesday night, Timo Werner admitted that at the joyous moment he put his side 3-0 up in the Bernabeu, he thought it would prove to be enough for us, rather than Real Madrid, to progress to the semi-final, although their firepower was always on his mind.",
+      "matchId": 2282398
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220412tuchel-reaction-to-game-away-to-",
@@ -530,57 +589,6 @@
       ],
       "date": "2022-04-12T03:00:00.000Z",
       "description": "Six days after the first-leg setback at Stamford Bridge, the Blues are in Spain on the quest to turn our quarter-final tie around. Club historian Rick Glanvill and club statistician Paul Dutton preview a big night ahead…",
-      "matchId": 2282398
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220411gallery--training-in-madrid-and-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-11T20:05:00.000Z",
-      "orderDate": "2022-04-11T20:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/11/gallery--training-in-madrid-and-bernabeu-visit",
-        "type": "NewsCard",
-        "title": "Gallery: Training in Madrid and Bernabeu visit",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/gallery--training-in-madrid-and-bernabeu-visit.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-11T20:05:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/11/gallery--training-in-madrid-and-bernabeu-visit",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Players listening to the boss",
-          "id": "editorial/news/2022/04/11/bernabeu-tuchel-talk",
-          "gravity": "center",
-          "aspectRatio": 1.5179789,
-          "cropMode": "fill",
-          "isFullScale": true
-        },
-        "caption": " Players listening to the boss"
-      },
-      "content": "Gallery: Training in Madrid and Bernabeu visit",
-      "publishDate": "2022-04-11T20:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/11/gallery--training-in-madrid-and-bernabeu-visit.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-04-11T20:05:00.000Z",
-      "description": "Preparations for our Champions League quarter-final second leg against Real Madrid stepped up this evening as the squad trained in the Spanish capital before visiting the Bernabeu, where Chelsea will play for the first time in our history on Tuesday.",
       "matchId": 2282398
     }
   ]
