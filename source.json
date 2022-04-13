@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 933,
+    "totalItems": 934,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 94,
@@ -65,6 +65,49 @@
       "date": "2022-04-13T03:16:00.000Z",
       "description": "In the wake of Chelsea’s highly dramatic Champions League exit on Tuesday night, Timo Werner admitted that at the joyous moment he put his side 3-0 up in the Bernabeu, he thought it would prove to be enough for us, rather than Real Madrid, to progress to the semi-final, although their firepower was always on his mind.",
       "matchId": 2282398
+    },
+    {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220413chelsea-women-international-roun",
+      "type": "NewsCard",
+      "timestamp": "2022-04-13T10:00:00.000Z",
+      "orderDate": "2022-04-13T00:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/13/chelsea-women-international-round-up--part-two",
+        "type": "NewsCard",
+        "title": "Chelsea Women international round-up: Part two",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/13/chelsea-women-international-round-up--part-two.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-13T10:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/13/chelsea-women-international-round-up--part-two",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Sam-Kerr-Australia-vs-NZ",
+          "gravity": "auto",
+          "aspectRatio": 1.4998169,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Women international round-up: Part two",
+      "publishDate": "2022-04-13T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/13/chelsea-women-international-round-up--part-two.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-04-13T10:00:00.000Z",
+      "description": "It was another busy few days of action for our international contingent with several Chelsea FC Women players competing in FIFA Women’s World Cup qualifiers, Concacaf Championship qualifiers and friendlies."
     },
     {
       "contentType": "News",
@@ -536,60 +579,6 @@
       },
       "date": "2022-04-12T03:00:00.000Z",
       "description": "Although he admits there are big contrasts between our most recent game, the hefty win at Southampton, and the challenge of overcoming our Champions League deficit in the Bernabeu, club legend Pat Nevin saw indications of current Chelsea thinking in the performance on Saturday. He explains those here as well as what is vital for today’s game in Spain…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220412pre-match-briefing--real-madrid-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-12T03:00:00.000Z",
-      "orderDate": "2022-04-12T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/12/pre-match-briefing--real-madrid-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Real Madrid vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/pre-match-briefing--real-madrid-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-12T03:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/04/12/pre-match-briefing--real-madrid-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Bernabeu stadium",
-          "id": "editorial/news/2022/04/11/bernabeu_view_2020_b",
-          "gravity": "south",
-          "aspectRatio": 1.502439,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Real Madrid vs Chelsea",
-      "publishDate": "2022-04-12T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/pre-match-briefing--real-madrid-vs-chelsea.html",
-      "readTimeInMins": 29,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-12T03:00:00.000Z",
-      "description": "Six days after the first-leg setback at Stamford Bridge, the Blues are in Spain on the quest to turn our quarter-final tie around. Club historian Rick Glanvill and club statistician Paul Dutton preview a big night ahead…",
-      "matchId": 2282398
     }
   ]
 }
