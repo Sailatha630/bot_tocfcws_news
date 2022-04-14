@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 941,
+    "totalItems": 942,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 95,
@@ -175,6 +175,54 @@
       "date": "2022-04-14T06:14:00.000Z",
       "description": "Ruben Loftus-Cheek has said that Chelsea should be proud of our performance against Real Madrid on Tuesday evening but admits the overriding feeling was one of disappointment not to have progressed to the semi-final stage of the Champions League.",
       "matchId": 2282398
+    },
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220414everton-away-ticket-details",
+      "type": "NewsCard",
+      "timestamp": "2022-04-14T14:39:00.000Z",
+      "orderDate": "2022-04-14T04:39:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/14/everton-away-ticket-details",
+        "type": "NewsCard",
+        "title": "Everton away ticket details",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/everton-away-ticket-details.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-14T14:39:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/14/everton-away-ticket-details",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Goodison Park",
+          "id": "editorial/news/2019/12/goodison-park-outside-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Everton away ticket details",
+      "publishDate": "2022-04-14T14:39:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/everton-away-ticket-details.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-04-14T14:39:00.000Z",
+      "description": "Ticket details for our trip to Goodison Park have been confirmed."
     },
     {
       "contentType": "Chelsea Foundation",
@@ -496,60 +544,6 @@
       ],
       "date": "2022-04-13T14:00:00.000Z",
       "description": "Our young Blues have now lost back-to-back games for only the second time this season as they were beaten on Wednesday afternoon. In a defeat that all but rules out the possibility of a late title charge, we were second best."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220412tuchel-reaction-to-game-away-to-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-12T22:03:00.000Z",
-      "orderDate": "2022-04-12T22:03:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/12/tuchel-reaction-to-game-away-to-real-madrid",
-        "type": "NewsCard",
-        "title": "Tuchel disappointed and proud after courageous European exit ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/tuchel-reaction-to-game-away-to-real-madrid.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-12T22:03:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/12/tuchel-reaction-to-game-away-to-real-madrid",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel",
-          "id": "editorial/match-reports/2021-22/real-madrid-away/real_madrid_away_tuchel",
-          "gravity": "auto",
-          "aspectRatio": 0.854,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel disappointed and proud after courageous European exit ",
-      "publishDate": "2022-04-12T22:03:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/12/tuchel-reaction-to-game-away-to-real-madrid.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-12T22:03:00.000Z",
-      "description": "Thomas Tuchel acknowledged his players put in a mighty effort in Madrid to try to keep our dream of retaining the Champions League alive, even if he had some regrets over the fine margins that ultimately cost us a place in the semi-final.",
-      "matchId": 2282398
     }
   ]
 }
