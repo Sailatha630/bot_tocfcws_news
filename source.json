@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 948,
+    "totalItems": 949,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 95,
@@ -222,6 +222,55 @@
       "date": "2022-04-15T03:00:00.000Z",
       "description": "Chelsea FC Women are back from international action and will head straight into Sunday’s Vitality Women’s FA Cup semi-final showdown with Arsenal.",
       "matchId": 2282591
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220416wembley-no-street-drinking-zone-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-15T12:02:00.000Z",
+      "orderDate": "2022-04-14T23:02:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/16/wembley-no-street-drinking-zone-details",
+        "type": "NewsCard",
+        "title": "Wembley no street-drinking zone details",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/16/wembley-no-street-drinking-zone-details.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-15T12:02:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/16/wembley-no-street-drinking-zone-details",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Wembley Way",
+          "id": "editorial/news/2022/02/22/wembley-way-outside-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5002987,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Wembley no street-drinking zone details",
+      "publishDate": "2022-04-15T12:02:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/16/wembley-no-street-drinking-zone-details.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-15T12:02:00.000Z",
+      "description": "Olympic Way and the surrounding areas in Wembley have been designated as no-street drinking zones for Sunday's FA Cup semi-final.",
+      "matchId": 2282505
     },
     {
       "contentType": "Columnists",
@@ -502,54 +551,6 @@
       "date": "2022-04-14T06:14:00.000Z",
       "description": "Ruben Loftus-Cheek has said that Chelsea should be proud of our performance against Real Madrid on Tuesday evening but admits the overriding feeling was one of disappointment not to have progressed to the semi-final stage of the Champions League.",
       "matchId": 2282398
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220414everton-away-ticket-details",
-      "type": "NewsCard",
-      "timestamp": "2022-04-14T14:39:00.000Z",
-      "orderDate": "2022-04-14T04:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/14/everton-away-ticket-details",
-        "type": "NewsCard",
-        "title": "Everton away ticket details",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/everton-away-ticket-details.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-14T14:39:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/14/everton-away-ticket-details",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Goodison Park",
-          "id": "editorial/news/2019/12/goodison-park-outside-view",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Everton away ticket details",
-      "publishDate": "2022-04-14T14:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/everton-away-ticket-details.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-04-14T14:39:00.000Z",
-      "description": "Ticket details for our trip to Goodison Park have been confirmed."
     }
   ]
 }
