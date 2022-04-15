@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 952,
+    "totalItems": 953,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 96,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220415pl2-report--everton-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2022-04-15T20:41:00.000Z",
+      "orderDate": "2022-04-15T11:41:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/15/pl2-report--everton-vs-chelsea",
+        "type": "NewsCard",
+        "title": "PL2 report: Everton 2 Chelsea 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/pl2-report--everton-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-15T20:41:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/15/pl2-report--everton-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/04/15/CFCDev-vs-Everton-Williams",
+          "gravity": "auto",
+          "aspectRatio": 1.4380213,
+          "cropMode": "fill"
+        }
+      },
+      "content": "PL2 report: Everton 2 Chelsea 0",
+      "publishDate": "2022-04-15T20:41:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/pl2-report--everton-vs-chelsea.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Development squad",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_development-squad"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2022-04-15T20:41:00.000Z",
+      "description": "Our development squad were defeated in a big fixture at the bottom of the Premier League 2 table as they could not overcome the 2-0 deficit despite a great attempt in the second half.",
+      "matchId": 2237321
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220415thomas-tuchel--why-i-apologised-",
@@ -500,49 +548,6 @@
       ],
       "date": "2022-04-14T16:27:00.000Z",
       "description": "In the middle of another busy week for the club, Petr Cech reflects on exiting the Champions League with our heads held high after beating Real Madrid in their own stadium, as well as looking ahead to two FA Cup semi-finals and another trip to Wembley..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220414date-and-broadcaster-confirmed-f",
-      "type": "NewsCard",
-      "timestamp": "2022-04-14T15:40:00.000Z",
-      "orderDate": "2022-04-14T15:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/14/date-and-broadcaster-confirmed-for-two-chelsea-fixtures-and-prov",
-        "type": "NewsCard",
-        "title": "Date and broadcaster confirmed for two Chelsea fixtures and provisional date for Manchester United away set",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/date-and-broadcaster-confirmed-for-two-chelsea-fixtures-and-prov.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-14T15:40:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/14/date-and-broadcaster-confirmed-for-two-chelsea-fixtures-and-prov",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/05/04/stamford_bridge_champions_league_tv_camera",
-          "gravity": "auto",
-          "aspectRatio": 1.5404292,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Date and broadcaster confirmed for two Chelsea fixtures and provisional date for Manchester United away set",
-      "publishDate": "2022-04-14T15:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/date-and-broadcaster-confirmed-for-two-chelsea-fixtures-and-prov.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        }
-      ],
-      "date": "2022-04-14T15:40:00.000Z",
-      "description": "Sky Sports will show a pair of Chelsea fixtures live before the end of the season, after the Premier League confirmed the date and kick-off time for our clashes against West Ham and Everton."
     }
   ]
 }
