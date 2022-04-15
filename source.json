@@ -1,12 +1,66 @@
 {
   "pagination": {
-    "totalItems": 946,
+    "totalItems": 947,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 95,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220415tuchel-chelsea-team-news-pre-cry",
+      "type": "NewsCard",
+      "timestamp": "2022-04-15T09:16:00.000Z",
+      "orderDate": "2022-04-15T09:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/15/tuchel-chelsea-team-news-pre-crystal-palace",
+        "type": "NewsCard",
+        "title": "Tuchel on Lukaku’s availability and why it’s good timing for a semi-final",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/tuchel-chelsea-team-news-pre-crystal-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-15T09:16:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/15/tuchel-chelsea-team-news-pre-crystal-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "editorial/news/2022/04/15/tuchel-press-conference-fa-cup",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on Lukaku’s availability and why it’s good timing for a semi-final",
+      "publishDate": "2022-04-15T09:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/tuchel-chelsea-team-news-pre-crystal-palace.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-15T09:16:00.000Z",
+      "description": "Thomas Tuchel believes it is a positive his team return to action after our dramatic European exit with a big FA Cup semi-final tie, one he hopes to have Romelu Lukaku available for.",
+      "matchId": 2282505
+    },
     {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220415blues-bulletin--chelsea-vs-cryst",
@@ -479,60 +533,6 @@
       ],
       "date": "2022-04-14T06:28:00.000Z",
       "description": "Chelsea FC Foundation coaches supported a football match between a Surrey Police XI and a team featuring Afghan asylum seekers, having been invited by Surrey Police to attend the event following a long-standing partnership with the force."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220413the-debrief--blues-show-our-atta",
-      "type": "NewsCard",
-      "timestamp": "2022-04-13T15:50:00.000Z",
-      "orderDate": "2022-04-13T15:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/13/the-debrief--blues-show-our-attacking-edge-but-cannot-reign-in-s",
-        "type": "NewsCard",
-        "title": "The Debrief: Blues show our attacking edge but cannot reign in Spain",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/13/the-debrief--blues-show-our-attacking-edge-but-cannot-reign-in-s.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-13T15:50:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/13/the-debrief--blues-show-our-attacking-edge-but-cannot-reign-in-s",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/match-reports/2021-22/real-madrid-away/debrief_real_away_6",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Blues show our attacking edge but cannot reign in Spain",
-      "publishDate": "2022-04-13T15:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/13/the-debrief--blues-show-our-attacking-edge-but-cannot-reign-in-s.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        },
-        {
-          "title": "Real Madrid",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_real-madrid"
-        }
-      ],
-      "date": "2022-04-13T15:50:00.000Z",
-      "description": "With the aid of diagrams and data, we take a close look at a Champions League encounter that had everyone on the edge of their seats…",
-      "matchId": 2282398
     }
   ]
 }
