@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 949,
+    "totalItems": 950,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 95,
@@ -119,6 +119,55 @@
       "date": "2022-04-15T09:16:00.000Z",
       "description": "Thomas Tuchel believes it is a positive his team return to action after our dramatic European exit with a big FA Cup semi-final tie, one he hopes to have Romelu Lukaku available for.",
       "matchId": 2282505
+    },
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220415chelsea-s-win-at-southampton-vot",
+      "type": "NewsCard",
+      "timestamp": "2022-04-15T14:00:00.000Z",
+      "orderDate": "2022-04-15T08:06:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/15/chelsea-s-win-at-southampton-voted-performance-of-the-week",
+        "type": "NewsCard",
+        "title": "Chelsea win Performance of the Week award",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/chelsea-s-win-at-southampton-voted-performance-of-the-week.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-15T14:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/15/chelsea-s-win-at-southampton-voted-performance-of-the-week",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Celebration goal vs Southampton",
+          "id": "editorial/news/2022/04/10/Havertz_Mount_CFC_Southampton_21308",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea win Performance of the Week award",
+      "publishDate": "2022-04-15T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/chelsea-s-win-at-southampton-voted-performance-of-the-week.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Southampton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_southampton"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-15T14:00:00.000Z",
+      "description": "The League Managers Association has declared our 6-0 Premier League win over Southampton at St Mary’s last weekend to be the Performance of the Week.",
+      "matchId": 2210589
     },
     {
       "contentType": "Match Preview",
@@ -493,64 +542,6 @@
       ],
       "date": "2022-04-14T11:37:00.000Z",
       "description": "Despite being edged out of the Champions League at the quarter-final stage, there have still been some memorable moments during our campaign in Europe this season. We've picked out our top five, and you can vote for your favourite after rejogging your memory below..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220414loftus-cheek--a-tough-one-to-tak",
-      "type": "NewsCard",
-      "timestamp": "2022-04-14T06:14:00.000Z",
-      "orderDate": "2022-04-14T06:14:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/14/loftus-cheek--a-tough-one-to-take-but-we-can-be-proud",
-        "type": "NewsCard",
-        "title": "Loftus-Cheek: A tough one to take but we can be proud",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/loftus-cheek--a-tough-one-to-take-but-we-can-be-proud.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-14T06:14:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/14/loftus-cheek--a-tough-one-to-take-but-we-can-be-proud",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2021-22/real-madrid-away/Loftus-Cheek_Real_Madrid_A_DTW_6517-670654",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Loftus-Cheek: A tough one to take but we can be proud",
-      "publishDate": "2022-04-14T06:14:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/loftus-cheek--a-tough-one-to-take-but-we-can-be-proud.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Ruben Loftus-Cheek",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ruben-loftus-cheek"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-04-14T06:14:00.000Z",
-      "description": "Ruben Loftus-Cheek has said that Chelsea should be proud of our performance against Real Madrid on Tuesday evening but admits the overriding feeling was one of disappointment not to have progressed to the semi-final stage of the Champions League.",
-      "matchId": 2282398
     }
   ]
 }
