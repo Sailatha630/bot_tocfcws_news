@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 947,
+    "totalItems": 948,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 95,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220415thomas-tuchel--why-i-apologised-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-15T10:19:00.000Z",
+      "orderDate": "2022-04-15T10:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/15/thomas-tuchel--why-i-apologised-to-conor-gallagher-and-why-acade",
+        "type": "NewsCard",
+        "title": "Thomas Tuchel: Why I apologised to Conor Gallagher and why Academy players are essential in the team",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/thomas-tuchel--why-i-apologised-to-conor-gallagher-and-why-acade.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-15T10:19:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/15/thomas-tuchel--why-i-apologised-to-conor-gallagher-and-why-acade",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Conor Gallagher",
+          "id": "editorial/news/2021/12/14/gallagher-palace-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.4997783,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Thomas Tuchel: Why I apologised to Conor Gallagher and why Academy players are essential in the team",
+      "publishDate": "2022-04-15T10:19:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/thomas-tuchel--why-i-apologised-to-conor-gallagher-and-why-acade.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Conor Gallagher",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_conor-gallagher"
+        }
+      ],
+      "date": "2022-04-15T10:19:00.000Z",
+      "description": "Thomas Tuchel explains why Conor Gallagher will not play against Chelsea at Wembley this weekend, as preparations for the London derby FA Cup semi-final against Crystal Palace hot up…",
+      "matchId": 2282505
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220415tuchel-chelsea-team-news-pre-cry",
@@ -491,48 +550,6 @@
       ],
       "date": "2022-04-14T14:39:00.000Z",
       "description": "Ticket details for our trip to Goodison Park have been confirmed."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220414chelsea-fc-foundation-support-ch",
-      "type": "NewsCard",
-      "timestamp": "2022-04-14T06:28:00.000Z",
-      "orderDate": "2022-04-13T23:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/14/chelsea-fc-foundation-support-charity-football-event-in-collabor",
-        "type": "NewsCard",
-        "title": "Chelsea FC Foundation support charity football event in collaboration with Surrey Police",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/chelsea-fc-foundation-support-charity-football-event-in-collabor.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-14T06:28:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/14/chelsea-fc-foundation-support-charity-football-event-in-collabor",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Foundation-Surrey-Police-team-photo",
-          "gravity": "auto",
-          "aspectRatio": 2.5250247,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC Foundation support charity football event in collaboration with Surrey Police",
-      "publishDate": "2022-04-14T06:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/14/chelsea-fc-foundation-support-charity-football-event-in-collabor.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-04-14T06:28:00.000Z",
-      "description": "Chelsea FC Foundation coaches supported a football match between a Surrey Police XI and a team featuring Afghan asylum seekers, having been invited by Surrey Police to attend the event following a long-standing partnership with the force."
     }
   ]
 }
