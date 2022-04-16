@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 956,
+    "totalItems": 957,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 96,
@@ -68,6 +68,55 @@
       ],
       "date": "2022-04-16T08:00:00.000Z",
       "description": "In the build-up to tomorrow’s FA Cup semi-final, Thomas Tuchel has been discussing what Ruben Loftus-Cheek needs to do to fulfil his potential as a Chelsea player…",
+      "matchId": 2282505
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20220416rank-your-favourite-fa-cup-semi-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-16T11:32:00.000Z",
+      "orderDate": "2022-04-16T06:32:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/16/rank-your-favourite-fa-cup-semi-final-wembley-wins--",
+        "type": "NewsCard",
+        "title": "Rank your favourite FA Cup semi-final Wembley wins! ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/16/rank-your-favourite-fa-cup-semi-final-wembley-wins--.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-16T11:32:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/16/rank-your-favourite-fa-cup-semi-final-wembley-wins--",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Diego Costa and Hazard",
+          "id": "editorial/news/2021/04/21/hazard-costa-tottenham",
+          "gravity": "auto",
+          "aspectRatio": 1.4626737,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rank your favourite FA Cup semi-final Wembley wins! ",
+      "publishDate": "2022-04-16T11:32:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/16/rank-your-favourite-fa-cup-semi-final-wembley-wins--.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-16T11:32:00.000Z",
+      "description": "Chelsea are targeting a 10th FA Cup semi-final success at Wembley when we meet Crystal Palace on Sunday, and ahead of the game we are asking you to order your favourite wins at the national stadium at this stage of the world’s oldest cup competition.",
       "matchId": 2282505
     },
     {
@@ -509,60 +558,6 @@
       "date": "2022-04-15T14:00:00.000Z",
       "description": "The League Managers Association has declared our 6-0 Premier League win over Southampton at St Mary’s last weekend to be the Performance of the Week.",
       "matchId": 2210589
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220415blues-bulletin--chelsea-vs-cryst",
-      "type": "NewsCard",
-      "timestamp": "2022-04-15T03:00:00.000Z",
-      "orderDate": "2022-04-15T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/15/blues-bulletin--chelsea-vs-crystal-palace",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Crystal Palace",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/blues-bulletin--chelsea-vs-crystal-palace.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-15T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/15/blues-bulletin--chelsea-vs-crystal-palace",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Hakim Ziyech scoring against Crystal Palace",
-          "id": "editorial/match-reports/2021-22/crystal-palace-away/palace_away_Ziyech_goal",
-          "gravity": "auto",
-          "aspectRatio": 1.5211786,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Crystal Palace",
-      "publishDate": "2022-04-15T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/blues-bulletin--chelsea-vs-crystal-palace.html",
-      "readTimeInMins": 27,
-      "tags": [
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-15T03:00:00.000Z",
-      "description": "Our FA Cup quest continues at Wembley on Sunday when we will be looking to build on our impressive semi-final record in the competition. More information on that statistic and plenty more can be found here...",
-      "matchId": 2282505
     }
   ]
 }
