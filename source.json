@@ -1,12 +1,76 @@
 {
   "pagination": {
-    "totalItems": 960,
+    "totalItems": 961,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 96,
+    "pageCount": 97,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220417tuchel-on-why-werner-is-an-examp",
+      "type": "NewsCard",
+      "timestamp": "2022-04-17T11:00:00.000Z",
+      "orderDate": "2022-04-17T11:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/17/tuchel-on-why-werner-is-an-example-for-strikers-everywhere",
+        "type": "NewsCard",
+        "title": "Tuchel on why Werner is an example for strikers everywhere",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/tuchel-on-why-werner-is-an-example-for-strikers-everywhere.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-17T11:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/17/tuchel-on-why-werner-is-an-example-for-strikers-everywhere",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Werner",
+          "id": "editorial/match-reports/2021-22/southampton-away/werner-second-goal-celeb-saints-a",
+          "gravity": "face",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel on why Werner is an example for strikers everywhere",
+      "publishDate": "2022-04-17T11:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/tuchel-on-why-werner-is-an-example-for-strikers-everywhere.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2022-04-17T11:00:00.000Z",
+      "description": "Thomas Tuchel believes Timo Werner’s performances in our last two matches show how quickly things can change for strikers and should be an example to others among his Chelsea team-mates and elsewhere. He also discusses how our previous Wembley experiences can help us this time around.",
+      "matchId": 2282505
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220417loftus-cheek-on-injured-pride-fu",
@@ -500,54 +564,6 @@
       "date": "2022-04-15T16:00:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes insists it is 'just another game’ as the squad gears up to take on Arsenal in the semi-final of the Vitality Women’s FA Cup on Sunday.",
       "matchId": 2282591
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220415pl2-report--everton-vs-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2022-04-15T20:41:00.000Z",
-      "orderDate": "2022-04-15T11:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/15/pl2-report--everton-vs-chelsea",
-        "type": "NewsCard",
-        "title": "PL2 report: Everton 2 Chelsea 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/pl2-report--everton-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-15T20:41:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/15/pl2-report--everton-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/04/15/CFCDev-vs-Everton-Williams",
-          "gravity": "auto",
-          "aspectRatio": 1.4380213,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 report: Everton 2 Chelsea 0",
-      "publishDate": "2022-04-15T20:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/15/pl2-report--everton-vs-chelsea.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2022-04-15T20:41:00.000Z",
-      "description": "Our development squad were defeated in a big fixture at the bottom of the Premier League 2 table as they could not overcome the 2-0 deficit despite a great attempt in the second half.",
-      "matchId": 2237321
     }
   ]
 }
