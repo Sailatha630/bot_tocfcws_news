@@ -1,12 +1,71 @@
 {
   "pagination": {
-    "totalItems": 963,
+    "totalItems": 964,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 97,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220417chelsea-fa-cup-semi-final-line-u",
+      "type": "NewsCard",
+      "timestamp": "2022-04-17T14:30:00.000Z",
+      "orderDate": "2022-04-17T14:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/17/chelsea-fa-cup-semi-final-line-up-vs-crystal-palace",
+        "type": "NewsCard",
+        "title": "Chelsea FA Cup semi-final line up vs Crystal Palace",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/chelsea-fa-cup-semi-final-line-up-vs-crystal-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-17T14:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/17/chelsea-fa-cup-semi-final-line-up-vs-crystal-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/crystal-palace-fa-cup/DTW_7888",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea FA Cup semi-final line up vs Crystal Palace",
+      "publishDate": "2022-04-17T14:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/chelsea-fa-cup-semi-final-line-up-vs-crystal-palace.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Crystal Palace",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_crystal-palace"
+        }
+      ],
+      "date": "2022-04-17T14:30:00.000Z",
+      "description": "Thomas Tuchel makes three changes from our midweek Champions League tie.",
+      "matchId": 2282505
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220417women-s-fa-cup-semi-final-report",
@@ -484,60 +543,6 @@
       ],
       "date": "2022-04-16T11:32:00.000Z",
       "description": "Chelsea are targeting a 10th FA Cup semi-final success at Wembley when we meet Crystal Palace on Sunday, and ahead of the game we are asking you to order your favourite wins at the national stadium at this stage of the world’s oldest cup competition.",
-      "matchId": 2282505
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220416pre-match-briefing--chelsea-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2022-04-16T03:00:00.000Z",
-      "orderDate": "2022-04-16T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/16/pre-match-briefing--chelsea-vs-crystal-palace",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Crystal Palace",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/16/pre-match-briefing--chelsea-vs-crystal-palace.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-16T03:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/04/16/pre-match-briefing--chelsea-vs-crystal-palace",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Wembley stadium view",
-          "id": "editorial/news/2021/05/14/Wembley_GettyImages-1312972543",
-          "gravity": "auto",
-          "aspectRatio": 1.7780331,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Crystal Palace",
-      "publishDate": "2022-04-16T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/16/pre-match-briefing--chelsea-vs-crystal-palace.html",
-      "readTimeInMins": 33,
-      "tags": [
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-16T03:00:00.000Z",
-      "description": "Cup competition continues for Chelsea this weekend with south London opposition to face on neutral turf. Club historian Rick Glanvill and club statistician Paul Dutton point the Wembley way…",
       "matchId": 2282505
     }
   ]
