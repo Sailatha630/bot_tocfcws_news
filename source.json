@@ -1,12 +1,61 @@
 {
   "pagination": {
-    "totalItems": 968,
+    "totalItems": 969,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 97,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220418spreading-around-the-scoring-joy",
+      "type": "NewsCard",
+      "timestamp": "2022-04-18T10:19:00.000Z",
+      "orderDate": "2022-04-18T10:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/18/spreading-around-the-scoring-joy",
+        "type": "NewsCard",
+        "title": "Spreading around the scoring joy - club record matched",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/18/spreading-around-the-scoring-joy.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-18T10:19:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/18/spreading-around-the-scoring-joy",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chelsea v Palace",
+          "id": "editorial/match-reports/2021-22/crystal-palace-fa-cup/Loftus-Cheek-DTW_8568",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Spreading around the scoring joy - club record matched",
+      "publishDate": "2022-04-18T10:19:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/18/spreading-around-the-scoring-joy.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Ruben Loftus-Cheek",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ruben-loftus-cheek"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-18T10:19:00.000Z",
+      "description": "Ruben Loftus-Cheek helped Chelsea match a club record when he opened the scoring in our FA Cup semi-final victory over Crystal Palace on Sunday as he became the 20th player to score for the Blues in a competitive match this season."
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220418mount-on-things-coming-off-in-fr",
@@ -522,55 +571,6 @@
       "date": "2022-04-17T02:50:00.000Z",
       "description": "In the build-up to today’s FA Cup semi-final, Ruben Loftus-Cheek sat down with us at Cobham to discuss the way we bounced back from disappointment with two brilliant performances and his own role in those victories from a new position.",
       "matchId": 2282505
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220417bright--you-never-play-the-occas",
-      "type": "NewsCard",
-      "timestamp": "2022-04-17T02:00:00.000Z",
-      "orderDate": "2022-04-17T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/17/bright--you-never-play-the-occasion--you-play-the-game",
-        "type": "NewsCard",
-        "title": "Bright: You never play the occasion, you play the game",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/bright--you-never-play-the-occasion--you-play-the-game.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-17T02:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/17/bright--you-never-play-the-occasion--you-play-the-game",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Millie-Bright-walk-out",
-          "gravity": "auto",
-          "aspectRatio": 1.5022279,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Bright: You never play the occasion, you play the game",
-      "publishDate": "2022-04-17T02:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/bright--you-never-play-the-occasion--you-play-the-game.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        }
-      ],
-      "date": "2022-04-17T02:00:00.000Z",
-      "description": "Chelsea FC Women defender Millie Bright says the team’s mentality will have a big part to play in today’s Vitality Women’s FA Cup semi-final clash against Arsenal.",
-      "matchId": 2282591
     }
   ]
 }
