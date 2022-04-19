@@ -1,12 +1,74 @@
 {
   "pagination": {
-    "totalItems": 972,
+    "totalItems": 973,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 98,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Columnists",
+      "id": "_content_chelseafcennews20220419pat-nevin--what-you-can-never-te",
+      "type": "NewsCard",
+      "timestamp": "2022-04-19T03:00:00.000Z",
+      "orderDate": "2022-04-19T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/19/pat-nevin--what-you-can-never-tell-and-which-chelsea-player-is-l",
+        "type": "NewsCard",
+        "title": "Pat Nevin: What you can never tell and which Chelsea player is leading by example",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/pat-nevin--what-you-can-never-tell-and-which-chelsea-player-is-l.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-19T03:00:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2022/04/19/pat-nevin--what-you-can-never-tell-and-which-chelsea-player-is-l",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Timo Werner",
+          "id": "editorial/news/2022/04/18/werner-palace-semi-final",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: What you can never tell and which Chelsea player is leading by example",
+      "publishDate": "2022-04-19T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/pat-nevin--what-you-can-never-tell-and-which-chelsea-player-is-l.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2022-04-19T03:00:00.000Z",
+      "description": "In his column this week Pat Nevin reflects on changing fortunes for teams and players alike, and explains what is needed to get through a sticky patch, even if he hopes we won’t be offering Arsenal any olive branches tomorrow..."
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220418the-debrief--passing-precision-a",
@@ -538,51 +600,6 @@
       "date": "2022-04-17T14:30:00.000Z",
       "description": "Thomas Tuchel makes three changes from our midweek Champions League tie.",
       "matchId": 2282505
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220417women-s-fa-cup-semi-final-report",
-      "type": "NewsCard",
-      "timestamp": "2022-04-17T13:21:00.000Z",
-      "orderDate": "2022-04-17T13:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/17/women-s-fa-cup-semi-final-report--arsenal-0-chelsea-2",
-        "type": "NewsCard",
-        "title": "Women’s FA Cup semi-final report: Arsenal 0 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/women-s-fa-cup-semi-final-report--arsenal-0-chelsea-2.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-17T13:21:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/17/women-s-fa-cup-semi-final-report--arsenal-0-chelsea-2",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Celebrating Ji's goal",
-          "id": "editorial/match-reports/2021-22/women-arsenal-facsf/Women_Arsenal_Ji_celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5021347,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s FA Cup semi-final report: Arsenal 0 Chelsea 2",
-      "publishDate": "2022-04-17T13:21:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/women-s-fa-cup-semi-final-report--arsenal-0-chelsea-2.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-04-17T13:21:00.000Z",
-      "description": "Chelsea Women will meet Manchester City in the Women’s FA Cup final at Wembley after brilliant goals from Guro Reiten and Ji So-Yun were enough to see off Arsenal in the last four.",
-      "matchId": 2282591
     }
   ]
 }
