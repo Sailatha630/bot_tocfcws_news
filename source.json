@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 982,
+    "totalItems": 983,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
@@ -177,6 +177,70 @@
       "date": "2022-04-19T14:08:00.000Z",
       "description": "Ticket selling details for our Premier League match at Old Trafford, which has been brought forward due to our progress to the FA Cup final have been announced…",
       "matchId": 2210634
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220419under-18s-report---chelsea-2-tot",
+      "type": "NewsCard",
+      "timestamp": "2022-04-19T14:30:00.000Z",
+      "orderDate": "2022-04-19T08:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/19/under-18s-report---chelsea-2-tottenham-hotspur-2",
+        "type": "NewsCard",
+        "title": "Under-18s report: Chelsea 3 Tottenham Hotspur 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/under-18s-report---chelsea-2-tottenham-hotspur-2.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-19T14:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/19/under-18s-report---chelsea-2-tottenham-hotspur-2",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Winning goal from Leo Castledine",
+          "id": "editorial/match-reports/2021-22/spurs-under-18s-home/U18_Spurs_Leo_Castledine_winner",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report: Chelsea 3 Tottenham Hotspur 2",
+      "publishDate": "2022-04-19T14:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/under-18s-report---chelsea-2-tottenham-hotspur-2.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "U18 - Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_u18-premier-league"
+        }
+      ],
+      "date": "2022-04-19T14:30:00.000Z",
+      "description": "Leo Castledine scored a late winner to give Ed Brand's side a 3-2 win in the first of two London derbies this week for the home side. After goals from Ronnie Stutter and Edwin Andersson were each equalised by Spurs, up stepped Castledine who gave the keeper no chance with a strong header."
     },
     {
       "contentType": "Columnists",
@@ -520,48 +584,6 @@
       ],
       "date": "2022-04-19T05:01:00.000Z",
       "description": "The fixture list across our Men’s, Women’s and Academy sides has conspired to serve up a week of local derby action for Chelsea, presenting the perfect opportunity to demonstrate that London is Blue. Here we preview the games ahead."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220419latest-foundation-community-day-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-19T10:17:00.000Z",
-      "orderDate": "2022-04-18T23:07:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/19/latest-foundation-community-day-takes-place-at-a-sunny-cobham-",
-        "type": "NewsCard",
-        "title": "Latest Foundation community day takes place at a sunny Cobham!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/latest-foundation-community-day-takes-place-at-a-sunny-cobham-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-19T10:17:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/19/latest-foundation-community-day-takes-place-at-a-sunny-cobham-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Foundation-community-day-apr-joshua",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Latest Foundation community day takes place at a sunny Cobham!",
-      "publishDate": "2022-04-19T10:17:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/latest-foundation-community-day-takes-place-at-a-sunny-cobham-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-04-19T10:17:00.000Z",
-      "description": "Chelsea FC Foundation hosted the latest community day at the club’s Cobham training ground for several special guests."
     }
   ]
 }
