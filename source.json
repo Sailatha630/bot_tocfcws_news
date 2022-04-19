@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 975,
+    "totalItems": 976,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 98,
@@ -68,6 +68,59 @@
       },
       "date": "2022-04-19T03:00:00.000Z",
       "description": "In his column this week Pat Nevin reflects on changing fortunes for teams and players alike, and explains what is needed to get through a sticky patch, even if he hopes we won’t be offering Arsenal any olive branches tomorrow..."
+    },
+    {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220419quiz--do-you-know-your-london-de",
+      "type": "NewsCard",
+      "timestamp": "2022-04-19T01:26:00.000Z",
+      "orderDate": "2022-04-19T01:26:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/19/quiz--do-you-know-your-london-derbies-",
+        "type": "NewsCard",
+        "title": "Quiz: Do you know your London derbies?",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/quiz--do-you-know-your-london-derbies-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-19T01:26:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/19/quiz--do-you-know-your-london-derbies-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2021/04/22/west-ham-home-kante-jorginho",
+          "gravity": "auto",
+          "aspectRatio": 1.5001625,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Do you know your London derbies?",
+      "publishDate": "2022-04-19T01:26:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/quiz--do-you-know-your-london-derbies-.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        }
+      ],
+      "date": "2022-04-19T01:26:00.000Z",
+      "description": "As the Pride of London continues a week full of matches against fellow teams from the capital, get ready for those upcoming games by testing your knowledge with our derby-related questions..."
     },
     {
       "contentType": "Interview",
@@ -544,65 +597,6 @@
       ],
       "date": "2022-04-18T03:00:00.000Z",
       "description": "After scoring the goal that sealed our FA Cup semi-final victory over Crystal Palace, Mason Mount reflected on his purple patch of goalscoring form, the contribution of his team-mates who teed up and netted, as well as the prospect of Liverpool again in next month’s final.",
-      "matchId": 2282505
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220417tuchel-reaction-to-fa-cup-semi-f",
-      "type": "NewsCard",
-      "timestamp": "2022-04-17T17:33:00.000Z",
-      "orderDate": "2022-04-17T17:33:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/17/tuchel-reaction-to-fa-cup-semi-final-win",
-        "type": "NewsCard",
-        "title": "Tuchel on how Chelsea became more fluid in semi-final second half and how goal can help Loftus-Cheek",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/tuchel-reaction-to-fa-cup-semi-final-win.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-17T17:33:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/17/tuchel-reaction-to-fa-cup-semi-final-win",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel at Wembley",
-          "id": "editorial/match-reports/2021-22/crystal-palace-fa-cup/tuchel_FA_cup_semi",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel on how Chelsea became more fluid in semi-final second half and how goal can help Loftus-Cheek",
-      "publishDate": "2022-04-17T17:33:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/17/tuchel-reaction-to-fa-cup-semi-final-win.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Crystal Palace",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_crystal-palace"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-04-17T17:33:00.000Z",
-      "description": "Disciplined, solid and serious. Those were three words Thomas Tuchel used to describe the Chelsea performance that overcame a committed Crystal Palace on Sunday, keeping the Blues in two competitions in the closing weeks for the season and ensuring the possibility that it can end with more silverware in his hands.",
       "matchId": 2282505
     }
   ]
