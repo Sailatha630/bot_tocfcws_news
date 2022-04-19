@@ -1,12 +1,65 @@
 {
   "pagination": {
-    "totalItems": 983,
+    "totalItems": 984,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220419chelsea-to-play-arsenal-in-orlan",
+      "type": "NewsCard",
+      "timestamp": "2022-04-19T16:00:00.000Z",
+      "orderDate": "2022-04-19T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/19/chelsea-to-play-arsenal-in-orlando-pre-season-fixture",
+        "type": "NewsCard",
+        "title": "Chelsea to play Arsenal in Orlando pre-season fixture",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/chelsea-to-play-arsenal-in-orlando-pre-season-fixture.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-19T16:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/19/chelsea-to-play-arsenal-in-orlando-pre-season-fixture",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Orlando stadium",
+          "id": "editorial/news/2022/04/19/orlando-stadium-pre-season-sunset",
+          "gravity": "auto",
+          "aspectRatio": 1.7299368,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea to play Arsenal in Orlando pre-season fixture",
+      "publishDate": "2022-04-19T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/chelsea-to-play-arsenal-in-orlando-pre-season-fixture.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Pre Season",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_pre-season-tour"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2022-04-19T16:00:00.000Z",
+      "description": "Chelsea will make a much-anticipated return to the United States this summer as part of the FC Series, a competition featuring clubs from across the globe."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220419tuchel-rules-kovacic-out-of-arse",
@@ -531,59 +584,6 @@
       ],
       "date": "2022-04-19T11:09:00.000Z",
       "description": "In our weekly round-up of the action involving Chelsea players out on loan, there was a Bank Holiday double-header in England which saw our duo at Reading secure Championship survival, while Armando Broja helped record a win against Arsenal…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220419derbies-dominate-for-the-pride-o",
-      "type": "NewsCard",
-      "timestamp": "2022-04-19T05:01:00.000Z",
-      "orderDate": "2022-04-19T00:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/19/derbies-dominate-for-the-pride-of-london",
-        "type": "NewsCard",
-        "title": "Derbies dominate for the Pride of London",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/derbies-dominate-for-the-pride-of-london.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-19T05:01:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/19/derbies-dominate-for-the-pride-of-london",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Chelsea playing Arsenal away",
-          "id": "editorial/news/2022/04/18/rudiger_arsenal_away",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Derbies dominate for the Pride of London",
-      "publishDate": "2022-04-19T05:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/derbies-dominate-for-the-pride-of-london.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2022-04-19T05:01:00.000Z",
-      "description": "The fixture list across our Men’s, Women’s and Academy sides has conspired to serve up a week of local derby action for Chelsea, presenting the perfect opportunity to demonstrate that London is Blue. Here we preview the games ahead."
     }
   ]
 }
