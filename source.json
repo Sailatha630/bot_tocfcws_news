@@ -1,6 +1,6 @@
 {
   "pagination": {
-    "totalItems": 987,
+    "totalItems": 988,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
@@ -231,6 +231,48 @@
       ],
       "date": "2022-04-19T16:00:00.000Z",
       "description": "Chelsea will make a much-anticipated return to the United States this summer as part of the FC Series, a competition featuring clubs from across the globe."
+    },
+    {
+      "contentType": "Chelsea Foundation",
+      "id": "_content_chelseafcennews20220420chelsea-fc-foundation-team-up-wi",
+      "type": "NewsCard",
+      "timestamp": "2022-04-20T07:00:00.000Z",
+      "orderDate": "2022-04-19T15:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/20/chelsea-fc-foundation-team-up-with-qpr-community-trust-and-westw",
+        "type": "NewsCard",
+        "title": "Chelsea FC Foundation teams up with QPR Community Trust and Westway Trust to support refugees",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/chelsea-fc-foundation-team-up-with-qpr-community-trust-and-westw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-20T07:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/20/chelsea-fc-foundation-team-up-with-qpr-community-trust-and-westw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Foundation-Refugee-article-image",
+          "gravity": "auto",
+          "aspectRatio": 1.5705521,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea FC Foundation teams up with QPR Community Trust and Westway Trust to support refugees",
+      "publishDate": "2022-04-20T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/chelsea-fc-foundation-team-up-with-qpr-community-trust-and-westw.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2022-04-20T07:00:00.000Z",
+      "description": "Chelsea FC Foundation’s youth inclusion team delivers a weekly football session at Westway Sports Centre for refugees and asylum seekers based at various hotels across west London."
     },
     {
       "contentType": "News",
@@ -528,59 +570,6 @@
       },
       "date": "2022-04-19T03:00:00.000Z",
       "description": "In his column this week Pat Nevin reflects on changing fortunes for teams and players alike, and explains what is needed to get through a sticky patch, even if he hopes we won’t be offering Arsenal any olive branches tomorrow..."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220419quiz--do-you-know-your-london-de",
-      "type": "NewsCard",
-      "timestamp": "2022-04-19T01:26:00.000Z",
-      "orderDate": "2022-04-19T01:26:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/19/quiz--do-you-know-your-london-derbies-",
-        "type": "NewsCard",
-        "title": "Quiz: Do you know your London derbies?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/quiz--do-you-know-your-london-derbies-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-19T01:26:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/19/quiz--do-you-know-your-london-derbies-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/04/22/west-ham-home-kante-jorginho",
-          "gravity": "auto",
-          "aspectRatio": 1.5001625,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Do you know your London derbies?",
-      "publishDate": "2022-04-19T01:26:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/quiz--do-you-know-your-london-derbies-.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        }
-      ],
-      "date": "2022-04-19T01:26:00.000Z",
-      "description": "As the Pride of London continues a week full of matches against fellow teams from the capital, get ready for those upcoming games by testing your knowledge with our derby-related questions..."
     }
   ]
 }
