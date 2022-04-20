@@ -1,12 +1,129 @@
 {
   "pagination": {
-    "totalItems": 984,
+    "totalItems": 986,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 99,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220420blues-bulletin--chelsea-vs-arsen",
+      "type": "NewsCard",
+      "timestamp": "2022-04-20T00:48:00.000Z",
+      "orderDate": "2022-04-20T00:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/20/blues-bulletin--chelsea-vs-arsenal",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Arsenal",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/blues-bulletin--chelsea-vs-arsenal.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-20T00:48:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/20/blues-bulletin--chelsea-vs-arsenal",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Marcos Alonso playing against Arsenal",
+          "id": "editorial/news/2022/04/19/alonso_arsenal_away",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Arsenal",
+      "publishDate": "2022-04-20T00:48:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/blues-bulletin--chelsea-vs-arsenal.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2022-04-20T00:48:00.000Z",
+      "description": "The next men's first team outing in what is a London derby week for Chelsea is the visit by the Gunners to Stamford Bridge. We have here the stats and facts for this Premier League encounter...",
+      "matchId": 2210513
+    },
+    {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220420tuchel--lukaku-missing-the-luck-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-20T00:15:00.000Z",
+      "orderDate": "2022-04-20T00:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/20/tuchel--lukaku-missing-the-luck-but-can-still-be-crucial",
+        "type": "NewsCard",
+        "title": "Tuchel: Lukaku missing the luck but can still be crucial",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/tuchel--lukaku-missing-the-luck-but-can-still-be-crucial.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-20T00:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/20/tuchel--lukaku-missing-the-luck-but-can-still-be-crucial",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/12/31/lukaku-tuchel-training",
+          "gravity": "auto",
+          "aspectRatio": 0.918135,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: Lukaku missing the luck but can still be crucial",
+      "publishDate": "2022-04-20T00:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/tuchel--lukaku-missing-the-luck-but-can-still-be-crucial.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        },
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_romelu-lukaku"
+        }
+      ],
+      "date": "2022-04-20T00:15:00.000Z",
+      "description": "Eight months on from his goalscoring Chelsea return against today’s opponents Arsenal, Romelu Lukaku may be enjoying less favour and fortune than back in those heady August days but his boss Thomas Tuchel believes the Belgian remains an important component in his team…",
+      "matchId": 2210513
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220419chelsea-to-play-arsenal-in-orlan",
@@ -473,117 +590,6 @@
       "date": "2022-04-19T07:53:00.000Z",
       "description": "Cesar Azpilicueta was delighted to see Ruben Loftus-Cheek get his name on the scoresheet at Wembley, believing the midfielder fully deserved to enjoy that moment after seeing the hard work he has put into improving as a player.",
       "matchId": 2282505
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220419jess-carter--we-executed-the-gam",
-      "type": "NewsCard",
-      "timestamp": "2022-04-19T09:44:00.000Z",
-      "orderDate": "2022-04-19T00:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/19/jess-carter--we-executed-the-game-plan-well",
-        "type": "NewsCard",
-        "title": "Jess Carter: We executed the game plan well",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/jess-carter--we-executed-the-game-plan-well.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-19T09:44:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/19/jess-carter--we-executed-the-game-plan-well",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Post-match-celebrations-Arsenal",
-          "gravity": "auto",
-          "aspectRatio": 1.5001401,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Jess Carter: We executed the game plan well",
-      "publishDate": "2022-04-19T09:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/jess-carter--we-executed-the-game-plan-well.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "FA Women's Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
-        }
-      ],
-      "date": "2022-04-19T09:44:00.000Z",
-      "description": "Chelsea FC Women’s Jess Carter has praised the team’s performance as the Blues put two past Arsenal to secure a place in the Vitality Women’s FA Cup final at Wembley in May.",
-      "matchId": 2282591
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220419chelsea-here-chelsea-there--read",
-      "type": "NewsCard",
-      "timestamp": "2022-04-19T11:09:00.000Z",
-      "orderDate": "2022-04-19T00:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/19/chelsea-here-chelsea-there--reading-edge-closer-to-safety--baxte",
-        "type": "NewsCard",
-        "title": "Chelsea Here Chelsea There: Reading edge closer to safety, Baxter returns and Burstow assists",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/chelsea-here-chelsea-there--reading-edge-closer-to-safety--baxte.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-19T11:09:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/19/chelsea-here-chelsea-there--reading-edge-closer-to-safety--baxte",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/11/29/Drinkwater_GettyImages-1348199147",
-          "gravity": "auto",
-          "aspectRatio": 1.5001744,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Here Chelsea There: Reading edge closer to safety, Baxter returns and Burstow assists",
-      "publishDate": "2022-04-19T11:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/chelsea-here-chelsea-there--reading-edge-closer-to-safety--baxte.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Michy Batshuayi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_michy-batshuayi"
-        },
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Armando Broja",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_armando-broja"
-        },
-        {
-          "title": "Emerson Palmieri",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_emerson-palmieri"
-        }
-      ],
-      "date": "2022-04-19T11:09:00.000Z",
-      "description": "In our weekly round-up of the action involving Chelsea players out on loan, there was a Bank Holiday double-header in England which saw our duo at Reading secure Championship survival, while Armando Broja helped record a win against Arsenal…"
     }
   ]
 }
