@@ -1,12 +1,70 @@
 {
   "pagination": {
-    "totalItems": 993,
+    "totalItems": 994,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220420tuchel-reacts-to-arsenal-result",
+      "type": "NewsCard",
+      "timestamp": "2022-04-20T21:30:00.000Z",
+      "orderDate": "2022-04-20T21:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/20/tuchel-reacts-to-arsenal-result",
+        "type": "NewsCard",
+        "title": "Tuchel reflects on a wild game, defensive drop-off and explains Christensen substitution",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/tuchel-reacts-to-arsenal-result.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-20T21:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/20/tuchel-reacts-to-arsenal-result",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/crystal-palace-fa-cup/Tuchel-stock-Wembley-DAZ_8571",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reflects on a wild game, defensive drop-off and explains Christensen substitution",
+      "publishDate": "2022-04-20T21:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/tuchel-reacts-to-arsenal-result.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2022-04-20T21:30:00.000Z",
+      "description": "After watching his side fall to a home defeat at the hands of Arsenal, Thomas Tuchel pinpointed the number and severity of costly errors that could not be overcome.",
+      "matchId": 2210513
+    },
     {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220420report--chelsea-vs-arsenal",
@@ -509,48 +567,6 @@
       ],
       "date": "2022-04-19T16:00:00.000Z",
       "description": "Chelsea will make a much-anticipated return to the United States this summer as part of the FC Series, a competition featuring clubs from across the globe."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220420chelsea-fc-foundation-team-up-wi",
-      "type": "NewsCard",
-      "timestamp": "2022-04-20T07:00:00.000Z",
-      "orderDate": "2022-04-19T15:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/20/chelsea-fc-foundation-team-up-with-qpr-community-trust-and-westw",
-        "type": "NewsCard",
-        "title": "Chelsea FC Foundation teams up with QPR Community Trust and Westway Trust to support refugees",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/chelsea-fc-foundation-team-up-with-qpr-community-trust-and-westw.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-20T07:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/20/chelsea-fc-foundation-team-up-with-qpr-community-trust-and-westw",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Foundation-Refugee-article-image",
-          "gravity": "auto",
-          "aspectRatio": 1.5705521,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC Foundation teams up with QPR Community Trust and Westway Trust to support refugees",
-      "publishDate": "2022-04-20T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/chelsea-fc-foundation-team-up-with-qpr-community-trust-and-westw.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-04-20T07:00:00.000Z",
-      "description": "Chelsea FC Foundation’s youth inclusion team delivers a weekly football session at Westway Sports Centre for refugees and asylum seekers based at various hotels across west London."
     }
   ]
 }
