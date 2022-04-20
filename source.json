@@ -1,9 +1,9 @@
 {
   "pagination": {
-    "totalItems": 990,
+    "totalItems": 991,
     "pageSize": 10,
     "pageIndex": 0,
-    "pageCount": 99,
+    "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
@@ -178,6 +178,54 @@
       "date": "2022-04-20T07:00:00.000Z",
       "description": "The first of two Premier League London derbies in five days is upon us. Club historian Rick Glanvill and club statistician Paul Dutton switch their attention quickly from Sunday’s semi-final to our hosting of the Gunners…",
       "matchId": 2210513
+    },
+    {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220420man-utd-ticket-update",
+      "type": "NewsCard",
+      "timestamp": "2022-04-20T16:54:00.000Z",
+      "orderDate": "2022-04-20T02:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/20/man-utd-ticket-update",
+        "type": "NewsCard",
+        "title": "Man Utd ticket update",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/man-utd-ticket-update.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-20T16:54:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/20/man-utd-ticket-update",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Old trafford",
+          "id": "editorial/news/2020/10/old-trafford-view",
+          "gravity": "auto",
+          "aspectRatio": 1.6020656,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Man Utd ticket update",
+      "publishDate": "2022-04-20T16:54:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/man-utd-ticket-update.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-04-20T16:54:00.000Z",
+      "description": "The latest ticket news for our trip to Old Trafford next week..."
     },
     {
       "contentType": "Match Preview",
@@ -507,60 +555,6 @@
       "date": "2022-04-19T13:02:00.000Z",
       "description": "Thomas Tuchel believes Reece James is just as effective for Chelsea at right wing-back as he is in a back three, and the boss has explained his thought process behind selecting him in the latter role recently.",
       "matchId": 2210513
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220419manchester-united-away-ticket-ne",
-      "type": "NewsCard",
-      "timestamp": "2022-04-19T14:08:00.000Z",
-      "orderDate": "2022-04-19T10:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/19/manchester-united-away-ticket-news",
-        "type": "NewsCard",
-        "title": "Manchester United away ticket news",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/manchester-united-away-ticket-news.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-19T14:08:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/19/manchester-united-away-ticket-news",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Old Trafford",
-          "id": "editorial/news/2019/4/old-trafford-view",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Manchester United away ticket news",
-      "publishDate": "2022-04-19T14:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/19/manchester-united-away-ticket-news.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-19T14:08:00.000Z",
-      "description": "Ticket selling details for our Premier League match at Old Trafford, which has been brought forward due to our progress to the FA Cup final have been announced…",
-      "matchId": 2210634
     }
   ]
 }
