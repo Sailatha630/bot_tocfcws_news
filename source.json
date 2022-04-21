@@ -1,12 +1,75 @@
 {
   "pagination": {
-    "totalItems": 998,
+    "totalItems": 999,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220421the-debrief--werner-worries-arse",
+      "type": "NewsCard",
+      "timestamp": "2022-04-21T11:40:00.000Z",
+      "orderDate": "2022-04-21T11:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/21/the-debrief--werner-worries-arsenal-in-game-of-width-but-mistake",
+        "type": "NewsCard",
+        "title": "The Debrief: Werner worries Arsenal in game of width but mistakes cost us",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/21/the-debrief--werner-worries-arsenal-in-game-of-width-but-mistake.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-21T11:40:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/21/the-debrief--werner-worries-arsenal-in-game-of-width-but-mistake",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/04/21/Debrief_Arsenal_H_210422",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Werner worries Arsenal in game of width but mistakes cost us",
+      "publishDate": "2022-04-21T11:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/21/the-debrief--werner-worries-arsenal-in-game-of-width-but-mistake.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Timo Werner",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_timo-werner"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Arsenal",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_arsenal"
+        }
+      ],
+      "date": "2022-04-21T11:40:00.000Z",
+      "description": "The statistics showed both teams targeted the flanks and Timo Werner continued to look dangerous, but it wasn't enough as we succumbed to a 4-2 defeat to Arsenal.",
+      "matchId": 2210513
+    },
     {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220421werner--goals-mean-nothing-to-me",
@@ -518,61 +581,6 @@
       ],
       "date": "2022-04-20T11:30:00.000Z",
       "description": "Chelsea’s week of London derbies continues this evening with a visit from Arsenal, a team Marcos Alonso has had the happy knack of scoring against in the past.",
-      "matchId": 2210513
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220420pre-match-briefing--chelsea-vs-a",
-      "type": "NewsCard",
-      "timestamp": "2022-04-20T07:00:00.000Z",
-      "orderDate": "2022-04-20T07:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/20/pre-match-briefing--chelsea-vs-arsenal",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Arsenal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/pre-match-briefing--chelsea-vs-arsenal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-20T07:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/04/20/pre-match-briefing--chelsea-vs-arsenal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/05/17/stadium_shed_turnstiles",
-          "gravity": "auto",
-          "aspectRatio": 1.4915254,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Arsenal",
-      "publishDate": "2022-04-20T07:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/pre-match-briefing--chelsea-vs-arsenal.html",
-      "readTimeInMins": 69,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2022-04-20T07:00:00.000Z",
-      "description": "The first of two Premier League London derbies in five days is upon us. Club historian Rick Glanvill and club statistician Paul Dutton switch their attention quickly from Sunday’s semi-final to our hosting of the Gunners…",
       "matchId": 2210513
     }
   ]
