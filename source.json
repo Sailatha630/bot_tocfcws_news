@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 995,
+    "totalItems": 996,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220421christensen--we-need-to-look-at-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-21T03:00:00.000Z",
+      "orderDate": "2022-04-21T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/21/christensen--we-need-to-look-at-ourselves-and-improve",
+        "type": "NewsCard",
+        "title": "Christensen: We need to look at ourselves and improve",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/21/christensen--we-need-to-look-at-ourselves-and-improve.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-21T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/21/christensen--we-need-to-look-at-ourselves-and-improve",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Christensen-CL1_0314_9e4bad56-2b1b-4216-8976-bbb376fd21ad",
+          "gravity": "auto",
+          "aspectRatio": 1.4997863,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Christensen: We need to look at ourselves and improve",
+      "publishDate": "2022-04-21T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/21/christensen--we-need-to-look-at-ourselves-and-improve.html",
+      "readTimeInMins": 11,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        }
+      ],
+      "date": "2022-04-21T03:00:00.000Z",
+      "description": "Andreas Christensen accepted full responsibility for Arsenal’s first goal in last night’s disappointing 4-2 home defeat and stated that he and his Chelsea team-mates need to perform a lot better.",
+      "matchId": 2210513
+    },
     {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220420tuchel-reacts-to-arsenal-result",
@@ -525,69 +573,6 @@
       ],
       "date": "2022-04-20T00:48:00.000Z",
       "description": "The next men's first team outing in what is a London derby week for Chelsea is the visit by the Gunners to Stamford Bridge. We have here the stats and facts for this Premier League encounter...",
-      "matchId": 2210513
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220420tuchel--lukaku-missing-the-luck-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-20T00:15:00.000Z",
-      "orderDate": "2022-04-20T00:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/20/tuchel--lukaku-missing-the-luck-but-can-still-be-crucial",
-        "type": "NewsCard",
-        "title": "Tuchel: Lukaku missing the luck but can still be crucial",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/tuchel--lukaku-missing-the-luck-but-can-still-be-crucial.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-20T00:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/20/tuchel--lukaku-missing-the-luck-but-can-still-be-crucial",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/12/31/lukaku-tuchel-training",
-          "gravity": "auto",
-          "aspectRatio": 0.918135,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Lukaku missing the luck but can still be crucial",
-      "publishDate": "2022-04-20T00:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/tuchel--lukaku-missing-the-luck-but-can-still-be-crucial.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        },
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_romelu-lukaku"
-        }
-      ],
-      "date": "2022-04-20T00:15:00.000Z",
-      "description": "Eight months on from his goalscoring Chelsea return against today’s opponents Arsenal, Romelu Lukaku may be enjoying less favour and fortune than back in those heady August days but his boss Thomas Tuchel believes the Belgian remains an important component in his team…",
       "matchId": 2210513
     }
   ]
