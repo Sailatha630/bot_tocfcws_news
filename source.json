@@ -192,6 +192,54 @@
       "matchId": 2210513
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220421latest-man-utd-ticket-news-for-m",
+      "type": "NewsCard",
+      "timestamp": "2022-04-21T15:22:00.000Z",
+      "orderDate": "2022-04-21T09:22:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/21/latest-man-utd-ticket-news-for-members",
+        "type": "NewsCard",
+        "title": "Latest Man Utd ticket news for members",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/21/latest-man-utd-ticket-news-for-members.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-21T15:22:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/21/latest-man-utd-ticket-news-for-members",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Old trafford",
+          "id": "editorial/news/2019/4/old_trafford_view_inside",
+          "gravity": "south",
+          "aspectRatio": 1.5001438,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Latest Man Utd ticket news for members",
+      "publishDate": "2022-04-21T15:22:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/21/latest-man-utd-ticket-news-for-members.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-04-21T15:22:00.000Z",
+      "description": "A ticket update for the game at Old Trafford a week today..."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220421drogba-inducted-into-premier-lea",
       "type": "NewsCard",
@@ -531,64 +579,6 @@
       ],
       "date": "2022-04-20T17:45:00.000Z",
       "description": "There are four changes for Chelsea today as Romelu Lukaku returns to spearhead the attack against Arsenal…",
-      "matchId": 2210513
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220420tuchel-waiting-to-judge-season-s",
-      "type": "NewsCard",
-      "timestamp": "2022-04-20T14:00:00.000Z",
-      "orderDate": "2022-04-20T14:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/20/tuchel-waiting-to-judge-season-s-success-and-drawing-positives-f",
-        "type": "NewsCard",
-        "title": "Tuchel waiting to judge season’s success and drawing positives from our unprecedented fixture list",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/tuchel-waiting-to-judge-season-s-success-and-drawing-positives-f.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-20T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/20/tuchel-waiting-to-judge-season-s-success-and-drawing-positives-f",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/04/19/Tuchel-training-pre-Arsenal",
-          "gravity": "auto",
-          "aspectRatio": 1.5162455,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel waiting to judge season’s success and drawing positives from our unprecedented fixture list",
-      "publishDate": "2022-04-20T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/tuchel-waiting-to-judge-season-s-success-and-drawing-positives-f.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2022-04-20T14:00:00.000Z",
-      "description": "Thomas Tuchel is unwilling to pinpoint a precise outcome that defines whether this campaign can be viewed as a success at Stamford Bridge, preferring instead to keep the focus on a decisive fortnight of league encounters ahead.",
       "matchId": 2210513
     }
   ]
