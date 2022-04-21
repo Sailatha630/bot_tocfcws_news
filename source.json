@@ -1,12 +1,60 @@
 {
   "pagination": {
-    "totalItems": 996,
+    "totalItems": 997,
     "pageSize": 10,
     "pageIndex": 0,
     "pageCount": 100,
     "startFrom": 0
   },
   "newsFeed": [
+    {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220421drogba-inducted-into-premier-lea",
+      "type": "NewsCard",
+      "timestamp": "2022-04-21T07:00:00.000Z",
+      "orderDate": "2022-04-21T07:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/21/drogba-inducted-into-premier-league-hall-of-fame-",
+        "type": "NewsCard",
+        "title": "Drogba inducted into Premier League Hall of Fame ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/21/drogba-inducted-into-premier-league-hall-of-fame-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-21T07:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/21/drogba-inducted-into-premier-league-hall-of-fame-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Didier Drogba",
+          "id": "usa-site/assets/20-greatest-photos/GettyImages-457891818",
+          "gravity": "auto",
+          "aspectRatio": 1.4333493,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Drogba inducted into Premier League Hall of Fame ",
+      "publishDate": "2022-04-21T07:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/21/drogba-inducted-into-premier-league-hall-of-fame-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Didier Drogba",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_didier-drogba"
+        }
+      ],
+      "date": "2022-04-21T07:00:00.000Z",
+      "description": "Didier Drogba is the second former Chelsea great to be inducted into the Premier League Hall of Fame."
+    },
     {
       "contentType": "News",
       "id": "_content_chelseafcennews20220421christensen--we-need-to-look-at-",
@@ -520,60 +568,6 @@
       ],
       "date": "2022-04-20T16:54:00.000Z",
       "description": "The latest ticket news for our trip to Old Trafford next week..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220420blues-bulletin--chelsea-vs-arsen",
-      "type": "NewsCard",
-      "timestamp": "2022-04-20T00:48:00.000Z",
-      "orderDate": "2022-04-20T00:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/20/blues-bulletin--chelsea-vs-arsenal",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Arsenal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/blues-bulletin--chelsea-vs-arsenal.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-20T00:48:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/20/blues-bulletin--chelsea-vs-arsenal",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Marcos Alonso playing against Arsenal",
-          "id": "editorial/news/2022/04/19/alonso_arsenal_away",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Arsenal",
-      "publishDate": "2022-04-20T00:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/20/blues-bulletin--chelsea-vs-arsenal.html",
-      "readTimeInMins": 24,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Arsenal",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_arsenal"
-        }
-      ],
-      "date": "2022-04-20T00:48:00.000Z",
-      "description": "The next men's first team outing in what is a London derby week for Chelsea is the visit by the Gunners to Stamford Bridge. We have here the stats and facts for this Premier League encounter...",
-      "matchId": 2210513
     }
   ]
 }
