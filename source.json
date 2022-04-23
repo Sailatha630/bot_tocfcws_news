@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220423try-our-chelsea-vs-west-ham-quiz",
+      "type": "NewsCard",
+      "timestamp": "2022-04-23T11:42:00.000Z",
+      "orderDate": "2022-04-23T11:42:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/23/try-our-chelsea-vs-west-ham-quiz",
+        "type": "NewsCard",
+        "title": "Try our Chelsea vs West Ham quiz",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/23/try-our-chelsea-vs-west-ham-quiz.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-23T11:42:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/23/try-our-chelsea-vs-west-ham-quiz",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ziyech vs West Ham",
+          "id": "editorial/match-reports/2021-22/west-ham-away/west_ham_away_ziyech",
+          "gravity": "auto",
+          "aspectRatio": 1.4996637,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Try our Chelsea vs West Ham quiz",
+      "publishDate": "2022-04-23T11:42:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/23/try-our-chelsea-vs-west-ham-quiz.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2022-04-23T11:42:00.000Z",
+      "description": "Get in the mood for matchday tomorrow with a quiz on Chelsea and West Ham ahead of our latest London derby.",
+      "matchId": 2210605
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220423pre-match-briefing--chelsea-vs-w",
       "type": "NewsCard",
@@ -483,60 +532,6 @@
       "date": "2022-04-22T03:25:00.000Z",
       "description": "Chelsea host West Ham United at Stamford Bridge on Sunday looking to bounce back from defeat in our third London derby in a row. Here are all the crucial pre-match statistics...",
       "matchId": 2210605
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220422tottenham-hotspur-women-v-chelse",
-      "type": "NewsCard",
-      "timestamp": "2022-04-22T09:28:00.000Z",
-      "orderDate": "2022-04-22T00:28:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/22/tottenham-hotspur-women-v-chelsea-women--kick-off-time--how-to-w",
-        "type": "NewsCard",
-        "title": "Tottenham Hotspur Women vs Chelsea Women: Kick-off time, how to watch live and more!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/22/tottenham-hotspur-women-v-chelsea-women--kick-off-time--how-to-w.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-22T09:28:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/22/tottenham-hotspur-women-v-chelsea-women--kick-off-time--how-to-w",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Team-cele-second-goal-vs-Reading",
-          "gravity": "auto",
-          "aspectRatio": 1.5027933,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tottenham Hotspur Women vs Chelsea Women: Kick-off time, how to watch live and more!",
-      "publishDate": "2022-04-22T09:28:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/22/tottenham-hotspur-women-v-chelsea-women--kick-off-time--how-to-w.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Tottenham Hotspur",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_tottenham-hotspur"
-        }
-      ],
-      "date": "2022-04-22T09:28:00.000Z",
-      "description": "Chelsea FC Women are back to Barclays FA Women’s Super League action on Sunday and everything you need to know ahead of our clash with Tottenham Hotspur can be found here in our preview…",
-      "matchId": 2236436
     }
   ]
 }
