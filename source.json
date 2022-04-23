@@ -12,7 +12,7 @@
       "id": "_content_chelseafcennews20220423try-our-chelsea-vs-west-ham-quiz",
       "type": "NewsCard",
       "timestamp": "2022-04-23T11:42:00.000Z",
-      "orderDate": "2022-04-23T11:42:00.000Z",
+      "orderDate": "2022-04-23T13:42:00.000Z",
       "link": {
         "path": "/content/chelseafc/en/news/2022/04/23/try-our-chelsea-vs-west-ham-quiz",
         "type": "NewsCard",
@@ -55,6 +55,59 @@
       "date": "2022-04-23T11:42:00.000Z",
       "description": "Get in the mood for matchday tomorrow with a quiz on Chelsea and West Ham ahead of our latest London derby.",
       "matchId": 2210605
+    },
+    {
+      "contentType": "History",
+      "id": "_content_chelseafcennews20220423chelsea-s-young-centurions",
+      "type": "NewsCard",
+      "timestamp": "2022-04-23T15:00:00.000Z",
+      "orderDate": "2022-04-23T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/23/chelsea-s-young-centurions",
+        "type": "NewsCard",
+        "title": "Chelsea's young centurions",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/23/chelsea-s-young-centurions.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-23T15:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/23/chelsea-s-young-centurions",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Mason Mount",
+          "id": "editorial/news/2022/04/22/mount-stamford-bridge-stock",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea's young centurions",
+      "publishDate": "2022-04-23T15:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/23/chelsea-s-young-centurions.html",
+      "readTimeInMins": 14,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2022-04-23T15:00:00.000Z",
+      "description": "Mason Mount made his 100th Premier League appearance for the Blues against Arsenal on Wednesday night – but was he the youngest to bring up this milestone for the club? Read on to find out…"
     },
     {
       "contentType": "Match Preview",
@@ -491,54 +544,6 @@
       "date": "2022-04-22T16:30:00.000Z",
       "description": "Chelsea FC Women boss Emma Hayes sat down with the media this afternoon as the Blues prepare to take on Tottenham Hotspur in the Barclays FA Women’s Super League.",
       "matchId": 2236436
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220422women-s-fa-cup-final-ticket-deta",
-      "type": "NewsCard",
-      "timestamp": "2022-04-22T16:00:00.000Z",
-      "orderDate": "2022-04-22T10:49:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/22/women-s-fa-cup-final-ticket-details",
-        "type": "NewsCard",
-        "title": "Women's FA Cup final ticket details",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/22/women-s-fa-cup-final-ticket-details.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-22T16:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/22/women-s-fa-cup-final-ticket-details",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Wembley",
-          "id": "editorial/match-reports/2020-21/women-v-man-city-(cs)/Women-Man-City-pre-match",
-          "gravity": "auto",
-          "aspectRatio": 1.5002804,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Women's FA Cup final ticket details",
-      "publishDate": "2022-04-22T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/22/women-s-fa-cup-final-ticket-details.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-04-22T16:00:00.000Z",
-      "description": "Ticket and match details have been confirmed for the Women's FA Cup final next month..."
     }
   ]
 }
