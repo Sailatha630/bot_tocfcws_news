@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220424report--chelsea-vs-west-ham",
+      "type": "NewsCard",
+      "timestamp": "2022-04-24T14:47:00.000Z",
+      "orderDate": "2022-04-24T14:47:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/24/report--chelsea-vs-west-ham",
+        "type": "NewsCard",
+        "title": "Report: Chelsea 1 West Ham 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/24/report--chelsea-vs-west-ham.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-24T14:47:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/24/report--chelsea-vs-west-ham",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/match-reports/2021-22/west-ham-home/Pulisic-goal-celebration-West-Ham-home-1",
+          "gravity": "auto",
+          "aspectRatio": 1.4998136,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Report: Chelsea 1 West Ham 0",
+      "publishDate": "2022-04-24T14:47:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/24/report--chelsea-vs-west-ham.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        }
+      ],
+      "date": "2022-04-24T14:47:00.000Z",
+      "description": "Chelsea needed patience and persistence at Stamford Bridge as we returned to winning ways in the Premier League courtesy of Christian Pulisic’s last-minute strike.",
+      "matchId": 2210605
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220424chelsea-line-up-vs-west-ham",
       "type": "NewsCard",
@@ -511,48 +565,6 @@
       "date": "2022-04-23T12:30:00.000Z",
       "description": "Our young Blues suffered a heavy 3-0 defeat at the hands of their London rivals West Ham United today. This is the team’s fourth loss in six games in all competitions.",
       "matchId": 2238490
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220423chelsea-fc-foundation-team-win-f",
-      "type": "NewsCard",
-      "timestamp": "2022-04-23T00:46:00.000Z",
-      "orderDate": "2022-04-22T23:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/23/chelsea-fc-foundation-team-win-fifteenth-anniversary-premier-lea",
-        "type": "NewsCard",
-        "title": "Chelsea FC Foundation team win 15th-anniversary Premier League Kicks Cup",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/23/chelsea-fc-foundation-team-win-fifteenth-anniversary-premier-lea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-23T00:46:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/23/chelsea-fc-foundation-team-win-fifteenth-anniversary-premier-lea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Kicks-tournament",
-          "gravity": "auto",
-          "aspectRatio": 1.3318584,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea FC Foundation team win 15th-anniversary Premier League Kicks Cup",
-      "publishDate": "2022-04-23T00:46:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/23/chelsea-fc-foundation-team-win-fifteenth-anniversary-premier-lea.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-04-23T00:46:00.000Z",
-      "description": "Chelsea FC Foundation’s Premier League Kicks cohort took part in the tournament, held at Crystal Palace’s training ground."
     }
   ]
 }
