@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220425the-debrief--width-opens-west-ha",
+      "type": "NewsCard",
+      "timestamp": "2022-04-25T11:30:00.000Z",
+      "orderDate": "2022-04-25T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/25/the-debrief--width-opens-west-ham-up-and-subs-make-telling-impac",
+        "type": "NewsCard",
+        "title": "The Debrief: Width opens West Ham up and subs make telling impact",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/the-debrief--width-opens-west-ham-up-and-subs-make-telling-impac.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-25T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/25/the-debrief--width-opens-west-ham-up-and-subs-make-telling-impac",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " The Debrief",
+          "id": "editorial/news/2022/04/26/debrief-web-hero-west-ham-h",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "The Debrief: Width opens West Ham up and subs make telling impact",
+      "publishDate": "2022-04-25T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/the-debrief--width-opens-west-ham-up-and-subs-make-telling-impac.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "West Ham",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_west-ham"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        }
+      ],
+      "date": "2022-04-25T11:30:00.000Z",
+      "description": "We tell the tale of yesterday’s late win over West Ham with statistical-based analysis that shows how our effective use of the flanks eventually paid dividends…",
+      "matchId": 2210605
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220425taking-it-to-the-brink---chelsea",
       "type": "NewsCard",
@@ -572,51 +631,6 @@
       "date": "2022-04-24T14:47:00.000Z",
       "description": "Chelsea needed patience and persistence at Stamford Bridge as we returned to winning ways in the Premier League courtesy of Christian Pulisic’s last-minute strike.",
       "matchId": 2210605
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220424women-s-report--tottenham-hotspu",
-      "type": "NewsCard",
-      "timestamp": "2022-04-24T15:39:00.000Z",
-      "orderDate": "2022-04-24T14:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/24/women-s-report--tottenham-hotspur-1-chelsea-3",
-        "type": "NewsCard",
-        "title": "Women’s report: Tottenham Hotspur 1 Chelsea 3",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/24/women-s-report--tottenham-hotspur-1-chelsea-3.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-24T15:39:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/24/women-s-report--tottenham-hotspur-1-chelsea-3",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kerr celebrates the winner",
-          "id": "editorial/match-reports/2021-22/women-tottenham-away/Women_Spurs_Kerr_celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.503006,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Tottenham Hotspur 1 Chelsea 3",
-      "publishDate": "2022-04-24T15:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/24/women-s-report--tottenham-hotspur-1-chelsea-3.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-04-24T15:39:00.000Z",
-      "description": "The Blues had to overcome an early own goal and a first-half red card, but goals from Guro Reiten, Sam Kerr and Jessie Fleming maintained our lead in the Women’s Super League title race.",
-      "matchId": 2236436
     }
   ]
 }
