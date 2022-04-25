@@ -451,6 +451,54 @@
       "matchId": 2237347
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220425leeds-ticket-details",
+      "type": "NewsCard",
+      "timestamp": "2022-04-25T11:58:00.000Z",
+      "orderDate": "2022-04-25T01:58:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/25/leeds-ticket-details",
+        "type": "NewsCard",
+        "title": "Leeds ticket details",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/leeds-ticket-details.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-25T11:58:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/25/leeds-ticket-details",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Elland Road",
+          "id": "editorial/news/2021/03/11/elland_road_aerial",
+          "gravity": "auto",
+          "aspectRatio": 1.5010989,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Leeds ticket details",
+      "publishDate": "2022-04-25T11:58:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/leeds-ticket-details.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-04-25T11:58:00.000Z",
+      "description": "Preliminary ticket details for our trip to Elland Road have been announced, with a further update to follow later today (Monday)..."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220424tuchel-reacts-to-west-ham-win",
       "type": "NewsCard",
@@ -576,60 +624,6 @@
       ],
       "date": "2022-04-24T17:07:00.000Z",
       "description": "The Blues left it late but Christian Pulisic's 90th-minute strike sealed all three points in a tense London derby against West Ham, and you can relive the action in the video above.",
-      "matchId": 2210605
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220424report--chelsea-vs-west-ham",
-      "type": "NewsCard",
-      "timestamp": "2022-04-24T14:47:00.000Z",
-      "orderDate": "2022-04-24T14:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/24/report--chelsea-vs-west-ham",
-        "type": "NewsCard",
-        "title": "Report: Chelsea 1 West Ham 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/24/report--chelsea-vs-west-ham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-24T14:47:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/24/report--chelsea-vs-west-ham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/west-ham-home/Pulisic-goal-celebration-West-Ham-home-1",
-          "gravity": "auto",
-          "aspectRatio": 1.4998136,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Report: Chelsea 1 West Ham 0",
-      "publishDate": "2022-04-24T14:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/24/report--chelsea-vs-west-ham.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "West Ham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-ham"
-        }
-      ],
-      "date": "2022-04-24T14:47:00.000Z",
-      "description": "Chelsea needed patience and persistence at Stamford Bridge as we returned to winning ways in the Premier League courtesy of Christian Pulisic’s last-minute strike.",
       "matchId": 2210605
     }
   ]
