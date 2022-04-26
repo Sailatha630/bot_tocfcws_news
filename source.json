@@ -134,6 +134,54 @@
       "matchId": 2236436
     },
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220426u18-premier-league-cup-final-tic",
+      "type": "NewsCard",
+      "timestamp": "2022-04-26T09:30:00.000Z",
+      "orderDate": "2022-04-25T23:19:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/26/u18-premier-league-cup-final-tickets-on-sale",
+        "type": "NewsCard",
+        "title": "Under-18 Premier League Cup final tickets on sale",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/26/u18-premier-league-cup-final-tickets-on-sale.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-26T09:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/26/u18-premier-league-cup-final-tickets-on-sale",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Craven Cottage",
+          "id": "mobile-app/Craven-Cottage-general-view-GettyImages-1010880442",
+          "gravity": "auto",
+          "aspectRatio": 1.1421801,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Under-18 Premier League Cup final tickets on sale",
+      "publishDate": "2022-04-26T09:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/26/u18-premier-league-cup-final-tickets-on-sale.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Ticket News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_ticket-news"
+        }
+      ],
+      "date": "2022-04-26T09:30:00.000Z",
+      "description": "Tickets for the Under-18 Premier League Cup final between Fulham and Chelsea at Craven Cottage next week are now on sale."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220425azpi--we-kept-the-spirit-and-fou",
       "type": "NewsCard",
@@ -555,64 +603,6 @@
       ],
       "date": "2022-04-25T14:38:00.000Z",
       "description": "Ticket details for our trip to Elland Road have been announced, including the number of loyalty points season ticket holders require to purchase..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220425pulisic-reacts-to-his-late-winne",
-      "type": "NewsCard",
-      "timestamp": "2022-04-25T03:00:00.000Z",
-      "orderDate": "2022-04-25T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/25/pulisic-reacts-to-his-late-winner-against-west-ham",
-        "type": "NewsCard",
-        "title": "Pulisic: It was a massive goal",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/pulisic-reacts-to-his-late-winner-against-west-ham.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-25T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/25/pulisic-reacts-to-his-late-winner-against-west-ham",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/04/24/Pulisic-goal-celebration-West-Ham-home",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pulisic: It was a massive goal",
-      "publishDate": "2022-04-25T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/pulisic-reacts-to-his-late-winner-against-west-ham.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "West Ham",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_west-ham"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        }
-      ],
-      "date": "2022-04-25T03:00:00.000Z",
-      "description": "Match-winner Christian Pulisic only had 14 minutes to make an impact against our London rivals West Ham and he has spoken of his huge joy of doing just that after scoring the all-important goal.",
-      "matchId": 2210605
     }
   ]
 }
