@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220426-this-is-the-club-of-my-life----",
+      "type": "NewsCard",
+      "timestamp": "2022-04-26T12:00:00.000Z",
+      "orderDate": "2022-04-26T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/26/-this-is-the-club-of-my-life----alonso-on-his-great-chelsea-memo",
+        "type": "NewsCard",
+        "title": "‘This is the club of my life’ – Alonso on his great Chelsea memories and desire for more silverware",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/26/-this-is-the-club-of-my-life----alonso-on-his-great-chelsea-memo.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-26T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/26/-this-is-the-club-of-my-life----alonso-on-his-great-chelsea-memo",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Marcos Alonso",
+          "id": "editorial/news/2022/04/26/alonso-stock-smile",
+          "gravity": "auto",
+          "aspectRatio": 1.5001842,
+          "cropMode": "fill"
+        }
+      },
+      "content": "‘This is the club of my life’ – Alonso on his great Chelsea memories and desire for more silverware",
+      "publishDate": "2022-04-26T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/26/-this-is-the-club-of-my-life----alonso-on-his-great-chelsea-memo.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Marcos Alonso",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_marcos-alonso"
+        }
+      ],
+      "date": "2022-04-26T12:00:00.000Z",
+      "description": "Last month Marcos Alonso joined an elite group of overseas players who have represented Chelsea on 200 occasions or more."
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220426pat-nevin--why-i-agreed-with-fan",
       "type": "NewsCard",
@@ -555,54 +603,6 @@
       "date": "2022-04-25T10:30:00.000Z",
       "description": "Emma Hayes' side retained their position at the top of the Barclays Women's Super League table with an away victory on Sunday and you can watch how it was acheived above.",
       "matchId": 2236436
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220425leeds-ticket-details",
-      "type": "NewsCard",
-      "timestamp": "2022-04-25T14:38:00.000Z",
-      "orderDate": "2022-04-25T06:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/25/leeds-ticket-details",
-        "type": "NewsCard",
-        "title": "Leeds ticket details with loyalty point update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/leeds-ticket-details.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-25T14:38:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/25/leeds-ticket-details",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Elland Road",
-          "id": "editorial/news/2021/03/11/elland_road_aerial",
-          "gravity": "auto",
-          "aspectRatio": 1.5010989,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Leeds ticket details with loyalty point update",
-      "publishDate": "2022-04-25T14:38:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/leeds-ticket-details.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-04-25T14:38:00.000Z",
-      "description": "Ticket details for our trip to Elland Road have been announced, including the number of loyalty points season ticket holders require to purchase..."
     }
   ]
 }
