@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220427tuchel-injury-update-man-united-",
+      "type": "NewsCard",
+      "timestamp": "2022-04-27T13:10:00.000Z",
+      "orderDate": "2022-04-27T13:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/27/tuchel-injury-update-man-united-away",
+        "type": "NewsCard",
+        "title": "Tuchel hopeful trio can feature at Old Trafford, confident Rudiger’s levels will remain high and undecided on James’s best position",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/27/tuchel-injury-update-man-united-away.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-27T13:10:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/27/tuchel-injury-update-man-united-away",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel",
+          "id": "chelsea-app/tuchel-press-DAZ_6788",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel hopeful trio can feature at Old Trafford, confident Rudiger’s levels will remain high and undecided on James’s best position",
+      "publishDate": "2022-04-27T13:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/27/tuchel-injury-update-man-united-away.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        }
+      ],
+      "date": "2022-04-27T13:10:00.000Z",
+      "description": "Thomas Tuchel provided injury and illness updates on seven Chelsea players at his press conference to preview tomorrow’s visit to Manchester United.",
+      "matchId": 2210634
+    },
+    {
       "contentType": "Stamford Bridge",
       "id": "_content_chelseafcennews20220427behind-the-scenes-with-jorginho",
       "type": "NewsCard",
@@ -510,54 +569,6 @@
       },
       "date": "2022-04-26T06:25:00.000Z",
       "description": "Chelsea legend Pat Nevin reviews the weekend home win, explains why an early success in our quest for a top-four finish would be so beneficial, and states his confidence in Jorginho…"
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220426leeds-away-ticket-update-for-mem",
-      "type": "NewsCard",
-      "timestamp": "2022-04-26T15:22:00.000Z",
-      "orderDate": "2022-04-26T04:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/26/leeds-away-ticket-update-for-members",
-        "type": "NewsCard",
-        "title": "Leeds away ticket update for members",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/26/leeds-away-ticket-update-for-members.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-26T15:22:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/26/leeds-away-ticket-update-for-members",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thiago Silva",
-          "id": "chelsea-app/Thiago-GettyImages-1358442197",
-          "gravity": "auto",
-          "aspectRatio": 1.5278794,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Leeds away ticket update for members",
-      "publishDate": "2022-04-26T15:22:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/26/leeds-away-ticket-update-for-members.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        }
-      ],
-      "date": "2022-04-26T15:22:00.000Z",
-      "description": "The number of loyalty points members require to buy a ticket to our away game at Leeds has been confirmed..."
     }
   ]
 }
