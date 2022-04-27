@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220427blues-bulletin--manchester-unite",
+      "type": "NewsCard",
+      "timestamp": "2022-04-27T00:33:00.000Z",
+      "orderDate": "2022-04-27T00:33:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/27/blues-bulletin--manchester-united-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Manchester United vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/27/blues-bulletin--manchester-united-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-27T00:33:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/27/blues-bulletin--manchester-united-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chelsea vs Manchester United Loftus-Cheek",
+          "id": "editorial/news/2021/11/29/loftus-cheek-manchester-united-h",
+          "gravity": "auto",
+          "aspectRatio": 1.5327553,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Manchester United vs Chelsea",
+      "publishDate": "2022-04-27T00:33:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/27/blues-bulletin--manchester-united-vs-chelsea.html",
+      "readTimeInMins": 22,
+      "tags": [
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-27T00:33:00.000Z",
+      "description": "The Blues head north to Manchester this midweek and we preview this Premier League match-up with the best stats and facts...",
+      "matchId": 2210634
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220426-this-is-the-club-of-my-life----",
       "type": "NewsCard",
@@ -494,70 +548,6 @@
       "date": "2022-04-25T13:26:00.000Z",
       "description": "Skipper Cesar Azpilicueta is delighted to put an end to a disappointing run of home form after our win over West Ham yesterday and he believes our late winner was just reward for a spirited performance.",
       "matchId": 2210605
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220425pl2-report--brighton-hove---albi",
-      "type": "NewsCard",
-      "timestamp": "2022-04-25T21:09:00.000Z",
-      "orderDate": "2022-04-25T14:25:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/25/pl2-report--brighton-hove---albion-chelsea",
-        "type": "NewsCard",
-        "title": "PL2 Report: Brighton Hove & Albion 1 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/pl2-report--brighton-hove---albion-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-25T21:09:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/25/pl2-report--brighton-hove---albion-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Massive smiles from the win against Brighton",
-          "id": "editorial/match-reports/2021-22/brighton-away-under-23s/PL2_Brighton_Away_All_smiles",
-          "gravity": "auto",
-          "aspectRatio": 1.4925373,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "PL2 Report: Brighton Hove & Albion 1 Chelsea 2",
-      "publishDate": "2022-04-25T21:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/25/pl2-report--brighton-hove---albion-chelsea.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2022-04-25T21:09:00.000Z",
-      "description": "With a victory needed to ease relegation fears, our development squad delivered at the Amex stadium this evening. Two goals either side of half-time were enough to secure victory."
     }
   ]
 }
