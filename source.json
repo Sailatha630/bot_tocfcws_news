@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220428chelsea-line-up-vs-man-united",
+      "type": "NewsCard",
+      "timestamp": "2022-04-28T17:45:00.000Z",
+      "orderDate": "2022-04-28T17:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/28/chelsea-line-up-vs-man-united",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Man United",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/chelsea-line-up-vs-man-united.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-28T17:45:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/28/chelsea-line-up-vs-man-united",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Reece James",
+          "id": "editorial/match-reports/2021-22/burnley-away/James-arrival-Burnley-away",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Man United",
+      "publishDate": "2022-04-28T17:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/chelsea-line-up-vs-man-united.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Team News",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-news"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        }
+      ],
+      "date": "2022-04-28T17:45:00.000Z",
+      "description": "Toni Rudiger and Reece James return to the Chelsea starting XI for tonight’s game against Manchester United.",
+      "matchId": 2210634
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220428tuchel-on-the-difficulty-of-plan",
       "type": "NewsCard",
@@ -520,64 +579,6 @@
       ],
       "date": "2022-04-28T11:00:00.000Z",
       "description": "Blues fans wishing to watch Chelsea play during our return to the United States this summer can now buy tickets for our FC Series match in Florida with no pre-sales registration required."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220427tuchel--chelsea-against-man-utd-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-27T14:06:00.000Z",
-      "orderDate": "2022-04-27T14:06:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/27/tuchel--chelsea-against-man-utd-will-always-be-a-big-occasion",
-        "type": "NewsCard",
-        "title": "Tuchel: Chelsea against Man Utd will always be a big occasion",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/27/tuchel--chelsea-against-man-utd-will-always-be-a-big-occasion.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-27T14:06:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/27/tuchel--chelsea-against-man-utd-will-always-be-a-big-occasion",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/04/27/Tuchel_CFC_Chelsea_Tra_3271",
-          "gravity": "auto",
-          "aspectRatio": 1.5004052,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Chelsea against Man Utd will always be a big occasion",
-      "publishDate": "2022-04-27T14:06:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/27/tuchel--chelsea-against-man-utd-will-always-be-a-big-occasion.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        }
-      ],
-      "date": "2022-04-27T14:06:00.000Z",
-      "description": "Thomas Tuchel believes Chelsea against Manchester United is the type of game that made him admire the Premier League from afar and is excited by the opportunity to compete for the win in such a prestigious fixture now he is here.",
-      "matchId": 2210634
     }
   ]
 }
