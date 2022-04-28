@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220428tuchel-reacts-to-man-united-draw",
+      "type": "NewsCard",
+      "timestamp": "2022-04-28T21:38:00.000Z",
+      "orderDate": "2022-04-28T21:38:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/28/tuchel-reacts-to-man-united-draw",
+        "type": "NewsCard",
+        "title": "Tuchel reflects on a huge team effort but an undeserved result",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/tuchel-reacts-to-man-united-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-28T21:38:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/28/tuchel-reacts-to-man-united-draw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/man-utd-away/Tuchel-Man-United-a-2",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reflects on a huge team effort but an undeserved result",
+      "publishDate": "2022-04-28T21:38:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/tuchel-reacts-to-man-united-draw.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Manchester United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-united"
+        }
+      ],
+      "date": "2022-04-28T21:38:00.000Z",
+      "description": "Thomas Tuchel acknowledged an impressive showing from his Chelsea players at Old Trafford and could only express disappointment we were not more precise in front of goal.",
+      "matchId": 2210634
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220428match-report--man-united-vs-chel",
       "type": "NewsCard",
@@ -39,7 +97,7 @@
       "content": "Match Report: Man United 1 Chelsea 1",
       "publishDate": "2022-04-28T21:00:00.000Z",
       "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/match-report--man-united-vs-chelsea.html",
-      "readTimeInMins": 17,
+      "readTimeInMins": 15,
       "tags": [
         {
           "title": "Manchester United",
@@ -508,60 +566,6 @@
       ],
       "date": "2022-04-28T10:54:00.000Z",
       "description": "Cesar Azpilicueta has explained what was said between him and the fan he was in coversation with after our recent home defeat to Arsenal, as well as also revealing that he presented the same supporter with his captain's armband against West Ham."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220428pre-match-briefing--manchester-u",
-      "type": "NewsCard",
-      "timestamp": "2022-04-28T06:00:00.000Z",
-      "orderDate": "2022-04-28T06:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/28/pre-match-briefing--manchester-united-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Manchester United vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/pre-match-briefing--manchester-united-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-28T06:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/04/28/pre-match-briefing--manchester-united-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Old Trafford",
-          "id": "cfc/news/latestnews/15/12/Old_trafford_view-25076681",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Manchester United vs Chelsea",
-      "publishDate": "2022-04-28T06:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/pre-match-briefing--manchester-united-vs-chelsea.html",
-      "readTimeInMins": 60,
-      "tags": [
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-28T06:00:00.000Z",
-      "description": "It’s the first of two away league games in the North-West in the space of four days. Club historian Rick Glanvill and club statistician Paul Dutton turn their eyes on Old Trafford…",
-      "matchId": 2210634
     }
   ]
 }
