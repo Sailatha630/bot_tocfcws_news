@@ -63,6 +63,49 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20220429sam-kerr-awarded-fwa-women-s-foo",
+      "type": "NewsCard",
+      "timestamp": "2022-04-29T09:28:00.000Z",
+      "orderDate": "2022-04-29T02:48:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/29/sam-kerr-awarded-fwa-women-s-footballer-of-the-year",
+        "type": "NewsCard",
+        "title": "Sam Kerr awarded FWA Women's Footballer of the Year",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/sam-kerr-awarded-fwa-women-s-footballer-of-the-year.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-29T09:28:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/29/sam-kerr-awarded-fwa-women-s-footballer-of-the-year",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "video/2022/03/08/GettyImages-1357300334",
+          "gravity": "auto",
+          "aspectRatio": 1.5499232,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Sam Kerr awarded FWA Women's Footballer of the Year",
+      "publishDate": "2022-04-29T09:28:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/sam-kerr-awarded-fwa-women-s-footballer-of-the-year.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Sam Kerr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_sam-kerr"
+        }
+      ],
+      "date": "2022-04-29T09:28:00.000Z",
+      "description": "Sam Kerr has scooped the prestigious Football Writers’ Association Women’s Footballer of the Year award following a phenomenal season on the pitch with Chelsea Women."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20220429emma-hayes--we-deserved-to-win-t",
       "type": "NewsCard",
       "timestamp": "2022-04-29T08:36:00.000Z",
@@ -516,55 +559,6 @@
       "date": "2022-04-28T12:46:00.000Z",
       "description": "Kai Havertz believes he is working with one of the best in the business under Thomas Tuchel and has reiterated how happy he is with life at Chelsea as we prepare for our latest assignment away at Manchester United.",
       "matchId": 2210634
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220428fa-cup-final-ticket-news---loyal",
-      "type": "NewsCard",
-      "timestamp": "2022-04-28T16:00:00.000Z",
-      "orderDate": "2022-04-28T11:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/28/fa-cup-final-ticket-news---loyalty-points-update",
-        "type": "NewsCard",
-        "title": "FA Cup final ticket news - loyalty points update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/fa-cup-final-ticket-news---loyalty-points-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-28T16:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/28/fa-cup-final-ticket-news---loyalty-points-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Wembley inside view",
-          "id": "editorial/news/2022/02/25/wembley_view_panoramic_b",
-          "gravity": "auto",
-          "aspectRatio": 2.1027105,
-          "cropMode": "fill"
-        }
-      },
-      "content": "FA Cup final ticket news - loyalty points update",
-      "publishDate": "2022-04-28T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/fa-cup-final-ticket-news---loyalty-points-update.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-04-28T16:00:00.000Z",
-      "description": "Details of the next stage of ticket sales for our Emirates FA Cup final against Liverpool have been announced...",
-      "matchId": 2284552
     }
   ]
 }
