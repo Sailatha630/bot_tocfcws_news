@@ -8,6 +8,70 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220429mateo-kovacic-returns-to-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2022-04-29T15:15:00.000Z",
+      "orderDate": "2022-04-29T15:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/29/mateo-kovacic-returns-to-chelsea-training-ahead-of-everton",
+        "type": "NewsCard",
+        "title": "Mateo Kovacic returns to Chelsea training ahead of Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/mateo-kovacic-returns-to-chelsea-training-ahead-of-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-29T15:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/04/29/mateo-kovacic-returns-to-chelsea-training-ahead-of-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Kovacic-DTW_2735",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mateo Kovacic returns to Chelsea training ahead of Everton",
+      "publishDate": "2022-04-29T15:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/mateo-kovacic-returns-to-chelsea-training-ahead-of-everton.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Andreas Christensen",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_andreas-christensen"
+        },
+        {
+          "title": "Ross Barkley",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ross-barkley"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2022-04-29T15:15:00.000Z",
+      "description": "Mateo Kovacic stepped up his recovery from injury today as he took part in Chelsea training at Cobham.",
+      "matchId": 2210612
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220429the-debrief--rampant-reece-inspi",
       "type": "NewsCard",
@@ -466,51 +530,6 @@
       "date": "2022-04-28T21:00:00.000Z",
       "description": "Chelsea had to settle for a second 1-1 of the season against Manchester United despite dominating proceedings at Old Trafford.",
       "matchId": 2210634
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220428women-s-report--chelsea-2-totten",
-      "type": "NewsCard",
-      "timestamp": "2022-04-28T20:39:00.000Z",
-      "orderDate": "2022-04-28T20:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/28/women-s-report--chelsea-2-tottenham-hotspur-1",
-        "type": "NewsCard",
-        "title": "Women’s report: Chelsea 2 Tottenham Hotspur 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/women-s-report--chelsea-2-tottenham-hotspur-1.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-28T20:39:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/28/women-s-report--chelsea-2-tottenham-hotspur-1",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Beth England celebrates her opener",
-          "id": "editorial/match-reports/2021-22/women-tottenham-home/Women_Spurs_h_England_celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Chelsea 2 Tottenham Hotspur 1",
-      "publishDate": "2022-04-28T20:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/28/women-s-report--chelsea-2-tottenham-hotspur-1.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-04-28T20:39:00.000Z",
-      "description": "First-half headers from Bethany England and Sam Kerr gave us a second victory over Tottenham Hotspur this week that keeps us ahead in the race for the Women’s Super League title.",
-      "matchId": 2236380
     }
   ]
 }
