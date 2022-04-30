@@ -61,6 +61,53 @@
       "matchId": 2210612
     },
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220430quiz--name-every-team-azpilicuet",
+      "type": "NewsCard",
+      "timestamp": "2022-04-30T13:45:00.000Z",
+      "orderDate": "2022-04-30T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/30/quiz--name-every-team-azpilicueta-has-captained-chelsea-against",
+        "type": "NewsCard",
+        "title": "Quiz: Name every team Azpilicueta has captained Chelsea against",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/quiz--name-every-team-azpilicueta-has-captained-chelsea-against.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-30T13:45:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/30/quiz--name-every-team-azpilicueta-has-captained-chelsea-against",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2021/03/05/Azpilicueta-armband-stock-Liverpool-a",
+          "gravity": "auto",
+          "aspectRatio": 1.5953488,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Quiz: Name every team Azpilicueta has captained Chelsea against",
+      "publishDate": "2022-04-30T13:45:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/quiz--name-every-team-azpilicueta-has-captained-chelsea-against.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Cesar Azpilicueta",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_cesar-azpilicueta"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-04-30T13:45:00.000Z",
+      "description": "After Cesar Azpilicueta captained Chelsea for the 200th time in Thursday's draw at Manchester United, we have a quiz to test how many of those opponents you can recall..."
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220430blues-bulletin--everton-vs-chels",
       "type": "NewsCard",
@@ -225,6 +272,70 @@
       "date": "2022-04-30T03:00:00.000Z",
       "description": "Thomas Tuchel has confirmed that three members of his squad remain out of contention to face Everton tomorrow, in addition to doubts over two more, as well as discussing Saul Niguez’s Chelsea future.",
       "matchId": 2210612
+    },
+    {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220430under-18s-report---chelsea-cryst",
+      "type": "NewsCard",
+      "timestamp": "2022-04-30T13:30:00.000Z",
+      "orderDate": "2022-04-30T00:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/30/under-18s-report---chelsea-crystal-palace",
+        "type": "NewsCard",
+        "title": "Under-18s report Chelsea 2 Crystal Palace 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/under-18s-report---chelsea-crystal-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-30T13:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/30/under-18s-report---chelsea-crystal-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Zain Silcott-Duberry battling for the ball",
+          "id": "editorial/match-reports/2021-22/crystal-palace-home-under-18s/U18_PL_Crystal_Palace_Home_Zain_Silcott_Duberry_header",
+          "gravity": "auto",
+          "aspectRatio": 1.504,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Under-18s report Chelsea 2 Crystal Palace 2",
+      "publishDate": "2022-04-30T13:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/under-18s-report---chelsea-crystal-palace.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Academy News ",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy-news-"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        },
+        {
+          "title": "Under 18's",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_under-18-s"
+        },
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_academy"
+        },
+        {
+          "title": "U18 - Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_academy-competitions_u18-premier-league"
+        }
+      ],
+      "date": "2022-04-30T13:30:00.000Z",
+      "description": "Our London derby encounter against Crystal Palace ended in a 2-2 draw as Tudor Mendel-Idowu and Louis Flower got on the scoresheet in the final home league game of the season for Chelsea Under-18s."
     },
     {
       "contentType": "Analysis",
@@ -444,107 +555,6 @@
       ],
       "date": "2022-04-29T13:30:00.000Z",
       "description": "Our current skipper led the side for the 200th time in our last game so to celebrate his landmark, we select an all-time Chelsea side made up entirely of Blues captains…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220429fa-cup-final-ticket-news---loyal",
-      "type": "NewsCard",
-      "timestamp": "2022-04-29T17:00:00.000Z",
-      "orderDate": "2022-04-29T12:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/29/fa-cup-final-ticket-news---loyalty-points-for-members-update",
-        "type": "NewsCard",
-        "title": "FA Cup final ticket news - loyalty points for members update",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/fa-cup-final-ticket-news---loyalty-points-for-members-update.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-29T17:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/29/fa-cup-final-ticket-news---loyalty-points-for-members-update",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2021/05/14/Wembley_GettyImages-1312972543",
-          "gravity": "auto",
-          "aspectRatio": 1.7780331,
-          "cropMode": "fill"
-        }
-      },
-      "content": "FA Cup final ticket news - loyalty points for members update",
-      "publishDate": "2022-04-29T17:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/fa-cup-final-ticket-news---loyalty-points-for-members-update.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-04-29T17:00:00.000Z",
-      "description": "The number of loyalty points required for members to purchase FA Cup final tickets has been confirmed...",
-      "matchId": 2284552
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220429james--we-had-enough-chances-to-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-29T11:01:00.000Z",
-      "orderDate": "2022-04-29T11:01:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/29/james--we-had-enough-chances-to-put-the-game-to-bed-",
-        "type": "NewsCard",
-        "title": "James: We had enough chances to put the game to bed \t",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/james--we-had-enough-chances-to-put-the-game-to-bed-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-29T11:01:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/29/james--we-had-enough-chances-to-put-the-game-to-bed-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2021-22/man-utd-away/Alonso-James-goal-celebration-Man-United-a",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "James: We had enough chances to put the game to bed \t",
-      "publishDate": "2022-04-29T11:01:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/james--we-had-enough-chances-to-put-the-game-to-bed-.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Manchester United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_manchester-united"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-29T11:01:00.000Z",
-      "description": "Reece James was the outstanding performer at Old Trafford last night and post-match he assessed whether it is two points dropped or one gained, his own personal performance and also whether he is disappointed he didn’t find the back of the net himself.",
-      "matchId": 2210634
     }
   ]
 }
