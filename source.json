@@ -9,6 +9,59 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220430pre-match-briefing--everton-vs-c",
+      "type": "NewsCard",
+      "timestamp": "2022-04-30T12:00:00.000Z",
+      "orderDate": "2022-04-30T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/30/pre-match-briefing--everton-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Everton vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/pre-match-briefing--everton-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-30T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/30/pre-match-briefing--everton-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2019/3/goodison_park_outside_park_view",
+          "gravity": "auto",
+          "aspectRatio": 1.5692884,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Everton vs Chelsea",
+      "publishDate": "2022-04-30T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/pre-match-briefing--everton-vs-chelsea.html",
+      "readTimeInMins": 74,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2022-04-30T12:00:00.000Z",
+      "description": "The Premier League schedule ensures a quick return up the M6 for Chelsea this weekend for our second game in four days in the north-west. Club historian Rick Glanvill and club statistician Paul Dutton assess the assignment at Goodison Park...",
+      "matchId": 2210612
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220430blues-bulletin--everton-vs-chels",
       "type": "NewsCard",
       "timestamp": "2022-04-30T08:00:00.000Z",
@@ -492,49 +545,6 @@
       "date": "2022-04-29T11:01:00.000Z",
       "description": "Reece James was the outstanding performer at Old Trafford last night and post-match he assessed whether it is two points dropped or one gained, his own personal performance and also whether he is disappointed he didn’t find the back of the net himself.",
       "matchId": 2210634
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220429ji-so-yun-to-depart-chelsea-wome",
-      "type": "NewsCard",
-      "timestamp": "2022-04-29T11:00:00.000Z",
-      "orderDate": "2022-04-29T11:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/29/ji-so-yun-to-depart-chelsea-women-at-end-of-season",
-        "type": "NewsCard",
-        "title": "Ji So-Yun to depart Chelsea Women at end of the season",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/ji-so-yun-to-depart-chelsea-women-at-end-of-season.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-29T11:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/29/ji-so-yun-to-depart-chelsea-women-at-end-of-season",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Ji_Wolfsburg",
-          "gravity": "auto",
-          "aspectRatio": 1.5001701,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ji So-Yun to depart Chelsea Women at end of the season",
-      "publishDate": "2022-04-29T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/ji-so-yun-to-depart-chelsea-women-at-end-of-season.html",
-      "readTimeInMins": 11,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-04-29T11:00:00.000Z",
-      "description": "Following an incredible eight years with the club, Ji So-Yun will leave Chelsea at the end of the season to head back to South Korea."
     }
   ]
 }
