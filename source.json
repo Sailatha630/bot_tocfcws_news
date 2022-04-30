@@ -9,6 +9,59 @@
   "newsFeed": [
     {
       "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220430blues-bulletin--everton-vs-chels",
+      "type": "NewsCard",
+      "timestamp": "2022-04-30T08:00:00.000Z",
+      "orderDate": "2022-04-30T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/04/30/blues-bulletin--everton-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Everton vs Chelsea",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/blues-bulletin--everton-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-04-30T08:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/04/30/blues-bulletin--everton-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2020-21/everton-away/everton-a-6-reece-james",
+          "gravity": "auto",
+          "aspectRatio": 1.4936441,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Everton vs Chelsea",
+      "publishDate": "2022-04-30T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/blues-bulletin--everton-vs-chelsea.html",
+      "readTimeInMins": 26,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2022-04-30T08:00:00.000Z",
+      "description": "It's a quick return to the north-west this weekend as the Blues head to Goodison Park for a meeting with familiar faces and here we preview our penultimate Premier League away game of 2021/22 with all the relevant facts and stats...",
+      "matchId": 2210612
+    },
+    {
+      "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220430birmingham-city-women-v-chelsea-",
       "type": "NewsCard",
       "timestamp": "2022-04-30T03:00:00.000Z",
@@ -482,60 +535,6 @@
       ],
       "date": "2022-04-29T11:00:00.000Z",
       "description": "Following an incredible eight years with the club, Ji So-Yun will leave Chelsea at the end of the season to head back to South Korea."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220429alonso-on-his-pity-at-a-point-an",
-      "type": "NewsCard",
-      "timestamp": "2022-04-29T03:00:00.000Z",
-      "orderDate": "2022-04-29T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/29/alonso-on-his-pity-at-a-point-and-our-away-form-this-season",
-        "type": "NewsCard",
-        "title": "Alonso on his pity at a point and our away form this season",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/alonso-on-his-pity-at-a-point-and-our-away-form-this-season.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-29T03:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/29/alonso-on-his-pity-at-a-point-and-our-away-form-this-season",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Marcos Alonso",
-          "id": "editorial/match-reports/2021-22/man-utd-away/Alonso-goal-Man-United-a-1",
-          "gravity": "auto",
-          "aspectRatio": 1.5261376,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Alonso on his pity at a point and our away form this season",
-      "publishDate": "2022-04-29T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/29/alonso-on-his-pity-at-a-point-and-our-away-form-this-season.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2022-04-29T03:00:00.000Z",
-      "description": "Marcos Alonso struck his second Chelsea goal at Old Trafford but it was not enough to earn us three points, something the Spaniard lamented in his analysis of the game afterwards.",
-      "matchId": 2210634
     }
   ]
 }
