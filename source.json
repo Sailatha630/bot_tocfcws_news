@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220501match-report--everton-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2022-05-01T15:09:00.000Z",
+      "orderDate": "2022-05-01T15:09:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/01/match-report--everton-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match report: Everton 1 Chelsea 0",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/match-report--everton-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-01T15:09:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/01/match-report--everton-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/everton-away/Alonso_Everton_A_DTW_3498-708838",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Everton 1 Chelsea 0",
+      "publishDate": "2022-05-01T15:09:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/match-report--everton-vs-chelsea.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2022-05-01T15:09:00.000Z",
+      "description": "Chelsea’s unhappy sequence of results at Goodison Park continues as a goal early in the second half ended our run of 14 games unbeaten away from Stamford Bridge.",
+      "matchId": 2210612
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220501chelsea-line-up-vs-everton",
       "type": "NewsCard",
@@ -494,55 +548,6 @@
       "date": "2022-04-30T08:00:00.000Z",
       "description": "It's a quick return to the north-west this weekend as the Blues head to Goodison Park for a meeting with familiar faces and here we preview our penultimate Premier League away game of 2021/22 with all the relevant facts and stats...",
       "matchId": 2210612
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220430birmingham-city-women-v-chelsea-",
-      "type": "NewsCard",
-      "timestamp": "2022-04-30T03:00:00.000Z",
-      "orderDate": "2022-04-30T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/30/birmingham-city-women-v-chelsea-women--kick-off-time--how-to-wat",
-        "type": "NewsCard",
-        "title": "Birmingham City Women v Chelsea Women: Kick-off time, how to watch live and more! ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/birmingham-city-women-v-chelsea-women--kick-off-time--how-to-wat.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-30T03:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/04/30/birmingham-city-women-v-chelsea-women--kick-off-time--how-to-wat",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Fleming_celebration_Aston_Villa",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Birmingham City Women v Chelsea Women: Kick-off time, how to watch live and more! ",
-      "publishDate": "2022-04-30T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/birmingham-city-women-v-chelsea-women--kick-off-time--how-to-wat.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-04-30T03:00:00.000Z",
-      "description": "Chelsea FC Women travel to Birmingham City for the penultimate game of the Barclays FA Women’s Super League season and everything you need to know ahead of the clash can be found here in our preview…",
-      "matchId": 2236438
     }
   ]
 }
