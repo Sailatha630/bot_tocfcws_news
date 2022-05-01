@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220501chelsea-line-up-vs-everton",
+      "type": "NewsCard",
+      "timestamp": "2022-05-01T12:00:00.000Z",
+      "orderDate": "2022-05-01T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/01/chelsea-line-up-vs-everton",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/chelsea-line-up-vs-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-01T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/01/chelsea-line-up-vs-everton",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/everton-away/everton_away_dressing_room",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Everton",
+      "publishDate": "2022-05-01T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/chelsea-line-up-vs-everton.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2022-05-01T12:00:00.000Z",
+      "description": "Thomas Tuchel has made one change from the side that drew at Manchester United on Thursday.",
+      "matchId": 2210612
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220501tuchel-reveals-frank-lampard-s-c",
       "type": "NewsCard",
@@ -489,70 +543,6 @@
       "date": "2022-04-30T03:00:00.000Z",
       "description": "Chelsea FC Women travel to Birmingham City for the penultimate game of the Barclays FA Women’s Super League season and everything you need to know ahead of the clash can be found here in our preview…",
       "matchId": 2236438
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220430tuchel-updates-on-injured-trio-a",
-      "type": "NewsCard",
-      "timestamp": "2022-04-30T03:00:00.000Z",
-      "orderDate": "2022-04-30T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/30/tuchel-updates-on-injured-trio-and-saul-s-future",
-        "type": "NewsCard",
-        "title": "Tuchel updates on injured trio and Saul’s future",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/tuchel-updates-on-injured-trio-and-saul-s-future.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-30T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/30/tuchel-updates-on-injured-trio-and-saul-s-future",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2022/04/29/Tuchel_CFC_Manchester__31989",
-          "gravity": "face",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel updates on injured trio and Saul’s future",
-      "publishDate": "2022-04-30T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/tuchel-updates-on-injured-trio-and-saul-s-future.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Saul Niguez",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_saul-niguez"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2022-04-30T03:00:00.000Z",
-      "description": "Thomas Tuchel has confirmed that three members of his squad remain out of contention to face Everton tomorrow, in addition to doubts over two more, as well as discussing Saul Niguez’s Chelsea future.",
-      "matchId": 2210612
     }
   ]
 }
