@@ -8,6 +8,51 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220501women-s-report--birmingham-city-",
+      "type": "NewsCard",
+      "timestamp": "2022-05-01T19:44:00.000Z",
+      "orderDate": "2022-05-01T19:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/01/women-s-report--birmingham-city-0-chelsea-1",
+        "type": "NewsCard",
+        "title": "Women’s report: Birmingham City 0 Chelsea 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/women-s-report--birmingham-city-0-chelsea-1.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-01T19:44:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/01/women-s-report--birmingham-city-0-chelsea-1",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Harder celebrates the winner",
+          "id": "editorial/match-reports/2021-22/women-birmingham-away/Women_Birmingham_celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.5004089,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Birmingham City 0 Chelsea 1",
+      "publishDate": "2022-05-01T19:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/women-s-report--birmingham-city-0-chelsea-1.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-05-01T19:44:00.000Z",
+      "description": "The Blues remain in control of the Women’s Super League title race with one game to go after Pernille Harder’s late penalty settled a tense game at St Andrew’s.",
+      "matchId": 2236438
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220501tuchel-reaction-to-defeat-at-eve",
       "type": "NewsCard",
@@ -530,59 +575,6 @@
       ],
       "date": "2022-05-01T10:00:00.000Z",
       "description": "Our development squad are in Lancashire this afternoon for a potentially decisive game in their fight for Premier League 2 survival..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220430tuchel--azpi-is-the-example-to-f",
-      "type": "NewsCard",
-      "timestamp": "2022-04-30T16:30:00.000Z",
-      "orderDate": "2022-04-30T16:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/30/tuchel--azpi-is-the-example-to-follow",
-        "type": "NewsCard",
-        "title": "Tuchel: Azpi is the example to follow",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/tuchel--azpi-is-the-example-to-follow.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-30T16:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/30/tuchel--azpi-is-the-example-to-follow",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2021-22/lille-ucl-away/tuchel-azpilicueta-lille-away",
-          "gravity": "auto",
-          "aspectRatio": 1.5792164,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel: Azpi is the example to follow",
-      "publishDate": "2022-04-30T16:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/tuchel--azpi-is-the-example-to-follow.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-04-30T16:30:00.000Z",
-      "description": "Thomas Tuchel has praised Cesar Azpilicueta for the way he leads Chelsea, labelling the Spaniard as ‘simply exceptional’.",
-      "matchId": 2210612
     }
   ]
 }
