@@ -117,6 +117,76 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20220501watch-the-highlights-from-everto",
+      "type": "NewsCard",
+      "timestamp": "2022-05-01T17:36:00.000Z",
+      "orderDate": "2022-05-01T14:36:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/01/watch-the-highlights-from-everton",
+        "type": "NewsCard",
+        "title": "Watch the highlights from Everton",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/watch-the-highlights-from-everton.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-01T17:36:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/01/watch-the-highlights-from-everton",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Everton 1-0 Chelsea (A) | Premier League Highlights",
+          "videoId": "M6flhphb",
+          "bucket": "prod-cfc",
+          "description": "Highlights from Chelsea's 1-0 defeat against Everton at Goodison Park in the Premier League.",
+          "duration": 114000,
+          "date": "2022-05-01T16:35:08.088Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/M6flhphb/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/watch-the-highlights-from-everton.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/05/01/watch-the-highlights-from-everton?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/05/01/watch-the-highlights-from-everton",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from Chelsea's 1-0 defeat against Everton at Goodison Park in the Premier League."
+      },
+      "content": "Watch the highlights from Everton",
+      "publishDate": "2022-05-01T17:36:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/watch-the-highlights-from-everton.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2022-05-01T17:36:00.000Z",
+      "description": "Chelsea suffered a disappointing defeat at Everton in the Premier League on Sunday afternoon, but you can see how close we came to an equaliser by watching the highlights from Goodison Park.",
+      "matchId": 2210612
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20220501chelsea-line-up-vs-everton",
       "type": "NewsCard",
       "timestamp": "2022-05-01T12:00:00.000Z",
@@ -512,59 +582,6 @@
       ],
       "date": "2022-04-30T16:30:00.000Z",
       "description": "Thomas Tuchel has praised Cesar Azpilicueta for the way he leads Chelsea, labelling the Spaniard as ‘simply exceptional’.",
-      "matchId": 2210612
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220430pre-match-briefing--everton-vs-c",
-      "type": "NewsCard",
-      "timestamp": "2022-04-30T12:00:00.000Z",
-      "orderDate": "2022-04-30T12:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/04/30/pre-match-briefing--everton-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Everton vs Chelsea",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/pre-match-briefing--everton-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-04-30T12:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/04/30/pre-match-briefing--everton-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2019/3/goodison_park_outside_park_view",
-          "gravity": "auto",
-          "aspectRatio": 1.5692884,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Everton vs Chelsea",
-      "publishDate": "2022-04-30T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/04/30/pre-match-briefing--everton-vs-chelsea.html",
-      "readTimeInMins": 74,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2022-04-30T12:00:00.000Z",
-      "description": "The Premier League schedule ensures a quick return up the M6 for Chelsea this weekend for our second game in four days in the north-west. Club historian Rick Glanvill and club statistician Paul Dutton assess the assignment at Goodison Park...",
       "matchId": 2210612
     }
   ]
