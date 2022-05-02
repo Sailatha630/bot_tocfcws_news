@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220501loftus-cheek--individual-errors-",
+      "type": "NewsCard",
+      "timestamp": "2022-05-02T03:00:00.000Z",
+      "orderDate": "2022-05-02T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/01/loftus-cheek--individual-errors-are-proving-costly-",
+        "type": "NewsCard",
+        "title": "Loftus-Cheek: Individual errors are proving costly ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/loftus-cheek--individual-errors-are-proving-costly-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-02T03:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/01/loftus-cheek--individual-errors-are-proving-costly-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/Loftus-cheek-everton-DTW_3776-709083",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Loftus-Cheek: Individual errors are proving costly ",
+      "publishDate": "2022-05-02T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/loftus-cheek--individual-errors-are-proving-costly-.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Ruben Loftus-Cheek",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ruben-loftus-cheek"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Everton",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_everton"
+        }
+      ],
+      "date": "2022-05-02T03:00:00.000Z",
+      "description": "Ruben Loftus-Cheek believes our concentration levels were not at the required standard to avoid defeat against Everton at a hostile Goodison Park yesterday.",
+      "matchId": 2210612
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220501women-s-report--birmingham-city-",
       "type": "NewsCard",
@@ -512,69 +566,6 @@
       "date": "2022-05-01T03:00:00.000Z",
       "description": "Ahead of this afternoon’s trip to Merseyside, Andreas Christensen has been reflecting on our season to date, the creeping prevalence of unusual mistakes and the prospect of facing an Everton side desperate for points to aid their survival prospects…",
       "matchId": 2210612
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220501pl2-preview--our-development-squ",
-      "type": "NewsCard",
-      "timestamp": "2022-05-01T10:00:00.000Z",
-      "orderDate": "2022-05-01T00:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/01/pl2-preview--our-development-squad-face-blackburn-rovers-with-a-",
-        "type": "NewsCard",
-        "title": "PL2 preview: Safety at stake in Blackburn",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/pl2-preview--our-development-squad-face-blackburn-rovers-with-a-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-01T10:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/01/pl2-preview--our-development-squad-face-blackburn-rovers-with-a-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/pl2-blackburn-home/Pl2_blackburn_home_vale",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "PL2 preview: Safety at stake in Blackburn",
-      "publishDate": "2022-05-01T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/pl2-preview--our-development-squad-face-blackburn-rovers-with-a-.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Development - PL2",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_academy-pl2"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2022-05-01T10:00:00.000Z",
-      "description": "Our development squad are in Lancashire this afternoon for a potentially decisive game in their fight for Premier League 2 survival..."
     }
   ]
 }
