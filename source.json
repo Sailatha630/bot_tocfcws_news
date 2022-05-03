@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220503chelsea-s-race-for-the-premier-l",
+      "type": "NewsCard",
+      "timestamp": "2022-05-03T12:00:00.000Z",
+      "orderDate": "2022-05-03T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/03/chelsea-s-race-for-the-premier-league-top-four---four-games-to-g",
+        "type": "NewsCard",
+        "title": "Chelsea’s race for the Premier League top four – four games to go",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/03/chelsea-s-race-for-the-premier-league-top-four---four-games-to-g.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-03T12:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/03/chelsea-s-race-for-the-premier-league-top-four---four-games-to-g",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Havertz vs Tottenham",
+          "id": "editorial/news/2021/12/31/havertz-tottenham",
+          "gravity": "auto",
+          "aspectRatio": 1.3710107,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea’s race for the Premier League top four – four games to go",
+      "publishDate": "2022-05-03T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/03/chelsea-s-race-for-the-premier-league-top-four---four-games-to-g.html",
+      "readTimeInMins": 53,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-03T12:00:00.000Z",
+      "description": "The Premier League season has entered its final month with Chelsea in a strong position to finish in the top four, although there is still work to do. Here we analyse the permutations for Champions League qualification…"
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220503pat-nevin--hope-for-the-finishin",
       "type": "NewsCard",
@@ -524,51 +572,6 @@
       ],
       "date": "2022-05-02T08:02:00.000Z",
       "description": "Chelsea FC Women remain top of the Barclays FA Women’s Super League with just one game left to play, following a 1-0 win against Birmingham City at St. Andrew’s last night.",
-      "matchId": 2236438
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220501women-s-report--birmingham-city-",
-      "type": "NewsCard",
-      "timestamp": "2022-05-01T19:44:00.000Z",
-      "orderDate": "2022-05-01T19:44:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/01/women-s-report--birmingham-city-0-chelsea-1",
-        "type": "NewsCard",
-        "title": "Women’s report: Birmingham City 0 Chelsea 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/women-s-report--birmingham-city-0-chelsea-1.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-01T19:44:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/01/women-s-report--birmingham-city-0-chelsea-1",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Harder celebrates the winner",
-          "id": "editorial/match-reports/2021-22/women-birmingham-away/Women_Birmingham_celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5004089,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Birmingham City 0 Chelsea 1",
-      "publishDate": "2022-05-01T19:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/women-s-report--birmingham-city-0-chelsea-1.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-05-01T19:44:00.000Z",
-      "description": "The Blues remain in control of the Women’s Super League title race with one game to go after Pernille Harder’s late penalty settled a tense game at St Andrew’s.",
       "matchId": 2236438
     }
   ]
