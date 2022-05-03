@@ -8,6 +8,68 @@
   },
   "newsFeed": [
     {
+      "contentType": "Columnists",
+      "id": "_content_chelseafcennews20220503pat-nevin--hope-for-the-finishin",
+      "type": "NewsCard",
+      "timestamp": "2022-05-03T03:00:00.000Z",
+      "orderDate": "2022-05-03T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/03/pat-nevin--hope-for-the-finishing-straight",
+        "type": "NewsCard",
+        "title": "Pat Nevin: Hope for the finishing straight",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/03/pat-nevin--hope-for-the-finishing-straight.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-03T03:00:00.000Z"
+      },
+      "template": "opinion-article",
+      "path": "/content/chelseafc/en/news/2022/05/03/pat-nevin--hope-for-the-finishing-straight",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/news/2022/05/02/stamford_bridge_stadium_pitch_view_sun",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pat Nevin: Hope for the finishing straight",
+      "publishDate": "2022-05-03T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/03/pat-nevin--hope-for-the-finishing-straight.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Column",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_column"
+        },
+        {
+          "title": "Pat Nevin",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_pat-nevin"
+        }
+      ],
+      "author": {
+        "type": "profile",
+        "firstName": "Pat",
+        "lastName": "Nevin",
+        "description": "Pat Nevin has been a regular contributor on the official Chelsea website since 2006, bringing his expertise and analysis to the club he lit up as a quick-footed, imaginative and highly entertaining winger in the 1980s, playing over 250 games. He has written about football for many years and is a leading expert on TV and radio, including regular appearances on Chelsea TV and in the club’s matchday programme.",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Pat Nevin",
+          "id": "editorial/blogs-and-columns/nevin_h_26S",
+          "gravity": "face",
+          "aspectRatio": 0.93399847,
+          "cropMode": "fill"
+        }
+      },
+      "date": "2022-05-03T03:00:00.000Z",
+      "description": "This week, Chelsea legend Pat Nevin writes about the complicated end to the season, with the quest to secure silverware and high league finish taking place while the future of the club is being secured too…"
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220502tuchel-on-the-need-for-more-cons",
       "type": "NewsCard",
@@ -507,60 +569,6 @@
       ],
       "date": "2022-05-01T15:25:00.000Z",
       "description": "Our head coach laments the cost of individual mistakes after a Premier League set-back on Merseyside…",
-      "matchId": 2210612
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220501match-report--everton-vs-chelsea",
-      "type": "NewsCard",
-      "timestamp": "2022-05-01T15:09:00.000Z",
-      "orderDate": "2022-05-01T15:09:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/01/match-report--everton-vs-chelsea",
-        "type": "NewsCard",
-        "title": "Match report: Everton 1 Chelsea 0",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/match-report--everton-vs-chelsea.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-01T15:09:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/01/match-report--everton-vs-chelsea",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/match-reports/2021-22/everton-away/Alonso_Everton_A_DTW_3498-708838",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match report: Everton 1 Chelsea 0",
-      "publishDate": "2022-05-01T15:09:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/01/match-report--everton-vs-chelsea.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Everton",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_everton"
-        }
-      ],
-      "date": "2022-05-01T15:09:00.000Z",
-      "description": "Chelsea’s unhappy sequence of results at Goodison Park continues as a goal early in the second half ended our run of 14 games unbeaten away from Stamford Bridge.",
       "matchId": 2210612
     }
   ]
