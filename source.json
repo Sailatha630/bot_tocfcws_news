@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220506pre-match-briefing--chelsea-vs-w",
+      "type": "NewsCard",
+      "timestamp": "2022-05-06T03:00:00.000Z",
+      "orderDate": "2022-05-06T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/06/pre-match-briefing--chelsea-vs-wolves",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: Chelsea vs Wolves",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/06/pre-match-briefing--chelsea-vs-wolves.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-06T03:00:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/05/06/pre-match-briefing--chelsea-vs-wolves",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Weather Vane at Stamford Bridge",
+          "id": "editorial/news/2022/05/05/stamford_bridge_hilsdon_weather_vane",
+          "gravity": "auto",
+          "aspectRatio": 1.4997618,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: Chelsea vs Wolves",
+      "publishDate": "2022-05-06T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/06/pre-match-briefing--chelsea-vs-wolves.html",
+      "readTimeInMins": 66,
+      "tags": [
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-06T03:00:00.000Z",
+      "description": "Ahead of our final Saturday league game of the season, club historian Rick Glanvill and club statistician Paul Dutton put the spotlight on a fixture they hope will yield three important points…",
+      "matchId": 2210625
+    },
+    {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20220505statement-on-behalf-of-mr-abramo",
       "type": "NewsCard",
@@ -520,76 +574,6 @@
       ],
       "date": "2022-05-03T23:56:00.000Z",
       "description": "Kepa Arrizabalaga is the latest player to tell us about how he spends his time away from football, sharing his love of nature and racing on two or four wheels, including the time he ended up on the podium at Silverstone..."
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220504under-18s-premier-league-cup-fin",
-      "type": "NewsCard",
-      "timestamp": "2022-05-04T00:15:00.000Z",
-      "orderDate": "2022-05-03T23:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/04/under-18s-premier-league-cup-final-preview----we-will-come-into-",
-        "type": "NewsCard",
-        "title": "U18 Premier League Cup final preview:  'We will come into this game highly motivated'",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/04/under-18s-premier-league-cup-final-preview----we-will-come-into-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-04T00:15:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/04/under-18s-premier-league-cup-final-preview----we-will-come-into-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Ed Brand in shot",
-          "id": "editorial/news/2022/01/30/Brand-CFCU18-vs-Liverpool",
-          "gravity": "auto",
-          "aspectRatio": 1.4297385,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "U18 Premier League Cup final preview:  'We will come into this game highly motivated'",
-      "publishDate": "2022-05-04T00:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/04/under-18s-premier-league-cup-final-preview----we-will-come-into-.html",
-      "readTimeInMins": 13,
-      "tags": [
-        {
-          "title": "U18 Premier League Cup ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_u18-premier-league-cup-"
-        },
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        },
-        {
-          "title": "U18 - Premier League Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_u18-premier-league-cup"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        }
-      ],
-      "date": "2022-05-04T00:15:00.000Z",
-      "description": "With kick-off fast approaching for the U18 Premier League Cup final against Fulham this evening, Ed Brand shared some of his thoughts on the occasion and his team’s season.",
-      "matchId": 2285209
     }
   ]
 }
