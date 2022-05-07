@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220507tuchel-reaction-to-drawing-with-",
+      "type": "NewsCard",
+      "timestamp": "2022-05-07T16:51:00.000Z",
+      "orderDate": "2022-05-07T16:51:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/07/tuchel-reaction-to-drawing-with-wolves",
+        "type": "NewsCard",
+        "title": "Tuchel reflects on frustrating draw with Wolves, explains Alonso substitution and comments on ownership news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/07/tuchel-reaction-to-drawing-with-wolves.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-07T16:51:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/07/tuchel-reaction-to-drawing-with-wolves",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel in the dug-out",
+          "id": "editorial/news/2022/04/03/tuchel_dugout_brentford_home",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel reflects on frustrating draw with Wolves, explains Alonso substitution and comments on ownership news",
+      "publishDate": "2022-05-07T16:51:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/07/tuchel-reaction-to-drawing-with-wolves.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-07T16:51:00.000Z",
+      "description": "Thomas Tuchel felt Chelsea took ‘too many risks’ which allowed Wolves to come from two goals down to draw 2-2 at Stamford Bridge.",
+      "matchId": 2210625
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220507match-report--chelsea-vs-wolves",
       "type": "NewsCard",
@@ -506,60 +560,6 @@
       ],
       "date": "2022-05-07T03:30:00.000Z",
       "description": "Mason Mount needs one more assist in our remaining Premier League fixtures to join an elite group of Blues who have registered double figures for goals and assists in the same season…"
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220506emma-hayes--if-we-win--we-re-cha",
-      "type": "NewsCard",
-      "timestamp": "2022-05-06T16:30:00.000Z",
-      "orderDate": "2022-05-06T22:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/06/emma-hayes--if-we-win--we-re-champions",
-        "type": "NewsCard",
-        "title": "Emma Hayes: If we win, we’re champions",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/06/emma-hayes--if-we-win--we-re-champions.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-06T16:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/06/emma-hayes--if-we-win--we-re-champions",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Hayes-pre-Man-Utd-presser",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Emma Hayes: If we win, we’re champions",
-      "publishDate": "2022-05-06T16:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/06/emma-hayes--if-we-win--we-re-champions.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        },
-        {
-          "title": "Emma Hayes",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_emma-hayes"
-        }
-      ],
-      "date": "2022-05-06T16:30:00.000Z",
-      "description": "Emma Hayes spoke to the media at Cobham this afternoon as Chelsea FC Women aim to secure the Barclays FA Women’s Super League title.",
-      "matchId": 2236445
     }
   ]
 }
