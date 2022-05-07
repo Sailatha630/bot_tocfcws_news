@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220507match-report--chelsea-vs-wolves",
+      "type": "NewsCard",
+      "timestamp": "2022-05-07T16:00:00.000Z",
+      "orderDate": "2022-05-07T16:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/07/match-report--chelsea-vs-wolves",
+        "type": "NewsCard",
+        "title": "Match report: Chelsea 2 Wolves 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/07/match-report--chelsea-vs-wolves.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-07T16:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/07/match-report--chelsea-vs-wolves",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "editorial/match-reports/2021-22/wolves-home/wolves-h-thiago-silva",
+          "gravity": "faces",
+          "aspectRatio": 1.145282,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match report: Chelsea 2 Wolves 2",
+      "publishDate": "2022-05-07T16:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/07/match-report--chelsea-vs-wolves.html",
+      "readTimeInMins": 19,
+      "tags": [
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-07T16:00:00.000Z",
+      "description": "Two goals early in the second half from the returning Romelu Lukaku looked to have tightened Chelsea’s grip on a Champions League qualification slot but to immense frustration at Stamford Bridge, our opponents struck back late in the game with the leveller coming in the final minute of added time.",
+      "matchId": 2210625
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220507chelsea-line-up-vs-wolves",
       "type": "NewsCard",
@@ -506,70 +560,6 @@
       "date": "2022-05-06T16:30:00.000Z",
       "description": "Emma Hayes spoke to the media at Cobham this afternoon as Chelsea FC Women aim to secure the Barclays FA Women’s Super League title.",
       "matchId": 2236445
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220506tuchel-rules-midfield-duo-out-of",
-      "type": "NewsCard",
-      "timestamp": "2022-05-06T12:59:00.000Z",
-      "orderDate": "2022-05-06T14:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/06/tuchel-rules-midfield-duo-out-of-wolves-clash",
-        "type": "NewsCard",
-        "title": "Tuchel rules midfield duo out of Wolves clash",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/06/tuchel-rules-midfield-duo-out-of-wolves-clash.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-06T12:59:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/06/tuchel-rules-midfield-duo-out-of-wolves-clash",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/man-utd-away/Tuchel-Man-United-a-2",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel rules midfield duo out of Wolves clash",
-      "publishDate": "2022-05-06T12:59:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/06/tuchel-rules-midfield-duo-out-of-wolves-clash.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "N'Golo Kante",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ngolokante"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Callum Hudson-Odoi",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_calum-hudson-odoi"
-        },
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Wolverhampton Wanderers",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
-        }
-      ],
-      "date": "2022-05-06T12:59:00.000Z",
-      "description": "Thomas Tuchel has reported that central midfield duo N’Golo Kante and Jorginho are unavailable for this weekend’s Premier League match with Wolverhampton Wanderers, while confirming Callum Hudson-Odoi remains on the sidelines.",
-      "matchId": 2210625
     }
   ]
 }
