@@ -9,6 +9,65 @@
   "newsFeed": [
     {
       "contentType": "Interview",
+      "id": "_content_chelseafcennews20220507tuchel--we-needed-week-of-raised",
+      "type": "NewsCard",
+      "timestamp": "2022-05-07T10:00:00.000Z",
+      "orderDate": "2022-05-07T10:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/07/tuchel--we-needed-week-of-raised-level-training",
+        "type": "NewsCard",
+        "title": "Tuchel: We needed week of raised-level training",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/07/tuchel--we-needed-week-of-raised-level-training.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-07T10:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/07/tuchel--we-needed-week-of-raised-level-training",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Training ",
+          "id": "editorial/news/2022/05/06/training_pre_wolves_home",
+          "gravity": "auto",
+          "aspectRatio": 1.4998456,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel: We needed week of raised-level training",
+      "publishDate": "2022-05-07T10:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/07/tuchel--we-needed-week-of-raised-level-training.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Wolverhampton Wanderers",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
+        }
+      ],
+      "date": "2022-05-07T10:00:00.000Z",
+      "description": "Our head coach on reacting to the Everton loss and playing to win in Cobham sessions…",
+      "matchId": 2210625
+    },
+    {
+      "contentType": "Interview",
       "id": "_content_chelseafcennews20220507tuchel-assesses-lukaku-s-place-i",
       "type": "NewsCard",
       "timestamp": "2022-05-07T03:00:00.000Z",
@@ -506,60 +565,6 @@
       "date": "2022-05-06T11:55:00.000Z",
       "description": "Chelsea FC Women could secure a third consecutive Barclays FA Women’s Super League title on Sunday and everything you need to know ahead of the Blues’ clash with Manchester United can be found here…",
       "matchId": 2236445
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220506pre-match-briefing--chelsea-vs-w",
-      "type": "NewsCard",
-      "timestamp": "2022-05-06T03:00:00.000Z",
-      "orderDate": "2022-05-06T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/06/pre-match-briefing--chelsea-vs-wolves",
-        "type": "NewsCard",
-        "title": "Pre-Match Briefing: Chelsea vs Wolves",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/06/pre-match-briefing--chelsea-vs-wolves.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-06T03:00:00.000Z"
-      },
-      "template": "match-preview",
-      "path": "/content/chelseafc/en/news/2022/05/06/pre-match-briefing--chelsea-vs-wolves",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Weather Vane at Stamford Bridge",
-          "id": "editorial/news/2022/05/05/stamford_bridge_hilsdon_weather_vane",
-          "gravity": "auto",
-          "aspectRatio": 1.4997618,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Pre-Match Briefing: Chelsea vs Wolves",
-      "publishDate": "2022-05-06T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/06/pre-match-briefing--chelsea-vs-wolves.html",
-      "readTimeInMins": 66,
-      "tags": [
-        {
-          "title": "Wolverhampton Wanderers",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_wolverhampton-wanderers"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-05-06T03:00:00.000Z",
-      "description": "Ahead of our final Saturday league game of the season, club historian Rick Glanvill and club statistician Paul Dutton put the spotlight on a fixture they hope will yield three important points…",
-      "matchId": 2210625
     }
   ]
 }
