@@ -8,6 +8,51 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220508women-s-report--chelsea-4-manche",
+      "type": "NewsCard",
+      "timestamp": "2022-05-08T13:04:00.000Z",
+      "orderDate": "2022-05-08T13:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/08/women-s-report--chelsea-4-manchester-united-2",
+        "type": "NewsCard",
+        "title": "Women’s report: Chelsea 4 Manchester United 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/08/women-s-report--chelsea-4-manchester-united-2.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-08T13:04:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/08/women-s-report--chelsea-4-manchester-united-2",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kerr's second celebrations",
+          "id": "editorial/match-reports/2021-22/women-man-united-home/Women-United-Kerr-second",
+          "gravity": "auto",
+          "aspectRatio": 1.6179094,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s report: Chelsea 4 Manchester United 2",
+      "publishDate": "2022-05-08T13:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/08/women-s-report--chelsea-4-manchester-united-2.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-05-08T13:04:00.000Z",
+      "description": "The Blues have won the Women’s Super League title for the third straight season, as two spectacular Sam Kerr strikes sealed a thrilling second-half comeback against Manchester United at Kingsmeadow.",
+      "matchId": 2236445
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220508millie-bright--we-won-t-expect-a",
       "type": "NewsCard",
@@ -517,70 +562,6 @@
       "date": "2022-05-07T10:00:00.000Z",
       "description": "Our head coach on reacting to the Everton loss and playing to win in Cobham sessions…",
       "matchId": 2210625
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220507under-18s-report---chelsea-south",
-      "type": "NewsCard",
-      "timestamp": "2022-05-07T12:30:00.000Z",
-      "orderDate": "2022-05-07T09:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/07/under-18s-report---chelsea-southampton",
-        "type": "NewsCard",
-        "title": "Under-18s report: Southampton 5 Chelsea 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/07/under-18s-report---chelsea-southampton.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-07T12:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/07/under-18s-report---chelsea-southampton",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Final day of the season against Southampton",
-          "id": "editorial/match-reports/2021-22/southampton-away-u18s/U18s_Southampton_Away_Zain_silcott_duberry",
-          "gravity": "auto",
-          "aspectRatio": 1.4997001,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Under-18s report: Southampton 5 Chelsea 2",
-      "publishDate": "2022-05-07T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/07/under-18s-report---chelsea-southampton.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Academy News ",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy-news-"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        },
-        {
-          "title": "Under 18's",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_under-18-s"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_academy"
-        },
-        {
-          "title": "U18 - Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_academy-competitions_u18-premier-league"
-        }
-      ],
-      "date": "2022-05-07T12:30:00.000Z",
-      "description": "Our under-18s suffered a heavy loss in their final game of the season as the newly crowned U18 Premier League champions Southampton were deserved winners despite the scoreline reflecting harshly on Ed Brand's boys."
     }
   ]
 }
