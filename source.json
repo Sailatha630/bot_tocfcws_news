@@ -8,6 +8,66 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220509watch-highlights-of-chelsea-wome",
+      "type": "NewsCard",
+      "timestamp": "2022-05-09T10:59:00.000Z",
+      "orderDate": "2022-05-09T19:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/09/watch-highlights-of-chelsea-women-winning-the-league-",
+        "type": "NewsCard",
+        "title": "Watch highlights of Chelsea Women winning the league!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/09/watch-highlights-of-chelsea-women-winning-the-league-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-09T10:59:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/09/watch-highlights-of-chelsea-women-winning-the-league-",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea 4-2 Manchester United (H)  | WSL Highlights",
+          "videoId": "Bo0lv8Ic",
+          "bucket": "prod-cfc",
+          "description": "Highlights from our final WSL match against Manchester United, where we sealed the title!",
+          "duration": 171000,
+          "date": "2022-05-09T10:12:21.000Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/Bo0lv8Ic/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/09/watch-highlights-of-chelsea-women-winning-the-league-.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/05/09/watch-highlights-of-chelsea-women-winning-the-league-?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/05/09/watch-highlights-of-chelsea-women-winning-the-league-",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from our final WSL match against Manchester United, where we sealed the title!"
+      },
+      "content": "Watch highlights of Chelsea Women winning the league!",
+      "publishDate": "2022-05-09T10:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/09/watch-highlights-of-chelsea-women-winning-the-league-.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-05-09T10:59:00.000Z",
+      "description": "It went down to the wire but Emma Hayes's side won a record third successive title on Sunday and you can enjoy the best of the action here.",
+      "matchId": 2236445
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220509tuchel-hopes-for-lukaku-boost-af",
       "type": "NewsCard",
@@ -529,60 +589,6 @@
       "date": "2022-05-08T02:47:00.000Z",
       "description": "Chelsea FC Women’s Millie Bright says it’s ‘all to play for’ as the Blues host Manchester United at Kingsmeadow this afternoon, in search of a third consecutive Barclays FA Women’s Super League title.",
       "matchId": 2236445
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220508azpilicueta--so-frustrating-but-",
-      "type": "NewsCard",
-      "timestamp": "2022-05-08T03:00:00.000Z",
-      "orderDate": "2022-05-08T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/08/azpilicueta--so-frustrating-but-it-s-time-for-a-last-push",
-        "type": "NewsCard",
-        "title": "Azpilicueta: So frustrating but it’s time for a last push",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/08/azpilicueta--so-frustrating-but-it-s-time-for-a-last-push.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-08T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/08/azpilicueta--so-frustrating-but-it-s-time-for-a-last-push",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Cesar Azpilicueta",
-          "id": "editorial/match-reports/2021-22/wolves-home/azpilicueta-wolves-h",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Azpilicueta: So frustrating but it’s time for a last push",
-      "publishDate": "2022-05-08T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/08/azpilicueta--so-frustrating-but-it-s-time-for-a-last-push.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-05-08T03:00:00.000Z",
-      "description": "Cesar Azpilicueta conceded the Blues’ defensive problems are costing us crucial points at the moment, and the skipper knows a big final effort is required if we are to end this season on a high.",
-      "matchId": 2210625
     }
   ]
 }
