@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220510rudiger-thunderbolt-voted-chelse",
+      "type": "NewsCard",
+      "timestamp": "2022-05-10T08:00:00.000Z",
+      "orderDate": "2022-05-10T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/10/rudiger-thunderbolt-voted-chelsea-goal-of-the-month",
+        "type": "NewsCard",
+        "title": "Rudiger thunderbolt voted Chelsea Goal of the Month",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/10/rudiger-thunderbolt-voted-chelsea-goal-of-the-month.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-10T08:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/10/rudiger-thunderbolt-voted-chelsea-goal-of-the-month",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Rudiger",
+          "id": "editorial/match-reports/2021-22/brentford-home/Rudiger_goal_Brentford_H_DTW_1748-650824",
+          "gravity": "center",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Rudiger thunderbolt voted Chelsea Goal of the Month",
+      "publishDate": "2022-05-10T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/10/rudiger-thunderbolt-voted-chelsea-goal-of-the-month.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Goal of the Month",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-month"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        }
+      ],
+      "date": "2022-05-10T08:00:00.000Z",
+      "description": "Antonio Rudiger's stunning long-range strike against Brentford has been chosen by Chelsea supporters as the club's best goal in April."
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220510pat-nevin--what-won-t-surprise-m",
       "type": "NewsCard",
@@ -567,51 +620,6 @@
       ],
       "date": "2022-05-09T08:30:00.000Z",
       "description": "There are only three matches remaining in the Premier League season for most, with Chelsea still in a strong position to finish in the top four, although there is work to do. Here we analyse the permutations for Champions League qualification…"
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220508women-s-report--chelsea-4-manche",
-      "type": "NewsCard",
-      "timestamp": "2022-05-08T13:04:00.000Z",
-      "orderDate": "2022-05-08T14:04:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/08/women-s-report--chelsea-4-manchester-united-2",
-        "type": "NewsCard",
-        "title": "Women’s report: Chelsea 4 Manchester United 2",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/08/women-s-report--chelsea-4-manchester-united-2.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-08T13:04:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/08/women-s-report--chelsea-4-manchester-united-2",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Kerr's second celebrations",
-          "id": "editorial/match-reports/2021-22/women-man-united-home/Women-United-Kerr-second",
-          "gravity": "auto",
-          "aspectRatio": 1.6179094,
-          "cropMode": "fill",
-          "isFullScale": true
-        }
-      },
-      "content": "Women’s report: Chelsea 4 Manchester United 2",
-      "publishDate": "2022-05-08T13:04:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/08/women-s-report--chelsea-4-manchester-united-2.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-05-08T13:04:00.000Z",
-      "description": "The Blues have won the Women’s Super League title for the third straight season, as two spectacular Sam Kerr strikes sealed a thrilling second-half comeback against Manchester United at Kingsmeadow.",
-      "matchId": 2236445
     }
   ]
 }
