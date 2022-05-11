@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220511match-report--leeds-vs-chelsea",
+      "type": "NewsCard",
+      "timestamp": "2022-05-11T20:50:00.000Z",
+      "orderDate": "2022-05-11T20:50:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/11/match-report--leeds-vs-chelsea",
+        "type": "NewsCard",
+        "title": "Match Report: Leeds 0 Chelsea 3",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/11/match-report--leeds-vs-chelsea.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-11T20:50:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/11/match-report--leeds-vs-chelsea",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mount and Pulisic celebrate",
+          "id": "editorial/match-reports/2021-22/leeds-away/mount-pulisic-leeds-a",
+          "gravity": "auto",
+          "aspectRatio": 1.4860259,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Leeds 0 Chelsea 3",
+      "publishDate": "2022-05-11T20:50:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/11/match-report--leeds-vs-chelsea.html",
+      "readTimeInMins": 17,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-11T20:50:00.000Z",
+      "description": "Chelsea returned to winning ways with a rare victory at Elland Road, Mason Mount’s fine early goal setting the tone for a dominant performance against 10-man Leeds.",
+      "matchId": 2210593
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220511chelsea-line-up-vs-leeds",
       "type": "NewsCard",
@@ -497,54 +551,6 @@
       ],
       "date": "2022-05-10T08:00:00.000Z",
       "description": "Antonio Rudiger's stunning long-range strike against Brentford has been chosen by Chelsea supporters as the club's best goal in April."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220510hayes-nominated-for-manager-of-t",
-      "type": "NewsCard",
-      "timestamp": "2022-05-10T12:00:00.000Z",
-      "orderDate": "2022-05-10T06:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/10/hayes-nominated-for-manager-of-the-season-while-four-blues-up-fo",
-        "type": "NewsCard",
-        "title": "Hayes nominated for Manager of the Season while four Blues up for Player and Goal of Season",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/10/hayes-nominated-for-manager-of-the-season-while-four-blues-up-fo.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-10T12:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/10/hayes-nominated-for-manager-of-the-season-while-four-blues-up-fo",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Emma-Hayes-WSL-trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.5021577,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Hayes nominated for Manager of the Season while four Blues up for Player and Goal of Season",
-      "publishDate": "2022-05-10T12:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/10/hayes-nominated-for-manager-of-the-season-while-four-blues-up-fo.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Women's Super League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_ladies-competitions_wsl"
-        }
-      ],
-      "date": "2022-05-10T12:00:00.000Z",
-      "description": "Sam Kerr, Jess Carter and Guro Reiten have all been nominated for the Barclays FA Women’s Super League Player of the Season with Emma Hayes a contender for best manager, while Kerr and Pernille Harder are in the running for Goal of the Season."
     }
   ]
 }
