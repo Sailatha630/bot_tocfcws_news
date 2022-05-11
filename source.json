@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220511tuchel-talks-about-win-at-leeds",
+      "type": "NewsCard",
+      "timestamp": "2022-05-11T21:29:00.000Z",
+      "orderDate": "2022-05-11T21:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/11/tuchel-talks-about-win-at-leeds",
+        "type": "NewsCard",
+        "title": "Tuchel praise Blues raised levels and updates on Kovacic injury",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/11/tuchel-talks-about-win-at-leeds.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-11T21:29:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/11/tuchel-talks-about-win-at-leeds",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Thomas Tuchel at Leeds",
+          "id": "chelsea-app/Tuchel-Leeds-DAZ_0396",
+          "gravity": "face",
+          "aspectRatio": 1.5027819,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel praise Blues raised levels and updates on Kovacic injury",
+      "publishDate": "2022-05-11T21:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/11/tuchel-talks-about-win-at-leeds.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Leeds United",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leeds-united"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-11T21:29:00.000Z",
+      "description": "Following the disappointing results against Everton and Wolves, Thomas Tuchel and his squad had worked hard on improving several important aspects of their play with crucial games coming thick and fast, and our head coach was very pleased he saw that come to fruition in Wednesday night’s 3-0 win at Leeds.",
+      "matchId": 2210593
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220511match-report--leeds-vs-chelsea",
       "type": "NewsCard",
@@ -498,59 +552,6 @@
       "date": "2022-05-10T12:24:00.000Z",
       "description": "Thomas Tuchel hopes to have midfield reinforcements available for tomorrow’s trip to struggling Leeds United for what he admits will be a tough challenge, although he is well aware that Chelsea are on balance, achieving better results away from home than in our own stadium.",
       "matchId": 2210425
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220510rudiger-thunderbolt-voted-chelse",
-      "type": "NewsCard",
-      "timestamp": "2022-05-10T08:00:00.000Z",
-      "orderDate": "2022-05-10T08:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/10/rudiger-thunderbolt-voted-chelsea-goal-of-the-month",
-        "type": "NewsCard",
-        "title": "Rudiger thunderbolt voted Chelsea Goal of the Month",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/10/rudiger-thunderbolt-voted-chelsea-goal-of-the-month.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-10T08:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/10/rudiger-thunderbolt-voted-chelsea-goal-of-the-month",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Rudiger",
-          "id": "editorial/match-reports/2021-22/brentford-home/Rudiger_goal_Brentford_H_DTW_1748-650824",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Rudiger thunderbolt voted Chelsea Goal of the Month",
-      "publishDate": "2022-05-10T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/10/rudiger-thunderbolt-voted-chelsea-goal-of-the-month.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Goal of the Month",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_goal-of-the-month"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2022-05-10T08:00:00.000Z",
-      "description": "Antonio Rudiger's stunning long-range strike against Brentford has been chosen by Chelsea supporters as the club's best goal in April."
     }
   ]
 }
