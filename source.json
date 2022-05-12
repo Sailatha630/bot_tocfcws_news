@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220512blues-bulletin--chelsea-vs-liver",
+      "type": "NewsCard",
+      "timestamp": "2022-05-12T16:15:00.000Z",
+      "orderDate": "2022-05-12T16:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/12/blues-bulletin--chelsea-vs-liverpool",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Liverpool",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/12/blues-bulletin--chelsea-vs-liverpool.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-12T16:15:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/12/blues-bulletin--chelsea-vs-liverpool",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "James",
+          "id": "editorial/news/2022/05/12/Blues-Bulletin-Cup-final-lock-up",
+          "gravity": "north",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Liverpool",
+      "publishDate": "2022-05-12T16:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/12/blues-bulletin--chelsea-vs-liverpool.html",
+      "readTimeInMins": 31,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "FA Cup Final",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_fa-cup-final"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        }
+      ],
+      "date": "2022-05-12T16:15:00.000Z",
+      "description": "Chelsea are back at Wembley to face Liverpool in a cup final for the second time in the space of a few months, this time with the FA Cup up for grabs. Here are all the crucial pre-match stats ahead of the last chance to add to our 2021/22 trophy haul...",
+      "matchId": 2284552
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220512petr-cech-column--how-i-made-tha",
       "type": "NewsCard",
@@ -485,60 +544,6 @@
       ],
       "date": "2022-05-12T08:30:00.000Z",
       "description": "There are only two matches remaining in the Premier League season for many teams, with Chelsea still in a strong position to finish in the top four, although there is work to do. Here we analyse the permutations for Champions League qualification…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220511tuchel-talks-about-win-at-leeds",
-      "type": "NewsCard",
-      "timestamp": "2022-05-11T21:29:00.000Z",
-      "orderDate": "2022-05-11T21:29:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/11/tuchel-talks-about-win-at-leeds",
-        "type": "NewsCard",
-        "title": "Tuchel praise Blues raised levels and updates on Kovacic injury",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/11/tuchel-talks-about-win-at-leeds.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-11T21:29:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/11/tuchel-talks-about-win-at-leeds",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Thomas Tuchel at Leeds",
-          "id": "chelsea-app/Tuchel-Leeds-DAZ_0396",
-          "gravity": "face",
-          "aspectRatio": 1.5027819,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel praise Blues raised levels and updates on Kovacic injury",
-      "publishDate": "2022-05-11T21:29:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/11/tuchel-talks-about-win-at-leeds.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Leeds United",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leeds-united"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-05-11T21:29:00.000Z",
-      "description": "Following the disappointing results against Everton and Wolves, Thomas Tuchel and his squad had worked hard on improving several important aspects of their play with crucial games coming thick and fast, and our head coach was very pleased he saw that come to fruition in Wednesday night’s 3-0 win at Leeds.",
-      "matchId": 2210593
     }
   ]
 }
