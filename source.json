@@ -8,6 +8,75 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220513pre-match-briefing--fa-cup-final",
+      "type": "NewsCard",
+      "timestamp": "2022-05-13T10:27:00.000Z",
+      "orderDate": "2022-05-13T10:27:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/13/pre-match-briefing--fa-cup-finals",
+        "type": "NewsCard",
+        "title": "Pre-Match Briefing: FA Cup finals",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/13/pre-match-briefing--fa-cup-finals.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-13T10:27:00.000Z"
+      },
+      "template": "match-preview",
+      "path": "/content/chelseafc/en/news/2022/05/13/pre-match-briefing--fa-cup-finals",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Wembley",
+          "id": "editorial/news/2022/05/13/wembley_aerial_lock-up_2",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-Match Briefing: FA Cup finals",
+      "publishDate": "2022-05-13T10:27:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/13/pre-match-briefing--fa-cup-finals.html",
+      "readTimeInMins": 38,
+      "tags": [
+        {
+          "title": "Liverpool",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_liverpool"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "FA Women's Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_fa-womens-cup"
+        },
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Manchester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_manchester-city"
+        }
+      ],
+      "date": "2022-05-13T10:27:00.000Z",
+      "description": "With both our men’s and women's side having the possibility of climbing the steps to the royal box and lifting FA Cups, club historian Rick Glanvill and club statistician Paul Dutton preview the Wembley double-header…",
+      "matchId": 2284552
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220513pat-nevin-s-tactical-preview-of-",
       "type": "NewsCard",
@@ -522,43 +591,6 @@
       "date": "2022-05-12T03:00:00.000Z",
       "description": "Not many of Chelsea’s starting XI last night had played in front of a crowd away to Leeds before, but Mason Mount was one of those who had and not for the first time he enjoyed a May evening at Elland Road.",
       "matchId": 2210593
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220512big-sleep-out-proceeds-donated-t",
-      "type": "NewsCard",
-      "timestamp": "2022-05-12T13:15:00.000Z",
-      "orderDate": "2022-05-12T02:41:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/12/big-sleep-out-proceeds-donated-to-veterans--charity",
-        "type": "NewsCard",
-        "title": "Big Sleep Out proceeds donated to veterans’ charity",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/12/big-sleep-out-proceeds-donated-to-veterans--charity.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-12T13:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/12/big-sleep-out-proceeds-donated-to-veterans--charity",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Sleep Out",
-          "id": "editorial/news/2022/05/11/Sleep_out_Wolves",
-          "gravity": "auto",
-          "aspectRatio": 1.500938,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Big Sleep Out proceeds donated to veterans’ charity",
-      "publishDate": "2022-05-12T13:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/12/big-sleep-out-proceeds-donated-to-veterans--charity.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2022-05-12T13:15:00.000Z",
-      "description": "The Chelsea Supporters Trust donated the money raised from this year’s Big Stamford Bridge Sleep Out to Stoll Veterans on the pitch before our last home game against Wolverhampton Wanderers."
     }
   ]
 }
