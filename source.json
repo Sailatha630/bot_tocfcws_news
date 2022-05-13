@@ -488,6 +488,55 @@
       "matchId": 2284552
     },
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220512wembley-fan-info-no-street-drink",
+      "type": "NewsCard",
+      "timestamp": "2022-05-12T11:30:00.000Z",
+      "orderDate": "2022-05-13T00:14:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/12/wembley-fan-info-no-street-drinking-zone-details",
+        "type": "NewsCard",
+        "title": "Important Wembley fan info, including no street-drinking and other restriction details, plus designated pubs and fan zone",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/12/wembley-fan-info-no-street-drinking-zone-details.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-12T11:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/12/wembley-fan-info-no-street-drinking-zone-details",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Wembley Way",
+          "id": "editorial/news/2022/05/10/fans_outside_wembley_2022",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Important Wembley fan info, including no street-drinking and other restriction details, plus designated pubs and fan zone",
+      "publishDate": "2022-05-12T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/12/wembley-fan-info-no-street-drinking-zone-details.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "FA Cup",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_fa-cup"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-12T11:30:00.000Z",
+      "description": "Supporters attending our Emirates FA Cup final against Liverpool on Saturday should read the following information...",
+      "matchId": 2284552
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220513chelsea-women-v-manchester-city-",
       "type": "NewsCard",
@@ -535,65 +584,6 @@
       "date": "2022-05-13T10:30:00.000Z",
       "description": "On Sunday we face Manchester City in the Vitality Women’s FA Cup final in our last game of the 2021/22 season and all the information you need ahead of the big clash can be found here in our match preview…",
       "matchId": 2284549
-    },
-    {
-      "contentType": "Match Preview",
-      "id": "_content_chelseafcennews20220512blues-bulletin--chelsea-vs-liver",
-      "type": "NewsCard",
-      "timestamp": "2022-05-12T16:15:00.000Z",
-      "orderDate": "2022-05-12T16:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/12/blues-bulletin--chelsea-vs-liverpool",
-        "type": "NewsCard",
-        "title": "Blues Bulletin: Chelsea vs Liverpool",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/12/blues-bulletin--chelsea-vs-liverpool.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-12T16:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/12/blues-bulletin--chelsea-vs-liverpool",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "James",
-          "id": "editorial/news/2022/05/13/James-vs-Liverpool_lock-up",
-          "gravity": "north",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Blues Bulletin: Chelsea vs Liverpool",
-      "publishDate": "2022-05-12T16:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/12/blues-bulletin--chelsea-vs-liverpool.html",
-      "readTimeInMins": 31,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "FA Cup Final",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_fa-cup-final"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-05-12T16:15:00.000Z",
-      "description": "Chelsea are back at Wembley to face Liverpool in a cup final for the second time in the space of a few months, this time with the FA Cup up for grabs. Here are all the crucial pre-match stats ahead of the last chance to add to our 2021/22 trophy haul...",
-      "matchId": 2284552
     }
   ]
 }
