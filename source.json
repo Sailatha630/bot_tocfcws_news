@@ -8,6 +8,51 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220515women-s-fa-cup-final-report--che",
+      "type": "NewsCard",
+      "timestamp": "2022-05-15T16:15:00.000Z",
+      "orderDate": "2022-05-15T16:15:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/15/women-s-fa-cup-final-report--chelsea-3-manchester-city-2",
+        "type": "NewsCard",
+        "title": "Women’s FA Cup final report: Chelsea 3 Manchester City 2",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/15/women-s-fa-cup-final-report--chelsea-3-manchester-city-2.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-15T16:15:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/15/women-s-fa-cup-final-report--chelsea-3-manchester-city-2",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kerr celebrates the winner",
+          "id": "editorial/match-reports/2021-22/women's-fac-final-vs-man-city/Women-FACF-Kerr2a",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Women’s FA Cup final report: Chelsea 3 Manchester City 2",
+      "publishDate": "2022-05-15T16:15:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/15/women-s-fa-cup-final-report--chelsea-3-manchester-city-2.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-05-15T16:15:00.000Z",
+      "description": "Chelsea Women are FA Cup winners for the fourth time after two goals from Sam Kerr and an Erin Cuthbert stunner settled a thrilling final against Manchester City in front of a record crowd.",
+      "matchId": 2284549
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220515magdalena-eriksson--we-re-going-",
       "type": "NewsCard",
@@ -550,65 +595,6 @@
       ],
       "date": "2022-05-14T03:00:00.000Z",
       "description": "'We don't want to have the sympathy of the country today. We want to have the trophy.’",
-      "matchId": 2284552
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220514werner-exclusive--why-it-is-fun-",
-      "type": "NewsCard",
-      "timestamp": "2022-05-14T03:00:00.000Z",
-      "orderDate": "2022-05-14T02:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/14/werner-exclusive--why-it-is-fun-to-play-against-liverpool",
-        "type": "NewsCard",
-        "title": "Werner exclusive: Why it is fun to play against Liverpool",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/14/werner-exclusive--why-it-is-fun-to-play-against-liverpool.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-14T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/14/werner-exclusive--why-it-is-fun-to-play-against-liverpool",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Timo Werner having a shot against Liverpool",
-          "id": "editorial/news/2022/05/13/werner_liverpool_lock-up",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Werner exclusive: Why it is fun to play against Liverpool",
-      "publishDate": "2022-05-14T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/14/werner-exclusive--why-it-is-fun-to-play-against-liverpool.html",
-      "readTimeInMins": 18,
-      "tags": [
-        {
-          "title": "Timo Werner",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_timo-werner"
-        },
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-05-14T03:00:00.000Z",
-      "description": "Our no.11 looks ahead to the FA Cup final, compares it to last year, talks about recovering from Covid and how he must get the better of a former team-mate at Wembley…",
       "matchId": 2284552
     }
   ]
