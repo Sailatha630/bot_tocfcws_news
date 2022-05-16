@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220516vote-now-for-your-players-of-the",
+      "type": "NewsCard",
+      "timestamp": "2022-05-16T13:00:00.000Z",
+      "orderDate": "2022-05-16T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/16/vote-now-for-your-players-of-the-season",
+        "type": "NewsCard",
+        "title": "Vote now for your Players of the Season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/16/vote-now-for-your-players-of-the-season.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-16T13:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/16/vote-now-for-your-players-of-the-season",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/05/16/PlayerOfTheSeason_b",
+          "gravity": "center",
+          "aspectRatio": 2.207495,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Vote now for your Players of the Season",
+      "publishDate": "2022-05-16T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/16/vote-now-for-your-players-of-the-season.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-16T13:00:00.000Z",
+      "description": "Blues fans can now cast your votes for the Chelsea men’s and women’s 2021/22 Player of the Season."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220516tuchel-underlines-mount-s-import",
       "type": "NewsCard",
@@ -547,64 +595,6 @@
       ],
       "date": "2022-05-15T03:00:00.000Z",
       "description": "Cesar Azpilicueta says losing a second final this season to Liverpool in a penalty shoot-out is a difficult pill to swallow, but all we can do is accept that games at this level are sometimes decided by the narrowest of margins.",
-      "matchId": 2284552
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220514tuchel-reacts-to-fa-cup-final-de",
-      "type": "NewsCard",
-      "timestamp": "2022-05-14T19:30:00.000Z",
-      "orderDate": "2022-05-14T19:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/14/tuchel-reacts-to-fa-cup-final-defeat",
-        "type": "NewsCard",
-        "title": "Tuchel reflects on his Wembley pain but pride, reveals why Werner didn’t come on and updates on fitness of absentee Havertz",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/14/tuchel-reacts-to-fa-cup-final-defeat.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-14T19:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/14/tuchel-reacts-to-fa-cup-final-defeat",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/match-reports/2021-22/liverpool---fac-final/Tuchel-post-match-vs-Liverpool",
-          "gravity": "auto",
-          "aspectRatio": 1.4773476,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reflects on his Wembley pain but pride, reveals why Werner didn’t come on and updates on fitness of absentee Havertz",
-      "publishDate": "2022-05-14T19:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/14/tuchel-reacts-to-fa-cup-final-defeat.html",
-      "readTimeInMins": 7,
-      "tags": [
-        {
-          "title": "Liverpool",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_liverpool"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "FA Cup",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_fa-cup"
-        }
-      ],
-      "date": "2022-05-14T19:30:00.000Z",
-      "description": "It was an understandably downbeat Thomas Tuchel who reflected on our FA Cup final defeat at Wembley, with the German insisting that our pain was offset by pride in matching Liverpool all the way once again.",
       "matchId": 2284552
     }
   ]
