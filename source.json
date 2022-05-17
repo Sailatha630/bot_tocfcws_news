@@ -8,6 +8,65 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220518blues-bulletin--chelsea-vs-leice",
+      "type": "NewsCard",
+      "timestamp": "2022-05-18T00:23:00.000Z",
+      "orderDate": "2022-05-18T00:23:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/18/blues-bulletin--chelsea-vs-leicester-city",
+        "type": "NewsCard",
+        "title": "Blues Bulletin: Chelsea vs Leicester City",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/18/blues-bulletin--chelsea-vs-leicester-city.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-18T00:23:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/18/blues-bulletin--chelsea-vs-leicester-city",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Ziyech",
+          "id": "chelsea-app/Ziyech-GettyImages-1354429731",
+          "gravity": "auto",
+          "aspectRatio": 1.6459175,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Blues Bulletin: Chelsea vs Leicester City",
+      "publishDate": "2022-05-18T00:23:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/18/blues-bulletin--chelsea-vs-leicester-city.html",
+      "readTimeInMins": 23,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Statistics",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_statistics"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2022-05-18T00:23:00.000Z",
+      "description": "The final week of the Premier League sees our campaign conclude with back-to-back home games, starting against Leicester City on Thursday evening. Here are all the pre-match stats you need before kick-off...",
+      "matchId": 2210534
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220517gallery--ben-chilwell-returns-to",
       "type": "NewsCard",
@@ -517,54 +576,6 @@
       "date": "2022-05-15T21:39:00.000Z",
       "description": "Even though she had to watch her team dig very deep to win the Women’s FA Cup again at Wembley, with Manchester City twice cancelling out Chelsea leads and taking the game into extra-time before Sam Kerr struck the winner, Emma Hayes was confident throughout that she would end up the winning manager.",
       "matchId": 2284549
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220515-i-am-sure-he-is-ambitious-to-bu",
-      "type": "NewsCard",
-      "timestamp": "2022-05-15T21:30:00.000Z",
-      "orderDate": "2022-05-15T20:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/15/-i-am-sure-he-is-ambitious-to-build-a-competitive-chelsea----tuc",
-        "type": "NewsCard",
-        "title": "‘I am sure he is ambitious to build a competitive Chelsea’ - Tuchel reveals details of Todd Boehly meeting",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/15/-i-am-sure-he-is-ambitious-to-build-a-competitive-chelsea----tuc.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-15T21:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/15/-i-am-sure-he-is-ambitious-to-build-a-competitive-chelsea----tuc",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/05/15/Tuchel-Cobham-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "‘I am sure he is ambitious to build a competitive Chelsea’ - Tuchel reveals details of Todd Boehly meeting",
-      "publishDate": "2022-05-15T21:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/15/-i-am-sure-he-is-ambitious-to-build-a-competitive-chelsea----tuc.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-05-15T21:30:00.000Z",
-      "description": "After meeting Todd Boehly for the first time at Cobham last week, Thomas Tuchel has revealed the nature of their brief discussion and stated his belief that a strong ambition for continued success will be maintained.",
-      "matchId": 2284552
     }
   ]
 }
