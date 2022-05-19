@@ -116,6 +116,81 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20220519watch-the-highlights-from-leices",
+      "type": "NewsCard",
+      "timestamp": "2022-05-19T22:53:00.000Z",
+      "orderDate": "2022-05-19T18:53:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/19/watch-the-highlights-from-leicester-draw",
+        "type": "NewsCard",
+        "title": "Watch the highlights from Leicester draw",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/watch-the-highlights-from-leicester-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-19T22:53:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/19/watch-the-highlights-from-leicester-draw",
+      "media": {
+        "type": "video",
+        "video": {
+          "type": "VideoCard",
+          "title": "Chelsea 1-1 Leicester City (H) | Premier League Highlights",
+          "videoId": "X5s6UMHs",
+          "bucket": "prod-cfc",
+          "description": "Highlights from Chelsea's draw with Leicester City in the Premier League at Stamford Bridge.",
+          "duration": 120000,
+          "date": "2022-05-19T22:17:20.202Z",
+          "image": {
+            "type": "ImageGeneric",
+            "url": "https://cdn.jwplayer.com/v2/media/X5s6UMHs/poster.jpg?width=720"
+          },
+          "tags": [],
+          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/watch-the-highlights-from-leicester-draw.page.v3.json",
+          "contentType": "News",
+          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/05/19/watch-the-highlights-from-leicester-draw?mode=native",
+          "contentPath": "/content/chelseafc/en/news/2022/05/19/watch-the-highlights-from-leicester-draw",
+          "requiresRegistration": false,
+          "requiresSubscription": false,
+          "showPublishDate": true,
+          "showComments": true,
+          "isCastingEnabled": false
+        },
+        "caption": "Highlights from Chelsea's draw with Leicester City in the Premier League at Stamford Bridge."
+      },
+      "content": "Watch the highlights from Leicester draw",
+      "publishDate": "2022-05-19T22:53:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/watch-the-highlights-from-leicester-draw.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Highlights",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_highlights"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        }
+      ],
+      "date": "2022-05-19T22:53:00.000Z",
+      "description": "Chelsea had to settle for a draw in our penultimate Premier League fixture of 2021/22, despite dominating the match and a fine goal from Marcos Alonso.",
+      "matchId": 2210534
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20220519chelsea-line-up-vs-leicester",
       "type": "NewsCard",
       "timestamp": "2022-05-19T18:00:00.000Z",
@@ -527,54 +602,6 @@
       ],
       "date": "2022-05-19T03:00:00.000Z",
       "description": "On the 10th anniversary of our Champions League triumph in Munich, we tell the story of our journey to becoming Europe's finest, an adventure full of agony and ecstasy that culminated in a bonkers night in Bavaria..."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220519quiz--can-you-name-every-player-",
-      "type": "NewsCard",
-      "timestamp": "2022-05-19T03:00:00.000Z",
-      "orderDate": "2022-05-19T00:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/19/quiz--can-you-name-every-player-from-our-2011-12-champions-leagu",
-        "type": "NewsCard",
-        "title": "Quiz: Can you name every player from our 2011/12 Champions League campaign?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/quiz--can-you-name-every-player-from-our-2011-12-champions-leagu.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-19T03:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/19/quiz--can-you-name-every-player-from-our-2011-12-champions-leagu",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Trophy",
-          "id": "cfc/news/latestnews/16/6/UCL_trophy_PA-14867240",
-          "gravity": "north",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: Can you name every player from our 2011/12 Champions League campaign?",
-      "publishDate": "2022-05-19T03:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/quiz--can-you-name-every-player-from-our-2011-12-champions-leagu.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Champions League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_champions-league"
-        }
-      ],
-      "date": "2022-05-19T03:00:00.000Z",
-      "description": "As we celebrate the 10th anniversary of Chelsea's first ever triumph in the Champions League, see if you can remember every player who made an appearance for the Blues during that glorious campaign..."
     }
   ]
 }
