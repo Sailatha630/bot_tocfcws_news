@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220519tuchel-reacts-to-leicester-draw",
+      "type": "NewsCard",
+      "timestamp": "2022-05-19T21:37:00.000Z",
+      "orderDate": "2022-05-19T21:37:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/19/tuchel-reacts-to-leicester-draw",
+        "type": "NewsCard",
+        "title": "Tuchel assesses point against Leicester and rates Kante’s importance in a campaign of limited minutes",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/tuchel-reacts-to-leicester-draw.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-19T21:37:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/19/tuchel-reacts-to-leicester-draw",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/leicester-home/Tuchel-Leicester-h-2",
+          "gravity": "auto",
+          "aspectRatio": 1.24533,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel assesses point against Leicester and rates Kante’s importance in a campaign of limited minutes",
+      "publishDate": "2022-05-19T21:37:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/tuchel-reacts-to-leicester-draw.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-19T21:37:00.000Z",
+      "description": "Thomas Tuchel was left with mixed emotions after watching his side draw at home in our penultimate game of the season.",
+      "matchId": 2210534
+    },
+    {
       "contentType": "Match Report",
       "id": "_content_chelseafcennews20220519match-report--chelsea-vs-leicest",
       "type": "NewsCard",
@@ -522,64 +575,6 @@
       ],
       "date": "2022-05-19T03:00:00.000Z",
       "description": "As we celebrate the 10th anniversary of Chelsea's first ever triumph in the Champions League, see if you can remember every player who made an appearance for the Blues during that glorious campaign..."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220518tuchel-reveals-talks-with-azpili",
-      "type": "NewsCard",
-      "timestamp": "2022-05-18T21:30:00.000Z",
-      "orderDate": "2022-05-18T21:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/18/tuchel-reveals-talks-with-azpilicueta-continue-over-captain-s-fu",
-        "type": "NewsCard",
-        "title": "Tuchel reveals talks with Azpilicueta continue over captain’s future",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/18/tuchel-reveals-talks-with-azpilicueta-continue-over-captain-s-fu.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-18T21:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/18/tuchel-reveals-talks-with-azpilicueta-continue-over-captain-s-fu",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/05/18/Tuchel-Azpilicueta-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.3866268,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel reveals talks with Azpilicueta continue over captain’s future",
-      "publishDate": "2022-05-18T21:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/18/tuchel-reveals-talks-with-azpilicueta-continue-over-captain-s-fu.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Cesar Azpilicueta",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_cesar-azpilicueta"
-        }
-      ],
-      "date": "2022-05-18T21:30:00.000Z",
-      "description": "Thomas Tuchel talks about Cesar Azpilicueta’s future and his hopes the Spaniard will extend his 10-year stay at Stamford Bridge beyond this summer.",
-      "matchId": 2210534
     }
   ]
 }
