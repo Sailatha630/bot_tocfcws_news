@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220519chelsea-line-up-vs-leicester",
+      "type": "NewsCard",
+      "timestamp": "2022-05-19T18:00:00.000Z",
+      "orderDate": "2022-05-19T18:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/19/chelsea-line-up-vs-leicester",
+        "type": "NewsCard",
+        "title": "Chelsea line up vs Leicester",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/chelsea-line-up-vs-leicester.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-19T18:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/19/chelsea-line-up-vs-leicester",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Pulisic",
+          "id": "editorial/match-reports/2021-22/leicester-home/DAZ_2299-742717",
+          "gravity": "auto",
+          "aspectRatio": 0.7722,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea line up vs Leicester",
+      "publishDate": "2022-05-19T18:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/chelsea-line-up-vs-leicester.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Team sheet",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_team-sheet"
+        },
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-19T18:00:00.000Z",
+      "description": "Thomas Tuchel makes two changes to his Chelsea team for our penultimate game of the season, with N’Golo Kante and Hakim Ziyech coming into the side.",
+      "matchId": 2210534
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220519tuchel-on-the-tough-summer-task-",
       "type": "NewsCard",
@@ -515,54 +569,6 @@
       ],
       "date": "2022-05-19T08:00:00.000Z",
       "description": "One Team, One Dream follows the fortunes of Chelsea FC Women, an extraordinary squad of players tearing up the highest and most prestigious levels of club and international football. For the first time, cameras have captured the extraordinary drama, passion and pressure of life at the top of the fastest growing sport on the planet."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220518chelsea-to-play-in-las-vegas-and",
-      "type": "NewsCard",
-      "timestamp": "2022-05-18T16:00:00.000Z",
-      "orderDate": "2022-05-18T16:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/18/chelsea-to-play-in-las-vegas-and-charlotte-as-part-of-usa-pre-se",
-        "type": "NewsCard",
-        "title": "Chelsea to play in Las Vegas and Charlotte as part of USA pre-season tour",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/18/chelsea-to-play-in-las-vegas-and-charlotte-as-part-of-usa-pre-se.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-18T16:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/18/chelsea-to-play-in-las-vegas-and-charlotte-as-part-of-usa-pre-se",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/05/18/USA_Tour_Announcement_Article_Hero_2870x1300",
-          "gravity": "west",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea to play in Las Vegas and Charlotte as part of USA pre-season tour",
-      "publishDate": "2022-05-18T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/18/chelsea-to-play-in-las-vegas-and-charlotte-as-part-of-usa-pre-se.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Pre Season",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_pre-season-tour"
-        }
-      ],
-      "date": "2022-05-18T16:00:00.000Z",
-      "description": "Chelsea’s much-anticipated return to the United States this summer will see us play fixtures against Club America and Charlotte FC as part of the FC Series."
     }
   ]
 }
