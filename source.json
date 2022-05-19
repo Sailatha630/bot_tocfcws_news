@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Report",
+      "id": "_content_chelseafcennews20220519match-report--chelsea-vs-leicest",
+      "type": "NewsCard",
+      "timestamp": "2022-05-19T21:00:00.000Z",
+      "orderDate": "2022-05-19T21:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/19/match-report--chelsea-vs-leicester",
+        "type": "NewsCard",
+        "title": "Match Report: Chelsea 1 Leicester 1",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/match-report--chelsea-vs-leicester.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-19T21:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/19/match-report--chelsea-vs-leicester",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Alonso goal",
+          "id": "editorial/match-reports/2021-22/leicester-home/Alonso_goal_CL1_4898-742961",
+          "gravity": "auto",
+          "aspectRatio": 1.50015,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Match Report: Chelsea 1 Leicester 1",
+      "publishDate": "2022-05-19T21:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/match-report--chelsea-vs-leicester.html",
+      "readTimeInMins": 15,
+      "tags": [
+        {
+          "title": "Leicester City",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_leicester-city"
+        },
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-19T21:00:00.000Z",
+      "description": "Marcos Alonso earned Chelsea a draw after we had gone behind early against Leicester at Stamford Bridge, with the point almost certainly securing us third place in the Premier League.",
+      "matchId": 2210534
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220519chelsea-line-up-vs-leicester",
       "type": "NewsCard",
@@ -526,49 +580,6 @@
       "date": "2022-05-18T21:30:00.000Z",
       "description": "Thomas Tuchel talks about Cesar Azpilicueta’s future and his hopes the Spaniard will extend his 10-year stay at Stamford Bridge beyond this summer.",
       "matchId": 2210534
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220519dazn-to-launch-fulwell-73-s-chel",
-      "type": "NewsCard",
-      "timestamp": "2022-05-19T08:00:00.000Z",
-      "orderDate": "2022-05-18T21:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/19/dazn-to-launch-fulwell-73-s-chelsea-women-s-document",
-        "type": "NewsCard",
-        "title": "DAZN to launch Fulwell 73’s Chelsea Women’s documentary series, One Team, One Dream",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/dazn-to-launch-fulwell-73-s-chelsea-women-s-document.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-19T08:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/19/dazn-to-launch-fulwell-73-s-chelsea-women-s-document",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/huddle-Women-FA-Cup-final-CL1_1463_22c2cc8",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "DAZN to launch Fulwell 73’s Chelsea Women’s documentary series, One Team, One Dream",
-      "publishDate": "2022-05-19T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/dazn-to-launch-fulwell-73-s-chelsea-women-s-document.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-05-19T08:00:00.000Z",
-      "description": "One Team, One Dream follows the fortunes of Chelsea FC Women, an extraordinary squad of players tearing up the highest and most prestigious levels of club and international football. For the first time, cameras have captured the extraordinary drama, passion and pressure of life at the top of the fastest growing sport on the planet."
     }
   ]
 }
