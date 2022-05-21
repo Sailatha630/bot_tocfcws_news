@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220521chelsea-final-days-quiz-",
+      "type": "NewsCard",
+      "timestamp": "2022-05-21T11:05:00.000Z",
+      "orderDate": "2022-05-21T11:05:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/21/chelsea-final-days-quiz-",
+        "type": "NewsCard",
+        "title": "Chelsea final days quiz!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/21/chelsea-final-days-quiz-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-21T11:05:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/21/chelsea-final-days-quiz-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "asia/editorial/thai-app/image/Title_Celebration_2016_17",
+          "gravity": "auto",
+          "aspectRatio": 1.9494117,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea final days quiz!",
+      "publishDate": "2022-05-21T11:05:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/21/chelsea-final-days-quiz-.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-21T11:05:00.000Z",
+      "description": "Our 63rd and final match of the season is upon us as we host already relegated Watford tomorrow. Here, we look back at our recent final day tussles with an eight-question quiz for you to try...",
+      "matchId": 2210645
+    },
+    {
       "contentType": "Match Preview",
       "id": "_content_chelseafcennews20220521pre-match-briefing--chelsea-vs-w",
       "type": "NewsCard",
@@ -488,48 +531,6 @@
       ],
       "date": "2022-05-20T12:52:00.000Z",
       "description": "From playing for Chelsea Women, to now winning trophies as the head coach of the Women’s Under-16s and assistant coach to the Under-18s, we take a look at Leanne Champ’s pathway journey here at Chelsea..."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220520chelsea-foundation--mental-healt",
-      "type": "NewsCard",
-      "timestamp": "2022-05-20T14:00:00.000Z",
-      "orderDate": "2022-05-19T22:11:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/20/chelsea-foundation--mental-health-awareness-week-round-up",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation: Mental Health Awareness Week round-up",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/20/chelsea-foundation--mental-health-awareness-week-round-up.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-20T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/20/chelsea-foundation--mental-health-awareness-week-round-up",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Karen-Carney-MHAW",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation: Mental Health Awareness Week round-up",
-      "publishDate": "2022-05-20T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/20/chelsea-foundation--mental-health-awareness-week-round-up.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-05-20T14:00:00.000Z",
-      "description": "Last week, Chelsea FC Foundation and its range of programmes focused on activities surrounding mental health, with this year’s theme targeting loneliness."
     }
   ]
 }
