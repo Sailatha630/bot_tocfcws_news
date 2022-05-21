@@ -8,6 +8,60 @@
   },
   "newsFeed": [
     {
+      "contentType": "Match Preview",
+      "id": "_content_chelseafcennews20220521pre-match-briefing--chelsea-vs-w",
+      "type": "NewsCard",
+      "timestamp": "2022-05-21T10:24:00.000Z",
+      "orderDate": "2022-05-21T10:24:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/21/pre-match-briefing--chelsea-vs-watford",
+        "type": "NewsCard",
+        "title": "Pre-match Briefing: Chelsea vs Watford",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/21/pre-match-briefing--chelsea-vs-watford.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-21T10:24:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/21/pre-match-briefing--chelsea-vs-watford",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/match-reports/2021-22/leicester-home/stamford-bridge-sunset-view",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Pre-match Briefing: Chelsea vs Watford",
+      "publishDate": "2022-05-21T10:24:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/21/pre-match-briefing--chelsea-vs-watford.html",
+      "readTimeInMins": 24,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Watford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_watford"
+        }
+      ],
+      "date": "2022-05-21T10:24:00.000Z",
+      "description": "For the last time this season, club historian Rick Glanvill and club statistician Paul Dutton lend us their expertise to look ahead to our final game of 2021/22, against Watford at Stamford Bridge...",
+      "matchId": 2210645
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220521tuchel-talks-recruitment-plans-a",
       "type": "NewsCard",
@@ -486,60 +540,6 @@
       ],
       "date": "2022-05-19T21:37:00.000Z",
       "description": "Thomas Tuchel was left with mixed emotions after watching his side draw at home in our penultimate game of the season.",
-      "matchId": 2210534
-    },
-    {
-      "contentType": "Match Report",
-      "id": "_content_chelseafcennews20220519match-report--chelsea-vs-leicest",
-      "type": "NewsCard",
-      "timestamp": "2022-05-19T21:00:00.000Z",
-      "orderDate": "2022-05-19T21:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/19/match-report--chelsea-vs-leicester",
-        "type": "NewsCard",
-        "title": "Match Report: Chelsea 1 Leicester 1",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/match-report--chelsea-vs-leicester.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-19T21:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/19/match-report--chelsea-vs-leicester",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Alonso goal",
-          "id": "editorial/match-reports/2021-22/leicester-home/Alonso_goal_CL1_4898-742961",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Match Report: Chelsea 1 Leicester 1",
-      "publishDate": "2022-05-19T21:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/19/match-report--chelsea-vs-leicester.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-05-19T21:00:00.000Z",
-      "description": "Marcos Alonso earned Chelsea a draw after we had gone behind early against Leicester at Stamford Bridge, with the point almost certainly securing us third place in the Premier League.",
       "matchId": 2210534
     }
   ]
