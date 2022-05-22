@@ -9,6 +9,49 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20220522harvey-vale-named-chelsea-academ",
+      "type": "NewsCard",
+      "timestamp": "2022-05-22T14:35:00.000Z",
+      "orderDate": "2022-05-22T14:35:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/22/harvey-vale-named-chelsea-academy-player-of-the-season",
+        "type": "NewsCard",
+        "title": "Harvey Vale awarded Chelsea Academy Player of the Season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/harvey-vale-named-chelsea-academy-player-of-the-season.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-22T14:35:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/22/harvey-vale-named-chelsea-academy-player-of-the-season",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Harvey Vale playing against Brentford",
+          "id": "editorial/news/2022/05/22/Harvey_Vale_21-22_Academy_Player_of_the_Year",
+          "gravity": "center",
+          "aspectRatio": 1.6473215,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Harvey Vale awarded Chelsea Academy Player of the Season",
+      "publishDate": "2022-05-22T14:35:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/harvey-vale-named-chelsea-academy-player-of-the-season.html",
+      "readTimeInMins": 9,
+      "tags": [
+        {
+          "title": "Academy",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_academy"
+        }
+      ],
+      "date": "2022-05-22T14:35:00.000Z",
+      "description": "Harvey Vale has been named the 2021/22 Academy Player of the Season following a strong year during which he has been involved across all age groups and made his senior debut against Brentford in the Carabao Cup."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20220522chelsea-line-up-vs-watford",
       "type": "NewsCard",
       "timestamp": "2022-05-22T14:00:00.000Z",
@@ -480,69 +523,6 @@
       "date": "2022-05-20T12:30:00.000Z",
       "description": "With the season now days away from its domestic conclusion, Thomas Tuchel’s attention has started to turn towards the future and what his squad might look like at the start of the next campaign.",
       "matchId": 2210645
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220520the-debrief--blues-search-far-an",
-      "type": "NewsCard",
-      "timestamp": "2022-05-20T11:02:00.000Z",
-      "orderDate": "2022-05-20T11:02:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/20/the-debrief--blues-search-far-and-wide-for-space--but-can-t-turn",
-        "type": "NewsCard",
-        "title": "The Debrief: Blues search far and wide for space, but can't turn dominance into a win",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/20/the-debrief--blues-search-far-and-wide-for-space--but-can-t-turn.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-20T11:02:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/20/the-debrief--blues-search-far-and-wide-for-space--but-can-t-turn",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/05/20/Debrief_Leicester_H_wide",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "The Debrief: Blues search far and wide for space, but can't turn dominance into a win",
-      "publishDate": "2022-05-20T11:02:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/20/the-debrief--blues-search-far-and-wide-for-space--but-can-t-turn.html",
-      "readTimeInMins": 14,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Leicester City",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_leicester-city"
-        },
-        {
-          "title": "Hakim Ziyech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_hakim-ziyech"
-        }
-      ],
-      "date": "2022-05-20T11:02:00.000Z",
-      "description": "Chelsea had to settle for a point against Leicester City, but the statistics from the match suggest we deserved more than a draw from a game we dominated.",
-      "matchId": 2210534
     }
   ]
 }
