@@ -8,6 +8,70 @@
   },
   "newsFeed": [
     {
+      "contentType": "Interview",
+      "id": "_content_chelseafcennews20220522tuchel-says-more-to-come-from-pu",
+      "type": "NewsCard",
+      "timestamp": "2022-05-22T02:30:00.000Z",
+      "orderDate": "2022-05-22T02:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/22/tuchel-says-more-to-come-from-pulisic-and-blues-forwards",
+        "type": "NewsCard",
+        "title": "Tuchel says more to come from Pulisic and Blues forwards",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/tuchel-says-more-to-come-from-pulisic-and-blues-forwards.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-22T02:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/22/tuchel-says-more-to-come-from-pulisic-and-blues-forwards",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Tuchel",
+          "id": "editorial/news/2021/08/15/Pulisic_Tuchel_GettyImages-1334123495",
+          "gravity": "south",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Tuchel says more to come from Pulisic and Blues forwards",
+      "publishDate": "2022-05-22T02:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/tuchel-says-more-to-come-from-pulisic-and-blues-forwards.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Thomas Tuchel",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_thomas-tuchel"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Watford",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_opposition-teams_watford"
+        }
+      ],
+      "date": "2022-05-22T02:30:00.000Z",
+      "description": "As our 2021/22 campaign comes to an end today, Thomas Tuchel has been looking ahead to next season and how we can improve, identifying the final third and one player in particular as having plenty more potential.",
+      "matchId": 2210645
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220521chelsea-final-days-quiz-",
       "type": "NewsCard",
@@ -484,53 +548,6 @@
       "date": "2022-05-20T21:15:00.000Z",
       "description": "Chelsea supporters attending our final Premier League game of the season this weekend are encouraged to arrive early at Stamford Bridge…",
       "matchId": 2210645
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220520chelsea-women-s-academy-coach-le",
-      "type": "NewsCard",
-      "timestamp": "2022-05-20T12:52:00.000Z",
-      "orderDate": "2022-05-19T23:12:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/20/chelsea-women-s-academy-coach-leanne-champ-on-her-pathway-experi",
-        "type": "NewsCard",
-        "title": "Chelsea Women Academy coach Leanne Champ on her pathway experience at the club",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/20/chelsea-women-s-academy-coach-leanne-champ-on-her-pathway-experi.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-20T12:52:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/20/chelsea-women-s-academy-coach-leanne-champ-on-her-pathway-experi",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Leanne_champ_academy",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Women Academy coach Leanne Champ on her pathway experience at the club",
-      "publishDate": "2022-05-20T12:52:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/20/chelsea-women-s-academy-coach-leanne-champ-on-her-pathway-experi.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2022-05-20T12:52:00.000Z",
-      "description": "From playing for Chelsea Women, to now winning trophies as the head coach of the Women’s Under-16s and assistant coach to the Under-18s, we take a look at Leanne Champ’s pathway journey here at Chelsea..."
     }
   ]
 }
