@@ -9,6 +9,54 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20220522sam-kerr-named-chelsea-women-s-p",
+      "type": "NewsCard",
+      "timestamp": "2022-05-22T14:40:00.000Z",
+      "orderDate": "2022-05-22T14:40:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/22/sam-kerr-named-chelsea-women-s-player-of-the-season",
+        "type": "NewsCard",
+        "title": "Sam Kerr named Chelsea Women’s Player of the Season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/sam-kerr-named-chelsea-women-s-player-of-the-season.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-22T14:40:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/22/sam-kerr-named-chelsea-women-s-player-of-the-season",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/05/22/Sam_Kerr_21-22_Women_s_Player_of_the_Year",
+          "gravity": "auto",
+          "aspectRatio": 1.6746627,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Sam Kerr named Chelsea Women’s Player of the Season",
+      "publishDate": "2022-05-22T14:40:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/sam-kerr-named-chelsea-women-s-player-of-the-season.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Sam Kerr",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_sam-kerr"
+        }
+      ],
+      "date": "2022-05-22T14:40:00.000Z",
+      "description": "After a formidable season in front of goal for the Blues, the 2021/22 Golden Boot winner has been voted Player of the Season by Chelsea supporters."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20220522harvey-vale-named-chelsea-academ",
       "type": "NewsCard",
       "timestamp": "2022-05-22T14:35:00.000Z",
@@ -460,69 +508,6 @@
       ],
       "date": "2022-05-21T11:26:00.000Z",
       "description": "Chelsea FC Foundation’s education department started delivering the Standing Together programme late last year."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220520tuchel-discusses-kepa-s-future--",
-      "type": "NewsCard",
-      "timestamp": "2022-05-20T12:30:00.000Z",
-      "orderDate": "2022-05-20T12:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/20/tuchel-discusses-kepa-s-future--thanks-fans-for-his-new-banner-a",
-        "type": "NewsCard",
-        "title": "Tuchel discusses Kepa’s future, thanks fans for his new banner and assesses James’s potential",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/20/tuchel-discusses-kepa-s-future--thanks-fans-for-his-new-banner-a.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-20T12:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/20/tuchel-discusses-kepa-s-future--thanks-fans-for-his-new-banner-a",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/05/19/tuchel-stock-watching-on",
-          "gravity": "auto",
-          "aspectRatio": 1.4757249,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel discusses Kepa’s future, thanks fans for his new banner and assesses James’s potential",
-      "publishDate": "2022-05-20T12:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/20/tuchel-discusses-kepa-s-future--thanks-fans-for-his-new-banner-a.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Kepa Arrizabalaga ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kepa-arrizabalaga"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-05-20T12:30:00.000Z",
-      "description": "With the season now days away from its domestic conclusion, Thomas Tuchel’s attention has started to turn towards the future and what his squad might look like at the start of the next campaign.",
-      "matchId": 2210645
     }
   ]
 }
