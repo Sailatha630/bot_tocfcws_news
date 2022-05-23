@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220523blues-set-new-scoring-mark",
+      "type": "NewsCard",
+      "timestamp": "2022-05-23T10:04:00.000Z",
+      "orderDate": "2022-05-23T10:04:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/23/blues-set-new-scoring-mark",
+        "type": "NewsCard",
+        "title": "Blues set new scoring mark",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/blues-set-new-scoring-mark.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-23T10:04:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/23/blues-set-new-scoring-mark",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Ross Barkley",
+          "id": "editorial/news/2022/05/22/watford_home_barkley_goal",
+          "gravity": "auto",
+          "aspectRatio": 1.4322647,
+          "cropMode": "fill",
+          "isFullScale": true
+        }
+      },
+      "content": "Blues set new scoring mark",
+      "publishDate": "2022-05-23T10:04:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/blues-set-new-scoring-mark.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Ross Barkley",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_ross-barkley"
+        }
+      ],
+      "date": "2022-05-23T10:04:00.000Z",
+      "description": "Ross Barkley’s late winner in the 2-1 victory over Watford in Chelsea’s season finale on Sunday ensured Thomas Tuchel’s side set a new club record as he became the 21st player to score for the Blues in a competitive match in the 2021/22 season."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220523player-of-the-season-mount-expla",
       "type": "NewsCard",
@@ -488,70 +537,6 @@
       ],
       "date": "2022-05-22T07:10:00.000Z",
       "description": "Chelsea’s marathon 63-game campaign is reaching its conclusion with just two one fixture remaining. On the day of our meeting with Watford, Mateo Kovacic has reflected on 2021/22 and the ups and downs along the way."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220522tuchel-says-more-to-come-from-pu",
-      "type": "NewsCard",
-      "timestamp": "2022-05-22T02:30:00.000Z",
-      "orderDate": "2022-05-22T02:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/22/tuchel-says-more-to-come-from-pulisic-and-blues-forwards",
-        "type": "NewsCard",
-        "title": "Tuchel says more to come from Pulisic and Blues forwards",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/tuchel-says-more-to-come-from-pulisic-and-blues-forwards.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-22T02:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/22/tuchel-says-more-to-come-from-pulisic-and-blues-forwards",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Tuchel",
-          "id": "editorial/news/2021/08/15/Pulisic_Tuchel_GettyImages-1334123495",
-          "gravity": "south",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Tuchel says more to come from Pulisic and Blues forwards",
-      "publishDate": "2022-05-22T02:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/tuchel-says-more-to-come-from-pulisic-and-blues-forwards.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Thomas Tuchel",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_manager_thomas-tuchel"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Watford",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_watford"
-        }
-      ],
-      "date": "2022-05-22T02:30:00.000Z",
-      "description": "As our 2021/22 campaign comes to an end today, Thomas Tuchel has been looking ahead to next season and how we can improve, identifying the final third and one player in particular as having plenty more potential.",
-      "matchId": 2210645
     }
   ]
 }
