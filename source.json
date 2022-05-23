@@ -8,6 +8,55 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220523gallery--chelsea-s-2021-22-lap-o",
+      "type": "NewsCard",
+      "timestamp": "2022-05-23T13:56:00.000Z",
+      "orderDate": "2022-05-23T13:56:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/23/gallery--chelsea-s-2021-22-lap-of-appreciation",
+        "type": "NewsCard",
+        "title": "Gallery: Chelsea's 2021/22 lap of appreciation",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/gallery--chelsea-s-2021-22-lap-of-appreciation.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-23T13:56:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/23/gallery--chelsea-s-2021-22-lap-of-appreciation",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "chelsea-app/azpi-Lap-of-appreication-CL1_8197",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Chelsea's 2021/22 lap of appreciation",
+      "publishDate": "2022-05-23T13:56:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/gallery--chelsea-s-2021-22-lap-of-appreciation.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-23T13:56:00.000Z",
+      "description": "The 2021/22 season has officially come to its conclusion and after the 63-game campaign ended, Thomas Tuchel and his Chelsea side underwent a traditional lap of appreciation for Blues supporters at Stamford Bridge...",
+      "matchId": 2210645
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220523chilwell-grateful-for-support-an",
       "type": "NewsCard",
@@ -471,59 +520,6 @@
       "date": "2022-05-22T17:02:00.000Z",
       "description": "The Blues end the season as we started it, with a home win in the sun. Kai Havertz scored his 14th goal of the season with substitute Ross Barkley netting a late winner on his 100th appearance for the club.",
       "matchId": 2210645
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220522mount-wins-chelsea-player-of-the",
-      "type": "NewsCard",
-      "timestamp": "2022-05-22T16:56:00.000Z",
-      "orderDate": "2022-05-22T16:56:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/22/mount-wins-chelsea-player-of-the-season-again",
-        "type": "NewsCard",
-        "title": "Mount wins men's Chelsea Player of the Season again",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/mount-wins-chelsea-player-of-the-season-again.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-22T16:56:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/22/mount-wins-chelsea-player-of-the-season-again",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mason Mount",
-          "id": "editorial/news/2022/05/22/Mason_Mount_21-22_Men_s_Player_of_the_Year",
-          "gravity": "auto",
-          "aspectRatio": 1.6745914,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mount wins men's Chelsea Player of the Season again",
-      "publishDate": "2022-05-22T16:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/22/mount-wins-chelsea-player-of-the-season-again.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Player of the year",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_player-of-the-year"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        }
-      ],
-      "date": "2022-05-22T16:56:00.000Z",
-      "description": "For the second year running, Mason Mount has been voted the Chelsea men’s team Player of the Season by Blues supporters."
     }
   ]
 }
