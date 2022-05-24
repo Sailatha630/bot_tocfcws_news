@@ -8,6 +8,64 @@
   },
   "newsFeed": [
     {
+      "contentType": "International",
+      "id": "_content_chelseafcennews20220524chelsea-players-selected-in-engl",
+      "type": "NewsCard",
+      "timestamp": "2022-05-24T13:00:00.000Z",
+      "orderDate": "2022-05-24T13:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/24/chelsea-players-selected-in-england-squad",
+        "type": "NewsCard",
+        "title": "Chelsea trio selected in England squad",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/24/chelsea-players-selected-in-england-squad.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-24T13:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/24/chelsea-players-selected-in-england-squad",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Mason Mount and Reece James",
+          "id": "editorial/news/2022/05/24/mount-reece-james-cobham",
+          "gravity": "auto",
+          "aspectRatio": 1.6544402,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea trio selected in England squad",
+      "publishDate": "2022-05-24T13:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/24/chelsea-players-selected-in-england-squad.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Reece James",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_reece-james"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        },
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        },
+        {
+          "title": "Internationals",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_internationals"
+        }
+      ],
+      "date": "2022-05-24T13:00:00.000Z",
+      "description": "Mason Mount, Reece James and Conor Gallagher have been named in Gareth Southgate’s England squad for the start of the Three Lions’ Nations League campaign next week."
+    },
+    {
       "contentType": "Columnists",
       "id": "_content_chelseafcennews20220524pat-nevin--what-a-team-needs-to-",
       "type": "NewsCard",
@@ -511,54 +569,6 @@
       ],
       "date": "2022-05-23T10:36:00.000Z",
       "description": "As several European leagues brought their seasons to an end, our weekly round-up of the action involving Chelsea players on loan includes one claiming a top-flight title and another playing a big role in a final-day relegation fight..."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220523ticket-pre-sale-begins-for-las-v",
-      "type": "NewsCard",
-      "timestamp": "2022-05-23T14:00:00.000Z",
-      "orderDate": "2022-05-22T23:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/23/ticket-pre-sale-begins-for-las-vegas-and-charlotte-games",
-        "type": "NewsCard",
-        "title": "Ticket pre-sale begins for Las Vegas and Charlotte games",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/ticket-pre-sale-begins-for-las-vegas-and-charlotte-games.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-23T14:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/23/ticket-pre-sale-begins-for-las-vegas-and-charlotte-games",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/05/18/USA_Tour_Announcement_Article_Hero_2870x1300",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Ticket pre-sale begins for Las Vegas and Charlotte games",
-      "publishDate": "2022-05-23T14:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/ticket-pre-sale-begins-for-las-vegas-and-charlotte-games.html",
-      "readTimeInMins": 10,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Pre Season",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_pre-season-tour"
-        }
-      ],
-      "date": "2022-05-23T14:00:00.000Z",
-      "description": "Chelsea’s much-anticipated return to the United States this summer includes fixtures against Club America and Charlotte FC as part of the FC Series and Blues fans can buy tickets now."
     }
   ]
 }
