@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220525vote-for-your-chelsea-goal-of-th",
+      "type": "NewsCard",
+      "timestamp": "2022-05-25T09:30:00.000Z",
+      "orderDate": "2022-05-25T09:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/25/vote-for-your-chelsea-goal-of-the-season-2021-22-",
+        "type": "NewsCard",
+        "title": "Vote for your Chelsea Goal of the Season 2021/22!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/vote-for-your-chelsea-goal-of-the-season-2021-22-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-25T09:30:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/25/vote-for-your-chelsea-goal-of-the-season-2021-22-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/05/24/Goal_of-the_season_2021_22",
+          "gravity": "auto",
+          "aspectRatio": 2.207495,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Vote for your Chelsea Goal of the Season 2021/22!",
+      "publishDate": "2022-05-25T09:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/vote-for-your-chelsea-goal-of-the-season-2021-22-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Hakim Ziyech",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_hakim-ziyech"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Goal of the season",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-season"
+        }
+      ],
+      "date": "2022-05-25T09:30:00.000Z",
+      "description": "A long campaign came to a close at the weekend with a number of awards presented at our men’s team’s final game at Stamford Bridge, but there is still one left to decide – the winner of the 2021/22 Chelsea Goal of the Season."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220525wsl-end-of-season-awards-announc",
       "type": "NewsCard",
@@ -500,65 +553,6 @@
       ],
       "date": "2022-05-23T10:04:00.000Z",
       "description": "Ross Barkley’s late winner in the 2-1 victory over Watford in Chelsea’s season finale on Sunday ensured Thomas Tuchel’s side set a new club record as he became the 21st player to score for the Blues in a competitive match in the 2021/22 season."
-    },
-    {
-      "contentType": "Interview",
-      "id": "_content_chelseafcennews20220523player-of-the-season-mount-expla",
-      "type": "NewsCard",
-      "timestamp": "2022-05-23T06:00:00.000Z",
-      "orderDate": "2022-05-23T06:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/23/player-of-the-season-mount-explains-why-he-is-buzzing-for-two-te",
-        "type": "NewsCard",
-        "title": "Player of the Season Mount explains why he is buzzing for two team-mates and where Chelsea can do better ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/player-of-the-season-mount-explains-why-he-is-buzzing-for-two-te.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-23T06:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/23/player-of-the-season-mount-explains-why-he-is-buzzing-for-two-te",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Mason Mount with his Player of the Season award",
-          "id": "editorial/news/2022/05/22/mount_player_of_the_season_trophy",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Player of the Season Mount explains why he is buzzing for two team-mates and where Chelsea can do better ",
-      "publishDate": "2022-05-23T06:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/player-of-the-season-mount-explains-why-he-is-buzzing-for-two-te.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Watford",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_opposition-teams_watford"
-        }
-      ],
-      "date": "2022-05-23T06:00:00.000Z",
-      "description": "Mason Mount had more than just the victory and the manner it was achieved to discuss after Sunday’s final game of the season against Watford.",
-      "matchId": 2210645
     }
   ]
 }
