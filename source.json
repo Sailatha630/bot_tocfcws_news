@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220525wsl-end-of-season-awards-announc",
+      "type": "NewsCard",
+      "timestamp": "2022-05-25T09:00:00.000Z",
+      "orderDate": "2022-05-25T09:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/25/wsl-end-of-season-awards-announced",
+        "type": "NewsCard",
+        "title": "Emma Hayes wins WSL Manager of the Season for third successive year",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/wsl-end-of-season-awards-announced.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-25T09:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/25/wsl-end-of-season-awards-announced",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Emma-Hayes-WSL-trophy",
+          "gravity": "auto",
+          "aspectRatio": 1.5021577,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emma Hayes wins WSL Manager of the Season for third successive year",
+      "publishDate": "2022-05-25T09:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/wsl-end-of-season-awards-announced.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Women's Super League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_ladies-competitions_wsl"
+        },
+        {
+          "title": "Emma Hayes",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_manager_emma-hayes"
+        }
+      ],
+      "date": "2022-05-25T09:00:00.000Z",
+      "description": "Emma Hayes has been named as the Barclays FA Women’s Super League Manager of the Season for 2021/22."
+    },
+    {
       "contentType": "Interview",
       "id": "_content_chelseafcennews20220525tuchel-discusses-need-to-be-fast",
       "type": "NewsCard",
@@ -506,49 +559,6 @@
       "date": "2022-05-23T06:00:00.000Z",
       "description": "Mason Mount had more than just the victory and the manner it was achieved to discuss after Sunday’s final game of the season against Watford.",
       "matchId": 2210645
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220523osgood-award-given-to-foundation",
-      "type": "NewsCard",
-      "timestamp": "2022-05-23T11:00:00.000Z",
-      "orderDate": "2022-05-23T03:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/23/osgood-award-given-to-foundation-officer-for-tireless-work-durin",
-        "type": "NewsCard",
-        "title": "Osgood Award given to Foundation officer for tireless work during pandemic",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/osgood-award-given-to-foundation-officer-for-tireless-work-durin.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-23T11:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/23/osgood-award-given-to-foundation-officer-for-tireless-work-durin",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ellie Lock",
-          "id": "editorial/news/2022/05/23/Ellie-Lock-Osgood-award",
-          "gravity": "center",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Osgood Award given to Foundation officer for tireless work during pandemic",
-      "publishDate": "2022-05-23T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/23/osgood-award-given-to-foundation-officer-for-tireless-work-durin.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-05-23T11:00:00.000Z",
-      "description": "This year's Peter Osgood Award was presented to Ellie Lock by Osgood's widow Lynn prior to our final match of the season, against Watford."
     }
   ]
 }
