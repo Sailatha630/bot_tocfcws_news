@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220526round-two-of-the-chelsea-goal-of",
+      "type": "NewsCard",
+      "timestamp": "2022-05-26T03:10:00.000Z",
+      "orderDate": "2022-05-26T03:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/26/round-two-of-the-chelsea-goal-of-the-season-vote-begins-",
+        "type": "NewsCard",
+        "title": "Round two of Chelsea Goal of the Season vote - Chalobah vs Cuthbert",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/26/round-two-of-the-chelsea-goal-of-the-season-vote-begins-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-26T03:10:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/26/round-two-of-the-chelsea-goal-of-the-season-vote-begins-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Goal of the Season graphic",
+          "id": "editorial/news/2022/05/24/Goal_of-the_season_2021_22",
+          "gravity": "auto",
+          "aspectRatio": 2.207495,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Round two of Chelsea Goal of the Season vote - Chalobah vs Cuthbert",
+      "publishDate": "2022-05-26T03:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/26/round-two-of-the-chelsea-goal-of-the-season-vote-begins-.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Trevoh Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
+        },
+        {
+          "title": "Goal of the season",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-season"
+        }
+      ],
+      "date": "2022-05-26T03:10:00.000Z",
+      "description": "The voting for the 2021/22 Chelsea Goal of the Season continues with two more strikes for supporters to pick from in the second of our quarter-finals today."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220525kovacic-volley-shortlisted-for-p",
       "type": "NewsCard",
@@ -437,64 +485,6 @@
       "tags": [],
       "date": "2022-05-25T14:23:00.000Z",
       "description": "Chelsea FC Foundation has been working with a number of young people to form and build youth voice consultation groups."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220524chelsea-players-selected-in-engl",
-      "type": "NewsCard",
-      "timestamp": "2022-05-24T13:00:00.000Z",
-      "orderDate": "2022-05-24T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/24/chelsea-players-selected-in-england-squad",
-        "type": "NewsCard",
-        "title": "Chelsea trio selected in England squad",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/24/chelsea-players-selected-in-england-squad.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-24T13:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/24/chelsea-players-selected-in-england-squad",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Mason Mount and Reece James",
-          "id": "editorial/news/2022/05/24/mount-reece-james-cobham",
-          "gravity": "auto",
-          "aspectRatio": 1.6544402,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea trio selected in England squad",
-      "publishDate": "2022-05-24T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/24/chelsea-players-selected-in-england-squad.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Reece James",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_reece-james"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mason Mount",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mason-mount"
-        },
-        {
-          "title": "Internationals",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_internationals"
-        }
-      ],
-      "date": "2022-05-24T13:00:00.000Z",
-      "description": "Mason Mount, Reece James and Conor Gallagher have been named in Gareth Southgate’s England squad for the start of the Three Lions’ Nations League campaign next week."
     }
   ]
 }
