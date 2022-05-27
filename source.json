@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220527chelsea-goal-of-the-season-vote-",
+      "type": "NewsCard",
+      "timestamp": "2022-05-27T03:00:00.000Z",
+      "orderDate": "2022-05-27T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/27/chelsea-goal-of-the-season-vote-continues-",
+        "type": "NewsCard",
+        "title": "Chelsea Goal of the Season vote continues - Kerr v Rudiger",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/27/chelsea-goal-of-the-season-vote-continues-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-27T03:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/27/chelsea-goal-of-the-season-vote-continues-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "GOTS",
+          "id": "editorial/news/2022/05/24/Goal_of-the_season_2021_22",
+          "gravity": "auto",
+          "aspectRatio": 2.207495,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Goal of the Season vote continues - Kerr v Rudiger",
+      "publishDate": "2022-05-27T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/27/chelsea-goal-of-the-season-vote-continues-.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Pernille Harder",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_pernille-harder"
+        },
+        {
+          "title": "Antonio Rudiger",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_antonio-rudiger"
+        },
+        {
+          "title": "Goal of the season",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-season"
+        }
+      ],
+      "date": "2022-05-27T03:00:00.000Z",
+      "description": "There are two more great Blues strikes for you to choose from today in the third of our Chelsea Goal of the Season quarter-finals."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220526gallery--mendy-meets-ronaldo-and",
       "type": "NewsCard",
@@ -472,54 +525,6 @@
       ],
       "date": "2022-05-25T14:30:00.000Z",
       "description": "After three years as head coach of the Chelsea development squad, Andy Myers will move to a new role as loan player technical coach this summer."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220525mendy-nominated-for-premier-leag",
-      "type": "NewsCard",
-      "timestamp": "2022-05-25T11:00:00.000Z",
-      "orderDate": "2022-05-25T08:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/25/mendy-nominated-for-premier-league-save-of-the-season",
-        "type": "NewsCard",
-        "title": "Mendy nominated for Premier League Save of the Season",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/mendy-nominated-for-premier-league-save-of-the-season.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-25T11:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/25/mendy-nominated-for-premier-league-save-of-the-season",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/match-reports/2021-22/brentford-away/Mendy_GettyImages-1346936147",
-          "gravity": "auto",
-          "aspectRatio": 1.5005002,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mendy nominated for Premier League Save of the Season",
-      "publishDate": "2022-05-25T11:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/mendy-nominated-for-premier-league-save-of-the-season.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Edouard Mendy ",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_edouard-mendy-"
-        }
-      ],
-      "date": "2022-05-25T11:00:00.000Z",
-      "description": "Edouard Mendy’s fingertip stop against Brentford has made the shortlist for the Premier League’s Save of the Season award."
     }
   ]
 }
