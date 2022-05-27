@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20220527gallery--the-chelsea-players-as-",
+      "type": "NewsCard",
+      "timestamp": "2022-05-27T12:00:00.000Z",
+      "orderDate": "2022-05-27T12:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/27/gallery--the-chelsea-players-as-you-have-never-seen-them-before",
+        "type": "NewsCard",
+        "title": "Gallery: The Chelsea players as you have never seen them before",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/27/gallery--the-chelsea-players-as-you-have-never-seen-them-before.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-27T12:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/27/gallery--the-chelsea-players-as-you-have-never-seen-them-before",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Thomas Tuchel and Mason Mount",
+          "id": "editorial/news/2022/05/25/dressing-room-shots-12-tuchel-mount",
+          "gravity": "auto",
+          "aspectRatio": 1.3710136,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: The Chelsea players as you have never seen them before",
+      "publishDate": "2022-05-27T12:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/27/gallery--the-chelsea-players-as-you-have-never-seen-them-before.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Photos",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_photos"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-05-27T12:00:00.000Z",
+      "description": "The inner sanctum of the dressing room on matchday is usually reserved for players and staff, but we were given exclusive access to go behind the curtain for our last game of the season, against Watford."
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220527chelsea-goal-of-the-season-vote-",
       "type": "NewsCard",
@@ -477,54 +525,6 @@
       ],
       "date": "2022-05-25T09:30:00.000Z",
       "description": "A long campaign came to a close at the weekend with a number of awards presented at our men’s team’s final game at Stamford Bridge, but there is still one left to decide – the winner of the 2021/22 Chelsea Goal of the Season."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220525myers-moves-into-new-coaching-ro",
-      "type": "NewsCard",
-      "timestamp": "2022-05-25T14:30:00.000Z",
-      "orderDate": "2022-05-25T09:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/25/myers-moves-into-new-coaching-role",
-        "type": "NewsCard",
-        "title": "Myers moves into new coaching role",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/myers-moves-into-new-coaching-role.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-25T14:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/25/myers-moves-into-new-coaching-role",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/01/07/Andy-Myers-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.4997001,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Myers moves into new coaching role",
-      "publishDate": "2022-05-25T14:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/myers-moves-into-new-coaching-role.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2022-05-25T14:30:00.000Z",
-      "description": "After three years as head coach of the Chelsea development squad, Andy Myers will move to a new role as loan player technical coach this summer."
     }
   ]
 }
