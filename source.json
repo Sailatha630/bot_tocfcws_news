@@ -9,6 +9,44 @@
   "newsFeed": [
     {
       "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20220528statement-from-roman-abramovich-",
+      "type": "NewsCard",
+      "timestamp": "2022-05-28T10:59:00.000Z",
+      "orderDate": "2022-05-28T10:59:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/28/statement-from-roman-abramovich-",
+        "type": "NewsCard",
+        "title": "Statement from Roman Abramovich ",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/28/statement-from-roman-abramovich-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-28T10:59:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/28/statement-from-roman-abramovich-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/news/2022/01/31/stadium_view_harding_stand_banner",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        },
+        "caption": " "
+      },
+      "content": "Statement from Roman Abramovich ",
+      "publishDate": "2022-05-28T10:59:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/28/statement-from-roman-abramovich-.html",
+      "readTimeInMins": 4,
+      "tags": [],
+      "date": "2022-05-28T10:59:00.000Z",
+      "description": "It has been nearly three months since I announced my intention to sell Chelsea FC. During this time, the team have worked hard to find the right custodian for Chelsea FC that would be best positioned to successfully lead the Club into its next chapter."
+    },
+    {
+      "contentType": "Club Statements",
       "id": "_content_chelseafcennews20220528club-statement",
       "type": "NewsCard",
       "timestamp": "2022-05-28T08:00:00.000Z",
@@ -455,59 +493,6 @@
       ],
       "date": "2022-05-26T08:05:00.000Z",
       "description": "Chelsea Football Club and N’Golo Kante have both been honoured by the World Sport Organisation in the Football Reputation Awards."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220525kovacic-volley-shortlisted-for-p",
-      "type": "NewsCard",
-      "timestamp": "2022-05-25T13:00:00.000Z",
-      "orderDate": "2022-05-25T13:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/25/kovacic-volley-shortlisted-for-premier-league-goal-of-the-season",
-        "type": "NewsCard",
-        "title": "Kovacic volley shortlisted for Premier League Goal of the Season",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/kovacic-volley-shortlisted-for-premier-league-goal-of-the-season.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-25T13:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/25/kovacic-volley-shortlisted-for-premier-league-goal-of-the-season",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2021/01/02/Kovacic_GettyImages-1362389733",
-          "gravity": "auto",
-          "aspectRatio": 1.4673913,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kovacic volley shortlisted for Premier League Goal of the Season",
-      "publishDate": "2022-05-25T13:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/kovacic-volley-shortlisted-for-premier-league-goal-of-the-season.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2022-05-25T13:00:00.000Z",
-      "description": "Mateo Kovacic’s brilliant volley against Liverpool has been nominated for the Premier League’s Goal of the Season award."
     }
   ]
 }
