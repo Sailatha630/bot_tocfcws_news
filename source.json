@@ -8,6 +8,43 @@
   },
   "newsFeed": [
     {
+      "contentType": "Club Statements",
+      "id": "_content_chelseafcennews20220528club-statement",
+      "type": "NewsCard",
+      "timestamp": "2022-05-28T08:00:00.000Z",
+      "orderDate": "2022-05-28T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/28/club-statement",
+        "type": "NewsCard",
+        "title": "Club statement",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/28/club-statement.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-28T08:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/28/club-statement",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Club badge",
+          "id": "editorial/news/2021/01/25/transparent_club_badge_crest_logo_chelsea",
+          "gravity": "auto",
+          "aspectRatio": 1.9666667,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Club statement",
+      "publishDate": "2022-05-28T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/28/club-statement.html",
+      "readTimeInMins": 4,
+      "tags": [],
+      "date": "2022-05-28T08:00:00.000Z",
+      "description": "The following statement has been published..."
+    },
+    {
       "contentType": "Competitions",
       "id": "_content_chelseafcennews20220528last-chance-to-vote-in-chelsea-g",
       "type": "NewsCard",
@@ -471,54 +508,6 @@
       ],
       "date": "2022-05-25T13:00:00.000Z",
       "description": "Mateo Kovacic’s brilliant volley against Liverpool has been nominated for the Premier League’s Goal of the Season award."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220525mark-robinson-named-chelsea-deve",
-      "type": "NewsCard",
-      "timestamp": "2022-05-25T17:30:00.000Z",
-      "orderDate": "2022-05-25T09:50:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/25/mark-robinson-named-chelsea-development-squad-head-coach",
-        "type": "NewsCard",
-        "title": "Mark Robinson named Chelsea development squad head coach",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/mark-robinson-named-chelsea-development-squad-head-coach.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-25T17:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/25/mark-robinson-named-chelsea-development-squad-head-coach",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/news/2022/05/25/Mark-Robinson-stock",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Mark Robinson named Chelsea development squad head coach",
-      "publishDate": "2022-05-25T17:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/25/mark-robinson-named-chelsea-development-squad-head-coach.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2022-05-25T17:30:00.000Z",
-      "description": "Mark Robinson has been appointed head coach of the Chelsea development squad."
     }
   ]
 }
