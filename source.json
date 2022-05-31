@@ -208,6 +208,48 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20220531chelsea-foundation-represented-a",
+      "type": "NewsCard",
+      "timestamp": "2022-05-31T14:00:00.000Z",
+      "orderDate": "2022-05-30T14:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/31/chelsea-foundation-represented-at-national-premier-league-primar",
+        "type": "NewsCard",
+        "title": "Chelsea Foundation represented at National Premier League Primary Stars Tournament",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/31/chelsea-foundation-represented-at-national-premier-league-primar.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-31T14:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/31/chelsea-foundation-represented-at-national-premier-league-primar",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Foundation-PLPS-tournament",
+          "gravity": "auto",
+          "aspectRatio": 0.75041324,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Foundation represented at National Premier League Primary Stars Tournament",
+      "publishDate": "2022-05-31T14:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/31/chelsea-foundation-represented-at-national-premier-league-primar.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2022-05-31T14:00:00.000Z",
+      "description": "Two schools represented Chelsea FC Foundation at the tournament held at Vicarage Road earlier this month."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20220530mount-meets-f1-stars-at-monaco-g",
       "type": "NewsCard",
       "timestamp": "2022-05-30T15:41:00.000Z",
@@ -445,54 +487,6 @@
       "date": "2022-05-29T03:00:00.000Z",
       "description": "We all know the outcome. We all remember Kai passing it into an empty net, Mahrez shooting over, Azpi hoisting the famous trophy aloft in the Porto sky. But on the first anniversary of our second Champions League triumph, can you place the game's key events in the order they happened?",
       "matchId": 2197699
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220529semi-finals-begin-for-chelsea-go",
-      "type": "NewsCard",
-      "timestamp": "2022-05-29T00:00:00.000Z",
-      "orderDate": "2022-05-29T00:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/29/semi-finals-begin-for-chelsea-goal-of-the-season",
-        "type": "NewsCard",
-        "title": "Semi-finals begin for Chelsea Goal of the Season",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/29/semi-finals-begin-for-chelsea-goal-of-the-season.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-29T00:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/29/semi-finals-begin-for-chelsea-goal-of-the-season",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "  ",
-          "id": "editorial/news/2022/05/24/Goal_of-the_season_2021_22",
-          "gravity": "auto",
-          "aspectRatio": 2.207495,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Semi-finals begin for Chelsea Goal of the Season",
-      "publishDate": "2022-05-29T00:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/29/semi-finals-begin-for-chelsea-goal-of-the-season.html",
-      "readTimeInMins": 12,
-      "tags": [
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        },
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2022-05-29T00:00:00.000Z",
-      "description": "The original eight-goal shortlist has been whittled down to four by supporters voting for the top Chelsea strike of 2021/22 and now it is time to choose which will be the first of the finalists."
     }
   ]
 }
