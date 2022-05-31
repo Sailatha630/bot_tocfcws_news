@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220531chelsea-goal-of-the-season-final",
+      "type": "NewsCard",
+      "timestamp": "2022-05-31T03:00:00.000Z",
+      "orderDate": "2022-05-31T03:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/31/chelsea-goal-of-the-season-final",
+        "type": "NewsCard",
+        "title": "Chelsea Goal of the Season Final - Kovacic vs Vale",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/31/chelsea-goal-of-the-season-final.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-31T03:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/05/31/chelsea-goal-of-the-season-final",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/news/2022/05/24/Goal_of-the_season_2021_22",
+          "gravity": "auto",
+          "aspectRatio": 2.207495,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea Goal of the Season Final - Kovacic vs Vale",
+      "publishDate": "2022-05-31T03:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/31/chelsea-goal-of-the-season-final.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Harvey Vale",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_harvey-vale"
+        },
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Goal of the season",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-season"
+        }
+      ],
+      "date": "2022-05-31T03:00:00.000Z",
+      "description": "It all comes down to this - two players remaining and one last vote to decide the winner of the 2021/22 Chelsea Goal of the Season award."
+    },
+    {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20220530consortium-led-by-todd-boehly-an",
       "type": "NewsCard",
@@ -406,43 +459,6 @@
       "tags": [],
       "date": "2022-05-28T10:59:00.000Z",
       "description": "It has been nearly three months since I announced my intention to sell Chelsea FC. During this time, the team have worked hard to find the right custodian for Chelsea FC that would be best positioned to successfully lead the Club into its next chapter."
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20220528club-statement",
-      "type": "NewsCard",
-      "timestamp": "2022-05-28T08:00:00.000Z",
-      "orderDate": "2022-05-28T08:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/28/club-statement",
-        "type": "NewsCard",
-        "title": "Club statement",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/28/club-statement.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-28T08:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/28/club-statement",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Club badge",
-          "id": "editorial/news/2021/01/25/transparent_club_badge_crest_logo_chelsea",
-          "gravity": "auto",
-          "aspectRatio": 1.9666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Club statement",
-      "publishDate": "2022-05-28T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/28/club-statement.html",
-      "readTimeInMins": 4,
-      "tags": [],
-      "date": "2022-05-28T08:00:00.000Z",
-      "description": "The following statement has been published..."
     }
   ]
 }
