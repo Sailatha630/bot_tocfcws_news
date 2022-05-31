@@ -8,6 +8,43 @@
   },
   "newsFeed": [
     {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20220531welcome-back-to-stamford-bridge-",
+      "type": "NewsCard",
+      "timestamp": "2022-05-31T16:20:00.000Z",
+      "orderDate": "2022-05-31T16:20:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/05/31/welcome-back-to-stamford-bridge-",
+        "type": "NewsCard",
+        "title": "Welcome back to Stamford Bridge!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/31/welcome-back-to-stamford-bridge-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-05-31T16:20:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/05/31/welcome-back-to-stamford-bridge-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "Stamford Bridge",
+          "id": "editorial/news/2022/05/31/Re-Opening-stamford_bridge-article",
+          "gravity": "center",
+          "aspectRatio": 2.2076924,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Welcome back to Stamford Bridge!",
+      "publishDate": "2022-05-31T16:20:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/31/welcome-back-to-stamford-bridge-.html",
+      "readTimeInMins": 3,
+      "tags": [],
+      "date": "2022-05-31T16:20:00.000Z",
+      "description": "Chelsea Football Club is pleased to announce we are reopening the doors at Stamford Bridge for visitors to the Megastore, our Tours and Museum, Frankie’s and the Copthorne and Millennium Hotels. The online store is back up and running too!"
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20220531internationals--which-chelsea-pl",
       "type": "NewsCard",
@@ -433,59 +470,6 @@
       ],
       "date": "2022-05-30T13:50:00.000Z",
       "description": "Chelsea’s 2-1 win over Watford brought an end to a rigorous season for Chelsea, with both the men’s and women’s team competing on all fronts over the past nine or 10 months."
-    },
-    {
-      "contentType": "On Loan",
-      "id": "_content_chelseafcennews20220529colwill-play-off-final-report",
-      "type": "NewsCard",
-      "timestamp": "2022-05-29T17:39:00.000Z",
-      "orderDate": "2022-05-29T17:39:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/29/colwill-play-off-final-report",
-        "type": "NewsCard",
-        "title": "Huddersfield and Colwill beaten in Championship play-off final ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/29/colwill-play-off-final-report.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-29T17:39:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/05/29/colwill-play-off-final-report",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Levi Colwill",
-          "id": "editorial/news/2022/05/29/colwill-play-off-final",
-          "gravity": "north",
-          "aspectRatio": 1.644959,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Huddersfield and Colwill beaten in Championship play-off final ",
-      "publishDate": "2022-05-29T17:39:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/29/colwill-play-off-final-report.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Loan Highlights",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_loan-highlights"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2022-05-29T17:39:00.000Z",
-      "description": "Levi Colwill suffered the misfortune of putting through his own net against Nottingham Forest in the Championship play-off final at Wembley today, ending Huddersfield’s hopes of returning to the Premier League."
     }
   ]
 }
