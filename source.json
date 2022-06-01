@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220601kovacic-wins-chelsea-goal-of-the",
+      "type": "NewsCard",
+      "timestamp": "2022-06-01T00:16:00.000Z",
+      "orderDate": "2022-06-01T00:16:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/01/kovacic-wins-chelsea-goal-of-the-season",
+        "type": "NewsCard",
+        "title": "Kovacic wins Chelsea Goal of the Season",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/01/kovacic-wins-chelsea-goal-of-the-season.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-01T00:16:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/01/kovacic-wins-chelsea-goal-of-the-season",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Kovacic",
+          "id": "editorial/news/2021/01/02/Kovacic_GettyImages-1362389754",
+          "gravity": "south",
+          "aspectRatio": 1.488,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kovacic wins Chelsea Goal of the Season",
+      "publishDate": "2022-06-01T00:16:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/01/kovacic-wins-chelsea-goal-of-the-season.html",
+      "readTimeInMins": 10,
+      "tags": [
+        {
+          "title": "Mateo Kovacic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mateo-kovacic"
+        },
+        {
+          "title": "Goal of the season",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_goal-of-the-season"
+        }
+      ],
+      "date": "2022-06-01T00:16:00.000Z",
+      "description": "Mateo Kovacic’s sweet volley against Liverpool has been chosen by supporters as Chelsea’s 2021/22 Goal of the Season."
+    },
+    {
       "contentType": "Stamford Bridge",
       "id": "_content_chelseafcennews20220531welcome-back-to-stamford-bridge-",
       "type": "NewsCard",
@@ -427,49 +475,6 @@
       ],
       "date": "2022-05-30T03:00:00.000Z",
       "description": "We now know the first finalist in the 21/22 Chelsea Goal of the Season contest and today, fans can decide which quality strike will join it for the ultimate vote."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220530play-predictor--the-final-whistl",
-      "type": "NewsCard",
-      "timestamp": "2022-05-30T13:50:00.000Z",
-      "orderDate": "2022-05-30T02:17:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/05/30/play-predictor--the-final-whistle",
-        "type": "NewsCard",
-        "title": "Play Predictor: The Final Whistle",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/30/play-predictor--the-final-whistle.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-05-30T13:50:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/05/30/play-predictor--the-final-whistle",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Play Predictor logo",
-          "id": "editorial/news/2022/05/30/Play_Predictor_Wrapped_Finals",
-          "gravity": "auto",
-          "aspectRatio": 2.207495,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Play Predictor: The Final Whistle",
-      "publishDate": "2022-05-30T13:50:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/05/30/play-predictor--the-final-whistle.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Play Predictor",
-          "namespace": "content-tag:",
-          "id": "content-tag_features_play-predictor"
-        }
-      ],
-      "date": "2022-05-30T13:50:00.000Z",
-      "description": "Chelsea’s 2-1 win over Watford brought an end to a rigorous season for Chelsea, with both the men’s and women’s team competing on all fronts over the past nine or 10 months."
     }
   ]
 }
