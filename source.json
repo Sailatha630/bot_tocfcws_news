@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220608french-defender-eve-perisset-sig",
+      "type": "NewsCard",
+      "timestamp": "2022-06-08T08:30:00.000Z",
+      "orderDate": "2022-06-08T08:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/08/french-defender-eve-perisset-signs-for-chelsea-women",
+        "type": "NewsCard",
+        "title": "French defender Ève Perisset signs for Chelsea Women",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/08/french-defender-eve-perisset-signs-for-chelsea-women.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-08T08:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/08/french-defender-eve-perisset-signs-for-chelsea-women",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Eve_Perisett_signing",
+          "gravity": "auto",
+          "aspectRatio": 1.5002872,
+          "cropMode": "fill"
+        }
+      },
+      "content": "French defender Ève Perisset signs for Chelsea Women",
+      "publishDate": "2022-06-08T08:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/08/french-defender-eve-perisset-signs-for-chelsea-women.html",
+      "readTimeInMins": 7,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        },
+        {
+          "title": "Eve Perisset",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_women_eve-perisset"
+        }
+      ],
+      "date": "2022-06-08T08:30:00.000Z",
+      "description": "Chelsea FC Women are delighted to announce the signing of French international Ève Perisset on a three-year deal ahead of the 2022/23 season."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20220607internationals--england-leave-it",
       "type": "NewsCard",
@@ -429,54 +477,6 @@
       ],
       "date": "2022-06-06T11:20:00.000Z",
       "description": "Earlier this year, official Chelsea Football Club partner trivago supported the Chelsea Foundation and its female participants in the Goal Getters programme, promoting positive female role models under the theme of allyship."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220605chelsea-2021-22-post-season-brie",
-      "type": "NewsCard",
-      "timestamp": "2022-06-05T05:30:00.000Z",
-      "orderDate": "2022-06-05T05:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/05/chelsea-2021-22-post-season-briefing---part-one-",
-        "type": "NewsCard",
-        "title": "Chelsea 2021/22 Post-Season Briefing – part one ",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/05/chelsea-2021-22-post-season-briefing---part-one-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-05T05:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/05/chelsea-2021-22-post-season-briefing---part-one-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Club World Cup",
-          "id": "editorial/news/2022/06/05/club-world-cup-trophy-lift",
-          "gravity": "auto",
-          "aspectRatio": 1.5758743,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea 2021/22 Post-Season Briefing – part one ",
-      "publishDate": "2022-06-05T05:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/05/chelsea-2021-22-post-season-briefing---part-one-.html",
-      "readTimeInMins": 39,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2022-06-05T05:30:00.000Z",
-      "description": "Having previewed and chronicled our games throughout 2021/22, it is time for club historian Rick Glanvill and club statistician Paul Dutton to share final thoughts, records and statistics from a campaign that won’t be forgotten in a hurry…"
     }
   ]
 }
