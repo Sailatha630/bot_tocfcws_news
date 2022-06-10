@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220610kadeisha-buchanan-joins-chelsea-",
+      "type": "NewsCard",
+      "timestamp": "2022-06-10T08:30:00.000Z",
+      "orderDate": "2022-06-10T08:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women",
+        "type": "NewsCard",
+        "title": "Kadeisha Buchanan joins Chelsea FC Women",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-10T08:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Buchanan_signing",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Kadeisha Buchanan joins Chelsea FC Women",
+      "publishDate": "2022-06-10T08:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-06-10T08:30:00.000Z",
+      "description": "Chelsea FC Women are delighted to confirm the signing of Canadian defender Kadeisha Buchanan on a three-year deal ahead of the 2022/23 season."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20220609azpilicueta-helps-spain-defeat-s",
       "type": "NewsCard",
@@ -446,42 +489,6 @@
       ],
       "date": "2022-06-08T09:25:00.000Z",
       "description": "Saul Niguez will return to Atletico Madrid following the completion of his one-year loan spell at Chelsea."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220608eric-asiedu---rest-in-peace",
-      "type": "NewsCard",
-      "timestamp": "2022-06-08T10:00:00.000Z",
-      "orderDate": "2022-06-08T03:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/08/eric-asiedu---rest-in-peace",
-        "type": "NewsCard",
-        "title": "Eric Asiedu – rest in peace",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/08/eric-asiedu---rest-in-peace.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-08T10:00:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/08/eric-asiedu---rest-in-peace",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/06/08/Eric-Asiedu-1",
-          "gravity": "auto",
-          "aspectRatio": 1.50015,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Eric Asiedu – rest in peace",
-      "publishDate": "2022-06-08T10:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/08/eric-asiedu---rest-in-peace.html",
-      "readTimeInMins": 5,
-      "tags": [],
-      "date": "2022-06-08T10:00:00.000Z",
-      "description": "It is with great sadness that Chelsea Football Club has learned of the passing of our colleague Eric Asiedu."
     }
   ]
 }
