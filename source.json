@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220613gilmour-contract-extended",
+      "type": "NewsCard",
+      "timestamp": "2022-06-13T11:30:00.000Z",
+      "orderDate": "2022-06-13T11:30:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/13/gilmour-contract-extended",
+        "type": "NewsCard",
+        "title": "Gilmour contract extended",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/13/gilmour-contract-extended.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-13T11:30:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/13/gilmour-contract-extended",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Billy Gilmour",
+          "id": "editorial/news/2022/06/13/billy-gilmour-chelsea-stock",
+          "gravity": "face",
+          "aspectRatio": 0.6863287,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gilmour contract extended",
+      "publishDate": "2022-06-13T11:30:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/13/gilmour-contract-extended.html",
+      "readTimeInMins": 6,
+      "tags": [
+        {
+          "title": "Billy Gilmour",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_billy-gilmour"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-06-13T11:30:00.000Z",
+      "description": "Chelsea Football Club has exercised an option to extend Billy Gilmour’s contract until 2024."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220613chelsea-top-appearance-makers-an",
       "type": "NewsCard",
@@ -486,49 +534,6 @@
       ],
       "date": "2022-06-10T12:00:00.000Z",
       "description": "Next up in our player-by-player season reviews is Edouard Mendy, the goalkeeper who enjoyed another impressive campaign between the posts at club level and even became continental champion in Africa…"
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220610kadeisha-buchanan-joins-chelsea-",
-      "type": "NewsCard",
-      "timestamp": "2022-06-10T08:30:00.000Z",
-      "orderDate": "2022-06-10T08:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women",
-        "type": "NewsCard",
-        "title": "Kadeisha Buchanan joins Chelsea FC Women",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-10T08:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "editorial/women's-team/Buchanan_signing",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Kadeisha Buchanan joins Chelsea FC Women",
-      "publishDate": "2022-06-10T08:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Women",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_women"
-        }
-      ],
-      "date": "2022-06-10T08:30:00.000Z",
-      "description": "Chelsea FC Women are delighted to confirm the signing of Canadian defender Kadeisha Buchanan on a three-year deal ahead of the 2022/23 season."
     }
   ]
 }
