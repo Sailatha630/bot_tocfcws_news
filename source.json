@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Tickets",
+      "id": "_content_chelseafcennews20220615ticketing--club-membership--west",
+      "type": "NewsCard",
+      "timestamp": "2022-06-15T13:55:00.000Z",
+      "orderDate": "2022-06-15T13:55:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/15/ticketing--club-membership--westview-and-club-chelsea-renewal-ne",
+        "type": "NewsCard",
+        "title": "Ticketing, Club Membership, Westview and Club Chelsea renewal news",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/15/ticketing--club-membership--westview-and-club-chelsea-renewal-ne.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-15T13:55:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/15/ticketing--club-membership--westview-and-club-chelsea-renewal-ne",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Stamford Bridge aerial",
+          "id": "editorial/stadium-views/stamford_bridge_-_aerial_view_5",
+          "gravity": "auto",
+          "aspectRatio": 1.7777778,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Ticketing, Club Membership, Westview and Club Chelsea renewal news",
+      "publishDate": "2022-06-15T13:55:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/15/ticketing--club-membership--westview-and-club-chelsea-renewal-ne.html",
+      "readTimeInMins": 3,
+      "tags": [
+        {
+          "title": "Tickets",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_tickets"
+        },
+        {
+          "title": "Memberships",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_memberships"
+        }
+      ],
+      "date": "2022-06-15T13:55:00.000Z",
+      "description": "- General admission ticket prices remain at 2021/2022 levels - Booking fees removed - Westview prices for 2022/2023 season now being reduced in select areas - Chelsea FC Memberships for 2022/23 available to purchase from 4 July"
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220615internationals--pulisic-and-usa-",
       "type": "NewsCard",
@@ -441,54 +489,6 @@
       ],
       "date": "2022-06-13T11:30:00.000Z",
       "description": "Chelsea Football Club has exercised an option to extend Billy Gilmour’s contract until 2024."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220613chelsea-top-appearance-makers-an",
-      "type": "NewsCard",
-      "timestamp": "2022-06-13T08:40:00.000Z",
-      "orderDate": "2022-06-13T08:40:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/13/chelsea-top-appearance-makers-and-milestones-in-2021-22",
-        "type": "NewsCard",
-        "title": "Chelsea top appearance makers and milestones in 2021/22",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/13/chelsea-top-appearance-makers-and-milestones-in-2021-22.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-13T08:40:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/13/chelsea-top-appearance-makers-and-milestones-in-2021-22",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Bridge",
-          "id": "editorial/news/2022/06/06/Watford_Celebration_CFC_Chelsea_v_W_35643",
-          "gravity": "south",
-          "aspectRatio": 1.4514838,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea top appearance makers and milestones in 2021/22",
-      "publishDate": "2022-06-13T08:40:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/13/chelsea-top-appearance-makers-and-milestones-in-2021-22.html",
-      "readTimeInMins": 15,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Statistics",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_statistics"
-        }
-      ],
-      "date": "2022-06-13T08:40:00.000Z",
-      "description": "Our review of the key facts and figures from the 2021/22 season continues with a look at which players made the most appearances during the course of the campaign and which milestones they surpassed..."
     }
   ]
 }
