@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220616chelsea-s-2022-23-premier-league",
+      "type": "NewsCard",
+      "timestamp": "2022-06-16T08:00:00.000Z",
+      "orderDate": "2022-06-16T08:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/16/chelsea-s-2022-23-premier-league-fixtures-announced",
+        "type": "NewsCard",
+        "title": "Chelsea's 2022/23 Premier League fixtures announced",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/16/chelsea-s-2022-23-premier-league-fixtures-announced.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-16T08:00:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/16/chelsea-s-2022-23-premier-league-fixtures-announced",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Chelsea badge banner",
+          "id": "editorial/news/2022/06/14/chelsea_badge_banner",
+          "gravity": "north",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Chelsea's 2022/23 Premier League fixtures announced",
+      "publishDate": "2022-06-16T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/16/chelsea-s-2022-23-premier-league-fixtures-announced.html",
+      "readTimeInMins": 29,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        }
+      ],
+      "date": "2022-06-16T08:00:00.000Z",
+      "description": "Following the release of the fixtures for the 2022/23 Premier League season, we have all the details on who Chelsea are playing where and when..."
+    },
+    {
       "contentType": "Tickets",
       "id": "_content_chelseafcennews20220615ticketing--club-membership--west",
       "type": "NewsCard",
@@ -441,54 +484,6 @@
       ],
       "date": "2022-06-13T21:00:00.000Z",
       "description": "A Croatia side featuring Mateo Kovacic secured a historic victory against France in Paris tonight to move five points clear of their opponents in UEFA Nations League Group A1."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220613gilmour-contract-extended",
-      "type": "NewsCard",
-      "timestamp": "2022-06-13T11:30:00.000Z",
-      "orderDate": "2022-06-13T11:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/13/gilmour-contract-extended",
-        "type": "NewsCard",
-        "title": "Gilmour contract extended",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/13/gilmour-contract-extended.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-13T11:30:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/13/gilmour-contract-extended",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Billy Gilmour",
-          "id": "editorial/news/2022/06/13/billy-gilmour-chelsea-stock",
-          "gravity": "face",
-          "aspectRatio": 0.6863287,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gilmour contract extended",
-      "publishDate": "2022-06-13T11:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/13/gilmour-contract-extended.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Billy Gilmour",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_billy-gilmour"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-06-13T11:30:00.000Z",
-      "description": "Chelsea Football Club has exercised an option to extend Billy Gilmour’s contract until 2024."
     }
   ]
 }
