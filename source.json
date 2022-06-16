@@ -8,6 +8,53 @@
   },
   "newsFeed": [
     {
+      "contentType": "Competitions",
+      "id": "_content_chelseafcennews20220616premier-league-fixture-release-d",
+      "type": "NewsCard",
+      "timestamp": "2022-06-16T12:29:00.000Z",
+      "orderDate": "2022-06-16T12:29:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/16/premier-league-fixture-release-day-quiz",
+        "type": "NewsCard",
+        "title": "Premier League fixture release day quiz",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/16/premier-league-fixture-release-day-quiz.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-16T12:29:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/06/16/premier-league-fixture-release-day-quiz",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/palace-home/Chalobah-goal-celebration-Palace-h",
+          "gravity": "auto",
+          "aspectRatio": 1.4994856,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Premier League fixture release day quiz",
+      "publishDate": "2022-06-16T12:29:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/16/premier-league-fixture-release-day-quiz.html",
+      "readTimeInMins": 4,
+      "tags": [
+        {
+          "title": "Premier League",
+          "namespace": "content-tag:",
+          "id": "content-tag_competition_first-team-competitions_premier-league"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-06-16T12:29:00.000Z",
+      "description": "The 2022/23 Premier League fixtures have been announced! Finding out who Chelsea will be playing and when is always an exciting day for the Blues faithful, and we have created this 10-question quiz on the history of our previous fixture schedulling for you to try..."
+    },
+    {
       "contentType": "News",
       "id": "_content_chelseafcennews20220616chelsea-s-2022-23-premier-league",
       "type": "NewsCard",
@@ -426,48 +473,6 @@
       ],
       "date": "2022-06-14T08:58:00.000Z",
       "description": "Ahead of the 2022/23 Premier League fixture schedule being published we have everything you need to know about the next campaign, which includes a break for the World Cup to be played…"
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220614chelsea-foundation-coaches-share",
-      "type": "NewsCard",
-      "timestamp": "2022-06-14T13:56:00.000Z",
-      "orderDate": "2022-06-13T23:46:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/14/chelsea-foundation-coaches-share-fa-mentee-programme-experience",
-        "type": "NewsCard",
-        "title": "Chelsea Foundation coaches share FA mentee programme experience",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/14/chelsea-foundation-coaches-share-fa-mentee-programme-experience.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-14T13:56:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/14/chelsea-foundation-coaches-share-fa-mentee-programme-experience",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/Mentors-Article",
-          "gravity": "auto",
-          "aspectRatio": 1.5606936,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Foundation coaches share FA mentee programme experience",
-      "publishDate": "2022-06-14T13:56:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/14/chelsea-foundation-coaches-share-fa-mentee-programme-experience.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-06-14T13:56:00.000Z",
-      "description": "Chelsea Foundation colleagues Tyrone Reid and Ali Speechly joined eight other coaches on the 2021/22 Mentee Development Programme and took the time to share their experiences."
     }
   ]
 }
