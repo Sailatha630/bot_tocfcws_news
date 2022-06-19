@@ -8,6 +8,53 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220619end-of-term-report--kai-havertz-",
+      "type": "NewsCard",
+      "timestamp": "2022-06-19T05:00:00.000Z",
+      "orderDate": "2022-06-19T05:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/19/end-of-term-report--kai-havertz-s-2021-22",
+        "type": "NewsCard",
+        "title": "End of term report: Kai Havertz’s 2021/22",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/19/end-of-term-report--kai-havertz-s-2021-22.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-19T05:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/06/19/end-of-term-report--kai-havertz-s-2021-22",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/match-reports/2021-22/burnley-home/burnley_home_havertz_celebration",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "End of term report: Kai Havertz’s 2021/22",
+      "publishDate": "2022-06-19T05:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/19/end-of-term-report--kai-havertz-s-2021-22.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-06-19T05:00:00.000Z",
+      "description": "The next Chelsea player to feature in our end of season reviews is Kai Havertz, who built impressively on his debut season and became a key player for Thomas Tuchel…"
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20220618international-season-for-chelsea",
       "type": "NewsCard",
@@ -438,54 +485,6 @@
       ],
       "date": "2022-06-16T08:00:00.000Z",
       "description": "Following the release of the fixtures for the 2022/23 Premier League season, we have all the details on who Chelsea are playing where and when..."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220616new-usa-fan-culture-series-the-b",
-      "type": "NewsCard",
-      "timestamp": "2022-06-16T16:00:00.000Z",
-      "orderDate": "2022-06-16T07:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/16/new-usa-fan-culture-series-the-bridge-launched-ahead-of-us-tour",
-        "type": "NewsCard",
-        "title": "New USA fan-culture series The Bridge launched ahead of US tour",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/16/new-usa-fan-culture-series-the-bridge-launched-ahead-of-us-tour.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-16T16:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/16/new-usa-fan-culture-series-the-bridge-launched-ahead-of-us-tour",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " The Bridge",
-          "id": "editorial/news/2022/06/16/the-bridge-hero-web-episode-one-words",
-          "gravity": "auto",
-          "aspectRatio": 2.2076924,
-          "cropMode": "fill"
-        }
-      },
-      "content": "New USA fan-culture series The Bridge launched ahead of US tour",
-      "publishDate": "2022-06-16T16:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/16/new-usa-fan-culture-series-the-bridge-launched-ahead-of-us-tour.html",
-      "readTimeInMins": 8,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Pre Season",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_pre-season-tour"
-        }
-      ],
-      "date": "2022-06-16T16:00:00.000Z",
-      "description": "As the Blues gear up for our visit stateside, the club paired up with photographer Mel D. Cole and Charcoal Pitch FC to explore US fan culture in Los Angeles and Miami."
     }
   ]
 }
