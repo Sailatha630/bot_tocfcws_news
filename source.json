@@ -8,6 +8,53 @@
   },
   "newsFeed": [
     {
+      "contentType": "Analysis",
+      "id": "_content_chelseafcennews20220620end-of-term-report--christian-pu",
+      "type": "NewsCard",
+      "timestamp": "2022-06-20T02:32:00.000Z",
+      "orderDate": "2022-06-20T02:32:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/20/end-of-term-report--christian-pulisic-s-2021-22",
+        "type": "NewsCard",
+        "title": "End of term report: Christian Pulisic’s 2021/22",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/20/end-of-term-report--christian-pulisic-s-2021-22.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-20T02:32:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/06/20/end-of-term-report--christian-pulisic-s-2021-22",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Pulisic-GettyImages-1372208466",
+          "gravity": "auto",
+          "aspectRatio": 1.4996673,
+          "cropMode": "fill"
+        }
+      },
+      "content": "End of term report: Christian Pulisic’s 2021/22",
+      "publishDate": "2022-06-20T02:32:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/20/end-of-term-report--christian-pulisic-s-2021-22.html",
+      "readTimeInMins": 16,
+      "tags": [
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-06-20T02:32:00.000Z",
+      "description": "As we continue our series reviewing each Chelsea player’s season just gone, Christian Pulisic is next in the spotlight..."
+    },
+    {
       "contentType": "International",
       "id": "_content_chelseafcennews20220619youth-internationals--vale-capta",
       "type": "NewsCard",
@@ -448,54 +495,6 @@
       ],
       "date": "2022-06-17T03:00:00.000Z",
       "description": "Next up in our player-by-player season reviews it is the turn of Timo Werner, as we take a closer look at his second year at Chelsea…"
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220617chelsea-academy-international-ca",
-      "type": "NewsCard",
-      "timestamp": "2022-06-17T09:08:00.000Z",
-      "orderDate": "2022-06-17T02:08:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/17/chelsea-academy-international-call-ups",
-        "type": "NewsCard",
-        "title": "Chelsea Academy international call-ups",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/17/chelsea-academy-international-call-ups.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-17T09:08:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/17/chelsea-academy-international-call-ups",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Harvey Vale ",
-          "id": "chelsea-app/Vale-GettyImages-1372731212",
-          "gravity": "auto",
-          "aspectRatio": 1.5357723,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Chelsea Academy international call-ups",
-      "publishDate": "2022-06-17T09:08:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/17/chelsea-academy-international-call-ups.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Harvey Vale",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_harvey-vale"
-        },
-        {
-          "title": "Academy",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_academy"
-        }
-      ],
-      "date": "2022-06-17T09:08:00.000Z",
-      "description": "Three of Chelsea’s Academy players have been named in the England Under-19 squad for the forthcoming European Championships at that age level."
     }
   ]
 }
