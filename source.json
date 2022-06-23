@@ -8,6 +8,48 @@
   },
   "newsFeed": [
     {
+      "contentType": "Stamford Bridge",
+      "id": "_content_chelseafcennews20220623gallery--missing-the-bridge-alre",
+      "type": "NewsCard",
+      "timestamp": "2022-06-23T00:44:00.000Z",
+      "orderDate": "2022-06-23T00:45:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/23/gallery--missing-the-bridge-already-",
+        "type": "NewsCard",
+        "title": "Gallery: Missing the Bridge already!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/23/gallery--missing-the-bridge-already-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-23T00:44:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/06/23/gallery--missing-the-bridge-already-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/news/2022/06/22/Stamford_Bridge_exterior_GettyImages-1362950727",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Missing the Bridge already!",
+      "publishDate": "2022-06-23T00:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/23/gallery--missing-the-bridge-already-.html",
+      "readTimeInMins": 18,
+      "tags": [
+        {
+          "title": "Stamford Bridge",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_stamford-bridge"
+        }
+      ],
+      "date": "2022-06-23T00:44:00.000Z",
+      "description": "It's been one month without football since the last match at Stamford Bridge and if you're anything like us you'll be itching for the next chance to watch a game in SW6."
+    },
+    {
       "contentType": "Club Statements",
       "id": "_content_chelseafcennews20220622chelsea-football-club-announces-",
       "type": "NewsCard",
@@ -425,65 +467,6 @@
       ],
       "date": "2022-06-20T08:00:00.000Z",
       "description": "Chelsea Football Club today announced that Bruce Buck, who has served as Chairman since 2003, will be stepping down from his role effective 30 June. He will continue to support the Club as a Senior Advisor."
-    },
-    {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220620feast-on-goals-",
-      "type": "NewsCard",
-      "timestamp": "2022-06-20T12:47:00.000Z",
-      "orderDate": "2022-06-20T05:47:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/20/feast-on-goals-",
-        "type": "NewsCard",
-        "title": "Feast on goals! Every men's strike of 2021/22 on video",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/20/feast-on-goals-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-20T12:47:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/20/feast-on-goals-",
-      "media": {
-        "type": "video",
-        "video": {
-          "type": "VideoCard",
-          "title": "Chelsea Men | 2021/22 | All The Goals",
-          "videoId": "W3AkNbvM",
-          "bucket": "prod-cfc",
-          "description": "Enjoy all of Chelsea men's goals, from the 2021/22 season, right here!",
-          "duration": 1538000,
-          "date": "2022-06-17T16:35:59.000Z",
-          "image": {
-            "type": "ImageGeneric",
-            "url": "https://cdn.jwplayer.com/v2/media/W3AkNbvM/poster.jpg?width=720"
-          },
-          "tags": [],
-          "targetUrl": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/20/feast-on-goals-.page.v3.json",
-          "contentType": "News",
-          "mobileTargetUrl": "https://www.chelseafc.com/en/news/2022/06/20/feast-on-goals-?mode=native",
-          "contentPath": "/content/chelseafc/en/news/2022/06/20/feast-on-goals-",
-          "requiresRegistration": false,
-          "requiresSubscription": false,
-          "showPublishDate": true,
-          "showComments": true,
-          "isCastingEnabled": false
-        },
-        "caption": "Enjoy all of Chelsea men's goals, from the 2021/22 season, right here!"
-      },
-      "content": "Feast on goals! Every men's strike of 2021/22 on video",
-      "publishDate": "2022-06-20T12:47:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/20/feast-on-goals-.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-06-20T12:47:00.000Z",
-      "description": "Here, all in one video, is the chance to view again every goal scored by our men's first team in the 2021/22 campaign."
     }
   ]
 }
