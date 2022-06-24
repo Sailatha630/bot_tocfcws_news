@@ -8,6 +8,49 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220624emma-hayes-receives-obe-at-bucki",
+      "type": "NewsCard",
+      "timestamp": "2022-06-24T11:52:00.000Z",
+      "orderDate": "2022-06-24T11:52:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/24/emma-hayes-receives-obe-at-buckingham-palace",
+        "type": "NewsCard",
+        "title": "Emma Hayes receives OBE at Buckingham Palace",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/24/emma-hayes-receives-obe-at-buckingham-palace.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-24T11:52:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/24/emma-hayes-receives-obe-at-buckingham-palace",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " ",
+          "id": "editorial/women's-team/Emma-Hayes-OBE",
+          "gravity": "auto",
+          "aspectRatio": 1.5609756,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Emma Hayes receives OBE at Buckingham Palace",
+      "publishDate": "2022-06-24T11:52:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/24/emma-hayes-receives-obe-at-buckingham-palace.html",
+      "readTimeInMins": 12,
+      "tags": [
+        {
+          "title": "Women",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_women"
+        }
+      ],
+      "date": "2022-06-24T11:52:00.000Z",
+      "description": "Chelsea Women manager Emma Hayes today received her OBE from Prince William, Duke of Cambridge for her services to football."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220624end-of-term-report--mason-mount-",
       "type": "NewsCard",
@@ -413,59 +456,6 @@
       "tags": [],
       "date": "2022-06-22T10:30:00.000Z",
       "description": "Supporters now have a unique opportunity to get up close and personal with all Chelsea’s silverware in the new We’ve Won It All Stadium Tour of Stamford Bridge."
-    },
-    {
-      "contentType": "Competitions",
-      "id": "_content_chelseafcennews20220621quiz--how-well-do-you-remember-c",
-      "type": "NewsCard",
-      "timestamp": "2022-06-21T14:20:00.000Z",
-      "orderDate": "2022-06-21T14:21:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/21/quiz--how-well-do-you-remember-chelsea-s-first-game-post-lockdow",
-        "type": "NewsCard",
-        "title": "Quiz: How well do you remember Chelsea’s first game post-lockdown?",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/21/quiz--how-well-do-you-remember-chelsea-s-first-game-post-lockdow.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-21T14:20:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/21/quiz--how-well-do-you-remember-chelsea-s-first-game-post-lockdow",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " ",
-          "id": "chelsea-app/Villa-away-lockdown-GettyImages-1251166872",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Quiz: How well do you remember Chelsea’s first game post-lockdown?",
-      "publishDate": "2022-06-21T14:20:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/21/quiz--how-well-do-you-remember-chelsea-s-first-game-post-lockdow.html",
-      "readTimeInMins": 4,
-      "tags": [
-        {
-          "title": "Premier League",
-          "namespace": "content-tag:",
-          "id": "content-tag_competition_first-team-competitions_premier-league"
-        },
-        {
-          "title": "Christian Pulisic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_christian-pulisic"
-        },
-        {
-          "title": "Olivier Giroud",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_olivier-giroud"
-        }
-      ],
-      "date": "2022-06-21T14:20:00.000Z",
-      "description": "Today marks two years since Chelsea returned to Premier League action following the temporary pause in 2020 following the Coronavirus pandemic."
     }
   ]
 }
