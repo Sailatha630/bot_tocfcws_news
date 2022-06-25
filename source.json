@@ -57,6 +57,48 @@
     },
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20220625playing-our-part-at-london-pride",
+      "type": "NewsCard",
+      "timestamp": "2022-06-25T08:00:00.000Z",
+      "orderDate": "2022-06-25T01:00:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/25/playing-our-part-at-london-pride-and-beyond",
+        "type": "NewsCard",
+        "title": "Playing our part at London Pride and beyond",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/25/playing-our-part-at-london-pride-and-beyond.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-25T08:00:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/06/25/playing-our-part-at-london-pride-and-beyond",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "editorial/women's-team/Chelsea-Pride-article",
+          "gravity": "auto",
+          "aspectRatio": 1.3333334,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Playing our part at London Pride and beyond",
+      "publishDate": "2022-06-25T08:00:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/25/playing-our-part-at-london-pride-and-beyond.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Chelsea Foundation",
+          "namespace": "content-tag:",
+          "id": "content-tag_custom_chelsea-foundation"
+        }
+      ],
+      "date": "2022-06-25T08:00:00.000Z",
+      "description": "Chelsea FC and the Chelsea Foundation recognise the collective responsibility to ensure we focus on issues of equality, diversity and inclusion in relation to gender, race, disability and our fourth pillar LGBTQI+."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20220624emma-hayes-receives-obe-at-bucki",
       "type": "NewsCard",
       "timestamp": "2022-06-24T11:52:00.000Z",
@@ -415,59 +457,6 @@
       ],
       "date": "2022-06-22T12:37:00.000Z",
       "description": "Academy goalkeeper Lucas Bergstrom will spend next season on loan at Peterborough United."
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220622season-ticket-finance-deadline-t",
-      "type": "NewsCard",
-      "timestamp": "2022-06-22T08:30:00.000Z",
-      "orderDate": "2022-06-21T23:22:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/22/season-ticket-finance-deadline-tomorrow",
-        "type": "NewsCard",
-        "title": "Season ticket finance deadline today (Thursday)",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/22/season-ticket-finance-deadline-tomorrow.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-22T08:30:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/22/season-ticket-finance-deadline-tomorrow",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Ticket office",
-          "id": "editorial/news/2019/12/ticket-office-stamford-bridge-view",
-          "gravity": "auto",
-          "aspectRatio": 1.500122,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Season ticket finance deadline today (Thursday)",
-      "publishDate": "2022-06-22T08:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/22/season-ticket-finance-deadline-tomorrow.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Tickets",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_tickets"
-        },
-        {
-          "title": "Ticket renewal",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-renewal"
-        },
-        {
-          "title": "Season Ticket",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_season-ticket"
-        }
-      ],
-      "date": "2022-06-22T08:30:00.000Z",
-      "description": "For those supporters wishing to pay for their season ticket in monthly instalments, a reminder the deadline to do so is 5pm on Thursday 23 June."
     }
   ]
 }
