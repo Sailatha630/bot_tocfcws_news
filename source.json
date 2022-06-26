@@ -9,6 +9,48 @@
   "newsFeed": [
     {
       "contentType": "News",
+      "id": "_content_chelseafcennews20220626mason-mount-visits-dodger-stadiu",
+      "type": "NewsCard",
+      "timestamp": "2022-06-26T16:44:00.000Z",
+      "orderDate": "2022-06-26T16:44:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/26/mason-mount-visits-dodger-stadium-",
+        "type": "NewsCard",
+        "title": "Mason Mount visits Dodger Stadium!",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/26/mason-mount-visits-dodger-stadium-.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-26T16:44:00.000Z"
+      },
+      "template": "standard-article",
+      "path": "/content/chelseafc/en/news/2022/06/26/mason-mount-visits-dodger-stadium-",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "id": "chelsea-app/Mount-LAD-20220623LAD011",
+          "gravity": "auto",
+          "aspectRatio": 1.5,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Mason Mount visits Dodger Stadium!",
+      "publishDate": "2022-06-26T16:44:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/26/mason-mount-visits-dodger-stadium-.html",
+      "readTimeInMins": 13,
+      "tags": [
+        {
+          "title": "Mason Mount",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_mason-mount"
+        }
+      ],
+      "date": "2022-06-26T16:44:00.000Z",
+      "description": "Mason Mount paid a visit to Dodger Stadium this week, as the Chelsea midfielder continued to enjoy his summer break."
+    },
+    {
+      "contentType": "News",
       "id": "_content_chelseafcennews20220626gallery--chelsea-players-enjoy-s",
       "type": "NewsCard",
       "timestamp": "2022-06-26T12:28:00.000Z",
@@ -421,48 +463,6 @@
       ],
       "date": "2022-06-23T23:55:00.000Z",
       "description": "Our player-by-player review of the 2021/22 season continues with our back-to-back Player of the Year Mason Mount..."
-    },
-    {
-      "contentType": "Stamford Bridge",
-      "id": "_content_chelseafcennews20220623gallery--missing-the-bridge-alre",
-      "type": "NewsCard",
-      "timestamp": "2022-06-23T00:44:00.000Z",
-      "orderDate": "2022-06-23T00:45:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/23/gallery--missing-the-bridge-already-",
-        "type": "NewsCard",
-        "title": "Gallery: Missing the Bridge already!",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/23/gallery--missing-the-bridge-already-.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-23T00:44:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/23/gallery--missing-the-bridge-already-",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/06/22/Stamford_Bridge_exterior_GettyImages-1362950727",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Gallery: Missing the Bridge already!",
-      "publishDate": "2022-06-23T00:44:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/23/gallery--missing-the-bridge-already-.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Stamford Bridge",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_stamford-bridge"
-        }
-      ],
-      "date": "2022-06-23T00:44:00.000Z",
-      "description": "It's been one month without football since the last match at Stamford Bridge and if you're anything like us you'll be itching for the next chance to watch a game in SW6."
     }
   ]
 }
