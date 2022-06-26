@@ -8,6 +8,59 @@
   },
   "newsFeed": [
     {
+      "contentType": "News",
+      "id": "_content_chelseafcennews20220626gallery--chelsea-players-enjoy-s",
+      "type": "NewsCard",
+      "timestamp": "2022-06-26T12:28:00.000Z",
+      "orderDate": "2022-06-26T12:28:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/26/gallery--chelsea-players-enjoy-summer-break",
+        "type": "NewsCard",
+        "title": "Gallery: Chelsea players enjoy summer break",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/26/gallery--chelsea-players-enjoy-summer-break.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-26T12:28:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/26/gallery--chelsea-players-enjoy-summer-break",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": "  ",
+          "id": "chelsea-app/Havertz-FWCSUgHWYAAwb8u",
+          "gravity": "face",
+          "aspectRatio": 0.7994543,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Gallery: Chelsea players enjoy summer break",
+      "publishDate": "2022-06-26T12:28:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/26/gallery--chelsea-players-enjoy-summer-break.html",
+      "readTimeInMins": 8,
+      "tags": [
+        {
+          "title": "Kai Havertz",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_kai-havertz"
+        },
+        {
+          "title": "Christian Pulisic",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_christian-pulisic"
+        },
+        {
+          "title": "Trevoh Chalobah",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_player_trevor-chalobah"
+        }
+      ],
+      "date": "2022-06-26T12:28:00.000Z",
+      "description": "With the return of pre-season training at Cobham fast approaching, the Chelsea players are enjoying the final parts of their summer break before the hard work resumes."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220626end-of-term-report--reece-james-",
       "type": "NewsCard",
@@ -410,49 +463,6 @@
       ],
       "date": "2022-06-23T00:44:00.000Z",
       "description": "It's been one month without football since the last match at Stamford Bridge and if you're anything like us you'll be itching for the next chance to watch a game in SW6."
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20220623academy-defender-loaned-to-leagu",
-      "type": "NewsCard",
-      "timestamp": "2022-06-23T15:41:00.000Z",
-      "orderDate": "2022-06-22T23:04:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/23/academy-defender-loaned-to-league-two-side",
-        "type": "NewsCard",
-        "title": "Academy defender loaned to League Two side",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/23/academy-defender-loaned-to-league-two-side.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-23T15:41:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/23/academy-defender-loaned-to-league-two-side",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Sam McClelland",
-          "id": "editorial/news/2022/06/23/McClelland_dev_squad",
-          "gravity": "auto",
-          "aspectRatio": 1.5026656,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Academy defender loaned to League Two side",
-      "publishDate": "2022-06-23T15:41:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/23/academy-defender-loaned-to-league-two-side.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Development squad",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_development-squad"
-        }
-      ],
-      "date": "2022-06-23T15:41:00.000Z",
-      "description": "Sam McClelland will play at Barrow this coming season, the first loan move of his Chelsea career."
     }
   ]
 }
