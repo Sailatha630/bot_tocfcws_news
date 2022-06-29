@@ -8,6 +8,54 @@
   },
   "newsFeed": [
     {
+      "contentType": "Chelsea Transfer News",
+      "id": "_content_chelseafcennews20220629lukaku-loan-confirmed",
+      "type": "NewsCard",
+      "timestamp": "2022-06-29T18:10:00.000Z",
+      "orderDate": "2022-06-29T18:10:00.000Z",
+      "link": {
+        "path": "/content/chelseafc/en/news/2022/06/29/lukaku-loan-confirmed",
+        "type": "NewsCard",
+        "title": "Lukaku loan confirmed",
+        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/lukaku-loan-confirmed.html",
+        "external": true,
+        "target": "sameWindow",
+        "categories": [],
+        "timestamp": "2022-06-29T18:10:00.000Z"
+      },
+      "template": "cope-article",
+      "path": "/content/chelseafc/en/news/2022/06/29/lukaku-loan-confirmed",
+      "media": {
+        "type": "image-component",
+        "image": {
+          "type": "ImageCloudinary",
+          "alt": " Romelu Lukaku playing for Chelsea",
+          "id": "editorial/news/2022/06/28/lukaku_luton",
+          "gravity": "face",
+          "aspectRatio": 1.4996908,
+          "cropMode": "fill"
+        }
+      },
+      "content": "Lukaku loan confirmed",
+      "publishDate": "2022-06-29T18:10:00.000Z",
+      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/lukaku-loan-confirmed.html",
+      "readTimeInMins": 5,
+      "tags": [
+        {
+          "title": "Romelu Lukaku",
+          "namespace": "content-tag:",
+          "id": "content-tag_person_former-players_romelu-lukaku"
+        },
+        {
+          "title": "Men",
+          "namespace": "content-tag:",
+          "id": "content-tag_team_men"
+        }
+      ],
+      "date": "2022-06-29T18:10:00.000Z",
+      "description": "Romelu Lukaku will spend the 2022/23 campaign with Inter Milan after completing a season-long loan move from Chelsea."
+    },
+    {
       "contentType": "Analysis",
       "id": "_content_chelseafcennews20220629end-of-term-report--chilwell-and",
       "type": "NewsCard",
@@ -428,49 +476,6 @@
       ],
       "date": "2022-06-27T13:21:00.000Z",
       "description": "Chelsea supporters heading to America this summer will have the opportunity to see Thomas Tuchel and his players up close and personal at two exclusive open training sessions being held during our time across the Pond."
-    },
-    {
-      "contentType": "Club Statements",
-      "id": "_content_chelseafcennews20220627petr-cech-to-leave-technical-and",
-      "type": "NewsCard",
-      "timestamp": "2022-06-27T08:00:00.000Z",
-      "orderDate": "2022-06-27T08:00:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/27/petr-cech-to-leave-technical-and-performance-advisor-role",
-        "type": "NewsCard",
-        "title": "Petr Cech to leave Technical and Performance Advisor role",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/27/petr-cech-to-leave-technical-and-performance-advisor-role.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-27T08:00:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/27/petr-cech-to-leave-technical-and-performance-advisor-role",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Club badge",
-          "id": "editorial/news/2021/01/25/transparent_club_badge_crest_logo_chelsea",
-          "gravity": "auto",
-          "aspectRatio": 1.9666667,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Petr Cech to leave Technical and Performance Advisor role",
-      "publishDate": "2022-06-27T08:00:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/27/petr-cech-to-leave-technical-and-performance-advisor-role.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Petr Cech",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_petr-cech"
-        }
-      ],
-      "date": "2022-06-27T08:00:00.000Z",
-      "description": "Chelsea Football Club today announces that Petr Cech, Technical and Performance Advisor, will leave his role effective 30 June."
     }
   ]
 }
