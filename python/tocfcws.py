@@ -11,7 +11,7 @@ import numpy as np
 root = pathlib.Path(__file__).parent.parent.resolve()
 
 with open( root / "source.json", 'r+') as filehandle:
-    news_data = json.load(filehandle)["newsFeed"]
+    news_data = json.load(filehandle)["items"]
     articles_list = outputs.get_articles(news_data)
 
 # output
