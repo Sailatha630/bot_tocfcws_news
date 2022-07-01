@@ -10,7 +10,7 @@ import article
 def get_articles(data):
     articles = list()
     for i in range(0,len(data)):
-        link = f'https://chelseafc.com/{data[i]["url"]}'
+        link = data[i]["url"]
         title = data[i]["title"]
         processed = parse(data[i]["date"])
         output_time = formatdate(int(processed.strftime('%s')))
@@ -38,7 +38,7 @@ def rss_output(path, articles_list):
                  <description>{article.title}</description>
                  <pubDate>{article.timestamp}</pubDate>
                  <guid isPermaLink="false">{article.id}</guid>
-                 <link>{article.url}</link>
+                 <link>https://chelseafc.com/{article.url}</link>
                 </item>
             ''').strip(), "  "), file=rssfile)
 
