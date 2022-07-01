@@ -10,7 +10,7 @@ import article
 def get_articles(data):
     articles = list()
     for i in range(0,len(data)):
-        link = f"https://chelseafc.com/{data[i]["url"]}"
+        link = f'https://chelseafc.com/{data[i]["url"]}'
         title = data[i]["title"]
         processed = parse(data[i]["date"])
         output_time = formatdate(int(processed.strftime('%s')))
