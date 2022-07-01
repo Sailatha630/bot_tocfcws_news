@@ -1,465 +1,57 @@
 {
-  "pagination": {
-    "totalItems": 1000,
-    "pageSize": 10,
-    "pageIndex": 0,
-    "pageCount": 100,
-    "startFrom": 0
-  },
-  "newsFeed": [
+  "items": [
     {
-      "contentType": "News",
-      "id": "_content_chelseafcennews20220630important-changes-to-the-officia",
-      "type": "NewsCard",
-      "timestamp": "2022-06-30T08:30:00.000Z",
-      "orderDate": "2022-06-30T08:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/30/important-changes-to-the-official-chelsea-website-from-today",
-        "type": "NewsCard",
-        "title": "Important changes to the official Chelsea website from today",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/30/important-changes-to-the-official-chelsea-website-from-today.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-30T08:30:00.000Z"
+      "id": "Bh1YLA8o4zqaAmSuebK2B",
+      "title": "\"I kept begging my Dad to change my name to Ronaldo!\" | Harvey Vale | Exclusive Interview",
+      "type": "Video",
+      "category": {
+        "id": "8ca1237b-6e8f-4d89-87ea-869f99eec686",
+        "title": "Interviews",
+        "url": "/en/news/type/interviews",
+        "isExternal": false
       },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/30/important-changes-to-the-official-chelsea-website-from-today",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "New website home page",
-          "id": "editorial/news/2022/06/29/new_website_home_page",
-          "gravity": "auto",
-          "aspectRatio": 1.7777778,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Important changes to the official Chelsea website from today",
-      "publishDate": "2022-06-30T08:30:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/30/important-changes-to-the-official-chelsea-website-from-today.html",
-      "readTimeInMins": 6,
-      "tags": [],
-      "date": "2022-06-30T08:30:00.000Z",
-      "description": "What’s new on Chelseafc.com?"
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220630end-of-term-report--marcos-alons",
-      "type": "NewsCard",
-      "timestamp": "2022-06-30T08:48:00.000Z",
-      "orderDate": "2022-06-30T06:48:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/30/end-of-term-report--marcos-alonso-s-2021-22",
-        "type": "NewsCard",
-        "title": "End of term report: Marcos Alonso’s 2021/22",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/30/end-of-term-report--marcos-alonso-s-2021-22.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-30T08:48:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/30/end-of-term-report--marcos-alonso-s-2021-22",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Marcos Alonso",
-          "id": "editorial/news/2022/06/13/alonso-stock-celebration",
-          "gravity": "auto",
-          "aspectRatio": 1.5002143,
-          "cropMode": "fill"
-        }
-      },
-      "content": "End of term report: Marcos Alonso’s 2021/22",
-      "publishDate": "2022-06-30T08:48:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/30/end-of-term-report--marcos-alonso-s-2021-22.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
+      "date": "2022-07-01T15:20:00.0000000+00:00",
+      "url": "/en/video/i-kept-begging-my-dad-to-change-my-name-to-ronaldo-harvey-vale-exclusive-i%E2%80%A6",
+      "link": null,
+      "thumbnail": {
+        "id": "video/2022/07/01/Harvey_Vale_Exclusive_Interviews_Academy_2021-22_16x9",
+        "title": "video/2022/07/01/Harvey_Vale_Exclusive_Interviews_Academy_2021-22_16x9",
+        "description": "",
+        "credit": "",
+        "file": {
+          "fileName": "video/2022/07/01/Harvey_Vale_Exclusive_Interviews_Academy_2021-22_16x9",
+          "contentType": "image",
+          "type": "upload",
+          "format": "jpg",
+          "url": "http://img.chelseafc.com/image/upload/v1656687886/video/2022/07/01/Harvey_Vale_Exclusive_Interviews_Academy_2021-22_16x9.jpg",
+          "urlObject": {
+            "baseUrl": "https://res.cloudinary.com/",
+            "cloudName": "chelsea-production",
+            "resourceType": "image",
+            "type": "upload",
+            "publicId": "video/2022/07/01/Harvey_Vale_Exclusive_Interviews_Academy_2021-22_16x9"
+          },
+          "details": {
+            "size": 120139,
+            "transformations": "",
+            "image": {
+              "width": 1280,
+              "height": 720
+            }
+          }
         },
-        {
-          "title": "Marcos Alonso",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_marcos-alonso"
-        }
-      ],
-      "date": "2022-06-30T08:48:00.000Z",
-      "description": "Marcos Alonso is the next member of the Chelsea squad to go under the microscope in our series reviewing each player’s 2021/22 campaign…"
-    },
-    {
-      "contentType": "Chelsea Transfer News",
-      "id": "_content_chelseafcennews20220629lukaku-loan-confirmed",
-      "type": "NewsCard",
-      "timestamp": "2022-06-29T18:10:00.000Z",
-      "orderDate": "2022-06-29T18:10:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/29/lukaku-loan-confirmed",
-        "type": "NewsCard",
-        "title": "Lukaku loan confirmed",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/lukaku-loan-confirmed.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-29T18:10:00.000Z"
+        "coordinates": []
       },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/29/lukaku-loan-confirmed",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Romelu Lukaku playing for Chelsea",
-          "id": "editorial/news/2022/06/28/lukaku_luton",
-          "gravity": "face",
-          "aspectRatio": 1.4996908,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Lukaku loan confirmed",
-      "publishDate": "2022-06-29T18:10:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/lukaku-loan-confirmed.html",
-      "readTimeInMins": 5,
-      "tags": [
-        {
-          "title": "Romelu Lukaku",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_former-players_romelu-lukaku"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-06-29T18:10:00.000Z",
-      "description": "Romelu Lukaku will spend the 2022/23 campaign with Inter Milan after completing a season-long loan move from Chelsea."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220629end-of-term-report--chilwell-and",
-      "type": "NewsCard",
-      "timestamp": "2022-06-29T14:58:00.000Z",
-      "orderDate": "2022-06-29T14:58:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/29/end-of-term-report--chilwell-and-kenedy-s-2021-22",
-        "type": "NewsCard",
-        "title": "End of term report: Chilwell and Kenedy’s 2021/22",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/end-of-term-report--chilwell-and-kenedy-s-2021-22.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-29T14:58:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/29/end-of-term-report--chilwell-and-kenedy-s-2021-22",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/Chilwell-GettyImages-1348223688",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "End of term report: Chilwell and Kenedy’s 2021/22",
-      "publishDate": "2022-06-29T14:58:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/end-of-term-report--chilwell-and-kenedy-s-2021-22.html",
-      "readTimeInMins": 16,
-      "tags": [
-        {
-          "title": "Ben Chilwell",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_ben-chilwell"
-        },
-        {
-          "title": "Kenedy",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_kenedy"
-        }
-      ],
-      "date": "2022-06-29T14:58:00.000Z",
-      "description": "Two left-sided full-backs take centre stage in our next player season reviews…"
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220629end-of-term-report--jorginho-s-2",
-      "type": "NewsCard",
-      "timestamp": "2022-06-29T05:19:00.000Z",
-      "orderDate": "2022-06-29T05:19:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/29/end-of-term-report--jorginho-s-2021-22",
-        "type": "NewsCard",
-        "title": "End of term report: Jorginho’s 2021/22",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/end-of-term-report--jorginho-s-2021-22.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-29T05:19:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/29/end-of-term-report--jorginho-s-2021-22",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/02/26/Jorginho-stock-Crystal-Palace-2",
-          "gravity": "auto",
-          "aspectRatio": 1.4830221,
-          "cropMode": "fill"
-        }
-      },
-      "content": "End of term report: Jorginho’s 2021/22",
-      "publishDate": "2022-06-29T05:19:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/end-of-term-report--jorginho-s-2021-22.html",
-      "readTimeInMins": 20,
-      "tags": [
-        {
-          "title": "Jorginho",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_Jorginho"
-        },
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        }
-      ],
-      "date": "2022-06-29T05:19:00.000Z",
-      "description": "Vice-captain Jorginho is next up in our player-by-player season reviews, and it was another strong campaign from the Italian who took his form with the Azzurri from last summer’s European Championship success into his club season with the Blues…"
-    },
-    {
-      "contentType": "Tickets",
-      "id": "_content_chelseafcennews20220629season-ticket-and-away-scheme-re",
-      "type": "NewsCard",
-      "timestamp": "2022-06-30T08:12:00.000Z",
-      "orderDate": "2022-06-28T23:30:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/29/season-ticket-and-away-scheme-renewal-deadline-on-thursday",
-        "type": "NewsCard",
-        "title": "Season ticket and away scheme renewal deadline on Thursday",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/season-ticket-and-away-scheme-renewal-deadline-on-thursday.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-30T08:12:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/29/season-ticket-and-away-scheme-renewal-deadline-on-thursday",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": "Chelsea support",
-          "id": "editorial/news/2022/02/1/GettyImages-1356032023",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Season ticket and away scheme renewal deadline on Thursday",
-      "publishDate": "2022-06-30T08:12:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/season-ticket-and-away-scheme-renewal-deadline-on-thursday.html",
-      "readTimeInMins": 3,
-      "tags": [
-        {
-          "title": "Ticket renewal",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-renewal"
-        },
-        {
-          "title": "Ticket News",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_ticket-news"
-        },
-        {
-          "title": "Season Ticket",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_season-ticket"
-        }
-      ],
-      "date": "2022-06-30T08:12:00.000Z",
-      "description": "Season ticket holders and members of the UK and UEFA Away Schemes are reminded the deadline for renewing is at 5pm today (Thursday 30 June)."
-    },
-    {
-      "contentType": "Chelsea Foundation",
-      "id": "_content_chelseafcennews20220629a-day-in-the-life-of-brian-matov",
-      "type": "NewsCard",
-      "timestamp": "2022-06-29T15:27:00.000Z",
-      "orderDate": "2022-06-28T23:27:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/29/a-day-in-the-life-of-brian-matovu-and-um-e-aymen-babar--recipien",
-        "type": "NewsCard",
-        "title": "A Day in the Life of Brian Matovu and Um-E-Aymen Babar, recipients of the Chelsea x BCOMS inaugural journalism bursary programme",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/a-day-in-the-life-of-brian-matovu-and-um-e-aymen-babar--recipien.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-29T15:27:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/29/a-day-in-the-life-of-brian-matovu-and-um-e-aymen-babar--recipien",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/women's-team/BCOMS_2",
-          "gravity": "auto",
-          "aspectRatio": 1.3333334,
-          "cropMode": "fill"
-        }
-      },
-      "content": "A Day in the Life of Brian Matovu and Um-E-Aymen Babar, recipients of the Chelsea x BCOMS inaugural journalism bursary programme",
-      "publishDate": "2022-06-29T15:27:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/29/a-day-in-the-life-of-brian-matovu-and-um-e-aymen-babar--recipien.html",
-      "readTimeInMins": 6,
-      "tags": [
-        {
-          "title": "Chelsea Foundation",
-          "namespace": "content-tag:",
-          "id": "content-tag_custom_chelsea-foundation"
-        }
-      ],
-      "date": "2022-06-29T15:27:00.000Z",
-      "description": "In October 2021, Chelsea FC Foundation teamed up with the Black Collective of Media in Sport (BCOMS), an organisation on a mission to diversify sports media in the UK, launching a joint programme to offer aspiring sports journalists from under-represented backgrounds free access to journalistic qualifications. Hear from our first two members here..."
-    },
-    {
-      "contentType": "International",
-      "id": "_content_chelseafcennews20220628vale-and-england-into-u19-euros-",
-      "type": "NewsCard",
-      "timestamp": "2022-06-28T17:27:00.000Z",
-      "orderDate": "2022-06-28T17:27:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/28/vale-and-england-into-u19-euros-final",
-        "type": "NewsCard",
-        "title": "Vale and England into U19 Euros final",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/28/vale-and-england-into-u19-euros-final.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-28T17:27:00.000Z"
-      },
-      "template": "cope-article",
-      "path": "/content/chelseafc/en/news/2022/06/28/vale-and-england-into-u19-euros-final",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "alt": " Harvey Vale celebrating",
-          "id": "editorial/news/2022/06/28/Vale_England_v_Italy-European-Under-19-Championship",
-          "gravity": "auto",
-          "aspectRatio": 1.6109005,
-          "cropMode": "fill"
-        }
-      },
-      "content": "Vale and England into U19 Euros final",
-      "publishDate": "2022-06-28T17:27:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/28/vale-and-england-into-u19-euros-final.html",
-      "readTimeInMins": 9,
-      "tags": [
-        {
-          "title": "Harvey Vale",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_harvey-vale"
-        }
-      ],
-      "date": "2022-06-28T17:27:00.000Z",
-      "description": "Harvey Vale had a major hand in a victory against Italy on Tuesday afternoon which takes the Young Lions into the final of the UEFA European Under-19 Championships."
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220628end-of-term-report--antonio-rudi",
-      "type": "NewsCard",
-      "timestamp": "2022-06-28T16:05:00.000Z",
-      "orderDate": "2022-06-28T16:05:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/28/end-of-term-report--antonio-rudiger-s-2021-22",
-        "type": "NewsCard",
-        "title": "End of term report: Antonio Rudiger’s 2021/22",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/28/end-of-term-report--antonio-rudiger-s-2021-22.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-28T16:05:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/28/end-of-term-report--antonio-rudiger-s-2021-22",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "chelsea-app/rudiger-Lap-of-appreication-square-7414",
-          "gravity": "auto",
-          "aspectRatio": 1,
-          "cropMode": "fill"
-        }
-      },
-      "content": "End of term report: Antonio Rudiger’s 2021/22",
-      "publishDate": "2022-06-28T16:05:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/28/end-of-term-report--antonio-rudiger-s-2021-22.html",
-      "readTimeInMins": 19,
-      "tags": [
-        {
-          "title": "Men",
-          "namespace": "content-tag:",
-          "id": "content-tag_team_men"
-        },
-        {
-          "title": "Antonio Rudiger",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_antonio-rudiger"
-        }
-      ],
-      "date": "2022-06-28T16:05:00.000Z",
-      "description": "We turn our attentions to departed defender Antonio Rudiger next in our player season review series…"
-    },
-    {
-      "contentType": "Analysis",
-      "id": "_content_chelseafcennews20220628end-of-term-report--mateo-kovaci",
-      "type": "NewsCard",
-      "timestamp": "2022-06-28T06:15:00.000Z",
-      "orderDate": "2022-06-28T06:15:00.000Z",
-      "link": {
-        "path": "/content/chelseafc/en/news/2022/06/28/end-of-term-report--mateo-kovacic-s-2021-22",
-        "type": "NewsCard",
-        "title": "End of term report: Mateo Kovacic’s 2021/22",
-        "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/28/end-of-term-report--mateo-kovacic-s-2021-22.html",
-        "external": true,
-        "target": "sameWindow",
-        "categories": [],
-        "timestamp": "2022-06-28T06:15:00.000Z"
-      },
-      "template": "standard-article",
-      "path": "/content/chelseafc/en/news/2022/06/28/end-of-term-report--mateo-kovacic-s-2021-22",
-      "media": {
-        "type": "image-component",
-        "image": {
-          "type": "ImageCloudinary",
-          "id": "editorial/news/2022/02/1/Kovacic_GettyImages-1362390067",
-          "gravity": "auto",
-          "aspectRatio": 1.5,
-          "cropMode": "fill"
-        }
-      },
-      "content": "End of term report: Mateo Kovacic’s 2021/22",
-      "publishDate": "2022-06-28T06:15:00.000Z",
-      "url": "https://prod-content-cdn.chelseafc.com/content/chelseafc/en/news/2022/06/28/end-of-term-report--mateo-kovacic-s-2021-22.html",
-      "readTimeInMins": 23,
-      "tags": [
-        {
-          "title": "Mateo Kovacic",
-          "namespace": "content-tag:",
-          "id": "content-tag_person_player_mateo-kovacic"
-        }
-      ],
-      "date": "2022-06-28T06:15:00.000Z",
-      "description": "As we come towards the end of our 2021/22 season reports of Chelsea players, Mateo Kovacic is next in line in the spotlight..."
+      "videoId": "h1zVQxDH",
+      "articleType": null,
+      "matchId": null,
+      "isBoxSet": false
     }
-  ]
+  ],
+  "pagination": {
+    "totalItems": 13527,
+    "itemsPerPage": 1,
+    "currentPage": 1,
+    "pageItemsCount": 1
+  }
 }
