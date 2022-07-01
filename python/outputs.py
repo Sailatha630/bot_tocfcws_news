@@ -2,6 +2,7 @@ import csv
 import json
 from textwrap import dedent, indent
 import datetime
+from dateutil.parser import parse
 from email.utils import formatdate
 import hashlib
 import article
@@ -11,8 +12,7 @@ def get_articles(data):
     for i in range(0,len(data)):
         link = data[i]["url"]
         title = data[i]["title"]
-        time = data[i]["date"]
-        processed = datetime.datetime.strptime(time, "%Y-%m-%dT%H:%M:%S.%ffffffZ")
+        processed = parse(data[i]["date"])
         output_time = formatdate(int(processed.strftime('%s')))
         id = hashlib.md5(f"{title}-{link}".encode('utf-8')).hexdigest()
         articles.append(article.article(id, title, link, output_time))
