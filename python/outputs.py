@@ -12,7 +12,7 @@ def get_articles(data):
         link = data[i]["url"]
         title = data[i]["title"]
         time = data[i]["date"]
-        processed = datetime.datetime.strptime(time, "%Y-%m-%dT%H:%M:%S.%fZ")
+        processed = datetime.datetime.strptime(time, "%Y-%m-%dT%H:%M:%S.%fffffffZ")
         output_time = formatdate(int(processed.strftime('%s')))
         id = hashlib.md5(f"{title}-{link}".encode('utf-8')).hexdigest()
         articles.append(article.article(id, title, link, output_time))
