@@ -9,9 +9,9 @@ import article
 def get_articles(data):
     articles = list()
     for i in range(0,len(data)):
-        link = data[i]["link"]["url"]
-        title = data[i]["link"]["title"]
-        time = data[i]["publishDate"]
+        link = data[i]["url"]
+        title = data[i]["title"]
+        time = data[i]["date"]
         processed = datetime.datetime.strptime(time, "%Y-%m-%dT%H:%M:%S.%fZ")
         output_time = formatdate(int(processed.strftime('%s')))
         id = hashlib.md5(f"{title}-{link}".encode('utf-8')).hexdigest()
