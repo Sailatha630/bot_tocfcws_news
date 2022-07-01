@@ -3,7 +3,7 @@ from requests import get
 import json
 import pathlib
 import os
-endpoint = "https://prod-content-cdn.chelseafc.com/content/chelseafc/en.newsfeed.v3.0.10.2022.0.all.web.none.order_date_desc.json"
+endpoint = "https://www.chelseafc.com/en/api/news/listing?pageIndex=1&pageSize=1"
 
 def get_news_data(endpoint):
     response = get(endpoint, timeout=20)
