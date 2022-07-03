@@ -14,7 +14,7 @@ jobs:
         fetch-depth: 0
     - name: Download Feed
       run: |-
-        curl "https://www.chelseafc.com/en/api/news/listing?pageIndex=1&pageSize=10" | jq . > source.json
+        curl "https://www.chelseafc.com/en/api/news/listing?type=Article&pageIndex=1&pageSize=12" | jq . > source.json
     - name: Commit and push changes
       run: |-
         git diff
