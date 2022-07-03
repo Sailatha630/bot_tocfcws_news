@@ -38,7 +38,7 @@ def rss_output(path, articles_list):
                  <description>{article.title}</description>
                  <pubDate>{article.timestamp}</pubDate>
                  <guid isPermaLink="false">{article.id}</guid>
-                 <link>https://chelseafc.com{article.url}</link>
+                 <link>{article.url}</link>
                 </item>
             ''').strip(), "  "), file=rssfile)
 
