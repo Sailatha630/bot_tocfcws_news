@@ -3,9 +3,7 @@ class article:
         self.id = id
         self.title = title
         self.url = (
-            url.replace("prod-content-cdn", "www")
-            .replace("content/chelseafc/", "")
-            .replace(".html", "")
+            url.replace("en", "https://chelseafc.com/en")
         )
         self.timestamp = timestamp
 
