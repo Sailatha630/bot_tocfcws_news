@@ -24,17 +24,7 @@ jobs:
           git config user.email "action@github.com"
           git diff --quiet || (git add -A && git commit -m "Updated `date +'%Y-%m-%d %H:%M:%S'`")
           git push
-        
-  build:
-    needs: fetch
-    runs-on: ubuntu-latest
-    steps:
-    
-    - name: Check out repo
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-        
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
