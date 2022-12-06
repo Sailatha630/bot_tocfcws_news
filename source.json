@@ -1,11 +1,60 @@
 {
   "items": [
     {
+      "id": "1FFVpC1vXSVObcleJT46Ff",
+      "title": "'Reece is back lads!'",
+      "type": "Video",
+      "category": {
+        "id": "b799ce3e-bc9c-48e7-b377-aebdeb87b9ef",
+        "title": "Video",
+        "url": "/en/news/category/video",
+        "isExternal": false,
+        "isActive": false
+      },
+      "date": "2022-12-06T09:30:00.0000000+00:00",
+      "url": "/en/video/reece-is-back-lads",
+      "link": null,
+      "thumbnail": {
+        "id": "video/2022/12/06/Screenshot_2022-12-06_at_09.47.04",
+        "title": "video/2022/12/06/Screenshot_2022-12-06_at_09.47.04",
+        "description": "",
+        "credit": "",
+        "file": {
+          "fileName": "video/2022/12/06/Screenshot_2022-12-06_at_09.47.04",
+          "contentType": "image",
+          "type": "upload",
+          "format": "png",
+          "url": "http://img.chelseafc.com/image/upload/v1670320046/video/2022/12/06/Screenshot_2022-12-06_at_09.47.04.png",
+          "urlObject": {
+            "baseUrl": "https://res.cloudinary.com/",
+            "cloudName": "chelsea-production",
+            "resourceType": "image",
+            "type": "upload",
+            "publicId": "video/2022/12/06/Screenshot_2022-12-06_at_09.47.04"
+          },
+          "details": {
+            "size": 1998622,
+            "transformations": "",
+            "image": {
+              "width": 2394,
+              "height": 1550
+            }
+          }
+        },
+        "coordinates": []
+      },
+      "videoId": "lmb5aimv",
+      "articleType": null,
+      "matchId": null,
+      "isBoxSet": false,
+      "newsType": null
+    },
+    {
       "id": "5BwPJoYzil1827FWXVx4GP",
       "title": "Azpilicueta on Spanish excitement and commitment to Chelsea",
       "type": "Article",
       "category": {
-        "id": "4ecc7e93-412b-43fc-bb39-8626b219726b",
+        "id": "332d1130-bed0-46ec-b295-97a75fa6f91a",
         "title": "Internationals",
         "url": "/en/news/category/internationals",
         "isExternal": false,
@@ -15,28 +64,28 @@
       "url": "/en/news/article/azpilicueta-on-spanish-excitement-and-commitment-to-chelsea",
       "link": null,
       "thumbnail": {
-        "id": "editorial/news/2022/12/05/azpilicueta-spain-training",
-        "title": "editorial/news/2022/12/05/azpilicueta-spain-training",
+        "id": "editorial/news/2022/12/06/azpilicueta-spain-training-crop",
+        "title": "editorial/news/2022/12/06/azpilicueta-spain-training-crop",
         "description": "",
         "credit": "",
         "file": {
-          "fileName": "editorial/news/2022/12/05/azpilicueta-spain-training",
+          "fileName": "editorial/news/2022/12/06/azpilicueta-spain-training-crop",
           "contentType": "image",
           "type": "upload",
           "format": "jpg",
-          "url": "http://img.chelseafc.com/image/upload/v1670257981/editorial/news/2022/12/05/azpilicueta-spain-training.jpg",
+          "url": "http://img.chelseafc.com/image/upload/v1670320695/editorial/news/2022/12/06/azpilicueta-spain-training-crop.jpg",
           "urlObject": {
             "baseUrl": "https://res.cloudinary.com/",
             "cloudName": "chelsea-production",
             "resourceType": "image",
             "type": "upload",
-            "publicId": "editorial/news/2022/12/05/azpilicueta-spain-training"
+            "publicId": "editorial/news/2022/12/06/azpilicueta-spain-training-crop"
           },
           "details": {
-            "size": 1047841,
+            "size": 566603,
             "transformations": "",
             "image": {
-              "width": 3000,
+              "width": 1949,
               "height": 2000
             }
           }
@@ -54,7 +103,7 @@
       "title": "The Chelsea Advent Calendar Quiz - Day 6",
       "type": "Article",
       "category": {
-        "id": "eee27545-93c2-4fe8-abb8-4302b0e1e8c1",
+        "id": "83098662-395b-4b4d-9ce1-4290e85e025b",
         "title": "Men's Team",
         "url": "/en/news/category/mens-team",
         "isExternal": false,
@@ -103,7 +152,7 @@
       "title": "World Cup: Brilliant Thiago Silva assist in thumping Brazil win",
       "type": "Article",
       "category": {
-        "id": "020ffdea-39f0-4385-abda-2706071fbdb2",
+        "id": "afeef107-6149-4561-87aa-3535afa8851b",
         "title": "Internationals",
         "url": "/en/news/category/internationals",
         "isExternal": false,
@@ -152,7 +201,7 @@
       "title": "Chelsea score EIGHT against Leicester! | Unseen Extra | Presented by trivago",
       "type": "Video",
       "category": {
-        "id": "f226dd57-ef2c-47d8-b0bd-018ff5300fa6",
+        "id": "5bb83a90-0740-40fb-91fc-7e879d833a1a",
         "title": "Video",
         "url": "/en/news/category/video",
         "isExternal": false,
@@ -201,7 +250,7 @@
       "title": "World Cup: Kovacic and Croatia require penalties to reach last-eight",
       "type": "Article",
       "category": {
-        "id": "fda52c51-21b3-4cbc-bdf9-ce180fb45bf3",
+        "id": "62540ee4-a4db-47c5-b643-08ca49fc264a",
         "title": "Internationals",
         "url": "/en/news/category/internationals",
         "isExternal": false,
@@ -250,7 +299,7 @@
       "title": "Reece returns as Blues arrive and get to work in Abu Dhabi",
       "type": "Article",
       "category": {
-        "id": "f2e43515-8913-438b-b5b2-f1410fe913b4",
+        "id": "32f62247-6ccb-4d91-9ade-910b9e31be85",
         "title": "Men's Team",
         "url": "/en/news/category/mens-team",
         "isExternal": false,
@@ -299,7 +348,7 @@
       "title": "Thiago Silva on South Korea threat and Neymar availability",
       "type": "Article",
       "category": {
-        "id": "7778b970-5122-4e58-9e25-d8502270fd76",
+        "id": "0dca8a81-429f-49c4-9829-b6533908a166",
         "title": "Internationals",
         "url": "/en/news/category/internationals",
         "isExternal": false,
@@ -348,7 +397,7 @@
       "title": "February Premier League fixture news",
       "type": "Article",
       "category": {
-        "id": "23528b97-d581-4af2-850c-5a54d7b04771",
+        "id": "fd550469-5ffb-44fa-b691-72587b061f60",
         "title": "Men's Team",
         "url": "/en/news/category/mens-team",
         "isExternal": false,
@@ -397,7 +446,7 @@
       "title": "Destination: Abu Dhabi",
       "type": "Video",
       "category": {
-        "id": "d48fa688-cc6d-45ce-bb9f-1428599f3633",
+        "id": "a98b096a-91c9-4016-9d00-4e2634d6af4f",
         "title": "Video",
         "url": "/en/news/category/video",
         "isExternal": false,
@@ -446,7 +495,7 @@
       "title": "Chelsea’s travelling squad to Abu Dhabi ",
       "type": "Article",
       "category": {
-        "id": "2f42e125-5d7e-4625-8cc8-d3290c846ba1",
+        "id": "5f853f84-1be9-4212-8ae6-c76163b9333a",
         "title": "Men's Team",
         "url": "/en/news/category/mens-team",
         "isExternal": false,
@@ -495,7 +544,7 @@
       "title": "College basketball stars visit Stamford Bridge",
       "type": "Article",
       "category": {
-        "id": "60f0bde0-d3dc-4f97-89a4-a3c1414fa7a3",
+        "id": "8a548115-ad2b-44da-8736-073141727e66",
         "title": "Club",
         "url": "/en/news/category/club",
         "isExternal": false,
@@ -538,59 +587,10 @@
       "matchId": null,
       "isBoxSet": false,
       "newsType": null
-    },
-    {
-      "id": "4BOfEvpdLY5oag1cTrbP0s",
-      "title": "Charles on clinical edge, defensive strength and building momentum",
-      "type": "Article",
-      "category": {
-        "id": "153919eb-cc6b-448c-9883-7e6e98af2bd4",
-        "title": "Women's Team",
-        "url": "/en/news/category/womens-team",
-        "isExternal": false,
-        "isActive": false
-      },
-      "date": "2022-12-05T07:00:00.0000000+00:00",
-      "url": "/en/news/article/charles-on-clinical-edge-defensive-strength-and-building-momentum",
-      "link": null,
-      "thumbnail": {
-        "id": "editorial/women's-team/Niamh_Charles_Leicester_Dec_2022",
-        "title": "editorial/women's-team/Niamh_Charles_Leicester_Dec_2022",
-        "description": "",
-        "credit": "",
-        "file": {
-          "fileName": "editorial/women's-team/Niamh_Charles_Leicester_Dec_2022",
-          "contentType": "image",
-          "type": "upload",
-          "format": "jpg",
-          "url": "http://img.chelseafc.com/image/upload/v1670109714/editorial/women%27s-team/Niamh_Charles_Leicester_Dec_2022.jpg",
-          "urlObject": {
-            "baseUrl": "https://res.cloudinary.com/",
-            "cloudName": "chelsea-production",
-            "resourceType": "image",
-            "type": "upload",
-            "publicId": "editorial/women's-team/Niamh_Charles_Leicester_Dec_2022"
-          },
-          "details": {
-            "size": 695324,
-            "transformations": "",
-            "image": {
-              "width": 4140,
-              "height": 2756
-            }
-          }
-        },
-        "coordinates": []
-      },
-      "videoId": null,
-      "articleType": null,
-      "matchId": "4qGEf9sxVYnFgfRkjFfRPb",
-      "isBoxSet": false,
-      "newsType": null
     }
   ],
   "pagination": {
-    "totalItems": 15632,
+    "totalItems": 15633,
     "itemsPerPage": 12,
     "currentPage": 1,
     "pageItemsCount": 12
