@@ -444,7 +444,6 @@
 </item>
 </channel>
 </rss>
-
 for (SyndEntry entry : entries) {
     System.out.println("Headline: " + entry.getTitle());
     System.out.println("Summary: " + entry.getDescription().getValue());
@@ -453,5 +452,7 @@ for (SyndEntry entry : entries) {
     System.out.println("Code Link: " + entry.getUri()); // Add this line to display the code link
     System.out.println();
 }
+
+
 
 
