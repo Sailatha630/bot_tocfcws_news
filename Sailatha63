@@ -450,8 +450,10 @@ for (SyndEntry entry : entries) {
     System.out.println("Summary: " + entry.getDescription().getValue());
     System.out.println("Date: " + entry.getPublishedDate());
     System.out.println("Link: " + entry.getLink());
-    System.out.println("Code Link: " + entry.getUri()); // Add this line to display the code link
+    System.out.println("Code Link: " + entry.getUrl()); 
     System.out.println();
-}
+    }
+    
+
 
 
